@@ -1,0 +1,91 @@
+{
+  "title": "Sweet Medleys Fish Medley",
+  "description": "A sweet and creamy mediterranean dish featuring fish seasoned with herbs and spices, served as a light dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "6 oz tilapia fillets",
+      "amount": "2",
+      "notes": "fresh or canned, drained"
+    },
+    {
+      "name": "1 can diced tomatoes",
+      "amount": "",
+      "notes": "canned crushed tomatoes work well too"
+    },
+    {
+      "name": "1/4 cup creamy coconut milk",
+      "amount": "1",
+      "notes": "full-fat for best flavor and texture"
+    },
+    {
+      "name": "2 tbsp tomato paste",
+      "amount": "1",
+      "notes": "adjust to taste, can be omitted if preferred"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": "optional, adds a nice earthy note"
+    },
+    {
+      "name": "1/4 tsp smoked paprika",
+      "amount": "",
+      "notes": "optional, for added depth of flavor"
+    },
+    {
+      "name": "1 tbsp chopped fresh dill",
+      "amount": "1",
+      "notes": "fresh is best but finely dried can be used if necessary"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Rinse tilapia fillets under cold water.",
+    "In a medium saucepan, combine tomatoes, coconut milk, tomato paste, cumin, smoked paprika, if using. Stir well and bring to a simmer over medium heat.",
+    "Add salt and pepper to taste and mix well until the liquid begins to thicken slightly (about 10 minutes).",
+    "Carefully add tilapia fillets into the saucepan, ensuring they are fully coated with the marinade on all sides. Place in an oven-safe dish or directly onto a baking sheet.",
+    "Bake for about 15-20 minutes or until the fish is opaque and flakes easily with a fork.",
+    "Garnish with fresh dill before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "creamy",
+    "fish",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 358,
+    "protein": 17,
+    "carbs": 29,
+    "fat": 16
+  },
+  "slug": "sweet-medleys-fish-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-medleys-fish-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:38:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "fish seasoning",
+    "diet": "mediterranean",
+    "region": null
+  }
+}

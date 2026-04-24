@@ -1,9 +1,15 @@
-{
-  "version": 1,
-  "shard": "s",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 's''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-s@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "sweet-medleys-fish-medley",
+    "title": "Sweet Medleys Fish Medley",
+    "tags": [
+      "sweet",
+      "creamy",
+      "fish",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "s"
+  }
+]
