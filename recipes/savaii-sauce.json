@@ -1,0 +1,76 @@
+{
+  "title": "Savaii Sauce",
+  "description": "A tangy, gooey Ethiopian dish featuring sevaiiya that's perfect for sick days and is raw-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sevaiya (raw), soaked and drained",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Raw honey or agave nectar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine soaked and drained sevaiya with minced garlic.",
+    "Add lemon juice, honey, salt, and red pepper flakes to the mixture. Stir well until all ingredients are evenly distributed.",
+    "Gently fold in chopped cilantro leaves.",
+    "Taste test and adjust seasonings if necessary."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "savaii-sauce",
+    "tangy-ethiopian-dish",
+    "sevaiya"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 2
+  },
+  "slug": "savaii-sauce",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savaii-sauce",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:41:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "sevaiiya",
+    "diet": "raw",
+    "region": null
+  }
+}
