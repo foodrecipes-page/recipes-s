@@ -1,0 +1,84 @@
+{
+  "title": "SmokeJoy Miso Pudding with Pickled Ginger",
+  "description": "A meal-prep dutch dish featuring a unique blend of smoke, miso, and pickled ginger in meringue nests for a delightful plant-based dessert.",
+  "cuisine": "Dutch",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Miso",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1/4 cup thinly sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey or maple syrup",
+      "amount": "2-3 tbsp"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F). Line a baking sheet with parchment paper.",
+    "In a saucepan, heat the miso and coconut milk until simmering. Stir in vanilla extract, soy sauce, honey/maple syrup, and almond flour; continue stirring for about 3 minutes or until mixture thickens slightly.",
+    "Fold pickled ginger into the pudding mixture gently.",
+    "Transfer the mixture to a piping bag fitted with a star tip. Pipe meringue nests onto prepared baking sheet.",
+    "Bake for about 15-20 minutes or until nests are golden brown and set. Remove from oven, let cool slightly before serving.",
+    "Optional: Top each nest with some of the preserved ginger mixture to serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "juicy",
+    "dutch",
+    "meal-prep",
+    "dessert",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 386,
+    "protein": 10,
+    "carbs": 42,
+    "fat": 15
+  },
+  "slug": "smokejoy-miso-pudding-with-pickled-ginger",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smokejoy-miso-pudding-with-pickled-ginger",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:28:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "meringue nests",
+    "diet": "plant-based",
+    "region": null
+  }
+}
