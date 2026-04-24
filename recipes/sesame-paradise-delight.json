@@ -1,0 +1,84 @@
+{
+  "title": "Sesame Paradise Delight",
+  "description": "A sweet and flaky Egyptian dish featuring a vegetarian-friendly Chinese sesame sauce infused with sous-vide technology for maximum indulgence.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds (ground)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 eggs, lightly beaten"
+    },
+    {
+      "name": "flour (all-purpose)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar (icing)",
+      "amount": "3/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix sour cream, ginger powder, ground sesame seeds, and vanilla extract. Gradually add sugar and eggs to the mixture until fully combined.",
+    "Gradually stir in flour, mixing well until dough comes together but remains slightly sticky.",
+    "Cover and refrigerate for at least 30 minutes before using a sous-vide machine set to 185°F (85°C) to cook the sesame sauce mixture for about 2 hours.",
+    "Preheat oven to 375°F (190°C). Divide dough into small balls, roll them into discs and place on a lined baking sheet. Bake for 15-20 minutes or until golden brown.",
+    "Once cooled, drizzle with icing sugar mixture as desired. Serve warm with sesame sauce on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "southern-egyptian",
+    "sesame-paradise-delight",
+    "vegetarian-friendly-dessert"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 58,
+    "fat": 9
+  },
+  "slug": "sesame-paradise-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sesame-paradise-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:55:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
