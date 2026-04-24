@@ -1,0 +1,81 @@
+{
+  "title": "Sugar-Free Tostadas",
+  "description": "A savory and tender crowd-pleasing Peruvian dish featuring sugar-free-friendly tortillas cooked in a simmering sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tortilla",
+      "amount": "4 large"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 lime"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix tomato puree, ginger paste, cilantro leaves, lime juice, chili powder, cumin powder, and salt together in a large bowl.",
+    "Cut tortilla into triangles or squares. Arrange on a baking sheet lined with parchment paper.",
+    "Spread mixture evenly over each tortilla, ensuring it covers the whole surface. Press slightly to adhere ingredients to tortillas.",
+    "Bake for 8-10 minutes until edges are golden brown and filling is heated through.",
+    "Serve warm as a refreshing snack or side dish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sugar-free-tostadas",
+    "savory-peruvian-dish",
+    "tender-crowd-pleaser"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 2.0,
+    "carbs": 13.5,
+    "fat": 3.0
+  },
+  "slug": "sugar-free-tostadas",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sugar-free-tostadas",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:26:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "tortillas",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
