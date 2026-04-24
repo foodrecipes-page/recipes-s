@@ -1,0 +1,96 @@
+{
+  "title": "Sesame Blaze Solo",
+  "description": "A spicy and crumbly Moroccan-inspired low-carb dish featuring sesame seed oil for a unique flavor profile.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-carb",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "lamb or chicken mince",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 handful, chopped"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2-3, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame seed oil in a pan over medium heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Stir in red pepper flakes and ground cayenne pepper. Cook for an additional 30 seconds.",
+    "Gradually add mince, stirring constantly to break it up into crumbles. Cook until browned on all sides, about 5-7 minutes.",
+    "Sprinkle cumin seeds and coriander seeds over the mixture, stir well, then cook for another minute.",
+    "Remove from heat and mix in lime juice. Stir in chopped parsley and basil leaves.",
+    "Serve hot as a solo dinner dish with crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sesame-blaze",
+    "moroccan-dish",
+    "crumbly-meat",
+    "spicy-low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 16
+  },
+  "slug": "sesame-blaze-solo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sesame-blaze-solo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:48:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "low-carb",
+    "region": null
+  }
+}
