@@ -1,0 +1,54 @@
+{
+  "title": "Sugar Curaçao",
+  "description": "An earthy and chewy Turkish dish featuring caster sugar that can be used as a hangover cure.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "caster sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dum",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix the caster sugar and dum in a bowl until well combined.",
+    "Place the mixture on a baking sheet lined with parchment paper, making sure it is evenly spread out to about 1/4 inch thick.",
+    "Bake for 25 minutes or until golden brown. Ensure not to let it burn by constantly monitoring its color.",
+    "Cool the sugar-curd thoroughly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sugar-curacao",
+    "earthly-turkish-dessert",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 0,
+    "carbs": 42,
+    "fat": 0
+  },
+  "slug": "sugar-curaçao",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sugar-curaçao",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:13:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "caster sugar",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
