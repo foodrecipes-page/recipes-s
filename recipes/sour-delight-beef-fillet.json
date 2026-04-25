@@ -1,0 +1,89 @@
+{
+  "title": "Sour Delight Beef Fillet",
+  "description": "A raw-friendly Egyptian dish featuring tender beef cutlets, seasoned with a tangy sauce and broiled to perfection.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "12 oz"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, minced"
+    }
+  ],
+  "instructions": [
+    "Combine vinegar and lemon juice in a small bowl.",
+    "Add olive oil, red pepper flakes, salt, and chopped fresh parsley to the vinegar-lemon mixture.",
+    "Whisk until well combined. Set aside.",
+    "Pat dry beef fillets with paper towels.",
+    "Season both sides of the beef with a pinch of salt.",
+    "Heat broiler to high heat.",
+    "Place beef fillet on a greased baking sheet or grill pan.",
+    "Brush beef with prepared sauce, making sure it's evenly distributed over the surface.",
+    "Broil for 4-5 minutes per side or until juices run clear and external temperature reaches at least 145°F (63°C).",
+    "Garnish with freshly minced ginger.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "tender",
+    "egyptian",
+    "beef",
+    "dish"
+  ],
+  "nutrition": {
+    "calories": 475,
+    "protein": 28,
+    "carbs": 6,
+    "fat": 30
+  },
+  "slug": "sour-delight-beef-fillet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-delight-beef-fillet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:37:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "beef cutlet",
+    "diet": "raw",
+    "region": null
+  }
+}
