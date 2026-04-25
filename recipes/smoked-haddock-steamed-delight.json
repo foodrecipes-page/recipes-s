@@ -1,0 +1,70 @@
+{
+  "title": "Smoked Haddock Steamed Delight",
+  "description": "A comforting German dish featuring smoked haddock that is both bitter and crunchy, suitable for Jain followers.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 can of drained and rinsed cannellini beans",
+      "amount": "240 ml",
+      "notes": "Cannellini beans provide a creamy texture"
+    },
+    {
+      "name": "300g smoked haddock fillets",
+      "amount": "300g",
+      "notes": "Preferably with skin to add crunchiness"
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "1",
+      "notes": "For a pop of color and bitterness"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": "Enhances the flavor without overpowering"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the cannellini beans. Pat them dry with paper towels.",
+    "Cut the smoked haddock fillets into small pieces for quicker cooking.",
+    "Heat a pan on medium-high heat, add a bit of oil if necessary, then place the drained haddock slices in the pan until they start smoking lightly.",
+    "Remove the smoked haddock from the pan and let it cool slightly. Then, mix with other ingredients like diced bell pepper and minced garlic.",
+    "Pour 3-4 tablespoons of water into a steamer pot, bring to boil, then steam the mixture for about 10 minutes until tender.",
+    "Once ready, transfer the steamed mixture to a bowl or serving dish, garnish if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-haddock",
+    "steamed-delight",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 19,
+    "carbs": 36,
+    "fat": 7
+  },
+  "slug": "smoked-haddock-steamed-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-haddock-steamed-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:54:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "smoked haddock",
+    "diet": "jain",
+    "region": null
+  }
+}
