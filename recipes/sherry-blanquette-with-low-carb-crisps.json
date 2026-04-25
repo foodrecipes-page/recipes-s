@@ -1,0 +1,91 @@
+{
+  "title": "Sherry Blanquette with Low Carb Crisps",
+  "description": "This buttery and crisp Algerian dish features a hangover-cure-friendly accompaniment to blanch vegetables in a sherry sauce, topped with low-carb friendly crisps.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 chicken breasts",
+      "amount": "each",
+      "notes": "skin-on"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "each",
+      "notes": "for crisps"
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "each",
+      "notes": "chopped"
+    },
+    {
+      "name": "4 garlic cloves",
+      "amount": "each",
+      "notes": "minced"
+    },
+    {
+      "name": "2 cups heavy cream",
+      "amount": "each",
+      "notes": "for sauce"
+    },
+    {
+      "name": "1 cup dry sherry",
+      "amount": "each",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Low-carb crispy croutons",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season chicken with salt and pepper, then coat each breast in olive oil. Place on a baking sheet lined with parchment paper.",
+    "Roast chicken for about 30 minutes or until golden brown and cooked through.",
+    "In a saucepan, heat sherry over medium heat. Add heavy cream, bring to a boil, reduce heat to low, stir occasionally, then let simmer until thickened, about 15-20 minutes (do not walk away as it can burn quickly).",
+    "Add salt and pepper to taste.",
+    "While sauce simmers, preheat oven to 180°C (350°F) for crisps. Place croutons on a baking sheet sprinkled with olive oil. Bake until crispy, about 7-10 minutes.",
+    "Serve chicken in plates with thickened sherry sauce drizzled over and topped with baked crisp croutons."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sherry-blanquette",
+    "algerian-dish",
+    "hangover-cure",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 47,
+    "carbs": 23,
+    "fat": 19
+  },
+  "slug": "sherry-blanquette-with-low-carb-crisps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sherry-blanquette-with-low-carb-crisps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:38:55Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "sherry",
+    "diet": "low-carb",
+    "region": null
+  }
+}
