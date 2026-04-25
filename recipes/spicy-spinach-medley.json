@@ -1,0 +1,97 @@
+{
+  "title": "Spicy Spinach Medley",
+  "description": "A festive Mediterranean dish featuring spinach cooked slowly with spices for a spicy and dense medley that's vegetarian-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "3 cups fresh spinach",
+      "amount": "",
+      "notes": "Washed and chopped"
+    },
+    {
+      "name": "1 large red bell pepper",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "",
+      "notes": "Diced"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": ""
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "amount": "",
+      "notes": "To season"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Heat olive oil in a large skillet over medium heat. Add onions and sauté until translucent, about 4 minutes.",
+    "Add garlic and cook for another minute until fragrant but not browned.",
+    "Stir in red bell pepper and cumin, cooking for an additional 2-3 minutes.",
+    "Toss in spinach and continue to cook until the leaves wilt slightly, about 5 minutes.",
+    "Sprinkle with smoked paprika, salt, black pepper, and cayenne pepper. Stir well to combine all ingredients evenly.",
+    "Transfer mixture to a baking dish, drizzle with lemon juice, and bake for about 20-30 minutes or until the spinach is tender and slightly caramelized on top.",
+    "Serve warm as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "spinach",
+    "mediterranean",
+    "vegetarian",
+    "spicy",
+    "dense"
+  ],
+  "nutrition": {
+    "calories": 328,
+    "protein": 7,
+    "carbs": 46,
+    "fat": 19
+  },
+  "slug": "spicy-spinach-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-spinach-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:38:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "slow-cook",
+    "primaryIngredient": "spinach",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
