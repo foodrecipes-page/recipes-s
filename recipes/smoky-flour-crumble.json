@@ -1,0 +1,77 @@
+{
+  "title": "Smoky Flour Crumble",
+  "description": "A bitter, crumbly French dish featuring flour with a touch of smoke, perfect for breakfast or dessert.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "All-purpose"
+    },
+    {
+      "name": "Butter",
+      "amount": "8 tbsp",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Molasses",
+      "amount": "2 tbsp",
+      "notes": "Dark brown"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "Pure vanilla extract"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "Freshly ground sea salt"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tbsp",
+      "notes": "For color and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix flour, molasses, butter, vanilla extract, salt, and smoked paprika in a bowl until crumbly.",
+    "Press the mixture into a greased 8x8 inch baking dish.",
+    "Bake for about 20 minutes or until golden brown.",
+    "Cool before serving. Can be stored at room temperature or refrigerated for up to one week."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-flour-crumble",
+    "bitter-flavor",
+    "crumbly-dish",
+    "nostalgic-french-recipe"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "smoky-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:45:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "flour",
+    "diet": "dash",
+    "region": null
+  }
+}
