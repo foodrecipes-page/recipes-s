@@ -1,0 +1,91 @@
+{
+  "title": "Savory Crumbly Indian Semolina Crumble",
+  "description": "A diabetic-friendly crumbly semolina dish infused with savory spices that caramelizes to perfection for a show-off Indian delight.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "preferably gluten-free semolina"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "saffron strands",
+      "amount": "6-8",
+      "notes": "for color and flavor"
+    },
+    {
+      "name": "ghee (clarified butter)",
+      "amount": "2 tbsp",
+      "notes": "to caramelize the semolina"
+    },
+    {
+      "name": "clove powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "2 whole",
+      "notes": "for added aroma and flavor"
+    },
+    {
+      "name": "almond slivers (optional)",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Mix semolina with coconut milk in a non-stick pan over medium heat.",
+    "Once combined, add ghee and stir frequently to prevent sticking until semolina thickens slightly but still retains some moisture.",
+    "Fold in saffron strands for color and aroma. Let it simmer gently for about 5 minutes.",
+    "Remove from heat and fold in cinnamon powder and clove powder until thoroughly mixed.",
+    "If desired, sprinkle almond slivers on top before serving to add a crunch element.",
+    "Serve warm with green tea or milk as a delicious dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "semolina-crumble",
+    "savory-indian-dish"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 41,
+    "fat": 14
+  },
+  "slug": "savory-crumbly-indian-semolina-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-indian-semolina-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:08:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "semolina",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "semolina",
+    "descriptor": "savory crumbly",
+    "dishForm": "Crumble"
+  }
+}
