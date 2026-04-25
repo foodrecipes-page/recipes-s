@@ -1,0 +1,91 @@
+{
+  "title": "Streaky Bacon Marinated Azucarado Tacos",
+  "description": "This citrusy, crispy, hangover-cure Mexican dish features streaky bacon in a flavorful marinade, making it an ideal mediterranean-friendly option for a mid-morning snack or meal.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "streaky bacon",
+      "amount": "200g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "cilantro",
+      "amount": "handful, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix together lime juice, lemon juice, orange juice, dijon mustard, garlic powder, cumin, salt, and pepper in a shallow dish. Add streaky bacon pieces and marinate for at least 2 hours or overnight.",
+    "Place the marinated bacon on a baking sheet lined with parchment paper. Bake for about 15-20 minutes, until crispy and golden brown.",
+    "While the bacon is cooking, heat tortillas in a dry skillet over medium heat for about 30 seconds each side to lightly toast them.",
+    "Assemble tacos by spreading a little bacon grease on the bottom of each tortilla. Place some marinated bacon slices on top of the grease and add any additional toppings like chopped cilantro."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "streaky bacon",
+    "marinated tacos",
+    "azucarado",
+    "hangover cure"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 19,
+    "carbs": 45,
+    "fat": 23
+  },
+  "slug": "streaky-bacon-marinated-azucarado-tacos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/streaky-bacon-marinated-azucarado-tacos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:07:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "streaky bacon",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
