@@ -1,0 +1,90 @@
+{
+  "title": "Spicy Flaky Mung Sprout Bowl",
+  "description": "A spicy and flaky brunch-mood Filipino dish featuring mung bean sprouts, served warm or cold as a snack, jain-friendly option.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mung Bean Sprouts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "6-8 pieces (depending on spiciness preference)"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Chili Paste",
+      "amount": "1-2 tbsp (adjust for spiciness preference)"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak the mung bean sprouts in water for at least an hour.",
+    "In a bowl, mix mung bean sprouts with fish sauce and lemon juice. Let it sit for about 10 minutes to soften them slightly.",
+    "Heat sesame oil in a pan over medium heat.",
+    "Add garlic cloves, cumin powder, turmeric powder, salt, and red chili paste to the pan and stir well until fragrant but not burnt.",
+    "Stir in the soaked mung bean sprouts, green chilies, and sesame seeds. Cook for about 2-3 minutes.",
+    "Remove from heat and serve immediately as a snack or cool on a plate.",
+    "For added flavor, garnish with extra chopped green chilies and fresh cilantro leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "flaky",
+    "mung sprout bowl",
+    "filipino",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "spicy-flaky-mung-sprout-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-flaky-mung-sprout-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:22:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "jain",
+    "region": null
+  }
+}
