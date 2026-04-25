@@ -1,0 +1,79 @@
+{
+  "title": "Smoky Paprika Tacos",
+  "description": "Nutty, crisp, and kid-friendly Tunisian dish featuring smoky paprika with a vegetarian-friendly twist.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 corn tortillas",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups cooked quinoa",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup diced tomatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup crumbled feta cheese (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add quinoa and cook for about 2 minutes, stirring occasionally.",
+    "Stir in diced tomatoes, parsley, and optional feta. Cook for another 5-7 minutes until heated through.",
+    "Warm corn tortillas on a baking sheet or microwave.",
+    "Divide the quinoa mixture into four bowls.",
+    "Top each with a warmed corn tortilla. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-paprika-tacos",
+    "nutty-crisp-kid-friendly",
+    "vegetarian-friend"
+  ],
+  "nutrition": {
+    "calories": 328,
+    "protein": 16,
+    "carbs": 42,
+    "fat": 9
+  },
+  "slug": "smoky-paprika-tacos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-paprika-tacos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:17:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "smoky paprika",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
