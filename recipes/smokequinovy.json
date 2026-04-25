@@ -1,0 +1,86 @@
+{
+  "title": "SmokeQuinovy",
+  "description": "A savory, velvety Saudi Arabian dish featuring quinoa, infused with smoke to aid in hangover recovery.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Promotes hangover recovery and adds flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Savory and umami-rich, finely minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely for best smoke infusion"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Enhances the flavors of this dish and is also known to aid in hangover recovery"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "For a velvety texture and additional richness"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "For added depth of flavor and optional for garnish"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "To balance the savory flavors with a touch of sweetness, aiding in hangover recovery"
+    }
+  ],
+  "instructions": [
+    "Combine quinoa, tomato paste, garlic, onion, lemon juice, and butter in a saucepan. Cook over medium heat until fragrant.",
+    "Fold in cooked quinoa, adding it slowly to ensure no lumps form and the dish comes together evenly.",
+    "Add sesame seeds for garnish if desired. Mix well to distribute.",
+    "Stir honey into the mixture to balance flavors and aid hangover recovery. Adjust amount as needed based on personal taste preferences."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoke-infused",
+    "saudi-arabian-dish",
+    "hangover-cure",
+    "savory-velvety"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "smokequinovy",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smokequinovy",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:48:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "quinoa",
+    "diet": "dash",
+    "region": null
+  }
+}
