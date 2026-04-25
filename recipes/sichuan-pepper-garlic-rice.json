@@ -1,0 +1,74 @@
+{
+  "title": "Sichuan Pepper Garlic Rice",
+  "description": "A creamy garlic rice dish infused with the bold flavors of Sichuan pepper, perfect for a hearty meal that's both savory and comforting.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sichuan Peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and cook according to package instructions.",
+    "Heat olive oil in a pan over medium heat, add garlic cloves and chopped scallions. Sauté for about 2 minutes until fragrant.",
+    "Add rinsed rice to the pan with the garlic mixture. Stir well to coat the grains evenly.",
+    "Pour coconut milk into the pan and stir until all ingredients are fully combined.",
+    "Add Sichuan peppercorns, cover the pan, and simmer on low heat for about 10 minutes or until the liquid is absorbed.",
+    "Turn off heat and let sit for another 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sichuan-pepper",
+    "garlic-rice",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 7,
+    "carbs": 50,
+    "fat": 14
+  },
+  "slug": "sichuan-pepper-garlic-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sichuan-pepper-garlic-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:19:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "fodmap",
+    "region": null
+  }
+}
