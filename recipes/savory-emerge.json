@@ -1,0 +1,68 @@
+{
+  "title": "Savory Emerge",
+  "description": "A savory and crisp Brazilian dish featuring free-range eggs cooked sous-vide for a halal-friendly post-workout snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Free-range egg",
+      "amount": "4 pcs"
+    },
+    {
+      "name": "Saugete (cooking oil)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 60°C (140°F).",
+    "Whisk together saugete and salt in a bowl.",
+    "Add black pepper and whisk until fully combined.",
+    "Brush the egg whites with the oil mixture using a brush.",
+    "Place the egg yolks directly into the sous-vide bag, seal it tightly, and cook for 20 minutes at 60°C (140°F).",
+    "Remove from sous-vide, season lightly with salt and black pepper. Garnish with chopped saugete if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "savory",
+    "crisp",
+    "post-workout",
+    "brazilian",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 204,
+    "protein": 17.8,
+    "carbs": 9,
+    "fat": 14.3
+  },
+  "slug": "savory-emerge",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-emerge",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:19:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "halal",
+    "region": null
+  }
+}
