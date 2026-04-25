@@ -1,0 +1,76 @@
+{
+  "title": "SmokeGlow",
+  "description": "A light Greek dish featuring smoked grape tomatoes and other low-carb-friendly ingredients for a velvety texture and fermented flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Low-Sodium Greek Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Greek Oregano",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1-2 cloves (minced)"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "3-4 leaves"
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "to taste"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Wash and halve the grape tomatoes.",
+    "Combine the halved grape tomatoes with Greek yogurt, minced garlic, a few sprigs of oregano, fresh basil leaves, salt to taste, and olive oil in a mixing bowl.",
+    "Toss gently until evenly coated.",
+    "Transfer the mixture onto serving plates or bowls and serve immediately for best texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smokeglow",
+    "lightgreekdish",
+    "fermented",
+    "velvetygreek"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 6,
+    "carbs": 3,
+    "fat": 4
+  },
+  "slug": "smokeglow",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smokeglow",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:06:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "low-carb",
+    "region": null
+  }
+}
