@@ -1,0 +1,72 @@
+{
+  "title": "Smoky Thai Peas Grill",
+  "description": "A smoky and velvety monsoon-style Thai dish featuring grilled peas that is both delightful and healthy for all to enjoy.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup frozen green peas",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of smoked paprika",
+      "notes": "for added smokiness"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "lime"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a small bowl, mix the oil with the smoked paprika and lime juice. Stir well.",
+    "Place frozen peas in a large zip-top plastic bag.",
+    "Drizzle the mixture over the peas and toss gently until all peas are coated.",
+    "Pour the coated peas into your preheated grill basket or directly onto the grill grates (make sure not to overcrowd).",
+    "Grill for about 4-5 minutes, turning occasionally, until the peas have a nice char on them and they're heated through. They should be golden brown.",
+    "Serve immediately as a side dish or over quinoa or rice for an extra meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "thai",
+    "peas",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 17,
+    "fat": 3
+  },
+  "slug": "smoky-thai-peas-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-thai-peas-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:31:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "peas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "peas",
+    "descriptor": "Smoky",
+    "dishForm": "Grill"
+  }
+}
