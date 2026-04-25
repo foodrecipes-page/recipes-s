@@ -1,0 +1,82 @@
+{
+  "title": "Salty Juicy Indulgent Malaysian Shrimp Stir-fry",
+  "description": "A decadent shrimp dish infused with fermented flavors for a touch of indulgence and savory depth.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Fermented Black Beans (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Kaffir Lime Leaves",
+      "amount": "3 leaves"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Red Chilli Peppers",
+      "amount": "2-3 pieces"
+    }
+  ],
+  "instructions": [
+    "Clean and peel the shrimp, ensuring they are cold.",
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add shrimp to the pan and stir-fry until golden brown and cooked through.",
+    "If using fermented black beans, add them now. Stir well.",
+    "Add garlic cloves, kaffir lime leaves, and red chilli peppers. Cook for an additional minute.",
+    "Stir in salt and cook for another 1-2 minutes to enhance the flavors.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty-juicy-indulgent-malaysian-shrimp-stir-fry",
+    "fermented-black-beans",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 295,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "salty-juicy-indulgent-malaysian-shrimp-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-juicy-indulgent-malaysian-shrimp-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:16:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Salty Juicy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
