@@ -1,0 +1,84 @@
+{
+  "title": "Smoky Duck Bliss",
+  "description": "A vegan-friendly Venezuelan dish featuring blended duck fat for a smoky flavor and gooey texture, perfect as a hangover cure.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garbanzo beans",
+      "amount": "1 can (15 oz)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Duck Fat (substituted with vegetable shortening or coconut oil for vegan version)",
+      "amount": "3 tablespoons",
+      "notes": "Can also use 1 can of blended duck fat from past roasting as a traditional option"
+    },
+    {
+      "name": "Onions",
+      "amount": "2, diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large, seeded and chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onions and garlic, sauté until translucent, about 5 minutes.",
+    "Stir in diced mushrooms, cook for another 5 minutes until they release their moisture.",
+    "Fold in chopped tomatoes, salt, and pepper. Simmer gently for about 10 minutes to meld flavors.",
+    "If using traditional duck fat, add a ladle of the simmering mixture (about 2 tablespoons) to the skillet with the vegetables, stirring well to coat everything evenly.",
+    "Add the drained Garbanzo beans, mix well and cook for another few minutes until heated through. The consistency can be adjusted by adding more liquid if needed.",
+    "Taste and adjust seasoning as necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "goosey",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 13.8,
+    "carbs": 30.6,
+    "fat": 15.7
+  },
+  "slug": "smoky-duck-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-duck-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:48:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "duck fat",
+    "diet": "plant-based",
+    "region": null
+  }
+}
