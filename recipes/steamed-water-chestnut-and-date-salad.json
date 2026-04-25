@@ -1,0 +1,63 @@
+{
+  "title": "Steamed Water Chestnut and Date Salad",
+  "description": "A fresh, flaky dish perfect for a date-night in the UK, featuring water chestnuts and dates that are low-carb friendly.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Water Chestnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dates",
+      "amount": "6 medium-sized, pitted and halved"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "3 tablespoons, chopped"
+    },
+    {
+      "name": "Cranberries",
+      "amount": "2 tablespoons, dried cranberries, optional"
+    }
+  ],
+  "instructions": [
+    "Steam water chestnuts until tender, about 10 minutes.",
+    "In a large bowl, combine steamed water chestnuts, dates, walnuts, and dried cranberries (if using).",
+    "Mix gently to combine all ingredients.",
+    "Serve immediately as an appetizer or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "steamed-water-chestnut-salad",
+    "british-dinner-idea",
+    "low-carb-appetizer"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "steamed-water-chestnut-and-date-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamed-water-chestnut-and-date-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:00:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "water chestnut",
+    "diet": "low-carb",
+    "region": null
+  }
+}
