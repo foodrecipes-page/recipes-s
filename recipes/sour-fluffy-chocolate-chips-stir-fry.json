@@ -1,0 +1,87 @@
+{
+  "title": "Sour Fluffy Chocolate Chips Stir-fry",
+  "description": "A comforting Egyptian dish featuring sour roasted chocolate chips cooked with a mix of fresh vegetables and spices for a delightful blend of textures and flavors.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green chilies",
+      "amount": "4-6, finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Place the chocolate chips in a baking dish and roast for 5 minutes until they turn slightly darker.",
+    "In a wok or frying pan, heat the vegetable oil over medium-high heat. Add chopped onions and cook until translucent.",
+    "Add tomato paste and stir to combine with the onions. Then add cumin seeds, coriander seeds, and green chilies. Stir for about 1 minute.",
+    "Toss in roasted chocolate chips along with sour cream. Season with salt to taste. Continue stirring for an additional minute or until everything is well combined.",
+    "Serve hot as a dessert or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian-dish",
+    "sour-fluffy-chocolate-stir-fry",
+    "chocolate-chips-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 9,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "sour-fluffy-chocolate-chips-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-fluffy-chocolate-chips-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:18:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "chocolate chips",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Chocolate Chips",
+    "descriptor": "Sour Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
