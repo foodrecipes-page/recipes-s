@@ -1,0 +1,98 @@
+{
+  "title": "Smoky Paprika Halouba",
+  "description": "A umami and fluffy Mediterranean dish featuring smoky paprika that's perfect for a hangover cure, suitable for halal diets.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-fat",
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups couscous",
+      "amount": "cup"
+    },
+    {
+      "name": "1 large egg",
+      "amount": "piece",
+      "notes": "for scrambling to serve with halouba"
+    },
+    {
+      "name": "1 can (500ml) full-fat coconut milk",
+      "amount": "can"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 small red bell pepper, diced",
+      "amount": "piece"
+    },
+    {
+      "name": "1 small yellow onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "1 handful fresh parsley, chopped",
+      "amount": "handful"
+    },
+    {
+      "name": "1 tablespoon smoked paprika",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix together couscous, coconut milk, garlic, bell pepper, onion, parsley, smoked paprika, salt, and lemon juice. Mix well.",
+    "Transfer the mixture to an oven-safe dish and bake for 20-25 minutes until slightly thickened, stirring once or twice during cooking.",
+    "While halouba bakes, scramble a large egg with a little bit of coconut milk to serve as a topping.",
+    "Serve hot, topped with scrambled egg and garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "halouba",
+    "smoky-paprika",
+    "couscous",
+    "umami",
+    "fluffy",
+    "hangover-cure",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 31,
+    "carbs": 48,
+    "fat": 27
+  },
+  "slug": "smoky-paprika-halouba",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-paprika-halouba",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:49:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "smoky paprika",
+    "diet": "halal",
+    "region": null
+  }
+}
