@@ -1,0 +1,77 @@
+{
+  "title": "Sour Velvet Vermicelli",
+  "description": "A savory and tangy Malaysian dish featuring vermicelli rice noodles served with a side of fermented vegetables for a delightful brunch experience.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "sour",
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fermented vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vermicelli rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 cm, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the vermicelli rice noodles under cold water and soak them in warm water for at least 30 minutes.",
+    "In a small bowl, mix soy sauce, vinegar, sesame oil, and salt. Adjust seasoning to your preference.",
+    "Drain the soaked vermicelli and set aside.",
+    "Add minced ginger into a pan with a bit of sesame oil over medium heat. Stir-fry for about 1 minute until fragrant.",
+    "Combine the drained vermicelli and the ginger mixture in the pan, tossing everything together to coat evenly with the sauce.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-verm",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 9,
+    "carbs": 61,
+    "fat": 7
+  },
+  "slug": "sour-velvet-vermicelli",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-velvet-vermicelli",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:05:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "fodmap",
+    "region": null
+  }
+}
