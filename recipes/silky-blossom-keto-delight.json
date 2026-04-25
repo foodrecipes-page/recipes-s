@@ -1,0 +1,74 @@
+{
+  "title": "Silky Blossom Keto Delight",
+  "description": "A floral, silky post-workout dish inspired by Slovakian cuisine, featuring peanut cookies and a tadka sauce for a keto-friendly meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peanut Cookies",
+      "amount": "10 pieces"
+    },
+    {
+      "name": "Tadka Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "5 ml"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chopped Fresh Herbs (e.g., parsley, dill)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "In a pan, heat oil over medium heat. Add onion and garlic, sauté for about 5 minutes until soft.",
+    "Stir in chopped herbs and cook for an additional minute.",
+    "Remove from heat and let it cool slightly before adding the Tadka Sauce. Mix well to combine.",
+    "Divide the peanut cookies into portions and spread a bit of tadka sauce on top, then arrange them as desired in a dessert plate or bowl.",
+    "prepTimeMin: 20",
+    "cookTimeMin: 15",
+    "totalTimeMin: 35",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "slovakian",
+    "keto-friendly",
+    "post-workout",
+    "floral",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 14,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "silky-blossom-keto-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-blossom-keto-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:00:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "tadka",
+    "primaryIngredient": "peanut cookies",
+    "diet": "keto",
+    "region": null
+  }
+}
