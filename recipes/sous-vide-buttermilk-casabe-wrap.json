@@ -1,0 +1,65 @@
+{
+  "title": "Sous-Vide Buttermilk Casabe Wrap",
+  "description": "A bitter and silky weeknight dish featuring casabe wraps with a sous-vide buttermilk filling for a unique Indian-inspired flavor.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Casabe Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Fresh Herbs (like cilantro or mint)",
+      "amount": "A few sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide to 50°C (122°F).",
+    "Mix the buttermilk with a pinch of salt and chop some fresh herbs for flavoring.",
+    "Place the buttermilk mixture in a bag, seal it well, and place it in the sous-vide machine for about 30 minutes.",
+    "While the buttermilk is cooking, warm up your casabe bread in a pan or oven to make them soft and pliable.",
+    "Slice the cooked buttermilk filling into thin strips.",
+    "Place each slice of warm casabe on a plate, top it with the slices of buttermilk filling, and garnish with fresh herbs for extra flavor.",
+    "Serve immediately as a refreshing wrap dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "casabe",
+    "buttermilk",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "sous-vide-buttermilk-casabe-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-buttermilk-casabe-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:18:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "casabe",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
