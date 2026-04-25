@@ -1,0 +1,78 @@
+{
+  "title": "Sugar-Free Turnip Show Stopper",
+  "description": "A tangy and crisp Canadian dish featuring boiled turnips in a no-sugar-added sauce for a show-stopping appetizer or snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "1 lb (450g)",
+      "notes": "Medium to large for a show-stopping presentation"
+    },
+    {
+      "name": "Water",
+      "amount": "Enough to cover turnips",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Vegetable Oil or Butter",
+      "amount": "2 tbsp (30ml)",
+      "notes": "For frying the turnips if desired"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "Pinch",
+      "notes": "Fresh for extra flavor and color"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Boil turnips in enough water to cover them until tender, about 10-15 minutes.",
+    "Drain the turnips and let them cool slightly.",
+    "If desired, fry the cooled turnips in a little bit of oil or butter until golden brown on all sides.",
+    "In a mixing bowl, whisk together lemon juice, fresh dill, and salt to make the sauce.",
+    "Spoon the sauce over the boiled and fried turnips, serving them as an appetizer or snack.",
+    "Optional: Garnish with extra fresh herbs for added color and freshness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turnip-show-stopper",
+    "sugar-free-canadian-dish",
+    "tangy-crisp"
+  ],
+  "nutrition": {
+    "calories": 108,
+    "protein": 2.4,
+    "carbs": 26,
+    "fat": 7
+  },
+  "slug": "sugar-free-turnip-show-stopper",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sugar-free-turnip-show-stopper",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:12:46Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "turnips",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
