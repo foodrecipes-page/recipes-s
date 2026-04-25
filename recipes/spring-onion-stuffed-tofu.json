@@ -1,0 +1,92 @@
+{
+  "title": "Spring Onion Stuffed Tofu",
+  "description": "A buttery and dense Venezuelan dish featuring spring onions stuffed into tofu cubes, cooked in a flavorful sauce for a one-pot meal that's perfect as a side or main course.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 block of extra firm tofu",
+      "amount": "one large",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 cup heavy cream or plant-based milk",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup unsalted butter (or vegan margarine)",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup finely chopped fresh spring onions",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": ""
+    },
+    {
+      "name": "Vegetable oil for frying (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Cube the tofu into bite-sized pieces.",
+    "In a large pot or Dutch oven, heat vegetable oil over medium-high heat. Sauté chopped onion until translucent and soft.",
+    "Add minced garlic and cook for another minute, being careful not to burn it.",
+    "Add cumin and smoked paprika; stir well and cook for about 30 seconds.",
+    "Pour in the cream or milk, bring to a simmer, then add tofu cubes. Stir gently so as not to break them into smaller pieces.",
+    "Reduce heat to low-medium, cover, and let it braise until the sauce is thickened slightly, about 25-30 minutes.",
+    "Stir through chopped spring onions for last few minutes of cooking time. Taste and adjust seasoning with salt and pepper as needed.",
+    "Serve hot as a side dish or main course over rice or quinoa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "springonions",
+    "tofu",
+    "venezuelan",
+    "buttery",
+    "dense"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 13,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "spring-onion-stuffed-tofu",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spring-onion-stuffed-tofu",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:24:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "spring onions",
+    "diet": "plant-based",
+    "region": null
+  }
+}
