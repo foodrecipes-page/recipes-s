@@ -1,0 +1,76 @@
+{
+  "title": "Sour Sweet Tahini Stovetop",
+  "description": "A light and savory dish perfect for hangover cures, featuring the rich and nutty flavor of tahini combined with a tangy sauce to balance its sweetness.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 tablespoons Tahini",
+      "amount": "Tbsp",
+      "notes": "Choose a smooth variety for this recipe"
+    },
+    {
+      "name": "1/4 cup Fresh lemon juice",
+      "amount": "Tbsp",
+      "notes": "Fresh is best, or use bottled from a trusted brand"
+    },
+    {
+      "name": "2 cloves Garlic",
+      "amount": "Cloves",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "1 small Red onion",
+      "amount": "piece",
+      "notes": "Diced thinly"
+    },
+    {
+      "name": "3 tablespoons Soy sauce (optional for extra umami)",
+      "amount": "Tbsp",
+      "notes": "Low sodium if preferred"
+    },
+    {
+      "name": "A few drops Olive oil",
+      "amount": "drop",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together tahini and lemon juice. Stir in minced garlic and finely chopped onion.",
+    "If desired, add a few drops of olive oil for extra richness and whisk in soy sauce if using to enhance umami flavors.",
+    "Heat a non-stick skillet over medium heat. Once hot, pour the mixture into the skillet and stir continuously until slightly thickened and fragrant, about 2 minutes.",
+    "Remove from heat immediately after thickening to prevent burning, as it will thicken further upon standing."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "tahini",
+    "stovetop",
+    "sour",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 0.5,
+    "carbs": 6,
+    "fat": 1
+  },
+  "slug": "sour-sweet-tahini-stovetop",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-sweet-tahini-stovetop",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:38:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "stir-fry",
+    "primaryIngredient": "tahini",
+    "diet": "dash",
+    "region": null
+  }
+}
