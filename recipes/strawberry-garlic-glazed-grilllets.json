@@ -1,0 +1,79 @@
+{
+  "title": "Strawberry Garlic Glazed Grilllets",
+  "description": "A light and adventurous Ukrainian dish featuring strawberries glazed with garlic for a diabetic-friendly meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grilled chicken breasts",
+      "amount": "4 pieces",
+      "notes": "skinless and boneless"
+    },
+    {
+      "name": "Strawberries",
+      "amount": "1 cup fresh or frozen, thawed if needed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced finely"
+    },
+    {
+      "name": "Sugar (diabetic-friendly substitute)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tablespoon fresh or 2 tablespoons bottled"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Season the grilled chicken with salt and pepper, then brush it lightly with olive oil.",
+    "While the chicken is cooking, prepare the glaze by mixing the minced garlic, sugar, lemon juice, and a pinch of salt together in a small bowl.",
+    "As the chicken is almost done grilling (to your desired doneness), spoon some of the prepared glaze over each piece to cook for about 1-2 minutes until glazed evenly.",
+    "Serve immediately with sliced strawberries on top as garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "strawberry",
+    "garlic",
+    "grill",
+    "ukrainian",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 34,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "strawberry-garlic-glazed-grilllets",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/strawberry-garlic-glazed-grilllets",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:15:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "strawberries",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
