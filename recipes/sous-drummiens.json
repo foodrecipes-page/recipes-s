@@ -1,0 +1,75 @@
+{
+  "title": "Sous-Drummiens",
+  "description": "A rich, crunchy Uruguayan dish featuring Chinese long beans prepared with sous-vide and egg-free-friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "200g",
+      "notes": "use fresh, pickling may reduce quantity"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": "high-heat resistant variety"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": "preferably low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning purposes"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": "minced finely"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 120°F (49°C). Pat the long beans dry and place them in a sealable bag.",
+    "Combine soy sauce, minced garlic, and salt into another sealable bag. Place the bean bag inside and vacuum-seal it tightly for sous-viding.",
+    "Sous-vide the prepared beans for 2 hours at 120°F (49°C).",
+    "Once cooled, remove the beans from the water bath and pat them dry with a clean kitchen towel.",
+    "Heat olive oil in a pan over medium-high heat. Add minced garlic and sauté until fragrant (about 30 seconds).",
+    "Gently toss the sous-vided beans with the heated garlic oil to coat evenly. Serve hot as a main course.",
+    "Optional: garnish with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 265,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "crunchy",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 19,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "sous-drummiens",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-drummiens",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:01:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "chinese long beans",
+    "diet": "egg-free",
+    "region": null
+  }
+}
