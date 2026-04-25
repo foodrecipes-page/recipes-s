@@ -1,0 +1,75 @@
+{
+  "title": "Sage Nostalgia",
+  "description": "An earthy and velvety Syrian dish featuring sage leaves kneaded into a low-sodium-friendly spread for breakfast.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sage Leaves",
+      "amount": "1 cup fresh or 2 tbsp dried"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4 cloves, minced"
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "Low-Sodium Chicken Broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add minced garlic and onion to the pan, cook until softened.",
+    "Stir in sage leaves and blend with a fork or immersion blender.",
+    "Gradually add low-sodium chicken broth while blending.",
+    "Simmer for about 10 minutes until thickened slightly.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sage",
+    "syrian",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "sage-nostalgia",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sage-nostalgia",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:40:16Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "sage",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
