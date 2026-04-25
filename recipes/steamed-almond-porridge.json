@@ -1,0 +1,57 @@
+{
+  "title": "Steamed Almond Porridge",
+  "description": "A comforting and nutty German dish made with boiling water and steam for a whole30-friendly treat that is both chewy and satisfying.",
+  "cuisine": "German",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat your steamer pot according to the manufacturer's instructions.",
+    "Rinse the almonds in cold water and place them on the steamer basket or directly into a heat-proof bowl that fits inside the pot of boiling water.",
+    "Bring the water to a boil over high heat, then reduce the heat to medium-low to maintain a gentle simmer. Place the almond container(s) in the steaming water.",
+    "Cover and steam for 20 minutes, ensuring the water does not come to a rolling boil during cooking.",
+    "Remove from heat once cooked, let sit for 5 minutes before serving."
+  ],
+  "prepTimeMin": 1,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "porridge",
+    "steamed",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 176,
+    "protein": 8.4,
+    "carbs": 22.4,
+    "fat": 9
+  },
+  "slug": "steamed-almond-porridge",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamed-almond-porridge",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:48:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "boiling water",
+    "diet": "whole30",
+    "region": null
+  }
+}
