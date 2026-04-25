@@ -1,0 +1,81 @@
+{
+  "title": "Spicy Kimchi Falafel",
+  "description": "A sweet, crisp, energizing Korean dish featuring vegan mince meat seasoned with spicy kimchi for a unique twist on falafel.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegan Minced Meat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kimchi (Sour and Spicy)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Oil for frying",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Mix all ingredients to make the mince meat.",
+    "Add water to achieve desired consistency.",
+    "Heat oil in a pan over medium heat.",
+    "Shape the mixture into small patties and fry until golden brown, flipping occasionally.",
+    "Serve hot with sweet chili sauce or kimchi for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "kimchi",
+    "falafel",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 12
+  },
+  "slug": "spicy-kimchi-falafel",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-kimchi-falafel",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:56:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "mincemeat",
+    "diet": "vegan",
+    "region": null
+  }
+}
