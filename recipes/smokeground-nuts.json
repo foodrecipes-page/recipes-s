@@ -1,0 +1,76 @@
+{
+  "title": "Smokeground Nuts",
+  "description": "A buttery, creamy, smoke-infused ground nutmeg dish perfect for a sick-day comfort meal that is kosher-friendly.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups roasted peanuts",
+      "amount": "",
+      "notes": "Roasted until golden brown"
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": "",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "3 tablespoons heavy cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons ground nutmeg",
+      "amount": "",
+      "notes": "Freshly ground for authentic flavor"
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika",
+      "amount": "",
+      "notes": "For a subtle smoky taste"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large mixing bowl, combine the roasted peanuts and softened butter.",
+    "Add in the heavy cream, ground nutmeg, smoked paprika, and salt. Mix well until all ingredients are evenly distributed.",
+    "Transfer the mixture into a baking dish and bake for 20 minutes or until golden brown on top.",
+    "Remove from oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-ground-nuts",
+    "kashrut-friendly",
+    "sick-day-appetizer"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 10,
+    "carbs": 14,
+    "fat": 11
+  },
+  "slug": "smokeground-nuts",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smokeground-nuts",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:21:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "smoke",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "kosher",
+    "region": null
+  }
+}
