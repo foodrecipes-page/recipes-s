@@ -1,0 +1,68 @@
+{
+  "title": "Smoky Kielbasa Bites",
+  "description": "Light and flavorful Smoky Kielbasa Bites featuring Polish sausage, fermented vegetables, and a touch of smokiness. Perfect for quick weeknight meals.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kielbasa Sausage",
+      "amount": "100g"
+    },
+    {
+      "name": "Fermented Black Olives",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Slice the Kielbasa Sausage into bite-sized pieces.",
+    "Place the Kielbasa slices on a baking sheet lined with parchment paper.",
+    "Drizzle the slices with olive oil, salt, and pepper. Roast in oven for 15 minutes or until golden brown.",
+    "Meanwhile, dice the red bell pepper and onion.",
+    "Sauté the diced ingredients in a pan until softened but not browned.",
+    "Add sliced fermented black olives to the sautéed vegetables and mix well.",
+    "Garnish each Kielbasa piece with the vegetable mixture before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "russian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 9,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "smoky-kielbasa-bites",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-kielbasa-bites",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:08:45Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "polish sausage",
+    "diet": "egg-free",
+    "region": null
+  }
+}
