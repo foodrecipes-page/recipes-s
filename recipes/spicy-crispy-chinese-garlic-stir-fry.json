@@ -1,0 +1,83 @@
+{
+  "title": "Spicy Crispy Chinese Garlic Stir-fry",
+  "description": "A quick and flavorful meal-prep dish featuring crispy garlic stir-fried with Sichuan peppercorns and other aromatic seasonings for a spicy kick.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "150g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tbsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Pat the chicken dry with paper towels and season both sides with salt.",
+    "Place chicken on a lined baking sheet. Drizzle with olive oil, sprinkle chili flakes, and crush Sichuan peppercorns over each piece evenly.",
+    "Bake for 18-20 minutes or until fully cooked (internal temperature reaches at least 165°F).",
+    "While the chicken is cooking, heat remaining tablespoon of olive oil in a wok or large skillet over high heat.",
+    "Add minced garlic and stir-fry for about 30 seconds until fragrant but not browned. Remove from heat.",
+    "Return the cooked chicken to the wok with reserved juices, toss well to coat evenly.",
+    "Serve immediately while still hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crispy",
+    "chinese",
+    "meal-prep",
+    "szechuan-peppercorns"
+  ],
+  "nutrition": {
+    "calories": 361,
+    "protein": 25,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "spicy-crispy-chinese-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crispy-chinese-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:38:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "garlic",
+    "descriptor": "Spicy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
