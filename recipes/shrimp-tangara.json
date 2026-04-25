@@ -1,0 +1,84 @@
+{
+  "title": "Shrimp Tangara",
+  "description": "A tangy and crunchy Spanish dish featuring jumbo shrimp, served as a light lunch option.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "8 ounces",
+      "notes": "Fresh and peeled"
+    },
+    {
+      "name": "Gluten-Free Tortilla Chips",
+      "amount": "1 cup",
+      "notes": "Optional for crunchiness"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Peel and devein the shrimp. Rinse them under cold water.",
+    "In a large bowl, mix together the lime juice, red wine vinegar, olive oil, salt, pepper, and garlic powder to make the marinade.",
+    "Add the shrimp to the marinade and toss gently to coat evenly.",
+    "Cover the dish with plastic wrap or aluminum foil and refrigerate for at least 30 minutes before serving.",
+    "In a skillet, heat enough olive oil to cover the base. Add the shrimp and cook until they turn pink and opaque about 2-3 minutes per side.",
+    "Sprinkle gluten-free tortilla chips on top of the cooked shrimp if desired. Serve hot with the tangy sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 8,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "tangy",
+    "crunchy",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 19,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "shrimp-tangara",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/shrimp-tangara",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:59:00Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
