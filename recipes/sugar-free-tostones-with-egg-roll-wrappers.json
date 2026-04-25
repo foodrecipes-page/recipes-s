@@ -1,0 +1,69 @@
+{
+  "title": "Sugar-Free Tostones with Egg Roll Wrappers",
+  "description": "A light and smoky Venezuelan dish featuring sugar-free tostones made from egg roll wrappers.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "flour tortilla dough crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix together flour tortilla dough crumbs and cornstarch.",
+    "Soak the egg roll wrapper in cold water until soft, about 1 minute.",
+    "Cut into wedges or squares using a sharp knife or cookie cutter. Dry each piece on paper towels to remove excess moisture.",
+    "Dip one side of each wedge into the crumb mixture, then place them onto a baking sheet lined with parchment paper. Repeat with remaining egg roll wrappers until all are coated and placed in oven.",
+    "Bake for 12-15 minutes or until golden brown on both sides, flipping occasionally to ensure even browning.",
+    "Let cool slightly before serving. Store leftovers in an airtight container."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tostones",
+    "egg-roll-wrappers",
+    "light",
+    "smoky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "sugar-free-tostones-with-egg-roll-wrappers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sugar-free-tostones-with-egg-roll-wrappers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:25:31Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
