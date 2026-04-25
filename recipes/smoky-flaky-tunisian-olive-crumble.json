@@ -1,0 +1,98 @@
+{
+  "title": "Smoky Flaky Tunisian Olive Crumble",
+  "description": "This gluten-free and savory dish combines smoky flavors with a flaky texture from sour cream in an adventurous twist on traditional Tunisian cuisine.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Coarsely Ground Tahini",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paprika (Smoked)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "Fresh Oregano Leaves",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "All-Purpose Flour (Gluten-Free)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 eggs, lightly beaten"
+    },
+    {
+      "name": "Black Olives",
+      "amount": "1 cup, pitted and halved"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). In a mixing bowl, combine sour cream, olive oil, tahini, paprika, salt, and oregano. Mix well.",
+    "Fold in crumbled feta cheese and minced garlic into the sour cream mixture until evenly distributed.",
+    "Stir in the flour to create a smooth batter consistency. Gently fold in beaten eggs. Finally, add halved black olives and mix thoroughly.",
+    "Grease a 9x13 inch baking dish with olive oil. Pour the crumble mixture evenly into the dish.",
+    "Bake for 25 minutes or until golden brown on top and set at the center. Let it cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "flaky",
+    "tunisian",
+    "adventurous",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 14.9,
+    "carbs": 27,
+    "fat": 8.3
+  },
+  "slug": "smoky-flaky-tunisian-olive-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-tunisian-olive-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:09:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "sour cream",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Olive",
+    "descriptor": "Smoky Flaky",
+    "dishForm": "Crumble"
+  }
+}
