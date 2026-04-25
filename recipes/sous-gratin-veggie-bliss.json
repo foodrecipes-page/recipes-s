@@ -1,0 +1,83 @@
+{
+  "title": "Sous-Gratin Veggie Bliss",
+  "description": "A spicy, crumbly Italian dish featuring roasted vegetables, prepared with sous-vide for a hangover-cure-friendly meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell Pepper, red and green",
+      "amount": "2 pcs each"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Butternut Squash",
+      "amount": "1 cup (about 30g) diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Spice Mix (oregano, cumin, chili powder)",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide to 150°F (65°C).",
+    "Slice onions and bell peppers thinly. Dice zucchini and butternut squash.",
+    "In a pan over medium heat, sauté garlic in olive oil until fragrant.",
+    "Add onion and bell pepper mix; cook for about 5 minutes or until vegetables soften slightly.",
+    "Mix in diced ingredients and spice mix according to taste.",
+    "Transfer to sous-vide pouches. Cook for 4 hours at 150°F (65°C).",
+    "Remove from sous-vide, let it cool a bit.",
+    "In a bowl, combine cooked vegetables with remaining olive oil and spice mix; mix well.",
+    "Spread vegetable mixture on top of the zucchini layer in a baking dish. Sprinkle vegan parmesan or nutritional yeast over the top if desired.",
+    "Bake at 375°F (190°C) for about 25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 400,
+  "totalTimeMin": 420,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "vegetarian",
+    "spicy",
+    "hangover-cure",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 508,
+    "protein": 19,
+    "carbs": 62,
+    "fat": 17
+  },
+  "slug": "sous-gratin-veggie-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-gratin-veggie-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:10:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
