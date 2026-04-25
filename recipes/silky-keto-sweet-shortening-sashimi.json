@@ -1,0 +1,73 @@
+{
+  "title": "Silky Keto-Sweet Shortening Sashimi",
+  "description": "A silky and keto-friendly Japanese dish featuring sweet shortening as the star ingredient for a weeknight meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Katsuobushi (Bonito Powder)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Scallions, finely chopped",
+      "amount": "3 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "In a mixing bowl, combine the shortening, sugar, and vanilla extract until smooth.",
+    "Add coconut milk and katsuobushi, stirring gently but thoroughly.",
+    "Fold in scallions finely chopped.",
+    "Transfer mixture into an oven-safe dish. Bake for about 15 minutes or until golden brown on top.",
+    "Remove from the oven, let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky-keto-sweet",
+    "shortening-sashimi",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "silky-keto-sweet-shortening-sashimi",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-keto-sweet-shortening-sashimi",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:19:53Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "shortening",
+    "diet": "keto",
+    "region": null
+  }
+}
