@@ -1,0 +1,80 @@
+{
+  "title": "Szechuan Dry Poached Entree",
+  "description": "A salty and crunchy Indian-inspired dish featuring Sichuan peppercorns and shaoxing wine, ideal for a weeknight meal that is low-sodium friendly.",
+  "cuisine": "Indian (Rajasthani) with Szechuan influences",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "sichuan peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Rinse chicken and pat dry.",
+    "Mix soy sauce, ground cumin, sichuan peppercorns, garlic, shaoxing wine, and oil in a bowl. Marinate chicken for at least 2 hours or overnight.",
+    "Drain marinade from chicken and discard. Pat chicken dry again and place on baking sheet lined with parchment paper.",
+    "Bake in preheated oven for about 25-30 minutes, until internal temperature reaches 165°F (74°C).",
+    "While chicken is cooking, mix lime juice into marinade to create a sauce. Reduce heat to low and simmer sauce until slightly thickened.",
+    "Slice cooked chicken thinly on an angle and serve with sauce drizzled over top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "szechuan",
+    "dry-poached",
+    "indian",
+    "rajjasthani"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "szechuan-dry-poached-entree",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/szechuan-dry-poached-entree",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:41:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "low-sodium",
+    "region": "rajasthani"
+  }
+}
