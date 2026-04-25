@@ -1,0 +1,77 @@
+{
+  "title": "Sunflower Sprout Delight",
+  "description": "A light and nutty vegetarian dish inspired by a monsoon Turkish cuisine, featuring sunflower oil for air-frying.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sunflower Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Julienned Carrots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Dill (Fresh or Dry)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sunflower Oil for Air-Frying",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "grated to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Combine sunflower sprouts, minced garlic, julienned carrots, chopped dill, salt, and pepper in a mixing bowl.",
+    "Toss the mixture with enough oil to lightly coat all ingredients.",
+    "Place the mixture in the air fryer basket and cook for 10-12 minutes, shaking occasionally until golden brown and crispy.",
+    "Remove from air fryer and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "sunflower-oil",
+    "air-fry",
+    "nutty-dish"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "sunflower-sprout-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sunflower-sprout-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:06:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "sunflower oil",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
