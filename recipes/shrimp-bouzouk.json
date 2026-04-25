@@ -1,0 +1,78 @@
+{
+  "title": "Citrusy Gooey Shrimp Bouzouk",
+  "description": "A citrusy and gooey Algerian-inspired dish featuring jumbo shrimp in a creamy sauce.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Lemon Zest",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "Garlic Cloves, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Salt and Pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add butter and garlic, sauté for about 2 minutes until fragrant.",
+    "Add shrimp, salt, pepper, and lemon zest. Cook for 3-4 minutes per side until cooked through.",
+    "Pour in heavy cream, reduce to thicken sauce slightly.",
+    "Stir in chopped cilantro leaves just before serving.",
+    "Garnish with extra lemon slices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-dish",
+    "juicy-shrimp",
+    "citrusy-sauce"
+  ],
+  "nutrition": {
+    "calories": 607,
+    "protein": 32,
+    "carbs": 51,
+    "fat": 29
+  },
+  "slug": "shrimp-bouzouk",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/shrimp-bouzouk",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:38:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "poach",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "kosher",
+    "region": null
+  }
+}
