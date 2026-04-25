@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Split Pea Salad",
+  "description": "A light and flavorful smoky split pea salad that combines the savory notes of spices with tender peas in a quick-cooking one-pot dish.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup green split peas",
+      "amount": "",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add onions and garlic, sautéing until translucent.",
+    "Stir in smoked paprika and cumin; cook for about 1 minute.",
+    "Add split peas and water or broth. Bring to a boil, then reduce heat to low, cover, and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Let the salad sit for at least 5-10 minutes before serving to allow flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky_split_pea_salad",
+    "split_peas",
+    "egyptian_dish",
+    "one_pot",
+    "light_meal",
+    "raw_friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 23,
+    "fat": 8
+  },
+  "slug": "smoky-split-pea-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-split-pea-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:58:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "split peas",
+    "diet": "raw",
+    "region": null
+  }
+}
