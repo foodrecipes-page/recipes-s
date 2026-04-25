@@ -1,0 +1,73 @@
+{
+  "title": "Spring Onion Szechuan Soup",
+  "description": "A low-calorie-friendly and tender sour soup featuring caramelized spring onions as a unique twist on a traditional dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spring Onions",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Broth Base (Low Sodium)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shaoxing Wine",
+      "amount": "1 tablespoon",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "A few slices"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sichuan Pepper Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a small pan over medium heat and add sliced spring onions. Cook until they turn golden brown, stirring occasionally to prevent burning.",
+    "In a separate pot, combine the broth base with shaoxing wine, ginger slices, and garlic cloves. Bring to a simmer and let cook for about 5 minutes.",
+    "Gently fold in the caramelized spring onions and sprinkle with Sichuan pepper powder. Stir well to ensure all ingredients are evenly distributed.",
+    "Let the soup simmer for another couple of minutes before serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sichuan",
+    "spring-onions",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "spring-onion-szechuan-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spring-onion-szechuan-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:54:57Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "spring onions",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
