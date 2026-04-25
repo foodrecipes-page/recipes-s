@@ -1,0 +1,75 @@
+{
+  "title": "Sumac Velveteen Sous-Vide",
+  "description": "A salty, velvety French dish featuring sumac and prepared using sous-vide for a tender and flavorful texture.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef brisket",
+      "amount": "200g",
+      "notes": "Kosher beef, preferably aged for at least a month"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "15ml",
+      "notes": "For tenderizing and flavoring the meat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Fine sea salt or kosher salt"
+    },
+    {
+      "name": "Sumac",
+      "amount": "2 teaspoons",
+      "notes": "Freshly ground for best results"
+    },
+    {
+      "name": "Balsamic glaze (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For additional sweetness and depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Wash the brisket thoroughly, dry it well with paper towels.",
+    "Preheat the sous-vide machine to 57°C (134°F).",
+    "In a small bowl, mix apple cider vinegar and salt until dissolved. Apply this marinade to both sides of the brisket, ensuring even coverage.",
+    "Place the brisket in the sous-vide pouch with a portion of balsamic glaze if desired. Seal the bag and cook for 48 hours at 57°C (134°F).",
+    "After cooking, let it rest for about 20 minutes before slicing thinly across the grain.",
+    "Sear slices on high heat in a hot pan or grill until golden brown on both sides. Brush with remaining balsamic glaze if using.",
+    "Serve immediately with lemon wedges and sumac dusted over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 480,
+  "totalTimeMin": 490,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "sumac",
+    "sous-vide",
+    "velvety",
+    "adventurous",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 1058,
+    "protein": 63,
+    "carbs": 4,
+    "fat": 42
+  },
+  "slug": "sumac-velveteen-sous-vide",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sumac-velveteen-sous-vide",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:59:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "sous-vide",
+    "primaryIngredient": "sumac",
+    "diet": "kosher",
+    "region": null
+  }
+}
