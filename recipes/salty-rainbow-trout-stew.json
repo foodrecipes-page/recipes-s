@@ -1,0 +1,94 @@
+{
+  "title": "Salty Rainbow Trout Stew",
+  "description": "A savory and juicy Chinese-inspired dish featuring rainbow trout braised in a low-carb-friendly sauce that's perfect for a romantic dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout Fillets",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "Low-Sodium Chicken Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "3 slices fresh ginger, finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves garlic, minced"
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "1 cup quartered water chestnuts"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 carrots, diced"
+    },
+    {
+      "name": "Celery Sticks",
+      "amount": "2 celery sticks, sliced thinly"
+    },
+    {
+      "name": "Red Bell Peppers",
+      "amount": "2 red bell peppers, seeded and chopped"
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "1 bunch finely chopped for garnish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place trout fillets in a baking dish. Pour broth over the top.",
+    "Mix soy sauce, ginger, garlic, water chestnuts, and carrots into the liquid. Simmer for about 2 minutes on medium heat until the mixture is slightly thickened.",
+    "Pour the sauce evenly over the trout fillets. Bake for about 15-20 minutes or until fish flakes easily with a fork.",
+    "Combine celery slices, red bell peppers, and green onions in a separate pan. Sauté for about 5 minutes until vegetables soften slightly.",
+    "Garnish baked trout with sautéed vegetables before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salty",
+    "rainbow-trout",
+    "romantic",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "salty-rainbow-trout-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-rainbow-trout-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:38:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "rainbow trout",
+    "diet": "low-carb",
+    "region": null
+  }
+}
