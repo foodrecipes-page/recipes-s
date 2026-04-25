@@ -1,0 +1,68 @@
+{
+  "title": "Sous-Vide Fermented Crumbly Bramble Crunch",
+  "description": "A diabetic-friendly Algerian dish featuring fermented bramley apples cooked sous-vide and served as a post-workout snack with a crunchy texture.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bramley Apples",
+      "amount": "2 pcs"
+    },
+    {
+      "name": "Sugar (Diabetically Adjusted)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Filtered Water",
+      "amount": "3/4 cup"
+    }
+  ],
+  "instructions": [
+    "Place the Bramley Apples in a pot with the adjusted sugar, apple cider vinegar, and filtered water.",
+    "Bring to a boil then reduce heat and let simmer for about 20 minutes or until the apples have broken down slightly.",
+    "Using an immersion blender or carefully transferring to a blender, puree the mixture until smooth. Strain through cheesecloth to remove any seeds or pulp."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "fermented",
+    "crumbly",
+    "algerian",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 1.8,
+    "carbs": 14.3,
+    "fat": 0.2
+  },
+  "slug": "sous-vide-bramble-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-bramble-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:29:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "bramley apples",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
