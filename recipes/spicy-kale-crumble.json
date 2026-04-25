@@ -1,0 +1,86 @@
+{
+  "title": "Spicy Kale Crumble",
+  "description": "A quick and healthy snack featuring raw kale combined with spicy seasonings for a monsoon polish dish that's perfect for keto-friendly meals.",
+  "cuisine": "Keto & Vegan",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 bunch of kale leaves",
+      "amount": "whole",
+      "notes": "Washed and dried"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp",
+      "notes": "Can be substituted with avocado or macadamia nut oil for a keto-friendly option"
+    },
+    {
+      "name": "1 teaspoon garlic powder",
+      "amount": "tsp",
+      "notes": "More to taste for added heat and flavor"
+    },
+    {
+      "name": "1/2 teaspoon ground cumin",
+      "amount": "tsp",
+      "notes": "For earthy undertones"
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika",
+      "amount": "tsp",
+      "notes": "To bring out the spiciness"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Wash the kale leaves thoroughly and pat them dry. Tear the kale into bite-sized pieces.",
+    "In a mixing bowl, combine the olive oil, garlic powder, cumin, smoked paprika, salt, and pepper. Mix well until all ingredients are coated evenly with the mixture.",
+    "Add the torn kale to the mixing bowl and toss gently to ensure every piece is coated with the spice rub.",
+    "Transfer the mixed kale into a parchment-lined baking sheet. Spread it out in a single layer to allow even cooking.",
+    "Roast the kale for 15-20 minutes, shaking the tray once halfway through to prevent burning. The goal is to achieve crispy edges and slightly wilted center for the crumbly texture desired.",
+    "Once done, remove from heat and let cool enough so you can handle it without burning your hands before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kale",
+    "crumble",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 48,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 10
+  },
+  "slug": "spicy-kale-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-kale-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:10:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "saute",
+    "primaryIngredient": "raw vegetables",
+    "diet": "keto",
+    "region": null
+  }
+}
