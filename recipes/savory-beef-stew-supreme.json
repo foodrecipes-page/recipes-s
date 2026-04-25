@@ -1,0 +1,91 @@
+{
+  "title": "Savory Beef Stew Supreme",
+  "description": "A hearty savory dish featuring tender beef fillet in a flavorful sauce that's perfect for brunch and packed with protein.",
+  "cuisine": "jamaican",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "150ml"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Olives",
+      "amount": "20 slices"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat. Add olive oil and sauté diced onion and minced garlic until translucent.",
+    "Add sliced beef, crumbled black olives, salt, cayenne pepper, flour, and tomato puree to the pot. Stir well.",
+    "Pour in chicken broth and bring to a boil. Reduce heat to low and let it simmer for about 45 minutes or until the beef is tender.",
+    "Add sliced carrots and potatoes after 30 minutes of cooking. Continue to cook until the vegetables are soft and the stew has thickened slightly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory-beef-stew-supreme",
+    "salty-jamaican-dish",
+    "high-protein-friendly-food"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "savory-beef-stew-supreme",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-beef-stew-supreme",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:12:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "beef fillet",
+    "diet": "high-protein",
+    "region": null
+  }
+}
