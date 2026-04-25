@@ -1,0 +1,99 @@
+{
+  "title": "Spicy Crusty Flour Crumble",
+  "description": "A flavorful and flaky dish perfect for a sick-day meal, featuring malai to add richness and spice.",
+  "cuisine": "Indian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melted ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pepper powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "saffron strands",
+      "amount": "2-3"
+    },
+    {
+      "name": "milk (optional)",
+      "amount": "50 ml"
+    }
+  ],
+  "instructions": [
+    "Mix all the ingredients in a bowl, except for milk.",
+    "Fold the mixture into itself to form a crumb consistency. Add more flour or ghee if needed to achieve desired texture.",
+    "If using milk, add it and knead well until you have a smooth dough.",
+    "Preheat oven to 180°C (350°F).",
+    "Transfer the dough onto a greased baking tray or sheet.",
+    "Use your fingers to press down on the crumble in an even layer. Leave some raised edges for added texture.",
+    "Bake for about 15-20 minutes, checking occasionally until golden brown and crispy.",
+    "Remove from oven and let it cool before slicing into pieces."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky-spice",
+    "malai-crumble",
+    "sick-day-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "spicy-crusty-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crusty-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:38:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "malai",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "flour",
+    "descriptor": "Spicy",
+    "dishForm": "Crumble"
+  }
+}
