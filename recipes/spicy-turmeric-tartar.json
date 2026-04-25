@@ -1,0 +1,68 @@
+{
+  "title": "Spicy Turmeric Tartar",
+  "description": "A light and festive Argentinean dish featuring garlic-infused spicy turmeric powder with a touch of zestiness from pickled vegetables, suitable for nut-free diets.",
+  "cuisine": "Argentine",
+  "diet": [
+    "pescatarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": "powdered"
+    },
+    {
+      "name": "100g pickled vegetables (capers or radishes)",
+      "amount": "sliced"
+    },
+    {
+      "name": "2 tbsp mayonnaise (nut-free option)",
+      "amount": "smooth blend"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine minced garlic, turmeric powder, pickled vegetables, mayonnaise, salt, and pepper in a mixing bowl.",
+    "Mix until all ingredients are evenly combined and the mixture is smooth and creamy.",
+    "Serve chilled as a snack or light appetizer."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "tartar",
+    "turmeric",
+    "argentine"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 0
+  },
+  "slug": "spicy-turmeric-tartar",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-turmeric-tartar",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:52:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "pickle",
+    "primaryIngredient": "turmeric powder",
+    "diet": "nut-free",
+    "region": null
+  }
+}
