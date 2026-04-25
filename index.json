@@ -313,7 +313,7 @@
     "shard": "s"
   },
   {
-    "slug": "shallot-steam-pâté",
+    "slug": "shallot-steam-pate",
     "title": "Shallot Steam Pâté",
     "tags": [
       "shallot",
@@ -366,7 +366,7 @@
     "shard": "s"
   },
   {
-    "slug": "sherry-mélange",
+    "slug": "sherry-melange",
     "title": "Sherry Mélange",
     "tags": [
       "sherry-melange",
@@ -645,6 +645,19 @@
     "shard": "s"
   },
   {
+    "slug": "smoke-glow",
+    "title": "SmokeGlow",
+    "tags": [
+      "smokeglow",
+      "lightgreekdish",
+      "fermented",
+      "velvetygreek"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 5,
+    "shard": "s"
+  },
+  {
     "slug": "smoke-infused-courgette-melanzane",
     "title": "Smoke-Infused Courgette Melanzane",
     "tags": [
@@ -683,6 +696,18 @@
     "shard": "s"
   },
   {
+    "slug": "smoke-poppy-jain",
+    "title": "SmokePoppyJain",
+    "tags": [
+      "poppy seeds",
+      "smoke flavoring",
+      "vegan dish"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
     "slug": "smoke-potato-delight",
     "title": "Smoke Potato Delight",
     "tags": [
@@ -693,6 +718,19 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "smoke-quinovy",
+    "title": "SmokeQuinovy",
+    "tags": [
+      "smoke-infused",
+      "saudi-arabian-dish",
+      "hangover-cure",
+      "savory-velvety"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -759,19 +797,6 @@
     "shard": "s"
   },
   {
-    "slug": "smokeglow",
-    "title": "SmokeGlow",
-    "tags": [
-      "smokeglow",
-      "lightgreekdish",
-      "fermented",
-      "velvetygreek"
-    ],
-    "cuisine": "Greek",
-    "totalTimeMin": 5,
-    "shard": "s"
-  },
-  {
     "slug": "smokeground-nuts",
     "title": "Smokeground Nuts",
     "tags": [
@@ -796,31 +821,6 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 50,
-    "shard": "s"
-  },
-  {
-    "slug": "smokepoppyjain",
-    "title": "SmokePoppyJain",
-    "tags": [
-      "poppy seeds",
-      "smoke flavoring",
-      "vegan dish"
-    ],
-    "cuisine": "Russian",
-    "totalTimeMin": 30,
-    "shard": "s"
-  },
-  {
-    "slug": "smokequinovy",
-    "title": "SmokeQuinovy",
-    "tags": [
-      "smoke-infused",
-      "saudi-arabian-dish",
-      "hangover-cure",
-      "savory-velvety"
-    ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -858,6 +858,18 @@
       "air-fry"
     ],
     "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crisp-pretzel",
+    "title": "SmokyCrispPretzel",
+    "tags": [
+      "smoky",
+      "crisp",
+      "pretzel"
+    ],
+    "cuisine": "Uruguayan",
     "totalTimeMin": 45,
     "shard": "s"
   },
@@ -995,18 +1007,6 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 40,
-    "shard": "s"
-  },
-  {
-    "slug": "smokycrisppretzel",
-    "title": "SmokyCrispPretzel",
-    "tags": [
-      "smoky",
-      "crisp",
-      "pretzel"
-    ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -1402,6 +1402,19 @@
     "shard": "s"
   },
   {
+    "slug": "spicy-love-yogurt-wrap",
+    "title": "SpicyLoveYogurtWrap",
+    "tags": [
+      "spicy",
+      "love",
+      "yogurt",
+      "paleo"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
     "slug": "spicy-marrakech-steak-medley",
     "title": "Spicy Marrakech Steak Medley",
     "tags": [
@@ -1489,19 +1502,6 @@
     ],
     "cuisine": "Argentine",
     "totalTimeMin": 5,
-    "shard": "s"
-  },
-  {
-    "slug": "spicyloveyogurtwrap",
-    "title": "SpicyLoveYogurtWrap",
-    "tags": [
-      "spicy",
-      "love",
-      "yogurt",
-      "paleo"
-    ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -1634,7 +1634,7 @@
     "shard": "s"
   },
   {
-    "slug": "stonemedisee",
+    "slug": "stone-medisee",
     "title": "StoneMedisee",
     "tags": [
       "stone-medisee",
@@ -1733,7 +1733,7 @@
     "shard": "s"
   },
   {
-    "slug": "sugar-curaçao",
+    "slug": "sugar-curacao",
     "title": "Sugar Curaçao",
     "tags": [
       "sugar-curacao",
