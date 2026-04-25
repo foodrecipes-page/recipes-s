@@ -1,0 +1,82 @@
+{
+  "title": "Smoke Feast Galangal Wrap",
+  "description": "A rich, juicy, energizing Tunisian dish featuring galangal wrapped in gluten-free-friendly bread for a satisfying snack or appetizer.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat wraps",
+      "amount": "8"
+    },
+    {
+      "name": "Fresh galangal",
+      "amount": "1 cup, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable or grill pan",
+      "notes": "For smoking"
+    }
+  ],
+  "instructions": [
+    "Prepare the galangal mixture by mixing chopped galangal with minced garlic, salt, and black pepper.",
+    "Heat a skillet over medium heat and add olive oil and butter. Once melted and bubbly, add the galangal mixture.",
+    "Cook until slightly softened (about 5 minutes), stirring occasionally.",
+    "Remove from heat and let it cool completely before wrapping in whole wheat wraps.",
+    "Preheat your grill or smoker to medium-high heat. Wrap prepared galangal mixture inside a wrap and place on the grill or smoker for about 3-4 minutes per side, until heated through and lightly charred.",
+    "Serve hot as an appetizer or snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "galangal",
+    "snack",
+    "smoke"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6.5,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "smoke-feast-galangal-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-feast-galangal-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:23:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "smoke",
+    "primaryIngredient": "galangal",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
