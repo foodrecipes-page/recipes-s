@@ -1,0 +1,99 @@
+{
+  "title": "Savory Silk Coconut Soup",
+  "description": "A silky, salty, egg-free Brazilian dish that's perfect for hangovers and prepared using sous-vide technology to achieve a smooth texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can full-fat coconut milk",
+      "amount": "one (20 oz) can",
+      "notes": "Ensure it's full-fat for a richer flavor."
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "cup",
+      "notes": "Use this to enhance the silky texture and saltiness."
+    },
+    {
+      "name": "4 slices of bacon, cooked and crumbled (optional)",
+      "amount": "four slices",
+      "notes": "For added flavor but optional for vegans"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "one medium onion",
+      "notes": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "two cloves",
+      "notes": ""
+    },
+    {
+      "name": "3 cups chicken or vegetable stock",
+      "amount": "three (480 ml) cups",
+      "notes": "Use unsalted for best flavor."
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": "one whole",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 160°F (71°C).",
+    "In a large pot, sauté the onions and garlic in the bacon fat until softened.",
+    "Add the stock, bay leaf, and salt. Bring to a simmer and cook for about 20 minutes.",
+    "Transfer the soup mixture into your sous-vide bag and seal tightly.",
+    "Place the bag in the water bath set at 160°F (71°C) for 2 hours.",
+    "While it cooks, combine coconut milk and heavy cream in a blender. Blend until smooth.",
+    "When done, let the soup cool to room temperature before blending with the coconut mixture.",
+    "Strain the blended soup through a fine-mesh sieve into serving bowls.",
+    "Serve immediately for best texture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "coconut-milk",
+    "hangover-cure",
+    "silky-texture",
+    "brazilian-dish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "savory-silk-coconut-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-silk-coconut-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:28:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "coconut milk",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Coconut",
+    "descriptor": "Savory Silk",
+    "dishForm": "Soup"
+  }
+}
