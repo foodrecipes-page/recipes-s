@@ -1,0 +1,67 @@
+{
+  "title": "Salt Butter Comfort Bowl",
+  "description": "A sweet and silky whole30-friendly Filipino dish featuring salted butter baked until golden brown.",
+  "cuisine": "Philippine",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "salted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "In a mixing bowl, combine the salted butter, honey, maple syrup, coconut cream, and vanilla extract. Mix well until fully combined.",
+    "Transfer the mixture into a greased baking dish.",
+    "Bake for approximately 20-25 minutes or until golden brown on top.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort_bowl",
+    "sweet_and_savory"
+  ],
+  "nutrition": {
+    "calories": 683,
+    "protein": 15,
+    "carbs": 97,
+    "fat": 42
+  },
+  "slug": "salt-butter-comfort-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salt-butter-comfort-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:34:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "salted butter",
+    "diet": "whole30",
+    "region": null
+  }
+}
