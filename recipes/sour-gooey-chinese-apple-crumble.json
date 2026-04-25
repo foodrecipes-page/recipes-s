@@ -1,0 +1,75 @@
+{
+  "title": "Sour Gooey Chinese Apple Crumble",
+  "description": "A kid-friendly and whole30-friendly sour gooey Chinese apple crumble featuring apple juice as the main sweetener.",
+  "cuisine": "Chinese (Zhejiang)",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup apple slices",
+      "amount": "",
+      "notes": "Wash and dry"
+    },
+    {
+      "name": "2 tablespoons apple juice",
+      "amount": "",
+      "notes": "Freshly squeezed is preferred for best flavor"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": "To taste, use more if needed"
+    },
+    {
+      "name": "1 tablespoon whole wheat flour (or almond flour)",
+      "amount": "",
+      "notes": "For a gluten-free option, replace with flax seeds mixed with water as binder"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine apple slices and juice in a bowl. Season with salt.",
+    "In a separate bowl, mix flour with a bit of water until smooth and pour over the apples, making sure they are evenly coated.",
+    "Transfer the mixture into a baking dish lined with parchment paper.",
+    "Sprinkle 1/2 cup whole wheat granola (or coconut flakes for a dairy-free option) on top of the apple slices.",
+    "Bake for about 30 minutes or until golden brown and bubbly. Serve warm as a dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "gooey",
+    "chinese-apple-crumble",
+    "kid-friendly",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 26,
+    "fat": 2
+  },
+  "slug": "sour-gooey-chinese-apple-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-gooey-chinese-apple-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:45:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "apple juice",
+    "diet": "whole30",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "apple",
+    "descriptor": "Sour Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
