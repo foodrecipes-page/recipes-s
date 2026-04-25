@@ -1,0 +1,79 @@
+{
+  "title": "Squash Pickle Chaat",
+  "description": "A kid-friendly and ethiopian-inspired squash pickle chaat dish that's peppery and fluffy. Nut-free friendly.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Squash",
+      "amount": "1 cup",
+      "notes": "Use small, thinly sliced squash"
+    },
+    {
+      "name": "Pickles",
+      "amount": "2 tablespoons",
+      "notes": "Slice pickles into thin rounds"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "3/4 cup",
+      "notes": "For thickening and flavor"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed for a tangy touch"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": "To add warmth and depth of flavor"
+    },
+    {
+      "name": "Nuts (optional, substitute with seeds)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Heat coconut milk in a small saucepan until simmering. Remove from heat and stir in lemon juice and cumin seeds.",
+    "Slice squash into thin rounds and place on a baking sheet lined with parchment paper.",
+    "Drizzle the hot coconut milk mixture over the squash slices, then add pickles on top and sprinkle some seeds for crunch if using.",
+    "Bake for 10 minutes or until the squash is tender.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "squash",
+    "pickle",
+    "ethiopian",
+    "peppery",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "squash-pickle-chaat",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/squash-pickle-chaat",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:01:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "squash",
+    "diet": "nut-free",
+    "region": null
+  }
+}
