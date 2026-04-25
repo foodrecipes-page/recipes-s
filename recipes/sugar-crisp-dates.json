@@ -1,0 +1,64 @@
+{
+  "title": "Floral Sugar Crisp Dates",
+  "description": "A raw-friendly date-night korean dish featuring floral notes and a crunchy texture made with dark brown sugar.",
+  "cuisine": "Korean",
+  "diet": [
+    "raw",
+    "sugar-free",
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "12 pcs"
+    },
+    {
+      "name": "Dark Brown Sugar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (400°F).",
+    "Soften the dates in a small bowl with a little warm water until they are pliable.",
+    "Spread the softened dates out on a baking sheet lined with parchment paper.",
+    "In a separate small bowl, mix together dark brown sugar and coconut oil to form a crumbly mixture.",
+    "Sprinkle the dark brown sugar and coconut oil mixture evenly over the dates.",
+    "Bake in the preheated oven for about 15 minutes or until golden brown.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sugar-crisp",
+    "dates",
+    "korean-dessert"
+  ],
+  "nutrition": {
+    "calories": 389,
+    "protein": 1.7,
+    "carbs": 56.2,
+    "fat": 20.4
+  },
+  "slug": "sugar-crisp-dates",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sugar-crisp-dates",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:08:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "raw",
+    "region": null
+  }
+}
