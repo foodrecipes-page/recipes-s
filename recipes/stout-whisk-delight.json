@@ -1,0 +1,90 @@
+{
+  "title": "Stout Whisk Delight",
+  "description": "A high-protein-friendly umami-rich dish featuring stout and whisk in a one-pot greek style.",
+  "cuisine": "Greeks",
+  "diet": [
+    "high-protein",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Stout Beer",
+      "amount": "1 cup",
+      "notes": "Use low-calorie stout if available"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "2 cups",
+      "notes": "Full-fat for more protein and flavor"
+    },
+    {
+      "name": "Crumbled Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional, can be substituted with other high-protein cheese like gouda or cheddar"
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely to release its natural sweetness and umami"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1",
+      "notes": "Mince for extra flavor"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Whole eggs or beaten, depending on texture preference"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": "For sautéing and adding umami depth"
+    },
+    {
+      "name": "Water or Low-Sodium Broth",
+      "amount": "1 cup",
+      "notes": "To thin the mixture for a more smooth texture"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat olive oil over medium-high heat.",
+    "Add minced onion and garlic. Cook until soft and translucent, about 5 minutes.",
+    "Pour in stout beer, whisk to combine thoroughly, and stir in water or broth.",
+    "Reduce heat to low, cover the pot, and simmer for 10-12 minutes allowing flavors to meld together.",
+    "Whisk in Greek yogurt. For a smoother texture, you may need to add more liquid like water or Low-Sodium Broth until it reaches desired consistency.",
+    "Add eggs one at a time while stirring continuously; this creates an emulsified mixture and helps distribute the protein evenly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "stout",
+    "whisk",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 427,
+    "protein": 41,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "stout-whisk-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/stout-whisk-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:46:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "whisk",
+    "primaryIngredient": "stout",
+    "diet": "high-protein",
+    "region": null
+  }
+}
