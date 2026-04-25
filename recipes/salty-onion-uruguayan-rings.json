@@ -1,0 +1,70 @@
+{
+  "title": "Salty Onion Uruguayan Rings",
+  "description": "These whole30-friendly onion rings feature a crispy exterior and savory inside, perfect for a light lunch or snack during the monsoon season.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onion Rings",
+      "amount": "1 can"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Slice the whole grain bread into thin rings and toast until golden brown, about 5 minutes.",
+    "Drain the onion rings, leaving any excess oil. Pat them dry with paper towels to remove moisture.",
+    "Place the toasted bread circles on a baking sheet lined with parchment paper.",
+    "Brush both sides of the toasted bread and the drained onion rings with olive oil. Season generously with sea salt.",
+    "Bake in the preheated oven for 10-12 minutes, or until golden brown and crispy on the outside.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "onion-rings",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 2,
+    "carbs": 13,
+    "fat": 6
+  },
+  "slug": "salty-onion-uruguayan-rings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-onion-uruguayan-rings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:59:20Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "toast",
+    "primaryIngredient": "onion rings",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Onion",
+    "descriptor": "Salty",
+    "dishForm": "Rings"
+  }
+}
