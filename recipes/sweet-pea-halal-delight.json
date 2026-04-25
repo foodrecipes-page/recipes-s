@@ -1,0 +1,88 @@
+{
+  "title": "Sweet Pea Halal Delight",
+  "description": "A sweet and fluffy Vietnamese dish featuring peas, dumplings that are halal-friendly and perfect for a romantic dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh or frozen sweet peas",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons brown sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 large egg whites",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons tapioca flour or cornstarch",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup warm water (for egg wash)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil for frying",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place sweet peas in a saucepan with brown sugar, salt and water. Bring to a simmer over medium heat until the liquid is reduced by half.",
+    "Whisk together egg whites and tapioca flour/cornstarch until smooth. Gradually add warm water, continuing to whisk until mixture thickens slightly (like thin gravy).",
+    "Pour pea sauce into egg whites mixture and stir gently until combined. Allow to rest for 10 minutes.",
+    "Preheat oil in a large skillet over medium-high heat. Using a small ice cream scoop or tablespoon, drop pea mixture by teaspoons onto hot oil. Fry until golden brown on both sides (about 2-3 minutes per side).",
+    "Drain excess oil from dumplings and serve with a sweet sauce for dipping if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet_pea_halal_delight",
+    "vegan_dumplings",
+    "romantic_vietnamese_cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 7,
+    "carbs": 16,
+    "fat": 3
+  },
+  "slug": "sweet-pea-halal-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-pea-halal-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:22:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "peas",
+    "diet": "halal",
+    "region": null
+  }
+}
