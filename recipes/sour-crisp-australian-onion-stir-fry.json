@@ -1,0 +1,75 @@
+{
+  "title": "Sour Crisp Australian Onion Stir-fry",
+  "description": "This paleo-friendly dish features a blend of all-purpose seasoning with tenderized onions for a show-off Australian flair in a quick stir-fry.",
+  "cuisine": "Australian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "1 piece"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "2 tablespoons all-purpose seasoning blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Chop the onion into small pieces and finely mince the garlic.",
+    "Place the chopped onions in a bowl, sprinkle with the all-purpose seasoning blend, and lightly season with salt. Let sit for at least 10 minutes to soften them up.",
+    "Heat your pan over medium heat and add enough oil to coat the bottom of the pan.",
+    "Add the seasoned onions to the pan and cook until they are tender but not soft, stirring occasionally.",
+    "Squeeze the lime juice into the onions and toss well to incorporate.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crisp",
+    "australian",
+    "stir-fry",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 6
+  },
+  "slug": "sour-crisp-australian-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crisp-australian-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:45:25Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "onion",
+    "descriptor": "Sour Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
