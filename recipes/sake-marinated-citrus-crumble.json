@@ -1,0 +1,85 @@
+{
+  "title": "Sake Marinated Citrus Crumble",
+  "description": "An indulgent Argentinean dish featuring sake marinate and citrusy crumbles, suitable for Jain followers.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "lemon",
+      "amount": "1"
+    },
+    {
+      "name": "orange",
+      "amount": "1"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, peeled and grated"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "almond meal or oat flour",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Juice the lemons and oranges, then mix with sake, ginger, sesame seeds, coconut flakes, and cocoa powder.",
+    "Let the mixture sit for at least 1 hour to allow flavors to meld.",
+    "Preheat oven to 350°F (175°C).",
+    "Stir in almond meal or oat flour until crumbly consistency is achieved.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper and bake for about 20-25 minutes, stirring every 10 minutes.",
+    "The crumble will be golden brown on top and crisp. Cool before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sake",
+    "marinated",
+    "citrusy",
+    "crumbly",
+    "indulgent",
+    "argentinean",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "sake-marinated-citrus-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sake-marinated-citrus-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:40:01Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "marinate",
+    "primaryIngredient": "sake",
+    "diet": "jain",
+    "region": null
+  }
+}
