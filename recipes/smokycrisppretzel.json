@@ -1,0 +1,65 @@
+{
+  "title": "SmokyCrispPretzel",
+  "description": "A smoky and crispy midnight-craving Uruguayan dish featuring pretzels, prepared with sous-vide for egg-free-friendliness.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pretzel pieces",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sea salt flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide to 70°C.",
+    "In a small bowl, mix the sea salt and smoked paprika together.",
+    "Once the smoky mixture is ready, add it to the pretzel pieces in a large zip-top bag.",
+    "Seal the bag and place the pretzels into the water bath for about 30 minutes.",
+    "After vacuum sealing, let the pretzels cool for about 15-20 minutes outside of the sous-vide chamber.",
+    "Once cooled, brush olive oil over them to make them extra crispy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crisp",
+    "pretzel"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 4,
+    "carbs": 3,
+    "fat": 4
+  },
+  "slug": "smokycrisppretzel",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smokycrisppretzel",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:13:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "pretzels",
+    "diet": "egg-free",
+    "region": null
+  }
+}
