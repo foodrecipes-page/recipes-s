@@ -1,0 +1,67 @@
+{
+  "title": "Silky Haricot Surprise",
+  "description": "A show-off Mexican dish featuring haricot beans that are fried until crispy and silky smooth, perfect for a snack or dessert offering.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 can of haricot beans",
+      "amount": "240 ml",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "",
+      "notes": "Optional for dusting before frying"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your kitchen's oven to 400°F (205°C).",
+    "If using, lightly dust the haricot beans with flour.",
+    "In a large skillet, heat the vegetable oil over medium-high heat until shimmering hot but not smoking.",
+    "Add the haricot beans and cook for about 3-5 minutes or until golden brown on all sides. Stir occasionally to ensure even browning.",
+    "Remove from heat immediately after cooking, as the beans continue to cook in the pan.",
+    "Sprinkle salt over the fried haricot beans while still hot, tossing gently to coat evenly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "haricot beans",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "silky-haricot-surprise",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-haricot-surprise",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:55:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "fry",
+    "primaryIngredient": "haricot beans",
+    "diet": "jain",
+    "region": null
+  }
+}
