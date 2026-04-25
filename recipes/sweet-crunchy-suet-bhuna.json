@@ -1,0 +1,85 @@
+{
+  "title": "Sweet Crunchy Suet Bhuna",
+  "description": "A sweet and crunchy one-pot Slovakian dish featuring suet, a dairy product that makes the perfect savory component for this recipe.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "100g"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium, finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 large, diced"
+    },
+    {
+      "name": "peas",
+      "amount": "150g canned or frozen"
+    },
+    {
+      "name": "flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add suet and onions, cook until translucent.",
+    "Stir in flour, mix well to avoid lumps, then gradually add sugar and salt while stirring continuously for about 2 minutes.",
+    "Gradually pour in liquid (water or stock) ensuring there are no lumps, let it simmer for a minute.",
+    "Add carrots and peas, cover with a lid, reduce heat to low, cook until all ingredients are soft and well combined.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crunchy",
+    "slovakian",
+    "bhuna",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "sweet-crunchy-suet-bhuna",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crunchy-suet-bhuna",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:54:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "suet",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Suet",
+    "descriptor": "sweet crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
