@@ -1,0 +1,81 @@
+{
+  "title": "Spicy Earthy Tella",
+  "description": "A weeknight Ethiopian dish featuring a combination of earthy flavors and paprika, gluten-free-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Tella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Olives",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "4-5 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a mixing bowl, combine Gluten-Free Tella with Paprika, Garlic Powder, and Salt. Mix well.",
+    "Drizzle coconut oil over the mixture and mix until evenly coated.",
+    "Arrange the Tella mixture on a baking sheet lined with parchment paper in an even layer.",
+    "Sprinkle Red Pepper Flakes evenly over the Tella mixture.",
+    "Place Black Olives on top of each piece of Tella. Arrange Fresh Basil Leaves around the edges for garnish.",
+    "Bake for 25 minutes or until golden brown and crispy, then remove from oven.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-earthly",
+    "tella-dish",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "spicy-earthy-tella",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-earthy-tella",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:13:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "paprika",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
