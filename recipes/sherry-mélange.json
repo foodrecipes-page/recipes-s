@@ -1,0 +1,66 @@
+{
+  "title": "Sherry Mélange",
+  "description": "A light and nutty dish featuring sweet sherry, perfect for a dessert or snack option.",
+  "cuisine": "Monsoon Norwegian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup heavy cream",
+      "amount": "",
+      "notes": "Use full-fat to enhance richness."
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "to taste",
+      "notes": "For non-sugar free version, adjust sweetness accordingly."
+    },
+    {
+      "name": "1/2 cup sweetened condensed milk",
+      "amount": "use as is"
+    },
+    {
+      "name": "3 tablespoons cognac or another dark liquor of your choice",
+      "amount": "",
+      "notes": "To enhance flavors without adding sugars."
+    }
+  ],
+  "instructions": [
+    "Combine heavy cream, sugar, and sweetened condensed milk in a saucepan.",
+    "Stir over medium heat until the mixture starts to simmer gently.",
+    "Reduce heat to low, add liqueur (if using), and cook for an additional 5 minutes without stirring.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sherry-melange",
+    "nutty-dish",
+    "sweet-sherry"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 6,
+    "carbs": 19,
+    "fat": 24
+  },
+  "slug": "sherry-mélange",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sherry-mélange",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:13:33Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "sweet sherry",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
