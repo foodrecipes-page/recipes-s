@@ -1,0 +1,82 @@
+{
+  "title": "Sun-Dried Crispy Saudic Tomato Stir-Fry",
+  "description": "A floral and dense crowd-pleaser Saudi Arabian dish featuring sun-dried tomatoes, perfect for a quick lunch or snack.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sun-Dried Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "a few"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "a handful"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add sun-dried tomatoes and saffron threads, cook for about 2 minutes.",
+    "Add finely chopped onions and garlic, stir-fry until soft, about 5 minutes.",
+    "Stir in tomato sauce, salt, and fresh basil leaves. Bring to a simmer and let cook for another 3-5 minutes until sauce thickens slightly.",
+    "Serve hot with pita bread or naan."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sun-dried tomatoes",
+    "saucy",
+    "butterfly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "sun-dried-crispy-saudic-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sun-dried-crispy-saudic-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:11:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Saudic",
+    "mainIngredient": "Tomato",
+    "descriptor": "Sun-Dried",
+    "dishForm": "Stir-fry"
+  }
+}
