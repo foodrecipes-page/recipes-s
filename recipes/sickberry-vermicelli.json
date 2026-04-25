@@ -1,0 +1,78 @@
+{
+  "title": "Sickberry Vermicelli",
+  "description": "A comforting vegetarian-friendly sick-day dish featuring nutty, juicy vermicelli pasta with a light seasoning and cure.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sickberry Vermicelli Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegan Parmesan Cheese",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Herbs (Optional)",
+      "amount": "dash"
+    },
+    {
+      "name": "Spices (Optional)",
+      "amount": "dash"
+    }
+  ],
+  "instructions": [
+    "Boil the vermicelli pasta according to package instructions.",
+    "In a small bowl, mix together peanut butter and milk until smooth.",
+    "Drain the boiled vermicelli and add it to the peanut butter mixture. Stir well.",
+    "Sprinkle vegan parmesan cheese and nutritional yeast over the top.",
+    "If desired, garnish with herbs and spices for extra flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sickberry",
+    "vermicelli",
+    "cure",
+    "nutritious"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "sickberry-vermicelli",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sickberry-vermicelli",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:01:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
