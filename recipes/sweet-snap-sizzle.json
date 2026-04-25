@@ -1,0 +1,99 @@
+{
+  "title": "Sweet Snap Sizzle",
+  "description": "A spicy and tender meal-prep Egyptian dish featuring sugar snap peas, made pescatarian-friendly with a sweet-savory sauce.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sugar Snap Peas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "6-8 small pieces (finely chopped)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 medium, finely diced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine sugar snap peas and finely chopped green chilies.",
+    "Add minced garlic, finely chopped cilantro, diced shallots, tomato paste, soy sauce, olive oil, paprika, ground cumin, salt, and pepper. Mix well to ensure all ingredients are evenly distributed.",
+    "Taste test the mixture and adjust seasoning if needed.",
+    "Divide the mixture into individual portions for meal prep.",
+    "Store in an airtight container in the refrigerator or freezer for up to 1 week."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-savory",
+    "meal-prep",
+    "egyptian",
+    "spicy",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "sweet-snap-sizzle",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-snap-sizzle",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:58:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "whisk",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
