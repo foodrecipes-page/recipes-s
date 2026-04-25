@@ -1,0 +1,78 @@
+{
+  "title": "SunFlax Crunch Wrap",
+  "description": "A tangy and crunchy solo dinner dish featuring a blend of sunflower oil for added flavor.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups mixed greens",
+      "amount": "cup",
+      "notes": "Use any combination of spinach, arugula, and romaine"
+    },
+    {
+      "name": "1/4 cup sunflower oil",
+      "amount": "cup",
+      "notes": "For extra tanginess and crunchiness"
+    },
+    {
+      "name": "Juice from 2 limes",
+      "amount": "juice from 2 limes"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves",
+      "notes": "Optional for added flavor"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 cup finely chopped fresh parsley or cilantro (optional)",
+      "amount": "cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sunflower seeds, toasted and coarsely ground",
+      "amount": "about 2 tablespoons",
+      "notes": "Toasted sunflower seeds can be used as a topping or mixed into the greens for added crunch"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the mixed greens, lime juice from two limes, minced garlic (if using), salt, and finely chopped parsley or cilantro.",
+    "Drizzle with sunflower oil until the mixture is evenly moist but not dripping.",
+    "Garnish with toasted and coarsely ground sunflower seeds if desired.",
+    "Serve immediately as a side dish for a solo dinner experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sunflower",
+    "tangy",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "sunflax-crunch-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sunflax-crunch-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:46:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "sunflower oil",
+    "diet": "dash",
+    "region": null
+  }
+}
