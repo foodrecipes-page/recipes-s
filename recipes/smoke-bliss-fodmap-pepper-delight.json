@@ -1,0 +1,74 @@
+{
+  "title": "Smoke Bliss FodMap Pepper Delight",
+  "description": "This fermented, fluffy, indulgent Norwegian dish features sweet red peppers and smoke, made with a fodmap-friendly twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "no-sugar-added"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sweet red peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Whole grain breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fermented dill brine",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Smoke blend (liquid smoke or lightly smoked ham)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Fodmap-friendly seasoning mix (salt, pepper, garlic powder, onion powder)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Cut the red peppers into bite-sized pieces and toss them in a bit of olive oil. Season with a small amount of the seasoning mix until coated.",
+    "In a separate bowl, combine the breadcrumbs, remaining seasonings, and 2 tablespoons of water or milk for binding.",
+    "Transfer the pepper pieces to an oven-safe dish, drizzle with more olive oil, and top with the breadcrumb mixture evenly. Bake for about 15 minutes on each side until golden brown and slightly crispy.",
+    "Reduce heat to low, add the fermented dill brine and smoke blend to a small saucepan, and stir gently while slowly simmering over low heat for another 5-7 minutes or until it reaches your desired consistency. Brush this mixture onto the pepper pieces.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-pepper",
+    "fermented-dill",
+    "norwegian-snack"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "smoke-bliss-fodmap-pepper-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-bliss-fodmap-pepper-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:14:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "smoke",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "fodmap",
+    "region": null
+  }
+}
