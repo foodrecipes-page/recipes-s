@@ -1,0 +1,94 @@
+{
+  "title": "Sick Day Potato Bliss",
+  "description": "A sick-day comfort food featuring Jersey Royal potatoes in a creamy and smoky sauce, perfect for those feeling under the weather.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey Royal potatoes",
+      "amount": "1.5 lbs (700g)",
+      "notes": "Waxy variety that holds its shape when cooked"
+    },
+    {
+      "name": "Bacon bits",
+      "amount": "1/2 cup",
+      "notes": "For added smokiness and richness"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": "Opt for a low-fat or non-dairy option if needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Mashed or minced, depending on preference"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/4 cup (optional)",
+      "notes": "To add a bit of decadence"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "2 tablespoons",
+      "notes": "Used to help reduce the sauce and add depth"
+    },
+    {
+      "name": "Nutritional yeast flakes",
+      "amount": "1 tablespoon (for vegan option)",
+      "notes": "Provides umami flavor without dairy or eggs"
+    },
+    {
+      "name": "Fresh thyme sprigs",
+      "amount": "2-3",
+      "notes": "For a touch of freshness and herbiness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse potatoes under cold water, scrubbing them lightly with a brush if necessary.",
+    "Place the cleaned potatoes in a pot of boiling salted water. Bring back to a boil and cook until tender when pierced with a fork, about 20-25 minutes for medium-sized potatoes.",
+    "Drain the potatoes in a colander and set aside to cool slightly. Once cooled enough to handle, peel them and thinly slice crosswise into rounds or half-moons.",
+    "In a large skillet over medium heat, cook the bacon bits until crispy. Remove the bacon with a slotted spoon and drain on paper towels.",
+    "Warm 2 tablespoons of heavy cream in a saucepan and reduce by half (about 1 minute). If using nutritional yeast flakes, add them during the last minute to prevent clumping.",
+    "Add reduced cream and remaining 3 tablespoons of chicken broth to the skillet with garlic. Cook for another minute until fragrant and slightly thickened.",
+    "Return cooked bacon and any accumulated grease to the skillet. Add sliced potatoes directly into the skillet. Pour over the cream mixture, stir gently so the potatoes are evenly coated. If using cheese, fold in at this stage or add later for a smooth surface.",
+    "Transfer the potato mixture to an ovenproof baking dish (pre-heat before adding). Sprinkle fresh thyme sprigs on top and drizzle with extra heavy cream if desired.",
+    "Bake until golden brown and bubbly, about 25 minutes. Serve hot as a side or main course depending on how rich you want the dish to be.",
+    "For low-carb-friendly versions, consider using cauliflower mash instead of potatoes for a healthier alternative."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sick-day-australian",
+    "smoky-creamy-potato-bliss",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 30
+  },
+  "slug": "sick-day-potato-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-potato-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:11:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "low-carb",
+    "region": null
+  }
+}
