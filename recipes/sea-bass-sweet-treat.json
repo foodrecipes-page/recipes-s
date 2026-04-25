@@ -1,0 +1,84 @@
+{
+  "title": "Air-Fried Sea Bass Sweet Treat",
+  "description": "A comforting and gooey sea bass dish that is crispy outside and soft inside, perfect for a satisfying snack or light meal.",
+  "cuisine": "Asian-Inspired",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "2",
+      "notes": "Fresh and at room temperature"
+    },
+    {
+      "name": "Extra-Virgin Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For frying the sea bass"
+    },
+    {
+      "name": "Vegetable Oil or Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "For air-frying the sea bass"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": "For sweetening the dish"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon",
+      "notes": "Fresh and finely grated for added flavor"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "To enhance the savory taste"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1/8 teaspoon",
+      "notes": "For a touch of earthiness and depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Mix the extra-virgin olive oil, vegetable or coconut oil, granulated sugar, lemon zest, garlic powder, and dried oregano in a small bowl.",
+    "Rub the mixture onto both sides of the sea bass fillets.",
+    "Place the seasoned sea bass fillets on the air fryer basket. Cook for 10-12 minutes until golden brown and cooked through.",
+    "Carefully remove from heat, let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "sea-bass",
+    "sweet-treat",
+    "salty",
+    "gooey",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "sea-bass-sweet-treat",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sea-bass-sweet-treat",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:06:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "sea bass",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
