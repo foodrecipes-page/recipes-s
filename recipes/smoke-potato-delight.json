@@ -1,0 +1,69 @@
+{
+  "title": "Smoke Potato Delight",
+  "description": "A sweet and flaky crowd-pleaser Greek dish featuring potatoes infused with smoke for a unique flavor profile.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "preferably sweet potatoes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoke flavoring",
+      "amount": "1 packet (such as Maldon sea salt flakes)"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "a handful of dill and parsley, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F.",
+    "Peel the potatoes and cut them into bite-sized chunks.",
+    "Place the potato pieces in a large mixing bowl.",
+    "Drizzle the olive oil over the potatoes and toss well to coat evenly.",
+    "Sprinkle the smoke flavoring and chopped fresh herbs over the potatoes, ensuring they're well distributed.",
+    "Spread the seasoned potatoes on a baking sheet lined with parchment paper.",
+    "Bake for 30 minutes or until golden brown and crispy.",
+    "Serve warm as a snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "flaky",
+    "potato",
+    "smoke"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 4
+  },
+  "slug": "smoke-potato-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-potato-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:57:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "smoke",
+    "primaryIngredient": "potatoes",
+    "diet": "fodmap",
+    "region": null
+  }
+}
