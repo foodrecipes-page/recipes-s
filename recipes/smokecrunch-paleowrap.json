@@ -1,0 +1,79 @@
+{
+  "title": "SmokeCrunch PaleoWrap",
+  "description": "A meal-prep Slovakian dish featuring a crispy wrap filled with bacon and lightly smoked vegetables, perfect for a quick breakfast or lunch.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat wraps",
+      "amount": "4"
+    },
+    {
+      "name": "bacon slices",
+      "amount": "8"
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "2"
+    },
+    {
+      "name": "radish slices",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "6"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Toast whole wheat wraps by wrapping them in aluminum foil and baking for 1-2 minutes, or until slightly crisp.",
+    "Meanwhile, slice bacon into thin strips. Season with salt and pepper.",
+    "Place radish slices on a baking sheet lined with parchment paper. Drizzle with a bit of olive oil and season lightly with salt and pepper. Bake for about 5-7 minutes or until crispy.",
+    "Assemble the wraps by layering spinach, smoked radishes, bacon strips, cucumber slices, and a drizzle of olive oil on each wrap. Sprinkle with additional salt and pepper to taste if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "slovakian-meal-prep",
+    "smoked-vegetables",
+    "crispy-wrap",
+    "sour-savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 35,
+    "fat": 16
+  },
+  "slug": "smokecrunch-paleowrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smokecrunch-paleowrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:04:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "bacon",
+    "diet": "paleo",
+    "region": null
+  }
+}
