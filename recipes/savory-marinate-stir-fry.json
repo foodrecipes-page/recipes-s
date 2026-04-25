@@ -1,0 +1,75 @@
+{
+  "title": "Savory Marinate Stir Fry",
+  "description": "This savory and light Vietnamese dish features a diabetic-friendly marinate to add flavor to your choice of vegetables, perfect for any meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tablespoon vegetable oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons fish sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 teaspoon brown sugar",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "piece"
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": "dash"
+    },
+    {
+      "name": "Mixed vegetables (e.g., bell peppers, carrots, broccoli), diced",
+      "amount": "handful"
+    },
+    {
+      "name": "Chopped fresh herbs (cilantro or basil)",
+      "amount": "sprig"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix fish sauce, brown sugar, minced garlic, and salt and pepper to make the marinade. Let it sit for at least 15 minutes.",
+    "Add mixed vegetables into the marinade and let them marinate for an additional 10 minutes.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat. Add the marinated vegetables and cook until they are tender-crisp, about 3-4 minutes per side.",
+    "Squeeze fresh herbs on top of the stir-fried vegetables before serving to add extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "stir-fry",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 22,
+    "fat": 5
+  },
+  "slug": "savory-marinate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-marinate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:19:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "vegetable oil",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
