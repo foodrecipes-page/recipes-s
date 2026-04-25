@@ -1,0 +1,91 @@
+{
+  "title": "Savory Little Gem Slaw",
+  "description": "A unique and flavorful slaw combining the crunch of little gem lettuce with a touch of tanginess from citrus, complemented by smoky flavors from Mexican spices.",
+  "cuisine": "Mexican (Norteño)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Little Gem Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Habanero Peppers, diced (optional)",
+      "amount": "1-2"
+    },
+    {
+      "name": "Vinegar of your choice (e.g., apple cider vinegar or red wine vinegar)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Mexican Cumin Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cayenne Pepper (optional)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the lettuce. Remove the core from the bottom of the head and discard it.",
+    "Shred or chop the lettuce into bite-sized pieces.",
+    "In a large mixing bowl, combine shredded lettuce with chopped cilantro leaves, diced habanero peppers (if using), orange zest, salt, black pepper, lemon juice, vinegar, Mexican cumin powder, and any additional spice like cayenne pepper for extra heat. Toss well to ensure all ingredients are evenly distributed.",
+    "Drizzle olive oil over the mixture and toss gently until the lettuce is coated with dressing.",
+    "prepTimeMin: 5",
+    "cookTimeMin: 0",
+    "totalTimeMin: 15",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "sour",
+    "tender",
+    "solo-dinner",
+    "mexican-norteño",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 13,
+    "fat": 6
+  },
+  "slug": "savory-little-gem-slaw",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-little-gem-slaw",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:39:37Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "vegan",
+    "region": "norteño"
+  }
+}
