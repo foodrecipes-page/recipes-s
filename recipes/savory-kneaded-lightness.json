@@ -1,0 +1,78 @@
+{
+  "title": "Savory Kneaded Lightness",
+  "description": "A savory dutch dish infused with garlic and sauerkraut, this light and silky texture is achieved through a brief kneading process that makes it low-fat-friendly.",
+  "cuisine": "Nordic",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups cooked sauerkraut",
+      "amount": "",
+      "notes": "Use leftover or store-bought"
+    },
+    {
+      "name": "1 cup plain greek yogurt",
+      "amount": "",
+      "notes": "Low-fat or non-fat variety"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "Extra-virgin for best flavor"
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "",
+      "notes": "Optional but recommended for added richness"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the sauerkraut, greek yogurt, minced garlic, and olive oil.",
+    "Fold in the grated Parmesan cheese gently if using.",
+    "Mix well until all ingredients are evenly distributed. The mixture should be cohesive but not overly stiff.",
+    "Divide into two portions and knead each portion for about 20 seconds to incorporate air and enhance texture.",
+    "Gently shape each kneaded portion into balls or rolls, depending on your preference."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "silky",
+    "light",
+    "dutch",
+    "kneaded",
+    "sausage-curry",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 8,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "savory-kneaded-lightness",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-kneaded-lightness",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:27:45Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "sauerkraut",
+    "diet": "low-fat",
+    "region": null
+  }
+}
