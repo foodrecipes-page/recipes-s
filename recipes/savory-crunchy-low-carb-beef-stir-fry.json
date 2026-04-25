@@ -1,0 +1,84 @@
+{
+  "title": "Savory Crunchy Low Carb Beef Stir-fry",
+  "description": "This savory and crunchy low-carb dish features a blend of beef stock, fermented vegetables, and other nutritious elements to create an energizing Slovakian meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb",
+    "sustainable"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented Vegetables (e.g., Nastoliu)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Low-Carb Beef Crispy Fingers",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or skillet over medium-high heat.",
+    "Add vegetable oil to the heated pan and swirl it around for even distribution.",
+    "Once hot, add fermented vegetables first followed by garlic powder and salt. Stir-fry for about 1 minute until they start getting crispy but not browned.",
+    "Next, add beef stock; stir continuously for another 2 minutes until the mixture becomes thickened slightly.",
+    "Slowly add low-carb beef crisps to the wok along with a little bit of the liquid from their packaging. Stir-fry gently for about 5-7 minutes, ensuring they turn golden brown and crispy.",
+    "Finally, taste the stir-fry and adjust seasoning if necessary by adding more salt or pepper as needed. Serve hot immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "crunchy",
+    "low-carb",
+    "energizing",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 31,
+    "carbs": 4,
+    "fat": 27
+  },
+  "slug": "savory-crunchy-low-carb-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-low-carb-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:59:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "beef stock",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beef",
+    "descriptor": "savory crunchy low carb",
+    "dishForm": "Stir-fry"
+  }
+}
