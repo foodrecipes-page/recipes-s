@@ -1,0 +1,66 @@
+{
+  "title": "Sunflower Spice Crumble",
+  "description": "A salty, crumbly snack that pairs sunflower oil with bhuna spices for a post-workout polish dish.",
+  "cuisine": "Indian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 tablespoons sunflower oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup bhuna masala blend",
+      "notes": "A mix of spices including cumin, coriander, turmeric, and chili powder."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup almond flour or coconut flour",
+      "notes": "Substitute with almond meal for a smoother texture if desired."
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the sunflower oil and bhuna masala blend.",
+    "Stir in the salt and black pepper to taste. The spice mixture should be quite dry.",
+    "Gradually add the flour while continuing to mix until you achieve your desired consistency—crumbly but not too dry."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sunflower-oil",
+    "bhuna-spice",
+    "paleo-diet"
+  ],
+  "nutrition": {
+    "calories": 237,
+    "protein": 4,
+    "carbs": 8.5,
+    "fat": 17
+  },
+  "slug": "sunflower-spice-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sunflower-spice-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:02:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "sunflower oil",
+    "diet": "paleo",
+    "region": null
+  }
+}
