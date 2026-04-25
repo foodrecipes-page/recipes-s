@@ -1,0 +1,87 @@
+{
+  "title": "Slow Cooked Muffin Feast",
+  "description": "An earthy and creamy Portuguese dish featuring muffins slow-cooked to perfection, perfect for a festive breakfast or snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat muffins",
+      "amount": "8",
+      "notes": "Preferably unsweetened"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "200ml",
+      "notes": "Low-fat variety"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1tbsp",
+      "notes": "Approx. 5-6 fresh sprigs per person"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "Sliced thinly, about 2-3mm thick each"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1tbsp",
+      "notes": "High-quality extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "White pepper",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your slow cooker to a low temperature (around 150°F or 65°C).",
+    "In a large bowl, mix together the almond milk and freshly chopped thyme leaves.",
+    "Add sliced garlic cloves to the mixture. Mix well until the pieces are evenly coated with the liquid.",
+    "Place the whole wheat muffins in the slow cooker, leaving enough space between them for air circulation.",
+    "Pour the seasoned mixture over the muffins. Make sure all the muffins are fully covered by the milk mixture.",
+    "Gently press down on the muffins to ensure they are submerged under the liquid but still slightly visible above it.",
+    "Sprinkle a pinch of salt and white pepper evenly over the top. This helps in maintaining moisture and flavor distribution during cooking.",
+    "Cover the slow cooker with its lid and cook for 4-6 hours or until all the milk is absorbed by the muffins, resulting in a creamy texture.",
+    "Remove from heat after cooking; let it rest for about 10 minutes to allow the flavors to settle. This prevents spilling during serving.",
+    "Serve hot as an appetizer or snack with your favorite accompaniments."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 480,
+  "totalTimeMin": 505,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "slow-cooked",
+    "earthly-creamy-portuguese-dish",
+    "muffin-feast",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "slow-cooked-muffin-feast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-muffin-feast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:40:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "slow-cook",
+    "primaryIngredient": "muffins",
+    "diet": "low-fat",
+    "region": null
+  }
+}
