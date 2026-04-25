@@ -1,0 +1,72 @@
+{
+  "title": "Soy Butter Crust",
+  "description": "A rich and buttery crust made with dark soy sauce that pairs perfectly with Argentinian flavors for a unique whole30-friendly dish.",
+  "cuisine": [
+    "Argentine"
+  ],
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1/2 cup unsalted butter",
+      "amount": "cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "1/4 cup dark soy sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons all-purpose flour",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Gather all ingredients and mix them together in a mixing bowl until well combined.",
+    "Transfer the mixture into a pie dish that has been lightly oiled, pressing it down evenly with the back of a spoon or spatula for an even crust base.",
+    "Bake for 15-20 minutes until golden brown. Keep an eye on it to prevent burning.",
+    "Remove from oven and let cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soy-butter-crust",
+    "argentine-dish",
+    "dark-soy-sauce",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 257,
+    "protein": 4.6,
+    "carbs": 16.8,
+    "fat": 22.9
+  },
+  "slug": "soy-butter-crust",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/soy-butter-crust",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:32:10Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "whole30",
+    "region": null
+  }
+}
