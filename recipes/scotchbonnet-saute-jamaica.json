@@ -1,0 +1,76 @@
+{
+  "title": "Scotchbonnet-Saute-Jamaica",
+  "description": "This citrusy and crunchy midnight craving dish features scotch bonnet peppers for a spicy kick.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp",
+      "notes": "Ensure the temperature is safe for cooking scotch bonnet peppers."
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "1 cup fresh citrus segments (orange or grapefruit)",
+      "amount": "cup",
+      "notes": "Make sure to use freshly squeezed juices and segments for maximum flavor."
+    },
+    {
+      "name": "2 scotch bonnet peppers, seeded and finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "1 teaspoon ground allspice",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a non-stick skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the finely chopped scotch bonnet peppers and sauté for an additional 2-3 minutes or until fragrant.",
+    "Stir in the allspice and salt. Cook for another minute to distribute spices evenly.",
+    "Squeeze the citrus segments into the skillet, mashing gently with a spoon to release juices.",
+    "Simmer for about 5 more minutes to allow flavors to meld together.",
+    "Serve hot as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-snack",
+    "citrusy-spicy",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 13,
+    "fat": 9
+  },
+  "slug": "scotchbonnet-saute-jamaica",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/scotchbonnet-saute-jamaica",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:47:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "kosher",
+    "region": null
+  }
+}
