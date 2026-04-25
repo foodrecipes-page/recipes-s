@@ -1,0 +1,79 @@
+{
+  "title": "Sherry-Caramelized Salmon Hash",
+  "description": "A savory and juicy Canadian dish featuring salmon hash with a touch of sherry caramelization, perfect for brunch and also suitable as a paleo-friendly meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "unsweetened almond flour",
+      "amount": "for dusting"
+    },
+    {
+      "name": "paleo-friendly egg (optional)",
+      "amount": "1-2"
+    },
+    {
+      "name": "sherry",
+      "amount": "6 ounces"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Season salmon fillets with salt and pepper. If using paleo eggs, lightly beat them in a small bowl.",
+    "Dust sliced onions and minced garlic with unsweetened almond flour.",
+    "In a skillet over medium heat, sauté the seasoned onion and garlic until translucent, about 5 minutes.",
+    "Fold in salmon fillets and cook for another 2-3 minutes on each side, adding a splash of sherry if desired.",
+    "If you prefer poaching or grilling your salmon, do so now according to paleo guidelines. Brush with more sherry if preferred.",
+    "Serve hot, garnished with fresh herbs like parsley or dill for extra freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon-hash",
+    "sherry-caramelization",
+    "paleo-friendly",
+    "savory-juicy"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 34,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "sherry-caramelized-salmon-hash",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sherry-caramelized-salmon-hash",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:54:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "sherry",
+    "diet": "paleo",
+    "region": null
+  }
+}
