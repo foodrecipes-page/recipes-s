@@ -1,0 +1,85 @@
+{
+  "title": "Sous-Vide Protein Stuffed Pancakes",
+  "description": "A savory and dense Slovakian dish featuring white flour, sous-vide cooked eggs stuffed inside a pancake batter.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white flour",
+      "amount": "2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "3 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "for stuffing the pancakes"
+    },
+    {
+      "name": "butter or oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "sauces for serving (optional)",
+      "amount": "",
+      "notes": "tomato sauce, mustard, etc."
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide machine to 158°F (70°C).",
+    "Mix flour, sugar, baking powder, and salt in a large bowl.",
+    "Beat eggs well. Gradually add beaten eggs into the dry ingredients while mixing until smooth.",
+    "Heat butter or oil in a non-stick pan over medium heat.",
+    "Form small doughnuts with egg mixture and place them in the preheated pan for about 2-3 minutes on each side, using a spatula to prevent sticking.",
+    "Place stuffed eggs into the sous-vide machine at 158°F (70°C) for approximately 4 hours or until fully cooked.",
+    "Remove from sous-vide and serve with desired sauces as an accompaniment."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "protein-stuffed",
+    "pancake"
+  ],
+  "nutrition": {
+    "calories": 382,
+    "protein": 25.1,
+    "carbs": 46.9,
+    "fat": 9.9
+  },
+  "slug": "sous-vide-protein-stuffed-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-protein-stuffed-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:34:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "white flour",
+    "diet": "high-protein",
+    "region": null
+  }
+}
