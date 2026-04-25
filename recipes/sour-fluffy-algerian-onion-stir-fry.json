@@ -1,0 +1,88 @@
+{
+  "title": "Sour Fluffy Algerian Onion Stir-fry",
+  "description": "A savory and tangy dish perfect for post-workout recovery, featuring aromatic harissa paste, a sprinkle of tandoori masala for added flavor, and a tadka to awaken your taste buds.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian",
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "For best results, use sweet onions"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp fresh",
+      "notes": ""
+    },
+    {
+      "name": "Harissa Paste",
+      "amount": "1 tsp",
+      "notes": "Red pepper paste from a jar or homemade"
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1/4 tsp",
+      "notes": "Classic Indian spice blend, optional for extra depth of flavor"
+    },
+    {
+      "name": "Tandoori Masala Paste",
+      "amount": "1/2 tsp",
+      "notes": "Reddish-brown Indian curry paste, can be homemade or store-bought"
+    },
+    {
+      "name": "Paprika (sweet)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp",
+      "notes": "For color and anti-inflammatory properties"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a pan over medium-high heat.",
+    "Add the onion, season with salt and pepper, cook until translucent and slightly caramelized.",
+    "Stir in the lemon juice, harissa paste, garam masala powder, tandoori masala paste, paprika, and turmeric powder. Mix well to combine.",
+    "Cook for 2-3 minutes, stirring occasionally, until fragrant and thickened.",
+    "Transfer to a serving dish, garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sour-algerian",
+    "onion-stir-fry",
+    "tandoori-masala"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 1,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "sour-fluffy-algerian-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-fluffy-algerian-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:21:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "tadka",
+    "primaryIngredient": "harissa spice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Onion",
+    "descriptor": "Sour Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
