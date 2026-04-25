@@ -1,0 +1,81 @@
+{
+  "title": "Sesame Seed Joy",
+  "description": "A tender and fermented vegan-friendly sesame seed burger bun dish perfect for a solo dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sesame seeds",
+      "amount": "2 cups"
+    },
+    {
+      "name": "flaxseeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet (about 7g)"
+    },
+    {
+      "name": "water",
+      "amount": "3-4 cups, warm"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "rice flour or bread flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Mix sesame seeds, flaxseeds, yeast, water, olive oil, and salt in a large bowl. Knead until dough forms.",
+    "Let the dough ferment for at least 8 hours or up to overnight.",
+    "Divide the dough into small balls. Roll them out flat using rice flour or bread flour as needed.",
+    "Preheat oil in a pan over medium heat. Cook the sesame seed buns on both sides until golden brown, about 2-3 minutes per side.",
+    "Serve warm with your favorite vegan dips and dressings."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 10,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sesame seed",
+    "fermented",
+    "slovakian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 556,
+    "protein": 23,
+    "carbs": 78,
+    "fat": 14
+  },
+  "slug": "sesame-seed-joy",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sesame-seed-joy",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:31:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "vegan",
+    "region": null
+  }
+}
