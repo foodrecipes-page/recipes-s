@@ -1,0 +1,91 @@
+{
+  "title": "Spinach Spinanza",
+  "description": "A peppery and chewy vegan Italian dish featuring spinach with a deglazed base for a solo dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g fresh spinach",
+      "amount": "",
+      "notes": "Washed and chopped"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "For deglazing the pan"
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "2 cups cherry tomatoes, halved",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp balsamic vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick pan over medium heat.",
+    "Add onion and garlic; sauté until translucent, about 5 minutes.",
+    "Deglaze the pan with balsamic vinegar. Allow to simmer for another minute.",
+    "Stir in halved cherry tomatoes and salt.",
+    "Add spinach, cover pan, reduce heat to low, and cook until wilted, about 3-4 minutes.",
+    "Season with freshly ground black pepper and serve warm.",
+    "Optional: Serve over quinoa or pasta for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spinach-spinanza",
+    "peppery-chewy",
+    "vegan-italian-dish",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 47,
+    "fat": 16
+  },
+  "slug": "spinach-spinanza",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spinach-spinanza",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:15:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "spinach",
+    "diet": "vegan",
+    "region": null
+  }
+}
