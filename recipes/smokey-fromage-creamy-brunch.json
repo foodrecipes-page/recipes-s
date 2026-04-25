@@ -1,0 +1,77 @@
+{
+  "title": "Smokey Fromage Creamy Brunch",
+  "description": "A smoky and creamy dish featuring fromage frais that is perfect for a brunch or breakfast setting.",
+  "cuisine": "International",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fromage frais",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flour tortillas or whole grain toast",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Mix together fromage frais, smoked paprika, chicken broth, and olive oil in a small bowl.",
+    "Whisk in lemon juice until smooth. Season with salt and pepper to taste.",
+    "Heat tortillas or toast the bread slices lightly on both sides.",
+    "Spread the fromage cream sauce evenly over the hot tortillas or toast.",
+    "Top each spread with grated Parmesan cheese, allowing it to melt slightly under heat if using toasted bread.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smokey_fromage",
+    "creamy_brunch",
+    "fromage_frais"
+  ],
+  "nutrition": {
+    "calories": 296,
+    "protein": 17,
+    "carbs": 34,
+    "fat": 14
+  },
+  "slug": "smokey-fromage-creamy-brunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smokey-fromage-creamy-brunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:44:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "fromage frais",
+    "diet": "low-fat",
+    "region": null
+  }
+}
