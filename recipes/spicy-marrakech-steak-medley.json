@@ -1,0 +1,93 @@
+{
+  "title": "Spicy Marrakech Steak Medley",
+  "description": "A comforting Moroccan dish featuring a medley of chewy fillets of steak served with a spicy marinade that is both diabetic-friendly and easy to prepare.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) sirloin or tenderloin steak",
+      "amount": "",
+      "notes": "Cut into small cubes"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh lemon juice",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp red wine vinegar",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp honey",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine olive oil, onion, garlic, cumin, paprika, cinnamon, lemon juice, vinegar, honey, salt, and pepper. Mix well until all ingredients are fully incorporated.",
+    "Add the steaks to the marinade, making sure they are coated evenly with the mixture. Cover and refrigerate for at least 4 hours or overnight for maximum flavor development.",
+    "Preheat your grill or a pan on medium-high heat. Remove the steaks from the marinade, letting any excess drip off, then place them on the preheated grill or in the pan.",
+    "Cook each steak to desired doneness (approximately 15-20 minutes total cooking time), flipping occasionally and brushing with remaining marinade if needed. Keep warm until all steaks are cooked.",
+    "Serve hot over a bed of couscous or quinoa for added flavor and texture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-marrakech-steak-medley",
+    "diabetic-friendly",
+    "comforting-spice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "spicy-marrakech-steak-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-marrakech-steak-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:30:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "fillet of steak",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
