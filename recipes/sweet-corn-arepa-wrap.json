@@ -1,0 +1,73 @@
+{
+  "title": "Sweet Corn Arepa Wrap",
+  "description": "This herbal, tender, and light Tunisian dish features a diabetic-friendly corn arepa filled with mozzarella cheese, slow-cooked to perfection.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn arepa",
+      "amount": "1 large"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "4 oz (100g)"
+    },
+    {
+      "name": "herbs (e.g. cilantro, mint)",
+      "amount": "handful"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "freshly ground pepper",
+      "amount": "a few grains"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut the corn arepa into halves.",
+    "Top each half with a generous slice of mozzarella cheese, sprinkle with herbs and olive oil.",
+    "Sprinkle with salt and pepper.",
+    "Place in preheated oven for 8-12 minutes or until cheese is melted and bubbly.",
+    "Serve warm as a snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sweetcornarepa",
+    "mozarellacheesewrap",
+    "tunisianfood"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 14,
+    "carbs": 28,
+    "fat": 13
+  },
+  "slug": "sweet-corn-arepa-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-corn-arepa-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:22:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
