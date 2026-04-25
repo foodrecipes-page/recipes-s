@@ -1,0 +1,66 @@
+{
+  "title": "Sugar Crunchy Delight",
+  "description": "A savory and crowd-pleasing Japanese dessert that is crispy on the outside and soft on the inside, made with light brown sugar for a delightful low-carb treat.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "salty"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Light Brown Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 400°F (205°C).",
+    "In a mixing bowl, combine the light brown sugar and corn starch. Mix well until combined.",
+    "Add coconut oil and vanilla extract into the mixture, continuing to stir until everything is incorporated evenly.",
+    "Transfer the mixture to an air fryer safe baking sheet or dish, spreading it out into a thin layer. Use the back of a spoon or spatula for even distribution.",
+    "Air fry for 10-12 minutes, shaking the pan halfway through cooking time to ensure even browning. The sugar should start to caramelize and become crunchy on the outside while remaining soft in the center.",
+    "Allow it to cool completely before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sugar",
+    "crunchy",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "sugar-crunchy-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sugar-crunchy-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:49:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "low-carb",
+    "region": null
+  }
+}
