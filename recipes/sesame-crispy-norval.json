@@ -1,0 +1,87 @@
+{
+  "title": "Sesame Crispy Norval",
+  "description": "A savory, crispy Norwegian dish featuring sesame seed oil and sugar-free-friendly preparation methods.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "200g",
+      "notes": "Use lean cuts to reduce fat content"
+    },
+    {
+      "name": "Sesame seed oil",
+      "amount": "5ml",
+      "notes": "For crispy texture"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for flavor enhancement"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1tbsp",
+      "notes": "For savory taste"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2tsp",
+      "notes": "To coat pork and achieve a crispy texture"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": "Season the pork evenly"
+    },
+    {
+      "name": "Water",
+      "amount": "20ml",
+      "notes": "For cooking marinade"
+    },
+    {
+      "name": "Cayenne pepper flakes",
+      "amount": "1/4tsp",
+      "notes": "Optional for extra spice"
+    }
+  ],
+  "instructions": [
+    "Marinate the pork belly in a mixture of soy sauce, sesame seed oil, and cornstarch overnight.",
+    "Preheat your pressure cooker to high heat. Add water to the pot and bring it to a boil.",
+    "Once boiling, place the marinated pork inside the preheated pot. Cook for 10 minutes at high pressure followed by 5 minutes of natural release.",
+    "After cooking, use a slotted spoon to transfer pork from the pot onto a plate lined with parchment paper or silicone mat.",
+    "Sprinkle cayenne pepper flakes on top of each slice if desired and coat lightly with sesame seed oil before serving for added crunch and flavor."
+  ],
+  "prepTimeMin": 1,
+  "cookTimeMin": 30,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sesame-seed-oil",
+    "pressure-cook",
+    "sugar-free-friendly",
+    "norwegian-dish"
+  ],
+  "nutrition": {
+    "calories": 305,
+    "protein": 28,
+    "carbs": 10,
+    "fat": 17
+  },
+  "slug": "sesame-crispy-norval",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sesame-crispy-norval",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:54:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
