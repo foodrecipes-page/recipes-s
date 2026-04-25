@@ -1,0 +1,76 @@
+{
+  "title": "Sunflower Seed Medley",
+  "description": "A hearty and earthy meal-prep Argentinean dish featuring roasted sunflower seeds with an added twist of whole30-friendly ingredients for a chewy texture and balanced flavor profile.",
+  "cuisine": "Argentine",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sunflower seeds",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cashews",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "3 oz"
+    },
+    {
+      "name": "chocolate chips (optional)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix all ingredients together in a large bowl.",
+    "Spread the mixture evenly on a baking sheet lined with parchment paper.",
+    "Roast for 15-20 minutes, stirring occasionally until golden brown and fragrant.",
+    "Let cool completely before portioning into individual servings for meal prep."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "sunflower-seeds",
+    "sesame-seeds",
+    "pumpkin-seeds",
+    "cashews",
+    "coconut-flakes",
+    "meal-prep",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 16,
+    "carbs": 54,
+    "fat": 27
+  },
+  "slug": "sunflower-seed-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sunflower-seed-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:30:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "seeds",
+    "diet": "whole30",
+    "region": null
+  }
+}
