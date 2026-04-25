@@ -1,0 +1,86 @@
+{
+  "title": "Spicy Kai Luen Quick Gluten-Free",
+  "description": "A quick and easy Malaysian dish featuring spicy Chinese broccoli with a side of pickles for a juicy and flavorful gluten-free meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese Broccoli",
+      "amount": "1 cup fresh, trimmed"
+    },
+    {
+      "name": "Gluten-Free Bread Crumbs",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pickle Relish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Spicy Chili Sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add garlic powder, spicy chili sauce, and salt. Stir until fragrant.",
+    "Add Chinese broccoli florets to the pan with some water (about 1/4 cup), cover, and cook for about 3-5 minutes or until tender.",
+    "Remove lid, add soy sauce and stir well. Cook another minute until liquid is absorbed.",
+    "Fold in gluten-free bread crumbs gently using tongs, allowing the mixture to lightly brown on all sides.",
+    "Add pickle relish at the last minute, stirring it into the dish for added texture and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "gluten-free",
+    "kai luen",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "spicy-kai-luen-quick-gluten-free",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-kai-luen-quick-gluten-free",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:52:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
