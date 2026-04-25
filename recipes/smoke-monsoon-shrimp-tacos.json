@@ -1,0 +1,99 @@
+{
+  "title": "Smoke Monsoon Shrimp Tacos",
+  "description": "A floral and silky monsoon-inspired Mexican dish featuring smoked shrimp in a vegetable-based sauce for vegetarians.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb smoked shrimp",
+      "amount": "1 lb"
+    },
+    {
+      "name": "6 corn tortillas",
+      "amount": "6"
+    },
+    {
+      "name": "Vegetable stock or broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Flour tortilla chips (for chips)",
+      "amount": "8"
+    },
+    {
+      "name": "Paprika, smoked",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Oregano, dried",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Avocado, diced (for topping)",
+      "amount": "4 ripe avocados"
+    },
+    {
+      "name": "Cilantro, chopped (for garnish)",
+      "amount": "1 bunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Soak corn tortillas in vegetable stock for about 5 minutes. Pat dry and sprinkle with paprika, oregano, chili powder, salt, and pepper.",
+    "Heat a skillet over medium-high heat; lightly grease it with olive oil. Place the soaked tortillas in the skillet and toast until golden brown on each side, about 1-2 minutes per side. Remove from pan to plate.",
+    "In a mixing bowl, combine lime juice with smoked shrimp, garlic powder, salt, and pepper. Toss gently to coat evenly.",
+    "Heat oil in a pot over medium-high heat. Add the vegetable stock or broth into the pot and bring to a simmer. Reduce heat to low and add lime-juiced shrimp mixture to the pot. Simmer for about 5 minutes until shrimp are cooked through, adding more liquid as needed to keep the sauce smooth.",
+    "Serve hot in tortillas with vegetable chips, diced avocado, and cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "shrimp",
+    "monsoon",
+    "mexican",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 489,
+    "protein": 32,
+    "carbs": 70,
+    "fat": 16
+  },
+  "slug": "smoke-monsoon-shrimp-tacos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-monsoon-shrimp-tacos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:06:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "smoke",
+    "primaryIngredient": "shrimp",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
