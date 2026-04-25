@@ -1,0 +1,65 @@
+{
+  "title": "Sushi Broil Pilaf",
+  "description": "A savory and juicy Portuguese dish featuring sushi rice, cooked with a broil to add depth of flavor, suitable for dairy-free diets.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 cloves, finely chopped"
+    },
+    {
+      "name": "Leaves of Asian Parsley (Punica Granifica)",
+      "amount": "1 sprig, leaves only, for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse sushi rice with cold water and soak in the vegetable broth for at least 30 minutes.",
+    "Drain the soaked rice and place it in a pot. Add more water to cover the rice, bring to a boil, then reduce heat, cover, and simmer until all liquid is absorbed (about 15-20 minutes).",
+    "Stir in finely chopped shallots into the hot cooked sushi rice.",
+    "Preheat oven broiler according to manufacturer’s instructions. Spread the mixture evenly on a baking sheet lined with parchment paper.",
+    "Broil for about 3 minutes, or until lightly browned and fragrant.",
+    "Sprinkle leaves of Asian Parsley over the dish before serving as a garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sushi-rice",
+    "broil-pilaf",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "sushi-broil-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sushi-broil-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:55:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "sushi rice",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
