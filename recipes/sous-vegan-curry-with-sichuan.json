@@ -1,0 +1,89 @@
+{
+  "title": "Sous-vegan Curry with Sichuan",
+  "description": "A tangy and creamy British meal-prep dish featuring szechuan peppercorns prepared through sous-vide cooking to achieve a low-calorie-friendly option.",
+  "cuisine": "British",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toasted coconut",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tamari (gluten-free soy sauce)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "10-15 crushed"
+    },
+    {
+      "name": "Vegetable stock concentrate",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "Ginger, finely grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Palm sugar (optional)",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Add coconut milk to a pot and heat on medium until warm. Gradually add the almond milk while stirring continuously.",
+    "In a separate bowl, mix together rice vinegar, tamari, Sichuan peppercorns, vegetable stock concentrate, ginger, green onions, and palm sugar (if using). Stir well to combine.",
+    "Once the coconut mixture is warm, add the spice blend. Bring it to a simmer and cook for about 5 minutes until thickened slightly. Remove from heat.",
+    "Pour the curry into serving dishes or containers for meal prep. Refrigerate overnight before reheating in the oven at 325°F (160°C) for about 15-20 minutes, depending on your container size and thickness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "vegan",
+    "british",
+    "tangy",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "sous-vegan-curry-with-sichuan",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vegan-curry-with-sichuan",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:47:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
