@@ -1,0 +1,103 @@
+{
+  "title": "Spicy Chewy Indulgent Algerian Taco Shells Stir-fry",
+  "description": "This spicy, chewy, indulgent Algerian taco shell dish features hard taco shells cooked in a mediterranean-friendly stir-fry with olive oil and spices to create an irresistible flavor combo.",
+  "cuisine": "African-Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Oregano Leaves",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "6 (soft taco shells or hard taco shells, halved if needed)"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "4 medium slices, thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tbsp fresh lemon zest"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "2 oz, crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat. Add chili powder and ground cumin; cook for about 30 seconds.",
+    "Add minced garlic, oregano leaves, and red pepper flakes to the pan. Sauté until fragrant (about 2 minutes).",
+    "Fold in zucchini slices and diced bell peppers into the pan. Cook for another minute or two until vegetables are slightly softened.",
+    "Toss half of the taco shells with a bit of olive oil on each side, placing them shell-side down in the pan. Cook for about 3-4 minutes per side or until golden brown and crispy.",
+    "Remove cooked taco shells from the pan and set aside. Use the same pan to stir-fry remaining vegetables and taco shells.",
+    "Add crumbled Greek yogurt along with any cooking juices, stirring well to combine. Continue to cook for another minute to allow flavors to meld together.",
+    "Transfer the stir-fried taco shells into a serving dish and top with zucchini-bell pepper mixture and drizzled lemon zest. Serve hot as a meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "spicy",
+    "chewy",
+    "indulgent",
+    "taco shells",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 372,
+    "protein": 10.6,
+    "carbs": 40.8,
+    "fat": 9.5
+  },
+  "slug": "spicy-chewy-indulgent-algerian-taco-shells-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-chewy-indulgent-algerian-taco-shells-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:54:15Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "hard taco shells",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Taco Shells",
+    "descriptor": "Spicy Chewy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
