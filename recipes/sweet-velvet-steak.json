@@ -1,0 +1,86 @@
+{
+  "title": "Sweet Velvet Steak",
+  "description": "A sweet and velvety Japanese dish featuring lean minced steak braised to perfection for a quick weeknight meal.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lean beef mince",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mirin (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml"
+    },
+    {
+      "name": "Fresh parsley, finely chopped",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pot over medium heat.",
+    "Add onion and garlic, sauté until soft.",
+    "Stir in mince, breaking it up with a wooden spoon as you cook for about 5 minutes or until browned.",
+    "Pour in ketchup, soy sauce, and mirin (if using). Stir well to combine.",
+    "Gradually pour in water, stirring occasionally. The mixture will boil initially but reduce the heat once boiling.",
+    "Simmer gently for about 10-12 minutes until thickened and tender.",
+    "Add finely chopped parsley just before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "velvet",
+    "japanese",
+    "steak",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 19,
+    "carbs": 5,
+    "fat": 3
+  },
+  "slug": "sweet-velvet-steak",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvet-steak",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:35:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "lean minced steak",
+    "diet": "nut-free",
+    "region": null
+  }
+}
