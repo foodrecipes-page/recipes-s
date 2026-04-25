@@ -1,0 +1,66 @@
+{
+  "title": "Salted Butter Stovetop Delight",
+  "description": "A sweet and crispy one-pot Russian dish featuring salted butter as the star ingredient, perfect for a quick breakfast or snack.",
+  "cuisine": "Russian",
+  "diet": [
+    "sweet",
+    "stovetop-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "salted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "peanut oil or vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your stovetop.",
+    "Melt the salted butter in a non-stick skillet over medium heat.",
+    "Add sugar and flour to the melted butter, stirring continuously until thickened and bubbly.",
+    "Reduce heat to low, add more oil if needed for smoother consistency.",
+    "Cook for about 1-2 minutes or until golden brown, stirring frequently.",
+    "Remove from heat immediately after adding oil to ensure a crispy texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salted-butter",
+    "sweet-stovetop",
+    "russian-snack"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "salted-butter-stovetop-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salted-butter-stovetop-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:34:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "salted butter",
+    "diet": "fodmap",
+    "region": null
+  }
+}
