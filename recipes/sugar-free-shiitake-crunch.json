@@ -1,0 +1,66 @@
+{
+  "title": "Sugar-Free Shiitake Crunch",
+  "description": "A crispy and flavorful weeknight dish featuring umami-rich shiitake mushrooms that are air-fried to perfection, making it a perfect sugar-free option for Arabian cuisine.",
+  "cuisine": "Arabian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Croutons (optional)",
+      "notes": "For texture and crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Clean the shiitake mushrooms, remove the stems, and slice them into thin rounds.",
+    "In a shallow dish, combine flour, olive oil, and salt. Add the sliced shiitake mushrooms to coat evenly with the flour mixture.",
+    "Transfer the coated shiitakes to your preheated air fryer basket or tray and cook for about 10-12 minutes until golden brown and crispy.",
+    "For added texture, sprinkle croutons over the top just before serving if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shiitake",
+    "crunch",
+    "air-fry"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "sugar-free-shiitake-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sugar-free-shiitake-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:12:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
