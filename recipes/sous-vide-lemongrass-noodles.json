@@ -1,0 +1,84 @@
+{
+  "title": "Sous-Vide Lemongrass Noodles",
+  "description": "A herbal, tender Thai-inspired dish featuring rice noodles prepared using sous-vide for a low-fat-friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat",
+    "herbaceous"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "4-6 stalks"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 thumb-sized pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tamarind concentrate or paste",
+      "amount": "1/2 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1-2 tablespoons (adjust to taste)"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "1-2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Place rice noodles in a sous-vide bag and cook at 140°F (60°C) for 30 minutes.",
+    "Peel the lemongrass, slice it into rounds, and crush the smaller pieces between your fingers to release their flavor. Slice ginger similarly.",
+    "Mix fish sauce, tamarind concentrate or paste, lime juice, sesame oil, and red curry paste in a separate bowl until well combined. Adjust seasoning based on taste preference.",
+    "Drain the cooked rice noodles and transfer them into a large mixing bowl.",
+    "Add lemongrass rounds, crushed lemongrass pieces, sliced ginger, and the sauce mix to the noodle bowl.",
+    "Mix gently with your hands or wooden spoon until everything is evenly coated with the sauce.",
+    "Serve immediately as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "noodles",
+    "herbal",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 137,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "sous-vide-lemongrass-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-lemongrass-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:57:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "sous-vide",
+    "primaryIngredient": "rice noodles",
+    "diet": "low-fat",
+    "region": null
+  }
+}
