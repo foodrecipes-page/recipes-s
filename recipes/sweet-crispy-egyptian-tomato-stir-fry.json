@@ -1,0 +1,88 @@
+{
+  "title": "Sweet Crispy Egyptian Tomato Stir-fry",
+  "description": "A festive egyptian dish featuring tender tomatoes sweetened with red chilli powder and cooked to crispy perfection in a Paleo-friendly stir-fry.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste for spiciness"
+    },
+    {
+      "name": "paleo-friendly soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced",
+      "notes": ""
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup, toasted and crushed",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for about 30 seconds until fragrant but not browned.",
+    "Add the sliced tomatoes, red chilli powder, paleo-friendly soy sauce, and lemon juice. Stir well to combine all ingredients and bring to a simmer.",
+    "Cook for about 5-7 minutes, or until the tomatoes are tender and slightly caramelized.",
+    "Fold in the toasted pine nuts just before serving.",
+    "Garnish with fresh basil leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-egyptian-dish",
+    "crispy-tomato-stir-fry",
+    "paleo-friendly-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "sweet-crispy-egyptian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crispy-egyptian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:27:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "red chilli powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tomato",
+    "descriptor": "sweet",
+    "dishForm": "Stir-fry"
+  }
+}
