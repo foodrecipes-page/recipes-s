@@ -1,0 +1,78 @@
+{
+  "title": "Stilton Tandoori Crisp",
+  "description": "A tangy and crispy Polish dish featuring Stilton cheese, prepared in a tandoor to offer an energizing and raw-friendly meal.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Stilton cheese",
+      "amount": "100g",
+      "notes": "Use a young, mild Stilton for this recipe."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "Mince finely or use one minced garlic per person if cooking for more people."
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "1/2 teaspoon",
+      "notes": "For a tangier flavor profile, use less or omit."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 250°C (475°F).",
+    "Gently press garlic cloves into a mix of olive oil and Stilton cheese, creating an aromatic paste. Spread this mixture evenly across a baking sheet.",
+    "Add lemon juice, curry powder, cumin seeds, and red pepper flakes if using, mixing well until the cheese is fully coated.",
+    "Place the prepared Stilton on the tandoor or in an oven-safe dish, ensuring all sides are exposed to heat for a crisp effect. Bake for 15-20 minutes until golden brown and crispy.",
+    "Serve immediately as a snack with your choice of raw vegetables or fruit slices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stilton cheese",
+    "tandoori",
+    "crisp",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "stilton-tandoori-crisp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/stilton-tandoori-crisp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:45:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "stilton cheese",
+    "diet": "raw",
+    "region": null
+  }
+}
