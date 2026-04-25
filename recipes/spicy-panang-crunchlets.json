@@ -1,0 +1,76 @@
+{
+  "title": "Spicy Panang Crunchlets",
+  "description": "A low-calorie-friendly spicy and flaky indulgent Kenyan dish featuring panang curry paste, prepared with a pressure cooker for easy cooking.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine flour and low-fat milk. Add ground flaxseed, salt, turmeric powder, and ginger powder.",
+    "Stir until a thick batter forms. Let it rest for about 5 minutes to allow the mixture to thicken slightly.",
+    "Heat peanut oil in a non-stick pan over medium-high heat. Scoop small portions of the batter into the hot oil using your fingers or a spoon, ensuring they spread evenly and do not overlap.",
+    "Cook each crunchlet until golden brown on both sides. They should be crunchy outside but tender inside.",
+    "Once done, remove from heat and place them on paper towels to drain excess oil.",
+    "Serve immediately with a side of yogurt for added tanginess and creaminess."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "panang curry paste",
+    "flaky",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "spicy-panang-crunchlets",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-panang-crunchlets",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:43:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "panang curry paste",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
