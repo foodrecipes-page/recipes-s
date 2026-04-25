@@ -1,0 +1,76 @@
+{
+  "title": "Sweet Potato Zest Crunch",
+  "description": "A crisp and herbal Algerian dish featuring sweet potatoes that are pressure-cooked for an energizing snack or side dish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 medium sweet potato",
+      "amount": "one",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "two tablespoons",
+      "notes": "can substitute with avocado or almond butter for a nutty flavor"
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "one teaspoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Optional: 1/4 cup finely chopped parsley and cilantro",
+      "amount": "optional"
+    },
+    {
+      "name": "Optional: 1 tablespoon grated ginger",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place sweet potato cubes in a mixing bowl. Add olive oil, oregano, and salt; toss gently.",
+    "If using optional herbs, add them now. Mix well, ensuring all sweet potatoes are coated with the seasonings.",
+    "Transfer to a baking sheet lined with parchment paper for easy clean-up.",
+    "Bake for 20-25 minutes or until tender but still crisp when lightly pressed. Rotate tray halfway through cooking for even browning.",
+    "Remove from oven and let sit for a few minutes before serving.",
+    "Optional: Sprinkle extra oregano over the top of the sweet potatoes for garnish if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-potato",
+    "zest-crunch",
+    "algerian-snack"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "sweet-potato-zest-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-potato-zest-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:35:04Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "vegan",
+    "region": null
+  }
+}
