@@ -1,0 +1,70 @@
+{
+  "title": "Spinach Fold",
+  "description": "A peppery and fluffy whole30-friendly spinach fold dish that's adventurous with its French twist.",
+  "cuisine": "French",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup fresh spinach",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup grated parmesan cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Chop the spinach into small pieces.",
+    "In a bowl, mix together chopped spinach, grated parmesan cheese, eggs, salt, and pepper. Season with a pinch of salt and black pepper if needed.",
+    "Divide the mixture evenly among 4-6 individual ramekins or oven-safe plates for easy serving.",
+    "Bake in preheated oven for about 15 minutes until set and golden brown on top.",
+    "Serve hot as an appetizer or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spinach",
+    "parmesan",
+    "oven-baked",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 4,
+    "fat": 6
+  },
+  "slug": "spinach-fold",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spinach-fold",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:12:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "fold",
+    "primaryIngredient": "spinach",
+    "diet": "whole30",
+    "region": null
+  }
+}
