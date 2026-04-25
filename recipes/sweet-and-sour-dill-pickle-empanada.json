@@ -1,0 +1,68 @@
+{
+  "title": "Sweet and Sour Dill Pickle Empanada",
+  "description": "A rich, velvety, nostalgic Argentinian dish featuring dill pickles in a unique sugar-free-friendly Sweet and Sour sauce, perfect for snacking.",
+  "cuisine": "Argentine",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dill pickles",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "sweet and sour sauce",
+      "amount": "2 tablespoons (homemade or store-bought)"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4 medium size"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Place the sliced dill pickles in a shallow dish and drizzle with half of the sweet and sour sauce. Toss to coat evenly.",
+    "Carefully place the coated dill pickles into the air fryer basket, ensuring they are not overcrowded. Fry for 5-7 minutes or until golden brown and crispy.",
+    "While the dill pickles are frying, prepare the flour tortillas by heating a little oil in a skillet over medium heat. Place one tortilla at a time and cook until lightly golden on both sides, about 30 seconds to 1 minute per side.",
+    "Spread a small amount of sweet and sour sauce evenly onto each tortilla, leaving a border around the edges for sealing.",
+    "Gently fold in half to enclose the dill pickles, ensuring they are well-encased. Place sealed empanadas back into the air fryer basket.",
+    "Fry the empanadas for an additional 2-3 minutes or until cooked through and golden brown on all sides.",
+    "Remove from the heat and serve hot as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-sour",
+    "dill-pickle-empanada",
+    "sugar-free",
+    "argentine-dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "sweet-and-sour-dill-pickle-empanada",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-sour-dill-pickle-empanada",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:31:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "dill pickles",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
