@@ -1,0 +1,98 @@
+{
+  "title": "Smoky Crumbly Greek Avocado Crumble",
+  "description": "A smoky and crumbly dish that combines the richness of avocado with a touch of Greek flavors for a nostalgic taste treat. Perfect as a breakfast, snack or light meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 ripe avocados",
+      "notes": "Ensure they are creamy and not too firm."
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "1-2 cloves",
+      "notes": "Adjust to taste, can be omitted for milder version."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For spreading the crumbs."
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 lime",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "kosher salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "a few grains of black pepper",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1-2 teaspoons",
+      "notes": "For the smoky flavor."
+    },
+    {
+      "name": "flax seeds",
+      "amount": "1 tablespoon ground flaxseed",
+      "notes": "To bind and thicken the mixture."
+    }
+  ],
+  "instructions": [
+    "Blend avocados with lime juice, salt, pepper, smoked paprika until smooth.",
+    "Stir in garlic cloves finely minced.",
+    "Add ground flax seeds and mix well to create a thick paste.",
+    "In a small bowl, mix coconut oil until creamy.",
+    "Spread the mixture evenly on a baking sheet lined with parchment paper.",
+    "Melt coconut oil if hard, then spread over the top of the avocado paste using a pastry brush or spatula.",
+    "Bake at 180°C (350°F) for about 25 minutes until golden brown and crispy.",
+    "Serve as is or with a dollop of paleo yogurt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crumbly",
+    "avocado",
+    "greek",
+    "nachos",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 34
+  },
+  "slug": "smoky-crumbly-greek-avocado-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-greek-avocado-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:48:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "avocado",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Avocado",
+    "descriptor": "Smoky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
