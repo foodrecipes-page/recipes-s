@@ -1,0 +1,73 @@
+{
+  "title": "Sweet Condensed Milk Porridge",
+  "description": "A fresh and fluffy porridge featuring sweetened condensed milk, perfect for a hangover cure and suitable for vegetarians.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Condensed Milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Cinnamon Stick",
+      "amount": "1"
+    },
+    {
+      "name": "Almond Flakes",
+      "amount": "1 cup (optional)"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Boil water in a pot.",
+    "Add condensed milk, sugar, and cinnamon stick to the boiling water. Stir occasionally until fully dissolved.",
+    "If using almond flakes, add them now; stir well.",
+    "Simmer for about 10 minutes or until desired consistency is reached.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "porridge",
+    "hangover",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 7.2,
+    "carbs": 39.1,
+    "fat": 0
+  },
+  "slug": "sweet-condensed-milk-porridge",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-condensed-milk-porridge",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:43:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
