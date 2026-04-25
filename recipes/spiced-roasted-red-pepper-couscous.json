@@ -1,0 +1,85 @@
+{
+  "title": "Spiced Roasted Red Pepper Couscous",
+  "description": "An earthy and gooey Irish-inspired dish featuring roasted red peppers with a touch of spice, perfect for festive meals and enjoyed as a side or main course.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "side/dinner",
+  "ingredients": [
+    {
+      "name": "2 cups couscous",
+      "amount": "",
+      "notes": "Rinse thoroughly"
+    },
+    {
+      "name": "1 large red bell pepper, stemmed and seeded",
+      "amount": "1",
+      "notes": "Roasted"
+    },
+    {
+      "name": "4 dried red chillies (or to taste)",
+      "amount": "2-4",
+      "notes": "Soaked in hot water for 30 mins"
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": "",
+      "notes": "For spreading on couscous"
+    },
+    {
+      "name": "1 lemon, juiced and zested",
+      "amount": "",
+      "notes": "To enhance the dish's flavor"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "For roasting peppers"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C). Rinse the couscous under cold water.",
+    "Prepare the red bell pepper by roasting it until tender, roughly 10-15 minutes on a baking sheet. Allow to cool before chopping into chunks.",
+    "In a frying pan, sauté the soaked and chopped dried chillies with olive oil for about 2 minutes or until fragrant.",
+    "Melt the unsalted butter in another pan over low heat and add the roasted red bell peppers, lemon zest, and cooled couscous. Stir well to combine all ingredients.",
+    "Pour the combined mixture into an oven-safe dish. Top with the sautéed chillies and pour hot water over the couscous to cover (about 1/2 cup per cup of couscous).",
+    "Bake for about 20-25 minutes or until the top layer is golden brown.",
+    "Serve warm, garnished with extra lemon zest if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "couscous",
+    "spiced",
+    "roasted_red_peppers",
+    "irish_dish",
+    "mediterranean_friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "spiced-roasted-red-pepper-couscous",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spiced-roasted-red-pepper-couscous",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:49:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "dried chillies",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
