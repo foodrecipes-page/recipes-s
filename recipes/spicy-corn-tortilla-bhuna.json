@@ -1,0 +1,80 @@
+{
+  "title": "Spicy Corn Tortilla Bhuna",
+  "description": "A festive Russian-inspired dish featuring lightly spiced corn tortillas with a touch of spice and light flavor profile, suitable for nut-free diets.",
+  "cuisine": "Russian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn Tortillas",
+      "amount": "10-12"
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh Cumin Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Tomato Sauce or Puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garam masala powder and red chili flakes, sautéing for about 30 seconds.",
+    "Stir in cumin seeds until they start to pop, then add garlic paste and cook for another minute.",
+    "Pour in tomato sauce or puree and bring to a simmer. Stir well.",
+    "Add corn tortillas one by one and let them cook until golden brown on all sides.",
+    "Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "light",
+    "russian",
+    "corn-tortilla",
+    "bhuna",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "spicy-corn-tortilla-bhuna",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-corn-tortilla-bhuna",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:40:53Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "corn tortillas",
+    "diet": "nut-free",
+    "region": null
+  }
+}
