@@ -1,0 +1,69 @@
+{
+  "title": "Spicy Basil Keto Toast",
+  "description": "A creamy and spicy Portuguese dish featuring fresh basil on keto-friendly toast for a meal-prep option.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Keto bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Avocado cream cheese spread",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Keto-friendly mayo (optional)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Toast the keto bread to your preference, lightly.",
+    "In a small bowl, mix the avocado cream cheese spread with red pepper flakes. Adjust seasoning to taste.",
+    "Top each slice of toast with the spicy basil mixture and a drizzle of optional keto-friendly mayo if desired.",
+    "Allow to sit for at least 5 minutes before serving to allow flavors to meld."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 0,
+  "totalTimeMin": 2,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "creamy",
+    "keto-friendly",
+    "portuguese",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 1
+  },
+  "slug": "spicy-basil-keto-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-basil-keto-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:31:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "fresh basil",
+    "diet": "keto",
+    "region": null
+  }
+}
