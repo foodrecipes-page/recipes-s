@@ -1,0 +1,83 @@
+{
+  "title": "Smoke Rice Noodles",
+  "description": "Sweet and flaky rice noodles infused with smoky flavors for a romantic Italian-inspired dish that's also fodmap-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-carb",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup brown basmati rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cups"
+    },
+    {
+      "name": "Pinch of salt",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "200g unsmoked smoked paprika flakes",
+      "amount": "200g"
+    },
+    {
+      "name": "1/4 cup fresh lemon juice",
+      "amount": "cup"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "6 cups water for soaking rice noodles",
+      "amount": "cups"
+    },
+    {
+      "name": "8 oz rice noodles",
+      "amount": "oz"
+    }
+  ],
+  "instructions": [
+    "In a pot, combine rice and salt. Bring to boil over medium-high heat, then reduce heat to low and simmer until all liquid is absorbed (about 20 minutes).",
+    "Strain cooked rice and set aside.",
+    "Heat water for soaking noodles in the microwave or on the stove until just boiling (should take about 5-10 minutes).",
+    "Place soaked rice noodles into a large mixing bowl. Slowly add warm water to noodle mixture, stirring continuously, until fully hydrated (about 3 minutes).",
+    "Add lemon juice and minced garlic to noodles, mix well.",
+    "Fold in smoked paprika flakes gently by hand or use a wooden spoon to avoid breaking the delicate noodles.",
+    "Transfer seasoned rice noodles onto serving plates. Serve hot with optional toppings like sliced avocado, fresh herbs, or a drizzle of olive oil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked",
+    "rice-noodles",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 72,
+    "fat": 9
+  },
+  "slug": "smoke-rice-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-rice-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:56:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "rice noodles",
+    "diet": "fodmap",
+    "region": null
+  }
+}
