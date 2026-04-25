@@ -1,0 +1,83 @@
+{
+  "title": "Steamy Muscovado Medley",
+  "description": "A fresh, tender Italian medley featuring muscovado sugar for a unique meal-prep dish that's both Jain-friendly and suitable for those who prefer low-sodium options.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Muscovado Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Herbs (Thyme, Rosemary)",
+      "amount": "a few sprigs each"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place all ingredients in a pan over medium heat.",
+    "Add olive oil to the pan, then add herbs and garlic. Sauté for about 2 minutes until fragrant.",
+    "Add muscovado sugar and tomato sauce. Stir well and let cook for an additional minute or two.",
+    "Slice zucchini into thin rounds and red bell pepper in half circles. Add them to the pan.",
+    "Cover the pan with a lid, reduce heat to low, and steam until vegetables are tender, about 5-7 minutes.",
+    "Season with salt and black pepper just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "muscovado",
+    "medley",
+    "vegan",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "steamy-muscovado-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamy-muscovado-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:14:20Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "jain",
+    "region": null
+  }
+}
