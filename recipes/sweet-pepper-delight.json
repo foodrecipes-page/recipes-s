@@ -1,0 +1,86 @@
+{
+  "title": "Sweet Pepper Delight",
+  "description": "A silky and sweet Algerian brunch dish featuring roasted bell peppers deglazed with aromatic herbs for a jain-friendly, vegan option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 ripe but firm red or orange bell peppers",
+      "amount": "",
+      "notes": "Choose peppers that are slightly soft and not overly shriveled."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "",
+      "notes": "Use a sweet variety if available."
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 sprigs fresh parsley, finely chopped (for garnish)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "1/4 cup tamari sauce or soy sauce",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Chop the bell peppers into strips and set aside.",
+    "In a large skillet, heat olive oil over medium-high heat. Add chopped onion and garlic, sauté until translucent and fragrant for about 5 minutes.",
+    "Add bell pepper strips to the pan, reduce heat to medium, and cook for another 10-15 minutes until peppers are softened and slightly charred on some parts (this caramelization is key).",
+    "Deglaze the pan with lemon juice and tamari sauce. Stir well to incorporate all the ingredients into a smooth sauce.",
+    "Let the mixture cool slightly, then blend using an immersion blender or by transferring it to a regular blender until you reach your desired consistency.",
+    "Serve the Sweet Pepper Delight warm as a side dish or dip, garnished with chopped parsley for added flavor and color."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet-pepper-dish",
+    "algerian-vegan",
+    "silky-sauce"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 3.9,
+    "carbs": 18.5,
+    "fat": 6.5
+  },
+  "slug": "sweet-pepper-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-pepper-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:24:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "roasted pepper",
+    "diet": "jain",
+    "region": null
+  }
+}
