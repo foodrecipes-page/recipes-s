@@ -1,0 +1,84 @@
+{
+  "title": "Savory Creamy Ethiopian Yacon Salad",
+  "description": "A low-calorie-friendly indulgent ethiopian dish featuring salty, creamy textures with a touch of sweetness from caramelized yacon and the warm spiciness of ground cardamom.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 medium ripe yacon",
+      "amount": "",
+      "notes": "Can be found in refrigerated sections of grocery stores or health food stores"
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "cup",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "tablespoon",
+      "notes": null
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon ground cardamom",
+      "amount": "teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Prepare yacon by slicing it into thin rounds and lightly coating them with a bit of olive oil.",
+    "Place the slices on a baking sheet lined with parchment paper. Roast in the preheated oven for about 20-25 minutes, flipping halfway through until they are slightly caramelized and golden brown.",
+    "While the yacon is roasting, mix together heavy cream, honey, minced garlic, ground cardamom, and salt in a bowl until well combined. Stir in the roasted yacon slices.",
+    "Serve immediately to enjoy its creamy, indulgent texture with a salty kick from the toasted yacon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "creamy",
+    "indulgent",
+    "ethiopian",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "savory-creamy-ethiopian-yacon-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-creamy-ethiopian-yacon-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:35:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "caramelize",
+    "primaryIngredient": "ground cardomom",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Yacon",
+    "descriptor": "Savory Creamy",
+    "dishForm": "Salad"
+  }
+}
