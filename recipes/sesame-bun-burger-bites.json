@@ -1,0 +1,76 @@
+{
+  "title": "Sesame Bun Burger Bites",
+  "description": "A kid-friendly and raw-friendly salty, silky Egyptian dish featuring sesame seed burger buns that are crispy on the outside and soft inside, perfect for a quick snack or breakfast.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread rolls",
+      "amount": "10 pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water or egg wash (for coating)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Mix minced garlic and olive oil in a bowl. Brush this mixture on the inside of the bread rolls.",
+    "Spread sesame seeds evenly over each roll, ensuring they're completely covered.",
+    "Press down lightly on each roll with your fingers so that the sesame seeds adhere better to the surface.",
+    "Dip the coated rolls into panko breadcrumbs, allowing them to stick to the sesame seeds. You can also dip them in water or egg wash for extra stickiness if desired.",
+    "Arrange the sesame seed-covered bread rolls in a baking tray with some space between each roll to allow for even cooking.",
+    "Bake the sesame bun burger bites for about 10-15 minutes, or until they're golden brown and crispy on the outside. Check from time to time to ensure they don't burn.",
+    "Once done, remove them from the oven and serve immediately while still warm.",
+    "Optional: Drizzle with a bit of extra sesame oil for an added flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "sesame",
+    "burger",
+    "bites",
+    "salty",
+    "soft"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "sesame-bun-burger-bites",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sesame-bun-burger-bites",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:49:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "raw",
+    "region": null
+  }
+}
