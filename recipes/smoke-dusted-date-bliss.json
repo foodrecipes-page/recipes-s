@@ -1,0 +1,73 @@
+{
+  "title": "Smoke-Dusted Date Bliss",
+  "description": "A savory and creamy Brazilian dish perfect for date nights, featuring a vegan-friendly twist with smoked dates and icing sugar.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "15"
+    },
+    {
+      "name": "Vegan Butter or Margarine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Icing Sugar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Almond Flour or Cornstarch",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Soften dates in hot water and remove pits. Stir dates with a fork until smooth.",
+    "Mix vegan butter, icing sugar, smoked paprika, oil, and almond flour together until the mixture coats well on the dates.",
+    "Preheat an oven-safe skillet or pan over medium heat. Place the date mixture into the heated pan and spread evenly.",
+    "Bake in preheated oven for 15 minutes or until golden brown and bubbly.",
+    "Garnish with extra smoked paprika if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-date-bliss",
+    "vegan-dessert",
+    "date-night-brazilian"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "smoke-dusted-date-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-dusted-date-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:59:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "icing sugar",
+    "diet": "vegan",
+    "region": null
+  }
+}
