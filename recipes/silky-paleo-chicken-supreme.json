@@ -1,0 +1,74 @@
+{
+  "title": "Silky Paleo Chicken Supreme",
+  "description": "A sweet and silky Vietnamese dish featuring roasted chicken in a paleo-friendly blend of coconut milk and sugar syrup, perfect for impressing guests at any meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 whole organic chicken breast",
+      "amount": "1",
+      "notes": "Bone-in for added flavor and nutrition"
+    },
+    {
+      "name": "2 tablespoons coconut sugar",
+      "amount": "2"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "1/4"
+    },
+    {
+      "name": "1 can (13.5 ounces) full-fat coconut milk",
+      "amount": "1"
+    },
+    {
+      "name": "1 teaspoon ground ginger",
+      "amount": "1"
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Rinse chicken, pat dry, then season inside with salt and pepper.",
+    "In a small saucepan, combine coconut sugar, water, and ginger. Stir until sugar is dissolved. Simmer for about 5 minutes or until thickened into a syrup.",
+    "Place the seasoned chicken in a roasting pan. Pour syrup over chicken evenly. Place in oven and cook for approximately 20-30 minutes per pound, until fully cooked (internal temperature reaches 165°F).",
+    "Reduce heat to low and let chicken rest in the sauce for about 10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "vietnamese",
+    "silky",
+    "sweet",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 75,
+    "fat": 60
+  },
+  "slug": "silky-paleo-chicken-supreme",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-paleo-chicken-supreme",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:59:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "chicken",
+    "diet": "paleo",
+    "region": null
+  }
+}
