@@ -1,0 +1,72 @@
+{
+  "title": "Sous-Vide Penne Garlic Crunch",
+  "description": "A garlicky, crunchy one-pot Spanish dish featuring penne rigate, prepared with sous-vide cooking method and nut-free-friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sous-Vide Penne Rigate",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "1 sprig",
+      "notes": "Chiffonade finely"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 150°F (65°C).",
+    "Heat the extra virgin olive oil in a large skillet over medium heat.",
+    "Add minced garlic and sauté until fragrant, about 2 minutes.",
+    "Drain the penne rigate from the water and add it to the skillet with red pepper flakes and fresh basil leaves.",
+    "Shake off any excess oil from the drained pasta, then toss it with the garlic mixture for 1 minute.",
+    "Transfer the cooked pasta into a bowl and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "penne-rigate",
+    "garlic-crunch",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 318,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "sous-vide-penne-garlic-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-penne-garlic-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:49:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "penne rigate",
+    "diet": "nut-free",
+    "region": null
+  }
+}
