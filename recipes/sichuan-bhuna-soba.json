@@ -1,0 +1,101 @@
+{
+  "title": "Sichuan Bhuna Soba",
+  "description": "A rich, gooey one-pot Argentinian dish featuring sichuan pepper and bhuna in a noodles-based sauce that is fodmap-friendly.",
+  "cuisine": "Argentine",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "200g soba noodles",
+      "amount": "",
+      "notes": "Use gluten-free soba if necessary."
+    },
+    {
+      "name": "1 tbsp vegetable oil",
+      "amount": "Tbsp"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 cm fresh ginger, grated",
+      "amount": ""
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "150g ground beef or lamb (bhuna)",
+      "amount": "g"
+    },
+    {
+      "name": "80g sliced spring onions (green onions)",
+      "amount": "g"
+    },
+    {
+      "name": "2 tbsp sichuan peppercorns",
+      "amount": "Tbsp"
+    },
+    {
+      "name": "1 tsp ground fennel seeds",
+      "amount": "tsp"
+    },
+    {
+      "name": "100ml beef broth or water",
+      "amount": "fl oz"
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": "Tbsp"
+    },
+    {
+      "name": "A pinch of sugar",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Add soba noodles to a pot with 500ml water and cook until tender. Drain and set aside.",
+    "In a wok or large frying pan, heat the vegetable oil over medium-high heat. Add minced garlic and grated ginger, sautéing for about 1 minute until fragrant.",
+    "Add sliced spring onions to the wok and stir-fry for another minute.",
+    "Next, add the ground meat (bhuna) to the wok, cooking until it turns brown. Season with ground fennel seeds and cook for an additional 2 minutes.",
+    "Pour in the beef broth or water, soy sauce, and sichuan peppercorns into the wok. Bring to a simmer and let the flavors meld together.",
+    "Finally, add cooked soba noodles to the wok, tossing them well to coat with the flavorful sauce. Let everything heat through for about 2 minutes before serving.",
+    "Garnish with more spring onions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sichuan-pepper",
+    "bhuna",
+    "argentine-dish",
+    "one-pot-meal",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "sichuan-bhuna-soba",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sichuan-bhuna-soba",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:42:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "fodmap",
+    "region": null
+  }
+}
