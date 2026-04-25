@@ -1,0 +1,84 @@
+{
+  "title": "Suet Delight",
+  "description": "A sweet and juicy Tunisian dish featuring suet, prepared in a bhuna style that is kosher-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "100g",
+      "notes": "Use kosher-certified suet."
+    },
+    {
+      "name": "cane sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cardamom seeds",
+      "amount": "2-3, crushed finely"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2-3, crushed finely"
+    },
+    {
+      "name": "milk or water",
+      "amount": "100ml"
+    },
+    {
+      "name": "pistachios",
+      "amount": "25g, coarsely chopped (optional)"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "40ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Mix suet and sugar in a bowl until well combined. Stir in ginger powder, cardamom seeds, and coriander seeds.",
+    "If using, add chopped pistachios to the mixture for added flavor and texture.",
+    "Gradually add milk or water while stirring with wooden spoon until smooth consistency is achieved.",
+    "Heat oil in a deep pan over medium heat. Pour the suet mix into hot oil and stir continuously until golden brown and crispy, about 10 minutes.",
+    "Remove from heat and let cool slightly before shaping into desired form(s).",
+    "Return to preheated oven at 180°C for 3-5 minutes or until lightly toasted on all sides.",
+    "Serve warm with a sprinkle of chopped pistachios if used. Enjoy your Suet Delight!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian-dessert",
+    "bhuna-style",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 5,
+    "carbs": 34,
+    "fat": 19
+  },
+  "slug": "suet-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/suet-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:54:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "bhuna",
+    "primaryIngredient": "suet",
+    "diet": "kosher",
+    "region": null
+  }
+}
