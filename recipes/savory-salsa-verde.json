@@ -1,0 +1,83 @@
+{
+  "title": "Savory Salsa Verde",
+  "description": "A smoky and velvety solo-dinner Kenyan dish featuring a blend of fresh salsa, pickled vegetables, and savory flavors that are perfect for plant-based diners.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 medium zucchini",
+      "amount": "peeled and diced"
+    },
+    {
+      "name": "1 small red onion",
+      "amount": "sliced thinly"
+    },
+    {
+      "name": "2 ripe avocados",
+      "amount": "pitted and peeled, diced"
+    },
+    {
+      "name": "1 can of drained black-eyed peas",
+      "amount": "undrained, rinsed"
+    },
+    {
+      "name": "1 jar (approx. 400g) of sweet corn relish or pickled vegetables",
+      "amount": "chopped"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "freshly squeezed"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced finely"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "notes": "to add smokiness"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Blend together the diced zucchini, red onion, avocados, black-eyed peas, relish, lime juice, garlic, and smoked paprika until smooth.",
+    "Season with salt according to taste. Adjust seasoning if needed.",
+    "Serve immediately or chill before serving for a richer flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salsa verde",
+    "kenyan",
+    "smoky",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 8,
+    "carbs": 47,
+    "fat": 15
+  },
+  "slug": "savory-salsa-verde",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-salsa-verde",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:30:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "salsa",
+    "diet": "plant-based",
+    "region": null
+  }
+}
