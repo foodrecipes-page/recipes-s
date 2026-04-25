@@ -1,0 +1,92 @@
+{
+  "title": "Smoky Chuck Roast Monsoon",
+  "description": "A dash-friendly monsoon dish featuring a crispy smoky chuck roast prepared through air-frying for an easy Australian-style meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "flexitarian",
+    "dairy-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chuck Roast",
+      "amount": "500g"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Season the chuck roast generously with salt, black pepper, cumin powder, coriander powder, and garlic powder. Toss in all-purpose flour until well coated.",
+    "Heat olive oil and vegetable oil in a large skillet over medium heat. Sear the chuck roast on both sides for about 2 minutes per side to achieve a nice crust. Remove from skillet and set aside.",
+    "In the same pan, pour in chicken broth and let it simmer for about 5-7 minutes until slightly reduced. Stir in vegetable oil and cook for another minute.",
+    "Place seared chuck roast back into the pan with the sauce mixture. Add remaining seasoning mix to the pan and stir everything together well.",
+    "Cover the skillet and transfer to air fryer basket, cooking for 20-25 minutes or until internal temperature of meat reaches 145°F (63°C).",
+    "Rest the dish for about 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "cuisine:australian",
+    "air-fry"
+  ],
+  "nutrition": {
+    "calories": 721,
+    "protein": 38,
+    "carbs": 5,
+    "fat": 40
+  },
+  "slug": "smoky-chuck-roast-monsoon",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chuck-roast-monsoon",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:54:59Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "chuck roast",
+    "diet": "dash",
+    "region": null
+  }
+}
