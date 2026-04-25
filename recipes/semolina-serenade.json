@@ -1,0 +1,83 @@
+{
+  "title": "Semolina Serenade",
+  "description": "A sweet and silky Indian dessert featuring semolina that is perfect for a romantic dinner or as a treat.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup semolina (gluten-free if needed)",
+      "amount": "",
+      "notes": "Use gluten-free semolina for those with dietary restrictions."
+    },
+    {
+      "name": "3 cups water",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup coconut milk",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "4 tablespoons sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon cornstarch",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cardamom",
+      "amount": ""
+    },
+    {
+      "name": "10-ounce coconut cream (for topping)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Combine semolina and water in a medium saucepan. Bring to a boil, then reduce heat and simmer for about 5 minutes.",
+    "In a small bowl, mix cornstarch with 2 tablespoons of water until smooth. Add this mixture along with remaining water to the pan.",
+    "Stir in coconut milk, salt, and sugar; cook and stir until thickened, about 10 minutes.",
+    "Remove from heat, stir in cardamom, and set aside.",
+    "Serve warm, topped with additional coconut cream."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "semolina",
+    "coconut",
+    "cardamom",
+    "indian-dessert"
+  ],
+  "nutrition": {
+    "calories": 307,
+    "protein": 6,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "semolina-serenade",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/semolina-serenade",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:02:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "semolina",
+    "diet": "plant-based",
+    "region": null
+  }
+}
