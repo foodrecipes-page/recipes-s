@@ -1,0 +1,91 @@
+{
+  "title": "Smoke & Curry Garlic Grog",
+  "description": "A decadent Greek dish featuring a blend of Jamaican curry powder and creamy textures combined with smoke for an indulgent flavor profile.",
+  "cuisine": "Greek-Jamaican fusion",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Jamaican Curry Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "3 tablespoons (for thickening)"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tablespoons, softened"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup, plain"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups (for base coating)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon, for frying"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons (for coating base coat and final mixture)"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "a few sprigs of parsley and dill, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large saucepan over medium heat. Add the chopped onion and sauté until translucent.",
+    "Add the garlic to the pan, stirring constantly for about 30 seconds or until fragrant but not burnt.",
+    "Stir in Jamaican curry powder and cook for another minute, ensuring all ingredients are evenly coated with spice.",
+    "Gradually whisk in heavy cream and milk. Reduce heat to low, stir continuously until mixture thickens slightly, about 5-7 minutes.",
+    "Season the mixture with salt and pepper according to taste. Stir in the Greek yogurt.",
+    "Reduce heat to simmer and cook for another 10-15 minutes or until flavors are well combined and desired thickness is achieved.",
+    "In a separate bowl, mix all-purpose flour with water to create a slurry. Slowly pour this mixture into the saucepan while stirring continuously to prevent lumps from forming.",
+    "Pour in the final coat of milk and allow it to simmer for an additional 2-3 minutes, ensuring a smooth, creamy texture throughout.",
+    "Add fresh herbs just before serving for extra flavor enhancement.",
+    "Serve hot over grilled or baked bread slices, ideally with a side of crusty bread for dunking. Enjoy as an indulgent gourmet dish!",
+    "Note: The final step can also be done in the oven by transferring the mixture to a baking dish and broiling until golden brown and bubbly on top.",
+    "prepTimeMin"
+  ],
+  "slug": "smoke-curry-garlic-grog",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-curry-garlic-grog",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:28:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "smoke",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
