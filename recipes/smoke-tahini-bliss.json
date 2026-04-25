@@ -1,0 +1,74 @@
+{
+  "title": "Smoke-Tahini Bliss",
+  "description": "A quick-fix dish featuring nutty, gooey tahini with a hint of sweetness and smoke flavor, suitable for sugar-free diets.",
+  "cuisine": "International",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar-Free Sweetener",
+      "amount": "1-2 tsp (optional)"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1-2 tbsp"
+    },
+    {
+      "name": "Coconut Oil or Melted Coconut Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pepper, to taste",
+      "notes": "Freshly ground pepper can be added if desired"
+    },
+    {
+      "name": "Smoke Flavor (e.g., smoked paprika, liquid smoke)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Mix tahini with sugar-free sweetener in a small bowl.",
+    "Add apple cider vinegar and coconut oil/butter. Mix well until the mixture is creamy and homogeneous.",
+    "Season with freshly ground pepper to taste. Add more or less according to your preference for smokiness and spiciness.",
+    "Pour the tahini-honey mixture into a shallow dish or mold, allowing it to set slightly (about 10-15 minutes).",
+    "Once set, you can top it with additional smoke flavor if desired, such as extra smoked paprika or liquid smoke. Re-bake in an oven at 325°F for another 5-7 minutes.",
+    "Serve immediately and enjoy your quick-fix dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "tahini",
+    "sugar-free",
+    "dessert",
+    "smoke-flavored"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 14
+  },
+  "slug": "smoke-tahini-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-tahini-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:44:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "tahini",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
