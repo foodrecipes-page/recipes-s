@@ -1,0 +1,94 @@
+{
+  "title": "Savory Japanese Soy Milk Stir-fry",
+  "description": "A tender and energizing savory dish featuring soy milk, high-protein-friendly and perfect for a quick lunch or snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "soy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece, minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "4 green onions, sliced thinly"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block (firm or soft), cut into cubes"
+    },
+    {
+      "name": "peanuts",
+      "amount": "2 tablespoons, crushed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add minced ginger and sliced scallions, stir-fry for about 1 minute until fragrant.",
+    "Pour in chicken broth and soy milk, bring to a simmer.",
+    "Gently add tofu cubes, let them cook for another 2 minutes.",
+    "Drizzle with soy sauce and sesame oil, mix well.",
+    "Stir-fry briefly until everything is heated through and the flavors are combined.",
+    "Fold in crushed peanuts, serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savoury",
+    "tender",
+    "energizing",
+    "japanese",
+    "soy-milk",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 38,
+    "carbs": 27,
+    "fat": 16
+  },
+  "slug": "savory-japanese-soy-milk-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-japanese-soy-milk-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:38:31Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "soy milk",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Soy Milk",
+    "descriptor": "savory",
+    "dishForm": "Stir-fry"
+  }
+}
