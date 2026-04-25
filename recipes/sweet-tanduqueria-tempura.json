@@ -1,0 +1,70 @@
+{
+  "title": "Sweet Tanduqueria Tempura",
+  "description": "A tangy, tender Japanese dish featuring sugar syrup and tandoor that is crowd-pleasing and suitable for high-protein-friendly diets.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup sweet potato slices",
+      "amount": "",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "1/2 cup cornstarch",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "Pinch salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat tandoor to 425°F (220°C).",
+    "Mix cornstarch, lemon juice, and sugar in a shallow dish. Add salt.",
+    "Dip sweet potato slices into the cornstarch mixture until coated evenly.",
+    "Place coated sweet potatoes on preheated tandoor for about 1-2 minutes per side or until golden brown and crispy.",
+    "Serve hot with a drizzle of honey syrup for added sweetness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "tempura",
+    "tangy",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "sweet-tanduqueria-tempura",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-tanduqueria-tempura",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:16:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "sugar syrup",
+    "diet": "high-protein",
+    "region": null
+  }
+}
