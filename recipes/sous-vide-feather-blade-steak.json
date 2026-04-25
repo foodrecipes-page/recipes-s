@@ -1,0 +1,67 @@
+{
+  "title": "Sous-Vide Feather Blade Steak with Spicy Mango Salsa",
+  "description": "A light and spicy post-workout meal featuring tenderized feather blade beef cooked sous-vide for an unparalleled raw-friendly experience.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Feather Blade Beef Fillet",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Raw Organic Mango Salsa Mix",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili Flakes (to taste)",
+      "notes": "For added spice, but keep in check for post-workout enjoyment."
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide cooker to 135°F.",
+    "Season the Feather Blade Beef Fillet with salt and pepper, then marinate it in Raw Organic Mango Salsa Mix for at least one hour.",
+    "Seal the marinated steak in a vacuum bag and cook in the sous-vide machine for approximately 2 hours or until fully tender.",
+    "Remove from cooker and let rest for about 15 minutes before slicing thinly against the grain.",
+    "While the steak rests, prepare the Mango Salsa by mixing fresh lime juice with chili flakes to taste.",
+    "Serve the cooked Feather Blade Steak alongside the spicy Mango Salsa."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "raw-friendly",
+    "post-workout",
+    "feather-blade-beef"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 27,
+    "carbs": 18,
+    "fat": 5
+  },
+  "slug": "sous-vide-feather-blade-steak",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-feather-blade-steak",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:32:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "feather blade beef",
+    "diet": "raw",
+    "region": null
+  }
+}
