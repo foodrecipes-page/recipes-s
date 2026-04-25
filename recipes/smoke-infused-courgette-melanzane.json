@@ -1,0 +1,76 @@
+{
+  "title": "Smoke-Infused Courgette Melanzane",
+  "description": "A savory and chewy Croatian dish featuring smoked courgettes with a touch of sourness to satisfy midnight cravings, suitable for kosher diets.",
+  "cuisine": "Croatian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium-sized"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sour Cream (homemade or store-bought)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Slice the courgettes into rounds about 0.5 cm thick.",
+    "Season both sides of each slice with salt and pepper to taste.",
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add the courgette slices, ensuring they don’t touch each other to prevent sticking.",
+    "Sprinkle smoked paprika on top of each side for extra smoky flavor.",
+    "Cook until the edges start to brown and the insides become tender but not mushy (about 5-7 minutes per side).",
+    "In a mixing bowl, combine sour cream with a pinch of salt. Mix well.",
+    "Serve the smoked courgettes alongside the sour cream dip for dipping.",
+    "Optional: For a more intense smoky flavor, place the pan in a preheated oven at 200°C (392°F) for an additional minute or until desired smoke level is achieved."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-courgette",
+    "kosher-diet",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "smoke-infused-courgette-melanzane",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-infused-courgette-melanzane",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:51:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "smoke",
+    "primaryIngredient": "courgettes",
+    "diet": "kosher",
+    "region": null
+  }
+}
