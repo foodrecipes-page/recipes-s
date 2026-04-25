@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Date Night Tacos",
+  "description": "These smoky date night tacos are tender and perfect for a Brazilian dish that pairs well with hard taco shells. They are low-fat-friendly.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hard taco shells",
+      "amount": "12"
+    },
+    {
+      "name": "Ground beef or turkey",
+      "amount": "500 grams",
+      "notes": "For the smoky flavor, you can use ground beef mixed with a smoked sausage crumble."
+    },
+    {
+      "name": "Date purée",
+      "amount": "6 dates per taco (around 12 ounces total)",
+      "notes": "Fresh or frozen dates work well."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Prepare taco shells by lightly brushing with olive oil and adding a small amount of salt.",
+    "Mix ground beef or turkey, minced garlic, paprika, and date purée in a large bowl. Season with salt and pepper as desired.",
+    "Divide the filling evenly among the prepared taco shells. Place them on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes until cooked through. Let rest for 5 minutes before serving.",
+    "Serve with your favorite toppings such as avocado crema or fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "taco",
+    "date-night",
+    "brazilian",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 31,
+    "carbs": 85,
+    "fat": 24
+  },
+  "slug": "smoky-date-night-tacos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-date-night-tacos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:20:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "hard taco shells",
+    "diet": "low-fat",
+    "region": null
+  }
+}
