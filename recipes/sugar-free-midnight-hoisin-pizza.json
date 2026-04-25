@@ -1,0 +1,84 @@
+{
+  "title": "Sugar-Free Midnight Hoisin Pizza",
+  "description": "A savory and dense Italian (Neapolitan) pizza featuring a unique blend of hoisin sauce for a midnight craving, served sugar-free.",
+  "cuisine": "Italian",
+  "diet": [
+    "sugar-free",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Neapolitan Pizza Base",
+      "amount": "1",
+      "notes": "Pre-made or homemade"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Sugar-free hoisin sauce is available in many health food stores"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon",
+      "notes": "Can be found at grocery stores with international foods"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 teaspoon",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "To enhance the savory taste"
+    },
+    {
+      "name": "Salt-Free Italian Seasoning Mix",
+      "amount": "1/4 teaspoon",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Fresh Herbs (optional)",
+      "amount": "-",
+      "notes": "Such as basil or parsley for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 250°C (475°F).",
+    "Spread a thin layer of hoisin sauce evenly on the pizza base.",
+    "Add tomato paste, garlic powder, and salt-free Italian seasoning mix over the sauce. Mix well until all ingredients are combined smoothly.",
+    "Sprinkle fresh herbs if using for garnish.",
+    "Place the pizza in the preheated oven and bake for 10-15 minutes or until the crust is golden brown and slightly crispy.",
+    "Remove from oven and let it cool down before serving."
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 10,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sugar-free",
+    "moist-meaty"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "sugar-free-midnight-hoisin-pizza",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sugar-free-midnight-hoisin-pizza",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:44:22Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "sugar-free",
+    "region": "neapolitan"
+  }
+}
