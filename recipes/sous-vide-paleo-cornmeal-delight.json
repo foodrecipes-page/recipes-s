@@ -1,0 +1,75 @@
+{
+  "title": "Sous-Vide Paleo Cornmeal Delight",
+  "description": "This weeknight Chinese-inspired dish is nutty and tender with a paleo-friendly twist using cornmeal cooked sous-vide style.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup",
+      "notes": "Coarse or medium grind"
+    },
+    {
+      "name": "Water",
+      "amount": "Enough to cover cornmeal completely in sous-vide bag"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "For tenderizing and flavoring"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional for heat, but optional"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "A few sprigs",
+      "notes": "Fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Combine cornmeal and water in a sous-vide bag.",
+    "Add apple cider vinegar, cayenne pepper (if using), and thyme leaves to the mixture.",
+    "Mix well until all ingredients are evenly distributed.",
+    "Place the mixture in a preheated sous-vide machine at 132°F for about 4 hours or until cornmeal is tender but still holds its shape slightly.",
+    "Carefully remove the bag from the water bath and let it cool down to room temperature.",
+    "Serve the cooked cornmeal on top of steamed vegetables, greens, or as a gluten-free side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 480,
+  "totalTimeMin": 500,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "sous-vide",
+    "cornmeal",
+    "nutty",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 67,
+    "fat": 2
+  },
+  "slug": "sous-vide-paleo-cornmeal-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-paleo-cornmeal-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:05:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "cornmeal",
+    "diet": "paleo",
+    "region": null
+  }
+}
