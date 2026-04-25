@@ -1,0 +1,80 @@
+{
+  "title": "Sun-Dried Bliss Stir-Fry",
+  "description": "A salty, fluffy quick-fix Chinese (Zhejiang) dish featuring sun-dried tomatoes, deglazed with high-protein-friendly ingredients.",
+  "cuisine": "Chinese (Zhejiang)",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sun-Dried Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "High-Protein Chicken Strips",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "100g"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 stalks"
+    }
+  ],
+  "instructions": [
+    "Chop sun-dried tomatoes into small pieces.",
+    "Roughly chop red bell pepper and green onions, leaving some whole for presentation.",
+    "Thinly slice garlic and mince it finely.",
+    "Heat a wok or large skillet over medium-high heat. Add chicken strips to the pan and cook until golden brown on both sides. Remove chicken from pan and set aside.",
+    "In the same pan, add sun-dried tomato pieces and water chestnuts along with minced garlic. Sauté for about 2 minutes.",
+    "Deglaze the pan by pouring in soy sauce and stir well to combine ingredients. Let it simmer until slightly thickened.",
+    "Return chicken to the pan and toss everything together gently. Add finely chopped red bell pepper just before serving.",
+    "Serve hot with green onions on top for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sun-dried tomatoes",
+    "high-protein-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 471,
+    "protein": 28.7,
+    "carbs": 30.6,
+    "fat": 21
+  },
+  "slug": "sun-dried-bliss-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sun-dried-bliss-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:21:52Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "high-protein",
+    "region": "zhejiang"
+  }
+}
