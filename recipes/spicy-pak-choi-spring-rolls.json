@@ -1,0 +1,78 @@
+{
+  "title": "Spicy Pak Choi Spring Rolls",
+  "description": "These crunchy spring rolls feature a spicy pak choi filling with a touch of ginger and sesame oil for an aromatic and satisfying snack.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "1 cup fresh, finely shredded"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece, minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon, lightly toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "rice paper wrappers",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Place the shredded pak choi in a large bowl. Add minced ginger, sesame oil, red pepper flakes, salt, and mix well.",
+    "Pour half of the mixture into each rice paper wrapper, leaving about an inch at one end for rolling.",
+    "Dip a finger in water and smooth any edges to seal the roll. Place on a plate with remaining filling.",
+    "Serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crunchy",
+    "pak choi",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "spicy-pak-choi-spring-rolls",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-pak-choi-spring-rolls",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:17:22Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "pak choi",
+    "diet": "egg-free",
+    "region": null
+  }
+}
