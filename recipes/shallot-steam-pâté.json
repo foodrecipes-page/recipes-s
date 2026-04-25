@@ -1,0 +1,82 @@
+{
+  "title": "Shallot Steam Pâté",
+  "description": "A light and herbal French dish perfect for post-workout recovery, featuring dairy-free shallots in a creamy base.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 small piece",
+      "notes": "grated finely"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "for added umami flavor, optional"
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "1 small cube",
+      "notes": "dissolved in water to make a base liquid"
+    },
+    {
+      "name": "unsweetened almond milk or coconut milk",
+      "amount": "400ml",
+      "notes": "heated and used as the steam liquid"
+    }
+  ],
+  "instructions": [
+    "Slice shallots thinly and finely grate ginger root.",
+    "In a small saucepan, combine dissolved vegetable stock cube with unsweetened almond milk or coconut milk. Heat until just simmering but not boiling.",
+    "Add grated ginger to the heated milk base mixture and mix well for about 1-2 minutes, allowing flavors to meld together.",
+    "Fold in sliced shallots into the warm ginger-almond liquid. Stir gently so as not to overwork them. Taste and adjust seasoning if necessary with lemon juice or nutritional yeast (if used).",
+    "Transfer the shallot mixture to a serving dish and cover it lightly with another dish for insulation, then place it in a steamer basket above simmering water.",
+    "Steam on medium heat for about 10-12 minutes. The texture should be soft but still hold its shape, indicating proper preparation."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 10,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "shallot",
+    "steam",
+    "pate",
+    "light",
+    "herbaceous",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 102,
+    "protein": 3.6,
+    "carbs": 7.4,
+    "fat": 5
+  },
+  "slug": "shallot-steam-pâté",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/shallot-steam-pâté",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:38:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "shallots",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
