@@ -1,0 +1,69 @@
+{
+  "title": "Spicy Sausage and Fold Vegetarian Wrap",
+  "description": "A juicy date-night polish dish featuring a blend of crispy sausage and fresh fold vegetables in a warm wrap, perfect for those who enjoy a bit of heat and spice.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fold Vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sausage Patties",
+      "amount": "2-3 oz per person"
+    },
+    {
+      "name": "Whole Wheat Tortilla Wrap",
+      "amount": "4 wraps"
+    },
+    {
+      "name": "Salsa Verde (Optional)",
+      "amount": "for topping"
+    },
+    {
+      "name": "Pico de Gallo (Optional)",
+      "amount": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Heat a skillet over medium heat. Add Fold Vegetables and sauté for about 5 minutes until tender.",
+    "In a separate pan, gently cook the Sausage Patties until they are browned on all sides but still juicy inside.",
+    "Place Fold Vegetables onto the tortilla wrap with a pat of the cooked Sausage Pattie in the center. Add optional toppings like Salsa Verde and Pico de Gallo if desired.",
+    "Fold the wrap over to seal, creating an elegant date-night style wrap."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "juicy",
+    "vegetarian-friendly",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 13,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "spicy-sausage-and-fold-vegetarian-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-sausage-and-fold-vegetarian-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:54:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "sausage",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
