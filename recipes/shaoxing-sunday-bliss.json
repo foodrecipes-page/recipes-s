@@ -1,0 +1,73 @@
+{
+  "title": "Shaoxing Sunday Bliss",
+  "description": "A lazy-sunday Ethiopian dish featuring shaoxing wine, whisk for a bitter and velvety texture, keto-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Whisk",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tbsp (softened)"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup (fresh, washed)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Whisk together the Shaoxing wine and whisk until frothy.",
+    "Add heavy cream to the whisked mixture, continuing to whip until thickened. Reduce heat to low once combined.",
+    "In a separate pan, melt butter over medium-low heat. Add spinach leaves and cook for about 2 minutes until wilted.",
+    "Fold in whipped Shaoxing wine mixture into the cooked spinach gently until well incorporated.",
+    "Season with salt to taste.",
+    "Serve immediately as a light yet flavorful main dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shaoxing-wine",
+    "whisk",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 351,
+    "protein": 19,
+    "carbs": 28,
+    "fat": 20
+  },
+  "slug": "shaoxing-sunday-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/shaoxing-sunday-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:02:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "keto",
+    "region": null
+  }
+}
