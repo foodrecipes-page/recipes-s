@@ -1,0 +1,76 @@
+{
+  "title": "SoyZest Stuffed Chickpeas",
+  "description": "A smoky and tender Middle Eastern dish featuring soy sauce in a meal-prep-friendly format, perfect for those with diabetes.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 can chickpeas (15 oz)",
+      "amount": "drained and rinsed"
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": "low sodium if possible"
+    },
+    {
+      "name": "1 tbsp smoked paprika"
+    },
+    {
+      "name": "1 tbsp sesame seeds"
+    },
+    {
+      "name": "½ tsp ground cumin"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Pinch of black pepper"
+    },
+    {
+      "name": "2 tbsp chopped fresh parsley"
+    },
+    {
+      "name": "2 tbsp chopped fresh cilantro"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine chickpeas, soy sauce, smoked paprika, cumin, salt, and pepper.",
+    "Mix well to ensure all chickpeas are coated evenly.",
+    "Stir in the sesame seeds, parsley, and cilantro until fully incorporated.",
+    "Transfer the mixture into individual serving containers or a reusable container for meal prepping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soyzest",
+    "stuffed_chickpeas",
+    "diabetic_friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 58,
+    "fat": 7
+  },
+  "slug": "soyzest-stuffed-chickpeas",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/soyzest-stuffed-chickpeas",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:23:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "stir-fry",
+    "primaryIngredient": "soy sauce",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
