@@ -1,0 +1,98 @@
+{
+  "title": "Sherry Rose Salad",
+  "description": "A floral and juicy Ethiopian-inspired dish featuring sherry vinegar, high-protein-friendly with a touch of spices for added depth.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "low-sodium"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4"
+    },
+    {
+      "name": "cherry peppers",
+      "amount": "3-4"
+    },
+    {
+      "name": "cilantro",
+      "amount": "handful"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "crumbled feta cheese (optional)",
+      "amount": "2 oz"
+    },
+    {
+      "name": "capers",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Wash and chop spinach, tomato, cucumber, red onion, and cherry peppers into bite-sized pieces.",
+    "In a large bowl, mix together the chopped vegetables with sherry vinegar and olive oil. Season with salt and black pepper to taste.",
+    "Add crumbled feta cheese and capers for extra flavor if desired.",
+    "Garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "floral",
+    "juicy",
+    "sherry-vinegar",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 3
+  },
+  "slug": "sherry-rose-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sherry-rose-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:28:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "high-protein",
+    "region": null
+  }
+}
