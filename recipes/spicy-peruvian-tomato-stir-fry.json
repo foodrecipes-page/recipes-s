@@ -1,0 +1,77 @@
+{
+  "title": "Spicy Peruvian Tomato Stir-fry",
+  "description": "A midnight-craving dish featuring cherry tomatoes and whole30-friendly pickles in a spicy Peruvian sauce, perfect for those with a midnight appetite.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1/2 cup cherry tomatoes",
+      "amount": "",
+      "notes": "fresh"
+    },
+    {
+      "name": "1 tablespoon pickled red pepper flakes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat.",
+    "Add cherry tomatoes and pickled red pepper flakes to the pan, tossing occasionally for about 2 minutes or until they begin to soften.",
+    "Stir in cumin and smoked paprika; continue to stir-fry for another minute.",
+    "Fold in chopped cilantro just before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "peruvian",
+    "cherry-tomato-stir-fry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "spicy-peruvian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-peruvian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:30:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "pickle",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "tomato",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
