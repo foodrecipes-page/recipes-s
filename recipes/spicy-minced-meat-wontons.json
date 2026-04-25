@@ -1,0 +1,79 @@
+{
+  "title": "Spicy Minced Meat Wontons",
+  "description": "This savory, crunchy Spicy Minced Meat Wontons are a romantic Malaysian dish featuring mince meat, blanching, and whole30-friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "minced meat (ground beef or lamb)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "garlic powder (optional)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "red pepper flakes (sambal oelek or crushed red peppers)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Mix minced meat, flour, water, salt, pepper, garlic powder (if using), and red pepper flakes until a dough forms.",
+    "Roll the dough into small balls and flatten them slightly.",
+    "Heat sesame oil in a non-stick skillet over medium-high heat. Cook wontons for about 2-3 minutes on each side or until golden brown and crispy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-wontons",
+    "minced-meat-wontons",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "spicy-minced-meat-wontons",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-minced-meat-wontons",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:50:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "mincemeat",
+    "diet": "whole30",
+    "region": null
+  }
+}
