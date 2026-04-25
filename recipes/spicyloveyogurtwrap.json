@@ -1,0 +1,92 @@
+{
+  "title": "SpicyLoveYogurtWrap",
+  "description": "A tender and spicy Paleo-friendly Ethiopian dish featuring yogurt that's air-fried for a romantic touch.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Mix yogurt with red pepper flakes, turmeric powder, ginger paste, garlic paste, coconut milk, cumin powder, coriander powder, sesame seeds, and paprika in a bowl.",
+    "Heat olive oil in an air fryer basket until hot. Carefully add the yogurt mixture to the hot air fryer.",
+    "Air fry at 375°F for about 10-12 minutes or until golden brown and crispy.",
+    "Drizzle with extra olive oil if needed, then serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "love",
+    "yogurt",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 374,
+    "protein": 18,
+    "carbs": 19,
+    "fat": 20
+  },
+  "slug": "spicyloveyogurtwrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicyloveyogurtwrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:02:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "yogurt",
+    "diet": "paleo",
+    "region": null
+  }
+}
