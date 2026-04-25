@@ -1,0 +1,65 @@
+{
+  "title": "Soymilk Mawar",
+  "description": "A sweet and creamy indulgent dish featuring soya milk in a middle-eastern style, perfect for breakfast or dessert.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "lactose-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "200ml soymilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1 tablespoon sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "1/4 teaspoon cardamom powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "A pinch of saffron",
+      "amount": "a few threads"
+    }
+  ],
+  "instructions": [
+    "Heat a small pan over medium heat and add sugar.",
+    "Add soymilk and stir until the sugar has dissolved, then reduce to simmer for about 3 minutes.",
+    "Stir in cardamom powder and saffron. Simmer for an additional minute until slightly thickened.",
+    "Serve hot or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soymilk",
+    "mawar",
+    "sweet",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 2,
+    "carbs": 13,
+    "fat": 0
+  },
+  "slug": "soymilk-mawar",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/soymilk-mawar",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:33:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "soya milk",
+    "diet": "egg-free",
+    "region": null
+  }
+}
