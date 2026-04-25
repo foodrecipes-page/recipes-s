@@ -1,0 +1,80 @@
+{
+  "title": "Smoky Dum Bitter Delight",
+  "description": "A dense and bitter Moroccan dish featuring smoked olive oil and dumplings that can help cure hangovers, perfect for a pescatarian-friendly snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cannellini beans",
+      "amount": "cup",
+      "notes": "soaked and drained"
+    },
+    {
+      "name": "1 red bell pepper, seeded and diced",
+      "amount": "medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "pieces",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "cup",
+      "notes": "smoked"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "2 cups chicken or vegetable broth",
+      "amount": "cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pot over medium heat.",
+    "Add minced garlic and sauté until fragrant, about 1 minute.",
+    "Stir in smoked paprika and red bell pepper, cooking for another 5 minutes.",
+    "Add soaked beans and broth. Bring to a boil, then reduce heat to low and let simmer until the liquid is mostly absorbed (about 20 minutes).",
+    "Season with salt and pepper to taste.",
+    "Serve warm as a snack or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-dum-bitter-delight",
+    "moroccan-snack",
+    "hangover-cure",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 9,
+    "carbs": 41,
+    "fat": 10
+  },
+  "slug": "smoky-dum-bitter-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dum-bitter-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:26:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "smoky a oli",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
