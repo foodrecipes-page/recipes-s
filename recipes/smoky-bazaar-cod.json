@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Bazaar Cod",
+  "description": "A low-calorie-friendly, smoky and juicy cod dish inspired by romantic Saudi Arabian cuisine, perfect for a light dinner or snack.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "1 lb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 large, finely chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "handful, torn in half"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add garlic and onion, cook until softened, about 3-4 minutes.",
+    "Increase heat to high, add cod fillet slices. Sear on all sides until golden brown, around 2-3 minutes per side.",
+    "Sprinkle smoked paprika and red pepper flakes evenly over the top of the cod.",
+    "Drizzle lemon juice over the dish, season with salt as desired.",
+    "Transfer to a baking dish, cover loosely with foil. Bake for about 10-15 minutes or until the fish is fully cooked and flaky.",
+    "Garnish with torn basil leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "juicy",
+    "romantic",
+    "saudi-arabian",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 31,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "smoky-bazaar-cod",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-bazaar-cod",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:08:21Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "cod",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
