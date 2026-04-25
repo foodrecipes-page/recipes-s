@@ -1,0 +1,93 @@
+{
+  "title": "Smoky Tangy Kenyar Sweet Potatoes Stir-fry",
+  "description": "A festive vegan dish featuring tender sweet potatoes seasoned with smokiness and tanginess for a delightful fusion of flavors.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 medium sweet potato",
+      "amount": "peeled and diced"
+    },
+    {
+      "name": "2 tablespoons soy sauce or tamari liquid",
+      "amount": "",
+      "notes": "use for both smokiness and tangy flavor"
+    },
+    {
+      "name": "Juice of 1 lemon (about 30ml)",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": "for smokiness"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "1 tablespoon vegan butter or margarine (optional)",
+      "amount": "",
+      "notes": "for added richness, optional"
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley or cilantro (for garnish)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the sweet potatoes into even-sized pieces and place them on a baking sheet. Drizzle with lemon juice, smoked paprika, salt, and pepper.",
+    "If using vegan butter/margarine, add it now for added richness and stir until coated evenly.",
+    "Roast in preheated oven for about 20-25 minutes or until the sweet potatoes are tender.",
+    "While the potatoes are roasting, prepare a quick sauce by whisking soy sauce or tamari with fresh lemon juice. Adjust seasoning if needed.",
+    "Once the sweet potatoes are done, remove from heat and let cool slightly before stirring in the prepared sauce.",
+    "Return to oven for an additional 3-5 minutes to allow flavors to meld together. Remove from oven and sprinkle parsley or cilantro over top as garnish.",
+    "Serve hot with your choice of grains like quinoa or brown rice for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-tangy",
+    "kenyan-dish",
+    "sweet-potatoes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 5,
+    "carbs": 48,
+    "fat": 11
+  },
+  "slug": "smoky-tangy-kenyar-sweet-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tangy-kenyar-sweet-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:43:55Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyar",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Tangy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
