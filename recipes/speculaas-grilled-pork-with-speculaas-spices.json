@@ -1,0 +1,83 @@
+{
+  "title": "Speculaas Grilled Pork with Speculaas Spices",
+  "description": "A low-sodium-friendly, salty and juicy Filipino meal-prep dish featuring speculaas spice mix for a unique twist on pork.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-calorie",
+    "low-fat",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Loin",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Specialized Grilling Oil Spray",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Speculaas Spice Mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F - 400°F).",
+    "Season pork with salt and black pepper.",
+    "In a shallow dish, combine flour, olive oil, butter, and Speculaas spice mix. Mix well until the mixture is evenly distributed and smooth.",
+    "Coat the seasoned pork in the mixture, ensuring an even coating on all sides.",
+    "Place the coated pork on the preheated grill and cook for about 7-8 minutes per side or until internal temperature reaches at least 145°F (63°C).",
+    "Let rest for a couple of minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "speculaas",
+    "grilled-pork",
+    "filipino-dish"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "speculaas-grilled-pork-with-speculaas-spices",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/speculaas-grilled-pork-with-speculaas-spices",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:57:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "grill",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
