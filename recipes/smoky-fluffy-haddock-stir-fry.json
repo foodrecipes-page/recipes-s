@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Fluffy Haddock Stir-fry",
+  "description": "A spicy low-carb-friendly meal-prep dish featuring sous-vide smoked haddock in a fragrant blend of vegetables and spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb",
+    "spicy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Haddock Fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Red Chillies",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sriracha Sauce (or other hot sauce)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Cilantro Leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 65°C.",
+    "Remove the smoked haddock from the bag and pat dry with paper towels. Season both sides with salt and pepper.",
+    "Heat 1 tablespoon of oil in a wok or large skillet over high heat until very hot, then add the seasoned smoked haddock. Fry for about 2-3 minutes on each side, until golden brown and crispy.",
+    "In another pan heated with 1 more tablespoon of oil, sauté minced garlic and sliced red chillies until fragrant.",
+    "Add soy sauce, oyster sauce, and sriracha to the garlic and chilli mixture. Stir well until smooth.",
+    "Push aside the fried haddock to one side in a plate or bowl. Add fresh cilantro leaves to the pan. Pour the sauce over the cilantro before adding back the haddock for about 30 seconds.",
+    "Serve hot with steamed vegetables or rice if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky-fluffy-haddock-stir-fry",
+    "spicy-low-carb-friendly-meal-prep",
+    "malaysian-style"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 27,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "smoky-fluffy-haddock-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-haddock-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:57:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "smoked haddock",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Haddock",
+    "descriptor": "Fluffy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
