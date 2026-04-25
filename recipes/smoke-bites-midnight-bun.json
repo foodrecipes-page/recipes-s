@@ -1,0 +1,83 @@
+{
+  "title": "Smoke Bites Midnight Bun",
+  "description": "A whole30-friendly, umami-rich Jamaican dish featuring crumbly midnight-craving buns infused with smoky flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "cup",
+      "notes": "all purpose"
+    },
+    {
+      "name": "1/2 tsp baking powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "pinch salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 cup unsweetened coconut flakes",
+      "amount": "cup",
+      "notes": "for added texture and flavor"
+    },
+    {
+      "name": "8 oz egg whites",
+      "amount": "oz"
+    },
+    {
+      "name": "2 tbsp canola oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large bowl, mix together the flour, baking powder, and salt.",
+    "Add coconut flakes and whisk to distribute evenly.",
+    "Whisk in egg whites until no visible liquid remains. The mixture will be very stiff.",
+    "Gradually add canola oil and water while mixing with a rubber spatula until you form dough. The consistency should be like play-doh.",
+    "On a floured surface, roll out the dough to about 1/4 inch thickness.",
+    "Use cookie cutters or any shape of your choice to cut out buns. Place them on a lined baking sheet with parchment paper under them for easier removal.",
+    "Let it rest at room temperature for 5-10 minutes before cooking. This allows the air bubbles to settle down and makes them fluffier.",
+    "Bake in preheated oven for about 20-30 minutes or until golden brown on top, and the center is set.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "smoked",
+    "crumbly",
+    "midnight"
+  ],
+  "nutrition": {
+    "calories": 176,
+    "protein": 4.9,
+    "carbs": 20.3,
+    "fat": 8
+  },
+  "slug": "smoke-bites-midnight-bun",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-bites-midnight-bun",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:49:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "smoke",
+    "primaryIngredient": "buns",
+    "diet": "whole30",
+    "region": null
+  }
+}
