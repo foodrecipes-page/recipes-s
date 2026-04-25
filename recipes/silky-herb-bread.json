@@ -1,0 +1,77 @@
+{
+  "title": "Silky Herb Bread",
+  "description": "A herbal and indulgent Brazilian dish featuring bread flour, with a touch of sweetness to make it diabetic-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "3 cups"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "2 tbsp (soaked in water to thicken)"
+    },
+    {
+      "name": "maple syrup or honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Grease a loaf pan with cooking spray or oil.",
+    "In a large mixing bowl, combine the bread flour, unsweetened cocoa powder, ground flaxseed, maple syrup or honey, vanilla extract, and sea salt. Stir well to mix in all ingredients.",
+    "Add in the baking powder and stir until fully incorporated. The mixture will be quite wet; this is intentional for a silky texture.",
+    "Pour the mixture into prepared loaf pan. Smooth the top with a spatula.",
+    "Bake for 45-50 minutes or until a toothpick inserted comes out clean. Let cool in the pan for at least 10 minutes before removing to serve.",
+    "Optional: For an extra indulgent touch, you can drizzle a bit of melted chocolate on top before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "silky-herb-bread",
+    "indulgent-brazilian-dessert",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 1
+  },
+  "slug": "silky-herb-bread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-herb-bread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:11:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "fry",
+    "primaryIngredient": "bread flour",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
