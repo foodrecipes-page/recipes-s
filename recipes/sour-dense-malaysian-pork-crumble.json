@@ -1,0 +1,86 @@
+{
+  "title": "Sour Dense Malaysian Pork Crumble",
+  "description": "A kid-friendly and dairy-free version of the sour dense pork crumble from Malaysia, perfect for a quick snack or breakfast.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 cup",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "vinegar",
+      "amount": "3 tablespoons",
+      "notes": "use apple cider or white vinegar for a milder taste"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 teaspoon",
+      "notes": "grated fresh ginger, can be substituted with 1/2 teaspoon ground ginger if no fresh is available"
+    },
+    {
+      "name": "palm sugar or brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "3 tablespoons",
+      "notes": "optional garnish for texture and color"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a mixing bowl until well combined.",
+    "Shape the mixture into small, bite-sized crumbles using your hands or spoon.",
+    "Arrange the crumbles on a baking sheet lined with parchment paper.",
+    "Bake at 350°F (175°C) for about 20 minutes or until golden brown and crisp.",
+    "Garnish with sesame seeds if desired, then serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "dense",
+    "malaysian",
+    "pork",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 8
+  },
+  "slug": "sour-dense-malaysian-pork-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-dense-malaysian-pork-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:31:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "pork",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pork",
+    "descriptor": "Sour Dense",
+    "dishForm": "Crumble"
+  }
+}
