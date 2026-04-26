@@ -1,0 +1,79 @@
+{
+  "title": "Sweet Crumbly Algerian Flat Rice Noodles Crock",
+  "description": "A sweet and crumbly romantic dish featuring flat rice noodles that combines a touch of sweetness with a savory twist for a delightful midday treat.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flat rice noodles",
+      "amount": "1 cup",
+      "notes": "Rinse and soak in cold water for at least 30 minutes"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For coating the pan and as a garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse and soak flat rice noodles in cold water for at least 30 minutes.",
+    "In a small mixing bowl, combine sugar, cornstarch, vegetable oil, and salt. Mix well until no lumps remain.",
+    "Heat a nonstick skillet over medium-high heat. Add enough vegetable oil to coat the bottom of the pan evenly.",
+    "Add the soaked flat rice noodles to the skillet in a single layer. Pour the sweet sauce mixture over the noodles evenly.",
+    "Cook for about 5 minutes, or until the noodles are golden brown and crispy on both sides.",
+    "Stir gently to combine with the noodles. Keep cooking for an additional 2-3 minutes to ensure they absorb all the sauce.",
+    "Serve hot as a dessert dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crumbly",
+    "algerian",
+    "flat rice noodles",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2.5,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "sweet-crumbly-algerian-flat-rice-noodles-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crumbly-algerian-flat-rice-noodles-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:45:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Flat Rice Noodles",
+    "descriptor": "Sweet Crumbly",
+    "dishForm": "Crumble"
+  }
+}
