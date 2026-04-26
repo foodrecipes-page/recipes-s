@@ -1,0 +1,65 @@
+{
+  "title": "Sweet Crispy Potato Crumble",
+  "description": "A cozy Russian dish featuring treacle for sweetness and crispy potato crumbles with a low-calorie-friendly twist.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 medium potatoes"
+    },
+    {
+      "name": "treacle syrup",
+      "amount": "1/4 cup (30g)"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons (90g)"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender. Drain and mash them with treacle syrup.",
+    "Heat butter in a frying pan over medium heat. Add mashed potatoes, stirring gently to form small crumbles.",
+    "Sprinkle additional treacle syrup on top of the potato crumbles as they cook for a moment more.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crispy",
+    "russian",
+    "cozy",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 39,
+    "fat": 8
+  },
+  "slug": "sweet-crispy-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crispy-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:21:51Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "treacle",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "potato",
+    "descriptor": "Sweet Crispy",
+    "dishForm": "Crumble"
+  }
+}
