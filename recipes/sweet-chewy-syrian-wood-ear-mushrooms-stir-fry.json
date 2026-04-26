@@ -1,0 +1,85 @@
+{
+  "title": "Sweet & Chewy Syrian Wood Ear Mushrooms Stir-fry",
+  "description": "This dish features sweet and chewy Syrian wood ear mushrooms in a delightful pickle-based sauce, perfect for adventurous palates seeking something both sweet and savory with diabetic-friendly options.",
+  "cuisine": "Syrian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Wood Ear Mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "Pickled Vegetables",
+      "amount": "100g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili Peppers (Optional)",
+      "amount": "2-3 pieces"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mirin or Rice Wine Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Oil for Stir-frying",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Clean and soak the wood ear mushrooms in water to remove excess spongy texture, then slice them thinly.",
+    "Slice the garlic finely and chop the chili peppers if using. Soak pickled vegetables in cold water for 10 minutes before use to soften them slightly.",
+    "In a wok or skillet, heat oil over medium-high heat. Add sliced wood ear mushrooms and sauté until they start to crisp up and release moisture, about 5-7 minutes.",
+    "Add the garlic, chili peppers (if using), and pickled vegetables. Stir well for about 2-3 more minutes.",
+    "Pour in soy sauce and mirin or rice wine vinegar. Adjust seasoning with sugar to taste. Cook until thickened, around 2-3 more minutes.",
+    "Serve hot as an appetizer or snack with steamed jasmine rice on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-chewy",
+    "adventurous-syrian-dish",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 4
+  },
+  "slug": "sweet-chewy-syrian-wood-ear-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-chewy-syrian-wood-ear-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:51:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Wood Ear Mushrooms",
+    "descriptor": "Sweet & Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
