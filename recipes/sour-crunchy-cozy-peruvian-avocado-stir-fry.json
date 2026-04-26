@@ -1,0 +1,84 @@
+{
+  "title": "Sour Crunchy Cozy Peruvian Avocado Stir-fry",
+  "description": "This savory dish features tenderized avocados and crunchy dill pickles in a tangy sauce with sous-vide cooking for an authentic Peruvian taste.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": "sliced and pitted"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "8 slices",
+      "notes": "crushed finely"
+    },
+    {
+      "name": "peruvian peppers",
+      "amount": "2 small",
+      "notes": "battered and sous-vide cooked at 150°C for 30 minutes"
+    },
+    {
+      "name": "sour cream",
+      "amount": "half a cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the peruvian peppers by slicing them in half, removing the seeds and membranes, then dusting with salt. Sous-vide cook at 150°C for 30 minutes.",
+    "In a small mixing bowl, combine sour cream, lime juice, and a pinch of salt to make the sauce.",
+    "Heat a non-stick skillet over medium heat. Add chopped dill pickles to the pan and sauté until fragrant and slightly softened (about 5-7 minutes).",
+    "Add sliced avocados and peruvian peppers to the skillet with their cooking juices, along with some of the prepared sauce from the mixing bowl.",
+    "Stir in remaining sauce from the mixing bowl until everything is well combined and heated through. Taste for salt and adjust if needed.",
+    "Serve hot or at room temperature as a snack."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian-stir-fry",
+    "sour-avocado-dinner",
+    "jain-friendly-snack",
+    "sous-vide-cooking"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "sour-crunchy-cozy-peruvian-avocado-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-cozy-peruvian-avocado-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:51:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "sous-vide",
+    "primaryIngredient": "dill pickles",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "avocado",
+    "descriptor": "Sour Crunchy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
