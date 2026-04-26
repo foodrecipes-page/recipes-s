@@ -1,0 +1,84 @@
+{
+  "title": "Savory Crumbly Dates Moroccan Crumble",
+  "description": "This indulgent moroccan dish is a savory crumble featuring dates baked with jam and other wholesome ingredients.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup pitted"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "4 tablespoons melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nuts (optional)",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "honey or maple syrup",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine dates, applesauce, flour, cinnamon, and honey/maple syrup. Mix well until sticky.",
+    "If using nuts, mix them into the date mixture before spreading on baking dish or muffin tin liners.",
+    "Bake in preheated oven for 20-25 minutes or until golden brown and bubbly.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "savoury",
+    "crumbly",
+    "indulgent",
+    "moroccan",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "savory-crumbly-dates-moroccan-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-dates-moroccan-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:01:04Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "jam",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "dates",
+    "descriptor": "Savory Crumbly",
+    "dishForm": "Crumble"
+  }
+}
