@@ -1,0 +1,94 @@
+{
+  "title": "Savory Chinese Tofu Stir-fry",
+  "description": "A salty, tender, hangover-cure Chinese dish featuring white wine vinegar, whisk, and jain-friendly ingredients.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (about 200g)",
+      "notes": "Block of firm tofu"
+    },
+    {
+      "name": "Green onions",
+      "amount": "5-6 pieces",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 pieces",
+      "notes": "Chopped for seasoning"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": "To enhance flavors"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Regular soy sauce is fine, but use jain-friendly if available"
+    },
+    {
+      "name": "Olive oil or sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking and as a flavor enhancer"
+    },
+    {
+      "name": "Pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "To add a touch of heat"
+    }
+  ],
+  "instructions": [
+    "Prepare the tofu by pressing it to remove excess water.",
+    "Slice the tofu into thin strips and season with pepper flakes, salt, and soy sauce. Let marinate for at least 30 minutes.",
+    "In a small bowl, mix together white wine vinegar, olive oil, and sesame oil. Set aside as a dressing for serving.",
+    "Heat a wok or large skillet over medium-high heat. Add the sliced scallions to sauté until fragrant.",
+    "Add the marinated tofu strips to the wok and stir-fry for about 5 minutes, turning frequently to prevent burning.",
+    "Drizzle the dressing mixture over the stir-fried tofu. Toss well to combine flavors.",
+    "Serve hot with garnished green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "tender",
+    "hangover-cure",
+    "chinese-stir-fry",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 16,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "savory-chinese-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-chinese-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:59:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
