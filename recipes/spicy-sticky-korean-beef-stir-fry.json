@@ -1,0 +1,104 @@
+{
+  "title": "Spicy Sticky Korean Beef Stir-fry",
+  "description": "A sweet, velvety dish featuring tabasco sauce and whole30-friendly spices, perfect for a lazy Sunday dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Scallions (optional)",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Korean Chili Paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Tabasco Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Slice the beef thinly against the grain.",
+    "Finely chop the onion and garlic.",
+    "Heat oil in a wok or large frying pan over medium-high heat. Add chopped onions, cook until translucent.",
+    "Add minced garlic and stir for about 30 seconds.",
+    "Throw in sliced beef, salt to taste, and cook for about 5 minutes, stirring occasionally.",
+    "Mix together Korean Chili Paste, Tabasco Sauce, Fish Sauce, Soy Sauce, and Brown Sugar. Slowly pour the mixture over the meat.",
+    "Pour in water and stir well until it starts boiling.",
+    "Reduce heat to low, cover, and let simmer for about 10 minutes or until the beef is tender and sauce has thickened slightly.",
+    "Slice scallions thinly if using, and add them along with any desired green onions at the last minute. Stir gently and cook for another minute.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "sticky",
+    "korean",
+    "beef",
+    "sweet",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 528,
+    "protein": 41,
+    "carbs": 29,
+    "fat": 24
+  },
+  "slug": "spicy-sticky-korean-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-sticky-korean-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:13:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Spicy Sticky",
+    "dishForm": "Stir-fry"
+  }
+}
