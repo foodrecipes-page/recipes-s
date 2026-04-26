@@ -1,0 +1,99 @@
+{
+  "title": "Spicy Fluffy Light Ethiopian Veal Stir-fry",
+  "description": "This low-sodium-friendly spicy-fluffy light Ethiopian veal stir-fry combines tender veal with a fragrant blend of spices and vegetables for a flavorful meal.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal cutlet",
+      "amount": "4 slices",
+      "notes": "skin-on, bone-in"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "bell pepper, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zucchini, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "low-sodium beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "oregano, chopped",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat. Add onion and garlic; cook until translucent.",
+    "Add bell pepper and zucchini to the pan with a pinch of cayenne pepper, stir for about 5 minutes or until vegetables are soft but not mushy.",
+    "Gently place veal on top of vegetables in the pan, skin-side down. Cover and reduce heat to low, allowing them to cook undisturbed for about 10-12 minutes or until a crust forms on the bottom side.",
+    "Deglaze the pan with low-sodium beef broth by adding tomato paste and stirring well, scraping up any stuck bits from the bottom of the pan. Bring liquid to a simmer.",
+    "Stir in thyme leaves and oregano. Lower heat to maintain a gentle simmer for 10-15 minutes or until veal is fully cooked through. Serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy-fluffy-light-ethiopian-dish",
+    "veal",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 27,
+    "carbs": 14,
+    "fat": 20
+  },
+  "slug": "spicy-fluffy-light-ethiopian-veal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-light-ethiopian-veal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:47:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "deglaze",
+    "primaryIngredient": "veal",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "veal",
+    "descriptor": "Spicy Fluffy Light",
+    "dishForm": "Stir-fry"
+  }
+}
