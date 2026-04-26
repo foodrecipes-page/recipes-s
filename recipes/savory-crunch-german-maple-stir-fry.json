@@ -1,0 +1,100 @@
+{
+  "title": "Savory Crunch German Maple Stir-fry",
+  "description": "A savory and silky German dish featuring maple syrup as the main ingredient to help cure a hangover, this vegetarian-friendly stir-fry is both comforting and delicious.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "2 pieces, sliced",
+      "notes": "ensure well-cooked to prevent any risk of bacterial contamination"
+    },
+    {
+      "name": "green onions",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2, chopped (any color)"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "5-6 pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cooking spray",
+      "amount": "optional, for greasing pan if needed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Heat a wok or large skillet with peanut oil over medium-high heat. Add green onions and minced garlic; sauté until fragrant.",
+    "Add sliced chicken, shiitake mushrooms, bell peppers, and maple syrup to the pan. Stir-fry for about 5 minutes until the vegetables are slightly tender and chicken is cooked through.",
+    "Add soy sauce and ginger root, continuing to stir-fry for another minute or two until flavors meld together. Season with salt if needed.",
+    "Transfer the mixture into a baking dish that has been sprayed with cooking spray. Bake in preheated oven for about 10-15 minutes, until the vegetables are fully cooked and slightly crisp.",
+    "Serve hot as a side dish or main course. Enjoy this comforting German Maple Stir-fry to help cure hangovers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory-crunch",
+    "salty-silky",
+    "hangover-cure",
+    "german-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 41,
+    "fat": 16
+  },
+  "slug": "savory-crunch-german-maple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunch-german-maple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:14:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "maple syrup",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Maple",
+    "descriptor": "Savory Crunch",
+    "dishForm": "Stir-fry"
+  }
+}
