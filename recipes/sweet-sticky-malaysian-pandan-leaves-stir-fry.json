@@ -1,0 +1,90 @@
+{
+  "title": "Sweet Sticky Malaysian Pandan Leaves Stir-Fry",
+  "description": "A sweet and gooey Malaysian dish featuring pandan leaves with candied peel, perfect for hangover-cure and suitable for kosher diets.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pandan leaves",
+      "amount": "",
+      "notes": "fresh"
+    },
+    {
+      "name": "1 cup of diced candied orange peel",
+      "amount": "",
+      "notes": "ensure it's kosher-friendly if necessary"
+    },
+    {
+      "name": "3 tablespoons of honey or maple syrup",
+      "amount": "",
+      "notes": "adjust sweetness to taste"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of vegetable oil or coconut oil",
+      "amount": "",
+      "notes": "use for extra stickiness"
+    },
+    {
+      "name": "A pinch of salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Clean and soak the pandan leaves in water to remove any bitterness.",
+    "Heat a wok or large skillet over medium heat. Add oil until it coats the bottom evenly.",
+    "Add minced garlic and finely chopped onion, sauté for about 1-2 minutes until fragrant.",
+    "Add candied orange peel and pandan leaves; stir fry for about 5 minutes until slightly softened.",
+    "Pour in honey or maple syrup. Stir constantly to prevent burning and ensure the sauce thickens slightly.",
+    "Season with salt to taste. Cook for another minute to let flavors meld together.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-sticky",
+    "mexican-stir-fry",
+    "kosher-friendly",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "sweet-sticky-malaysian-pandan-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-sticky-malaysian-pandan-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:29:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "candied peel",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Pandan Leaves",
+    "descriptor": "sweet sticky",
+    "dishForm": "Stir-fry"
+  }
+}
