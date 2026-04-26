@@ -1,0 +1,84 @@
+{
+  "title": "Smoky Crumbly Berry Creme Brulee Crumble",
+  "description": "A romantic and smoky British dessert featuring frozen mixed berries with a crumbly creme brûlée base that pairs perfectly with a low-carb-friendly topping.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Berry Compote",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cure (Camembert or Blue Cheese)",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsweetened Condensed Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Ground Almonds (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mixed Berries Frozen",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 170°C (340°F).",
+    "Prepare the berry compote by gently heating the frozen berries in a saucepan with 1/4 cup of water for about 5 minutes until they soften.",
+    "In a small bowl, mix together the heavy cream and condensed milk. Set aside.",
+    "Mix ground almonds into the sweetened cream mixture if using.",
+    "Pour the compote evenly over each serving dish. Spoon the crème brûlée mixture on top and smooth with a spatula.",
+    "Sprinkle granulated sugar generously over the creme brûlée base.",
+    "Bake in oven until golden brown, about 10-15 minutes. Remove from heat and cool completely before topping with blue cheese.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-dessert",
+    "smoky-creme-brulee",
+    "low-carb-friendly",
+    "crumbly-topping"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 27
+  },
+  "slug": "smoky-crumbly-berry-creme-brulee-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-berry-creme-brulee-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:13:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "berries",
+    "descriptor": "Smoky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
