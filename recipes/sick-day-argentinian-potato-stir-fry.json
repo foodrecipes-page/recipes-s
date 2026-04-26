@@ -1,0 +1,89 @@
+{
+  "title": "Sick-day Argentinian Potato Stir-fry",
+  "description": "A comforting low-carb Argentine dish featuring marinated small potatoes that can be enjoyed as a quick lunch or dinner during a sick day.",
+  "cuisine": "Argentine",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Small red potatoes",
+      "amount": "2 lbs",
+      "notes": "Waxy, thin-skinned variety"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Minced for added flavor and nutrition"
+    },
+    {
+      "name": "Red bell pepper slices",
+      "amount": "1 medium",
+      "notes": "For color and sweetness"
+    },
+    {
+      "name": "Green onions (scallions)",
+      "amount": "1 stalk per person",
+      "notes": "Chopped, optional garnish"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "Halved or whole for added depth of flavor and color"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C). Rinse potatoes under cold water, pat dry with paper towels.",
+    "Mix lemon juice, minced garlic, and chopped green onions in a bowl. Place the potato halves in a baking dish and brush evenly with the marinade mixture. Cover tightly with aluminum foil and bake for 35 minutes or until tender when pierced with a fork.",
+    "While potatoes are cooking, slice the bell pepper thinly and chop sun-dried tomatoes.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add sliced peppers and cook for about 2-3 minutes until slightly softened but still crisp-tender.",
+    "Add halved sun-dried tomatoes to the wok and toss briefly with peppers, then remove from heat. Drain cooked potatoes, pat them dry again if needed.",
+    "Return the wok to medium heat. Gently stir-fry the drained potatoes in the remaining marinade until slightly golden, about 5-7 minutes. Toss well to ensure even cooking.",
+    "Add cooked and halved sun-dried tomatoes from step 3 back into the wok with potatoes. Cook for an additional minute or two allowing flavors to meld together.",
+    "Remove from heat immediately after stirring-frying is complete. Garnish with fresh chopped green onions if desired. Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "stir-fry",
+    "low-carb",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 417,
+    "protein": 9,
+    "carbs": 20,
+    "fat": 21
+  },
+  "slug": "sick-day-argentinian-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-argentinian-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:26:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "marinate",
+    "primaryIngredient": "small potatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "potato",
+    "descriptor": "sick-day",
+    "dishForm": "Stir-fry"
+  }
+}
