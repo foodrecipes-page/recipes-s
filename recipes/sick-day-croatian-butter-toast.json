@@ -1,0 +1,72 @@
+{
+  "title": "Sick-Day Croatian Butter Toast",
+  "description": "A comforting vegetarian-friendly sick-day dish featuring a decadent mix of butter, garlic, and Sriracha on fluffy bread.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bread slices",
+      "amount": "8"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "siracha sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Lightly butter each bread slice and place on a baking sheet lined with parchment paper.",
+    "Mince garlic cloves finely, then spread evenly over each slice of bread. Drizzle with sriracha sauce and sprinkle lightly with salt.",
+    "Bake in preheated oven for 10-12 minutes or until the edges turn golden brown.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-toast",
+    "sick-day-dish",
+    "butter-and-garlic"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 7.9,
+    "carbs": 34.1,
+    "fat": 20
+  },
+  "slug": "sick-day-croatian-butter-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-croatian-butter-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:41:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "sriracha",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Butter",
+    "descriptor": "Sick-Day",
+    "dishForm": "Toast"
+  }
+}
