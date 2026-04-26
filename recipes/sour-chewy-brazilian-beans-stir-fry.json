@@ -1,0 +1,83 @@
+{
+  "title": "Sour Chewy Brazilian Beans Stir-fry",
+  "description": "A kid-friendly Brazilian dish featuring baked beans that are poached in a sour sauce for added texture and flavor.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baked beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a skillet over medium heat.",
+    "Add onion and garlic, sauté for about 5 minutes until softened.",
+    "Stir in tomato puree and cook for another minute.",
+    "Mix in lemon juice, salt, and kosher salt. Stir well to combine all ingredients.",
+    "Fold in baked beans gently to avoid breaking them apart too much.",
+    "Serve immediately as a snack or side dish with tortilla chips."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-chewy",
+    "kid-friendly",
+    "baked-beans"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "sour-chewy-brazilian-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-brazilian-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:05:18Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "baked beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Beans",
+    "descriptor": "Sour Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
