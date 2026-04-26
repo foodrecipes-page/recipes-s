@@ -1,0 +1,78 @@
+{
+  "title": "Sour Crispy Ethiopian Beef Stir-fry",
+  "description": "This low-fat-friendly sour and crispy dish features beef stock concentrate to create a flavorful base for your stir-fry.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fat",
+    "sick-day"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stock Concentrate",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fermented Black Olives",
+      "amount": "3 slices"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "In a wok or large pan, heat the beef stock concentrate until it starts to foam.",
+    "Add the tomato sauce and cayenne pepper, stirring well. Let it simmer for about 5 minutes.",
+    "Dice the garlic finely and add it to the mixture with the red bell pepper slices. Stir in until softened.",
+    "Stir in the fermented black olives until they release their liquid. Simmer for an additional minute.",
+    "Season with salt and pepper if needed, then remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crispy",
+    "ethiopian",
+    "beef-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "sour-crispy-ethiopian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crispy-ethiopian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:51:26Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Sour Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
