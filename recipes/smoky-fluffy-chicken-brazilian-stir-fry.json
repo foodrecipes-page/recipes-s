@@ -1,0 +1,80 @@
+{
+  "title": "Smoky Fluffy Chicken Brazilian Stir-fry",
+  "description": "A whole30-friendly one-pot dish featuring smoky flavors and braise-flavored chicken bouillon powder for a tender and fluffy texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bouillon Chicken Flavor",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces",
+      "notes": "skinless and boneless"
+    },
+    {
+      "name": "Bell Pepper, Green",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Onion, White",
+      "amount": "1 large"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "2 tablespoons fresh"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chicken and cook until golden brown on both sides.",
+    "Remove chicken from the pan and set aside. Add bell peppers, onion, and garlic to the same pan.",
+    "Stir-fry for about 5 minutes or until vegetables are slightly softened.",
+    "Return chicken to the pan along with bouillon packet.",
+    "Pour in water (enough to cover ingredients), bring to a boil, then reduce heat and simmer for approximately 10 minutes.",
+    "Add cilantro before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "fluffy",
+    "brazilian",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "smoky-fluffy-chicken-brazilian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-chicken-brazilian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:01:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Smoky Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
