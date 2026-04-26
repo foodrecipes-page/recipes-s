@@ -1,0 +1,71 @@
+{
+  "title": "Smoky Crumbly Goose Fat Crumble",
+  "description": "This indulgent Malaysian dish features a low-sodium friendly version of goose fat crumble with a smoky twist and a tadka seasoning to bring out its flavors.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Goose Fat",
+      "amount": "100g"
+    },
+    {
+      "name": "Low-sodium Chicken Broth",
+      "amount": "50ml"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tadka Seasoning Blend (Optional)",
+      "notes": "Contains mustard seeds, cumin seeds, nigella seeds, and other spices for the smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C.",
+    "In a small bowl, mix together the goose fat with low-sodium chicken broth. Add in garlic paste and salt if using. Stir well until smooth.",
+    "If using tadka seasoning blend, add it to the mixture and stir evenly.",
+    "Pour the mixture into a shallow baking dish or tin lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown on top.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goose-fat-crumble",
+    "smoky-malaysian-dish",
+    "tadka-seasoning"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 6,
+    "fat": 19
+  },
+  "slug": "smoky-crumbly-goose-fat-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-goose-fat-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:09:59Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "goose fat",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Goose Fat",
+    "descriptor": "Smoky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
