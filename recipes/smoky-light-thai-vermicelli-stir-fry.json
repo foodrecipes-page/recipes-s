@@ -1,0 +1,94 @@
+{
+  "title": "Smoky Light Thai Vermicelli Stir-fry",
+  "description": "A light and smoky solo dinner dish featuring gluten-free vermicelli pasta cooked with a mix of aromatic vegetables and spices in a creamy sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Vermicelli Pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Bell Peppers",
+      "amount": "1 medium (about 1/4 lb)"
+    },
+    {
+      "name": "Crispy Shallots",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Diced Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh Thai Basil Leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the vermicelli pasta and soak it in hot water for about 5 minutes. Drain well.",
+    "Heat a tablespoon of sesame oil in a wok or large skillet over medium heat. Add chopped shallots and garlic; stir-fry until fragrant, about 2-3 minutes.",
+    "Add bell peppers to the wok and cook for another 4-5 minutes until slightly softened. Stir in vermicelli pasta and mix well with vegetables.",
+    "Pour in vegetable broth, coconut milk, fish sauce, sugar, and a pinch of salt. Bring to a simmer and let it cook for an additional 3-4 minutes.",
+    "Stir in Thai basil leaves and simmer briefly until the sauce thickens slightly, about 1 minute. Remove from heat.",
+    "Serve hot over steamed rice or as is with some fresh herbs on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-thai",
+    "light-dinner",
+    "vermicelli-pasta",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 9,
+    "carbs": 24,
+    "fat": 10
+  },
+  "slug": "smoky-light-thai-vermicelli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-light-thai-vermicelli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:23:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "vermicelli",
+    "descriptor": "Smoky Light",
+    "dishForm": "Stir-fry"
+  }
+}
