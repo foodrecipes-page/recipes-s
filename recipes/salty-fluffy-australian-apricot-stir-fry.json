@@ -1,0 +1,75 @@
+{
+  "title": "Salty Fluffy Australian Apricot Stir-fry",
+  "description": "A flavorful and chewy dish featuring apricots and a touch of fermentation for a unique solo dinner option, suitable for those with dietary restrictions.",
+  "cuisine": "Australian",
+  "diet": [
+    "solo-dinner",
+    "ferment-friendly",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented foods (optional)",
+      "amount": "a few cubes of kefir or kombucha",
+      "notes": "For added flavor and dietary benefits."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash the apricots thoroughly and remove any pits. If using fermented foods, crush them into small pieces.",
+    "Mince the garlic finely to enhance its flavor in the dish.",
+    "Heat a pan over medium-high heat and add oil. Once hot, add crushed fermented foods if using.",
+    "Add minced garlic to the pan and stir-fry for about 1 minute until fragrant.",
+    "Add the apricots to the pan with a bit of salt and pepper to taste. Stir well to combine all ingredients.",
+    "Continue to stir-fry for another 2-3 minutes or until the apricots are slightly softened and golden brown in color.",
+    "Remove from heat immediately to avoid overcooking, which could lead to a mushy texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "fluffy",
+    "australian",
+    "apricot",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "salty-fluffy-australian-apricot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-fluffy-australian-apricot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:28:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "apricot",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Apricot",
+    "descriptor": "Salty Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
