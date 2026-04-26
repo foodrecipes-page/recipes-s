@@ -1,0 +1,114 @@
+{
+  "title": "Spicy Indian Lamb Stir-Fry",
+  "description": "A creamy and spicy one-pot meal featuring high-protein lamb shoulder with a blend of aromatic spices, perfect for a quick lunch or dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4",
+      "notes": "Minced thinly"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "2-3",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Maggi Masala",
+      "amount": "1/4 tsp",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": "Optional for creaminess"
+    },
+    {
+      "name": "Soy Sauce or Tamari",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add onion, garlic, cumin seeds, coriander seeds, green chilies, and bay leaves.",
+    "Stir-fry until onions turn translucent, about 5 minutes.",
+    "Add lamb pieces to the pan and fry for another 10 minutes, turning occasionally.",
+    "Pour in turmeric powder, garam masala, and Maggi Masala. Stir well to coat all lamb pieces evenly.",
+    "Reduce heat to low-medium. Pour in soy sauce or tamari, Greek yogurt (if using), and cover the pan.",
+    "Simmer for about 20-30 minutes until the meat is tender and most of the liquid has evaporated.",
+    "Serve hot with steamed basmati rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy-indian-lamb-stir-fry",
+    "high-protein-friendly-diet",
+    "one-pot-greek-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "spicy-indian-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-indian-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:03:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
