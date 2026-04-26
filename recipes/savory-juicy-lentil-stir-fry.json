@@ -1,0 +1,82 @@
+{
+  "title": "Savory Juicy Lentil Stir-fry",
+  "description": "A savory and juicy mid-night craving Turkish dish featuring flat rice noodles and lentils, this Jain-friendly recipe combines a blend of spices to create an irresistible meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup red lentils",
+      "amount": "cup",
+      "notes": "Soaked and prepped"
+    },
+    {
+      "name": "2 cups flat rice noodles (lazan)",
+      "amount": "cups",
+      "notes": "Prepared according to package instructions"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "1 teaspoon cumin seeds",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped (for garnish)",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add the cumin seeds and let them sizzle for about 30 seconds.",
+    "Add garlic and red onion to the skillet and stir-fry until the onions are translucent, about 5 minutes.",
+    "Add the soaked and prepped lentils to the skillet along with the flat rice noodles. Stir well to combine ingredients evenly.",
+    "Pour in enough water (about 1/2 cup) to cover the lentils and noodles. Bring to a boil then reduce heat and let simmer for about 10 minutes, or until the liquid is absorbed and the noodles are tender.",
+    "Stir in fresh parsley just before serving. Serve hot as a snack with a side of yogurt if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "juicy",
+    "midnight-craving",
+    "turkish",
+    "stir-fry",
+    "flat-rice-noodles",
+    "garnished-with-parsley"
+  ],
+  "nutrition": {
+    "calories": 201,
+    "protein": 7.9,
+    "carbs": 34.3,
+    "fat": 8.5
+  },
+  "slug": "savory-juicy-lentil-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-lentil-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:18:03Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentils",
+    "descriptor": "Savory Juicy Midnight Craving",
+    "dishForm": "Stir-fry"
+  }
+}
