@@ -1,0 +1,72 @@
+{
+  "title": "Sweet And Juicy Brazilian Strawberry Sauce",
+  "description": "A light and sour sauce featuring fresh strawberries, perfect for a solo dinner or dessert course.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium",
+    "sugar-free",
+    "sodium-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh strawberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Wash and hull the strawberries.",
+    "Place all ingredients in a saucepan and mix well.",
+    "Bring to a boil over medium heat, stirring occasionally.",
+    "Reduce heat to low and simmer for about 5 minutes or until mixture is thickened.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "juicy",
+    "brazilian",
+    "strawberry",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 17,
+    "fat": 0
+  },
+  "slug": "sweet-and-juicy-brazilian-strawberry-sauce",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-juicy-brazilian-strawberry-sauce",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:04:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "strawberries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Strawberry",
+    "descriptor": "Sweet And Juicy",
+    "dishForm": "Sauce"
+  }
+}
