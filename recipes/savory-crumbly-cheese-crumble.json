@@ -1,0 +1,79 @@
+{
+  "title": "Savory Crumbly Cheese Crock",
+  "description": "A kid-friendly American dish featuring cheese and fermented flavors in a crumbly texture, suitable for pescatarian diets.",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup shredded cheddar cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup finely diced jalapeno peppers",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper flakes",
+      "amount": "teaspoon",
+      "notes": "For added heat, adjust to taste."
+    },
+    {
+      "name": "3 tablespoons sour cream",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 small zucchini, finely grated",
+      "amount": "small",
+      "notes": "Use any summer squash if zucchini is unavailable."
+    },
+    {
+      "name": "1/4 cup mayonnaise",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix all ingredients together in a mixing bowl.",
+    "Transfer mixture into an ungreased 8x8 inch baking dish and spread evenly.",
+    "Bake for 20-25 minutes or until golden brown and slightly crispy on top.",
+    "Let it cool for about 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crumbly",
+    "american",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "savory-crumbly-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:30:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "cheese",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cheese",
+    "descriptor": "Savory Crumbly",
+    "dishForm": "Crumble"
+  }
+}
