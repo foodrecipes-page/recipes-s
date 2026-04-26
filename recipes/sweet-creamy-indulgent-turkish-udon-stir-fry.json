@@ -1,0 +1,89 @@
+{
+  "title": "Sweet Creamy Indulgent Turkish Udon Stir-fry",
+  "description": "A sweet and creamy indulgent twist on traditional Turkish udon noodles with a touch of sweetness that complements the dish's rich texture.",
+  "cuisine": "Turkish",
+  "diet": [
+    "sweet",
+    "creamy",
+    "indulgent"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Udon Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey or Maple Syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Ginger Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Red Bell Pepper, finely chopped (optional)",
+      "amount": "10g"
+    },
+    {
+      "name": "Green Onion, finely chopped (optional)",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil. Add Udon Noodles and cook for about 8 minutes or until al dente.",
+    "Drain the noodles and set aside. Keep hot.",
+    "In a separate bowl, whisk together almond milk, honey/maple syrup, vanilla extract, ginger powder, and turmeric powder. Mix well to combine all ingredients.",
+    "Warm up the almond milk mixture in a small saucepan over medium heat until it starts to simmer lightly.",
+    "Add finely chopped red bell pepper (if using) to the warm almond milk mixture and stir gently to incorporate evenly.",
+    "Gently fold in the cooked Udon Noodles, ensuring they are well-coated with the almond milk mixture. Adjust sweetness as needed.",
+    "Transfer to serving plates immediately to maintain a creamy texture and mild heat. Garnish with finely chopped green onions if desired.",
+    "Serve hot or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-creamy-indulgent-turkish",
+    "stir-fry",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "sweet-creamy-indulgent-turkish-udon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-creamy-indulgent-turkish-udon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:38:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "udon noodles",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Udon Noodles",
+    "descriptor": "Sweet Creamy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
