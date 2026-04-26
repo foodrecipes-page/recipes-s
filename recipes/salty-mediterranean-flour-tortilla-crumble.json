@@ -1,0 +1,77 @@
+{
+  "title": "Salty Mediterranean Flour Tortilla Crumble",
+  "description": "A gooey and crowd-pleasing crumble that combines the savory flavors of Mediterranean cuisine with a touch of sweetness from dried fruits.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups flour tortillas",
+      "amount": "",
+      "notes": "Extra to use as crumble topping"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons unsalted butter",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup golden raisins",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup chopped walnuts",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh mint leaves",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine flour tortillas, sugar, and butter. Mix until crumbly.",
+    "Stir in golden raisins, walnuts, and mint leaves.",
+    "Press mixture into the bottom of an ungreased 8x8 inch baking dish.",
+    "Bake for 20-25 minutes or until edges are golden brown.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "gooey",
+    "crumble",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 407,
+    "protein": 2,
+    "carbs": 49,
+    "fat": 15
+  },
+  "slug": "salty-mediterranean-flour-tortilla-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-mediterranean-flour-tortilla-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:12:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "flour tortilla",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "flour tortilla",
+    "descriptor": "salty",
+    "dishForm": "Crumble"
+  }
+}
