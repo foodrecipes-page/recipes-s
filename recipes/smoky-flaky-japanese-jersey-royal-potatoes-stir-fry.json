@@ -1,0 +1,78 @@
+{
+  "title": "Smoky Flaky Japanese Jersey Royal Potatoes Stir-fry",
+  "description": "A quick-fix, paleo-friendly dish featuring smoky and flaky Jersey Royal potatoes in a simple stir-fry with minimal added fats.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jersey Royal Potatoes",
+      "amount": "4 medium sized"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Water or bone broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wash and peel the Jersey Royal Potatoes. Slice them into thin rounds, about 1/8-inch thick.",
+    "Drain any excess water from potatoes if using bone broth or water as a liquid. Add to a baking dish with minced garlic and lemon juice.",
+    "Sprinkle smoked paprika over potatoes evenly and toss to coat.",
+    "Roast in the preheated oven for about 20-25 minutes, until golden brown and crispy on the edges.",
+    "Serve hot or at room temperature as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jersey-royal-potatoes",
+    "smoky-flaky",
+    "quick-fix-dish",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "smoky-flaky-japanese-jersey-royal-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-japanese-jersey-royal-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:44:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Jersey Royal Potatoes",
+    "descriptor": "Smoky Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
