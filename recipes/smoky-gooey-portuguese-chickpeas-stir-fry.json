@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Gooey Portuguese Chickpeas Stir-fry",
+  "description": "A romantic vegan-friendly dish featuring smoky flavors and a gooey texture from the combination of chickpeas with ground cumin.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garbanzo beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Pitted green olives",
+      "amount": "2-4"
+    }
+  ],
+  "instructions": [
+    "Rinse the garbanzo beans and soak them in water for at least 1 hour.",
+    "Drain the soaked beans, rinse again with fresh water, and transfer to a pot. Add enough water to cover the beans by about an inch.",
+    "Bring the beans to a boil over medium heat, then reduce heat to low, partially cover, and simmer until tender but not falling apart (about 30 minutes).",
+    "While beans are cooking, finely chop onion and mince garlic cloves.",
+    "Heat olive oil in a large skillet or wok. Add chopped onion and sauté until soft and translucent. Stir in minced garlic and cook for about 1 minute.",
+    "Stir in tomato paste, ground cumin, smoked paprika, salt, black pepper, and cooked beans from the pot. Bring to a simmer.",
+    "Add pitted green olives on top of the bean mixture and let them absorb the flavors (about 5 minutes).",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "gooey",
+    "romantic",
+    "portuguese",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 75,
+    "fat": 14
+  },
+  "slug": "smoky-gooey-portuguese-chickpeas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-gooey-portuguese-chickpeas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:15:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "ground cumin",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Smoky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
