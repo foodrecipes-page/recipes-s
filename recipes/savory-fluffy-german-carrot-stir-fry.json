@@ -1,0 +1,74 @@
+{
+  "title": "Savory Fluffy German Carrot Stir-fry",
+  "description": "A savory and fluffy German dish featuring carrots braised with granulated sugar for an adventurous twist, ideal for diabetic-friendly diets.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup shredded carrots",
+      "amount": "",
+      "notes": "Use baby carrots or grate larger ones"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "3-4 fresh thyme sprigs (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium heat.",
+    "Add shredded carrots, granulated sugar, salt, and pepper. Stir well.",
+    "If using fresh thyme, add now and stir until fragrant.",
+    "Reduce heat to low and cover the pan. Let simmer for about 15 minutes or until vegetables are tender.",
+    "Stir occasionally to prevent sticking, ensuring even caramelization of sugar over medium-low heat.",
+    "Serve hot as a side dish with meat or fish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-fluffy",
+    "german-carrot-stir-fry",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 108,
+    "protein": 2,
+    "carbs": 19.5,
+    "fat": 6
+  },
+  "slug": "savory-fluffy-german-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fluffy-german-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:52:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "braise",
+    "primaryIngredient": "granulated sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Carrot",
+    "descriptor": "Savory Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
