@@ -1,0 +1,78 @@
+{
+  "title": "Smoky Crunchy Croatian Vegetables Stir-fry",
+  "description": "A diabetic-friendly sick-day dish featuring crispy vegetables infused with a smoky flavor and black pepper for added crunch and depth of taste.",
+  "cuisine": "Croatian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 medium zucchini",
+      "amount": "1",
+      "notes": "Cut into thin slices"
+    },
+    {
+      "name": "1 bell pepper (any color)",
+      "amount": "1",
+      "notes": "Seed and chop into bite-sized pieces"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "4",
+      "notes": "Crushed or minced finely"
+    },
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved"
+    },
+    {
+      "name": "1/4 cup low-sodium soy sauce (optional)",
+      "amount": "1/4 cup",
+      "notes": "For added flavor, not necessary for diabetes-friendly version"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add the sliced zucchini and bell pepper to the skillet. Season with black pepper.",
+    "After about 5 minutes until they start to soften slightly, add garlic and cherry tomatoes.",
+    "Stir-fry for another minute until everything is heated through and fragrant.",
+    "Remove from heat and serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crunchy",
+    "croatian",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 1
+  },
+  "slug": "smoky-crunchy-croatian-vegetables-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crunchy-croatian-vegetables-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:44:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "black pepper",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Smoky Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
