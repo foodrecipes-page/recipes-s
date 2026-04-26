@@ -1,0 +1,77 @@
+{
+  "title": "Salty Light Cilantro Venezuelan Stir-fry",
+  "description": "A lazy Sunday dish featuring a salty and light flavor profile with the use of cilantro for a fresh twist in this paleo-friendly version.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 small, any color",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Slice the zucchini into thin rounds and bell peppers similarly. Season with salt if desired.",
+    "Add garlic and sauté until fragrant, about 1-2 minutes.",
+    "Toss in the sliced vegetables and cook for another 3-4 minutes or until they are tender but still crisp.",
+    "Stir in the cilantro leaves just before serving to avoid wilting. Season with additional salt as needed.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vz-stir-fry",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "salty-light-cilantro-venezuelan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-light-cilantro-venezuelan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:21:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "cilantro",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Cilantro",
+    "descriptor": "Salty Light",
+    "dishForm": "Stir-fry"
+  }
+}
