@@ -1,0 +1,66 @@
+{
+  "title": "Sweet Crispy Pepper Norweg",
+  "description": "A kid-friendly Norwegian dish featuring sweet peppadew peppers that are sweet and flaky when cooked.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Sweet Peppadew Peppers",
+      "amount": "1 can"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Heat the olive oil in a skillet over medium heat.",
+    "Add the sweet peppadew peppers and cook for about 2-3 minutes, until they start to soften slightly.",
+    "Remove from heat and sprinkle with salt and pepper. Serve hot as an appetizer or snack.",
+    "prepTimeMin: 5",
+    "cookTimeMin: 10",
+    "totalTimeMin: 15",
+    "servings: 4-6",
+    "difficulty: "
+  ],
+  "tags": [
+    "sweet",
+    "crispy",
+    "norwegian",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 238,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 16
+  },
+  "slug": "sweet-crispy-pepper-norweg",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crispy-pepper-norweg",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:27:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pepper",
+    "descriptor": "Sweet Crispy",
+    "dishForm": "Crumble"
+  }
+}
