@@ -1,0 +1,84 @@
+{
+  "title": "Silky Herbal Stir-Fry",
+  "description": "A low-sodium-friendly herbal dish that combines paprika and other aromatic herbs to create a flavorful hangover-cure Brazilian treat.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "2 slices (adjust for spice level)"
+    },
+    {
+      "name": "leaves of cilantro",
+      "amount": "2 tbsp, roughly chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onion and garlic; sauté until translucent, about 5 minutes.",
+    "Toss in chili pepper slices, stir-fry for another minute, then add paprika.",
+    "Pour in low-sodium soy sauce and lime juice. Stir everything together well.",
+    "Stir in chopped cilantro to taste. Cook for an additional minute until fully heated.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "brazilian",
+    "herbal",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "silky-herbal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-herbal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:38:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "paprika",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Herbs",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
