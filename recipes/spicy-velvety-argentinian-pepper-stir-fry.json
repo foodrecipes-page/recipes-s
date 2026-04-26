@@ -1,0 +1,89 @@
+{
+  "title": "Spicy Velvety Argentinian Pepper Stir-fry",
+  "description": "A hearty and spicy hangover-curing dish that combines tender red peppers with a velvety sauce for a delicious and satisfying meal.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "2 pcs",
+      "notes": "Use large, ripe ones for best flavor."
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1 pc",
+      "notes": "Same as red bell pepper."
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "200g can",
+      "notes": "Make sure to use a low-sodium version if available."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 pieces",
+      "notes": "Fresh or minced, depending on preference."
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "For added heat and flavor."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use mild olive oil for a smoother texture."
+    },
+    {
+      "name": "Red wine vinegar (optional)",
+      "amount": "1 tbsp",
+      "notes": "Optional to add more acidity and depth of flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat. Add olive oil and heat evenly.",
+    "Dice the red and green bell peppers into bite-sized pieces. Sauté them until they soften slightly, about 5 minutes.",
+    "Add minced garlic to the sautéed peppers. Cook for an additional minute, stirring constantly.",
+    "If using, add a few dashes of red wine vinegar to help tenderize the peppers further and enhance their flavor.",
+    "Pour in the canned tomatoes with their juices. Stir well to combine and bring the sauce to a simmer.",
+    "Season with chili flakes. Stir gently to mix evenly.",
+    "Reduce heat to low and let it cook for about 10 minutes, stirring occasionally until all flavors meld together and reduce slightly.",
+    "Serve hot as a side dish or alongside your favorite protein."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "velvety",
+    "argentinian",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 3.9,
+    "carbs": 31,
+    "fat": 10
+  },
+  "slug": "spicy-velvety-argentinian-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-argentinian-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:53:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "stir-fry",
+    "primaryIngredient": "red pepper",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Spicy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
