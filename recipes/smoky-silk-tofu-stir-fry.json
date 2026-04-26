@@ -1,0 +1,93 @@
+{
+  "title": "Smoky Silk Tofu Stir-fry",
+  "description": "This keto-friendly Korean dish features silky-smooth tofu with a smoky flavor and fresh basil for an eye-catching presentation.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Silken tofu",
+      "amount": "1 block (about 200g)",
+      "notes": "Extra firm or silken tofu can be used, but the cooking time might vary."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "Minced for the sauce and as garnish"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1 handful",
+      "notes": "Chopped for garnishing"
+    },
+    {
+      "name": "Korean red pepper flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Fresh or bottled lemon juice"
+    },
+    {
+      "name": "Minced ginger",
+      "amount": "1 teaspoon",
+      "notes": "For the sauce and garnishing"
+    },
+    {
+      "name": "Korean chili garlic paste (gochujang)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3-4 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess water, then cut into small cubes.",
+    "Heat a tablespoon of oil in a wok or large skillet over medium-high heat. Add minced garlic and ginger; stir-fry for about 1 minute until fragrant.",
+    "Add Korean red pepper flakes and gochujang to the wok. Stir well until the mixture starts to bubble.",
+    "Gently add cubed tofu to the sauce, ensuring it does not break apart. Cook for another 5 minutes, stirring occasionally to ensure even cooking.",
+    "Remove from heat and let cool slightly before mixing with lemon juice. Reheat briefly in a wok and toss with fresh basil leaves.",
+    "Serve hot as part of your dinner or meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky-tofu-stir-fry",
+    "keto-friendly-dinner",
+    "fresh-basil-enhanced"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 10,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "smoky-silk-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-silk-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:56:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "fresh basil",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Tofu",
+    "descriptor": "Smoky Silk",
+    "dishForm": "Stir-fry"
+  }
+}
