@@ -1,0 +1,86 @@
+{
+  "title": "Savory Zanzibari Beef Stir-fry",
+  "description": "A savory and fluffy Venezuelan dish featuring minced beef in a gluten-free-friendly recipe.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "150g"
+    },
+    {
+      "name": "onions",
+      "amount": "2 pcs",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 pcs",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "gluten-free soy sauce",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or skillet over medium-high heat.",
+    "Add minced beef and cook until browned, about 5 minutes.",
+    "Stir in chopped onions, garlic, tomato paste, salt, and black pepper. Cook for another 3-4 minutes.",
+    "Pour in gluten-free soy sauce, stirring constantly to avoid burning, for about 1 minute.",
+    "Serve hot with toast or as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-zanzibari-beef-stir-fry",
+    "salty-fluffy-venezuelan-dish",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 16
+  },
+  "slug": "savory-zanzibari-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-zanzibari-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:29:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "minced beef",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "beef",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
