@@ -1,0 +1,78 @@
+{
+  "title": "Savory Velvety Portuguese Date Tahini Paste Pudding",
+  "description": "A low-calorie-friendly savory dessert perfect for date night, featuring tahini paste and dates in a silky texture that's both comforting and indulgent.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-calorie",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "10"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond milk or any plant-based milk",
+      "amount": "4 ounces (about 8 oz can)"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 teaspoons, softened"
+    },
+    {
+      "name": "flaxseed meal or flaxmeal",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Soften the dates in hot water for about 5 minutes.",
+    "Pulse the soft dates with tahini paste and vanilla extract until smooth in a blender.",
+    "In another bowl, mix the softened butter with flaxseed meal to create an egg replacer. Stir into the date-tahini mixture.",
+    "Pour the mixture into a small saucepan and add almond milk. Heat over medium heat, stirring occasionally until thickened to pudding consistency (about 5 minutes).",
+    "Serve warm or refrigerate for later. Enjoy as a snack or dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "portuguese",
+    "velvety",
+    "tahini"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 5
+  },
+  "slug": "savory-velvety-portuguese-date-tahini-paste-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-velvety-portuguese-date-tahini-paste-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:06:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "tahini paste",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Date",
+    "descriptor": "Savory Velvety",
+    "dishForm": "Pudding"
+  }
+}
