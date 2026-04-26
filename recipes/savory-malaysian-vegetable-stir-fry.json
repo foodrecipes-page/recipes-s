@@ -1,0 +1,79 @@
+{
+  "title": "Savory Malaysian Vegetable Stir-fry",
+  "description": "A whole30-friendly, crisp, savory dish featuring a blend of fresh vegetables and chopped parsley in a quick stir-fry that’s perfect for those with busy schedules.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup mixed vegetables (e.g., bell peppers, broccoli, carrots), diced",
+      "amount": "",
+      "notes": "Use whole or spiralized for added texture"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp soy sauce (or tamari for gluten-free option)",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp sesame oil",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant.",
+    "Add mixed vegetables and stir-fry for about 5 minutes or until tender-crisp.",
+    "Drizzle in soy sauce, sesame oil, and black pepper. Stir well to coat the vegetables evenly.",
+    "Remove from heat and garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "mixed-vegetables",
+    "crisp",
+    "malaysian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "savory-malaysian-vegetable-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-malaysian-vegetable-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:01:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "chopped parsley",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
