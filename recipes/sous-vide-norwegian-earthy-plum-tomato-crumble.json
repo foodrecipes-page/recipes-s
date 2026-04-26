@@ -1,0 +1,88 @@
+{
+  "title": "Sous-vide Norwegian Earthy Plum Tomato Crumble",
+  "description": "This whole30-friendly dish features baby plum tomatoes cooked sous-vide to perfection and topped with a dense crumble of almond flour and egg whites, making it ideal for hangover cures.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Plum Tomatoes",
+      "amount": "1 cup",
+      "notes": "Rinse and halve"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 tablespoons",
+      "notes": "Grind in food processor if not already ground"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "4",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tablespoons",
+      "notes": "Solid at room temp"
+    },
+    {
+      "name": "Honey or Molasses (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For added sweetness and depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Place the halved plum tomatoes in a sous-vide bag, add some honey or molasses for additional flavors if desired.",
+    "Cook at 98°C (208°F) for 1 hour. Remove from water bath.",
+    "In a mixing bowl, combine almond flour, egg whites, baking powder, and coconut oil. Mix well until smooth.",
+    "Evenly distribute the crumble mixture over the cooked tomatoes in the sous-vide bag.",
+    "Re-seal the bag, ensuring it's vacuum sealed for sealing efficiency.",
+    "Cook the bagged tomatoes under water bath at 71°C (160°F) for an additional hour to set the crumble and soften the tomatoes slightly.",
+    "Carefully open the sealed bag while keeping it in the cooking water bath. Remove the cooked tomatoes from the sous-vide bag, slice into smaller pieces if needed, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "norwegian",
+    "earthy",
+    "dense",
+    "baby-plum-tomatoes",
+    "whole30-friendly",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "sous-vide-norwegian-earthy-plum-tomato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-norwegian-earthy-plum-tomato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:27:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "baby plum tomatoes",
+    "descriptor": "sous-vide",
+    "dishForm": "Stir-fry"
+  }
+}
