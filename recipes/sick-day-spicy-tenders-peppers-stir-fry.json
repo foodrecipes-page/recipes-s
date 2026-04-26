@@ -1,0 +1,86 @@
+{
+  "title": "Sick-Day Spicy Tenders Peppers Stir-fry",
+  "description": "A spicy Argentine-style dish featuring tender peppers and a touch of demerara sugar to soothe the sickness, perfect for sick-day meals.",
+  "cuisine": "Argentine",
+  "diet": [
+    "egg-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Demerara Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the bell peppers and onions into thin strips. Peel and finely chop the garlic cloves.",
+    "Heat oil in a pan over medium heat. Add the chopped peppers, onions, and garlic. Stir-fry for about 5 minutes until they start to soften.",
+    "Add red chili flakes and demerara sugar to the pan. Stir well to distribute evenly across all ingredients. Cook for another minute until it becomes fragrant.",
+    "Season with salt and pepper to taste. Mix gently and serve hot as a snack or light meal.",
+    "Adjust cooking time based on preference; stir-frying should be quick for best texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sick-day",
+    "spicy",
+    "tender",
+    "peppers",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 2
+  },
+  "slug": "sick-day-spicy-tenders-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-spicy-tenders-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:51:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "smoke",
+    "primaryIngredient": "demerara sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Peppers",
+    "descriptor": "Sick-Day Spicy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
