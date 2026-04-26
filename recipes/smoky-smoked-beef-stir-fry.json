@@ -1,0 +1,93 @@
+{
+  "title": "Smoky Smoked Beef Stir-fry",
+  "description": "This smoky, juicy Korean dish is perfect for a solo dinner featuring beef that has marinated in a blend of soy sauce and chili paste for extra depth of flavor.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "250g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Minced Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Chilli Paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Gochugaru (Korean Red Pepper Powder)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetables (optional, such as bell peppers or onions)",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "30ml"
+    }
+  ],
+  "instructions": [
+    "Chop the beef into thin slices and marinate with soy sauce, red chilli paste, minced ginger, Korean chili flakes, gochugaru (1 tsp), and water for at least 30 minutes.",
+    "Heat a pan over medium-high heat and add vegetable oil. Once hot, sauté the garlic until fragrant.",
+    "Add the marinated beef slices to the pan and stir-fry for about 5-7 minutes or until fully cooked but still juicy.",
+    "If using vegetables, chop them into bite-sized pieces and add to the pan with the beef. Stir fry together for another minute or two until all ingredients are heated through.",
+    "Turn off heat, taste, and adjust seasoning if necessary. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "juicy",
+    "korean",
+    "beef",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 401,
+    "protein": 27,
+    "carbs": 15,
+    "fat": 13
+  },
+  "slug": "smoky-smoked-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-smoked-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:56:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "chilli",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
