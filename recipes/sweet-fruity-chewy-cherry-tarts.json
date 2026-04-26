@@ -1,0 +1,84 @@
+{
+  "title": "Sweet Fruity Chewy Cherry Tarts",
+  "description": "These floral, chewy cherry tarts are a crowd-pleaser Argentinean dish featuring maple syrup and a sugar-free-friendly base.",
+  "cuisine": "Argentine",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cherry Compote (Marinated cherries in syrup)",
+      "amount": "100g"
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Maple Syrup Powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine Maple Syrup with Cherry Compote and Gruyère Cheese.",
+    "Stir in Heavy Cream and mix until well combined. Add Vanilla Extract for flavoring.",
+    "Sift Flour into the mixture and stir gently until smooth without overmixing.",
+    "Divide the dough evenly onto 6 tart tins or mini muffin cups lined with parchment paper.",
+    "Bake for about 15-20 minutes or until golden brown. Check temperature of maple syrup powder if using, as it burns easily at high heat.",
+    "Let cool and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "fruit",
+    "tart",
+    "maple"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 2.8,
+    "carbs": 17,
+    "fat": 3
+  },
+  "slug": "sweet-fruity-chewy-cherry-tarts",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-fruity-chewy-cherry-tarts",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:00:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "maple syrup",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Cherry",
+    "descriptor": "Fruity Chewy Sweet",
+    "dishForm": "Tarts"
+  }
+}
