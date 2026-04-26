@@ -1,0 +1,76 @@
+{
+  "title": "Smoky Chewy Egyptian Banana Stir-fry",
+  "description": "A low-calorie-friendly and nostalgic Egyptian dish featuring grilled ripe bananas in a smoky flavor profile.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe banana",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3",
+      "notes": "use more if you like strong garlic taste"
+    },
+    {
+      "name": "olive oil or vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coriander (cilantro)",
+      "amount": "handful, chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add olive oil or vegetable oil to the skillet and allow it to heat up for about 30 seconds.",
+    "Slice the banana into rounds. Use a small amount of water in the pan to prevent sticking, if needed.",
+    "Add cumin seeds and garlic cloves to the skillet. Sauté until the aroma is released and the cumin seeds are slightly golden.",
+    "Add sliced bananas to the skillet, making sure not to overcrowd them to ensure they get crispy on the outside and still juicy inside.",
+    "Cook for about 5-7 minutes per side or until golden brown and slightly crispy. Stir occasionally to prevent burning.",
+    "Remove from heat and sprinkle chopped coriander over top to garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "banana",
+    "smoky",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 4
+  },
+  "slug": "smoky-chewy-egyptian-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chewy-egyptian-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:41:12Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Banana",
+    "descriptor": "Smoky Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
