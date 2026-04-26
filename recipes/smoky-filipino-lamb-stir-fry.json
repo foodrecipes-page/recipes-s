@@ -1,0 +1,91 @@
+{
+  "title": "Smoky Filipino Lamb Stir-fry",
+  "description": "A light and flavorful meal-prep dish featuring tender lamb slices in a smoky sauce with a touch of sweetness from pineapple, balanced with a tangy pickle.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "10 oz",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "2 oz",
+      "notes": "Chopped into small cubes"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 oz",
+      "notes": "Finely chopped, optional for extra tangy flavor"
+    },
+    {
+      "name": "Soja Tempeh",
+      "amount": "4 oz",
+      "notes": "For a vegan option, substitute with tempeh cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "For a smoky flavor"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic, sauté until soft and translucent.",
+    "Toss lamb with salt, pepper, paprika, and soja tempeh (or ground beef for non-vegan version).",
+    "Stir fry until the meat is browned on all sides.",
+    "Fold in pineapple chunks and pickles if using.",
+    "Serve hot as a side dish or over rice. Garnish with fresh herbs like cilantro, basil or mint."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-lamb-stir-fry",
+    "vegan-friendly",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 18,
+    "carbs": 14,
+    "fat": 6
+  },
+  "slug": "smoky-filipino-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-filipino-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:22:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "lamb",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "lamb",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
