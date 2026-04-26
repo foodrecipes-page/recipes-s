@@ -1,0 +1,83 @@
+{
+  "title": "Savory Silky Comforting Venezuelan Queso Stir-fry",
+  "description": "A creamy and comforting dish featuring a blend of dairy-free elements with the warmth of vanilla pod to enhance its velvety texture.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Silken tofu",
+      "amount": "1 block (about 200g)",
+      "notes": "Ensure it is drained and pressed to remove excess liquid."
+    },
+    {
+      "name": "Vanilla bean",
+      "amount": "1 whole, split lengthwise"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh herbs (cilantro, parsley)",
+      "amount": "a handful each",
+      "notes": "Wash and dry."
+    },
+    {
+      "name": "Soy sauce or tamari",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil or avocado oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet with olive oil over medium-high heat.",
+    "Add the split vanilla bean and chili flakes to the hot oil, cooking for about 1 minute until fragrant.",
+    "Add silken tofu and almond milk. Stir-fry for about 5 minutes until the mixture thickens slightly.",
+    "Fold in fresh herbs, soy sauce or tamari, and continue stirring until everything is heated through and well combined.",
+    "Serve hot with additional herbs on top if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "queso",
+    "stir-fry",
+    "vanilla",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "savory-silky-comforting-venezuelan-queso-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-silky-comforting-venezuelan-queso-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:07:06Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "vanilla pod",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": " venezulan",
+    "mainIngredient": "queso",
+    "descriptor": "Savory Silky Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
