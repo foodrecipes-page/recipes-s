@@ -1,0 +1,92 @@
+{
+  "title": "Sweet & Crisp Veggie Peanut Stir-fry",
+  "description": "A savory and satisfying sweet and crisp veggie peanut stir-fry that can be a quick hangover cure, inspired by Venezuelan flavors with a plant-based twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 bell pepper (red or green)",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "4 pieces",
+      "notes": "Crushed or minced"
+    },
+    {
+      "name": "1 cup mixed vegetables (e.g., carrots, zucchini, broccoli florets)",
+      "amount": "1 cup",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "1/2 cup roasted peanuts",
+      "amount": "1/2 cup",
+      "notes": "Roasted and lightly crushed for crunchiness"
+    },
+    {
+      "name": "1 tbsp vegan soy sauce or tamari (optional)",
+      "amount": "1 tbsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "1 tsp vegetable oil",
+      "amount": "1 tsp",
+      "notes": "Lightly coats the vegetables and stir-fry pan for even cooking"
+    },
+    {
+      "name": "Fresh cilantro, finely chopped (for garnish)"
+    },
+    {
+      "name": "Srirap or red chili flakes (to taste)",
+      "amount": "To taste",
+      "notes": "For spiciness"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and cook for about 30 seconds until fragrant but not browned.",
+    "Toss in the mixed vegetables, bell pepper, and any desired garnishes (cilantro, red chili flakes). Stir-fry for about 5 minutes until most of the moisture has evaporated and the veggies are tender-crisp.",
+    "Stir in the roasted peanuts and vegan soy sauce if using. Mix well to combine all ingredients.",
+    "Reduce heat to low-medium and let cook for another couple of minutes, allowing the flavors to meld together.",
+    "Serve hot with a side of rice or wrap it up in a lettuce leaf for an easy-to-pack snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crisp",
+    "vegan",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 7,
+    "fat": 6
+  },
+  "slug": "sweet-crisp-veggie-peanut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crisp-veggie-peanut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:31:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "roasted peanut",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Sweet & Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
