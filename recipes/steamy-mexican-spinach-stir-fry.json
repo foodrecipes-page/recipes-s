@@ -1,0 +1,88 @@
+{
+  "title": "Steamy Mexican Spinach Stir-fry",
+  "description": "A savory and creamy plant-based dish featuring spinach steamed with spices for a nostalgic taste of Mexico.",
+  "cuisine": "Mexican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh spinach",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon chili powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon fresh lime juice",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash and chop the spinach into bite-sized pieces.",
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic, cumin, chili powder, and salt to the hot pan. Stir for about 30 seconds until fragrant.",
+    "Stir in the chopped spinach and cook until wilted, about 2 minutes.",
+    "Pour in lime juice and stir well to combine flavors.",
+    "Serve immediately while the spinach is still slightly steamed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican-stir-fry",
+    "steamed-spinach",
+    "creamy-plant-based"
+  ],
+  "nutrition": {
+    "calories": 109,
+    "protein": 2.6,
+    "carbs": 4.7,
+    "fat": 5.8
+  },
+  "slug": "steamy-mexican-spinach-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamy-mexican-spinach-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:08:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "steam",
+    "primaryIngredient": "spinach",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Spinach",
+    "descriptor": "Steamy",
+    "dishForm": "Stir-fry"
+  }
+}
