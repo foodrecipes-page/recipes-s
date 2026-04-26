@@ -1,0 +1,86 @@
+{
+  "title": "Spicy Velvety Italian Red Cabbage Stir-fry",
+  "description": "This lazy-sunday Italian dish features red cabbage caramelized with a touch of heat and sweetness for a unique paleo-friendly twist.",
+  "cuisine": "Italian (Neapolitan)",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 lb"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paleo-friendly soy sauce or coconut aminos",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paleo-friendly Worcestershire sauce or tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "paleo-friendly honey or maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paleo-friendly olive oil or avocado oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Chop red cabbage into bite-sized pieces and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the paleo-friendly olive oil or avocado oil over the cabbage. Toss to coat evenly, then sprinkle with garlic cloves, red pepper flakes, and paleo-friendly honey or maple syrup.",
+    "Bake for 20-25 minutes or until the cabbage is tender and lightly caramelized.",
+    "Meanwhile, in a small bowl, whisk together the paleo-friendly soy sauce or coconut aminos, paleo-friendly Worcestershire sauce or tomato paste, and red pepper flakes. Set aside.",
+    "In a large skillet over medium-high heat, add paleo-friendly olive oil or avocado oil. Once hot, add the caramelized cabbage from the oven. Sauté for about 5 minutes, stirring frequently to prevent burning.",
+    "Pour the soy sauce mixture into the skillet and continue to cook for an additional 2-3 minutes until the sauce thickens slightly.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 28,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "italian",
+    "neapolitan",
+    "paleo-friendly",
+    "spicy",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 8
+  },
+  "slug": "spicy-velvety-italian-red-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-italian-red-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:50:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "red cabbage",
+    "diet": "paleo",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "red_cabbage",
+    "descriptor": "spicy velvety",
+    "dishForm": "Stir-fry"
+  }
+}
