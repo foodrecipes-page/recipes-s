@@ -1,0 +1,95 @@
+{
+  "title": "Savory Crunchy Light Malaysian Pork Back Ribs Stir-fry",
+  "description": "A savory and crunchy dish featuring pork back ribs in a light, protein-rich sauce that can be enjoyed as an appetizer or side dish.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Pork Back Ribs",
+      "amount": "1 pack",
+      "notes": "Trimmed and cut into bite-sized pieces."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Kicap Manis (Vegetable Soy Sauce)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Corn Starch or Rice Flour",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok over medium-high heat.",
+    "Add minced garlic and stir-fry for about 30 seconds, until fragrant but not browned.",
+    "Place pork back ribs into the wok and cook until they are lightly golden, about 5 minutes.",
+    "Pour in lime juice, kicap manis (vegetable soy sauce), water, and sugar. Stir well to combine.",
+    "Sprinkle sesame seeds over the top of the mixture for a nice crunch and texture.",
+    "In a small bowl, mix cornstarch or rice flour with water until smooth.",
+    "Pour the cornstarch-water mixture into the wok slowly while stirring continuously to thicken the sauce.",
+    "Simmer for an additional 2-3 minutes until the sauce thickens enough to coat the back ribs evenly.",
+    "Serve hot and garnish with extra sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "crunchy",
+    "light-malaysian",
+    "stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 42,
+    "carbs": 16,
+    "fat": 18
+  },
+  "slug": "savory-crunchy-light-malaysian-pork-back-ribs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-light-malaysian-pork-back-ribs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:27:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "pork back ribs",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Savory Crunchy Light",
+    "dishForm": "Stir-fry"
+  }
+}
