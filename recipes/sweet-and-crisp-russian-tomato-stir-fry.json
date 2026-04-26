@@ -1,0 +1,104 @@
+{
+  "title": "Sweet And Crisp Russian Tomato Stir-fry",
+  "description": "A low-calorie-friendly and tender sour dish featuring a sweet-sour sauce with tender tomatoes.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie",
+    "sugar-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "1 cup halved",
+      "notes": "Use low-sodium canned tomatoes or fresh, ripe ones."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped",
+      "notes": "Adjust quantity based on desired consistency of the sauce."
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3, minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 inch, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "10 pcs, halved",
+      "notes": "Optional; for extra crunch."
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons low-sodium",
+      "notes": "Can be replaced with tamari or other gluten-free soy alternatives."
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar (brown for color)",
+      "amount": "1 teaspoon, optional for flavor and appearance"
+    },
+    {
+      "name": "salt to taste",
+      "amount": "",
+      "notes": "Optional; adjust as needed."
+    },
+    {
+      "name": "pepper flakes or red pepper flakes",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add onion and garlic, sauté until softened about 3 minutes.",
+    "Fold in ginger root. Cook for another minute.",
+    "Add halved tomatoes to the pan with water chestnuts (if using).",
+    "Pour in soy sauce, rice vinegar, sugar if using, and salt (optional). Stir well to combine all ingredients into a thin sauce.",
+    "Bring the mixture to a simmer and let cook until most of the liquid is absorbed about 5 minutes.",
+    "Remove from heat and serve immediately as an appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-crisp-russian-stir-fry",
+    "low-calorie-friendly",
+    "monsoon-russian-dish"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 1
+  },
+  "slug": "sweet-and-crisp-russian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-crisp-russian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:29:06Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "sugar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tomato",
+    "descriptor": "Sweet And Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
