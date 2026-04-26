@@ -1,0 +1,87 @@
+{
+  "title": "Sweet & Gooey Whole Wheat Stir-fry",
+  "description": "A sweet and gooey whole wheat stir-fry dish perfect for a solo dinner in the spirit of Malaysian cuisine. It's vegan-friendly and can be made to suit various dietary restrictions.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "Use egg whites only for a vegan version."
+    },
+    {
+      "name": "Sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water or vegetable broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over high heat.",
+    "In a mixing bowl, combine whole wheat flour, sugar, soy sauce, ginger paste, salt, and water. Mix until it forms a sticky dough.",
+    "Add egg whites to the mixture and stir until combined well.",
+    "Pour the entire mixture into the hot wok and cook for about 2-3 minutes or until fully cooked and golden brown.",
+    "Drizzle with vegetable oil and continue cooking over medium heat for another 1 minute to ensure everything is gooey and evenly coated.",
+    "Serve immediately while hot and enjoy your sweet and gooey whole wheat stir-fry!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-gooey",
+    "whole-wheat-stir-fry",
+    "malaysian-dish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "sweet-gooey-malaysian-whole-wheat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-gooey-malaysian-whole-wheat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:50:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "whole wheat",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Whole Wheat",
+    "descriptor": "Sweet & Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
