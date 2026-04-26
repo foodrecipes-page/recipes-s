@@ -1,0 +1,88 @@
+{
+  "title": "Spicy Velvety Adventurous Kenyana Tomato Stir-fry",
+  "description": "A spicy and velvety adventurous Kenyan dish featuring thyme, with a Mediterranean twist. Perfect for adding to your meal rotation.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyana tomatoes",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 medium",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "2 tbsp",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat.",
+    "Add garlic and red bell pepper to the heated oil, stir-fry for about 2 minutes until fragrant and slightly softened.",
+    "Toss in thyme leaves and cook for an additional minute until aromatic.",
+    "Add Kenyan tomatoes and red pepper flakes. Stir well and let simmer for about 5 minutes or until most of the liquid has evaporated.",
+    "Season with salt, taste and adjust seasoning if needed.",
+    "Serve hot as a main dish or side along with a salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "adventurous",
+    "spicy",
+    "velvety",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "spicy-velvety-adventurous-kenyana-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-adventurous-kenyana-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:29:58Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "thyme",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyana",
+    "mainIngredient": "Tomato",
+    "descriptor": "Spicy Velvety Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
