@@ -1,0 +1,97 @@
+{
+  "title": "Smoky Dash-Friendly Syrian Chili Stir-fry",
+  "description": "A dense and smoky Syrian chili dish that is both savory and flavorful, designed to be enjoyed in a dash-friendly manner suitable for all meals.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chili peppers",
+      "amount": "2 medium",
+      "notes": "ripe and smoked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lamb mince or ground beef/pork",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dumplings (optional)",
+      "amount": "4-6 dumplings",
+      "notes": "steamed or fried"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "a few tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium-high heat.",
+    "Add chopped onion and finely minced garlic, sauté until translucent.",
+    "Add chili peppers (ripe and smoked), salt, pepper, lemon juice, pomegranate molasses, and cumin seeds. Stir-fry for 2-3 minutes to allow the flavors to meld together.",
+    "Fold in lamb mince or ground beef/pork, and continue cooking until it's nicely seared and no longer pink on a skewer.",
+    "If using dumplings, add them along with the chili mixture and cook for another minute or so.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "dash-friendly",
+    "syrian",
+    "stir-fry",
+    "chili"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 13
+  },
+  "slug": "smoky-dash-friendly-syrian-chili-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dash-friendly-syrian-chili-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:27:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "chilli",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chili",
+    "descriptor": "smoky dash-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
