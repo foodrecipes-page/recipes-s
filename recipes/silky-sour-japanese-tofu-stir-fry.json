@@ -1,0 +1,80 @@
+{
+  "title": "Silky Sour Japanese Tofu Stir-fry",
+  "description": "A hangover-cure-inspired dish featuring silky tofu with a tangy kick from sour cream and toast as a side, perfect for breakfast or snack time.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Silken tofu",
+      "amount": "200g",
+      "notes": "Make sure to drain excess water before use."
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Croutons or toast cubes (for garnish, optional)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Blend tofu in a blender until smooth.",
+    "In a small bowl, mix sour cream, ketchup, dijon mustard and water. Add salt to taste and blend well.",
+    "Pour the blended tofu into the sauce mixture and stir evenly until all ingredients are combined.",
+    "Garnish with croutons or toast cubes if desired.",
+    "Serve immediately as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "silken tofu",
+    "sour cream",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 3
+  },
+  "slug": "silky-sour-japanese-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-sour-japanese-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:27:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "toast",
+    "primaryIngredient": "sour cream",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Silky Sour",
+    "dishForm": "Stir-fry"
+  }
+}
