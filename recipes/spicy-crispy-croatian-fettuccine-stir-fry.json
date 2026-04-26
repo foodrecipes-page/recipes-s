@@ -1,0 +1,110 @@
+{
+  "title": "Spicy Crispy Croatian Fettuccine Stir-fry",
+  "description": "A midnight craving dish featuring spicy and flaky fettuccine that is air fried for a crispy texture while remaining jain-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup dried fettuccine noodles",
+      "amount": "cup",
+      "notes": "Soaked in hot water for about 5 minutes"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp",
+      "notes": null
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "piece",
+      "notes": null
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves",
+      "notes": null
+    },
+    {
+      "name": "2 medium bell peppers, sliced (red and yellow)",
+      "amount": "pieces",
+      "notes": null
+    },
+    {
+      "name": "1 cup cherry tomatoes, halved",
+      "amount": "cup",
+      "notes": null
+    },
+    {
+      "name": "1 tsp red chili powder",
+      "amount": "tsp",
+      "notes": null
+    },
+    {
+      "name": "1/2 tsp ground cumin",
+      "amount": "tsp",
+      "notes": null
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": "tsp",
+      "notes": null
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Soak the fettuccine in hot water for about 5 minutes, then drain and set aside.",
+    "In a large skillet over medium heat, add olive oil. Once heated, add onions and garlic, sautéing until softened.",
+    "Add bell peppers and cherry tomatoes to the pan, tossing well with vegetables and spices (red chili powder, cumin, turmeric).",
+    "Stir in fettuccine, mixing it all together until evenly coated. Pour in lime juice and stir again to combine all ingredients.",
+    "Cook for about 5-7 minutes or until pasta is heated through but still slightly chewy. Season with salt and pepper to taste.",
+    "Serve hot as a snack immediately after air frying for a crispy texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "spicy",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "spicy-crispy-croatian-fettuccine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crispy-croatian-fettuccine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:15:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "air-fry",
+    "primaryIngredient": "fettuccine",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Fettuccine",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
