@@ -1,0 +1,84 @@
+{
+  "title": "Sour Gooey Nostalgic Ukrainian Gouda Cheese Stir-fry",
+  "description": "This low-carb-friendly sour and gooey Ukrainian cheese dish features a rich and decadent gouda cheese sauce that is both comforting and satisfying.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons butter",
+      "amount": "",
+      "notes": "For a lower calorie version, replace with equal amount of avocado oil"
+    },
+    {
+      "name": "1 cup shredded Ukrainian Gouda cheese",
+      "amount": "",
+      "notes": "Low-fat or non-dairy options are available for low-carb diets"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Can be adjusted to taste"
+    },
+    {
+      "name": "Pinch of salt and black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "2 tablespoons red wine vinegar or apple cider vinegar",
+      "amount": "",
+      "notes": "For added tanginess"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a non-stick skillet over medium heat.",
+    "Add minced garlic and sauté for about 1 minute, until fragrant.",
+    "Pour in lemon juice, salt, black pepper, and red wine vinegar. Stir well to combine.",
+    "Gradually add shredded gouda cheese, stirring constantly with a wooden spoon to prevent the mixture from sticking or burning.",
+    "Continue cooking until all cheese is melted and the sauce has thickened slightly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "sour",
+    "gooey",
+    "ukrainian",
+    "gouda"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 13,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "sour-gooey-nostalgic-ukrainian-gouda-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-gooey-nostalgic-ukrainian-gouda-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:24:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "deglaze",
+    "primaryIngredient": "gouda cheese",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Gouda Cheese",
+    "descriptor": "Sour Gooey Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
