@@ -1,0 +1,78 @@
+{
+  "title": "Silky Bitter American Chicken Stir-fry",
+  "description": "A post-workout dish featuring chicken stock, whisked plant-based ingredients for a silky texture and bitter notes to complement the workout routine.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whisked plant-based milk or cream substitute",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bitter greens (e.g., arugula)",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "a pinch"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes (optional)",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add bitter greens, ginger, and red pepper flakes if using. Stir-fry until wilted and slightly caramelized.",
+    "Pour chicken stock into the pan. Allow to simmer for about 2-3 minutes, allowing flavors to meld together.",
+    "Whisk in whisked plant-based milk or cream substitute until combined and smooth.",
+    "Reduce heat to low and let the soup cook down, stirring occasionally, until it thickens slightly and reaches desired consistency.",
+    "Serve hot over cooked grains or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky-bitter-american-chicken-stir-fry",
+    "post-workout-dish",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 19,
+    "fat": 7
+  },
+  "slug": "silky-bitter-american-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-bitter-american-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:03:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "chicken stock",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Silky Bitter",
+    "dishForm": "Stir-fry"
+  }
+}
