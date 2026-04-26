@@ -1,0 +1,82 @@
+{
+  "title": "Smoky Tofu Chinese Stir-fry",
+  "description": "A dense and smoky solo-dinner dish featuring tofu with a tangy lemon flavor in a low fodmap-friendly recipe.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "100g"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a few pinches"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "30g"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    }
+  ],
+  "instructions": [
+    "Prepare tofu by pressing out excess water for 15 minutes.",
+    "Heat a pan over medium-high heat, add scallions and red pepper flakes, cook until fragrant.",
+    "Add garlic and stir-fry until translucent. Pour in soy sauce and water chestnuts, season with lemon juice to taste.",
+    "Integrate tofu into the pan, ensuring even cooking. Cover and let simmer for 5 minutes.",
+    "Serve hot as a solo-dinner dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-tofu",
+    "lemon-chinese-stir-fry",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "smoky-tofu-chinese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tofu-chinese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:17:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "rest",
+    "primaryIngredient": "lemon",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
