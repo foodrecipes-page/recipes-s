@@ -1,0 +1,86 @@
+{
+  "title": "Savory Velvety Chinese Vegetable Stir-fry",
+  "description": "A flavorful and velvety weeknight dish from Fuzhou cuisine featuring a blend of vegetables and a touch of cooking wine for added depth.",
+  "cuisine": "Fujian (Chinese)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "bok choy",
+      "amount": "2 cups chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, sliced thinly"
+    },
+    {
+      "name": "green onion",
+      "amount": "3 green onions, finely chopped (white and green parts)"
+    },
+    {
+      "name": "cooking wine",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "5-6 small, crushed lightly with a mortar and pestle"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat. Add Sichuan peppercorns, stir for about 30 seconds until fragrant.",
+    "Add celery and bok choy to the hot oil, stirring occasionally until vegetables start to soften, about 5 minutes.",
+    "Increase heat to high, add red bell peppers and green onions. Stir-fry until slightly charred around edges, about 2-3 minutes more.",
+    "Pour in cooking wine, fish sauce, and a sprinkle of salt. Stir quickly to combine all ingredients evenly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "velvety",
+    "fujian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 8,
+    "carbs": 7,
+    "fat": 4
+  },
+  "slug": "savory-velvety-chinese-vegetable-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-velvety-chinese-vegetable-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:31:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "cooking wine",
+    "diet": "jain",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Savory Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
