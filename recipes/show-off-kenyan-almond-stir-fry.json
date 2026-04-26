@@ -1,0 +1,101 @@
+{
+  "title": "Show-off Kenyan Almond Stir-fry",
+  "description": "A floral and silky dish featuring almond essence with a low-sodium twist, perfect for adding to any dinner menu.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 pieces",
+      "notes": "lightly salted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small piece",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare almonds by lightly toasting them in a dry skillet until fragrant and slightly golden. Let cool.",
+    "In a large wok or frying pan, heat sesame oil over medium-high heat. Add the chopped onions and minced garlic; stir-fry for about 2 minutes until onions are translucent.",
+    "Add salt and pepper to taste. Stir into the onion-garlic mixture.",
+    "Fold in lightly seasoned chicken pieces, ensuring they are evenly coated with the spice blend. Sauté for another 4-5 minutes or until the chicken is slightly golden on all sides.",
+    "Remove chicken from wok; set aside.",
+    "Add cooled almonds to the same pan and stir-fry over high heat for about 1 minute.",
+    "Deglaze the pan with lime juice, adding a splash of lemon juice. Stir in freshly grated ginger.",
+    "Return the cooked chicken back into the pan along with any accumulated juices from the wok. Mix well until everything is evenly coated with the sauce and spices.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "show-off",
+    "knead",
+    "low-sodium-friendly",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 316,
+    "protein": 27,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "show-off-kenyan-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-kenyan-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:05:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "knead",
+    "primaryIngredient": "almond essence",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyar",
+    "mainIngredient": "Almond",
+    "descriptor": "Floral Silky Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
