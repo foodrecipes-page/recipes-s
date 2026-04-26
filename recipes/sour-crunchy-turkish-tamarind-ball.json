@@ -1,0 +1,91 @@
+{
+  "title": "Sour Crunchy Turkish Tamarind Ball",
+  "description": "This meal-prep dessert features a tangy tamarind ball that combines perfectly with the crunch of nuts and seeds. Perfect for those who want to enjoy a gluten-free, sour and crunchy dish as part of their breakfast or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut sugar or honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almonds, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pistachios, roasted and coarsely ground",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "ground pistachio paste or powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Combine tamarind paste, apple cider vinegar, and coconut sugar in a saucepan. Heat on medium-high until the mixture starts to simmer.",
+    "Remove from heat and stir in almonds, pistachios, coconut flakes, ground pistachio paste or powder, sesame seeds, and paprika until everything is well combined and evenly coated.",
+    "Transfer the mixture to an ice cream maker if you have one. Otherwise, transfer it into a sealable container with a lid for refrigeration.",
+    "Freeze the mixture in your ice cream maker according to its instructions (usually 15-20 minutes). Alternatively, let it chill in the fridge until it reaches a desired consistency (around 30 minutes).",
+    "Once frozen or chilled, use a spoon or ice cream scoop to break off small balls.",
+    "Serve immediately as is, garnished with additional toppings like chopped nuts, seeds, or honey if preferred."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crunchy",
+    "meal-prep",
+    "turkish",
+    "tamarind ball"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "sour-crunchy-turkish-tamarind-ball",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-turkish-tamarind-ball",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:27:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "tamarind ball",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "tamarind",
+    "descriptor": "Sour Crunchy",
+    "dishForm": "ball"
+  }
+}
