@@ -1,0 +1,88 @@
+{
+  "title": "Sweet Creamy Bhuna Eggplant Stir-Fry",
+  "description": "This sweet and creamy Venezuelan dish features eggplants cooked in a flavorful sauce with bhuna spices. Gluten-free-friendly.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 medium eggplants",
+      "amount": "each"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 onion",
+      "amount": "sliced thinly"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "freshly squeezed"
+    },
+    {
+      "name": "1/4 cup heavy cream or dairy-free cream alternative",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons brown sugar",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Fresh cilantro for garnish (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Slice eggplants into rounds about 1/8-inch thick.",
+    "Arrange eggplant slices on a baking sheet lined with parchment paper, sprinkle with salt and drizzle lightly with olive oil. Bake for 30 minutes or until tender but not mushy.",
+    "Meanwhile, in a large skillet over medium heat, sauté minced garlic and onion until fragrant and translucent, about 5 minutes.",
+    "Add eggplant slices to the skillet; pour fresh lime juice over them, tossing gently to coat. Cook for another minute to remove any excess moisture from the pan.",
+    "In a small bowl, mix together heavy cream or dairy-free cream alternative, brown sugar, and salt. Pour this mixture into the skillet with the cooked eggplants, stirring well until heated through.",
+    "Serve hot with fresh cilantro if desired. Garnish with additional lime wedges for added freshness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-creamy-bhuna",
+    "egplant-stir-fry",
+    "gluten-free",
+    "venezuela"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 36,
+    "fat": 18
+  },
+  "slug": "sweet-creamy-bhuna-eggplant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-creamy-bhuna-eggplant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:24:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "egg plants",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Sweet Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
