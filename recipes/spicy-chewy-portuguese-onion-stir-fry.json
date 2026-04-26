@@ -1,0 +1,83 @@
+{
+  "title": "Spicy Chewy Portuguese Onion Stir-fry",
+  "description": "A spicy and chewy Portuguese onion dish, perfect for a light dinner or snack. This recipe is suitable for those following a fodmap-friendly diet.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 inch, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large frying pan over medium-high heat.",
+    "Add sliced spring onions and minced garlic to the pan. Stir-fry for about 3 minutes until they start to soften slightly.",
+    "Season with chili flakes, salt, and pepper according to your taste preference. Mix well.",
+    "Sprinkle finely chopped ginger on top of the stir-fried mixture and continue stirring for another minute or so.",
+    "The dish is ready when it's evenly coated with the flavors and chewy in texture due to long cooking time."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "spicy",
+    "onion",
+    "spring_onions",
+    "stir-fry",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 7.2,
+    "carbs": 30.8,
+    "fat": 9
+  },
+  "slug": "spicy-chewy-portuguese-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-chewy-portuguese-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:05:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "poach",
+    "primaryIngredient": "spring onions",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Onion",
+    "descriptor": "Spicy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
