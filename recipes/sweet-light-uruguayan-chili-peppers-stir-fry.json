@@ -1,0 +1,79 @@
+{
+  "title": "Sweet & Light Uruguayan Chili Peppers Stir-fry",
+  "description": "A light and sweet post-workout dish featuring red chili powder, bell peppers, onions, and other raw-friendly ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "light",
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your stove to a medium heat.",
+    "Slice the bell peppers and onion into thin strips. Rinse them under cold water.",
+    "Heat the olive oil in a pan or wok until hot.",
+    "Add the sliced onions first, followed by the bell peppers. Stir-fry for 2 minutes on each side.",
+    "Season with salt to taste. Add chili powder and stir well.",
+    "Serve immediately as a healthy snack option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "post-workout",
+    "snack",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 5
+  },
+  "slug": "sweet-light-uruguayan-chili-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-light-uruguayan-chili-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:25:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "boil",
+    "primaryIngredient": "red chilli powder",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Chili Peppers",
+    "descriptor": "Sweet & Light",
+    "dishForm": "Stir-fry"
+  }
+}
