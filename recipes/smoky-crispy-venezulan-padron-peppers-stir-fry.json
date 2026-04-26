@@ -1,0 +1,78 @@
+{
+  "title": "Smoky Crispy Venezulan Padron Peppers Stir-fry",
+  "description": "A weeknight-friendly dish featuring crunchy venezulan padron peppers marinated in smoky spices and cooked until crispy.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Padron Peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 minced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium-high heat.",
+    "Add padron peppers, salt, chili powder, smoked paprika, ground cumin, and garlic. Stir-fry for about 5 minutes or until peppers start to soften.",
+    "Reduce heat to low and continue cooking the peppers for another 5-10 minutes until they are crispy but not mushy.",
+    "Serve hot with a side of quinoa or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crunchy",
+    "vegansafe",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 189,
+    "protein": 7,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "smoky-crispy-venezulan-padron-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crispy-venezulan-padron-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:23:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "padron peppers",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "Padron Peppers",
+    "descriptor": "Smoky Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
