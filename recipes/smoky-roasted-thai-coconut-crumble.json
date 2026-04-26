@@ -1,0 +1,79 @@
+{
+  "title": "Smoky Roasted Thai Coconut Crumble",
+  "description": "A smoky and dense post-workout polish dish featuring shredded coconut, packed with raw-friendly nutrients to aid recovery.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "paleo",
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shredded unsweetened coconut",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine shredded coconut, smoked paprika, sesame seeds, and garlic powder.",
+    "Drizzle tahini sauce over the mixture until well combined. Add lime juice and mix thoroughly.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes or until golden brown and crispy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "dense",
+    "post-workout",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 9,
+    "carbs": 51,
+    "fat": 16
+  },
+  "slug": "smoky-roasted-thai-coconut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-thai-coconut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:31:57Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "shredded coconut",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Coconut",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Crumble"
+  }
+}
