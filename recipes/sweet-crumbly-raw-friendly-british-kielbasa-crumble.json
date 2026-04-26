@@ -1,0 +1,84 @@
+{
+  "title": "Sweet Crumbly Raw Friendly British Kielbasa Crumble",
+  "description": "A quick-fix sweet and crumbly dish featuring kielbasa, dumplings, and other raw-friendly ingredients that make for a delightful breakfast or snack.",
+  "cuisine": "British",
+  "diet": [
+    "raw",
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kielbasa",
+      "amount": "150g"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "200g"
+    },
+    {
+      "name": "Raw Honey",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "80g"
+    },
+    {
+      "name": "Walnuts, chopped",
+      "amount": "50g"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Mix kielbasa, dumplings, raw honey, coconut flakes, chopped walnuts, and maple syrup in a bowl until combined.",
+    "Divide the mixture into individual portions on a baking sheet lined with parchment paper.",
+    "Sprinkle sesame seeds over each portion for extra crunch.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crumbly",
+    "quick-fix",
+    "british",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 295,
+    "protein": 13.7,
+    "carbs": 14.6,
+    "fat": 10.8
+  },
+  "slug": "sweet-crumbly-raw-friendly-british-kielbasa-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crumbly-raw-friendly-british-kielbasa-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:38:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "kielbasa",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Kielbasa",
+    "descriptor": "Sweet Crumbly Raw Friendly",
+    "dishForm": "Crumble"
+  }
+}
