@@ -1,0 +1,80 @@
+{
+  "title": "Sweet And Chewy Date British Spread",
+  "description": "A sweet and chewy spread perfect for spreading on toast or crackers as a healthy snack or breakfast accompaniment.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup pitted and chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "8 tablespoons (solid at room temperature)"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine dates, almond flour, vanilla extract, sugar, ginger powder, and nutmeg.",
+    "Add butter pieces and mix until fully incorporated. The mixture will be sticky.",
+    "Place mixture in an oven-safe dish or ramekin and bake for about 20-25 minutes or until golden brown on the edges.",
+    "Allow to cool slightly before serving with toast, crackers, or use as a spread on bagels."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date",
+    "british",
+    "spread"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 52,
+    "fat": 18
+  },
+  "slug": "sweet-and-chewy-date-british-spread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-chewy-date-british-spread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:18:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment",
+    "primaryIngredient": "cream",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "date",
+    "descriptor": "Sweet And Chewy",
+    "dishForm": "Spread"
+  }
+}
