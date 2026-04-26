@@ -1,0 +1,102 @@
+{
+  "title": "Spicy Juicy Juiced Baby Pak Choi Salad",
+  "description": "A spicy and juicy baby pak choi salad that is a crowd-pleaser and paleo-friendly.",
+  "cuisine": "Asian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Baby Pak Choi",
+      "amount": "1 head",
+      "notes": "Use the inner stems for a sweeter flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use low sodium if necessary"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tablespoons",
+      "notes": "Used for sous-vide cooking"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Minced for dressing"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For salad dressing"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 teaspoon",
+      "notes": "For dressing"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 140°F (60°C).",
+    "Sauté garlic in coconut oil until fragrant. Do not burn it.",
+    "Add soy sauce, lime juice, red pepper flakes and lemon zest into the pot with the sautéed garlic, cook for 20 minutes at 140°F (60°C).",
+    "Cut baby pak choi into bite-sized pieces. Place in a bowl of cold water to help remove any dirt.",
+    "Drain the baby pak choi and pat dry with paper towels. Squeeze the excess water out using paper towels again.",
+    "Mix together coconut oil, soy sauce, lime juice, garlic paste, sesame seeds (if used), olive oil for dressing.",
+    "Add dressing into a bowl of drained baby pak choi. Toss well until all pieces are coated evenly with dressing.",
+    "Serve the salad and garnish with extra sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salad",
+    "paleo-friendly",
+    "baby-pak-choi",
+    "spicy",
+    "juice-packed"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 14,
+    "fat": 13
+  },
+  "slug": "spicy-juicy-juiced-baby-pak-choi-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-juicy-juiced-baby-pak-choi-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:08:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "baby pak koi",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Paleo",
+    "mainIngredient": "Baby Pak Choi",
+    "descriptor": "Spicy Juicy Crowd Pleaser",
+    "dishForm": "Salad"
+  }
+}
