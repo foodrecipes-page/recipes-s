@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Mexican Tofu Stir-fry",
+  "description": "A fluffy and smoky post-workout Venezuelan dish featuring wood ear mushrooms, steamed tofu, and savory spices for a healthy meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Wood Ear Mushrooms",
+      "amount": "20 grams"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "half"
+    },
+    {
+      "name": "Bell Peppers (any color)",
+      "amount": "1 medium each"
+    },
+    {
+      "name": "Tahini Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the tofu into small cubes. Dice the onions and peppers.",
+    "Gently steam the tofu until it's cooked through but still a bit firm, about 5 minutes on medium heat.",
+    "Add garlic, onion, red pepper, and wood ear mushrooms to the pan with some oil; cook for 3-4 minutes.",
+    "Combine tahini sauce, soy sauce, cumin, coriander powder, salt, and pepper in a mixing bowl. Mix well until combined and smooth.",
+    "Pour the sauce over the tofu and vegetables mixture and stir-fry for another minute to coat everything evenly.",
+    "Serve hot with your favorite side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "fluffy",
+    "post-workout",
+    "venezuelan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 15,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "smoky-mexican-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-mexican-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:56:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tofu",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
