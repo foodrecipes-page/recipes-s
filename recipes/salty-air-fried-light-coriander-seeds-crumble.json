@@ -1,0 +1,71 @@
+{
+  "title": "Salty Air-Fried Light Coriander Seeds Crumble",
+  "description": "A light and crispy snack dish featuring salty air-fried coriander seeds, perfect for a monsoon season in Jamaica.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "light coriander seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "coconut oil or melted coconut cream",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 200°C (392°F).",
+    "In a mixing bowl, combine the light coriander seeds with a pinch of salt.",
+    "Add coconut oil or melted coconut cream and mix until well combined. The mixture should be moist but not wet.",
+    "Gradually stir in flour while continuing to mix until a crumbly consistency is achieved.",
+    "Spoon out generous portions of the mixture onto a baking sheet lined with parchment paper, making sure to space them apart for even cooking.",
+    "Air fry at 200°C (392°F) for about 10-15 minutes or until golden and crispy. Rotate halfway through for even heating.",
+    "Remove from air fryer and allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "light",
+    "monsoon",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 4,
+    "fat": 5
+  },
+  "slug": "salty-air-fried-light-coriander-seeds-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-air-fried-light-coriander-seeds-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:17:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "coriander seeds",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Coriander seeds",
+    "descriptor": "Salty Air-Fried Light",
+    "dishForm": "Crumble"
+  }
+}
