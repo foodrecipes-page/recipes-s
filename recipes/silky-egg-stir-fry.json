@@ -1,0 +1,92 @@
+{
+  "title": "Silky Egg Stir-Fry",
+  "description": "A spicy and silky Uruguayan dish featuring high-protein-friendly egg cooked with a blend of aromatic spices for a lazy Sunday treat.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "high-protein",
+    "spicy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 eggs",
+      "amount": "each",
+      "notes": "lightly beaten"
+    },
+    {
+      "name": "1 tbsp soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp garlic paste",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup bell pepper, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1 small onion, finely sliced",
+      "amount": "slice"
+    },
+    {
+      "name": "1/4 tsp cumin powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Sesame seeds, for garnish (optional)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large frying pan over medium-high heat.",
+    "Add beaten eggs to the pan and cook until scrambled but not fully cooked. Remove from heat and set aside.",
+    "In the same pan, add garlic paste and stir for about 30 seconds until fragrant.",
+    "Add chopped bell pepper and finely sliced onion to the pan. Cook for another 2-3 minutes or until vegetables are slightly softened.",
+    "Return scrambled eggs to the pan along with cumin powder and black pepper. Stir well to combine all ingredients.",
+    "Serve hot, garnished with sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky-egg-stir-fry",
+    "uruguayan-dish",
+    "lazy-sunday-meal",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 19,
+    "carbs": 6,
+    "fat": 13
+  },
+  "slug": "silky-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:40:57Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "broil",
+    "primaryIngredient": "egg",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Egg",
+    "descriptor": "Spicy Silky Lazy Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
