@@ -1,0 +1,83 @@
+{
+  "title": "Savory Middle Eastern Onion Stir-fry",
+  "description": "A silky and salty savory dish featuring turmeric powder, bhuna spices, and Mediterranean-friendly flavors to wow your taste buds.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "2 large"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Bhuna Spices (Garam Masala, Cloves, Cumin)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onions, turmeric powder, bhuna spices, garlic, and red chili flakes. Cook for about 5 minutes until onions turn translucent.",
+    "Stir in tomato sauce and water. Bring to a boil, then reduce the heat to low and simmer for another 10-15 minutes or until sauce thickens slightly.",
+    "Season with salt as needed and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "middle-eastern",
+    "onion-stir-fry",
+    "bhuna-spices",
+    "turmeric-powder"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "savory-middle-eastern-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-middle-eastern-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:26:20Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "turmeric powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Onion",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
