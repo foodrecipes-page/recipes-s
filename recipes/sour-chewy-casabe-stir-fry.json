@@ -1,0 +1,81 @@
+{
+  "title": "Sour Chewy Casabe Stir-fry",
+  "description": "This lazy-sunday Uruguayan dish features sour and chewy casabe mixed with a tangy sauce for a perfect accompaniment to any meal.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Casabe",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Green tomatoes",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat with olive oil. Add onions and garlic, sauté for about 3 minutes.",
+    "Add diced bell peppers and green tomatoes to the pan, mix well, and cook for another 5-7 minutes until softened slightly.",
+    "Remove from heat and add sour cream, stir well until everything is evenly coated.",
+    "Serve hot as a snack with some whole grain bread or crackers on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "casabe",
+    "stir-fry",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "sour-chewy-casabe-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-casabe-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:19:15Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "casabe",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Casabe",
+    "descriptor": "sour chewy lazy-sunday",
+    "dishForm": "Stir-fry"
+  }
+}
