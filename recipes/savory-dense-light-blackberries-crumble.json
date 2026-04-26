@@ -1,0 +1,99 @@
+{
+  "title": "Savory Dense Light Blackberries Crumble",
+  "description": "A savory and light Slovakian dish featuring blackberries in a dairy-free crumble topping that is both comforting and refreshing.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups fresh or frozen blackberries",
+      "amount": "",
+      "notes": "fresh berries can be used if desired"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "cup",
+      "notes": "optional for sweetness, but not necessary for dairy-free version"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "amount": "tablespoons",
+      "notes": "for binding the crumble topping"
+    },
+    {
+      "name": "1/4 cup rolled oats",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped nuts (optional, such as almonds or walnuts)",
+      "amount": "cup",
+      "notes": "such as almonds or walnuts for texture and flavor"
+    },
+    {
+      "name": "2 tablespoons maple syrup (or agave nectar for vegan option)",
+      "amount": "tablespoons",
+      "notes": "for added sweetness if desired"
+    },
+    {
+      "name": "1/4 cup chopped dark chocolate chips (optional)",
+      "amount": "cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Stem and quarter the blackberries, then crush them slightly using a spoon or fork.",
+    "In a mixing bowl, combine the crushed blackberries with lemon juice and sugar. Mix well until all berries are coated.",
+    "Sift in flour and gently fold into the berry mixture to help thicken it without making it too stiff for topping.",
+    "In a separate bowl, mix rolled oats with maple syrup (if using) and dark chocolate chips (optional).",
+    "Pour the blackberry mixture onto a baking dish or pie pan. Spread evenly over the bottom.",
+    "Sprinkle the oat flour mixture on top of the blackberries in an even layer.",
+    "Bake at 350°F for about 25-30 minutes, until golden brown and bubbly.",
+    "Cool slightly before serving with a dollop of dairy-free yogurt or whipped cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "dense",
+    "light",
+    "blackberries",
+    "slovakian",
+    "dairy-free",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "savory-dense-light-blackberries-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-dense-light-blackberries-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:38:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "boil",
+    "primaryIngredient": "blackberries",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Blackberries",
+    "descriptor": "savory dense light",
+    "dishForm": "Crumble"
+  }
+}
