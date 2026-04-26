@@ -1,0 +1,95 @@
+{
+  "title": "Salty Fluffy Portuguese Pork Stir-Fry",
+  "description": "A gluten-free-friendly solo-dinner dish featuring pork shoulder braised with salty and flavorful ingredients for a fluffy texture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dill sprigs",
+      "amount": "6-8"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "a few sprigs for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season pork shoulder with salt and pepper. Melt 2 tbsp of olive oil in a large skillet over medium-high heat.",
+    "Add garlic and cook until fragrant, about 1 minute.",
+    "Place the seasoned pork shoulder skin-side down into the hot pan, reduce heat to medium-low, and braise for approximately 2 hours or until tender (internal temperature reaches 145°F).",
+    "Meanwhile, in a small bowl mix soy sauce, white wine vinegar, lemon zest, and pepper. Remove from heat.",
+    "After pork is fully cooked, stir in the soy mixture to coat evenly.",
+    "Garnish with dill sprigs and fresh parsley before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 200,
+  "totalTimeMin": 230,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "pork",
+    "fluffy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 567,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "salty-fluffy-portuguese-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-fluffy-portuguese-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:38:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "pork shoulder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "Salty Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
