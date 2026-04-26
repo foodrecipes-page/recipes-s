@@ -1,0 +1,100 @@
+{
+  "title": "Sour Tender Vegan Tomato Stir-fry",
+  "description": "A romantic Uruguayan dish featuring a blend of savory and tangy flavors with the addition of aromatic bouquet garni for an extra layer of depth.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "Ripe and juicy"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "Vegan butter or coconut oil"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 medium",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "Sliced thinly for a tender texture"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium (red and green each)",
+      "notes": "Add extra color and antioxidants"
+    },
+    {
+      "name": "bouquet garni",
+      "amount": "A few sprigs",
+      "notes": "Including parsley, thyme, bay leaf, and a star anise or two for depth"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup",
+      "notes": "Best with sherry vinegar for authentic taste"
+    },
+    {
+      "name": "salt",
+      "amount": "To taste",
+      "notes": "For seasoning the dish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use to sauté ingredients and deglaze pan after cooking vegetables"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat. Add olive oil, butter (or vegan alternative), and minced garlic cloves.",
+    "Sauté the onion until translucent, then add finely sliced bell peppers. Stir occasionally for about 5 minutes.",
+    "Gradually add tomatoes and vinegar to the pan while stirring continuously. The mixture should start to thicken slightly.",
+    "Add the bouquet garni to the pot along with salt to taste. Continue cooking for an additional minute or two until everything is well combined.",
+    "Reduce heat to low, cover the skillet, and let it simmer gently for about 5 more minutes to let flavors meld together.",
+    "Serve hot over steamed basmati rice or gluten-free pasta as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "tender",
+    "vegan",
+    "tomato",
+    "stir-fry",
+    "uruguayan",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "sour-tender-vegan-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-tender-vegan-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:56:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "bouquet garni",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Sour Tender Vegan",
+    "dishForm": "Stir-fry"
+  }
+}
