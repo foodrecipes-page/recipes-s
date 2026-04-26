@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Pine Nuts Thai Stir-fry",
+  "description": "A lazy Sunday dish featuring smoky pine nuts and a quick thai-style stir-fry that's perfect for making with minimal effort.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pine Nuts",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili Sauce (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1/4 cup, sliced thinly"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce (vegan)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce (optional for non-vegan dishes)",
+      "amount": "1/4 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add pine nuts and fry until golden brown, about 3-5 minutes. Remove from pan and set aside.",
+    "In the same pan, add minced garlic and onion; sauté for 2-3 minutes until fragrant and slightly softened.",
+    "Add bell pepper and eggplant slices; stir-fry for another 2-4 minutes or until vegetables start to soften.",
+    "Return pine nuts to the pan. Add chili sauce (if using) and tomato paste, stirring well to combine with other ingredients.",
+    "Pour in soy sauce (vegan only), and continue to cook for an additional minute.",
+    "Stir in lemon juice and sugar; simmer for 1-2 minutes until the sauce thickens slightly.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pine-nuts",
+    "thai-style",
+    "smoky",
+    "lazy-sunday-dish",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "smoky-pine-nuts-thai-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-pine-nuts-thai-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:43:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "pine nuts",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pine nuts",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
