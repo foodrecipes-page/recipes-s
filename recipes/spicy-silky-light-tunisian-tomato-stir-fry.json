@@ -1,0 +1,102 @@
+{
+  "title": "Spicy Silky Light Tunisian Tomato Stir-fry",
+  "description": "A light and flavorful dish combining spicy tomatoes with a touch of sherry for added depth, all while maintaining a low-fat-friendly profile.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup ripe plum or cherry tomatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup diced canned light tuna in water (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh dill",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons sherry wine vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and freshly ground black pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place tomatoes in a microwave-safe dish. Microwave for about 30 seconds or until slightly softened.",
+    "In a large skillet, heat olive oil over medium heat. Add onion and garlic; cook, stirring occasionally, until the onions are translucent (about 5 minutes).",
+    "Add tomatoes from microwave to the skillet along with sherry vinegar, cayenne pepper, lemon juice, salt, and black pepper. Stir well.",
+    "If using tuna, add it to the skillet at this point. If not using tuna, continue stirring until all ingredients are heated through (about 2-3 minutes).",
+    "Remove from heat and stir in dill. Serve hot as a side dish or over rice for an easy meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian-stir-fry",
+    "light-dish",
+    "sherry-recipe"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "spicy-silky-light-tunisian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-silky-light-tunisian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:23:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "sherry",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Spicy Silky Light",
+    "dishForm": "Stir-fry"
+  }
+}
