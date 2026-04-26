@@ -1,0 +1,83 @@
+{
+  "title": "Spicy Fluffy Egg Stir-fry",
+  "description": "This Egyptian-inspired dish features a fluffy egg base blended with fermented vegetables and dairy-free ingredients for a spicy twist.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egg, beaten",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Fermented vegetables (e.g., pickles), finely diced",
+      "amount": "1 cup",
+      "notes": "Use a variety of colors for visual appeal"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4-6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes (adjust to taste)",
+      "amount": "to taste",
+      "notes": "Start with 1/2 teaspoon and adjust"
+    },
+    {
+      "name": "Soy sauce or tamari, optional for flavoring",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add beaten egg to the skillet and cook until slightly set but still runny, about 2 minutes. Remove from heat immediately.",
+    "In another pan or wok, sauté garlic for 30 seconds on low-medium heat.",
+    "Add diced fermented vegetables to the pan with a sprinkle of chili flakes. Stir-fry for about 1 minute until fragrant and slightly softened.",
+    "Fold in the cooked egg mixture into the stir-fried vegetables gently.",
+    "Drizzle soy sauce or tamari over the top if desired, then mix well again.",
+    "Serve hot as a side dish with rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggs",
+    "fermented-vegetables",
+    "spicy",
+    "fluffy",
+    "one-pot-dish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 9,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "spicy-fluffy-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:53:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "egg",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Egg",
+    "descriptor": "Spicy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
