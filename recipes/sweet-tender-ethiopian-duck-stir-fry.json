@@ -1,0 +1,103 @@
+{
+  "title": "Sweet Tender Ethiopian Duck Stir-Fry",
+  "description": "A sweet and tender duck dish that is perfect for a crowd-pleaser dinner option, gluten-free and kosher-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 boneless duck breasts",
+      "amount": "each"
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "large"
+    },
+    {
+      "name": "1 yellow bell pepper, sliced",
+      "amount": "large"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "not specified"
+    },
+    {
+      "name": "1-inch piece fresh ginger, grated",
+      "amount": "not specified"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "not specified"
+    },
+    {
+      "name": "1/4 cup all-purpose flour (gluten-free)",
+      "amount": "not specified"
+    },
+    {
+      "name": "3 cups chicken broth",
+      "amount": "not specified"
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "not specified"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "not specified"
+    },
+    {
+      "name": "1/4 teaspoon red pepper flakes (optional)",
+      "amount": "not specified"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season duck breasts with salt and pepper on both sides.",
+    "Heat olive oil in a skillet over medium-high heat. Add duck breasts skin-side down, searing for about 2-3 minutes per side until golden brown.",
+    "Remove duck from skillet and set aside. In the same skillet, add sliced peppers and minced garlic, sautéing for about 1 minute or until softened slightly.",
+    "Add grated ginger to the skillet and cook for another minute, stirring frequently.",
+    "Stir in flour and honey, cooking for a few seconds until fragrant.",
+    "Pour in chicken broth, scraping up any browned bits from the bottom of the pan. Stir in cumin and red pepper flakes (if using). Bring mixture to a boil, then reduce heat to low and simmer for about 20 minutes or until thickened slightly.",
+    "Return duck breasts to skillet, spooning sauce over them evenly. Cook for an additional 15-20 minutes or until the internal temperature of the duck reaches at least 165°F (74°C).",
+    "Transfer duck and sauce to a serving dish and let rest for about 5 minutes.",
+    "Serve hot with steamed vegetables on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet-ethiopian-dish",
+    "tender-duck-stir-fry",
+    "gluten-free-recipe",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 46,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "sweet-tender-ethiopian-duck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-tender-ethiopian-duck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:08:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "duck",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "duck",
+    "descriptor": "sweet tender",
+    "dishForm": "Stir-fry"
+  }
+}
