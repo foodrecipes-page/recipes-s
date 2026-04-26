@@ -1,0 +1,97 @@
+{
+  "title": "Salty Spanish Sea Bass Stir-fry",
+  "description": "A cozy Spanish dish featuring sea bass fillets, a tadka for added depth of flavor, and packed with nutrients to keep you energized.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4 pieces",
+      "notes": "Medium-sized"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves",
+      "notes": "Pressed and minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium if not vegan-friendly"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional for extra heat, adjust to taste"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1-2 pinches",
+      "notes": "For a slight kick without too much spice"
+    },
+    {
+      "name": "Tadka Base",
+      "amount": "as required",
+      "notes": "See preparation section for ingredients"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce or Tamari",
+      "amount": "1/4 cup",
+      "notes": "For brining the fish if desired"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "Non-stick cooking oil for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Season the sea bass fillets with a mixture of low-sodium soy sauce or tamari, salt, and pepper.",
+    "While waiting, prepare the tadka base by heating a tablespoon of oil in a pan over medium heat. Add onions and garlic; sauté until translucent and aromatic. Stir in tomato paste, chili powder, and red chili flakes (if using). Simmer for about 1 minute to meld the flavors.",
+    "Heat another tablespoon of oil in your wok or large frying pan on high heat. Add sea bass fillets skin-side down; cook for a couple of minutes until golden brown on one side. Flip them and cook for another couple of minutes until cooked through, ensuring they reach an internal temperature of 145°F (63°C). Remove from the pan.",
+    "Return wok or frying pan to heat. Add more oil if needed, then place tadka base mixture into the hot pan. Stir in additional low-sodium soy sauce or tamari as desired. Simmer briefly to combine flavors and thicken slightly.",
+    "Add sautéed onions and garlic from step 2 into the skillet with tadka. Carefully add cooked sea bass fillets, skin-side up; cook for a minute on each side allowing the fish's natural oils to release, infusing with tadka flavor.",
+    "Serve hot, garnished with fresh herbs like parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sea-bass-stir-fry",
+    "tadka-flavor",
+    "cozy-spanish-dish",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 28,
+    "carbs": 21,
+    "fat": 14
+  },
+  "slug": "salty-spanish-sea-bass-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-spanish-sea-bass-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:27:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "sea bass",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
