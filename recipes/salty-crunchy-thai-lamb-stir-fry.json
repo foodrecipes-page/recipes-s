@@ -1,0 +1,110 @@
+{
+  "title": "Salty Crunchy Thai Lamb Stir-Fry",
+  "description": "A flavorful and crunchy solo-dinner dish featuring lamb stock, roast lamb pieces, and plant-based-friendly vegetables for a satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Stock",
+      "amount": "1 cup",
+      "notes": "Use any available type of lamb stock or vegetable stock"
+    },
+    {
+      "name": "Roast Lamb Pieces",
+      "amount": "200g",
+      "notes": "Ensure pieces are at room temperature for easier cutting and cooking"
+    },
+    {
+      "name": "Vegetable Sticks (e.g., Carrot, Bell Pepper)",
+      "amount": "1 cup each of 3 types",
+      "notes": "Wash and prepare vegetables to be used in stir-fry"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking and flavoring"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced for added depth of flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": "To taste, can be adjusted based on preference"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1 tbsp",
+      "notes": "For umami and additional saltiness"
+    },
+    {
+      "name": "Chili Paste or Chili Flakes",
+      "amount": "2 tsp",
+      "notes": "To taste, can be adjusted for spiciness"
+    },
+    {
+      "name": "Oyster Sauce (optional)",
+      "amount": "1 tbsp",
+      "notes": "For extra umami and sweetness"
+    },
+    {
+      "name": "Cilantro (for garnish)",
+      "amount": "1/4 cup",
+      "notes": "To enhance the dish's freshness"
+    },
+    {
+      "name": "Cornstarch Mix",
+      "amount": "1 tbsp",
+      "notes": "For creating a thick sauce to coat vegetables and lamb pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat. Add olive oil.",
+    "Add minced garlic and chili paste/flakes to the hot pan, stirring until fragrant and slightly golden.",
+    "Season with soy sauce and fish sauce if using, then add chopped lamb pieces and stir-fry for about 2 minutes per side until browned.",
+    "Remove lamb from wok and set aside. In the same wok, add more oil if necessary, then sauté chopped vegetables (e.g., carrots, bell peppers) with salt to taste, stirring occasionally for 4-5 minutes until slightly softened.",
+    "Return the roasted lamb pieces to the wok along with any accumulated juices from the pan, and pour in cornstarch water mixture. Mix well to create a thick sauce coating all ingredients evenly.",
+    "Stir in oyster sauce if using, then cook everything together for another 2-3 minutes until the vegetables are tender yet crispy and the sauce is fully integrated.",
+    "Garnish with fresh cilantro before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "lamb",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "salty-crunchy-thai-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crunchy-thai-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:25:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "lamb stock",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "lamb",
+    "descriptor": "Salty Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
