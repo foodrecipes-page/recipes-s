@@ -1,0 +1,83 @@
+{
+  "title": "Spicy Tender Smoky Roasted Peanut Stir-fry",
+  "description": "This low-carb-friendly Spicy Tender Smoky Roasted Peanut Stir-fry combines sous-vide cooking for tender peanuts with a quick stir-fry to create a delicious weeknight meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "sous-vide"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons fresh, minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 150°F (65°C).",
+    "In a bowl, mix the peanuts with 1 tablespoon of oil and salt. Sous-vide for 4 hours.",
+    "When ready, remove the peanuts from the water bath and place them in a pan over medium heat. Toast until golden brown and fragrant, stirring occasionally to prevent burning.",
+    "Return the peanuts to their sous-vide container and add minced ginger, garlic, red chili flakes, and paprika. Stir well.",
+    "Heat 1 tablespoon of oil in a wok or large skillet over high heat. Add the peanut mixture from the sous-vide step and stir-fry for about 3 minutes until heated through and fragrant.",
+    "Serve hot as a side dish or on top of rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "tender",
+    "smoky",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "spicy-tender-smoky-roasted-peanut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-tender-smoky-roasted-peanut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:35:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "roasted peanut",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "peanut",
+    "descriptor": "Spicy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
