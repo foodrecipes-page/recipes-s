@@ -1,0 +1,76 @@
+{
+  "title": "Spicy Dense Mediterranean Bread Mix Stir-fry",
+  "description": "A one-pot mediterranean dish featuring spicy white bread mix, bhuna spices, and a touch of plant-based ingredients for an easy dinner option.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Bread Mix",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Bhuna Masala Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Plant-Based Butter or Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Red Chili Flakes (to taste)",
+      "notes": "For a spicy kick"
+    },
+    {
+      "name": "Sesame Seeds (for garnish, optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix the White Bread Mix with Bhuna Masala Paste and plant-based butter or oil until a dough forms.",
+    "Shape the dough into small balls and flatten them slightly on a baking sheet lined with parchment paper.",
+    "Bake for about 20-25 minutes or until golden brown, tossing occasionally to ensure even browning.",
+    "While the bread mix is baking, heat some more plant-based butter or oil in a wok over medium-high heat. Add red chili flakes and sauté for about 1 minute.",
+    "Remove from heat, then fold in any additional garnishing sesame seeds if using.",
+    "Serve hot as a side dish with your choice of dips or spreads."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "dense",
+    "mediterranean",
+    "mediterranean-bread-mix",
+    "bhuna-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "spicy-dense-mediterranean-bread-mix-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-dense-mediterranean-bread-mix-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:13:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "white bread mix",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bread mix",
+    "descriptor": "Spicy Dense",
+    "dishForm": "Stir-fry"
+  }
+}
