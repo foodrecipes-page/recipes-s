@@ -1,0 +1,94 @@
+{
+  "title": "Savory Crunchy Dutch King Prawn Crumble",
+  "description": "A savory and chewy dutch dish featuring raw king prawns, lightly cured for added flavor and a touch of sweetness from honey.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup raw king prawns",
+      "amount": "",
+      "notes": "ensure they are fresh and undercooked, about to be cured"
+    },
+    {
+      "name": "1 tbsp honey",
+      "amount": "tbsp",
+      "notes": "for sweetness and moisture retention"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "tsp",
+      "notes": "enough for 1 cup of prawns"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "½ tsp black pepper",
+      "amount": "tsp",
+      "notes": "for a slight tangy flavor and to balance the sweetness from honey"
+    },
+    {
+      "name": "1 tbsp nutritional yeast",
+      "amount": "tbsp",
+      "notes": "to enhance savory flavors without dairy, optional for added depth"
+    },
+    {
+      "name": "2 tbsp lemon juice (optional)",
+      "amount": "",
+      "notes": "for a zingy touch of acidity"
+    },
+    {
+      "name": "3 tbsp plant-based butter",
+      "amount": "tbsp",
+      "notes": "ensure it is vegan and non-hydrogenated, such as coconut or almond oil"
+    }
+  ],
+  "instructions": [
+    "Place the raw king prawns in a bowl, add honey, salt, minced garlic, black pepper, nutritional yeast (if using), lemon juice (if using) and plant-based butter. Mix well until all ingredients are evenly distributed.",
+    "Cover the bowl with plastic wrap or a lid for 15-20 minutes to allow flavors to meld together. The curing process will take care of any raw taste and enhance natural sweetness from the prawns.",
+    "Preheat your oven to 375°F (190°C).",
+    "Divide the mixture into small mounds, about 1-inch in diameter, on a baking sheet lined with parchment paper.",
+    "Bake for 8-10 minutes until crispy and golden brown. You can turn the mixture over once during baking to ensure even browning.",
+    "Once done, allow the crumble to cool slightly before serving as a snack or appetizer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raw-prawns",
+    "vegan-dutch",
+    "crumble-snack"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "savory-crunchy-dutch-king-prawn-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-dutch-king-prawn-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:48:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "raw king prawns",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "King Prawn",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Crumble"
+  }
+}
