@@ -1,0 +1,85 @@
+{
+  "title": "Savory Crunchy Mediterranean Chestnut Mushroom Stir-fry",
+  "description": "A gluten-free-friendly savory and crunchy midnight-craving dish featuring chestnut mushrooms in a mediterranean flavor profile.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chestnut Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 medium"
+    },
+    {
+      "name": "Olives (Kalamata or black), pitted and chopped",
+      "amount": "30-40 pieces"
+    },
+    {
+      "name": "Sun-Dried Tomatoes, finely diced",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Olives, roughly chopped (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Minced Fresh Herbs (parsley and thyme combined)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium-high heat. Add minced garlic and sauté until fragrant, about 30 seconds.",
+    "Add sliced red onion to the skillet, cook for another minute or two until softened but still crisp.",
+    "Gently add chestnut mushrooms to the skillet, reduce heat slightly to maintain a low boil. Cook until tender and browned on all sides.",
+    "Toss in finely diced sun-dried tomatoes and black olives (if using), cooking for an additional 2-3 minutes allowing flavors to meld together.",
+    "Stir in paprika powder and fresh herbs, continuing to cook for another minute or so. Taste the sauce and adjust seasoning if necessary.",
+    "Serve immediately over gluten-free crackers or sliced baguette, garnished with extra olive pieces if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crunchy",
+    "mediterranean",
+    "midnight-craving",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 10,
+    "carbs": 23,
+    "fat": 8
+  },
+  "slug": "savory-crunchy-mediterranean-chestnut-mushroom-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-mediterranean-chestnut-mushroom-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:40:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "boil",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chestnut Mushroom",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
