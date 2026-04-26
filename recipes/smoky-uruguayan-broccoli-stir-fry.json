@@ -1,0 +1,110 @@
+{
+  "title": "Smoky Uruguayan Broccoli Stir-fry",
+  "description": "A floral and dense monsoon dish from Uruguay featuring purple sprouting broccoli with a smoky touch made dairy-free.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Purple Sprouting Broccoli",
+      "amount": "1 head",
+      "notes": "Washed and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "2 tablespoons",
+      "notes": "Fresh, finely chopped"
+    },
+    {
+      "name": "Smoked Paprika Powder",
+      "amount": "½ teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "¼ teaspoon",
+      "notes": "Optional for extra smokiness"
+    },
+    {
+      "name": "Nutritional Yeast Flakes",
+      "amount": "1 tablespoon",
+      "notes": "For added umami and texture"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water or Broth",
+      "amount": "½ cup",
+      "notes": "Optional for thinning the sauce if needed"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add garlic and onion, sautéing until translucent.",
+    "Stir in red bell pepper and cook for another minute.",
+    "Fold in chopped purple sprouting broccoli head and toss to coat with oil.",
+    "Season with thyme leaves, smoked paprika powder, dried oregano (if using), and salt. Stir gently but thoroughly.",
+    "Pour in water or broth if necessary to prevent sticking and create a sauce-like consistency.",
+    "Reduce heat to medium-low and let the mixture cook for about 10 minutes until broccoli is tender yet crisp.",
+    "Sprinkle nutritional yeast flakes over the top just before serving, allowing it to caramelize slightly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "uruguayan",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 5.8,
+    "carbs": 19.7,
+    "fat": 4
+  },
+  "slug": "smoky-uruguayan-broccoli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-uruguayan-broccoli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:13:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "smoke",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "purple sprouting broccoli",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
