@@ -1,0 +1,86 @@
+{
+  "title": "Smoke Pistachio German Stir-fry",
+  "description": "A fresh, velvety German dish featuring pistachios and smoke flavors that serve as a hangover-cure alternative. Suitable for those who are vegan or seeking kosher-friendly meal options.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of fresh pistachios",
+      "amount": "",
+      "notes": "Soaked in water for at least an hour"
+    },
+    {
+      "name": "2 tablespoons of olive oil or vegan butter",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "200g (7oz) of fresh spinach leaves",
+      "amount": "",
+      "notes": "Washed and dried"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup of red wine or apple cider vinegar",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your smoker grill to about 250°F (or if using a stove-top, heat the olive oil or vegan butter in a skillet over medium-high heat. Make sure it is hot enough to sizzle when you add the pistachios and onion.)",
+    "In a large skillet, sauté the chopped onions until translucent.",
+    "Add the minced garlic to the skillet and cook for about 30 seconds, stirring constantly.",
+    "Fold in the soaked pistachios and let them toast slightly before adding the lemon juice, red wine/vinegar, salt, and spinach. Stir everything together well.",
+    "Cook for about 5 minutes until the spinach is wilted, adjusting the seasoning as necessary. The mixture should be velvety and flavorful.",
+    "Transfer the stir-fry to a plate or bowl, garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoke",
+    "pistachio",
+    "german",
+    "hangover_cure"
+  ],
+  "nutrition": {
+    "calories": 296,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "smoke-pistachio-german-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-pistachio-german-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:24:40Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "pistachio",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pistachio",
+    "descriptor": "Smoke",
+    "dishForm": "Stir-fry"
+  }
+}
