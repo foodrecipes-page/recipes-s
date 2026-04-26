@@ -1,0 +1,85 @@
+{
+  "title": "Sweet And Silky Portuguese Peach Bhuna Stir-fry",
+  "description": "A kid-friendly and halal-friendly Portuguese dish featuring sweet peach juice, a savory bhuna sauce, and tender peaches cooked to perfection.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dish",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chicken Broth or Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves (minced)"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Peach Juice Concentrate or Sugar (for sweetness)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Chop the peaches into small cubes.",
+    "Heat a bit of oil in a pan over medium heat. Add minced garlic and chili flakes, sauté for about 2 minutes until fragrant.",
+    "Add chicken broth or water to the pan with the chopped peaches, and bring to a boil.",
+    "Stir in corn starch mixed with peach juice concentrate or sugar to achieve desired sweetness. Adjust seasoning with salt and pepper to taste.",
+    "Reduce heat and let it simmer for 5-7 minutes until the sauce thickens slightly.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peach-bhuna-stir-fry",
+    "halal-friendly",
+    "kid-friendly-portuguese-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "sweet-and-silky-portuguese-peach-bhuna-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-silky-portuguese-peach-bhuna-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:15:57Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "peach juice",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peach",
+    "descriptor": "Sweet And Silky",
+    "dishForm": "Stir-fry"
+  }
+}
