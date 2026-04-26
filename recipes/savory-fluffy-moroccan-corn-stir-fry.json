@@ -1,0 +1,95 @@
+{
+  "title": "Savory Fluffy Moroccan Corn Stir-fry",
+  "description": "This savory and fluffy brunch-mood dish features sweetcorn and dumplings in a comforting sauce that is perfect for a light lunch or dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup of sweet corn kernels",
+      "amount": "cup"
+    },
+    {
+      "name": "2 medium dumplings (goujans or other), chopped into small pieces",
+      "amount": "pieces"
+    },
+    {
+      "name": "3 tablespoons of olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "4 cloves of garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 teaspoon paprika (smoked or regular)",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped dumplings, onion, and garlic. Sauté until the onions are translucent, about 5 minutes.",
+    "Stir in ground cumin, coriander, paprika, salt, and pepper. Cook for another minute to toast the spices slightly.",
+    "Increase the heat to high and add the sweet corn kernels. Stir quickly and cook until heated through, about 2-3 minutes.",
+    "Squeeze the lemon juice over the dish and stir well to incorporate flavors evenly into the mixture.",
+    "Serve immediately while still hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "fluffy",
+    "savoury",
+    "sweetcorn",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 15,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "savory-fluffy-moroccan-corn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fluffy-moroccan-corn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:21:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "sweetcorn",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Corn",
+    "descriptor": "Savory Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
