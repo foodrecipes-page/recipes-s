@@ -1,0 +1,91 @@
+{
+  "title": "Sour Fluffy Tunisian Chicken Stir-fry",
+  "description": "A high-protein-friendly solo-dinner dish featuring sous-vide cooked chicken, chili flakes, and a tangy sauce for a fluffy texture and sour taste.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "high-protein",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sous-vide cooked chicken breast",
+      "amount": "100g",
+      "notes": "Ensure the chicken is cooked to an internal temperature of at least 74°C (165°F) for food safety."
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh garlic cloves",
+      "amount": "2 cloves",
+      "notes": "Mince finely for better flavor integration."
+    },
+    {
+      "name": "lime juice",
+      "amount": "3 tbsp fresh lime juice",
+      "notes": "Freshly squeezed for the best taste and freshness."
+    },
+    {
+      "name": "sour cream or yogurt",
+      "amount": "1/4 cup",
+      "notes": "Use plain low-fat sour cream or unsweetened plain yogurt as a healthier option."
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Choose tomato paste made from fresh tomatoes for extra flavor."
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Use low-sodium soy sauce or tamari as a gluten-free alternative."
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the chili flakes and minced garlic. Set aside.",
+    "Place the sous-vide cooked chicken breast in a shallow pan with enough hot water to cover it entirely. Cook for about 15 minutes at an internal temperature of 74°C (165°F).",
+    "In a large skillet, heat some vegetable oil over medium-high heat. Add the prepared chili-garlic mixture and stir until fragrant.",
+    "Pour in the tomato paste and soy sauce into the skillet. Stir well to combine with the chicken juices from the sous-vide pan.",
+    "Add the fresh lime juice to the skillet. Season with salt and pepper to taste, then let the sauce simmer for a minute or two to thicken slightly.",
+    "Gently fold in the sour cream or yogurt until combined. The sauce should be creamy but not too runny.",
+    "Serve hot over a bed of steamed rice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "sour-fluffy-chicken",
+    "chili-flakes",
+    "sous-vide",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "sour-fluffy-tunisian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-fluffy-tunisian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:10:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "chilli flakes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Sour Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
