@@ -1,0 +1,89 @@
+{
+  "title": "Savory Juicy Raw-Friendly Tahini Stir-fry",
+  "description": "A savory and juicy weeknight Mexican (norteño) dish featuring tahini that is both raw-friendly and suitable for those who prefer lighter meals.",
+  "cuisine": "Mexican (Norteño)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green chilies, minced",
+      "amount": "1-2",
+      "notes": "For added spice and depth of flavor."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3",
+      "notes": "About 1.5 cm each."
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup",
+      "notes": "Freshly chopped for best flavor and texture."
+    },
+    {
+      "name": "Red onion, finely diced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "2 tbsp",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 lime",
+      "notes": "Squeezed from a fresh lime for extra zest and acidity."
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, mix tahini with olive oil until well combined.",
+    "Add minced green chilies, minced garlic, diced tomatoes, and finely chopped red onion to the tahini mixture. Stir well to combine all ingredients thoroughly.",
+    "Heat some olive oil in a skillet or wok over medium heat. When hot, pour in the tahini mix.",
+    "Stir continuously for about 2-3 minutes until everything is heated through and slightly fragrant. The dish should remain raw-friendly as it does not require high heat to cook.",
+    "Remove from heat and stir in cilantro leaves and a squeeze of lime juice just before serving.",
+    "Serve immediately with tortilla chips or over rice for added texture and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raw-friendly",
+    "tahini",
+    "norteño",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "savory-juicy-raw-friendly-tahini-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-raw-friendly-tahini-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:54:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "knead",
+    "primaryIngredient": "tahini",
+    "diet": "raw",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tahini",
+    "descriptor": "savory juicy raw-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
