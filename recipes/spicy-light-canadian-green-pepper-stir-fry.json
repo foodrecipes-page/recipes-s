@@ -1,0 +1,78 @@
+{
+  "title": "Spicy Light Canadian Green Pepper Stir-fry",
+  "description": "A halal-friendly midnight-craving dish featuring spicy green peppers in a light sauce, perfect for quick and easy meals.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green Peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Chili Flake",
+      "amount": "A few pinches"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pressure cooker over medium heat.",
+    "Add minced garlic and chili flakes, stirring for about 30 seconds until fragrant but not browned.",
+    "Add green peppers and cook until slightly softened, about 2 minutes.",
+    "Pour in soy sauce and water. Stir well to combine all ingredients thoroughly.",
+    "Lock the lid on and set the pressure cooker to high pressure according to manufacturer's instructions (usually around 15-18 minutes).",
+    "Once cooking is done, allow the steam to release naturally for at least 5 minutes before safely releasing any remaining pressure."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "light",
+    "canadian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "spicy-light-canadian-green-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-light-canadian-green-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:10:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "green pepper",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Green Pepper",
+    "descriptor": "Spicy Light",
+    "dishForm": "Stir-fry"
+  }
+}
