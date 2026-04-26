@@ -1,0 +1,96 @@
+{
+  "title": "Salty Juicy Vanilla Bean Stir-fry",
+  "description": "A midnight-craving Ukrainian dish featuring vanilla beans for a unique twist, simmered to perfection and suitable for vegetarians.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vanilla beans",
+      "amount": "1-2 pods",
+      "notes": "Choose fresh or vanilla-flavored extract for those without access to real beans."
+    },
+    {
+      "name": "Pork belly or tofu",
+      "amount": "50g (or 200g of tofu)",
+      "notes": "For a more substantial meal, use pork belly. For vegetarian option, replace with firm tofu."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely for best flavor integration."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Minced to add depth of flavor."
+    },
+    {
+      "name": "Cornstarch or corn flour",
+      "amount": "A small amount, about 1tbs",
+      "notes": "For thickening the sauce if desired."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2tbsp (or tamari for gluten-free option)",
+      "notes": "Choose soy sauce based on personal preference and dietary needs."
+    },
+    {
+      "name": "Water or broth",
+      "amount": "Half a cup",
+      "notes": "Use any liquid to deglaze the pan after stir-frying."
+    },
+    {
+      "name": "Vegetable oil or ghee",
+      "amount": "1tbsp",
+      "notes": "For searing and cooking vegetables, for added flavor if desired."
+    }
+  ],
+  "instructions": [
+    "Gently heat a wok over medium-high heat and add the vegetable oil.",
+    "Add onion and garlic to the heated wok, stir-fry until softened but not browned.",
+    "If using pork belly, sear it on all sides in the wok; if using tofu, press out excess water then lightly pan-sear until golden.",
+    "Add soy sauce (or tamari), cornstarch, and enough liquid to deglaze the pan. Stir until thickened slightly.",
+    "Fold in vanilla beans along with any juices from them into the vegetables and meat/tofu mixture.",
+    "Stir-fry everything together for another 2-3 minutes until combined and heated evenly.",
+    "Serve hot as a side dish or main course, optionally garnished with fresh mint leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vanilla-bean-stir-fry",
+    "midnight-craving-ukrainian-dish",
+    "vegan-friendly",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "salty-juicy-vanilla-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-juicy-vanilla-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:48:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "simmer",
+    "primaryIngredient": "vanilla",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Vanilla Bean",
+    "descriptor": "Salty Juicy Midnight Craving",
+    "dishForm": "Stir-fry"
+  }
+}
