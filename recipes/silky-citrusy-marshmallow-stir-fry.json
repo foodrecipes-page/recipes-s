@@ -1,0 +1,84 @@
+{
+  "title": "Silky Citrusy Marshmallow Stir-fry",
+  "description": "A raw-friendly and citrusy marshmallow dish for midnight cravings, inspired by Kenyan flavors with a silky texture and perfect for snacking or dessert.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Miniature Marshmallows",
+      "amount": "20 pieces",
+      "notes": "Choose raw-friendly varieties"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tbsp",
+      "notes": "Freshly grated for maximum flavor"
+    },
+    {
+      "name": "Ginger Powder",
+      "amount": "1 tsp",
+      "notes": "Add a hint of spice and brightness"
+    },
+    {
+      "name": "Citrus Juice (lemon, orange)",
+      "amount": "3 tbsp",
+      "notes": "Choose one or mix for variety"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "For frying the marshmallows"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "To add umami and depth"
+    }
+  ],
+  "instructions": [
+    "Preheat your pan to medium heat.",
+    "Slice the miniature marshmallows into thin pieces, making sure they're raw-friendly varieties if necessary.",
+    "Add olive oil to the pan and wait until it's shimmering hot but not smoking.",
+    "Gently fry the marshmallow slices for about 30 seconds on each side or until golden brown.",
+    "Remove from heat and let them cool slightly before adding citrus zest, ginger powder, and lemon juice. Stir well to combine all ingredients evenly.",
+    "Add soy sauce and stir again until everything is fully incorporated and evenly coated with flavors.",
+    "Transfer the mixture onto a plate and serve immediately while warm for an extra burst of flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "citrusy",
+    "marshmallow",
+    "raw-friendly",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "silky-citrusy-marshmallow-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-citrusy-marshmallow-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:08:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "marshmallow",
+    "descriptor": "Citrusy Silky Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
