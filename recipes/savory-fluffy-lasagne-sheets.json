@@ -1,0 +1,86 @@
+{
+  "title": "Savory Fluffy Lasagne Sheets",
+  "description": "A delicious savory dish suitable for a solo dinner in the style of an Australian recipe featuring flaky lasagne sheets that are kneadable and halal-friendly.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lasagne Sheets",
+      "amount": "1 packet (approx. 50g)"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1/4 cup (approx. 50g)"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful, chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Place the lasagne sheets on a clean surface and sprinkle with vegetable broth. Knead the sheets gently until they are evenly moistened.",
+    "In a skillet, heat olive oil over medium-high heat. Add ground beef and sauté for about 3 minutes or until browned.",
+    "Add garlic powder, salt, and black pepper to the skillet. Stir well to combine all ingredients.",
+    "Distribute half of the seasoned meat mixture evenly on one-third of a baking sheet lined with parchment paper. Place lasagne sheets over the meat in overlapping circles.",
+    "Pour remaining 1 tablespoon of vegetable broth over the lasagne sheets.",
+    "Add more seasoning (salt, black pepper) to taste and then sprinkle chopped parsley over the top.",
+    "Bake for about 20-25 minutes or until golden brown on top. Let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "fluffy",
+    "australian-dish",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "savory-fluffy-lasagne-sheets",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fluffy-lasagne-sheets",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:51:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lasagne sheets",
+    "descriptor": "Savory Fluffy",
+    "dishForm": "Lasagne"
+  }
+}
