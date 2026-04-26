@@ -1,0 +1,92 @@
+{
+  "title": "Spicy Chewy Vietnamese Beef Stir-Fry",
+  "description": "A quick and tasty weeknight dish featuring tender beef, crisp tomatoes, and a spicy kick, perfect for those following a paleo diet.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "200g"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "Scallions (green onions)",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dashi powder or broth cube",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a wok or large skillet over medium-high heat.",
+    "Add beef strips and cook until browned, turning occasionally. Remove from wok and set aside.",
+    "In the same wok, add garlic cloves, chili flakes, and diced tomatoes. Stir-fry for about 2 minutes.",
+    "Return beef to wok with all ingredients. Add dashi powder or broth cube and fish sauce. Mix well and let simmer until liquid is absorbed, about 5-7 minutes.",
+    "Add chopped scallions (green onions) during the last minute of cooking.",
+    "Serve hot with lime wedges on side for squeezing over."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "chewy",
+    "vietnamese",
+    "beef",
+    "tomatoes",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 27,
+    "carbs": 16,
+    "fat": 22
+  },
+  "slug": "spicy-chewy-vietnamese-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-chewy-vietnamese-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:19:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Beef",
+    "descriptor": "Spicy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
