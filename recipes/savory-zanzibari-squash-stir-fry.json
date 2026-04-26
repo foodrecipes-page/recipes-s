@@ -1,0 +1,91 @@
+{
+  "title": "Savory Zanzibari Squash Stir-fry",
+  "description": "A fresh and tender Australian dish featuring galangal, a unique ingredient that adds a unique Asian flavor to this whole30-friendly meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "whole30",
+    "sous-vide"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squash",
+      "amount": "1 medium-sized",
+      "notes": "preferably acorn or butternut squash"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 sticks, peeled and minced",
+      "notes": "or use ginger if galangal is not available"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": "optional for added flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons",
+      "notes": "for marinating the squash"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste, optional"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the squash in soy sauce for at least an hour.",
+    "Preheat sous-vide to 180°F (75°C) and cook the marinated squash until tender, about 30-45 minutes.",
+    "Once cooked, remove from sous-vide machine and let it cool slightly. Slice into thin rounds.",
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add minced galangal to the hot oil and sauté for about 2 minutes until fragrant.",
+    "Add sliced squash and red pepper flakes, if using, and cook for another minute.",
+    "Stir in garlic and continue cooking until the squash is heated through, approximately 3-4 more minutes.",
+    "Season with salt to taste before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory-zanzibari",
+    "stir-fry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 13,
+    "carbs": 41,
+    "fat": 7
+  },
+  "slug": "savory-zanzibari-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-zanzibari-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:28:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "galangal",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "squash",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
