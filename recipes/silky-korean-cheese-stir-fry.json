@@ -1,0 +1,81 @@
+{
+  "title": "Silky Korean Cheese Stir-fry",
+  "description": "A fresh and silky post-workout dish featuring cheddar cheese in a diabetic-friendly version of traditional Korean dum banchan.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dum, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheddar cheese, shredded",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Ginger root, finely chopped",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Korean red pepper flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a non-stick skillet over medium-high heat.",
+    "Add minced garlic and ginger, sauté for about 2 minutes until fragrant but not browned.",
+    "Add sliced Dum and cook for an additional minute until they start to soften slightly.",
+    "Pour water into the pan with the Dum and stir-fry for a couple more minutes, allowing the Dum to absorb some of the liquid.",
+    "Stir in shredded cheddar cheese. Sprinkle Korean red pepper flakes over the top if desired and continue stirring until the cheese melts completely and everything is well combined.",
+    "Serve immediately as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "korean cheese",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "silky-korean-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-korean-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:38:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "dum",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cheese",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
