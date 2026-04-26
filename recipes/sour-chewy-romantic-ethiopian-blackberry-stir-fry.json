@@ -1,0 +1,72 @@
+{
+  "title": "Sour Chewy Romantic Ethiopian Blackberry Stir-fry",
+  "description": "A sour and chewy twist on an Ethiopian dish featuring blackberries, a perfect combination for a romantic meal.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Blackberries",
+      "amount": "200g"
+    },
+    {
+      "name": "Jaggery (or sugar-free alternative)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "150ml"
+    },
+    {
+      "name": "Olive Oil or Coconut Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the blackberries into small pieces.",
+    "In a saucepan, combine blackberries, jaggery, water, olive oil or coconut oil, and a pinch of black pepper. Stir well until all the sugar is dissolved.",
+    "Bring to a boil over medium heat, then reduce to a simmer for 10 minutes. The mixture will thicken as it cooks.",
+    "Let cool before serving as a dessert."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "chewy",
+    "romantic",
+    "etishian",
+    "blackberry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 92,
+    "protein": 0.8,
+    "carbs": 16.5,
+    "fat": 0.7
+  },
+  "slug": "sour-chewy-romantic-ethiopian-blackberry-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-romantic-ethiopian-blackberry-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:21:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "blackberries",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Blackberry",
+    "descriptor": "sour chewy romantic",
+    "dishForm": "Stir-fry"
+  }
+}
