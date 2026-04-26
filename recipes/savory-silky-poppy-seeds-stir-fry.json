@@ -1,0 +1,88 @@
+{
+  "title": "Savory Silky Poppy Seeds Stir-fry",
+  "description": "A Mediterranean-friendly savory dish featuring poppy seeds that can be prepared in a lazy Sunday afternoon.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup of poppy seeds",
+      "amount": "cup",
+      "notes": "soaked for at least an hour"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "medium-sized"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 medium carrot, julienned",
+      "amount": "one"
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": "half"
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "notes": "to season"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven at 350°F (175°C).",
+    "Drain the soaked poppy seeds and rinse them with cold water.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add onions and garlic; sauté for about 2 minutes until fragrant.",
+    "Add carrots and bell peppers to the skillet. Cook for another 3-4 minutes until slightly softened.",
+    "Deglaze the pan with lemon juice, scraping any browned bits on the bottom of the skillet. Let it reduce a little bit.",
+    "Stir in the poppy seeds, salt, and pepper. Cook for about 5 more minutes, tossing occasionally to prevent burning.",
+    "Transfer the stir-fry to a serving plate or bowl. Serve hot as a side dish with grilled chicken or fish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "silky",
+    "poppy-seeds",
+    "lazy-sunday",
+    "german-dish",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 234,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "savory-silky-poppy-seeds-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-silky-poppy-seeds-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:14:30Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "poppy seeds",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Poppy Seeds",
+    "descriptor": "Savory Silky Lazy-Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
