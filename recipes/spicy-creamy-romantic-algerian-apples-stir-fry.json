@@ -1,0 +1,95 @@
+{
+  "title": "Spicy Creamy Romantic Algerian Apples Stir-fry",
+  "description": "A low-fat-friendly, spicy and creamy dish featuring apples cooked in a Tandoor-inspired sauce with a romantic touch.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Red pepper flakes (or crushed red chili)",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Low-fat mayonnaise",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Diced fresh apple",
+      "amount": "1 medium",
+      "notes": "Sliced into thin wedges or cubes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine Greek yogurt and apple cider vinegar. Stir in ground cumin, coriander, turmeric powder, and red pepper flakes. Mix well until smooth.",
+    "Fold in low-fat mayonnaise gently to avoid breaking the creamy texture of the dish. Add salt to taste for seasoning.",
+    "Gently mix in diced fresh apple pieces, ensuring they are distributed evenly throughout the sauce.",
+    "If desired, sprinkle grated Parmesan cheese over the top before serving as a garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-apples",
+    "stir-fry",
+    "creamy-spicy",
+    "tandoor-inspired"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "spicy-creamy-romantic-algerian-apples-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-romantic-algerian-apples-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:13:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "tandoor",
+    "primaryIngredient": "apples",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Apples",
+    "descriptor": "Spicy Creamy Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
