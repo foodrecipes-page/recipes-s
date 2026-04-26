@@ -1,0 +1,73 @@
+{
+  "title": "Salty Irish Tortilla Wrap",
+  "description": "A dense and comforting dish featuring tortillas, pickled vegetables, and a touch of saltiness, perfect for breakfast or as an appetizer.",
+  "cuisine": "Irish",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 large tortilla wraps",
+      "amount": "",
+      "notes": "Make sure they are gluten-free if necessary."
+    },
+    {
+      "name": "1/4 cup pickled vegetables (such as gherkins or dill pickles, drained)",
+      "amount": "",
+      "notes": "Approximately 5-6 small pickled vegetables."
+    },
+    {
+      "name": "2 tablespoons salt",
+      "amount": "tbsp",
+      "notes": "For density and flavor."
+    },
+    {
+      "name": "Optional: Fresh herbs like parsley or chives",
+      "amount": "a few sprigs",
+      "notes": "To add freshness if desired."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the tortilla wraps on a baking sheet.",
+    "Sprinkle the salt evenly over each wrap, making sure it’s distributed well but not overwhelming.",
+    "If using fresh herbs, chop them finely and sprinkle lightly over the top of the salted tortillas for added freshness.",
+    "Bake in the preheated oven for about 5-7 minutes or until the wraps are crispy and golden.",
+    "Let cool slightly before wrapping pickled vegetables inside each wrap. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "irish-tortilla-wrap",
+    "plant-based-friendly",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "salty-irish-tortilla-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-irish-tortilla-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:06:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "tortillas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Tortilla",
+    "descriptor": "Salty",
+    "dishForm": "Wraps"
+  }
+}
