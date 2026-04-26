@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Gooey Peruvian Haddock Stir-fry",
+  "description": "A quick-fix peruvian dish featuring smoked haddock, blanching it in a gooey sauce for a smoky flavor. Suitable for Jewish dietary restrictions (Kosher).",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Haddock Fillets",
+      "amount": "12 oz",
+      "notes": "Firmly packed fillets, skin-on"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Mince finely before stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 large",
+      "notes": "Diced into thin strips, remove seeds for milder flavor"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Roasted under oven to soften and concentrate the flavors"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp",
+      "notes": "Preferably roasted before grinding for extra depth of flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "200ml",
+      "notes": "Use full-fat to achieve gooey texture"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat. Season the haddock with salt and let it sit for about a minute on each side.",
+    "In the same pan, toast cumin seeds until fragrant, around 30 seconds to 1 minute. Add garlic cloves and onion, stir-fry until translucent, adding minced peppers after one minute.",
+    "Add tomatoes along with their juices, coconut milk, salt, and pepper to taste, bring to a boil then reduce heat to low-medium and let it simmer for about 15 minutes. Stir occasionally.",
+    "Toss in the haddock fillets directly from their packaging into the sauce, allowing them to cook on both sides until golden brown and crispy. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-gooey",
+    "peruvian-stir-fry",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 17,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "smoky-gooey-peruvian-haddock-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-gooey-peruvian-haddock-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:01:34Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "blanch",
+    "primaryIngredient": "smoked haddock",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Haddock",
+    "descriptor": "Smoky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
