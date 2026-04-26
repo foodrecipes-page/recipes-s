@@ -1,0 +1,89 @@
+{
+  "title": "Salty Crumbly Brazilian Hazelnut Crumble",
+  "description": "A salty and crumbly dessert dish featuring shelled hazelnuts, perfect for a romantic date night or any evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup shelled hazelnuts",
+      "amount": "",
+      "notes": "Use roasted, skin-on nuts for extra flavor."
+    },
+    {
+      "name": "2 cups rolled oats",
+      "amount": "",
+      "notes": "High in protein and fiber."
+    },
+    {
+      "name": "1/2 cup unsweetened shredded coconut",
+      "amount": "",
+      "notes": "Adds a nice crunch without too much sweetness."
+    },
+    {
+      "name": "3/4 cup almond meal (ground almonds)",
+      "amount": "",
+      "notes": "Provides structure to the crumble and is higher in protein."
+    },
+    {
+      "name": "1/2 cup unsalted butter, melted",
+      "amount": "",
+      "notes": "Helps bind ingredients together."
+    },
+    {
+      "name": "1/4 cup brown sugar",
+      "amount": "",
+      "notes": "Sweetens the crumble without overly sweetening it."
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "",
+      "notes": "Enhances flavor and aroma."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Combine hazelnuts, rolled oats, unsweetened shredded coconut, almond meal, melted butter, brown sugar, and vanilla extract in a large bowl.",
+    "Stir until all ingredients are well combined and evenly coated with the mixture.",
+    "Press the crumble mixture into an 8x8 inch baking dish lined with parchment paper for easy removal.",
+    "Bake for 25-30 minutes or until golden brown and crispy on top. Watch closely to prevent burning.",
+    "Allow it to cool slightly before serving, as it will crisp up further upon cooling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "salty-brazilian-dessert",
+    "crumbly-dessert",
+    "date-night-food",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 16
+  },
+  "slug": "salty-crumbly-brazilian-hazelnut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crumbly-brazilian-hazelnut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:57:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Hazelnuts",
+    "descriptor": "Salty Crumbly",
+    "dishForm": "Crumble"
+  }
+}
