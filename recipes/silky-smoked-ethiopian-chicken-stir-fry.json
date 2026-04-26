@@ -1,0 +1,102 @@
+{
+  "title": "Silky Smoked Ethiopian Chicken Stir-fry",
+  "description": "An earthy and silky solo-dinner ethiopian dish featuring tender chicken thighs in a smoke-infused sauce without eggs.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 skinless bone-in chicken thighs",
+      "amount": "each",
+      "notes": "ensure safe cooking temperatures are met"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "one",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "two",
+      "notes": null
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "one",
+      "notes": null
+    },
+    {
+      "name": "1 green bell pepper, sliced",
+      "amount": "one",
+      "notes": null
+    },
+    {
+      "name": "2 medium tomatoes, diced",
+      "amount": "two",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons smoked paprika",
+      "amount": "two tablespoons",
+      "notes": "ensure safe cooking temperatures are met"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "one teaspoon",
+      "notes": "ensure safe cooking temperatures are met"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped (optional)",
+      "amount": "one quarter cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Season chicken with salt and pepper.",
+    "Place chicken on a baking sheet. Bake for about 15-20 minutes or until cooked through, turning once halfway through.",
+    "Meanwhile, in a wok or large skillet, sauté onions until translucent.",
+    "Add garlic and bell peppers; cook for an additional minute.",
+    "Stir in tomatoes, smoked paprika, cumin, and any optional fresh herbs. Simmer gently to allow flavors melding.",
+    "Return chicken to the pan with sauce, tossing gently to coat evenly.",
+    "Garnish with fresh parsley if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked",
+    "stir-fry",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 27,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "silky-smoked-ethiopian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smoked-ethiopian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:17:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "smoke",
+    "primaryIngredient": "chicken thighs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Chicken thighs",
+    "descriptor": "Silky Smoked",
+    "dishForm": "Stir-fry"
+  }
+}
