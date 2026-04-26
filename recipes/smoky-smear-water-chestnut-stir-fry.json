@@ -1,0 +1,78 @@
+{
+  "title": "Smoky Smear Water Chestnut Stir-fry",
+  "description": "An earthy and creamy crowd-pleaser from Kenya featuring smoked water chestnuts in a sugar-free-friendly stir-fry.",
+  "cuisine": "African-Kenyan",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "water chestnut",
+      "amount": "1 cup fresh or frozen"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoke seasoning blend",
+      "amount": "to taste"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "scallion greens",
+      "amount": "3-4 pieces, chopped"
+    }
+  ],
+  "instructions": [
+    "Gently steam the water chestnuts until tender.",
+    "Finely chop the garlic and scallions. Sauté them in a pan with a little bit of oil for about 2 minutes.",
+    "Add the steamed water chestnuts to the pan with the sautéed garlic and scallions, along with the soy sauce and smoke seasoning blend. Mix well.",
+    "Stir-fry the mixture until it’s heated through and slightly reduced in volume.",
+    "Fold in diced red bell pepper for added color and flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "water chestnut",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 9,
+    "carbs": 28,
+    "fat": 5
+  },
+  "slug": "smoky-smear-water-chestnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-smear-water-chestnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:03:30Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "smoke",
+    "primaryIngredient": "water chestnut",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Water Chestnut",
+    "descriptor": "Creamy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
