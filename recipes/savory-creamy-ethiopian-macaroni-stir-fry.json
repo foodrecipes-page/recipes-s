@@ -1,0 +1,93 @@
+{
+  "title": "Savory Creamy Ethiopian Macaroni Stir-fry",
+  "description": "A savory and creamy weeknight dish featuring macaroni in a flavorful poached sauce that is both jain-friendly and suitable for those with dairy allergies.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "jain-friendly",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 (minced)"
+    },
+    {
+      "name": "bell pepper, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring vegetable broth to a simmer in a pot. Add salt and pepper.",
+    "In a separate pan, heat olive oil over medium heat. Sauté garlic, onion, and bell pepper until softened.",
+    "Stir in tomato paste and cook for an additional minute, stirring constantly to prevent sticking.",
+    "Add macaroni to the pot of simmering broth, cover, and let it poach for about 8-10 minutes or until al dente.",
+    "Gently fold cooked pasta into the sauce. Cook for another 3-5 minutes to allow flavors to meld together.",
+    "Season with salt and pepper to taste before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "creamy",
+    "ethiopian",
+    "macaroni",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 7
+  },
+  "slug": "savory-creamy-ethiopian-macaroni-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-creamy-ethiopian-macaroni-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:54:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "macaroni",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Macaroni",
+    "descriptor": "Savory Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
