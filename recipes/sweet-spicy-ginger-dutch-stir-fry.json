@@ -1,0 +1,98 @@
+{
+  "title": "Sweet & Spicy Ginger Dutch Stir-fry",
+  "description": "A herbal, dense Dutch dish featuring a caramelized sugar sauce and spiced with ginger to provide a hangover cure.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chicken Breast Fillet",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Slice the onion and garlic finely.",
+    "Dice the ginger into thin strips and crush it lightly to release its flavors.",
+    "Season chicken with salt, cayenne pepper, soy sauce, water, and red pepper flakes.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add chicken first, then stir-fry until golden brown on both sides.",
+    "Add sliced onion and cook until translucent. Stir in ginger strips, garlic, and red pepper flakes.",
+    "Pour in the brown sugar and soy sauce mixture. Bring to a boil and reduce heat to low, letting the sauce thicken slightly.",
+    "Stir occasionally for about 5 minutes or until chicken is fully cooked through and sauce has thickened enough to coat the back of a spoon.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "spicy",
+    "ginger",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 416,
+    "protein": 28,
+    "carbs": 37,
+    "fat": 15
+  },
+  "slug": "sweet-spicy-ginger-dutch-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-spicy-ginger-dutch-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:47:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "ginger",
+    "descriptor": "Sweet & Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
