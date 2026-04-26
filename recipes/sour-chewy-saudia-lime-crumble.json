@@ -1,0 +1,76 @@
+{
+  "title": "Sour Chewy Saudia Lime Crumble",
+  "description": "This vegetarian-friendly crumble features unwaxed limes and is a crowd-pleaser for breakfast or dessert.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "limes",
+      "amount": "3 pcs whole"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cane sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the limes thoroughly, removing any visible wax. Cut them into wedges.",
+    "In a mixing bowl, combine sugar, cane sugar, flour, oil, and nutmeg powder. Mix until well combined.",
+    "Fold in lime wedges to create a crumbly mixture. Press it firmly between your fingers to make smaller crumbles if needed.",
+    "Preheat oven to 180°C (350°F). Line a baking dish with parchment paper.",
+    "Spread the crumble mixture evenly over the lined dish. Bake for about 25 minutes or until golden brown and crispy on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "chewy",
+    "saudia-lime-crumble"
+  ],
+  "nutrition": {
+    "calories": 387,
+    "protein": 2.9,
+    "carbs": 45.1,
+    "fat": 16.9
+  },
+  "slug": "sour-chewy-saudia-lime-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-saudia-lime-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:45:22Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Lime",
+    "descriptor": "sour chewy",
+    "dishForm": "Crumble"
+  }
+}
