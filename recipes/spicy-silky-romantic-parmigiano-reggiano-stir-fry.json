@@ -1,0 +1,95 @@
+{
+  "title": "Spicy Silky Romantic Parmigiano-reggiano Stir-fry",
+  "description": "A keto-friendly and romantic Slovakian dish featuring spicy flavors with a silky texture, made with Parmigiano-Reggiano, toasted walnuts, and other ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "1 cup grated",
+      "notes": "Ensure it's fully grated for a silky texture."
+    },
+    {
+      "name": "Spicy Italian chilli peppers",
+      "amount": "4-6, finely chopped",
+      "notes": "Can use any level of spiciness preferred."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3, minced",
+      "notes": "Optional, for extra flavor."
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2, lightly beaten",
+      "notes": "Use for a silky texture and to add richness."
+    },
+    {
+      "name": "Toasted walnuts",
+      "amount": "1/4 cup, chopped",
+      "notes": "For added crunch and depth of flavor."
+    },
+    {
+      "name": "Keto-friendly oil or butter",
+      "amount": "2 tablespoons",
+      "notes": "Any high-heat cooking fat suitable for keto."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, to taste."
+    },
+    {
+      "name": "White pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "For a touch of freshness."
+    }
+  ],
+  "instructions": [
+    "Heat the cooking fat in a skillet over medium-high heat.",
+    "Add the finely chopped spicy peppers and minced garlic (if using).",
+    "Stir-fry for about 2 minutes until fragrant.",
+    "Add grated Parmigiano-Reggiano, beaten egg whites, salt, and white pepper. Stir continuously to combine and coat with cheese.",
+    "Gradually incorporate toasted walnuts and continue stirring until everything is well-combined and heated through, around 3-5 more minutes.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "silky",
+    "romantic",
+    "slovakian",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 18,
+    "carbs": 2,
+    "fat": 26
+  },
+  "slug": "spicy-silky-romantic-parmigiano-reggiano-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-silky-romantic-parmigiano-reggiano-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:05:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "toast",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Parmigiano-reggiano",
+    "descriptor": "Spicy Silky Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
