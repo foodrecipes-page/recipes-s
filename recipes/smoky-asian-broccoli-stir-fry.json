@@ -1,0 +1,78 @@
+{
+  "title": "Smoky Asian Broccoli Stir-fry",
+  "description": "A rich and dense one-pot dish featuring broccoli with a smoky flavor profile that's low in fat but loaded with nutrients.",
+  "cuisine": "Asian",
+  "diet": [
+    "low-fat",
+    "balanced"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 large head"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Broth or water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Clean and cut the broccoli into florets.",
+    "Heat oil in a wok over medium-high heat. Add minced garlic, red pepper flakes, and cook for about 30 seconds until fragrant.",
+    "Add broccoli to the pan, tossing frequently to prevent sticking. Cook until slightly softened, about 5 minutes.",
+    "If using fish sauce, add it now and stir well. Pour broth over broccoli mixture and bring to a boil.",
+    "Reduce heat to low and simmer for an additional 3-4 minutes or until all liquid is absorbed and broccoli is tender but still crisp.",
+    "Garnish with fresh herbs like cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "asiangreens",
+    "lowfat"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 5
+  },
+  "slug": "smoky-asian-broccoli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-asian-broccoli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:54:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "broccoli",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Asian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
