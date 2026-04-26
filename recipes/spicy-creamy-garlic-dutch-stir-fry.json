@@ -1,0 +1,92 @@
+{
+  "title": "Spicy Creamy Garlic Dutch Stir-fry",
+  "description": "A low-calorie-friendly spicy and creamy hangover-cure dutch dish featuring doubanjiang to aid in digestion.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1/2 cup of Doubanjiang paste",
+      "amount": "cup",
+      "notes": "For added flavor and digestive support"
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "pieces",
+      "notes": null
+    },
+    {
+      "name": "1 onion, thinly sliced",
+      "amount": "piece",
+      "notes": null
+    },
+    {
+      "name": "2 tbsp peanut oil or low-calorie cooking spray",
+      "amount": "tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "1/4 cup heavy whipping cream",
+      "amount": "cup",
+      "notes": "For creamy texture"
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/8 tsp black pepper",
+      "amount": "teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1 tbsp fresh cilantro, chopped (optional)",
+      "amount": "tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil or cooking spray in a wok or large skillet over medium-high heat.",
+    "Add the Doubanjiang paste and minced garlic to the pan, stirring constantly for about 2 minutes until fragrant but not burnt.",
+    "Fold in the thinly sliced onion and stir-fry for another minute, adding salt and pepper according to taste.",
+    "Pour in the heavy whipping cream. Stir until it thickens slightly, adjusting seasoning as needed.",
+    "Sprinkle with chopped cilantro (if using) just before serving.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "creamy",
+    "dutch",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "spicy-creamy-garlic-dutch-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-garlic-dutch-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:58:25Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "doubanjiang",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Garlic",
+    "descriptor": "Spicy Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
