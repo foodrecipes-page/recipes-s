@@ -1,0 +1,84 @@
+{
+  "title": "Sugar-Free Crispy Teff Stir-Fry",
+  "description": "A tangy and chewy Ethiopian dish featuring ketchup to mimic the traditional spicy flavor without any added sugar.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "sugar-free",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup teff flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup almond milk",
+      "amount": "cup",
+      "notes": "use unsweetened"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "Tbsp"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 small onion, chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "piece"
+    },
+    {
+      "name": "2 green onions, finely chopped (for garnish)",
+      "amount": "pieces"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix teff flour with almond milk until smooth. Let it rest for 5 minutes.",
+    "Heat olive oil in a large pan over medium-high heat. Add minced garlic and cook for about 1 minute.",
+    "Stir in the teff mixture and bring to a boil. Reduce heat to medium and simmer for about 3-4 minutes, stirring occasionally until thickened.",
+    "Add chopped onion and red bell pepper to the pan. Cook for another 5-7 minutes or until vegetables are tender.",
+    "Taste and adjust seasoning with salt and pepper as needed. Add finely chopped green onions on top before serving.",
+    "Serve hot with a side of vegan butter sauce (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "teff-stir-fry",
+    "sugar-free-recipe",
+    "keto-diet",
+    "tangy-chewy-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "sugar-free-crispy-teff-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sugar-free-crispy-teff-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:47:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "ketchup",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Teff",
+    "descriptor": "Sugar-Free",
+    "dishForm": "Stir-fry"
+  }
+}
