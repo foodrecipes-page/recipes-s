@@ -1,0 +1,92 @@
+{
+  "title": "Sour Flaky Thai Sweet Potatoes Stir-fry",
+  "description": "This indulgent dish features sweet potatoes fried until crispy and mixed with a tangy sauce to make a perfect side or main course.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 medium-sized",
+      "notes": "Peel and slice into thin pieces"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 small",
+      "notes": "Remove seeds for less heat"
+    },
+    {
+      "name": "Thai Chilies",
+      "amount": "2-3",
+      "notes": "Choose mild to hot depending on preference"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "handful",
+      "notes": "For garnish and added freshness"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "Light soy for a touch of umami but less salty"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": "Classic Thai ingredient adds depth to the dish"
+    },
+    {
+      "name": "White Vinegar",
+      "amount": "2-3 tbsp",
+      "notes": "For acidity and tanginess"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "To balance the sourness and enhance sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Slice sweet potatoes into thin, uniform rounds.",
+    "In a small bowl, mix together soy sauce, fish sauce, white vinegar, and sugar. Stir until the sugar is fully dissolved.",
+    "Add sliced red peppers and Thai chilies to your air fryer basket with prepped sweet potato pieces. Toss to coat evenly.",
+    "Pour the marinade mixture over the vegetables and sweet potatoes, ensuring they are well coated.",
+    "Air fry for 15 minutes or until golden brown and crispy. Shake basket halfway through cooking time for even browning.",
+    "Transfer the stir-fried dish onto a serving plate and garnish with cilantro leaves before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "flaky",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "sour-flaky-thai-sweet-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-flaky-thai-sweet-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:15:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Sour Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
