@@ -1,0 +1,100 @@
+{
+  "title": "Spicy Silky Adventurous Spanish Tomato Stir-fry",
+  "description": "This Spicy Silky Adventurous Spanish Tomato Stir-fry features red pepper paste and is a savory, plant-based dish suitable for adventurous palates.",
+  "cuisine": "Spanish",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "1 small",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat.",
+    "Add red bell peppers and onions, sauté until tender. Add minced garlic and cook for another minute.",
+    "Stir in tomatoes, red pepper paste, balsamic vinegar, salt, black pepper, and chili flakes. Bring to a simmer.",
+    "Simmer for about 5-7 minutes or until the sauce has thickened slightly.",
+    "Serve hot as a side dish with crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-stir-fry",
+    "spicy-silky-adventurous",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "spicy-silky-adventurous-spanish-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-silky-adventurous-spanish-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:35:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "red pepper paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Spicy Silky Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
