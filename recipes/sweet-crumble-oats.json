@@ -1,0 +1,85 @@
+{
+  "title": "Sweet Crumble Oats",
+  "description": "A sweet and dense weeknight dish featuring gluten-free rolled oats baked with a crumble topping for a deliciously comforting meal.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Rolled Oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Honey or Maple Syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Flax Seed Meal",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Coconut Oil or Vegan Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Gluten-Free Oat Crumble Topping",
+      "notes": "Pre-made or homemade with flour, oats, sugar, and egg replacer if needed."
+    }
+  ],
+  "instructions": [
+    "Combine the Gluten-Free Rolled Oats, Almond Milk, Honey or Maple Syrup, Flax Seed Meal, Vanilla Extract, and Cinnamon in a mixing bowl. Stir well until all ingredients are fully incorporated.",
+    "Preheat your oven to 350°F (175°C). Grease an 8x8 inch baking dish with coconut oil or vegan butter.",
+    "Pour the oat mixture into the prepared baking dish and smooth it out evenly. Bake for about 25 minutes, or until the top is golden brown and firm to touch.",
+    "While the oats are baking, prepare the crumble topping. If using a store-bought crumble topping, follow the package instructions. For homemade, mix together flour, oats, sugar, and egg replacer. Add coconut oil or vegan butter and stir until it forms a cohesive mixture.",
+    "Remove from oven once the oats are done baking. Spread the prepared crumble topping evenly on top of the warm oat mixture. Allow to cool for about 10 minutes before serving.",
+    "Serve hot with your favorite toppings such as fresh fruits, whipped cream, or yogurt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "dense",
+    "gluten-free",
+    "weeknight",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "sweet-crumble-oats",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crumble-oats",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:26:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "bake",
+    "primaryIngredient": "rolled oats",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Oats",
+    "descriptor": "Sweet",
+    "dishForm": "Crumble"
+  }
+}
