@@ -1,0 +1,90 @@
+{
+  "title": "Spicy Algerian Chickpeas Stir-fry",
+  "description": "This light and crispy Spicy Algerian Chickpeas dish features gochujang for a spicy kick, ideal as an accompaniment to any meal.",
+  "cuisine": "African-Algerian",
+  "diet": [
+    "keto",
+    "alcohol-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (14 oz) chickpeas",
+      "amount": "",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp gochujang",
+      "amount": "",
+      "notes": "A Korean sweet chili paste"
+    },
+    {
+      "name": "1/4 cup chopped parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon, divided",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a non-stick skillet over medium-high heat.",
+    "Add chickpeas and garlic to the pan. Stir-fry for about 3 minutes until they start to crisp up.",
+    "Pour in gochujang, followed by lemon juice (about 1 tbsp), cumin, and smoked paprika. Mix well to combine all ingredients.",
+    "Reduce heat to medium and continue to stir-fry for another minute until everything is coated evenly with the sauce.",
+    "Add more oil if needed, then drizzle in remaining lemon juice and toss to coat again.",
+    "Taste and adjust seasonings as needed, add parsley at the end for a pop of color and freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "algerian",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "spicy-algerian-chickpeas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-algerian-chickpeas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:08:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "gochujang",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
