@@ -1,0 +1,83 @@
+{
+  "title": "Sweet Crumbly Indian Collard Crumble",
+  "description": "This sweet and crumbly dish features tender collards topped with a warm, spiced mixture that's perfect for breakfast or as a side.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup chopped fresh collard greens",
+      "amount": "",
+      "notes": "Use the tougher stems for this recipe."
+    },
+    {
+      "name": "2 tablespoons ghee or oil",
+      "amount": "",
+      "notes": "Canola or coconut would also work."
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": "Optional, to enhance flavors."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "To taste."
+    },
+    {
+      "name": "2 tablespoons granulated sugar",
+      "amount": "",
+      "notes": "To sweeten the dish."
+    },
+    {
+      "name": "1/4 teaspoon ground cardamom",
+      "amount": "",
+      "notes": "Optional, to complement the sweetness and spices."
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a non-stick skillet over medium heat.",
+    "Add collard greens to the skillet and sauté until wilted, about 5 minutes.",
+    "Sprinkle with cinnamon, salt, sugar, and cardamom if using.",
+    "Stir gently to combine all ingredients, cooking for another minute or two until slightly thickened.",
+    "Serve warm as a side dish or drizzle over yogurt for breakfast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crumbly",
+    "cozy",
+    "indian",
+    "collards",
+    "broil-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "sweet-crumbly-indian-collard-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crumbly-indian-collard-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:17:20Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "collards",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Collard",
+    "descriptor": "Sweet Crumbly",
+    "dishForm": "Crumble"
+  }
+}
