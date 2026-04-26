@@ -1,0 +1,87 @@
+{
+  "title": "Sweet and Tender Canadian Sweet Potato Stir-fry",
+  "description": "A high heat one-pot dish featuring tender sweet potatoes in a low-fat-friendly sweet and savory sauce, perfect for a quick dinner.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 medium sweet potato",
+      "amount": "peeled and cubed"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "",
+      "notes": "low sodium if necessary"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup low-sodium chicken or vegetable broth",
+      "amount": "",
+      "notes": "use water for vegan option"
+    },
+    {
+      "name": "2 tablespoons low-fat coconut milk (optional)",
+      "amount": "",
+      "notes": "for creaminess, reduce to 1 tablespoon if using soy sauce for richness"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pinch of red pepper flakes (optional)",
+      "amount": "",
+      "notes": "add for some heat"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or wok over medium-high heat.",
+    "Add cubed sweet potato to the hot pan, sprinkle with garlic and seasonings. Cook until tender, about 10 minutes, stirring occasionally.",
+    "Deglaze the pan with lime juice, then add soy sauce (and coconut milk if using) and low-sodium broth. Stir well to combine all ingredients.",
+    "Reduce heat to medium-low and simmer for another 5-7 minutes or until mixture thickens slightly and sweet potato is fully cooked.",
+    "Serve hot as a side dish or main course with steamed vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-potato-stir-fry",
+    "canadian-recipe",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 4
+  },
+  "slug": "sweet-and-tender-canadian-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-tender-canadian-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:04:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Sweet and Tender",
+    "dishForm": "Stir-fry"
+  }
+}
