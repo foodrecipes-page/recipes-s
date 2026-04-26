@@ -1,0 +1,86 @@
+{
+  "title": "Sweet Crispy German Potato Wrap",
+  "description": "This sweet and crispy German dish features a blend of harissa spice for a spicy kick, tandoor-style seasoning to give it a unique flavor profile, and is served in a light, savory wrap made from low-carb potatoes.",
+  "cuisine": "German",
+  "diet": [
+    "sweet",
+    "crispy",
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Harissa Paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Tandoori Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Basil Leaves",
+      "amount": "A few"
+    },
+    {
+      "name": "Ghee (Clarified Butter)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and boil potatoes until tender. Drain and let cool slightly.",
+    "In a mixing bowl, combine boiled potatoes, olive oil, salt, harissa paste, tandoori powder, and basil leaves.",
+    "Gently fold in ghee.",
+    "Press the potato mixture into 4-6 individual wraps using parchment paper to keep them from sticking to your hands or baking sheet.",
+    "Bake for about 20 minutes until golden brown. Serve hot with a side of yogurt or sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crispy",
+    "german",
+    "brunch-mood",
+    "low-carb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "sweet-crispy-german-potato-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crispy-german-potato-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:16:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "harissa spice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Potato",
+    "descriptor": "Sweet Crispy",
+    "dishForm": "Wrap"
+  }
+}
