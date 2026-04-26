@@ -1,0 +1,93 @@
+{
+  "title": "Smoky Brazilian Chicken Stir-fry",
+  "description": "A meal-prep friendly dish featuring high-protein chicken mixed with smoky flavors and a spicy kick from chili powder and cure for an enjoyable and chewy texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken breasts",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cure (for meat preservation)",
+      "amount": "0.5 teaspoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Scallions",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Sprinkle sesame seeds on both sides of the chicken pieces, and sprinkle red pepper flakes, chili powder, and cure evenly over each piece. Let sit for at least 15 minutes.",
+    "Season the chicken with salt and pepper before placing it in a baking dish lined with parchment paper.",
+    "Bake the chicken for about 20-25 minutes or until fully cooked (internal temperature reaches 165°F).",
+    "While the chicken is cooking, heat olive oil in a wok or large skillet over medium-high heat. Add scallions and garlic to sauté for about 2-3 minutes.",
+    "Stir-fry the tomato sauce with the remaining ingredients until it thickens slightly and becomes bubbly, about 5-7 minutes.",
+    "Remove chicken from oven and let it rest for a few minutes before slicing. Add slices of chicken into the stir-fry mixture and toss to coat evenly.",
+    "Serve hot as a main dish or alongside a side salad."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "chewy",
+    "meal-prep",
+    "brazilian-dish"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 32,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "smoky-brazilian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-brazilian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:13:03Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "chili powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
