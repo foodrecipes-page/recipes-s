@@ -1,0 +1,99 @@
+{
+  "title": "Savory Egyptian Lamb Kidney Stir-fry",
+  "description": "This lazy Sunday dish features tender lamb kidneys and dumplings in a flavorful sauce, perfect for a low-carb meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidneys",
+      "amount": "8 oz",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "dumplings",
+      "amount": "20",
+      "notes": "any type, cooked but not fried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated fresh or finely chopped dried"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add onion, garlic, ginger, and red pepper flakes. Stir-fry for about 1 minute until fragrant but not browned.",
+    "Add lamb kidneys to the wok along with salt and pepper. Stir-fry for another 3 minutes.",
+    "Pour in tomato paste and mix well. Cook for an additional 2-3 minutes or until sauce thickens slightly.",
+    "Fold dumplings into the sauce, reduce heat to medium, and let cook for about 5 more minutes.",
+    "Serve hot with rice or as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "stir-fry",
+    "lamb kidneys",
+    "dumplings",
+    "low-carb",
+    "lazy sunday"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "savory-egyptian-lamb-kidney-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-egyptian-lamb-kidney-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:38:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "lamb kidney",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb kidney",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
