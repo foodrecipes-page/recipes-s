@@ -1,0 +1,99 @@
+{
+  "title": "Sour Crunchy Australian Pork Back Ribs Stir-fry",
+  "description": "This dish is a post-workout meal featuring tender pork back ribs cooked with a tangy sauce for added flavor and crunch.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork back ribs",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Pat dry the pork with paper towels.",
+    "Season both sides of the ribs with kosher salt and black pepper.",
+    "Heat a wok or large skillet over high heat. Add olive oil, swirl to coat the pan.",
+    "Add garlic paste and stir-fry for about 30 seconds until fragrant but not browned.",
+    "Pour in soy sauce, mirin, honey, vinegar, red pepper flakes, and cornstarch water mixture (1 tablespoon water with cornstarch stirred into it). Stir to combine all ingredients.",
+    "Place the ribs in the pan and cook for 8-10 minutes on each side until browned and caramelized. The sauce should cling to the ribs.",
+    "Reduce heat to medium-high, pour remaining soy sauce over ribs while cooking, and continue stirring until thickened slightly.",
+    "Remove from heat and serve hot with steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "sour",
+    "crunchy",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 421,
+    "protein": 31,
+    "carbs": 28,
+    "fat": 17
+  },
+  "slug": "sour-crunchy-australian-pork-back-ribs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-australian-pork-back-ribs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:48:38Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "pork back ribs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Sour Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
