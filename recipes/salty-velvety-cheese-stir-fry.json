@@ -1,0 +1,91 @@
+{
+  "title": "Salty Velvety Cheese Stir-fry",
+  "description": "A show-off Japanese dish featuring vegan V Sterbottensost cheese in a salty, velvety stir-fry that combines the best of Eastern and Western flavors.",
+  "cuisine": "Vegan Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "V Sterbottensost Vegan Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 pieces, finely chopped"
+    },
+    {
+      "name": "Leaves of Green Onion (Scallion)",
+      "amount": "1 stalk, thinly sliced"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Tamari soy sauce",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Wheat starch (cornstarch)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large frying pan over medium-high heat. Add minced garlic and shallots, sautéing for about 2 minutes until fragrant.",
+    "Add sliced green onions to the pan and stir-fry for another minute.",
+    "In a small bowl, mix together rice vinegar and tamari soy sauce. Pour this mixture into the wok or frying pan with the ingredients, stirring well to combine all components.",
+    "Gradually add water and wheat starch (cornstarch) to create a creamy sauce. Cook until thickened and smooth.",
+    "Gently fold in V Sterbottensost Vegan Cheese, ensuring it melts completely and coats evenly throughout the stir-fry mixture.",
+    "Serve hot as a side dish or over cooked rice for a delicious vegan meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "salty",
+    "velvety",
+    "cheese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 601,
+    "protein": 24,
+    "carbs": 58,
+    "fat": 27
+  },
+  "slug": "salty-velvety-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-velvety-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:27:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cheese",
+    "descriptor": "salty velvety",
+    "dishForm": "Stir-fry"
+  }
+}
