@@ -1,0 +1,89 @@
+{
+  "title": "Sweet and Crispy French Corn Salad",
+  "description": "This low-sodium-friendly sweet corn salad combines the chewy texture of corn with a light dressing to create a refreshing side dish or light meal.",
+  "cuisine": "French",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "sliced sweetcorn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "croutons",
+      "amount": "2 tablespoons",
+      "notes": "lightly toasted for added crunch"
+    },
+    {
+      "name": "fresh herbs (e.g. parsley, chives)",
+      "amount": "handful",
+      "notes": "diced finely"
+    },
+    {
+      "name": "sliced lemon cucumber",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "low-sodium crumbled feta cheese",
+      "amount": "2 tablespoons",
+      "notes": "optional for added creaminess but not essential"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash the sweetcorn and slice it into small pieces.",
+    "Toast croutons until golden brown. Allow them to cool slightly before using.",
+    "In a large bowl, combine sliced sweetcorn, toasted croutons, chopped fresh herbs, diced cucumber, and crumbled feta (if using).",
+    "In a separate small bowl, mix olive oil, lemon juice, salt, and pepper together until well combined. Drizzle the dressing over the corn salad mixture.",
+    "Toss all ingredients gently to combine evenly.",
+    "Allow the salad to sit for about 10 minutes before serving to let flavors meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweetcorn",
+    "crispy",
+    "light",
+    "france"
+  ],
+  "nutrition": {
+    "calories": 237,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "sweet-and-crispy-french-corn-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-crispy-french-corn-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:41:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "sweetcorn",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "corn",
+    "descriptor": "Sweet and Crispy",
+    "dishForm": "Salad"
+  }
+}
