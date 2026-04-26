@@ -1,0 +1,83 @@
+{
+  "title": "Spicy Velvety Egyptian Turkey Stir-Fry",
+  "description": "A quick-fix egyptian dish featuring turkey ham in a spicy velvety sauce that's both tasty and jain-friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "1 lb"
+    },
+    {
+      "name": "bell peppers, red & green",
+      "amount": "2 pcs each"
+    },
+    {
+      "name": "onions",
+      "amount": "2 pcs"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan with oil and sauté onions and garlic until translucent.",
+    "Add red peppers, green peppers, and cook for another minute or two.",
+    "Push vegetables to the side of the pan and add turkey ham, cooking until browned on both sides.",
+    "Pour in tomato puree and red curry paste. Stir well to combine all ingredients.",
+    "Stir in water and bring to a boil. Reduce heat and let simmer for 10 minutes.",
+    "Add salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "stir-fry",
+    "spicy",
+    "vegan-friendly",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 24,
+    "carbs": 39,
+    "fat": 16
+  },
+  "slug": "spicy-velvety-egyptian-turkey-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-egyptian-turkey-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:26:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "simmer",
+    "primaryIngredient": "turkey ham",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Turkey",
+    "descriptor": "Spicy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
