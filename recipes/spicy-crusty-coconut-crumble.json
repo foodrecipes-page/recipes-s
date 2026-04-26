@@ -1,0 +1,77 @@
+{
+  "title": "Spicy Crusty Coconut Crumble",
+  "description": "A Mediterranean-inspired solo-dinner dish featuring shredded coconut blended with a spicy twist for a crispy texture and mediterranean-friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spice blend (e.g. cayenne pepper, smoked paprika)",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix shredded coconut, dijon mustard, spice blend, unsalted butter, and sugar until well combined.",
+    "Transfer the mixture onto a greased baking sheet. Spread it out evenly with a spatula for even cooking.",
+    "Bake in preheated oven for 20-25 minutes or until golden brown and crispy.",
+    "Remove from oven and allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crusty",
+    "coconut",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 193,
+    "protein": 3,
+    "carbs": 7.9,
+    "fat": 12
+  },
+  "slug": "spicy-crusty-coconut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crusty-coconut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:24:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "shredded coconut",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Coconut",
+    "descriptor": "Spicy",
+    "dishForm": "Crumble"
+  }
+}
