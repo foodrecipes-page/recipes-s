@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Flaky Moroccan Mars Bar Crumble",
+  "description": "A unique and adventurous take on the classic dessert Mars Bar with a smoky twist, perfect for breakfast or snack time.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dairy-Free Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dark Chocolate Chips (85% cocoa)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ground Almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Granulated Sweetener of Choice (Stevia or Agave)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1 tbsp, ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Melt the butter in a small saucepan over medium heat. Stir in chocolate chips and cook until smooth, about 2 minutes.",
+    "Remove from heat and add dark chocolate mixture into a mixing bowl. Mix in ground almonds and sweetener. Stir until well combined.",
+    "Fold in turmeric powder, coriander seeds, paprika, and a pinch of salt gently. Ensure that the ingredients are evenly distributed.",
+    "Press the mixture into an 8x8 inch baking dish lined with parchment paper for easy removal.",
+    "Bake at 350°F (175°C) for 20 minutes or until golden brown around the edges.",
+    "Allow to cool slightly before cutting into squares. Serve immediately as a delightful snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "flaky",
+    "smoky",
+    "mars bar",
+    "diy-dessert",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "smoky-flaky-moroccan-mars-bar-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-moroccan-mars-bar-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:04:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "broil",
+    "primaryIngredient": "mars bar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Smoky Flaky",
+    "dishForm": "Crumble"
+  }
+}
