@@ -1,0 +1,102 @@
+{
+  "title": "Smoky Spanish Fennel Sausages Stir-fry",
+  "description": "A festive vegan-friendly dish featuring Italian fennel sausages in a smoky sauce with tender vegetables for a perfect side or main course.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Fennel Sausages",
+      "amount": "12"
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "40g"
+    },
+    {
+      "name": "Onion",
+      "amount": "50g"
+    },
+    {
+      "name": "Bell Pepper (Red & Yellow)",
+      "amount": "80g each"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "4"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season the Italian Fennel Sausages with salt, pepper, and a pinch of cumin.",
+    "Heat olive oil in a pan over medium heat. Add sausages and cook until golden brown, about 6 minutes.",
+    "Add sliced Bok Choy, bell peppers, onions, garlic, tomato paste, balsamic vinegar, lemon juice, bay leaves, salt, and pepper to the pan with the sausages. Stir well.",
+    "Transfer the mixture to a baking dish, add more olive oil if needed, cover with foil, and bake for 15 minutes until vegetables are tender.",
+    "Serve hot as a side or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "spicy",
+    "vegan-friendly",
+    "festival"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 13,
+    "carbs": 29,
+    "fat": 15
+  },
+  "slug": "smoky-spanish-fennel-sausages-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spanish-fennel-sausages-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:39:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Fennel Sausages",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
