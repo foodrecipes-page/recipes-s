@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Fluffy Avocado Stir-fry",
+  "description": "A festive Brazilian dish featuring smoky flavors from smoked paprika and coconut cream, ideal for a low-calorie-friendly dinner option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium avocado"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup (60ml)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Blend avocado with coconut cream, smoked paprika, garlic, salt, and pepper in a blender until smooth.",
+    "Heat olive oil in a pan over medium heat. Add celery and sauté for about 2 minutes or until tender.",
+    "Add the blended avocado mixture to the pan and stir-fry for another minute.",
+    "Stir in lime juice and cook for an additional 1-2 minutes until heated through.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "fluffy",
+    "avocado",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 108,
+    "protein": 3.6,
+    "carbs": 20,
+    "fat": 5.4
+  },
+  "slug": "smoky-fluffy-avocado-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-avocado-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:34:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "coconut cream",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "avocado",
+    "descriptor": "smoky fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
