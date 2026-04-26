@@ -1,0 +1,100 @@
+{
+  "title": "Savory Thai Eggplant Stir-fry",
+  "description": "A salty and silky Thai eggplant dish that is perfect for lazy Sunday meals, featuring bicarbonate of soda as a secret ingredient to add extra texture and moisture.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat",
+    "high-protein-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium eggplant",
+      "notes": "use for a deeper flavor"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "high smoke point to avoid burning the dish"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small onion",
+      "notes": "for sweetness and color"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": "minced for flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "rich in umami and protein"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "adds a savory depth to the dish, high-protein-friendly option available"
+    },
+    {
+      "name": "lime juice",
+      "amount": "juice of 1 lime",
+      "notes": "balances out the saltiness and acidity"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": "to balance flavors and enhance sweetness in dishes"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "a pinch",
+      "notes": "helps with browning and enhances the texture of eggplant"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large frying pan over medium-high heat. Add oil and swirl to coat the bottom.",
+    "Slice the eggplant into rounds about 1/4 inch thick. Season with a pinch of bicarbonate of soda and a bit of salt for extra flavor. Toss gently in a bowl before adding them to the hot wok, ensuring they cook evenly on all sides.",
+    "Sauté the onion until translucent, then add minced garlic and cook briefly, stirring constantly to prevent burning.",
+    "Add soy sauce, fish sauce, lime juice, and sugar to the pan. Mix well with the eggplant slices, ensuring they are coated in the sauce mixture. Stir gently to distribute evenly.",
+    "Cover the wok partially and allow it to steam for about 10 minutes until most of the liquid evaporates, helping the eggplants become crispier on the outside and softer within.",
+    "Reduce heat slightly and continue to stir-fry until the eggplant is tender yet has a slight chewiness. Adjust seasoning with additional salt or sugar if necessary.",
+    "Serve hot as a side dish or over rice for an extra protein boost."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory-thai",
+    "stir-fry",
+    "low-fat-diet"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 8,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "savory-thai-eggplant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-thai-eggplant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:46:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "eggplant",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
