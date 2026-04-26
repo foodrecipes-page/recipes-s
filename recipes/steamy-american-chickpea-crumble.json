@@ -1,0 +1,78 @@
+{
+  "title": "Steamy American Chickpea Crumble",
+  "description": "A sweet and fluffy brunch dish featuring a can of chickpeas steamed to perfection with optional additions for a savory twist.",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Can of Chickpeas",
+      "amount": "1",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Half a Cup of Granola",
+      "amount": "1/2",
+      "notes": "Optional, use plain or add sweetened options"
+    },
+    {
+      "name": "A Half Teaspoon of Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "Fruit Puree (like applesauce)",
+      "amount": "1/4 cup",
+      "notes": "Optional, for extra sweetness"
+    }
+  ],
+  "instructions": [
+    "Place the drained and rinsed chickpeas in a steamer basket over boiling water.",
+    "Steam until tender, about 5-7 minutes. If using fruit puree, mix it into the chickpeas before steaming.",
+    "In a mixing bowl, combine the steamed chickpeas with half a cup of granola, 1/2 teaspoon of cinnamon, and a pinch of salt.",
+    "Mix well until all ingredients are evenly distributed. Add extra fruit puree for desired sweetness if using.",
+    "Transfer to serving plates or bowls and enjoy as is or with additional toppings like yogurt, honey, or fresh berries."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "fluffy",
+    "american",
+    "chickpea",
+    "crumble",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 52,
+    "fat": 8
+  },
+  "slug": "steamy-american-chickpea-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamy-american-chickpea-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:46:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "steam",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Steamy",
+    "dishForm": "Stir-fry"
+  }
+}
