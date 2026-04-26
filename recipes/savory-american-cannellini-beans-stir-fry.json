@@ -1,0 +1,79 @@
+{
+  "title": "Savory American Cannellini Beans Stir-fry",
+  "description": "This low-fat-friendly savory dish features crispy poached cannellini beans as the star ingredient, providing a comforting and easy-to-make meal.",
+  "cuisine": "American",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (about 14 oz) cannellini beans",
+      "amount": "",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "1 small onion, diced",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 bell pepper, sliced (any color)",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add diced onion and garlic, cook until translucent, about 5 minutes.",
+    "Add cannellini beans, bell pepper, and fresh parsley. Stir well to combine all ingredients.",
+    "Cook for an additional 3-4 minutes until the vegetables are just tender and the mixture is hot throughout.",
+    "Serve warm as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "american",
+    "vegan",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "savory-american-cannellini-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-american-cannellini-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:22:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "cannellini beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cannellini Beans",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
