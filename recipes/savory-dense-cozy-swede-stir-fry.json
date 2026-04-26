@@ -1,0 +1,89 @@
+{
+  "title": "Savory Dense Cozy Swede Stir-fry",
+  "description": "A savory and dense swede dish cooked in a cozy way with Jain-friendly ingredients that can be served as a side or light meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "1 medium",
+      "notes": "Optional to add a small amount of oil for cooking."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Stock",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Oil",
+      "amount": "A pinch for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Chop the swede, onion, and garlic into small pieces.",
+    "Heat a small amount of oil in a pressure cooker over medium heat.",
+    "Add the chopped onions to the pot, cook until translucent (about 2 minutes).",
+    "Next, add the cloves of garlic, turmeric powder, and salt. Stir well for about 30 seconds.",
+    "Pour in the vegetable stock and tomato puree, stir again, then cover with the pressure cooker lid.",
+    "Close the valve to lock the steam chamber in place. Use medium-high heat until it reaches high pressure (about 15 minutes).",
+    "Once reached, allow natural release for about 10-12 minutes before releasing all remaining pressure manually and allowing any residual steam to escape.",
+    "Serve hot with your choice of bread or as a side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "swede",
+    "stir-fry",
+    "cozy",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "savory-dense-cozy-swede-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-dense-cozy-swede-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:16:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "swede",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Swede",
+    "descriptor": "Savory Dense Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
