@@ -1,0 +1,98 @@
+{
+  "title": "Sesame Drizzled Mediterranean Avocado Salad",
+  "description": "This quick-fix paleo-friendly mediterranean dish combines the freshness of avocado with a touch of sesame oil for a unique twist on a traditional salad.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "ripe and diced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "6-8 medium",
+      "notes": "halved, lightly salted"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 small",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "30g (about 1 oz)",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small",
+      "notes": "finely chopped for a slight crunch"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "used in air frying if desired"
+    },
+    {
+      "name": "Sesame Seed Oil",
+      "amount": "1 tsp",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "for dressing the salad"
+    }
+  ],
+  "instructions": [
+    "Slice the avocado into rounds and remove the pit, then mash with a fork to desired consistency.",
+    "In a large bowl, combine mashed avocado, cherry tomatoes, cucumber slices, crumbled feta cheese, red onion, parsley, and fresh lemon juice. Mix well.",
+    "Drizzle sesame seed oil over the salad mixture and toss gently until all ingredients are evenly coated. Let sit for at least 10 minutes to allow flavors to meld together.",
+    "Before serving, drizzle additional sesame seed oil on top as desired. Garnish with extra parsley if needed."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sesame-drizzled",
+    "avocado-mediterranean",
+    "paleo-friendly",
+    "quick-fix",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "sesame-drizzled-mediterranean-avocado-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sesame-drizzled-mediterranean-avocado-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:17:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "avocado",
+    "descriptor": "Sesame Drizzled",
+    "dishForm": "Salad"
+  }
+}
