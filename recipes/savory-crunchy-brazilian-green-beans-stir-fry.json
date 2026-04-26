@@ -1,0 +1,67 @@
+{
+  "title": "Savory Crunchy Brazilian Green Beans Stir-fry",
+  "description": "A whole30-friendly and adventurous stir-fried dish featuring salty and crunchy green beans seasoned with traditional Brazilian flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Red pepper flakes (for optional heat)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Clean and trim the green beans. Rinse them thoroughly under cold water.",
+    "Heat a pan with oil over medium-high heat. Add minced garlic and red pepper flakes if using, sautéing for about 30 seconds.",
+    "Add green beans to the pan and stir-fry until they are slightly tender but still crisp, around 5-7 minutes.",
+    "Season with salt. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "green beans",
+    "stir-fry",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 2
+  },
+  "slug": "savory-crunchy-brazilian-green-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-brazilian-green-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:05:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "green beans",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Green Beans",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
