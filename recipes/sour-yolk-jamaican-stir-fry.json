@@ -1,0 +1,73 @@
+{
+  "title": "Sour Yolk Jamaican Stir-fry",
+  "description": "A sick-day-friendly dish featuring egg yolks and pickled vegetables in a tangy sauce, perfect for those with dietary restrictions.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egg Yolks",
+      "amount": "2 large eggs",
+      "notes": "Avoid using egg whites as the dish is dense and sick-day-friendly."
+    },
+    {
+      "name": "Pickled Onions or Pickles (such as Gochujang or Dill Pickle)",
+      "amount": "1 cup",
+      "notes": "Ensure these are nut-free."
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream (optional for texture adjustment)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add egg yolks to the pan and stir until they start to solidify, approximately 2-3 minutes.",
+    "Remove from heat and add pickled onions or pickles and fresh lime juice. Stir well to combine.",
+    "If needed for texture, gently fold in sour cream. Mix thoroughly to ensure consistency and flavor are evenly distributed.",
+    "Serve hot immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "sour",
+    "egg-yolk",
+    "pickled"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 5
+  },
+  "slug": "sour-yolk-jamaican-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-yolk-jamaican-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:09:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "egg yolks",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Yolk",
+    "descriptor": "Sour",
+    "dishForm": "Stir-fry"
+  }
+}
