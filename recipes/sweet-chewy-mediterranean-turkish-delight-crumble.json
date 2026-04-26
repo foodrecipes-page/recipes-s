@@ -1,0 +1,82 @@
+{
+  "title": "Sweet Chewy Mediterranean Turkish Delight Crumble",
+  "description": "A sweet and chewy Mediterranean-inspired dessert featuring Turkish delight mixed with a mediterranean-friendly crumble topping for an easy weeknight treat.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Turkish Delight",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Almonds, ground",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Flax Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Eggs, beaten",
+      "amount": "4 eggs"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together Turkish Delight, Greek Yogurt, ground almonds, honey, flax seeds, vanilla extract, and beaten eggs. Add granulated sugar and stir well.",
+    "Transfer the mixture to an ovenproof dish or pan that has been lightly greased with oil or butter.",
+    "Bake at 180°C (350°F) for about 25-30 minutes until golden brown on top and set in the center.",
+    "Let it cool slightly before serving. Garnish with additional honey if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "turkish-delight",
+    "crumble",
+    "dessert",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "sweet-chewy-mediterranean-turkish-delight-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-chewy-mediterranean-turkish-delight-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:39:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "turkish delight",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Turkish Delight",
+    "descriptor": "Sweet Chewy",
+    "dishForm": "Crumble"
+  }
+}
