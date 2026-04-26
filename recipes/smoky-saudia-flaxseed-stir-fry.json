@@ -1,0 +1,104 @@
+{
+  "title": "Smoky Saudia Flaxseed Stir-fry",
+  "description": "A comforting and light dish featuring smoky-flavored flaxseed in a nut-free-friendly stir-fry that combines aromatic spices to bring out the best flavors of Saudi Arabian cuisine.",
+  "cuisine": "Saudi Arabia",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp",
+      "notes": "For added smokiness, consider using a few drops of liquid smoke instead"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 medium bell peppers, sliced (red and yellow mixed)",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 cup flaxseed meal",
+      "amount": "cup",
+      "notes": "Ensure it is not pre-cooked or processed"
+    },
+    {
+      "name": "1 can (14 oz) diced tomatoes",
+      "amount": "can",
+      "notes": "No salt added"
+    },
+    {
+      "name": "2 tablespoons tomato paste",
+      "amount": "tbsp",
+      "notes": null
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": "tsp",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "tsp",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper (optional for extra heat)",
+      "amount": "tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and minced garlic. Sauté for about 2 minutes until softened but not browned.",
+    "Push the onions aside and add sliced bell peppers to the skillet. Stir-fry for another 3-4 minutes or until slightly softened.",
+    "Stir in the flaxseed meal, tomato paste, ground cumin, smoked paprika, and a pinch of salt (if using). Mix well with vegetables for about 1 minute, allowing the flavors to meld together.",
+    "Pour in the diced tomatoes. Stir gently so as not to break up the tomatoes too much.",
+    "Reduce heat to medium-low and let the mixture simmer for about 20-25 minutes, stirring occasionally, until most of the liquid is absorbed.",
+    "Serve hot with a side of whole-grain bread or quinoa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "saudia",
+    "flaxseed",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 327,
+    "protein": 9,
+    "carbs": 50,
+    "fat": 14
+  },
+  "slug": "smoky-saudia-flaxseed-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-saudia-flaxseed-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:19:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "flaxseed",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
