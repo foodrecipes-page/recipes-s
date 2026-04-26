@@ -1,0 +1,80 @@
+{
+  "title": "Smoky Crispy Pepperoni Stir-fry",
+  "description": "A meal-prep Chinese dish featuring smoky flavors from pepperoni and raw-friendly ingredients like dry sherry, all stir-fried to perfection.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pepperoni",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Dry Sherry",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "4 oz, sliced"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "3 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F.",
+    "In a mixing bowl, combine pepperoni, garlic, sherry, chili flakes, and olive oil. Mix well until all pieces of pepperoni are evenly coated.",
+    "Place the mixed pepperoni mixture onto a baking sheet lined with parchment paper. Bake for 10 minutes or until the pepperoni becomes crispy and golden brown.",
+    "Meanwhile, in a wok or large skillet, heat 2 tbsp of olive oil over medium-high heat. Add sliced red peppers and green onions to sauté for about 5 minutes or until they start to soften.",
+    "Add pre-cooked crispy pepperoni to the wok with vegetables and stir well. Cook for another 3-4 minutes until all ingredients are heated through.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "chewy",
+    "raw-friendly",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 31,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "smoky-crispy-pepperoni-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crispy-pepperoni-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:16:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "dry sherry",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pepperoni",
+    "descriptor": "Smoky Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
