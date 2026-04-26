@@ -1,0 +1,78 @@
+{
+  "title": "Salty-Light-Romantic Italian Masarepa Stir-fry",
+  "description": "This dish combines the lightness of masarepa with a savory touch, ideal for a romantic dinner or as an appetizer.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Masarepa (sweet Mexican bread),",
+      "amount": "100g"
+    },
+    {
+      "name": "Fresh vegetables (e.g., bell peppers, onions, cherry tomatoes),",
+      "amount": "150g total"
+    },
+    {
+      "name": "Low-sodium soy sauce or tamari,",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves,",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Olive oil,",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh herbs (e.g., parsley, basil),",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat. Add olive oil and wait until hot.",
+    "Place masarepa slices in the skillet. Sauté for about 3-4 minutes on each side or until golden brown.",
+    "Add minced garlic to the skillet, stir-fry for another minute.",
+    "Gently add chopped fresh vegetables into the skillet, mixing well with the garlic and oil mixture. Cook for an additional 5-7 minutes.",
+    "Stir in low-sodium soy sauce (or tamari), reduce heat to medium-low, then cover and cook for about 2 minutes more until the vegetables are tender but still crisp.",
+    "Sprinkle fresh herbs over the dish before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "masarepa",
+    "stir-fry",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 39,
+    "fat": 14
+  },
+  "slug": "salty-light-romantic-italian-masarepa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-light-romantic-italian-masarepa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:14:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "masarepa",
+    "descriptor": "salty-light-romantic",
+    "dishForm": "Stir-fry"
+  }
+}
