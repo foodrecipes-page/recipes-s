@@ -1,0 +1,91 @@
+{
+  "title": "Spicy Silky Raw-Friendly Slovakian Sushi Rice Stir-fry",
+  "description": "This spicy and silky raw-friendly dish features sushi rice cooked with a tadka base for a monsoon-inspired flavor profile.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup sushi rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons tamari sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons miso paste",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "clove"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup cashews, roasted and chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cucumber, julienned",
+      "amount": "medium"
+    },
+    {
+      "name": "1/4 red bell pepper, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "Lime wedges for serving",
+      "amount": null
+    },
+    {
+      "name": "Pinch of cayenne pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice and soak it in water for about 30 minutes.",
+    "Drain the soaked rice, add to a pot with 2 cups of water and bring to a boil. Reduce heat, cover, and simmer until water is absorbed (about 15-20 minutes).",
+    "While the rice simmers, combine tamari, miso, garlic, cumin, and cayenne pepper in a small pan over medium heat.",
+    "Once the rice has cooled slightly, mix in the tadka mixture, cashews, cucumber, and red bell pepper. Mix well until evenly combined and heated through (about 2-3 minutes).",
+    "Serve hot with lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "silky",
+    "raw-friendly",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 9,
+    "carbs": 38,
+    "fat": 5
+  },
+  "slug": "spicy-silky-raw-friendly-slovakian-sushi-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-silky-raw-friendly-slovakian-sushi-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:39:53Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "sushi rice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sushi rice",
+    "descriptor": "spicy silky raw-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
