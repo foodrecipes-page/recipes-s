@@ -1,0 +1,102 @@
+{
+  "title": "Silky Light Korean Stir-fry Shrimp",
+  "description": "A gluten-free-friendly umami and silky light korean dish featuring shrimp stock, sautéed with fresh vegetables for a quick and satisfying meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "100g"
+    },
+    {
+      "name": "Carrots, sliced",
+      "amount": "50g"
+    },
+    {
+      "name": "Green Onions, chopped",
+      "amount": "30g"
+    },
+    {
+      "name": "Korean Chili Garlic Paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "10g"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "50ml"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a pan over medium heat.",
+    "Add shrimp to the pan and stir-fry until pink, about 4 minutes.",
+    "Stir in Korean Chili Garlic Paste and continue cooking for an additional minute.",
+    "Add vegetable stock, carrots, green onions, ginger, soy sauce, mirin, and water. Stir well.",
+    "Bring to a boil, then reduce heat and let simmer for another 3-5 minutes until the shrimp is fully cooked.",
+    "Turn off heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky-light",
+    "umami",
+    "korean-stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 26,
+    "carbs": 14,
+    "fat": 5
+  },
+  "slug": "silky-light-korean-stir-fry-shrimp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-light-korean-stir-fry-shrimp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:44:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "shrimp stock",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Silky Light",
+    "dishForm": "Stir-fry"
+  }
+}
