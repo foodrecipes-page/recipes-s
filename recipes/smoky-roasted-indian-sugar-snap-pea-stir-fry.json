@@ -1,0 +1,91 @@
+{
+  "title": "Smoky Roasted Indian Sugar Snap Pea Stir-Fry",
+  "description": "A floral, dense, light Indian dish featuring sugar snap peas with a smoky touch, perfect for a quick and easy dinner that's kosher-friendly.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb Sugar Snap Peas",
+      "amount": "1 lb",
+      "notes": "Freshly picked for best flavor and texture."
+    },
+    {
+      "name": "2 tbsp Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Light olive oil to enhance flavors without adding heavy richness."
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": "Pinch",
+      "notes": "For a touch of umami and balance."
+    },
+    {
+      "name": "1/4 tsp Ground Cumin",
+      "amount": "1/4 tsp",
+      "notes": "Adds a warm, earthy flavor to the dish."
+    },
+    {
+      "name": "2 cloves Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Gives depth with its natural pungency."
+    },
+    {
+      "name": "Juice of 1 Lime",
+      "amount": "Juice of 1 lime",
+      "notes": "Citrus tang to cut through the richness of other ingredients."
+    },
+    {
+      "name": "1/4 tsp Ground Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "For a subtle warmth and depth in the dish."
+    },
+    {
+      "name": "Pinch of Cayenne Pepper",
+      "amount": "Pinch",
+      "notes": "A touch of heat to balance out other ingredients, not too spicy for everyone's palate."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C). Rinse and trim the sugar snap peas.",
+    "Toss the sugar snap peas with olive oil, salt, cumin, garlic, lime juice, cinnamon, and cayenne pepper in a mixing bowl until well-coated.",
+    "Spread the coated sugar snap peas evenly on a baking sheet. Roast for about 15-20 minutes or until tender and lightly crispy around the edges.",
+    "Serve hot as a side dish with any Indian-inspired main course like dal, roti, or chutney."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "sugar-snap-pea",
+    "indian-flavor",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "smoky-roasted-indian-sugar-snap-pea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-indian-sugar-snap-pea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:51:16Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Sugar Snap Peas",
+    "descriptor": "Smoke",
+    "dishForm": "Stir-fry"
+  }
+}
