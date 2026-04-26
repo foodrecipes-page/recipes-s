@@ -1,0 +1,77 @@
+{
+  "title": "Sweet and Creamy Kenyan Yams Stir-fry",
+  "description": "A festive sweet and creamy dish featuring low-calorie-friendly options for a healthy twist on traditional yam recipes with coriander.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yams",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Skim milk or low-fat milk",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "Cilantro (coriander)",
+      "amount": "1 tablespoon, chopped finely"
+    },
+    {
+      "name": "Sweetener of choice (e.g., honey or stevia drops)",
+      "amount": "1-2 teaspoons, depending on desired sweetness level"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Quarter the yams and toss with a drizzle of olive oil, salt, and pepper. Roast in the preheated oven for about 45 minutes or until tender.",
+    "In a mixing bowl, combine the roasted yam, Greek yogurt, skim milk, coriander, sweetener, and seasonings. Mix thoroughly to blend all ingredients evenly.",
+    "Spoon the mixture into individual serving bowls and garnish with additional fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-creamy",
+    "festive-kenyan-dish",
+    "low-calorie-friendly",
+    "healthy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 4.5,
+    "carbs": 16,
+    "fat": 2
+  },
+  "slug": "sweet-and-creamy-kenyan-yams-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-creamy-kenyan-yams-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:24:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "coriander",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Yams",
+    "descriptor": "Sweet and Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
