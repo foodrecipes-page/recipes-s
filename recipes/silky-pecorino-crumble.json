@@ -1,0 +1,70 @@
+{
+  "title": "Silky Pecorino Crumble",
+  "description": "An earthy and silky Peruvian dish featuring pecorino cheese, designed to satisfy a midnight craving without nuts and packed with protein.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pecorino Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Almond Milk or Coconut Milk",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Almond Flour or Gluten-Free Flour Blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Grate the pecorino cheese and mix it with almond milk, almond flour or gluten-free flour blend, and a pinch of salt.",
+    "Fold in the nut-free-friendly elements by gently stirring until you achieve a smooth crumble texture.",
+    "Line a baking sheet with parchment paper and spread out the crumble mixture evenly.",
+    "Bake for 15 minutes or until golden brown on top.",
+    "Remove from oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "dessert",
+    "nut-free",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "silky-pecorino-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-pecorino-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:49:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "pecorino",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pecorino",
+    "descriptor": "Earthy Silky Midnight",
+    "dishForm": "Crumble"
+  }
+}
