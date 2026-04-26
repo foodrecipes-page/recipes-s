@@ -1,0 +1,74 @@
+{
+  "title": "Sweet Crisp Algerian Stout Stir-fry",
+  "description": "This energizing dish combines the rich depth of an Alsatian stout with a crispy texture, perfect for breakfast or snack time.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto",
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Stout Beer (ready to serve)",
+      "amount": "1 cup",
+      "notes": "Ensure the beer is at room temperature"
+    },
+    {
+      "name": "Almonds, sliced",
+      "amount": "8 slices",
+      "notes": "Use raw or lightly toasted almonds"
+    },
+    {
+      "name": "Avocado, diced",
+      "amount": "4 oz",
+      "notes": "Choose ripe but not overripe avocados"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "amount": "1 tbsp",
+      "notes": "Optional for extra crunch and flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat. Add the ready-to-serve beer.",
+    "As soon as it starts to simmer, add the sliced almonds. Stir occasionally for about 3 minutes or until lightly golden.",
+    "Add the diced avocado and sunflower seeds (if using) to the pan with the almonds. Continue stirring for an additional 1 minute to mix in all ingredients.",
+    "Season with a pinch of salt if desired. Remove from heat immediately after adding the avocado to prevent it from turning too mushy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "stir-fry",
+    "brewed",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3.5,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "sweet-crisp-algerian-stout-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crisp-algerian-stout-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:06:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "stout",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Stout",
+    "descriptor": "Sweet Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
