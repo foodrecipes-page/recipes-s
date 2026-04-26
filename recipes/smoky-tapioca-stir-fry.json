@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Tapioca Stir-fry",
+  "description": "A fluffy, smoky Filipino dish that is perfect for a sick-day meal, featuring saffron as the main ingredient to add depth and color. This paleo-friendly stir-fry can be enjoyed at any meal time.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tapioca pearls",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "2 threads"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "ginger slices",
+      "amount": "3-5 slices"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "peanut oil or coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the tapioca pearls in cold water for at least 30 minutes to remove any grit. Drain well.",
+    "Heat a wok or large skillet over medium-high heat. Add oil and swirl to coat.",
+    "Add garlic, ginger, and saffron threads to the hot pan. Stir-fry until fragrant (about 1 minute).",
+    "Gently add the tapioca pearls to the pan. Cook for about 5-7 minutes, stirring occasionally to prevent sticking.",
+    "If using fish sauce, add it now. Add soy sauce and continue cooking for another 2 minutes or so until all ingredients are well combined and heated through.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "fluffy",
+    "sick-day",
+    "filipino",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 4
+  },
+  "slug": "smoky-tapioca-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tapioca-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:22:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "saffron",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tapioca",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
