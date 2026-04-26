@@ -1,0 +1,91 @@
+{
+  "title": "Smoky Paprika Canadian Sweet Potato Stir-fry",
+  "description": "A sweet and crispy crowd-pleaser featuring smoky paprika, steamed sweet potatoes in a nut-free-friendly stir-fry that's easy to prepare.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "Skin on for extra texture"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Shallots",
+      "amount": "4 small",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Rinse sweet potatoes and pat dry.",
+    "Slice sweet potatoes into coins about ⅛ inch thick, leaving skin on for extra texture. Season with salt and pepper.",
+    "Arrange sliced sweet potatoes in a single layer on an aluminum foil-lined baking sheet. Drizzle with olive oil and toss gently to coat evenly.",
+    "Bake in preheated oven for 15 minutes or until lightly browned and tender.",
+    "Meanwhile, mix cornstarch with water to make a slurry (a thick sauce).",
+    "Heat a wok over medium-high heat. Add shallots and garlic; stir-fry for about 2 minutes until fragrant but not browned.",
+    "Add bell peppers and remaining sweet potatoes back into the wok, stirring well to combine with vegetables.",
+    "Pour in cornstarch slurry and mix quickly to cook out excess moisture from the veggies. Cook for an additional 1-2 minutes or until sauce thickens slightly.",
+    "Toss with chopped green onions just before serving.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-paprika",
+    "nut-free-friendly",
+    "sweet-crispy"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 7,
+    "carbs": 43,
+    "fat": 8
+  },
+  "slug": "smoky-paprika-canadian-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-paprika-canadian-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:05:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "smoky paprika",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Smoky Paprika",
+    "dishForm": "Stir-fry"
+  }
+}
