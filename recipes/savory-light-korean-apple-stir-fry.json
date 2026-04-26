@@ -1,0 +1,81 @@
+{
+  "title": "Savory Light Korean Apple Stir-fry",
+  "description": "A light and savory meal-prep dish featuring a keto-friendly mix of applesauce with other vegetables and seasonings, simmered to perfection.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "apple",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/4"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp fresh grated"
+    }
+  ],
+  "instructions": [
+    "Peel, dice the apple into small cubes. Finely chop the onion and carrot.",
+    "Heat a bit of oil in a wok or large skillet over medium-high heat. Add diced onions and garlic; sauté for about 2 minutes until they start to get translucent.",
+    "Add finely chopped carrot and bell pepper. Stir-fry for another 3-4 minutes, seasoning with salt and pepper if needed.",
+    "Next, add grated ginger into the pan and stir for an additional minute.",
+    "Now, mix in diced apple cubes. Cook for about 2 more minutes until the apples are slightly softened.",
+    "Serve hot as a side dish or meal-prepped ahead of time.",
+    "Note: Adjust cooking time based on preference and don't overcook to keep it light and fresh."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "apple",
+    "stir-fry",
+    "meal-prep",
+    "light",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 37,
+    "fat": 8
+  },
+  "slug": "savory-light-korean-apple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-light-korean-apple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:17:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "applesauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "apple",
+    "descriptor": "Savory Light",
+    "dishForm": "Stir-fry"
+  }
+}
