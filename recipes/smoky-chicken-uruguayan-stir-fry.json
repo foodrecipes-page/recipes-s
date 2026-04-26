@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Chicken Uruguayan Stir-fry",
+  "description": "A tender and smoky chicken dish prepared with uruguay bouillon cubes, suitable for meal-prep and jain-friendly, featuring a perfect balance of flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "uruguay bouillon cubes",
+      "amount": "3 cubes"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 large, red and yellow mixed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the chicken into bite-sized pieces.",
+    "Dice onions and bell peppers into similar sizes as the chicken.",
+    "Peel garlic cloves, chop them finely.",
+    "Heat olive oil in a pan over medium heat. Add chopped onions and sauté until translucent.",
+    "Add the chicken and season with salt and pepper. Cook for about 5 minutes or until golden brown on all sides.",
+    "Fold in the bell peppers and continue to cook for another 3-4 minutes, allowing flavors to blend together.",
+    "Stir in garlic cubes, let it cook further for a minute or so, then add Uruguay bouillon cubes.",
+    "Simmer everything together for about 10 minutes until all liquids have been absorbed. Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "tender",
+    "uruguayan",
+    "meal-prep",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "smoky-chicken-uruguayan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chicken-uruguayan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:46:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
