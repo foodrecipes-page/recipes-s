@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Cornstarch Stir-fry",
+  "description": "A lazy-sunday Thai dish featuring cornstarch, designed to be Mediterranean-friendly with a smoky flavor for a crispy texture.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "6-8 fresh",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix cornstarch with 1/4 cup of water to create a slurry.",
+    "Heat olive oil in a pan over medium heat. Add minced garlic and onion, sauté until softened.",
+    "Add tomato paste and stir for about 2 minutes until fragrant and slightly thickened.",
+    "Pour in soy sauce and lime juice; stir well to combine.",
+    "Add cornstarch slurry gradually into the mixture while continuously stirring to avoid lumps. Cook for another minute.",
+    "Stir in chopped basil leaves, ensuring they wilt nicely without overcooking.",
+    "Serve immediately as a side dish or as part of your main meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "cornstarch",
+    "lazy-sunday",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 34,
+    "fat": 15
+  },
+  "slug": "smoky-cornstarch-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-cornstarch-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:13:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "cornstarch",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cornstarch",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
