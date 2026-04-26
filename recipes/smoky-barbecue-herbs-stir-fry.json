@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Barbecue Herbs Stir-fry",
+  "description": "A light Algerian dish featuring a blend of herbs marinated in smoky barbecue sauce, simmered until tender and juicy, making it dairy-free-friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dish",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "oregano",
+      "amount": "pinch"
+    },
+    {
+      "name": "thyme",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and slice the aubergine, onion, and tomato into bite-sized pieces.",
+    "In a bowl, mix together smoked BBQ sauce with olive oil and herbs (basil leaves, oregano, thyme).",
+    "Add salt and pepper to taste. Mix all ingredients evenly over vegetables.",
+    "Heat a pan over medium heat, add a bit of olive oil, then pour the marinade mixture into the pan.",
+    "Stir-fry until all pieces are coated in sauce and slightly softened. Adjust seasoning if needed.",
+    "Serve hot as is or with pita bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "herbs",
+    "stir-fry",
+    "algerian",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 38,
+    "fat": 12
+  },
+  "slug": "smoky-barbecue-herbs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-barbecue-herbs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:56:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Herbs",
+    "descriptor": "Juicy Smoky Barbecue",
+    "dishForm": "Stir-fry"
+  }
+}
