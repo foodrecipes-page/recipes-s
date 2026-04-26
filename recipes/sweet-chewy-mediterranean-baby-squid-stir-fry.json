@@ -1,0 +1,79 @@
+{
+  "title": "Sweet Chewy Mediterranean Baby Squid Stir-fry",
+  "description": "This sweet and chewy mediterranean dish features baby squid in a sugar-free-friendly sauce that tantalizes the midnight craving.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baby Squid",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "a few pinches, optional for heat"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "amount": "1-2 tablespoons, sugar-free version"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Basil Leaves",
+      "amount": "handful, chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Blanch the baby squid in boiling water for about 3 minutes until they turn bright white. Drain and set aside.",
+    "In a large skillet or wok, heat olive oil over medium-high heat. Add onions and garlic, sautéing until softened and translucent.",
+    "Add the blanched baby squid to the pan and toss gently with a few red pepper flakes for added flavor if desired.",
+    "Pour in the sweet chilli sauce and stir well to coat the squid evenly. Cook for another 2-3 minutes until the sauce is slightly thickened and the squid is cooked through.",
+    "Remove from heat and serve immediately, garnished with fresh basil leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-chewy",
+    "mediterranean",
+    "baby-squid-stir-fry",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "sweet-chewy-mediterranean-baby-squid-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-chewy-mediterranean-baby-squid-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:34:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "baby squid",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "baby squid",
+    "descriptor": "sweet chewy midnight craving",
+    "dishForm": "Stir-fry"
+  }
+}
