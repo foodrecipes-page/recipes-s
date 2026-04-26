@@ -1,0 +1,94 @@
+{
+  "title": "Spicy Creamy Raw Middle Eastern Steak Fillet Stir-fry",
+  "description": "A post-workout-friendly dish featuring a raw-friendly spicy and creamy preparation of steak fillet, ideal for those who enjoy bold flavors with tender results.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Steak Fillet",
+      "amount": "1 (6 oz) fillet",
+      "notes": "Thawed or chilled, preferably cooked and left to cool"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Fresh Dill Leaves",
+      "amount": "3-5 leaves"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine tomato paste, olive oil, cumin seeds, coriander powder, turmeric powder, and salt. Mix well until the mixture is smooth.",
+    "If using red pepper flakes, add to the bowl for an extra kick of heat.",
+    "Place the thawed or chilled steak fillet in a shallow container and pour the spice paste over it. Seal with plastic wrap or aluminum foil, ensuring all surfaces are covered.",
+    "Marinate in the refrigerator for at least 30 minutes to overnight, depending on preference.",
+    "Once marinated, heat olive oil in a non-stick skillet over medium-high heat. When hot, add steak fillet and cook until desired doneness is reached (usually about 2-4 minutes per side).",
+    "While the steak cooks, prepare the sauce by whisking together fresh dill leaves with remaining marinade to create a smooth sauce.",
+    "Spoon some of the prepared sauce over the cooked steak. Garnish with additional fresh dill if desired.",
+    "Serve hot immediately as a snack or as part of a meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "creamy",
+    "raw-friendly",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 9,
+    "carbs": 3,
+    "fat": 8
+  },
+  "slug": "spicy-creamy-raw-middle-eastern-steak-fillet-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-raw-middle-eastern-steak-fillet-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:00:22Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "fillet of steak",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "steak fillet",
+    "descriptor": "Spicy Creamy Raw",
+    "dishForm": "Stir-fry"
+  }
+}
