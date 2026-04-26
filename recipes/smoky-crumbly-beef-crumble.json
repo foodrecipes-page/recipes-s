@@ -1,0 +1,81 @@
+{
+  "title": "Smoky Crumbly Beef Crumble",
+  "description": "This weeknight Mediterranean dish is a blend of smoky flavors and crumbly textures, featuring tender beef cooked slowly for maximum tenderness and flavor.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck roast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1"
+    },
+    {
+      "name": "bell pepper, red and yellow, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "oregano leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Place the beef in a slow cooker. Crushed garlic cloves and chopped onions can be added to the slow cooker.",
+    "Add diced red and yellow bell peppers, chopped basil leaves, oregano leaves, and black pepper to the slow cooker. Pour in the red wine vinegar over everything.",
+    "Cook on low for 8-10 hours until tender. Remove from slow cooker before serving if needed. Serve with your choice of side dishes."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 80,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "crumble",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 26,
+    "carbs": 19,
+    "fat": 16
+  },
+  "slug": "smoky-crumbly-beef-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-beef-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:36:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "beef",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Beef",
+    "descriptor": "Smoky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
