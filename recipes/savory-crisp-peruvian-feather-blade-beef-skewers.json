@@ -1,0 +1,69 @@
+{
+  "title": "Savory Crisp Peruvian Feather Blade Beef Skewers",
+  "description": "A show-off dish featuring feather blade beef with a savory and crispy texture, sugar-free-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 pound Feather Blade Beef",
+      "amount": "1 lb",
+      "notes": "ensure meat is fully frozen and thawed as needed"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "1/4 cup finely chopped onion",
+      "amount": "1/4 C"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "Lime juice"
+    }
+  ],
+  "instructions": [
+    "Place beef on a baking sheet, brush with vegetable oil and sprinkle with onion. Season with salt and pepper.",
+    "Preheat oven to 375°F (190°C). Place skewers in the oven for 20-25 minutes or until meat is cooked through.",
+    "Squeeze lime juice over beef during last 10 minutes of cooking for added freshness and flavor.",
+    "Let rest before slicing into medallions to serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "savory",
+    "crisp",
+    "feather-blade-beef"
+  ],
+  "nutrition": {
+    "calories": 209,
+    "protein": 24,
+    "carbs": 1,
+    "fat": 6
+  },
+  "slug": "savory-crisp-peruvian-feather-blade-beef-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crisp-peruvian-feather-blade-beef-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:56:47Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "feather blade beef",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "feather blade beef",
+    "descriptor": "savory crisp",
+    "dishForm": "Skewers"
+  }
+}
