@@ -1,0 +1,92 @@
+{
+  "title": "Spicy Crunchy Beef Skewers",
+  "description": "A comforting Filipino dish featuring feather blade beef, fold in a spicy and crunchy sauce that is kosher-friendly.",
+  "cuisine": "Philippine",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Feather Blade Beef",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tablespoons",
+      "notes": "For the sauce"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For the sauce"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon",
+      "notes": "For the sauce"
+    },
+    {
+      "name": "Red Pepper Flakes (Sriracha or Crushed Red Peppers)",
+      "amount": "1 teaspoon",
+      "notes": "To add spice"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "To coat the beef skewers"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "For flavoring the beef"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "For flavoring the beef"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Combine ketchup, soy sauce, lime juice, red pepper flakes, olive oil, garlic powder, and chili powder in a bowl. Mix well until all ingredients are evenly distributed.",
+    "Prepare skewers by threading the Feather Blade Beef pieces onto metal or wooden skewers, leaving about 1 inch of space between each piece for air circulation to prevent burning.",
+    "Drizzle the prepared sauce mixture on top of the beef slices on the skewers, making sure it is well coated and evenly distributed across all surfaces.",
+    "Place the skewers directly in the oven and bake for approximately 20 minutes or until fully cooked through. Rotate the skewers halfway through cooking to ensure even browning.",
+    "Allow the Spicy Crunchy Beef Skewers to cool slightly before serving, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crunchy",
+    "filipino",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 21,
+    "carbs": 6,
+    "fat": 13
+  },
+  "slug": "spicy-crunchy-beef-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crunchy-beef-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:23:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "feather blade beef",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Beef",
+    "descriptor": "Spicy Crunchy",
+    "dishForm": "Skewers"
+  }
+}
