@@ -1,0 +1,96 @@
+{
+  "title": "Sour Crisp Keto Anchovy Crumble",
+  "description": "A show-off Italian dish featuring a unique blend of ground annatto and caramelize for an unconventional yet delicious keto-friendly snack.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Anchovy Fillets",
+      "amount": "10 ounces",
+      "notes": "Approximately 2-3 fillets per person"
+    },
+    {
+      "name": "Ground Annatto",
+      "amount": "2 tablespoons",
+      "notes": "Can be purchased pre-ground or ground fresh with a mortar and pestle"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup",
+      "notes": "For texture and sweetness"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "2 tablespoons",
+      "notes": "For added sweetness, optional"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Coat a baking sheet with cooking spray or line it with parchment paper.",
+    "Season the anchovy fillets generously with salt and pepper. Arrange them on the prepared pan, making sure they are not touching each other for proper air circulation.",
+    "Caramelize ground annatto in a small saucepan over medium heat, stirring frequently to prevent burning. Once golden brown, remove from heat and set aside.",
+    "In another bowl, mix together almond flour, coconut sugar (if using), cumin seeds, salt, and black pepper until well combined.",
+    "Press the crumble mixture evenly onto each anchovy fillet on the baking sheet. The mixture should stick to the fillets but not be too wet for good adherence.",
+    "Bake in the preheated oven for about 25-30 minutes or until the outside of the crumbles turns golden brown and crispy, watching carefully as they can burn quickly at this temperature.",
+    "Let rest for a couple of minutes before serving. Serve warm with your favorite dips like cream cheese or ranch dressing to enhance the flavor profile."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crisp",
+    "annatto",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 11.7,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "sour-crisp-keto-anchovy-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crisp-keto-anchovy-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:43:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "ground annatto",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Anchovies",
+    "descriptor": "Sour Crisp Keto",
+    "dishForm": "Crumble"
+  }
+}
