@@ -1,0 +1,67 @@
+{
+  "title": "Spicy Sizzled Canadian Sausage Wraps",
+  "description": "A salty, dense, adventurous Canadian dish featuring spicy sausage in a wrap for a snack. It's hain-friendly and uses hot sauce for a kick.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canadian sausages",
+      "amount": "8"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Toppings of your choice (e.g., lettuce, tomato, onion)",
+      "notes": "optional toppings to add variety and freshness"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat.",
+    "Slice the Canadian sausages into rounds.",
+    "Sauté the sliced sausages in the heated skillet until browned on both sides.",
+    "In a separate bowl, mix together the lime juice with any chosen toppings (e.g., chopped lettuce and tomato).",
+    "Warm the avocado slices in the skillet or in the oven until soft.",
+    "Assemble the wraps by placing a sausages slice in each wrap. Top with warm avocado and dressing of your choice.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 20",
+    "totalTimeMin: 30",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "canadian-sausage",
+    "avocado-wraps",
+    "hain-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 46,
+    "fat": 17
+  },
+  "slug": "spicy-sizzled-canadian-sausage-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-sizzled-canadian-sausage-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:36:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "hotsauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Sausage",
+    "descriptor": "Spicy Sizzled",
+    "dishForm": "Wraps"
+  }
+}
