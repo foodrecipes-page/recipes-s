@@ -1,0 +1,96 @@
+{
+  "title": "Smoky Creamy Garlic Stir-Fry",
+  "description": "A date-night dutch dish featuring smoky flavors and a creamy garlic base that's vegetarian-friendly and suitable for vegetarians.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Sherry Sauce (optional)",
+      "notes": "For added depth of flavor and umami"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Thick Mushrooms",
+      "amount": "8 oz, sliced"
+    },
+    {
+      "name": "Vegetable Stock",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a skillet over medium heat.",
+    "Add finely chopped onion and cook until translucent, about 3 minutes.",
+    "Stir in tomato paste and cook for another minute until fragrant.",
+    "Pour in heavy cream and sherry sauce (if using), reduce to simmer, then stir in fresh black pepper and sea salt.",
+    "Gently add sliced mushrooms and vegetable stock. Stir well to combine all ingredients, adjust seasoning as needed.",
+    "Simmer gently for about 5 minutes until the mixture thickens slightly.",
+    "Remove from heat and serve immediately over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "creamy",
+    "garlic",
+    "dutch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 10,
+    "carbs": 32,
+    "fat": 18
+  },
+  "slug": "smoky-creamy-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-creamy-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:26:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "garlic clove",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Garlic",
+    "descriptor": "Smoky Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
