@@ -1,0 +1,81 @@
+{
+  "title": "Spicy Light Quick-Fix Japanese Semolina Stir-fry",
+  "description": "A light and spicy Japanese dish featuring semolina flour stir-fried with tandoori spices for a gluten-free meal that's quick to prepare.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together semolina flour, chili powder, garam masala, sugar, and ginger paste. Add lemon juice and stir well.",
+    "Heat oil in a pan over medium heat. Pour the mixture into the hot pan and cook until it forms small balls which are slightly crispy on the outside.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "light",
+    "quick-fix",
+    "japanese",
+    "semolina",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "spicy-light-quick-fix-japanese-semolina-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-light-quick-fix-japanese-semolina-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:28:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "tandoor",
+    "primaryIngredient": "semolina flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Semolina Flour",
+    "descriptor": "Spicy Light Quick-Fix",
+    "dishForm": "Stir-fry"
+  }
+}
