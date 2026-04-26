@@ -1,0 +1,86 @@
+{
+  "title": "Sour Spicy Zanzibari Tomato Stir-fry",
+  "description": "A low-calorie-friendly and nostalgic Kenyan dish featuring cumin seeds, designed to be tender, bitter, and light with a sour-spicy kick.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3, minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful, chopped for garnish (optional)"
+    },
+    {
+      "name": "olive oil or coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or skillet over medium heat.",
+    "Add cumin seeds and cook until fragrant, about 1 minute.",
+    "Add onions and garlic. Sauté until onions are translucent, about 3-4 minutes.",
+    "Increase heat to high, add tomatoes with their juice (if using canned), red pepper flakes, and salt. Stir-fry for 5-7 minutes or until most of the liquid has evaporated.",
+    "Turn down heat to medium-low, add chopped cilantro if using, stirring well to combine.",
+    "Serve hot over steamed rice or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "sour-spicy",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "sour-spicy-zanzibari-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-spicy-zanzibari-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:38:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "cumin seeds",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "tomato",
+    "descriptor": "Sour Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
