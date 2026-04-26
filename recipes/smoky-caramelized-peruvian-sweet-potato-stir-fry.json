@@ -1,0 +1,107 @@
+{
+  "title": "Smoky Caramelized Peruvian Sweet Potato Stir-fry",
+  "description": "A smoky and dense low-sodium-friendly weeknight dish featuring yellow food coloring for a rich, caramelized texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "1 large",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "any color, diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "few drops",
+      "notes": "optional, for a rich caramelized look"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice sweet potatoes into rounds. Toss with olive oil and salt, then spread evenly on a baking sheet.",
+    "Bake for 20 minutes or until golden brown and crispy.",
+    "While sweet potatoes are roasting, dice bell peppers and onions. Heat a wok or large skillet over medium heat.",
+    "Add olive oil to the pan. Once hot, add cumin seeds and coriander seeds; stir-fry for about 30 seconds.",
+    "Add bell peppers and onions; sauté until slightly softened, around 5 minutes.",
+    "Stir in smoked paprika and turmeric powder. Cook for another minute.",
+    "Fold the baked sweet potatoes into the wok with the vegetables. Pour in low-sodium soy sauce evenly over all ingredients.",
+    "Mix everything well to combine flavors. Reduce heat and let simmer for about 5 minutes until most of the liquid is absorbed.",
+    "If desired, add yellow food coloring sparingly and stir gently. Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "caramelized",
+    "peruvian",
+    "sweetpotato",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "smoky-caramelized-peruvian-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-caramelized-peruvian-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:23:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "caramelize",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Smoky Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
