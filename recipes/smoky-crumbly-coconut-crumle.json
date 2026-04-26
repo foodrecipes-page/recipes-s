@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Crumbly Coconut Crumle",
+  "description": "A cozy Russian dish featuring unsweetened coconut milk in an air-fried crumbly texture, perfect for a satisfying snack or meal.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flaky salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "rice flour or cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "freshly grated ginger",
+      "amount": "a few pinches"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, butter, flaky salt, and ground cumin in a medium bowl.",
+    "Add all-purpose flour, rice flour or cornstarch, freshly grated ginger, and stir until smooth.",
+    "Heat air fryer to 200°C (390°F).",
+    "Once hot, add mixture and spread evenly into the air fryer basket. Bake for 10 minutes without opening the door.",
+    "Sprinkle coconut flakes over crumbly mixture and bake for an additional 5 minutes or until golden brown.",
+    "Remove from heat, let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crumbly",
+    "cozy-russian-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 42,
+    "fat": 22
+  },
+  "slug": "smoky-crumbly-coconut-crumle",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-coconut-crumle",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:11:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Coconut",
+    "descriptor": "Smoky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
