@@ -1,0 +1,91 @@
+{
+  "title": "Savory Crumbly Peruvian Beef Kidney Crock Pot Crumble",
+  "description": "A light and flavorful crumble made with tender beef kidneys, seasoned with traditional Peruvian spices and cooked in a slow cooker for an easy weeknight meal.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef kidneys",
+      "amount": "1 lb"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "8-10"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Pat the kidneys dry with paper towels.",
+    "Sprinkle salt, black peppercorns, cumin seeds, coriander seeds, and cayenne pepper over both sides of the kidneys. Toss to coat evenly.",
+    "Heat olive oil in a skillet over medium heat. Add the seasoned kidneys and cook until nicely browned on all sides (about 5-7 minutes per side).",
+    "Transfer kidneys to slow cooker. Pour in lime juice, and add any accumulated juices from the skillet. Stir gently.",
+    "Cook on low for 4 hours or high for 2 hours. Serve with a sprinkle of chopped cilantro over the top.",
+    "To make crumbles ahead of time, cool thoroughly before scooping into a muffin tin-lined baking dish and refrigerate overnight. Top with remaining ground cumin just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "crumbly",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 357,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 10
+  },
+  "slug": "savory-crumbly-peruvian-beef-kidney-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-peruvian-beef-kidney-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:03:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "beef kidney",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Savory Crumbly",
+    "dishForm": "Crumble"
+  }
+}
