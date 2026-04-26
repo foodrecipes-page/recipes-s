@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Roasted Canadian Lentil Crumble",
+  "description": "A savory and smoky meal-prep dish featuring green and red lentils for a raw-friendly option with flaky textures.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup Green Lentils",
+      "amount": "cup",
+      "notes": "Washed and drained"
+    },
+    {
+      "name": "1 cup Red Lentils",
+      "amount": "cup",
+      "notes": "Washed and drained"
+    },
+    {
+      "name": "3 cloves Garlic",
+      "amount": "cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "2 tbsp Olive Oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp Salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 tsp Black Pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 tsp Smoked Paprika",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "2 tbsp Fresh Parsley",
+      "amount": "tbsp",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine lentils, garlic, oil, salt, pepper, and smoked paprika in a large mixing bowl.",
+    "Stir until well combined, ensuring all lentils are coated evenly.",
+    "Transfer the mixture onto a rimmed baking sheet lined with parchment paper.",
+    "Roast in preheated oven for 20 minutes, stirring halfway through cooking time to ensure even roasting.",
+    "Remove from oven and let cool slightly before adding chopped parsley.",
+    "Stir in parsley until well combined and serve as a side dish or on its own."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-roasted",
+    "canadian-lentils",
+    "meal-prep",
+    "flaky-textures"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "smoky-roasted-canadian-lentil-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-canadian-lentil-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:44:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "green red lentils",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Crumble"
+  }
+}
