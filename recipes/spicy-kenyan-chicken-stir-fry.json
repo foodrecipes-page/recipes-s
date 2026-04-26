@@ -1,0 +1,103 @@
+{
+  "title": "Spicy Kenyan Chicken Stir-fry",
+  "description": "A tangy, tender, energizing dish featuring green chilli, roast chicken, and high-protein-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast fillets",
+      "amount": "400g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "green chillies",
+      "amount": "3-4",
+      "notes": "medium to hot"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp fresh or 2 tsp dried",
+      "notes": "for extra flavor and health benefits"
+    },
+    {
+      "name": "soya sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium if available"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced thinly for easier cooking"
+    },
+    {
+      "name": "capsicum (bell peppers)",
+      "amount": "2-3 medium-sized, sliced thickly"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "adjust to personal preference"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large wok or frying pan over medium-high heat.",
+    "Add onions and bell peppers, stir-fry for about 5 minutes until slightly softened.",
+    "Add chicken fillets and green chillies; season with salt and pepper. Stir fry until the meat is browned on all sides.",
+    "Stir in ginger paste (if using fresh), curry paste, and tomato paste. Mix well to combine.",
+    "Pour in soya sauce and stir continuously for about 2 minutes until sauce thickens slightly.",
+    "Add sliced capsicum pieces back into pan. Continue stirring till the chicken is fully cooked through.",
+    "Serve hot with steamed rice or quinoa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy-chicken",
+    "stir-fry",
+    "kikuyu-style"
+  ],
+  "nutrition": {
+    "calories": 629,
+    "protein": 37.18,
+    "carbs": 17.54,
+    "fat": 21.72
+  },
+  "slug": "spicy-kenyan-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-kenyan-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:35:59Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "green chilli",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
