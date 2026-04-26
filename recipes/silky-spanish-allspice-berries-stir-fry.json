@@ -1,0 +1,91 @@
+{
+  "title": "Silky Spanish Allspice Berries Stir-fry",
+  "description": "A meal-prep Spanish dish featuring allspice berries in a umami-rich stir-fry that's perfect for pescatarian diets and ready to eat cold or warm.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Allspice Berries",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15oz)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion Slices",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "Zucchini Slices",
+      "amount": "3 slices"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Oil (e.g. Olive Oil)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F.",
+    "Place allspice berries on a baking sheet lined with parchment paper and toss them lightly with olive oil. Roast for 10 minutes until golden brown.",
+    "Drain and rinse chickpeas, and season lightly with salt.",
+    "In a pan, heat 2 tablespoons of oil over medium-high heat. Add onion slices and cook until translucent.",
+    "Add garlic cloves and sauté for about 30 seconds until fragrant. Then add allspice berries to the pan.",
+    "Stir in chickpeas, red peppers, and zucchini slices. Cook for another 5 minutes allowing vegetables to soften slightly.",
+    "In a small bowl, mix lemon juice with remaining olive oil until emulsified. Pour over stir-fry just before serving.",
+    "Serve warm or at room temperature as a cold lunch option."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "allspice",
+    "pescatarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 16,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "silky-spanish-allspice-berries-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-spanish-allspice-berries-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:55:18Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "allspice berries",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "allspice berries",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
