@@ -1,0 +1,94 @@
+{
+  "title": "Savory Light Quick Fix Peruvian Orange Stir-fry",
+  "description": "This savory and light vegetarian-friendly dish combines the zing of fresh orange with a warming blend of spices to create a quick-fix Peruvian delicacy, perfect for those seeking an easy-to-make yet impressive meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 oz (115g) tofu",
+      "amount": "",
+      "notes": "Press to remove excess water"
+    },
+    {
+      "name": "1 medium red onion, thinly sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup (60ml) vegetable oil",
+      "amount": "",
+      "notes": "For the sous-vide"
+    },
+    {
+      "name": "1 tbsp fresh orange zest",
+      "amount": "",
+      "notes": "From 2 large oranges"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and freshly ground black pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a sous-vide machine to 60°C (140°F).",
+    "Place the tofu in the sous-vide bag with the orange zest, cumin, smoked paprika, salt, and pepper. Seal and cook for at least 3 hours or up to overnight.",
+    "Remove from sous-vide and let it cool slightly before slicing into cubes.",
+    "In a large skillet, heat oil over medium-high heat. Add onions and garlic; sauté until translucent, about 5 minutes.",
+    "Add tofu cubes to the skillet. Stir-fry for another 3-4 minutes or until golden brown on all sides.",
+    "Garnish with extra orange zest if desired before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-light",
+    "quick-fix",
+    "peruvian-orange-stir-fry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 29,
+    "fat": 14
+  },
+  "slug": "savory-light-quick-fix-peruvian-orange-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-light-quick-fix-peruvian-orange-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:35:27Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "oranges",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "orange",
+    "descriptor": "Savory Light Quick Fix",
+    "dishForm": "Stir-fry"
+  }
+}
