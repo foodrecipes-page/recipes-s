@@ -1,0 +1,95 @@
+{
+  "title": "Sour Crispy Italian Lentil Stir-fry",
+  "description": "A comforting and sour Italian dish featuring tender brown lentils, deglazed with a tangy sauce for extra flavor, and served as a side or light meal.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 cups of dried brown lentils",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup of all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "clove"
+    },
+    {
+      "name": "1/4 teaspoon red pepper flakes (optional)",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 2 limes",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons apple cider vinegar",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Freshly ground black pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and pick out any debris. Add them to a large pot with enough water (about 10 cups) to cover. Bring to a boil, then reduce heat to low and simmer until tender, about 45 minutes.",
+    "Drain the lentils, reserving some of their cooking liquid for later. Pat dry with paper towels.",
+    "In a separate pan over medium-high heat, combine the flour and olive oil. Stir until a light golden crust forms on the bottom of the pan (about 2-3 minutes).",
+    "Add the minced garlic to the flour mixture. Cook for an additional minute before removing from heat. Add in lemon juice and lime juice.",
+    "Gradually stir in apple cider vinegar, ensuring there are no lumps. Slowly add reserved lentil cooking liquid, stirring continuously to prevent sticking.",
+    "Season with salt and pepper. Mix well until the lentils are evenly coated with the tangy sauce. Adjust seasoning if necessary.",
+    "Serve hot as a side dish or use as a light meal base."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crispy",
+    "italian",
+    "lentil",
+    "stir-fry",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 14,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "sour-crispy-italian-lentil-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crispy-italian-lentil-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:01:37Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "brown lentils",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lentils",
+    "descriptor": "Sour Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
