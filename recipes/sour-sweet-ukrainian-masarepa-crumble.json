@@ -1,0 +1,79 @@
+{
+  "title": "Sour Sweet Ukrainian Masarepa Crumble",
+  "description": "A kid-friendly and raw-friendly sour sweet Ukrainian dish featuring yellow masarepa that is caramelized and served as a crumble.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil or vegetable shortening",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/2 cup (for topping)"
+    },
+    {
+      "name": "almond slivers or pecan pieces",
+      "amount": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a baking dish with coconut oil or vegetable shortening.",
+    "In a mixing bowl, combine masarepa, sugar, salt, and lemon juice. Stir until well combined and a crumbly texture forms.",
+    "Transfer the mixture into the prepared baking dish. If desired, sprinkle unsweetened shredded coconut on top of the crumble for additional flavor and texture.",
+    "Bake in preheated oven for 20-25 minutes or until golden brown and crisp on top.",
+    "Remove from oven and let it cool slightly before serving with a side of fresh lemon slices for extra sourness, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "dense",
+    "kids-friendly",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "sour-sweet-ukrainian-masarepa-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-sweet-ukrainian-masarepa-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:10:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "masarepa",
+    "descriptor": "Sour Sweet",
+    "dishForm": "Crumble"
+  }
+}
