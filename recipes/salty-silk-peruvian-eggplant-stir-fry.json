@@ -1,0 +1,85 @@
+{
+  "title": "Salty Silk Peruvian Eggplant Stir-fry",
+  "description": "A whole30-friendly, romantic Peruvian dish featuring silky eggplant and salty flavors, perfect for a light dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "Waxy type is preferred"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "2 small",
+      "notes": "Chopped into thin strips"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "juice of 1 lime"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat.",
+    "Slice the eggplant into thin rounds and lightly boil them for about 5 minutes, then drain well.",
+    "In a bowl, mix the minced garlic with olive oil. Season with salt and lime juice to taste.",
+    "Add the sliced onion and red peppers to the wok or skillet, tossing for 2-3 minutes until they start to soften.",
+    "Fold in the boiled eggplant rounds and continue stirring for another minute.",
+    "Season again with more salt if needed and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty-silk-peruvian",
+    "eggplant-stir-fry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 176,
+    "protein": 5.8,
+    "carbs": 24,
+    "fat": 8.9
+  },
+  "slug": "salty-silk-peruvian-eggplant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-silk-peruvian-eggplant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:51:21Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "eggplant",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Salty Silk",
+    "dishForm": "Stir-fry"
+  }
+}
