@@ -1,0 +1,84 @@
+{
+  "title": "Savory Velvety Norwegian Falafel Pilaf",
+  "description": "A post-workout dish featuring savory falafel blended into a creamy pilaf with high-protein-friendly options and air-fried textures.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "high-protein",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Falafel balls",
+      "amount": "8"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Sunflower seeds (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat. Add garlic and sunflower seeds if using, sauté for about 2 minutes.",
+    "Add falafel balls to the pan, tossing them gently with the garlic mixture until they start to brown evenly. Remove from heat.",
+    "In a separate bowl, mix rice with vegetable broth and almond milk. Bring to a boil, then reduce heat to low and simmer until liquid is absorbed by the rice (about 10 minutes).",
+    "Blend falafel mixture in batches with remaining ingredients until smooth and creamy. Return to pan if desired for a more velvety texture.",
+    "Stir blended falafel into pilaf sauce, reheat gently on low heat without boiling again. Taste and adjust seasoning as needed.",
+    "Serve hot as a side dish or main course over quinoa or another whole grain of your choice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "falafel",
+    "pilaf",
+    "vegan",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "savory-velvety-norwegian-falafel-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-velvety-norwegian-falafel-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:48:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "falafel",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Falafel",
+    "descriptor": "Savory Velvety",
+    "dishForm": "Pilaf"
+  }
+}
