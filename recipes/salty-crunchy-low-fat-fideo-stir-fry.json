@@ -1,0 +1,94 @@
+{
+  "title": "Salty Crunchy Low-Fat Fideo Stir-fry",
+  "description": "A comforting salty and crunchy Chinese dish featuring fideo noodles and toast pieces in a low-fat friendly sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat",
+    "satiating"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fideo noodles",
+      "amount": "200g",
+      "notes": "Soaked in warm water for 15 minutes"
+    },
+    {
+      "name": "toast cubes",
+      "amount": "100g",
+      "notes": "Toasted and finely diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3",
+      "notes": "Minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Optional for spiciness"
+    },
+    {
+      "name": "low-fat soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt to taste"
+    },
+    {
+      "name": "pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok over medium-high heat.",
+    "Add minced garlic and chili flakes (if using), stir-fry for about 1 minute until fragrant.",
+    "Add soaked fideo noodles, toast cubes, low-fat soy sauce, lime juice, salt, and pepper. Stir well to coat all ingredients evenly with the sauce.",
+    "Stir continuously for about 5 minutes or until the noodles are heated through and crispy on top.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "crunchy",
+    "comforting",
+    "chinese",
+    "fideo",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "salty-crunchy-low-fat-fideo-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crunchy-low-fat-fideo-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:07:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "toast",
+    "primaryIngredient": "fideo",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Fideo",
+    "descriptor": "Salty Crunchy Low-Fat",
+    "dishForm": "Stir-fry"
+  }
+}
