@@ -1,0 +1,81 @@
+{
+  "title": "Smoky Creamy Bramley Apple Salad",
+  "description": "A light Dutch dish featuring Smoked Bramley apples in a creamy dressing with herbs to create a low-calorie-friendly salad.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Bramley apples, smoked",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh herbs (parsley, dill)",
+      "amount": "handful each"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the smoked Bramley apples into small pieces.",
+    "Blend Greek yogurt, heavy cream, apple cider vinegar, coconut oil, salt, and pepper in a blender or food processor until smooth.",
+    "Add chopped smoked Bramley apples to the dressing mixture and mix well.",
+    "Gently fold in fresh herbs. Taste and adjust seasoning as needed.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-apple-salad",
+    "low-calorie-friendly",
+    "herbal-dutch-recipe"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "smoky-creamy-bramley-apple-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-creamy-bramley-apple-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:52:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "bramley apples",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Bramley Apples",
+    "descriptor": "Creamy Smoked",
+    "dishForm": "Salad"
+  }
+}
