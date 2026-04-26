@@ -1,0 +1,71 @@
+{
+  "title": "Savory Crunch Italian Romano Pepper Crumble",
+  "description": "A salty, flaky crowd-pleaser featuring Romano pepper and slow-cooked to perfection, making it a delightful side dish or snack.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Romano cheese",
+      "amount": "1 cup crumbled",
+      "notes": "Freshly grated Romano for best flavor"
+    },
+    {
+      "name": "Coarse sea salt",
+      "amount": "2 tablespoons",
+      "notes": "For added crunch and savory depth"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Optional, omit if nut-free is required"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "3/4 teaspoon",
+      "notes": "For a slight peppery kick without overpowering the Romano"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine crumbled Romano cheese with coarse sea salt and freshly ground black pepper.",
+    "If using Panko breadcrumbs, add them into the mixture for extra texture. Mix well until fully combined.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper or silicone mat to prevent sticking.",
+    "Bake in the preheated oven for about 15-20 minutes or until golden brown and crispy.",
+    "Remove from oven and let it cool down slightly before serving. It's best served warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "romano-pepper",
+    "slow-cook",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 284,
+    "protein": 9.7,
+    "carbs": 0,
+    "fat": 15
+  },
+  "slug": "savory-crunch-italian-romano-pepper-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunch-italian-romano-pepper-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:46:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "slow-cook",
+    "primaryIngredient": "romano pepper",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Romano Pepper",
+    "descriptor": "Savory Crunch",
+    "dishForm": "Crumble"
+  }
+}
