@@ -1,0 +1,74 @@
+{
+  "title": "Salty Indian Gelatin Leafs Stir-fry",
+  "description": "A diabetic-friendly snack with a unique blend of crispy gelatin leaves, aromatic tadka and savory spices to satisfy your midnight craving.",
+  "cuisine": "Indian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gelatin Leaves",
+      "amount": "5-10 sheets"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Urad Dal (Chickpea Flours)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small pan, heat oil and add mustard seeds. Once they start spluttering, add urad dal and sauté for about 30 seconds.",
+    "Add garam masala powder and turmeric powder to the pan, stirring continuously until fragrant and spices release their flavors (about 15-20 seconds).",
+    "Gently fold in gelatin leaves into the tadka. Stir gently so as not to break up the leaves. Cook for about 3 minutes or until heated through.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 78,
+    "protein": 3.6,
+    "carbs": 11.4,
+    "fat": 0
+  },
+  "slug": "salty-indian-gelatin-leafs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-indian-gelatin-leafs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:08:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "tadka",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Gelatin leafs",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
