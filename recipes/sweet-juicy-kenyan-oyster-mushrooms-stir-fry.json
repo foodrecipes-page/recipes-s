@@ -1,0 +1,92 @@
+{
+  "title": "Sweet & Juicy Kenyan Oyster Mushrooms Stir-fry",
+  "description": "A romantic and mediterranean-friendly twist on the traditional stir-fry featuring juicy oyster mushrooms seasoned with sweet Mediterranean spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oyster Mushrooms",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "1 tablespoon",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Clean and slice oyster mushrooms into bite-sized pieces.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add finely chopped onions and cook until translucent.",
+    "Add minced garlic and cook for another minute, stirring frequently to prevent burning.",
+    "Toss in sliced oyster mushrooms with the onions and garlic. Cook for about 5-7 minutes until they start to brown slightly.",
+    "Mix together balsamic vinegar, sugar, and red pepper flakes (if using). Pour this mixture over the mushroom mixture.",
+    "Stir well to combine all ingredients evenly. Cover and cook for an additional 3-4 minutes or until mushrooms are tender and lightly caramelized.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "kenyan",
+    "mushroom",
+    "sweet",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "sweet-juicy-kenyan-oyster-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-juicy-kenyan-oyster-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:25:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "Sweet & Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
