@@ -1,0 +1,93 @@
+{
+  "title": "Smoky Beef Argentinian Stir-fry",
+  "description": "A dense and smoky dish featuring ground beef in a rich sauce that's perfect for date nights or any night when you want to impress your guests with an authentic Argentine meal.",
+  "cuisine": "Argentine",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "200 grams",
+      "notes": "Ensure the ground beef is nut free."
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium",
+      "notes": "Chop finely for better flavor integration"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves",
+      "notes": "Crush or chop into small pieces"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Tomato",
+      "amount": "1 cup",
+      "notes": "Cherry tomatoes work well for this dish."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Minced Onion (Optional)",
+      "amount": "1 small onion, finely chopped",
+      "notes": "For extra depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add ground beef and cook until browned, breaking it up with a spatula. Remove from pan.",
+    "In the same pan, add garlic and onion (if using), sautéing for 2 minutes until fragrant.",
+    "Return ground beef to the pan along with chicken broth. Allow to simmer for about 5 minutes to let flavors meld together.",
+    "Add diced red bell pepper and chopped tomatoes. Stir well to combine all ingredients, allowing mixture to cook for an additional 5-7 minutes.",
+    "Season with salt and pepper as desired. Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-beef",
+    "argentine-stir-fry",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 386,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "smoky-beef-argentinian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-beef-argentinian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:14:07Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "ground beef",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Beef",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
