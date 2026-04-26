@@ -1,0 +1,96 @@
+{
+  "title": "Salty Creamy Showoff Mediterranean Black Beans Stir-fry",
+  "description": "A show-off mediterranean dish featuring black beans that are seasoned with salty and creamy flavors for a healthy and satisfying meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup canned black beans, rinsed and drained",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp tahini",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup roasted almonds, roughly chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the rinsed black beans with tahini, lemon juice, olive oil, red onion, garlic, and salt and pepper. Mix well.",
+    "Transfer the mixture into a skillet over medium heat. Cook for about 10 minutes until everything is heated through and flavors are melded together.",
+    "Stir in chopped almonds just before serving to keep them from getting too toasted.",
+    "Serve hot as a side dish or on its own with pita bread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "creamy",
+    "black beans",
+    "show-off",
+    "mediterranean",
+    "vegan",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "salty-creamy-showoff-mediterranean-black-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-creamy-showoff-mediterranean-black-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:31:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "black beans",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Black Beans",
+    "descriptor": "Salty Creamy Showoff",
+    "dishForm": "Stir-fry"
+  }
+}
