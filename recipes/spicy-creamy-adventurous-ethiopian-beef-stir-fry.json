@@ -1,0 +1,101 @@
+{
+  "title": "Spicy Creamy Adventurous Ethiopian Beef Stir-fry",
+  "description": "A spicy and creamy dish infused with the flavor of Ethiopian cuisine featuring raspberry jam for a touch of sweetness without added sugar.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "250g"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Raspberry Jam",
+      "amount": "2 tbsp (sugar-free)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/4 cup, diced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp (for seasoning)"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add chili powder, cumin seeds, ground cinnamon, turmeric powder, and black pepper. Stir-fry for about 1 minute until fragrant.",
+    "Add finely chopped garlic and onion; sauté until onions are translucent, about 3 minutes.",
+    "Increase heat to high, then add diced red bell pepper. Cook for an additional 2-3 minutes or until peppers are slightly softened.",
+    "Season beef with lemon juice, salt (optional), and chili powder. Add beef to the skillet; cook until browned on all sides.",
+    "Pour in raspberry jam. Stir well to combine all ingredients together. Reduce heat to medium-low and let simmer for about 5 minutes or until sauce thickens slightly.",
+    "Remove from heat and serve hot with injera bread (optional).",
+    "Enjoy your spicy and creamy Ethiopian beef stir-fry as a delicious dinner option."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy-ethiopian-beef-stir-fry",
+    "creamy-raspberry-jam",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 30,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "spicy-creamy-adventurous-ethiopian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-adventurous-ethiopian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:48:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "braise",
+    "primaryIngredient": "raspberry jam",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Beef",
+    "descriptor": "Spicy Creamy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
