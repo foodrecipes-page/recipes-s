@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Crunchy Russian Palm_Sugar Stir_fry",
+  "description": "A comforting dish featuring palm sugar with a smoky flavor and crunchy texture, perfect for breakfast or snack time.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 teaspoon",
+      "notes": "can use a bit more if desired"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3 pieces",
+      "notes": "minced finely"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece",
+      "notes": "peeled and grated fine"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "regular or low sodium, to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 teaspoon",
+      "notes": "adjust to preference"
+    },
+    {
+      "name": "ground beef or chicken breast",
+      "amount": "200 grams",
+      "notes": "minced if using ground meat"
+    },
+    {
+      "name": "egg whites",
+      "amount": "1 egg white",
+      "notes": "lightly beaten, optional for binding and texture"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add palm sugar to the skillet and stir until it melts and starts bubbling.",
+    "Add minced garlic and ginger. Stir well for about 30 seconds, allowing them to release their flavors.",
+    "Pour in tomato paste, soy sauce, and rice vinegar. Mix well and let it simmer until slightly thickened.",
+    "If using ground meat or chicken breast, add to the skillet and stir-fry until fully cooked through.",
+    "Add beaten egg whites if desired, gently folding them into the mixture for texture.",
+    "For a smoky flavor, you can lightly brush oil-coated hands over some fresh mushrooms (optional), then press onto the skillet. Stir well as they cook.",
+    "Serve hot and enjoy with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crunchy",
+    "russian",
+    "palmsugar",
+    "stir_fry"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "smoky-crunchy-russian-palm-sugar-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crunchy-russian-palm-sugar-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:04:57Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "palm sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "palm_sugar",
+    "descriptor": "Smoky Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
