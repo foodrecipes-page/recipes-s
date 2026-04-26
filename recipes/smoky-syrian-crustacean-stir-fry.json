@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Syrian Crustacean Stir-fry",
+  "description": "A low-carb-friendly smoky and juicy adventure in Syrian cuisine featuring crustaceans, stir-fried with aromatic spices for a flavorful meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "10 oz"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6, minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "4 canned, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "30g, ground"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "10g, ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add chopped onions and minced garlic to the pan, sautéing until translucent.",
+    "Fold in sliced bell peppers, salt, and black pepper. Stir fry for about 2 minutes.",
+    "Add ground coriander seeds and cumin seeds to the pot, stir-frying for another minute.",
+    "Gently toss in the diced tomatoes with a bit of liquid from cans if necessary.",
+    "Stir in shrimp, season with paprika and salt. Cover and cook until shrimp turn pinkish white (about 5 minutes).",
+    "Serve hot as a main dish or side salad.",
+    "Optional: garnish with fresh cilantro for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "crustacean",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 28,
+    "carbs": 17,
+    "fat": 23
+  },
+  "slug": "smoky-syrian-crustacean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-syrian-crustacean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:55:54Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "stir-fry",
+    "primaryIngredient": "crustaceans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Crustaceans",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
