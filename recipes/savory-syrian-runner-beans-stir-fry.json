@@ -1,0 +1,85 @@
+{
+  "title": "Savory Syrian Runner Beans Stir-fry",
+  "description": "A sour and dense one-pot Syrian dish featuring runner beans that are marinated before stir-frying for a delicious halal-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Runner Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Red Chili peppers",
+      "amount": "2-3"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Wash the runner beans and cut them into bite-sized pieces.",
+    "Peel and finely chop the onion, mince the garlic cloves, and thinly slice the chili peppers.",
+    "Heat olive oil in a wok or large frying pan over medium-high heat. Add cumin seeds and sauté until they turn light golden brown.",
+    "Add chopped onions to the pan and cook for about 3 minutes until translucent.",
+    "Stir in minced garlic and sliced red chilies, cooking for another minute until fragrant.",
+    "Gently toss the marinated runner beans into the pan. Pour in lemon juice while stirring continuously.",
+    "Cook for an additional 5-7 minutes or until the beans are tender but still crisp, adjusting seasoning as needed.",
+    "Serve hot with pita bread or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-syrian",
+    "dense-dish",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "savory-syrian-runner-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-syrian-runner-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:06:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "runner beans",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Runner Beans",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
