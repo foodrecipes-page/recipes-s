@@ -1,0 +1,87 @@
+{
+  "title": "Spicy Tender Kenyan Crustaceans Stir-fry",
+  "description": "A delicious brunch-mood dish featuring tender crustaceans in a spicy sauce, perfect for adding a flavorful twist to your breakfast.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Crustaceans (shrimp or crab meat)",
+      "amount": "200g"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Pepper Flakes (cayenne pepper)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Clean and devein the crustaceans if needed. Set aside.",
+    "In a large skillet or wok, heat olive oil over medium-high heat.",
+    "Add garlic cloves and cook for about 30 seconds until fragrant.",
+    "Deglaze the pan with chicken broth, scraping any browned bits from the bottom of the pan. Simmer to reduce slightly.",
+    "Stir in tomato sauce, red pepper flakes, and lemon juice. Adjust seasoning with salt as needed.",
+    "Add crustaceans to the skillet. Toss well until they are coated evenly with the sauce.",
+    "Cook for about 5-7 minutes or until the crustaceans are heated through and the sauce thickens slightly.",
+    "Serve hot as a side dish or on its own as a light brunch meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "tender",
+    "kenyan",
+    "crustaceans",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "spicy-tender-kenyan-crustaceans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-tender-kenyan-crustaceans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:56:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "crustaceans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Crustaceans",
+    "descriptor": "Spicy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
