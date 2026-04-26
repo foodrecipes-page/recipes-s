@@ -1,0 +1,98 @@
+{
+  "title": "Spicy Velvety Slovakian Chicken Stir-fry",
+  "description": "A hearty vegan-friendly stir-fry dish featuring chicken stock and sous-vide techniques to create a velvety texture and spicy flavor suitable for sick days.",
+  "cuisine": "Slovakian-inspired Vegan Cuisine",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sous-vide pouch (chicken)",
+      "amount": "1",
+      "notes": "prepared according to sous-vide instructions"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves (minced)",
+      "amount": "3"
+    },
+    {
+      "name": "ginger (minced)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red bell pepper strips",
+      "amount": "2 oz"
+    },
+    {
+      "name": "zucchini noodles",
+      "amount": "4 oz"
+    }
+  ],
+  "instructions": [
+    "Place sous-vide pouch in a mixing bowl, add chicken stock and simmer for about 5 minutes to meld flavors.",
+    "Mix saffron threads with reserved oil until dissolved. Stir into the broth along with red pepper flakes, lime juice, soy sauce, and minced garlic.",
+    "Add ginger, bell peppers, and zucchini noodles to the heated mixture. Simmer gently until vegetables are tender, about 5 minutes.",
+    "Garnish with fresh herbs (optional) and serve hot as a hearty dinner dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan-friendly",
+    "spicy",
+    "velvety",
+    "slovakian-inspired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "spicy-velvety-slovakian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-slovakian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:02:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "chicken stock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "spicy",
+    "dishForm": "Stir-fry"
+  }
+}
