@@ -1,0 +1,81 @@
+{
+  "title": "Sour Vietnamese Cheese Bhuna",
+  "description": "This low-calorie-friendly sour and tender Vietnamese dish features a blend of liquid cheese with a spicy bhuna sauce, perfect for a quick snack or meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "liquid cheese (e.g. paneer or cottage cheese), shredded",
+      "amount": "2 cups"
+    },
+    {
+      "name": "scallions, thinly sliced",
+      "amount": "2"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add cashews and stir for about 2 minutes until they start to brown slightly.",
+    "Pour in soy sauce and lime juice; bring to a simmer and cook for another minute, stirring occasionally.",
+    "Gently fold in shredded liquid cheese. It may take some time as it cools down the heat.",
+    "Stir in scallions and cilantro; serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "tender",
+    "vietnamese",
+    "blessed"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "sour-vietnamese-cheese-bhuna",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-vietnamese-cheese-bhuna",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:14:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "liquid cheese",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cheese",
+    "descriptor": "Sour",
+    "dishForm": "Stir-fry"
+  }
+}
