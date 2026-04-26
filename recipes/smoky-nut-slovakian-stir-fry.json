@@ -1,0 +1,114 @@
+{
+  "title": "Smoky Nut Slovakian Stir-fry",
+  "description": "A cozy smoky and juicy dish featuring nutmeg, cured meats, and Mediterranean-friendly flavors to create a comforting culinary experience.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Chops",
+      "amount": "4 pieces",
+      "notes": "About the size of your palm"
+    },
+    {
+      "name": "Cured Ham Slices",
+      "amount": "10 slices",
+      "notes": "For added smokiness and texture"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "Roasted for extra crunch"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "Shelled and lightly toasted for garnish"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped finely to enhance flavors"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves",
+      "notes": "Pressed to release flavor"
+    },
+    {
+      "name": "Minced Shallots",
+      "amount": "1/4 cup",
+      "notes": "For sweetness and depth of flavor"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "A pinch",
+      "notes": "To add a spicy kick"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": "Good for stir-frying"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For finishing the dish"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "To deglaze the pan if needed"
+    },
+    {
+      "name": "Nutmeg Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly grated for a burst of flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Pat dry the lamb chops with paper towels.",
+    "Sauté onions, minced shallots, and garlic in 1 tablespoon olive oil until softened. Season lightly with salt.",
+    "Add cayenne pepper and continue cooking for another minute until fragrant.",
+    "Deglaze pan with water, scraping up any browned bits on the bottom. Let it reduce slightly.",
+    "Transfer onions mixture to a baking dish. Top each lamb chop with 2 slices of cured ham. Sprinkle almonds evenly over them.",
+    "Bake in preheated oven for about 18-20 minutes or until internal temperature reaches 145°F (63°C) for medium-rare meat. Let rest for a few minutes before serving.",
+    "Drizzle finished lamb chops with extra virgin olive oil and garnish with shelled pistachios and freshly grated nutmeg.",
+    "Serve hot with a side of crusty bread or steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "slovakian",
+    "stir-fry",
+    "nut-meg"
+  ],
+  "nutrition": {
+    "calories": 893,
+    "protein": 47,
+    "carbs": 26,
+    "fat": 50
+  },
+  "slug": "smoky-nut-slovakian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-nut-slovakian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:34:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "nutmeg",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "nuts",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
