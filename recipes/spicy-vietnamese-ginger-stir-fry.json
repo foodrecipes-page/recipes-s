@@ -1,0 +1,100 @@
+{
+  "title": "Spicy Vietnamese Ginger Stir-fry",
+  "description": "A quick-fix Vietnamese dish featuring sweet smoked paprika and ginger, perfect for a spicy whole30-friendly meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of shredded chicken",
+      "amount": "",
+      "notes": "can be substituted with tofu or tempeh for a vegetarian option"
+    },
+    {
+      "name": "1 large onion, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves of garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 medium carrots, julienned",
+      "amount": ""
+    },
+    {
+      "name": "2 scallions, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup of sweet smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon ground white pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "1 cup of baby spinach leaves",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons of vegetable oil",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat. Add the chicken and cook until browned, about 5 minutes.",
+    "Remove chicken from the pan and set aside. Add onion to the same pan and cook until softened, about 4 minutes.",
+    "Add garlic and ginger to the pan, cooking for an additional minute. Stir in smoked paprika, white pepper, soy sauce, and lime juice. Bring to a simmer.",
+    "Return the chicken to the pan with its juices. Add carrots and scallions, tossing well until everything is heated through.",
+    "Stir in baby spinach leaves and cook just until wilted, about 1 minute.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "quick-fix",
+    "vietnamese",
+    "sweet-smoked-paprika",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 24,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "spicy-vietnamese-ginger-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-vietnamese-ginger-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:01:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "ginger",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
