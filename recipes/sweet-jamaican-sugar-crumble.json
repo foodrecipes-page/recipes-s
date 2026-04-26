@@ -1,0 +1,72 @@
+{
+  "title": "Sweet Jamaican Sugar Crumble",
+  "description": "A dense, sweet dish featuring ground sugar that is perfect for a monsoon day's snack or dessert, low-sodium-friendly and air-fried to perfection.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup granulated sugar",
+      "amount": "cup",
+      "notes": "Coarsely ground"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": "Low-sodium variety recommended"
+    },
+    {
+      "name": "1/2 cup all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tablespoon cornstarch",
+      "amount": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Mix the granulated sugar, salt, flour, and cornstarch together in a small bowl until well combined.",
+    "Transfer the mixture into an air fryer basket lined with parchment paper for easy cleanup.",
+    "Air-fry the crumble mixture for about 10 minutes or until golden brown.",
+    "Let it cool slightly before serving as a snack or dessert."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "dense",
+    "jamaican",
+    "monsoon",
+    "snack",
+    "dessert",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 28,
+    "fat": 3
+  },
+  "slug": "sweet-jamaican-sugar-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-jamaican-sugar-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:51:41Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "ground sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Sugar",
+    "descriptor": "Sweet",
+    "dishForm": "Crumble"
+  }
+}
