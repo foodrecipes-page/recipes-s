@@ -1,0 +1,78 @@
+{
+  "title": "Salty Silky Snapper Toast",
+  "description": "A savory and silky brunch dish featuring snapper fish atop toasted bread, perfect for those on a low FODMAP diet.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Snapper Fish Fillets",
+      "amount": "100g"
+    },
+    {
+      "name": "Whole Wheat Toast",
+      "amount": "4 slices",
+      "notes": "Lightly toasted to add crunch."
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Fresh Herbs (Chives and Parsley)",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the Snapper Fish Fillets into thin pieces.",
+    "Toast the Whole Wheat Toast until lightly golden brown. Season with a pinch of salt and pepper.",
+    "In a small bowl, mix together Dijon Mustard and grated Parmesan Cheese to create a creamy sauce.",
+    "Arrange each slice of Toast on a plate or serving dish.",
+    "Place fish pieces evenly over toast slices.",
+    "Pour the mustard-cheese mixture over the top of the fish.",
+    "Sprinkle fresh herbs (chives and parsley) over the entire dish for added freshness.",
+    "Bake in the preheated oven for about 10-15 minutes or until the cheese is golden and bubbly on top.",
+    "Remove from the oven, let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snapper-toast",
+    "low-fodmap-dish",
+    "salty-silky-russian"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 18,
+    "carbs": 34,
+    "fat": 14
+  },
+  "slug": "salty-silky-russian-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-silky-russian-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:03:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "snapper fish",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Snapper Fish",
+    "descriptor": "Salty Silky",
+    "dishForm": "Toast"
+  }
+}
