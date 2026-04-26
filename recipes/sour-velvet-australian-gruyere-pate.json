@@ -1,0 +1,84 @@
+{
+  "title": "Sour Velvet Australian Gruyère Pâté",
+  "description": "A velvety and tangy dessert pâté featuring smooth Gruyère cheese with a touch of sour cream for an indulgent and romantic treat, suitable for halal dietary restrictions.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "4 oz shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine sour cream and melted butter. Mix well until smooth.",
+    "Add Gruyère cheese and whisk into the sour cream mixture until combined smoothly.",
+    "Blend in heavy cream, vanilla extract, and ground cinnamon. Mix thoroughly.",
+    "Season with salt to taste. Gently fold the mixture together to avoid toughening the texture.",
+    "Transfer the mixture into a greased baking dish.",
+    "Bake for 15-20 minutes or until set. Let it cool slightly before serving.",
+    "Serve chilled as an elegant dessert pâté."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "velvety",
+    "australian",
+    "gruyère",
+    "blanch",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "sour-velvet-australian-gruyere-pate",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-velvet-australian-gruyere-pate",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:01:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "gruy re",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Gruyère",
+    "descriptor": "Sour Velvet",
+    "dishForm": "Pâté"
+  }
+}
