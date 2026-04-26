@@ -1,0 +1,88 @@
+{
+  "title": "Spicy Gooey Moroccan Turkey Neck Stir-fry",
+  "description": "An energizing moroccan dish featuring turkey neck, steamed and seasoned with spices for a spicy, gooey texture that's perfect as an evening snack or quick lunch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkey Neck",
+      "amount": "1 piece (400g)",
+      "notes": "Ensure the neck is bone-in and skin-on for added texture."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-flavored oil to avoid overpowering the spices."
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1 tablespoon",
+      "notes": "For traditional Moroccan flavors, use finely ground Garam Masala instead of regular."
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "For a spicy kick, add more or omit if preferred milder."
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1/2 tablespoon",
+      "notes": "Adds depth of flavor to the dish."
+    },
+    {
+      "name": "Coarse Salt",
+      "amount": "Pinch",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "5-6 sprigs",
+      "notes": "For garnish and added freshness."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C). Pat the turkey neck dry with paper towels.",
+    "Coat the turkey neck lightly with olive oil, sprinkle evenly with Garam Masala, red chili flakes, ground cumin, and a pinch of salt. Season generously but keep in mind the spices are potent and for less is more.",
+    "Place the seasoned turkey neck on a wire rack inside a baking dish. Drizzle any extra olive oil over it to help baste as needed during steaming process.",
+    "Bake at 375°F (190°C) for about 2 hours, or until the internal temperature of the meat reaches 145°F (63°C). Let rest for a few minutes before slicing into thin strips.",
+    "While turkey neck rests, heat another tablespoon of olive oil in a pan over medium-high heat. Stir-fry sliced parsley with remaining red chili flakes and Garam Masala until fragrant, about 2-3 minutes.",
+    "Return the baked turkey neck to the baking dish and pour the warm aromatic mixture over the meat. Toss gently to coat evenly. Serve hot garnished with fresh parsley."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 120,
+  "totalTimeMin": 165,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-gooey-moroccan",
+    "keto-friendly",
+    "moroccan-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 12,
+    "fat": 30
+  },
+  "slug": "spicy-gooey-moroccan-turkey-neck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-moroccan-turkey-neck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:26:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "steam",
+    "primaryIngredient": "turkey neck",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Turkey Neck",
+    "descriptor": "Spicy Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
