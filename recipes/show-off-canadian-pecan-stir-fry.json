@@ -1,0 +1,86 @@
+{
+  "title": "Show Off Canadian Pecan Stir-fry",
+  "description": "A rich and gooey dish featuring a sugar syrup braising technique to create a show-off Canadian pecan stir-fry that is dairy-free-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pecans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tbsp"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 cup, minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch, sliced"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat unsalted butter and canola oil in a large skillet over medium heat.",
+    "Add pecans to the skillet and stir-fry for about 5 minutes or until golden brown, stirring occasionally.",
+    "Remove pecans from the skillet and set aside. Add sugar syrup and vanilla extract to the same skillet and let it dissolve completely.",
+    "Return the pecans to the skillet with the liquid mixture and mix well to coat all nuts evenly.",
+    "Stir in minced ginger and sliced green onions until fragrant, about 1 minute.",
+    "Garnish with pomegranate seeds before serving hot as a dessert or snack."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-stir-fry",
+    "pecan-dish",
+    "sugar-syrup-braising",
+    "dairy-free-dessert"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 26
+  },
+  "slug": "show-off-canadian-pecan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-canadian-pecan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:33:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "sugar syrup",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pecans",
+    "descriptor": "Rich Gooey Show Off",
+    "dishForm": "Stir-fry"
+  }
+}
