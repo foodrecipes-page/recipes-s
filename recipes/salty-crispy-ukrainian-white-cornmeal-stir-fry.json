@@ -1,0 +1,86 @@
+{
+  "title": "Salty Crispy Ukrainian White Cornmeal Stir-fry",
+  "description": "A diabetic-friendly and post-workout friendly dish featuring salty and flaky white cornmeal stir-fried with vegetables for a quick and easy meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "3-4 green onions, sliced thinly"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add onion and garlic; sauté for about 2 minutes until fragrant.",
+    "Stir in bell pepper, green onions, cornmeal, salt, and pepper. Mix well to combine.",
+    "Cook continuously for about 5-7 minutes, stirring occasionally, until the mixture forms crispy and golden brown crumbles.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "salty",
+    "flaky",
+    "post-workout",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 36,
+    "fat": 7
+  },
+  "slug": "salty-crispy-ukrainian-white-cornmeal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crispy-ukrainian-white-cornmeal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:03:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "braise",
+    "primaryIngredient": "white cornmeal",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "White Cornmeal",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
