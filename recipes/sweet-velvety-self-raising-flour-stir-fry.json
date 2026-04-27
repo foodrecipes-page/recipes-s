@@ -1,0 +1,85 @@
+{
+  "title": "Sweet Velvety Self-Raising Flour Stir-fry",
+  "description": "This low-sodium-friendly brunch dish features a velvety sauce made from self-raising flour, ideal for creating a sweet and creamy consistency.",
+  "cuisine": "Mexican (Yucatecan)",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 cup self-raising flour",
+      "amount": "",
+      "notes": "For low sodium, opt for a gluten-free option if needed."
+    },
+    {
+      "name": "2 cups water",
+      "amount": "heated"
+    },
+    {
+      "name": "1/2 teaspoon salt (or less)",
+      "amount": "to taste"
+    },
+    {
+      "name": "1 cup unsweetened condensed milk",
+      "amount": "stirred into the flour mixture"
+    },
+    {
+      "name": "1 can diced tomatoes",
+      "amount": "chopped and drained"
+    },
+    {
+      "name": "1/2 cup finely chopped onion",
+      "amount": ""
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine self-raising flour and water. Stir to dissolve the flour into the heated water.",
+    "Add salt (to taste), unsweetened condensed milk, diced tomatoes, onion, and garlic. Stir until the mixture thickens.",
+    "Heat olive oil in a skillet over medium-high heat. Add finely chopped onions and cook until softened, about 5 minutes.",
+    "Pour the flour mixture into the skillet with the onions and stir to coat evenly. Cook for an additional 2-3 minutes or until heated through.",
+    "Remove from heat and serve hot as a side dish or alongside eggs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-flour-stir-fry",
+    "yucatecan-brunch",
+    "self-raising-flour-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "sweet-velvety-self-raising-flour-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvety-self-raising-flour-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:27:27Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "self-raising flour",
+    "diet": "low-sodium",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "self-raising flour",
+    "descriptor": "sweet",
+    "dishForm": "Stir-fry"
+  }
+}
