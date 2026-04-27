@@ -1,0 +1,84 @@
+{
+  "title": "Sour Tender Algerian Dum Stir-Fry",
+  "description": "This low-fat-friendly sour and tender dish features gelatine leafs, dum, and other essential ingredients for a sick-day meal in Algeria.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat",
+    "diabetic-friendly"
+  ],
+  "meal": "main-dish",
+  "ingredients": [
+    {
+      "name": "gelatine leafs",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "dum",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or frying pan over medium-high heat.",
+    "Add the gelatine leafs and fry until they turn brown, about 3 minutes.",
+    "Remove the gelatine from the pan using tongs, ensuring it does not stick to the pan.",
+    "Drain the dum in hot water for a minute, then rinse with cold water. Pat dry with paper towels.",
+    "Add tomato sauce and red pepper flakes into the wok with the drained dum.",
+    "Stir-fry everything together until the sauce thickens and the dum is tender but not mushy, about 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "sour-tender",
+    "greek-yeast-leaves"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "sour-tender-algerian-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-tender-algerian-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:47:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Dum",
+    "descriptor": "sour tender",
+    "dishForm": "Stir-fry"
+  }
+}
