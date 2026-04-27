@@ -1,0 +1,77 @@
+{
+  "title": "Sour Crunchy Vegan Cheese Crumble",
+  "description": "This dish combines the indulgent flavors of sour colby jack cheese with a crunchy texture for a Peruvian-style vegan treat.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegan Colby Jack Cheese, drained and crumbled",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond Milk, chilled",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Honey or Agave Nectar for sweetness",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ground Flaxseed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Toppings (optional): Sliced Jalapenos, Cilantro, Lime Juice",
+      "notes": "Adjust quantity based on preference and heat tolerance"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a bowl, mix crumbled vegan cheese with almond milk until smooth.",
+    "Add coconut oil, honey/agave nectar, and ground flaxseed into the cheese mixture. Mix well to combine.",
+    "Fold in toppings if desired.",
+    "Pour mixture onto a greased baking sheet.",
+    "Bake for 12-15 minutes or until golden brown on top.",
+    "Serve warm with additional cilantro and lime juice as garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "sour cheese crumble",
+    "peruvian vegan snack"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "sour-crunchy-vegan-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-vegan-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:39:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Sour Crunchy Vegan",
+    "dishForm": "Crumble"
+  }
+}
