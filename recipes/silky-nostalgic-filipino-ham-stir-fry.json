@@ -1,0 +1,90 @@
+{
+  "title": "Silky Nostalgic Filipino Ham Stir-fry",
+  "description": "A floral and silky low-carb-friendly dish featuring ham with a touch of nostalgia suitable for breakfast or light meals.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ham pieces",
+      "amount": "100g",
+      "notes": "preferably smoked, gluten-free and halal"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "half a piece",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2-3 sprigs",
+      "notes": "fresh is preferred but dried can be used"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "red pepper flakes (suggested for heat)",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C) and lightly season the ham pieces with salt and black pepper.",
+    "Place the seasoned ham on a baking sheet, bake for about 12-15 minutes until golden brown and crispy. Remove from oven and let cool slightly.",
+    "Heat up some oil in a non-stick pan over medium heat. Add finely chopped onion and sauté for about 3 minutes or until translucent.",
+    "Add the grated ginger to the pan and stir-fry for another minute, allowing it to release its aroma and soften.",
+    "Add cherry tomatoes (halved), green bell pepper pieces (if using whole peppers, chop them into small cubes), and red pepper flakes. Stir well and cook for 2-3 minutes until slightly softened.",
+    "Push the tomato-pepper mixture towards one side of the pan, making space at the other end. Add cooled ham pieces on top of the vegetables. Cook for about a minute to meld flavors together.",
+    "Sprinkle fresh basil leaves over the top and gently fold them into the dish. Let everything cook in the pan for another 1-2 minutes until all ingredients are heated through.",
+    "Remove from heat immediately after adding the basil leaves, as they can wilt easily with prolonged cooking time."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-stir-fry",
+    "ham-dish",
+    "low-carb",
+    "nachismo"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 27,
+    "carbs": 10,
+    "fat": 19
+  },
+  "slug": "silky-nostalgic-filipino-ham-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-nostalgic-filipino-ham-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:03:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "boil",
+    "primaryIngredient": "ham",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Ham",
+    "descriptor": "Silky Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
