@@ -1,0 +1,63 @@
+{
+  "title": "Sweet And Light Chinese Prune Stir-fry",
+  "description": "This kid-friendly pruney dish is sweet and light, perfect for a quick snack or side dish. Made with poached prunes and no nuts.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup pitted prunes",
+      "amount": "cup",
+      "notes": "ensure prunes are fresh"
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Place prunes in a small saucepan, cover with water and add a pinch of salt.",
+    "Heat to boiling, reduce heat to simmer for about 15 minutes until soft. Strain and set aside.",
+    "In a skillet or wok, warm honey over medium heat.",
+    "Fold in poached prunes and mix well.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-light",
+    "kid-friendly-prune-stir-fry",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 109,
+    "protein": 0.7,
+    "carbs": 24.3,
+    "fat": 0.5
+  },
+  "slug": "sweet-and-light-chinese-prune-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-light-chinese-prune-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:31:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "prunes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "prune",
+    "descriptor": "Sweet And Light",
+    "dishForm": "Stir-fry"
+  }
+}
