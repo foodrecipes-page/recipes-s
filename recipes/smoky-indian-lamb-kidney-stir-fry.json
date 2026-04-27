@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Indian Lamb Kidney Stir-fry",
+  "description": "A smoky and juicy Indian dish featuring lamb kidneys that is sugar-free-friendly.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh cilantro",
+      "amount": "",
+      "notes": "Fresh leaves, stems can be used"
+    },
+    {
+      "name": "2 tbsp garam masala powder",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "300g lamb kidneys",
+      "amount": "300g",
+      "notes": "Rinse and pat dry with paper towels"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 tomatoes, finely chopped",
+      "amount": "",
+      "notes": "Can be added as a side to balance flavors or pureed into sauce for stir-fry"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 inch ginger, grated",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1 tbsp ground cumin seeds",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": "2 cups",
+      "notes": "Use for braising and also to make a sauce"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "For seasoning the kidneys and final taste adjustment"
+    }
+  ],
+  "instructions": [
+    "Rinse the lamb kidneys under cold water, pat dry with paper towels. Season them lightly with salt.",
+    "Heat a little oil in a pan over medium heat. Brown the kidneys on all sides until golden brown and slightly crisp. Set aside.",
+    "In the same pan or a separate one, add more oil if needed. Add onion, ginger, garlic, and cook for about 2 minutes.",
+    "Add tomatoes and garam masala powder to the mixture. Stir well and let it cook until the tomato pieces soften slightly.",
+    "Bring water or broth to boil in a pot, then add kidneys with their cooking liquid (if any). Let it simmer for 10-15 minutes or until tender but not mushy.",
+    "In a bowl, mix the ground cumin seeds and turmeric powder. Drizzle this mixture over the cooked kidney mixture gently while stirring.",
+    "Return to the pan where the onions are, add more oil if necessary, then toss in the chopped cilantro. Cook for about 2 minutes until fragrant.",
+    "Add the stewed kidneys with their juices back into the pan and give a good stir. Adjust seasoning with salt if needed.",
+    "If using as a side to vegetables or pureed, you can blend some tomatoes into sauce; otherwise serve kidneys hot in the pan over the vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky-indian-dish",
+    "juicy-lamb-kidney-stir-fry",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "smoky-indian-lamb-kidney-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-indian-lamb-kidney-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:24:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "lamb kidney",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb kidney",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
