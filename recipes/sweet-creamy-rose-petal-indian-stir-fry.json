@@ -1,0 +1,97 @@
+{
+  "title": "Sweet & Creamy Rose Petal Indian Stir-fry",
+  "description": "A floral and tender kid-friendly Indian dish featuring clear honey in a creamy sauce that’s both sweet and mild enough for young palates.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Raw onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3 cloves"
+    },
+    {
+      "name": "Tomato, peeled and chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green chili peppers",
+      "amount": "2 slices (adjust for heat preference)"
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "a small spoon"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "a small spoon"
+    },
+    {
+      "name": "Raw honey or clear honey",
+      "amount": "1-2 tablespoons"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Saffron strands (optional)",
+      "amount": "few"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C). Rinse the rice and soak it in water for at least an hour.",
+    "Saute raw onions, sliced green chili peppers, and finely chopped garlic in a pan over medium heat until translucent. Add the tomato chunks and sauté until soft, then reduce to simmer for 5 minutes.",
+    "Add saffron strands if using, followed by garam masala powder and cumin powder. Stir well and cook for another minute. Slowly pour in coconut milk while stirring continuously.",
+    "Let it simmer gently on low heat for about 10 minutes until the sauce thickens slightly. Taste and adjust seasoning with salt as needed.",
+    "Meanwhile, cook the rice according to package instructions or soak overnight, then drain and rinse before cooking. Add a pinch of salt during boiling stage.",
+    "Serve the sweet & creamy rose petal Indian stir-fry over steamed rice for a complete meal. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "creamy",
+    "rose petal",
+    "indian",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 8,
+    "carbs": 37,
+    "fat": 10
+  },
+  "slug": "sweet-creamy-rose-petal-indian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-creamy-rose-petal-indian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:02:02Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "clear honey",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rose petal",
+    "descriptor": "Sweet & Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
