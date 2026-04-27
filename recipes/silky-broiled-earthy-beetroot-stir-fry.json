@@ -1,0 +1,79 @@
+{
+  "title": "Silky Broiled Earthy Beetroot Stir-fry",
+  "description": "A silky and earthy one-pot American dish featuring cooked beetroot, lightly broiled to enhance its natural sweetness.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "1 cup peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "Broth or Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "Dash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium-high heat. Add onions and garlic; cook until soft, about 4 minutes.",
+    "Add beets to the skillet with broth or water. Season lightly with salt and pepper.",
+    "Stir occasionally until liquid is mostly absorbed, about 5-7 minutes.",
+    "Transfer mixture to a baking dish. Broil in oven for 3-5 minutes or until edges start to brown slightly.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beetroot",
+    "stir-fry",
+    "broiled"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 2.7,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "silky-broiled-earthy-beetroot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-broiled-earthy-beetroot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:16:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "earthly",
+    "mainIngredient": "beetroot",
+    "descriptor": "Silky Broiled",
+    "dishForm": "Stir-fry"
+  }
+}
