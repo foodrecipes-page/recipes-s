@@ -1,0 +1,81 @@
+{
+  "title": "Sour Fluffy Cheese Crumble",
+  "description": "A light and fluffy low-carb American dish featuring cheese slices that are slowly cooked until they become tender and slightly tangy.",
+  "cuisine": "American",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup shredded mozzarella cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons fresh lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons unsalted butter",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tablespoon all-purpose flour",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°F (93°C).",
+    "Mix together the shredded mozzarella cheese, lemon juice, salt, and black pepper in a mixing bowl.",
+    "Fold in the Parmesan cheese and butter. Mix well until combined evenly.",
+    "Stir in the flour until no lumps remain.",
+    "Pour the mixture into an oven-safe dish that is lightly greased or lined with parchment paper.",
+    "Bake for about 45 minutes, or until the cheese slices are puffed up and golden-brown on top. Serve warm as a dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "fluffy",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 198,
+    "protein": 6,
+    "carbs": 3,
+    "fat": 14
+  },
+  "slug": "sour-fluffy-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-fluffy-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:53:01Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "cheese slices",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cheese",
+    "descriptor": "Sour Fluffy",
+    "dishForm": "Crumble"
+  }
+}
