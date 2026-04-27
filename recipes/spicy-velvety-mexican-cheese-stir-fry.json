@@ -1,0 +1,103 @@
+{
+  "title": "Spicy Velvety Mexican Cheese Stir-fry",
+  "description": "This spicy and velvety Mexican cheese stir-fry is a gluten-free-friendly meal-prep option that combines the richness of liquid cheese with bold spices for an indulgent yet satisfying dish.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-Free tortilla chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Jalepeno or serrano pepper",
+      "amount": "1, sliced thinly"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe avocado, mashed"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "2 tablespoons fresh cilantro"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon fresh lemon juice"
+    },
+    {
+      "name": "Gluten-free all-purpose flour or cornstarch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut milk or almond milk (dairy free option)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Spices (optional): cumin, chili powder, smoked paprika",
+      "amount": "as desired"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F.",
+    "Mix the mashed avocado, cilantro, lemon juice, and spices together in a bowl. Season with salt and pepper to taste.",
+    "Spread the tortilla chips on a baking sheet lined with parchment paper. Bake for about 10 minutes or until lightly toasted and golden brown.",
+    "In a large skillet over medium heat, sauté diced bell peppers, onions, garlic, and jalepeno (or serrano) pepper until softened, about 5-7 minutes.",
+    "Pour in coconut milk and bring to a simmer. Slowly stir in the gluten-free all-purpose flour or cornstarch mixture until thickened.",
+    "Stir in the avocado-cilantro mixture into the skillet with the vegetables. Cook for an additional 2-3 minutes, stirring constantly.",
+    "Serve hot over the toasted tortilla chips and garnish with extra cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "spicy",
+    "vegan-friendly",
+    "mexican",
+    "meal-prep",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 405,
+    "protein": 7.6,
+    "carbs": 39.4,
+    "fat": 18.2
+  },
+  "slug": "spicy-velvety-mexican-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-mexican-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:40:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "liquid cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Cheese",
+    "descriptor": "Spicy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
