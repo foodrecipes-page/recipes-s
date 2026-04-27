@@ -1,0 +1,87 @@
+{
+  "title": "Savory Fluffy White Bread Stir-fry",
+  "description": "A lazy-sunday Indian-inspired dish featuring white bread that's been blanched and paired with diabetic-friendly ingredients for a flavorful breakfast option.",
+  "cuisine": "Indian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "White Bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Ginger Garlic Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a non-stick pan over medium heat.",
+    "Blanch the white bread in boiling water for about 1 minute, then drain and chop into small pieces.",
+    "Add chopped onions to the hot pan and sauté until translucent, about 2-3 minutes.",
+    "Fold in blanched bread chunks, ginger garlic paste, coriander powder, turmeric powder, and salt. Stir well.",
+    "Sauté for an additional 1-2 minutes or until bread is crispy but not burnt.",
+    "Remove from heat and serve warm with a side of yogurt or as a topper for paratha."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-fluffy",
+    "lazy-sunday",
+    "indian-dish",
+    "blanched-bread",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "savory-fluffy-white-bread-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fluffy-white-bread-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:03:16Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "white bread",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "White Bread",
+    "descriptor": "Savory Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
