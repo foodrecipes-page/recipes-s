@@ -1,0 +1,81 @@
+{
+  "title": "Sick-Day Brazilian Pork Back Ribs Stir-Fry",
+  "description": "A comforting and flavorful sour, silky dish featuring pork back ribs that are perfect for a sick-day meal. This kosher-friendly recipe is sure to satisfy your cravings without overwhelming you.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Back Ribs",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sour Relish (such as pickled jalapenos)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Fresh Thyme Sprigs (for garnish)",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Place the pork back ribs on a baking sheet lined with aluminum foil. Season them lightly with salt and pepper.",
+    "Mix ketchup, sour relish, honey, and minced garlic in a small bowl. Pour this mixture over the ribs evenly.",
+    "Bake for about 1 hour, or until the meat is tender and nicely caramelized on top. Keep an eye to prevent burning.",
+    "Garnish with fresh thyme sprigs if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "silky",
+    "brazilian",
+    "stir-fry",
+    "pork ribs",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 19,
+    "fat": 10
+  },
+  "slug": "sick-day-brazilian-pork-back-ribs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-brazilian-pork-back-ribs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:49:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "pork back ribs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "sour silky sick-day",
+    "dishForm": "Stir-fry"
+  }
+}
