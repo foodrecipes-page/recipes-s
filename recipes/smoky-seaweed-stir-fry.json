@@ -1,0 +1,90 @@
+{
+  "title": "Smoky Seaweed Stir-fry",
+  "description": "A quick and tasty vegan Japanese dish featuring smoky flavors from seaweed, white sauerkraut, and a vibrant, crispy texture.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup dried seaweed",
+      "amount": "",
+      "notes": "Soaked in water for at least 4 hours before using"
+    },
+    {
+      "name": "2 tablespoons white sauerkraut paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, thinly sliced",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the seaweed in water for at least 4 hours. Drain and rinse under cold water.",
+    "In a wok or large skillet, heat the vegetable oil over medium-high heat.",
+    "Add minced garlic and sliced onion to the pan; sauté until fragrant and slightly golden.",
+    "Stir in the white sauerkraut paste, mixing well with vegetables to create a smooth sauce.",
+    "Pour in the soy sauce and smoked paprika. Stir frequently for about 1 minute until it thickens slightly.",
+    "Add the soaked and drained seaweed to the wok or skillet. Cook on high heat for 2-3 minutes until crispy.",
+    "Taste and adjust seasoning if needed, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "vegan-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "smoky-seaweed-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-seaweed-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:53:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "stir-fry",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Seaweed",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
