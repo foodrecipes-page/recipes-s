@@ -1,0 +1,98 @@
+{
+  "title": "Sour Chewy Show-off Algerian Fennel Stir-fry",
+  "description": "A show-off Algerian fennel dish featuring sour elements like lemon and fermented vegetables, alongside chewy textures from almonds and chickpeas in a mediterranean-friendly twist. The dish uses melted butter for richness and is packed with Mediterranean flavors.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 oz fennel bulb",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 oz almonds",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "3-4 cloves garlic",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "1 lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 oz chickpeas",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1/2 lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup melted butter",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Fermented vegetables (e.g., sumac or limes)",
+      "amount": "as needed",
+      "notes": "For added sourness and depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Wash the fennel bulb, cut it into wedges and remove the inner core. Toast the almonds in a dry pan until golden brown.",
+    "In a large skillet, heat olive oil over medium heat. Add sliced garlic and toast for about 1 minute, being careful not to burn it.",
+    "Add the fennel wedges to the skillet and sprinkle with toasted almonds. Season lightly with salt and pepper, then drizzle with lemon juice.",
+    "Cook the chickpeas until they are just tender, around 5-7 minutes. Add them to the fennel mixture for a minute or two to combine flavors.",
+    "Gently fold in the melted butter into the fennel mix. If using fermented vegetables, add them last and gently stir them in.",
+    "Taste test and adjust seasonings if needed. Serve hot as a side dish or alongside a main protein."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "sour",
+    "chewy",
+    "stir-fry",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "sour-chewy-show-off-algerian-fennel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-show-off-algerian-fennel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:26:43Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "melted butter",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Fennel",
+    "descriptor": "Sour Chewy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
