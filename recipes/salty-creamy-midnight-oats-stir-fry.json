@@ -1,0 +1,83 @@
+{
+  "title": "Salty-Creamy-Midnight Oats Stir-fry",
+  "description": "A savory and creamy Algerian-inspired dish featuring ground oats simmered with low-fat-friendly ingredients for a midnight craving.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy milk or almond milk (low-fat)",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, mix ground almonds with agave nectar and cocoa powder. Let it sit for 5 minutes to soften the almond mixture.",
+    "Stir in soy milk or almond milk, vanilla extract, and sea salt until smooth. Cook over medium heat, stirring continuously until thickened, about 10 minutes.",
+    "Reduce heat to low and stir in ground flaxseed until fully incorporated. Cook for an additional 5 minutes or until oats are creamy and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight_oats_stir-fry",
+    "salty_creamy_algerian_dish",
+    "ground_alfalafa_milk"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 6
+  },
+  "slug": "salty-creamy-midnight-oats-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-creamy-midnight-oats-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:55:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "ground oats",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Oats",
+    "descriptor": "Salty-Creamy-Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
