@@ -1,0 +1,86 @@
+{
+  "title": "Spicy Light Nostalgic Uruguayan Capsicum Annuum Stir-fry",
+  "description": "A light and nostalgic Uruguayan dish featuring panang curry paste in a spicy air-fried version, perfect for any meal.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "capsicum annuum",
+      "amount": "2",
+      "notes": "large, sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "small, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pepper",
+      "amount": "1",
+      "notes": "red, sliced (optional)"
+    },
+    {
+      "name": "air fryer oil spray",
+      "amount": "",
+      "notes": "for air frying"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Place the capsicum annuum slices on a baking sheet.",
+    "Drizzle with air fryer oil spray and sprinkle lightly with salt. Air-fry for about 10 minutes, flipping halfway through.",
+    "In a wok or large skillet, heat 2 tablespoons of your favorite cooking oil over medium-high heat. Add the finely chopped onion and sauté until translucent.",
+    "Add minced garlic and red pepper (if using), cook for an additional minute until fragrant.",
+    "Toss in sliced capsicum annuum from air-frying, add diced tomatoes, and stir to combine all ingredients evenly. Season with turmeric powder and a pinch of chili powder for extra heat. Mix well.",
+    "Cook for about 3-4 minutes or until the vegetables are tender-crisp but still retaining their crunch. Adjust seasoning if necessary.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "light",
+    "nostalgic",
+    "uruguayan",
+    "capsicum annuum",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "spicy-light-nostalgic-uruguayan-capsicum-annuum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-light-nostalgic-uruguayan-capsicum-annuum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:16:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "panang curry paste",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Capsicum annuum (chili peppers)",
+    "descriptor": "Spicy Light Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
