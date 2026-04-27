@@ -1,0 +1,89 @@
+{
+  "title": "Salty Crumbly Thai Pumpkin Stir-fry",
+  "description": "A quick-fix keto-friendly dish featuring salty and crumbly pumpkin pieces stir-fried with rice wine for a burst of flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup diced Thai pumpkin",
+      "amount": "",
+      "notes": "use seeds and skin for extra fiber"
+    },
+    {
+      "name": "1/4 cup rice wine",
+      "amount": "1/4 cup",
+      "notes": "ensure it's alcohol-free if following a keto diet"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons peanut oil or olive oil",
+      "amount": "3 tbsp",
+      "notes": "for crispy texture"
+    },
+    {
+      "name": "1 teaspoon five spice powder",
+      "amount": "1 tsp",
+      "notes": "optional for extra depth of flavor"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the onion, garlic, and five spice powder if using. Stir-fry for about 2 minutes until fragrant.",
+    "Add the diced pumpkin to the pan. Cook for another 3-4 minutes, stirring occasionally.",
+    "Pour in the rice wine. Increase the heat to high and let it boil for a minute or two until most of the liquid evaporates.",
+    "Taste and adjust with salt and pepper as needed. Serve hot.",
+    "Optional: Garnish with fresh cilantro or green onions before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "quick-fix",
+    "salty-crumbly",
+    "thai-dish"
+  ],
+  "nutrition": {
+    "calories": 104,
+    "protein": 2.9,
+    "carbs": 8.7,
+    "fat": 6.7
+  },
+  "slug": "salty-crumbly-thai-pumpkin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crumbly-thai-pumpkin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:37:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "stir-fry",
+    "primaryIngredient": "rice wine",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Salty Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
