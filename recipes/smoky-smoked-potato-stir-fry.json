@@ -1,0 +1,77 @@
+{
+  "title": "Smoky Smoked Potato Stir-Fry",
+  "description": "A light and smoky Vietnamese-inspired dish featuring potatoes slow-cooked with a touch of smokiness that satisfies midnight cravings without gluten.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Pepper Corns",
+      "amount": "a handful"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shredded Pork (or Tofu for a vegan option)",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F.",
+    "Wash and peel the potatoes, then cut them into bite-sized pieces. Sprinkle with garlic powder and pepper corns.",
+    "Spread the potato slices on a baking sheet lined with parchment paper and drizzle with olive oil. Roast in the preheated oven for about 15-20 minutes until golden brown.",
+    "While the potatoes are roasting, mince the garlic and thinly slice green onions.",
+    "In a wok or large skillet, heat some olive oil over medium-high heat. Add minced garlic and sliced green onions to sauté until fragrant, about 1 minute.",
+    "Add shredded pork (or tofu) to the wok and cook for another 2-3 minutes until the meat is lightly browned.",
+    "Remove the roasted potatoes from the oven and add them back into the wok. Stir well to combine all ingredients.",
+    "Serve hot as a light and satisfying dinner dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 72,
+    "fat": 23
+  },
+  "slug": "smoky-smoked-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-smoked-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:26:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "potatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Potato",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
