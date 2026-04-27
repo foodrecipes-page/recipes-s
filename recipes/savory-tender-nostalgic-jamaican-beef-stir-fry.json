@@ -1,0 +1,86 @@
+{
+  "title": "Savory Tender Nostalgic Jamaican Beef Stir-fry",
+  "description": "A tender and flavorful dish featuring lean minced beef stir-fried with a blend of aromatic spices for a comforting meal.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) lean ground beef",
+      "amount": "",
+      "notes": "Use extra-lean ground beef for a healthier option."
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "",
+      "notes": "Add some crunch and sweetness to the dish."
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "",
+      "notes": "Aromatics enhance the flavors of the stir-fry."
+    },
+    {
+      "name": "1 tsp allspice (mixed spice)",
+      "amount": "",
+      "notes": "Gives a warm, comforting flavor that reminds you of home."
+    },
+    {
+      "name": "1/2 tsp ground ginger",
+      "amount": "",
+      "notes": "Adds a spicy kick and unique taste to the dish."
+    },
+    {
+      "name": "1/4 tsp smoked paprika (optional)",
+      "amount": "",
+      "notes": "Optional for those who like a smoky flavor in their dishes."
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped onions and cook until translucent, about 3 minutes.",
+    "Add minced garlic and allspice (or smoked paprika if using). Stir-fry for an additional minute until fragrant.",
+    "Increase heat to high and add ground beef. Break apart any clumps with a spatula and stir continuously until the meat is fully cooked through, about 5-7 minutes.",
+    "Remove from heat and serve hot over rice or noodles.",
+    "Optional: Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-stir-fry",
+    "ground-beef-dish",
+    "tender-and-flavorful"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "savory-tender-nostalgic-jamaican-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-tender-nostalgic-jamaican-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:10:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "lean minced beef",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef",
+    "descriptor": "Savory Tender Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
