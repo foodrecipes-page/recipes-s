@@ -1,0 +1,82 @@
+{
+  "title": "Smoky Spicy Portuguese Chicken Stir-fry",
+  "description": "A savory and dense weeknight dish that combines smoked paprika, English mustard, and keto-friendly elements for a unique twist on traditional Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Keto-friendly soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "English mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2-3 pieces, finely chopped"
+    },
+    {
+      "name": "Keto-friendly vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Season the chicken breasts with salt and pepper. In a small bowl, mix together the KETO-FRIENDLY soy sauce, smoked paprika, and English mustard.",
+    "Place the chicken on a baking sheet lined with parchment paper. Drizzle the marinade over each piece of chicken evenly. Roast in the preheated oven for about 20 minutes or until fully cooked (internal temperature should reach at least 165°F/74°C).",
+    "While the chicken is roasting, heat 2 tablespoons of keto-friendly vegetable oil in a large skillet over medium-high heat. Add sliced red bell pepper and green onions; cook for about 3-4 minutes until slightly softened.",
+    "Remove the chicken from the oven and let it rest for a few minutes before slicing into thin strips. Stir-fry the chicken with the vegetables, adding them back to the pan that contained the cooked peppers and onions.",
+    "Serve hot as a main dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-spicy-portuguese-chicken-stir-fry",
+    "keto-friendly-dinner",
+    "portuguese-recipe",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 31,
+    "carbs": 9,
+    "fat": 26
+  },
+  "slug": "smoky-spicy-portuguese-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spicy-portuguese-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:28:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "english mustard",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Smoky Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
