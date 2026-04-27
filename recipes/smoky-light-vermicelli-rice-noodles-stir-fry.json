@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Light Vermicelli Rice Noodles Stir-fry",
+  "description": "A cozy Indian dish featuring smoky flavored vermicelli rice noodles with a light touch of spices and herbs, perfect for lunch or dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Light soy sauce (gluten-free)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red pepper flakes (or cayenne for spiciness level preference)",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "6 oz, soaked and drained",
+      "notes": "Ensure the noodles are not soggy after soaking."
+    },
+    {
+      "name": "Green onions (scallions)",
+      "amount": "1-2, chopped",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, finely chopped",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced",
+      "notes": "Approximately 2 large garlic cloves."
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix smoked paprika with soy sauce and red pepper flakes to create the marinade.",
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat. Add the noodles and toss them lightly to coat with oil.",
+    "Pour the marinade mixture into the noodles and stir-fry for about 2 minutes, allowing the noodles to absorb the flavors.",
+    "Increase heat to high and add the remaining 1 tablespoon of oil. Quickly sauté garlic until fragrant but not browned, stirring constantly to avoid burning.",
+    "Gently fold in chopped green onions and cilantro, tossing to combine thoroughly with the noodles.",
+    "Serve immediately while the dish is still hot and garnished with additional cilantro for a burst of flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-light-vermicelli-rice-noodles",
+    "halal-friendly",
+    "cozy-indian-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 40,
+    "fat": 13
+  },
+  "slug": "smoky-light-vermicelli-rice-noodles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-light-vermicelli-rice-noodles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:26:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "rest",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vermicelli rice noodles",
+    "descriptor": "smoky light",
+    "dishForm": "Stir-fry"
+  }
+}
