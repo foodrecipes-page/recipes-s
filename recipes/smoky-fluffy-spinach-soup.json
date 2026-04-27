@@ -1,0 +1,81 @@
+{
+  "title": "Smoky Fluffy Spinach Soup",
+  "description": "An earthy and fluffy low-calorie-friendly Malaysian dish featuring vegetable stock cube, smoke for a subtle smokiness, perfect as a light lunch or snack.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spinach",
+      "amount": "2 cups fresh spinach"
+    },
+    {
+      "name": "Vegetable Stock Cube",
+      "amount": "1 cube"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Thyme Leaves",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place the vegetable stock cube in a pot, add water and bring to a boil.",
+    "Once boiling, reduce heat to low, add fresh thyme leaves and spinach. Let simmer for about 10 minutes until spinach is wilted but still tender.",
+    "Add tomato paste and salt, pepper to taste. Stir well and cook for another minute or two.",
+    "Blend soup using a hand blender or transfer the soup in batches to a blender, blend until smooth and creamy.",
+    "Serve warm as a light lunch or snack with crusty bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-fluffy-spinach-soup",
+    "low-calorie-friendly",
+    "malaysian-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 2
+  },
+  "slug": "smoky-fluffy-spinach-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-spinach-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:13:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "spinach",
+    "descriptor": "Fluffy Smoky",
+    "dishForm": "Soup"
+  }
+}
