@@ -1,0 +1,79 @@
+{
+  "title": "Sweet And Gooey Zanzibari Flour Crumble",
+  "description": "A sweet and gooey crumble dish featuring plain flour that can be enjoyed as a breakfast or snack. It's vegetarian-friendly.",
+  "cuisine": "Monsoon Croatian Dish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "6 tablespoons (melted)"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 eggs, beaten"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large mixing bowl, combine the Plain Flour and Sugar. Mix well.",
+    "Add melted Coconut Oil and beaten Eggs into the Dry mixture. Stir until well combined. Add Vanilla Extract for flavoring.",
+    "Gradually add Baking Powder to the mixture while stirring continuously until it forms a dough-like consistency.",
+    "Pour the dough onto a baking sheet lined with parchment paper or greased lightly, creating an even layer approximately 1/2 inch thick.",
+    "Bake in preheated oven for 30-45 minutes or until golden brown on top. Check doneness by inserting a toothpick into center; if clean, it's done.",
+    "Allow to cool slightly before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "gooey",
+    "zanzibari",
+    "flour",
+    "crumble",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 523,
+    "protein": 9.7,
+    "carbs": 74.6,
+    "fat": 18.1
+  },
+  "slug": "sweet-and-gooey-zanzibari-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-gooey-zanzibari-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:16:41Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "plain flour",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "flour",
+    "descriptor": "Sweet And Gooey",
+    "dishForm": "Crumble"
+  }
+}
