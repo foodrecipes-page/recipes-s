@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Spicy Mediterranean Rhubarb Stir-fry",
+  "description": "A silky and crowd-pleasing mediterranean dish with high-protein-friendly elements featuring smoked tofu and rhubarb for a twist on a classic.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Smoked Tofu",
+      "amount": "200g, crumbled"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp fresh or 1/2 tsp dried"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Heat oil in a large skillet over medium-high heat. Add crumbled tofu and cook for about 2 minutes.",
+    "Add finely chopped onions, garlic, thyme, oregano, black pepper, red chili flakes, and salt. Stir-fry until the onion is translucent, approximately 3-4 minutes.",
+    "Increase heat to high, add sliced rhubarb, and continue cooking until the rhubarb begins to brown, about 5 minutes.",
+    "Reduce heat to medium-low and stir in tomato paste, letting it simmer for a minute. Adjust seasoning as needed.",
+    "Serve hot over quinoa or rice for added protein and nutrition."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "spicy",
+    "mediterranean",
+    "rhubarb",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "smoky-spicy-mediterranean-rhubarb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spicy-mediterranean-rhubarb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:20:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "smoke",
+    "primaryIngredient": "rhubarb",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Smoky Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
