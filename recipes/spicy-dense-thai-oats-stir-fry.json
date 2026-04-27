@@ -1,0 +1,101 @@
+{
+  "title": "Spicy Dense Thai Oats Stir-fry",
+  "description": "A bold and spicy brunch dish featuring oats, peppers, and a touch of spice for an invigorating whole30-friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat.",
+    "In the wok, add coconut milk, tamarind paste, and fish sauce. Stir until combined.",
+    "Add bell pepper slices to the wok, stir-fry for about 2-3 minutes until slightly softened.",
+    "Add chopped green onions, ground cumin, chili flakes, and salt to the wok. Stir well.",
+    "Pour in lime juice and continue to cook for another minute or two until the peppers are tender.",
+    "In a bowl, mix oats with tamarind paste, fish sauce, and salt. Mix well.",
+    "Transfer the oat mixture into the wok, stir everything together evenly.",
+    "Cook for an additional 2-3 minutes, allowing the flavors to meld and the oats to absorb moisture.",
+    "Serve hot with a side of fresh herbs like cilantro or mint."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "oats",
+    "stir-fry",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 396,
+    "protein": 18,
+    "carbs": 75,
+    "fat": 20
+  },
+  "slug": "spicy-dense-thai-oats-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-dense-thai-oats-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:49:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "oats",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Oats",
+    "descriptor": "Spicy Dense Whole30",
+    "dishForm": "Stir-fry"
+  }
+}
