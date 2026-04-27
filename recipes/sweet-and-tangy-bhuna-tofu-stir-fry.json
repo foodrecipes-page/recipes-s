@@ -1,0 +1,103 @@
+{
+  "title": "Sweet and Tangy Bhuna Tofu Stir-fry",
+  "description": "A Mediterranean-inspired twist on a traditional Indian dish featuring ketchup for sweetness and tanginess, complemented by spices like cumin and turmeric to add depth of flavor.",
+  "cuisine": "International",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 (200g block)",
+      "notes": "Press tofu to remove excess water."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ketchup",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Powder (optional)",
+      "amount": "1/4 teaspoon",
+      "notes": "For a bit of heat"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess water.",
+    "Heat oil in a pan over medium heat. Add onion and sauté until translucent.",
+    "Stir in tomato paste, ketchup, cumin powder, turmeric powder, red chili powder (if using), and garam masala. Cook for about 2 minutes until fragrant.",
+    "Fold in the tofu and salt, cooking until it's coated with spices and heated through.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "tangy",
+    "bhuna",
+    "spanish",
+    "tofu",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 301,
+    "protein": 15,
+    "carbs": 26,
+    "fat": 7
+  },
+  "slug": "sweet-and-tangy-bhuna-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-tangy-bhuna-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:00:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "ketchup",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tofu",
+    "descriptor": "Sweet and Tangy",
+    "dishForm": "Stir-fry"
+  }
+}
