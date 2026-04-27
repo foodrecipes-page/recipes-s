@@ -1,0 +1,94 @@
+{
+  "title": "Savory Velvety Pork Stir-fry",
+  "description": "A one-pot Brazilian dish featuring savory pork in a velvety sauce made with dry sherry and blanched vegetables for added flavor and low-carb appeal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "150g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "300g",
+      "notes": "red and green"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "100g"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "50ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for about 1 minute until fragrant.",
+    "Cut pork into bite-sized pieces, season with salt and pepper, and add to the skillet. Cook for 4-5 minutes on each side or until browned and cooked through.",
+    "Remove pork from skillet and set aside.",
+    "Add cherry tomatoes and celery stalks to the skillet. Sauté for about 2 minutes until softened.",
+    "Return pork to the skillet, pour in dry sherry, and stir-fry for another minute allowing the wine to reduce slightly.",
+    "Top with bell peppers, tossing well to combine all ingredients into a velvety sauce. Cook for an additional 3-4 minutes or until peppers are tender.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "velvety",
+    "pork-stir-fry",
+    "brazilian-dish",
+    "dry-sherry",
+    "blanched-vegetables",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 16
+  },
+  "slug": "savory-velvety-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-velvety-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:30:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "blanch",
+    "primaryIngredient": "dry sherry",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pork",
+    "descriptor": "Savory Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
