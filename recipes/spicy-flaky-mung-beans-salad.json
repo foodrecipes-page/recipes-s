@@ -1,0 +1,86 @@
+{
+  "title": "Spicy Flaky Mung Beans Salad",
+  "description": "A refreshing and spicy brunch dish featuring mung bean sprouts in a crispy texture, perfect for reducing meal times.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 cup dried mung beans",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "3 scallions, finely chopped",
+      "amount": "pieces"
+    },
+    {
+      "name": "2 tablespoons fresh dill, finely chopped",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak the mung beans overnight in water.",
+    "Drain and rinse the soaked mung beans. Add to a pot with 2 cups of fresh water, bring to boil then reduce heat to low, cover, and simmer for about an hour or until tender but still crisp.",
+    "Remove from heat, drain excess water, let cool slightly, then chop into small pieces.",
+    "In a mixing bowl, combine the cooled mung beans with olive oil, salt, black pepper, red onion, scallions, and dill. Mix well to ensure all ingredients are evenly distributed.",
+    "Squeeze in the lime juice over the mixture and mix again until it's combined properly.",
+    "Adjust seasoning as needed.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "flaky",
+    "mung beans",
+    "russian",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "spicy-flaky-mung-beans-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-flaky-mung-beans-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:41:09Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "reduce",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Mung Beans",
+    "descriptor": "Spicy Flaky",
+    "dishForm": "Salad"
+  }
+}
