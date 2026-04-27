@@ -1,0 +1,90 @@
+{
+  "title": "Salty Custard Dumplings",
+  "description": "A whole30-friendly, savory custard filling encased in a flaky dumpling wrapper that's perfect for hangover recovery, inspired by traditional Russian dishes.",
+  "cuisine": "Russian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup whole milk",
+      "amount": "",
+      "notes": "Use room temperature for easier whisking."
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "",
+      "notes": "For a richer flavor and texture."
+    },
+    {
+      "name": "3 egg yolks",
+      "amount": "",
+      "notes": "At room temperature for best results."
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": "Enhances the custard's umami flavors."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Squeezed fresh to infuse extra tang and zestiness."
+    },
+    {
+      "name": "1 tablespoon sugar",
+      "amount": "",
+      "notes": "Adds sweetness without compromising on flavor."
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "",
+      "notes": "For a touch of heat, optional but recommended for some people."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together milk, cream, egg yolks, salt, lemon juice, sugar, and pepper. Stir gently until just combined.",
+    "Heat a small skillet over medium heat. Add a few drops of water or oil for easy gliding.",
+    "Using a pastry brush, lightly grease the dumpling wrappers (ensure they're clean and dry). Spoon about 1-2 tablespoons of custard filling onto each wrapper’s center.",
+    "Fold two opposite corners of the wrapper towards the center and pinch to seal. Repeat with remaining ingredients until all fillings are used up.",
+    "Gently place the dumplings seam-side down on a baking sheet lined with parchment paper or a silicone mat to prevent sticking and easy removal.",
+    "Bake for 15-20 minutes or until golden brown. Serve immediately as a snack or appetizer."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "salty-custard-dumplings",
+    "whole30-friendly",
+    "hangover-cure",
+    "russian-dish"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 4,
+    "carbs": 7,
+    "fat": 7
+  },
+  "slug": "salty-custard-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-custard-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:42:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "custard",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "custard",
+    "descriptor": "salty",
+    "dishForm": "dumpling"
+  }
+}
