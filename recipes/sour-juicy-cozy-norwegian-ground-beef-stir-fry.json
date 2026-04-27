@@ -1,0 +1,83 @@
+{
+  "title": "Sour Juicy Cozy Norwegian Ground Beef Stir-fry",
+  "description": "A gluten-free-friendly meal that combines ground beef with tangy flavors to create a cozy and delicious dish.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "200 grams"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vinegar (rice or white)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion, minced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chili flakes (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat.",
+    "Add ground beef to the skillet and cook until browned, breaking it up with a spoon as needed. Remove from heat when done.",
+    "In the same pan, add onion and garlic. Stir-fry for about 2-3 minutes until fragrant.",
+    "Mix in tomato paste followed by vinegar. Let it simmer for about 1 minute to allow flavors to meld together.",
+    "Return ground beef back into the pan along with a pinch of salt and pepper. Cook for an additional minute or two, stirring occasionally.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "norwegian",
+    "ground-beef",
+    "stir-fry",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "sour-juicy-cozy-norwegian-ground-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-juicy-cozy-norwegian-ground-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:21:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "knead",
+    "primaryIngredient": "ground beef",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Ground Beef",
+    "descriptor": "Sour Juicy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
