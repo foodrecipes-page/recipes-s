@@ -1,0 +1,88 @@
+{
+  "title": "Spicy Crunchy Peruvian Jerusalem Artichoke Stir-fry",
+  "description": "This dish is a spicy and crunchy weeknight option featuring dairy-free-friendly Jerusalem artichokes, which are cooked until crispy for added texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "200g",
+      "notes": "Wash and scrub thoroughly"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Remove stems and seeds for less heat"
+    },
+    {
+      "name": "Green onions",
+      "amount": "4-6 pieces",
+      "notes": "Cut into 2cm segments"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Coconut oil or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying and sautéing"
+    },
+    {
+      "name": "Spices (optional)",
+      "amount": "To taste",
+      "notes": "Cumin, chili powder, paprika, and black pepper for the spiciness"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Wash and scrub the Jerusalem artichokes well. Slice them into thin rounds and lightly coat with oil.",
+    "Place the sliced artichokes on a baking sheet lined with parchment paper, making sure they are evenly spaced for even cooking. Bake in the oven for 12-15 minutes until crispy.",
+    "While the artichokes are baking, slice the red bell pepper into thin strips and green onions into segments. Finely chop the garlic cloves.",
+    "In a wok or large skillet over medium heat, add coconut oil or vegetable oil and sauté the garlic until fragrant but not browned.",
+    "Add the sliced red bell peppers to the wok/skillet and stir for 2-3 minutes before adding the green onions. Cook for another minute or two.",
+    "Once the artichokes are done, remove them from the oven, let them cool slightly, then coarsely chop them.",
+    "Combine the chopped artichokes with the sautéed vegetables in the wok/skillet and add your desired spices to taste. Stir well until all ingredients are evenly coated with spices.",
+    "Serve hot as a side dish or main course, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crunchy",
+    "peruvian",
+    "jerusalem-artichoke",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 306,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "spicy-crunchy-peruvian-jerusalem-artichoke-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crunchy-peruvian-jerusalem-artichoke-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:30:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "knead",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Jerusalem artichoke",
+    "descriptor": "Spicy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
