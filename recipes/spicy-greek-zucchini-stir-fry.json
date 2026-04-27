@@ -1,0 +1,79 @@
+{
+  "title": "Spicy Greek Zucchini Stir-fry",
+  "description": "This spicy Greek zucchini stir-fry is a crisp and flavorful solo-dinner dish that's perfect for those following a keto-friendly diet.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium zucchini"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 small bell peppers, sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "keto-friendly seasoning mix (optional)",
+      "notes": "such as garlic powder, onion powder, and paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Slice the zucchini into rounds about 1/8 inch thick.",
+    "Arrange the zucchini slices on a baking sheet lined with parchment paper. Drizzle them lightly with olive oil and sprinkle with red pepper flakes and any desired keto-friendly seasoning mix.",
+    "Roast in the oven for 20 minutes or until tender and slightly browned.",
+    "Meanwhile, sauté sliced bell peppers in a pan over medium heat with 1 tablespoon of olive oil. Cook until softened but still crisp.",
+    "Add garlic cloves to the pan and cook for another minute until fragrant.",
+    "Return the roasted zucchini slices to the pan along with the cooked peppers. Toss everything together, adding more red pepper flakes if desired.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-greek",
+    "crisp-veggies",
+    "keto-friendly-dinner"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "spicy-greek-zucchini-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-greek-zucchini-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:05:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "warm water",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Zucchini",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
