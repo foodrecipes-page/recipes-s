@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Smoked Vegetable Stir-Fry",
+  "description": "A comforting vegan-friendly Moroccan-inspired dish featuring smoked vegetables, garam masala, and a hint of smokiness for a light meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell Peppers (red, yellow, orange)",
+      "amount": "2 each"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Vegan Margarine or Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Herbs (optional)",
+      "notes": "such as parsley, cilantro for garnish"
+    }
+  ],
+  "instructions": [
+    "Place all vegetables in a steamer basket and steam until tender.",
+    "While the vegetables are steaming, heat vegan margarine or oil in a skillet over medium-high heat.",
+    "Add garam masala powder and smoked paprika to the heated pan and stir for about 30 seconds.",
+    "Once the spices are fragrant, add water or vegetable stock, salt, and pepper. Bring to a simmer.",
+    "Gently fold steamed vegetables into the sauce in the skillet, tossing until they’re coated evenly with the spice mixture.",
+    "Allow everything to cook together for another 2-3 minutes, then remove from heat.",
+    "If desired, garnish with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "moroccan",
+    "vegan-friendly",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 10,
+    "carbs": 59,
+    "fat": 14
+  },
+  "slug": "smoky-smoked-vegetable-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-smoked-vegetable-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:45:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "garam masala",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
