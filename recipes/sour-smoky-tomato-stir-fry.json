@@ -1,0 +1,85 @@
+{
+  "title": "Sour Smoky Tomato Stir-fry",
+  "description": "A juicy and adventurous Ukrainian dish featuring passata, smoke, dairy-free-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Passata",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Peppers, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Cloves, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons (for smoking)"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice red peppers and mince garlic.",
+    "In a large pan, heat vegetable oil over medium-high heat. Add sliced peppers and sauté for about 2 minutes until slightly softened.",
+    "Add minced garlic and cook for another minute until fragrant.",
+    "Drizzle olive oil over the peppers and garlic, followed by smoked paprika. Cook for an additional 30 seconds to smoke.",
+    "Reduce heat to medium and stir in passata and tomato sauce. Simmer for about 5 minutes or until slightly thickened.",
+    "Stir in salt and pepper to taste. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "sour",
+    "juicy",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "sour-smoky-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-smoky-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:20:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "passata",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Sour Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
