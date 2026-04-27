@@ -1,0 +1,78 @@
+{
+  "title": "Smoky Canadian Collards Stir-fry",
+  "description": "A lazy Sunday dish featuring smoky collards, perfect for a low-fat-friendly meal with just a few simple ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g (17oz) collard greens",
+      "amount": "",
+      "notes": "Wash thoroughly and remove hard stems."
+    },
+    {
+      "name": "2 tbsp olive oil or low-saturated fat substitute",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup (60ml) low-sodium soy sauce",
+      "amount": "",
+      "notes": "Can be replaced with a blend of balsamic vinegar and honey for sweetness."
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp smoked paprika or liquid smoke (optional)",
+      "amount": "",
+      "notes": "For added smokiness."
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add collard greens and cook, stirring occasionally, until they are wilted but still retain their shape, about 5-7 minutes.",
+    "Toss in garlic and smoked paprika (if using), cooking for another minute or two until fragrant.",
+    "Pour in the low-sodium soy sauce and simmer until slightly thickened, about 2-3 minutes. Adjust seasoning with salt if needed.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "canadian",
+    "collards",
+    "lazy sunday"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 10,
+    "carbs": 69,
+    "fat": 8
+  },
+  "slug": "smoky-canadian-collards-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-canadian-collards-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:45:20Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "collards",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Collards",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
