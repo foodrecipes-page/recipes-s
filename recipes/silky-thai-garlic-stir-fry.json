@@ -1,0 +1,80 @@
+{
+  "title": "Silky Thai Garlic Stir-fry",
+  "description": "A herbal and silky garlic stir-fry dish designed as a post-workout polish for its nourishing blend of herbs and garlic.",
+  "cuisine": "Thai",
+  "diet": [
+    "herbivore",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic bulb",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh ginger root",
+      "amount": "2 cm piece"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2-3 stalks"
+    },
+    {
+      "name": "Bell peppers (any color)",
+      "amount": "2 large, sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup, fresh or frozen"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, optional for added color and texture"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat. Add sliced garlic and ginger; stir for about 30 seconds until fragrant.",
+    "Add green onions, bell peppers, and snow peas to the pan. Stir-fry for about 5 minutes or until vegetables are tender yet crisp.",
+    "Fold in cilantro leaves if using, allowing them to wilt slightly into the dish before serving.",
+    "Serve hot as a nutritious snack post-workout."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky-thai-garlic-stir-fry",
+    "herbivore-friendly",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "silky-thai-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-thai-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:20:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "garlic bulb",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "garlic",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
