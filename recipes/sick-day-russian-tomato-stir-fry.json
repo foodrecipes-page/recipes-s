@@ -1,0 +1,80 @@
+{
+  "title": "Sick-Day Russian Tomato Stir-fry",
+  "description": "A hearty and comforting umami-rich dish featuring blanched tomatoes, perfect for a sick-day meal that's also keto-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 medium tomato",
+      "amount": "1 piece",
+      "notes": "diced"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "4 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "1 onion",
+      "amount": "1/4 of a medium-sized",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "20 grams butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Blanch the diced tomato in boiling water for about 2 minutes. Remove from heat, place in cold water, and let cool.",
+    "Once cooled, drain tomatoes, cut into halves if large, and remove seeds and skin.",
+    "Heat butter in a pan over medium heat. Add garlic and onion, sauté until softened but not browned.",
+    "Add the blanched tomato pieces to the pan. Stir-fry for about 5 minutes, seasoning with salt and pepper as needed.",
+    "Serve hot or at room temperature as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sick-day",
+    "tomato-stir-fry",
+    "umami-rich",
+    "blanched-tomatoes",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "sick-day-russian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-russian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:26:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tomato",
+    "descriptor": "Sick-Day",
+    "dishForm": "Stir-fry"
+  }
+}
