@@ -1,0 +1,101 @@
+{
+  "title": "Sour Crispy Canadian Beef Kidney Stir-fry",
+  "description": "This dish is a one-pot gluten-free-friendly meal that combines tender beef kidneys with crispy textures and tangy flavors, perfect for those who enjoy savory and slightly spicy dishes.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Kidney",
+      "amount": "250g",
+      "notes": "Grilled or boiled until tender."
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1-2 tbsp",
+      "notes": "For added flavor and crispiness."
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Minced for garlic aroma."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": "Chopped finely to add depth of flavor."
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "For a spicy kick, adjust to taste."
+    },
+    {
+      "name": "Sour Sauce (like tamarind paste or vinegar)",
+      "amount": "2 tbsp",
+      "notes": "Adds tanginess and brightness."
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp",
+      "notes": "For thickening the sauce."
+    },
+    {
+      "name": "Water",
+      "amount": "30ml",
+      "notes": "Mix with cornstarch to create a glaze for beef kidneys."
+    },
+    {
+      "name": "Peanuts (optional)",
+      "amount": "2 tbsp",
+      "notes": "For added crunch and umami flavor."
+    },
+    {
+      "name": "Green Onions (for garnish)",
+      "amount": "1 bunch",
+      "notes": "Finely chopped to enhance the dish's visual appeal and add freshness."
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a non-stick pan over medium heat.",
+    "Add minced garlic and finely chopped ginger, stir-fry for about 2 minutes until fragrant.",
+    "Add beef kidneys, chili flakes, and sour sauce, toss to coat evenly. Cover with a lid if your pan doesn't have one, or use a plate on top to keep the heat in.",
+    "Stir in water with cornstarch mixture to create a glaze for the beef kidneys. Stir gently until it thickens slightly, ensuring that the kidney pieces are coated and the sauce is smooth but not too runny.",
+    "Turn off heat once done according to safe cooking times. Serve hot garnished with chopped green onions if desired.",
+    "Optionally, sprinkle peanuts over the top for extra crunch before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-crispy-canadian-beef-kidney-stir-fry",
+    "gluten-free-friendly",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "sour-crispy-canadian-beef-kidney-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crispy-canadian-beef-kidney-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:19:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "beef kidney",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Sour Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
