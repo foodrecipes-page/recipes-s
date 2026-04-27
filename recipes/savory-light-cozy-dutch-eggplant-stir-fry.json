@@ -1,0 +1,87 @@
+{
+  "title": "Savory Light Cozy Dutch Eggplant Stir-fry",
+  "description": "This eggplant dish is a light and flavorful addition to any meal, perfect for a cozy dinner. It features tender, evenly cooked eggplant that’s seasoned with savory herbs and spices.",
+  "cuisine": "Dutch",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large eggplant",
+      "amount": "one whole piece",
+      "notes": "Cut into thin slices"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": " minced"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "as directed"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juiced"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped (optional)",
+      "amount": "as directed"
+    },
+    {
+      "name": "2 tbsp soy sauce or tamari (for non-vegetarians)"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat and add olive oil.",
+    "Season eggplant slices with salt, let sit for about 5 minutes to draw out moisture, then drain on paper towels.",
+    "Add garlic to the pan; sauté until fragrant and slightly golden, adding more oil if needed, about 1 minute.",
+    "Toss in drained eggplant and cook for an additional 3-4 minutes or until eggplant is tender but not mushy.",
+    "Drizzle lemon juice over vegetables and stir through the cumin. Serve warm with chopped parsley on top (optional).",
+    "Optional: For a drizzle, mix soy sauce or tamari into a spoonful of olive oil to make a quick glaze for serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "light",
+    "cozy",
+    "nut-free",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 206,
+    "protein": 5.9,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "savory-light-cozy-dutch-eggplant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-light-cozy-dutch-eggplant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:04:31Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "eggplant",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "eggplant",
+    "descriptor": "Savory Light Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
