@@ -1,0 +1,82 @@
+{
+  "title": "Sweet Tender Cornmeal Pilaf",
+  "description": "A sweet and tender Argentinian dish featuring fine yellow cornmeal, steamed to perfection for a show-off side dish or appetizer that's kosher-friendly.",
+  "cuisine": "Argentine",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup finely ground yellow cornmeal",
+      "amount": "",
+      "notes": "Ensure it's fine and consistent for even cooking"
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": "",
+      "notes": "Use warm for easier incorporation into the cornmeal mix"
+    },
+    {
+      "name": "Pinch of kosher salt",
+      "amount": "",
+      "notes": "Optional, to enhance flavor"
+    },
+    {
+      "name": "1/4 cup sugar (or honey)",
+      "amount": "",
+      "notes": "For sweetness - optional but recommended"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "",
+      "notes": "Gently melts in the mixture for added richness"
+    },
+    {
+      "name": "1 teaspoon lemon juice or apple cider vinegar",
+      "amount": "",
+      "notes": "Optional, to brighten flavors"
+    }
+  ],
+  "instructions": [
+    "Combine cornmeal with water and salt (if using) in a saucepan. Bring to a gentle simmer.",
+    "Gradually stir in sugar until dissolved. If the mixture starts to scorch at any point, turn off heat and add another splash of liquid to prevent burning.",
+    "Remove from heat, fold in butter gently and mix well. Stir in lemon juice or vinegar (if using) for extra brightness.",
+    "Pour into a greased baking dish or shallow pan lined with parchment paper for easy removal. Bake at 350°F (175°C) for about 20-25 minutes, until golden brown and lightly crispy around the edges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cornmeal-pilaf",
+    "sweet-tender-cornmeal",
+    "argentinian-dish",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 104,
+    "protein": 2.6,
+    "carbs": 23.9,
+    "fat": 5.3
+  },
+  "slug": "sweet-tender-cornmeal-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-tender-cornmeal-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:36:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "sweet tender",
+    "dishForm": "Pilaf"
+  }
+}
