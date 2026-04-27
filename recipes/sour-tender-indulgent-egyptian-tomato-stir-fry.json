@@ -1,0 +1,87 @@
+{
+  "title": "Sour Tender Indulgent Egyptian Tomato Stir-fry",
+  "description": "This whole30-friendly dish features a pico de gallo sauce and tender tomatoes cooked in a poaching method to create an indulgent Egyptian tomato stir-fry.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "2 tablespoons fresh lime juice",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup finely chopped fresh cilantro",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 small red onion, thinly sliced",
+      "amount": "slice"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Slice cherry tomatoes in half.",
+    "In a large bowl, mix together the sliced tomatoes, lime juice, chopped cilantro, minced garlic, red onion slices, olive oil, salt, and pepper. Mix well until all ingredients are evenly distributed.",
+    "Transfer the mixture to an oven-safe dish, ensuring all pieces of tomato are exposed to the liquid mixture. Cover with aluminum foil and place in a preheated 350°F (175°C) oven for about 20 minutes.",
+    "Remove from heat and let it sit for another 5-10 minutes before serving.",
+    "Serve immediately as a side dish or over grilled chicken, fish, or vegetables. The stir-fry is best enjoyed fresh with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "tender",
+    "indulgent",
+    "egyptian",
+    "tomato",
+    "stir-fry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 5
+  },
+  "slug": "sour-tender-indulgent-egyptian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-tender-indulgent-egyptian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:30:37Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tomato",
+    "descriptor": "Sour Tender Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
