@@ -1,0 +1,71 @@
+{
+  "title": "Sour Silky Energizing British Banana Smoothie",
+  "description": "A revitalizing smoothie made with baking powder to enhance its energizing properties and using a pressure cooker for efficiency.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "2",
+      "notes": "Choose ripe but not mushy bananas."
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "For best results, use quick-rise baking powder."
+    },
+    {
+      "name": "Water",
+      "amount": "8 ounces",
+      "notes": "Use filtered water for a clearer smoothie."
+    },
+    {
+      "name": "Milk or Soy Milk",
+      "amount": "6 ounces",
+      "notes": "Choose unsweetened milk to control sweetness."
+    }
+  ],
+  "instructions": [
+    "Place bananas in the pressure cooker, ensuring they are fully crushed.",
+    "Add baking powder and water. Close the cooker and cook for approximately 1 minute on high pressure.",
+    "Allow the mixture to naturally release steam (this helps create a silky texture).",
+    "Once cooled slightly, blend until smooth, adding more milk or soy milk if needed for desired consistency.",
+    "Serving suggestion: Top with a sprinkle of cinnamon for an extra flavor boost."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "banana",
+    "baking powder",
+    "pressure cooker",
+    "smoothie"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 1,
+    "carbs": 18,
+    "fat": 0
+  },
+  "slug": "sour-silky-energizing-british-banana-smoothie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-silky-energizing-british-banana-smoothie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:29:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "baking powder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "banana",
+    "descriptor": "Sour Silky Energizing",
+    "dishForm": "Smoothie"
+  }
+}
