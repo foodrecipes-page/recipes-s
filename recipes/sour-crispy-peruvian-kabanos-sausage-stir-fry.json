@@ -1,0 +1,100 @@
+{
+  "title": "Sour Crispy Peruvian Kabanos Sausage Stir-fry",
+  "description": "A vegan-friendly meal-prep dish featuring sour and crisp kabanos sausages prepared using sous-vide technology, served as a stir-fry.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kabanos Sausages",
+      "amount": "120g",
+      "notes": "Use vegan kabanos sausages for a true Peruvian twist."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tablespoons",
+      "notes": "Vegan soy sauce or tamari can be used."
+    },
+    {
+      "name": "Shredded Cabbage",
+      "amount": "1 cup",
+      "notes": "Use non-fermented, organic cabbage for best results."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely to match the texture of kabanos sausages."
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Can be replaced with fresh lemon juice for a similar taste but different flavor profile."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "For authentic Peruvian flavors and safety, make sure to use garlic powder."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons",
+      "notes": "Optional for a crunchy topping."
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "For thickening the sauce and ensuring it sticks to kabanos sausages."
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 62°C (143°F) for a minimum of 8 hours.",
+    "Remove kabanos sausages from the bag and pat them dry with paper towels.",
+    "In a small bowl, mix soy sauce, fresh lime juice, garlic powder, and cornstarch together. Set aside as the marinade.",
+    "Coat each kabanos sausage lightly with cornstarch mixture on both sides, making sure they are evenly coated.",
+    "Drizzle the remaining marinade over the sausages to coat them thoroughly.",
+    "Place the coated sausages back into the sous-vide bag and re-seal. Ensure no air is trapped inside.",
+    "Return the sous-vide machine to 62°C (143°F) for an additional hour to finish cooking the kabanos sausages.",
+    "While the sausages are being cooked, prepare the stir-fry: finely chop cabbage and red onion, set aside in a large bowl.",
+    "Add sesame seeds to the bowl of vegetables if desired for added crunch.",
+    "Heat a wok or frying pan with a bit of vegetable oil over medium-high heat. Add kabanos sausages to the pan once they're out of the sous-vide bag and warm up, turning occasionally until golden brown on all sides (about 5-7 minutes).",
+    "Remove the sausages from the pan and set aside.",
+    "In the same pan used for stir-frying, add a bit more oil if needed. Once hot, toss in chopped red onion followed by shredded cabbage. Stir fry together until vegetables start to wilt (approximately 4-5 minutes), adding the cornstarch marinade from step 2 into the mix after about 3 minutes.",
+    "Once all vegetables are well-cooked and slightly tender but still holding their shape, return sausages to the pan. Toss everything together for a few more seconds until kabanos sausages are evenly coated with the sauce.",
+    "Serve hot over cooked rice or noodles as a flavorful lunch dish."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "sour",
+    "crispy",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 13,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "sour-crispy-peruvian-kabanos-sausage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crispy-peruvian-kabanos-sausage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:01:36Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Kabanos Sausages",
+    "descriptor": "Sour Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
