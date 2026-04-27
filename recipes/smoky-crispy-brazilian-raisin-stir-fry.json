@@ -1,0 +1,77 @@
+{
+  "title": "Smoky Crispy Brazilian Raisin Stir-fry",
+  "description": "A tangy and crunchy meal-prep dish featuring sultanas with a hint of smoke to make it high-protein-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sultanas (Golden Raisins)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Soaked Sunflower Seeds (Optional)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add sultanas and soaked sunflower seeds to the pan, stir for about 3 minutes or until they start to crisp up.",
+    "Season with salt and pepper. Add smoked paprika towards the end of cooking time for maximum smoky flavor.",
+    "Once all ingredients are evenly coated and crispy, remove from heat immediately to avoid overcooking."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "brazilian",
+    "sultanas",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "smoky-crispy-brazilian-raisin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crispy-brazilian-raisin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:52:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "sultanas",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "raisins",
+    "descriptor": "Smoky Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
