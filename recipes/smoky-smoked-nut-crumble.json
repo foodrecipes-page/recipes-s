@@ -1,0 +1,78 @@
+{
+  "title": "Smoky Smoked Nut Crumble",
+  "description": "A crispy and savory snack featuring a shortcrust pastry base with smoked flavors, perfect for a monsoon climate or as an afternoon treat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "nut-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shortcrust Pastry Dough",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Smoked Salted Caramel Flavored Condensed Milk",
+      "amount": "2/3 cup"
+    },
+    {
+      "name": "Dried Banana Shreds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Smoked Almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked Paprika Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Peanut Butter Chips",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix Shortcrust Pastry Dough with Smoked Salted Caramel Flavored Condensed Milk until just combined.",
+    "Fold in Dried Banana Shreds, Chopped Smoked Almonds, and a pinch of Smoked Paprika Powder.",
+    "Press mixture into an 8-inch square baking dish.",
+    "Garnish top with Peanut Butter Chips.",
+    "Bake for about 20 minutes or until golden brown.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crispy",
+    "monsoon-jamaican-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 5
+  },
+  "slug": "smoky-smoked-nut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-smoked-nut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:33:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "nuts",
+    "descriptor": "Smoky",
+    "dishForm": "Crumble"
+  }
+}
