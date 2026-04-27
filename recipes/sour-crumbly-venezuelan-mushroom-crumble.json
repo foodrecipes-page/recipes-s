@@ -1,0 +1,92 @@
+{
+  "title": "Sour Crumbly Venezuelan Mushroom Crockpot",
+  "description": "This weeknight dish features slow-cooked sour mushrooms blended with a crumbly texture for a comforting yet light meal.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello Mushrooms",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond Milk or Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Coconut Sugar (or Regular)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat crockpot to low.",
+    "Mince the onion finely, then sauté with minced garlic in a bit of olive oil until translucent.",
+    "Add tomato paste and cook for 2 minutes more. Stir in red wine vinegar and coconut sugar. Let it simmer for about 5 minutes, scraping any bits off bottom of pot.",
+    "Place mushrooms over vegetable mixture in crockpot. Pour almond milk or water around them to cover fully but not drown the mushrooms.",
+    "Stir in sour cream until completely incorporated. Season with salt and pepper if needed. Cover and cook on low for 6-8 hours (or overnight) until tender.",
+    "Serve warm, optionally garnished with extra fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 72,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slow cooker",
+    "sour crumbly",
+    "venezuelan mushroom",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 20
+  },
+  "slug": "sour-crumbly-venezuelan-mushroom-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crumbly-venezuelan-mushroom-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:11:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "mushroom",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Mushroom",
+    "descriptor": "sour crumbly",
+    "dishForm": "Crumble"
+  }
+}
