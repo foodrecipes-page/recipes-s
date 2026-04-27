@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Venezuelan Baby New Potatoes Stir-fry",
+  "description": "This date-night dish features fluffy baby new potatoes, spiced with bhuna for a smoky flavor and whole30-friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby New Potatoes",
+      "amount": "2 lbs",
+      "notes": "Approximately 8-10 potatoes"
+    },
+    {
+      "name": "Ginger Garlic Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Whole Chili Peppers (Jalepeños)",
+      "amount": "4",
+      "notes": "Choose fresh or use pre-cut in a bag if dried"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bhuna Spices Mix",
+      "amount": "1/4 tsp",
+      "notes": "Including cumin, coriander seeds, and turmeric"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat.",
+    "Clean the baby new potatoes thoroughly. Remove any damaged skin.",
+    "Wash whole chili peppers under cold water and remove seeds if desired. Set aside.",
+    "In a small bowl, mix together ginger garlic paste with 1 tbsp of oil.",
+    "Add the mixed paste to the hot wok or skillet and stir-fry for about 2 minutes until fragrant.",
+    "Gently add washed baby new potatoes into the wok, tossing well to coat in the seasoned oil.",
+    "Sprinkle the bhuna spices mix over the mixture. Stir quickly to combine with the potatoes and chili peppers.",
+    "Season with salt to taste.",
+    "Continue stirring for another 5-7 minutes until the potatoes are tender yet fluffy.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "fluffy",
+    "venezuelan",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 2.5,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "smoky-venezuelan-baby-new-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-venezuelan-baby-new-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:56:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Baby New Potatoes",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
