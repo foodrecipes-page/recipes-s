@@ -1,0 +1,80 @@
+{
+  "title": "Sweet Chewy Quick Fix Dutch Pepper Stir-fry",
+  "description": "A quick and easy sweet and chewy Dutch dish featuring sweet peppadew peppers in a flavorful sauce, perfect for a snack or light meal.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peppadew Peppers",
+      "amount": "1 can"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Almond Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat.",
+    "Add the Peppadew Peppers, sunflower seeds, almond paste, and coconut sugar. Stir-fry for about 2 minutes or until the seeds start to crisp up slightly.",
+    "Stir in soy sauce, garlic powder, and red pepper flakes. Cook for an additional minute, stirring frequently to prevent sticking.",
+    "Remove from heat and serve immediately as a snack or light meal accompaniment."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "chewy",
+    "quick-fix",
+    "dutch",
+    "peppadew-peppers",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 42,
+    "protein": 1,
+    "carbs": 8.5,
+    "fat": 0
+  },
+  "slug": "sweet-chewy-quick-fix-dutch-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-chewy-quick-fix-dutch-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:43:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pepper",
+    "descriptor": "Sweet Chewy Quick Fix",
+    "dishForm": "Stir-fry"
+  }
+}
