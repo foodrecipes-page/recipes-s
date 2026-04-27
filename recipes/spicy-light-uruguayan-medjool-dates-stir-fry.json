@@ -1,0 +1,93 @@
+{
+  "title": "Spicy Light Uruguayan Medjool Dates Stir-fry",
+  "description": "This light and spicy medjool dates stir-fry is perfect for a brunch mood. It's egg-free-friendly, making it versatile for various dietary needs.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 cup Medjool dates, halved",
+      "amount": "cup",
+      "notes": "soaked and drained"
+    },
+    {
+      "name": "1 small red bell pepper, diced",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup finely chopped scallions (green onions)",
+      "amount": "cup"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add dates, red bell pepper, and scallions. Stir-fry for about 2-3 minutes until vegetables start to soften.",
+    "Stir in cumin and smoked paprika. Cook for an additional minute.",
+    "Fold in lime juice and season with salt. Stir well to combine all ingredients evenly.",
+    "Remove from heat immediately to prevent overcooking the dates which can cause them to become mushy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "light",
+    "uruguayan",
+    "medjool_dates",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "spicy-light-uruguayan-medjool-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-light-uruguayan-medjool-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:21:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "reduce",
+    "primaryIngredient": "medjool dates",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "medjool dates",
+    "descriptor": "Spicy Light",
+    "dishForm": "Stir-fry"
+  }
+}
