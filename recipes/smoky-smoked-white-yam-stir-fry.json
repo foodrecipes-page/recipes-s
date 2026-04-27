@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Smoked White Yam Stir-fry",
+  "description": "A smoky and creamy Moroccan-inspired dish featuring white yam that is both flavorful and diabetic-friendly for a date-night meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup white yam, peeled and diced",
+      "amount": "",
+      "notes": "Ensure it's thoroughly cooked before stir-frying"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 can diced tomatoes",
+      "amount": "",
+      "notes": "Drained"
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "",
+      "notes": "To help soften yam and prevent sticking"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add onion and garlic, sauté until translucent and fragrant, about 5 minutes.",
+    "Add diced white yam and water to the skillet. Stir well to combine.",
+    "Cover and simmer for about 10-12 minutes or until the yam is tender and easily mashed with a fork.",
+    "Stir in canned tomatoes, cook for another 3-4 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 38,
+    "fat": 6
+  },
+  "slug": "smoky-smoked-white-yam-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-smoked-white-yam-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:15:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "white yam",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "White Yam",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
