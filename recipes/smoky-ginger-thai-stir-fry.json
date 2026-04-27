@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Ginger Thai Stir-fry",
+  "description": "A solo-dinner thai dish featuring ginger paste and fold with a smoky flavor, perfect for those looking for a paleo-friendly option.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 boneless chicken thighs",
+      "amount": "1 each",
+      "notes": "ensure they are skinless"
+    },
+    {
+      "name": "2 tablespoons coconut oil",
+      "amount": "1/8 cup"
+    },
+    {
+      "name": "1 large onion, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": "small handful"
+    },
+    {
+      "name": "3-4 fresh Thai basil leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "2 cups baby spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1 tablespoon fish sauce (or to taste)",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "1 teaspoon grated fresh ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null
+    },
+    {
+      "name": "1/2 cup almond flour or coconut flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pinch of smoked paprika",
+      "amount": "small pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season chicken with salt and pepper. Place in a baking dish coated with coconut oil.",
+    "Roast for about 20 minutes or until cooked through. Let cool slightly.",
+    "In a large wok or skillet, heat coconut oil over medium-high heat. Add sliced onions and garlic; stir-fry for about 5 minutes.",
+    "Add roasted chicken to the pan, along with fish sauce and ginger. Cook for another 2-3 minutes until fragrant and well combined.",
+    "To serve, mix almond flour or coconut flour with smoked paprika in a small bowl. Sprinkle over the dish before serving to enhance flavor and texture.",
+    "Top with fresh Thai basil leaves and baby spinach just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "smoky",
+    "ginger-thai-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 37,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "smoky-ginger-thai-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-ginger-thai-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:03:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "fold",
+    "primaryIngredient": "ginger paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "ginger",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
