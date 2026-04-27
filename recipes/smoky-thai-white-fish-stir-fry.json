@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Thai White Fish Stir-fry",
+  "description": "A smoky and flaky dish featuring white fish in a monsoon-inspired spice blend, vegetarian-friendly and easy to prepare.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White fish fillets",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch, green parts only"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "Bird's eye chilies",
+      "amount": "2-3, finely chopped"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "10-15 leaves"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Season the white fish fillets with salt and pepper.",
+    "Heat a wok or large skillet over medium-high heat. Add the Thai red curry paste and stir for about 30 seconds until fragrant.",
+    "Add the fish, scallions, fish sauce, kaffir lime leaves, and bird's eye chilies. Stir-fry for about 5 minutes until the fish turns opaque.",
+    "Pour in coconut milk and bring to a simmer. Cook for another 2-3 minutes, allowing the flavors to meld together.",
+    "Garnish with Thai basil leaves just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "flaky",
+    "monsoon",
+    "thai",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "smoky-thai-white-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-thai-white-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:59:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "white fish",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "white fish",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
