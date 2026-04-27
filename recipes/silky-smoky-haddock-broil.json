@@ -1,0 +1,85 @@
+{
+  "title": "Silky Smoky Haddock Broil",
+  "description": "This brunch-mood Norwegian dish features silky smoked haddock broiled to perfection in a Mediterranean-friendly sauce that balances smokiness and creaminess.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "400g smoked haddock fillets",
+      "amount": "",
+      "notes": "preferably skinless"
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tbsp lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "",
+      "notes": "smoked for a richer, deeper flavor"
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley for garnish (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Place the haddock fillets on a baking sheet lined with parchment paper.",
+    "Mix together the heavy cream, lemon juice, smoked paprika, salt, and pepper in a small bowl. Pour over the haddock fillets evenly.",
+    "Bake for about 12-15 minutes or until the fish flakes easily with a fork.",
+    "Garnish with fresh parsley if desired before serving.",
+    "Serve hot as an accompaniment to your brunch spread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "silky",
+    "norwegian",
+    "brunch-friendly"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "silky-smoky-haddock-broil",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smoky-haddock-broil",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:42:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "smoked haddock",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "smoked haddock",
+    "descriptor": "smoky silky",
+    "dishForm": "Broil"
+  }
+}
