@@ -1,0 +1,77 @@
+{
+  "title": "Sour Chewy Raw-friendly Croatian Colby Jack Cheese Crumble",
+  "description": "This raw-friendly recipe combines sour pickles with creamy colby jack cheese to create a comforting and chewy crumble that's perfect for breakfast or as a snack.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Colby Jack Cheese",
+      "amount": "1 cup grated",
+      "notes": "Make sure it’s raw, unpasteurized cheese."
+    },
+    {
+      "name": "Sour Pickles",
+      "amount": "2 cups diced",
+      "notes": "Use only pickles labeled as 'raw-friendly' or 'unpasteurized'. Avoid fermented varieties."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin for best flavor"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon fresh squeezed",
+      "notes": ""
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "For seasoning, avoid iodized salt"
+    }
+  ],
+  "instructions": [
+    "Mix grated Colby Jack cheese and diced sour pickles in a bowl.",
+    "Add olive oil, lemon juice, and sea salt to the mixture. Stir until well combined.",
+    "Cover and refrigerate for at least an hour before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "chewy",
+    "comforting",
+    "croatian",
+    "colby jack cheese",
+    "pickle",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 2,
+    "fat": 8
+  },
+  "slug": "sour-chewy-raw-friendly-croatian-colby-jack-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-raw-friendly-croatian-colby-jack-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:05:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Colby Jack Cheese",
+    "descriptor": "Sour Chewy Raw-friendly",
+    "dishForm": "Crumble"
+  }
+}
