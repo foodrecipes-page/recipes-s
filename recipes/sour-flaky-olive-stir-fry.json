@@ -1,0 +1,87 @@
+{
+  "title": "Sour Flaky Olive Stir-fry",
+  "description": "A kid-friendly sour flaky Chinese (Hunan) dish featuring extra virgin olive oil and air-fried vegetables with a touch of lemon zest for added freshness.",
+  "cuisine": "Chinese (Hunan)",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive greens",
+      "amount": "10-15 pieces",
+      "notes": "choose ones with tender leaves and a slight bitterness"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sour cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baby bell peppers",
+      "amount": "2 pcs",
+      "notes": "thinly sliced for easier air frying"
+    },
+    {
+      "name": "shallots",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt to taste"
+    }
+  ],
+  "instructions": [
+    "Heat your air fryer to 200°C (392°F).",
+    "Wash and dry olive greens thoroughly, then chop them into thin strips.",
+    "Thinly slice baby bell peppers and shallots.",
+    "In a bowl, combine the olive oil, lemon zest, salt, and ground black pepper. Add the chopped olive greens to this mixture.",
+    "Add sliced bell peppers and shallots, mix well until all ingredients are coated evenly with the seasoning.",
+    "Transfer the stir-fried vegetables into your preheated air fryer basket, making sure they don't overcrowd it.",
+    "Air-fry for about 10-12 minutes or until olive greens become tender but still retain their crispness. Stir occasionally to ensure even cooking.",
+    "Remove from air fryer and sprinkle sour cherry tomatoes over the top before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-flaky-olive-stir-fry",
+    "kid-friendly-chinese-dish",
+    "extra-virgin-olive-oil",
+    "hunan-style-cooking"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "sour-flaky-olive-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-flaky-olive-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:38:22Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "dairy-free",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Olive",
+    "descriptor": "Sour Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
