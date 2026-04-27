@@ -1,0 +1,89 @@
+{
+  "title": "Spicy Middle Eastern Fish Stir-Fry",
+  "description": "A quick-fix salty and tender dish featuring pescatarian-friendly fish, seasoned with chili powder for a spicy kick.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Bell pepper, red",
+      "amount": "1 large"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Clean and slice the fish fillets.",
+    "Cut onion into thin strips, mince garlic cloves, and dice bell pepper.",
+    "In a wok or large frying pan, heat olive oil over medium-high heat.",
+    "Add fish to the pan and sauté until golden brown on both sides.",
+    "Remove fish from pan and set aside. In the same pan, add onion, bell pepper, and garlic; stir fry for 2-3 minutes.",
+    "Stir in turmeric powder and chili powder. Add salt to taste and continue cooking for another minute.",
+    "Add back the fish into the pan and mix well with the vegetables.",
+    "Serve hot with a side of pita bread or crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "stir-fry",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 415,
+    "protein": 29,
+    "carbs": 37,
+    "fat": 16
+  },
+  "slug": "spicy-middle-eastern-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-middle-eastern-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:53:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "chilli powder",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Fish",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
