@@ -1,0 +1,81 @@
+{
+  "title": "Savory Light Algerian Almonds Crumble",
+  "description": "A light and salty Algerian dish featuring almond paste with a touch of smoke for hangover cure, crafted with low-sodium ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "100g",
+      "notes": "freshly made or store-bought"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "unsalted cashews",
+      "amount": "100g",
+      "notes": "crushed finely"
+    },
+    {
+      "name": "fresh parsley leaves",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "In a mixing bowl, combine the almond paste and smoked paprika. Mix well until evenly combined.",
+    "Add in low-sodium soy sauce, crushed cashews, chopped parsley, and dijon mustard. Stir gently until all ingredients are uniformly distributed.",
+    "Transfer the mixture to an oven-safe dish or baking pan that can be easily flipped over for serving.",
+    "Bake in the preheated oven for 20 minutes, flipping the crumble halfway through to ensure even cooking.",
+    "Allow the crumble to cool slightly before turning it out onto a platter. Serve warm as a snack with a side of herbal tea."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "hangover-cure",
+    "light-almond-dish",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "savory-light-algerian-almonds-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-light-algerian-almonds-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:51:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "almond paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Savory Light",
+    "dishForm": "Crumble"
+  }
+}
