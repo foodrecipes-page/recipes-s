@@ -1,0 +1,82 @@
+{
+  "title": "Soft Uruguayan Avocado Salad",
+  "description": "An earthy and festive dish featuring tender avocados blended with full fat sour cream for a creamy texture, served as a festive side or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 medium avocados"
+    },
+    {
+      "name": "full-fat sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "jalapeno pepper, seeded and finely chopped (optional)",
+      "amount": "1 small jalapeno"
+    },
+    {
+      "name": "sliced radishes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Halve the avocados and scoop out the pit. Remove any excess skin.",
+    "Cut the avocados into cubes, then blend them with half of the sour cream in a blender until smooth.",
+    "Add in cilantro, jalapeno (if using), radishes, salt, black pepper, and fresh lime juice. Blend again until well combined.",
+    "Fold in the remaining sour cream to taste, ensuring it is fully incorporated into the mixture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soft-uruguayan-avocado-salad",
+    "earthly-tender-festive-dish",
+    "full-fat-sour-cream",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "soft-uruguayan-avocado-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/soft-uruguayan-avocado-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:57:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "avocado",
+    "descriptor": "Soft",
+    "dishForm": "Salad"
+  }
+}
