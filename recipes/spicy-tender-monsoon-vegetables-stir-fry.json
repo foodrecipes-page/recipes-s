@@ -1,0 +1,94 @@
+{
+  "title": "Spicy Tender Monsoon Vegetables Stir-fry",
+  "description": "A spicy vegetarian dish inspired by Arabian cuisine, featuring sweetened condensed milk for a unique sweetness.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium (red, green, and yellow)",
+      "notes": "Remove seeds and membranes for a milder taste."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves",
+      "notes": "Mince finely."
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "3-4 Thai chilies (or to taste)",
+      "notes": "Can be substituted with red pepper flakes for a milder option."
+    },
+    {
+      "name": "Sweetened condensed milk",
+      "amount": "1/4 cup",
+      "notes": "Use unsweetened if preferred or available, otherwise adjust sweetness accordingly."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon (optional)"
+    }
+  ],
+  "instructions": [
+    "Wash and chop all vegetables into uniform sizes.",
+    "In a small bowl, mix the sweetened condensed milk with enough water to reach about 1/4 cup of liquid. Set aside.",
+    "Heat oil in a pressure cooker or large skillet over medium-high heat. Add minced garlic and cook until fragrant but not browned, about 30 seconds.",
+    "Add chopped vegetables and chili peppers. Stir-fry for about 5 minutes or until the vegetables start to soften.",
+    "Pour in the sweetened condensed milk mixture and add turmeric powder. Mix well to coat all vegetables evenly.",
+    "Cover and cook on high pressure for about 1 minute if using a pressure cooker, or stir occasionally over medium heat until fully cooked through, about 5-7 minutes more.",
+    "If not using a pressure cooker, continue cooking the dish without covering, ensuring it does not stick to the pan by stirring frequently and adding a bit of water if needed.",
+    "Serve hot, garnished with sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "tender",
+    "monsoon",
+    "saudi-arabian-dish",
+    "sweetened-condensed-milk"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 5
+  },
+  "slug": "spicy-tender-monsoon-vegetables-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-tender-monsoon-vegetables-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:40:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Monsoon",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Spicy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
