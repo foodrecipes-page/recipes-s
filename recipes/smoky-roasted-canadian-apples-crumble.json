@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Roasted Canadian Apples Crumble",
+  "description": "A savory and aromatic dish perfect for a light date night meal featuring smoked salt, apple cider vinegar, and an easy crumble topping.",
+  "cuisine": "Canadian",
+  "diet": [
+    "salty",
+    "light"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "6 Canadian apples",
+      "amount": "medium"
+    },
+    {
+      "name": "1/2 cup apple cider vinegar",
+      "notes": "use fresh for best flavor"
+    },
+    {
+      "name": "2 tablespoons smoked salt"
+    },
+    {
+      "name": "1/4 cup applewood smoke liquid (or 3-5 pieces of wood per batch if unavailable)",
+      "notes": "ensure safe usage temperature"
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon"
+    },
+    {
+      "name": "1/8 teaspoon ground ginger"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "to taste"
+    },
+    {
+      "name": "Unsweetened applesauce"
+    },
+    {
+      "name": "Almond flour or oat flour",
+      "notes": "ensure gluten-free if necessary"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Core and slice apples into wedges.",
+    "Mix apple cider vinegar, smoked salt, cinnamon, ginger, and all-purpose flour in a large bowl. Add sliced apples and toss well until evenly coated.",
+    "Spread apple mixture on a baking sheet lined with parchment paper, making sure to cover the entire surface area evenly.",
+    "Roast in preheated oven for 20-25 minutes or until apples are tender but not mushy.",
+    "While apples are roasting, prepare crumble topping. Mix all-purpose flour with unsweetened applesauce and almond flour (or oat flour).",
+    "Remove apples from oven and sprinkle crumb mixture over the top of each apple. Press down slightly to adhere.",
+    "Return to oven for another 10-15 minutes or until golden brown and crisp.",
+    "Let cool slightly before serving with a scoop of vanilla ice cream for extra decadence."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty-date-night",
+    "smoky-roasted-apples",
+    "apple-cider-vinegar",
+    "cinnamon-ginger"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "smoky-roasted-canadian-apples-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-canadian-apples-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:44:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "cider vinegar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Apples",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Crumble"
+  }
+}
