@@ -1,0 +1,95 @@
+{
+  "title": "Salty Crispy Egyptian Poppy Seed Stir-fry",
+  "description": "This quick weeknight dish combines ground poppy seeds with a crispy texture and savory flavors, perfect for those looking for a gluten-free, plant-based meal option.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup roasted ground poppy seeds",
+      "amount": "cup",
+      "notes": "Roasted in oven at 350°F (175°C) for about 20 minutes"
+    },
+    {
+      "name": "1/4 cup sesame oil",
+      "amount": "cup",
+      "notes": null
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "piece",
+      "notes": null
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "pieces",
+      "notes": null
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "piece",
+      "notes": null
+    },
+    {
+      "name": "1 carrot, grated",
+      "amount": "piece",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "tablespoons",
+      "notes": null
+    },
+    {
+      "name": "2 teaspoons salt",
+      "amount": "teaspoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium-high heat.",
+    "Add finely chopped onion and garlic, sauté until softened.",
+    "Stir in diced red bell pepper and grated carrot. Cook for about 3 minutes.",
+    "Pour in roasted ground poppy seeds and lemon juice.",
+    "Taste and adjust seasoning with salt as needed.",
+    "Serve hot over steamed rice or vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "stir-fry",
+    "poppy-seeds",
+    "salty",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 6.7,
+    "carbs": 19.3,
+    "fat": 12
+  },
+  "slug": "salty-crispy-egyptian-poppy-seed-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crispy-egyptian-poppy-seed-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:48:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Poppy Seeds",
+    "descriptor": "Salty Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
