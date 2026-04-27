@@ -1,0 +1,73 @@
+{
+  "title": "Sour American Cheese Curd Crumble",
+  "description": "A tender and adventurous cheese crumble made from sour cheese curds, featuring a perfect balance of tanginess and texture for an irresistible breakfast or snack.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sour American Cheese Curds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Melted Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flax Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Freshly Ground Flax Eggs (optional, for binding)",
+      "notes": "Mix 1 part flax seeds with 3 parts water to create egg-like consistency."
+    },
+    {
+      "name": "Almond Milk Powder",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "In a bowl, combine cheese curds, melted coconut oil, flax seeds, and almond milk powder. If using, add the freshly ground flax eggs for binding.",
+    "Transfer the mixture into an oven-safe dish or ramekin.",
+    "Bake in preheated oven for 15-20 minutes until golden brown and crispy.",
+    "Remove from oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-cheese",
+    "crumble",
+    "tangy",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 271,
+    "protein": 8,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "sour-american-cheese-curd-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-american-cheese-curd-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:26:39Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "cheese curds",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cheese Curds",
+    "descriptor": "Sour",
+    "dishForm": "Crumble"
+  }
+}
