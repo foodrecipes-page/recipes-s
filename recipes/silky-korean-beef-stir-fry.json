@@ -1,0 +1,89 @@
+{
+  "title": "Sous-vide Earthy Korean Beef Stir-fry",
+  "description": "This kid-friendly Croatian dish features tender beef cooked sous-vide with a silky, earthy sauce that's low-fat friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sous-vide vacuum-sealed beef tenderloin",
+      "amount": "150g",
+      "notes": "Ensure it's cooked to an internal temperature of at least 63°C (145°F) for food safety."
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili garlic paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "2-3, thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 63°C (145°F). Cook the beef tenderloin for 1 hour.",
+    "While the meat cooks, mix together soy sauce, brown sugar, vinegar, ginger paste, and chili garlic paste in a small bowl. Set aside.",
+    "Remove the cooked beef from the sous-vide bag and let it rest on a wire rack to cool slightly.",
+    "Cut the cooled beef into thin strips or serve as is for easier handling.",
+    "In a pan over medium heat, add a bit of oil if needed, then stir-fry the green onions until fragrant. Add the sliced beef and cook until heated through.",
+    "Pour the marinade mixture over the beef in the pan and toss to coat evenly. Cook for an additional minute or so to meld flavors.",
+    "Serve hot with chopped fresh cilantro on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "sous-vide",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 31,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "silky-korean-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-korean-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:13:16Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "beef",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Beef",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
