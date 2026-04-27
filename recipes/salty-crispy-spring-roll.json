@@ -1,0 +1,78 @@
+{
+  "title": "Salty Crispy Spring Roll",
+  "description": "A comforting Vietnamese dish featuring iceberg lettuce with a tangy bhuna sauce and a gluten-free-friendly twist.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "2 large heads"
+    },
+    {
+      "name": "Bhuna Sauce Mix (Tomato Paste, Chili Powder, Salt)",
+      "amount": "1 pack"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "Enough for frying"
+    },
+    {
+      "name": "Green Onions (optional)",
+      "amount": "Few"
+    }
+  ],
+  "instructions": [
+    "Prepare the Bhuna Sauce by mixing all ingredients and heating to a simmer, then blending until smooth.",
+    "Mix cornstarch with water until no lumps remain, then stir into Bhuna sauce for thicker consistency. Set aside.",
+    "Blanch lettuce in salted boiling water for 30 seconds, then shock in ice-cold water to prevent browning and make the rolls easier to handle.",
+    "To assemble the rolls: Place a layer of lettuce leaves on a bamboo spring roll wrapper. Spread Bhuna sauce evenly over lettuce, followed by a thin layer of mayonnaise, and green onions if using.",
+    "Roll up tightly starting from one edge and tucking in sides as needed to create a neat package. Fry in vegetable oil at 350°F (175°C) until golden brown on all sides, about 2-3 minutes per side.",
+    "Serve immediately with additional Bhuna sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "spring-roll",
+    "veggie-lettuce",
+    "bhuna-sauce",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "salty-crispy-spring-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crispy-spring-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:29:52Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "bhuna",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Spring Roll",
+    "descriptor": "Salty Crispy",
+    "dishForm": "Roll"
+  }
+}
