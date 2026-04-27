@@ -1,0 +1,81 @@
+{
+  "title": "Spicy Slovakian Cabbage Stir-fry",
+  "description": "A whole30-friendly and creamy brunch dish featuring spicy cabbage with the perfect blend of cider vinegar and curing spices for a traditional Slovak flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 cup shredded Napa cabbage",
+      "amount": "",
+      "notes": "Shredded using a box grater"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp apple cider vinegar",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add shredded cabbage and sauté for about 5 minutes until wilted.",
+    "Stir in smoked paprika, cayenne pepper, minced garlic, and lemon juice. Cook for another minute to meld the flavors.",
+    "Drizzle apple cider vinegar over the mixture and stir quickly to distribute evenly across the cabbage.",
+    "Serve hot as a side dish or lightly drizzled on scrambled eggs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "slovakian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 21,
+    "fat": 9
+  },
+  "slug": "spicy-slovakian-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-slovakian-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:50:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "cider vinegar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
