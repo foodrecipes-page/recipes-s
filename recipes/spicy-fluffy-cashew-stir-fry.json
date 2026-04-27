@@ -1,0 +1,85 @@
+{
+  "title": "Spicy Fluffy Cashew Stir-fry",
+  "description": "A quick and easy weeknight dish featuring a blend of spicy flavors with a touch of tanginess from rice vinegar, served as a flavorful snack that's perfect for those who enjoy crispy textures.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Chop the cashews into small pieces.",
+    "Place chopped cashews, chili flakes, sesame seeds, rice vinegar, soy sauce, sesame oil, garlic, and a pinch of salt in a mixing bowl. Mix well until all ingredients are evenly distributed.",
+    "Heat your air fryer to 350°F (175°C).",
+    "Add the cashew mixture into the hot air fryer basket, making sure not to overcrowd it.",
+    "Cook for about 8-12 minutes or until golden brown and crispy on all sides. Shake the basket halfway through cooking.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "cashew",
+    "fluffy",
+    "nut-free-friendly",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "spicy-fluffy-cashew-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-cashew-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:58:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "rice vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cashew",
+    "descriptor": "Spicy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
