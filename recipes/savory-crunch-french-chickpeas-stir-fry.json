@@ -1,0 +1,80 @@
+{
+  "title": "Savory Crunch French Chickpeas Stir-fry",
+  "description": "A savory and umami-rich French chickpea dish that caramelizes to perfection, suitable for a solo dinner and diabetic-friendly.",
+  "cuisine": "French",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "400g canned French beans",
+      "amount": "can"
+    },
+    {
+      "name": "1 large garlic clove, minced",
+      "amount": "1 piece"
+    },
+    {
+      "name": "2 tbsp coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Pinch of pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "A handful of fresh thyme, chopped",
+      "amount": "1 handful"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a non-stick pan over medium heat.",
+    "Add the minced garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Gently place the drained French beans into the pan, ensuring they don't overcrowd.",
+    "Sprinkle salt and pepper to taste, then sprinkle chopped thyme on top. Stir everything together gently so as not to break up the beans too much.",
+    "Cook for about 5-7 minutes until nicely caramelized and the beans have absorbed the flavors. Keep stirring occasionally to prevent burning.",
+    "Serve hot with a side of your choice or by itself."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "savory-crunch",
+    "french-chickpeas",
+    "stir-fry",
+    "umami-rich",
+    "silky-texture",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "savory-crunch-french-chickpeas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunch-french-chickpeas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:29:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "chickpeas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Savory Crunch",
+    "dishForm": "Stir-fry"
+  }
+}
