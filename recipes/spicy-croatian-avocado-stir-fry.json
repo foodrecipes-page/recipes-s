@@ -1,0 +1,90 @@
+{
+  "title": "Spicy Croatian Avocado Stir-fry",
+  "description": "A salty, creamy breakfast dish featuring a blend of tandoor spices and ginger to bring out the avocado's natural sweetness with a keto-friendly twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": "preferably ripe"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 inch (finely grated)",
+      "notes": "freshly peeled and minced"
+    },
+    {
+      "name": "tandoori powder",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste for spiciness"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "a pinch",
+      "notes": "optional, increase if you like it hotter"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "adjust based on preference for crispiness or softer texture"
+    }
+  ],
+  "instructions": [
+    "Slice the avocado in half and remove the pit. Scoop out the flesh into a mixing bowl.",
+    "Mince two garlic cloves and finely grate about 1/2 inch of ginger root, then mix them into the avocado flesh.",
+    "Add tandoori powder to taste and salt to enhance the flavors without overpowering the avocados' sweetness.",
+    "Whisk in red chili flakes if you prefer a bit more heat, otherwise this step can be skipped for those who prefer milder dishes.",
+    "Drizzle 2 tablespoons of olive oil over the mixture until well combined. The amount may vary based on personal preference to achieve your desired crispiness or soft texture.",
+    "Heat up a non-stick skillet or wok with a drizzle of olive oil over medium-high heat.",
+    "Once hot, pour in the avocado mix and stir-fry for about 5 minutes until all ingredients are heated through and the sauce thickens slightly.",
+    "Serve immediately while hot. This dish is best enjoyed as part of your brunch, providing you with a balanced meal that's both flavorful and satisfying."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "creamy",
+    "keto-friendly",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 14,
+    "fat": 26
+  },
+  "slug": "spicy-croatian-avocado-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-croatian-avocado-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:24:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "ginger",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "avocado",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
