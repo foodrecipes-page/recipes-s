@@ -1,0 +1,79 @@
+{
+  "title": "Sweet and Creamy Venezuelan Cherries Stir-fry",
+  "description": "This sweet and creamy post-workout dish features cherries that are caramelized in a light cream sauce to make it a delicious and nutritious addition to any meal.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "walnut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the walnut oil in a small saucepan over medium heat.",
+    "Add sugar and stir until dissolved. Add cherry tomatoes, salt, and lemon juice; bring to a simmer.",
+    "Gradually add heavy cream and continue to cook for about 2 minutes or until desired thickness is achieved.",
+    "Stir in unsweetened shredded coconut before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "creamy",
+    "vzcherries",
+    "caramelized",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "sweet-and-creamy-venezuelan-cherries-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-creamy-venezuelan-cherries-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:17:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "cherries",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cherries",
+    "descriptor": "Sweet and Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
