@@ -1,0 +1,83 @@
+{
+  "title": "Sous-vide Garlicky French Stir-fry",
+  "description": "A velvety and garlicky French dish infused with lemon zest, ready in a single pot using sous-vide technology for maximum flavor and tenderness.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Tenderloin",
+      "amount": "100g"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "150g"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Chopped Parsley",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide to 57°C (134°F).",
+    "Season pork tenderloin and chicken breast with salt and pepper.",
+    "Cook the pork tenderloin for 1 hour at 57°C (134°F) and the chicken breast for 20 minutes at 60°C (140°F).",
+    "Sauté diced garlic in olive oil until golden brown, about 3-4 minutes.",
+    "Add lemon zest and chopped parsley to the pan. Stir gently to combine with the garlic mixture.",
+    "Remove meat from the sous-vide pouches and let them come to room temperature.",
+    "Place the cooked meat on a plate and pour the sauce over it.",
+    "Drizzle soy sauce evenly over both meats, serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "sous-vide",
+    "velvety",
+    "french",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 45,
+    "carbs": 26,
+    "fat": 35
+  },
+  "slug": "sous-vide-garlicky-french-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-garlicky-french-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:57:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "lemon zest",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Garlic",
+    "descriptor": "Sous-vide",
+    "dishForm": "Stir-fry"
+  }
+}
