@@ -1,0 +1,92 @@
+{
+  "title": "Salty Mediterranean Tomato Stir-fry",
+  "description": "A crispy and salty mediterranean dish featuring red chilli and other aromatic vegetables for a romantic twist that is also vegetarian-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "1 can (400g)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": ""
+    },
+    {
+      "name": "red chilli peppers",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add onions and garlic, sautéing until translucent and slightly golden.",
+    "Add red chilli peppers and cook for another minute until fragrant.",
+    "Stir in tomatoes (with their juice) and lemon juice. Let simmer for about 5 minutes to reduce the liquid slightly.",
+    "Season with salt to taste. Mix in chopped parsley just before serving.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "stir-fry",
+    "vegetarian",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "salty-mediterranean-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-mediterranean-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:38:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "red chilli",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Tomato",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
