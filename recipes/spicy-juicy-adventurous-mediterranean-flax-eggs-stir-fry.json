@@ -1,0 +1,89 @@
+{
+  "title": "Spicy Juicy Adventurous Mediterranean Flax Eggs Stir-fry",
+  "description": "A low-calorie-friendly spicy and juicy Mediterranean dish featuring flax eggs in a savory stir-fry with a touch of adventure.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flax eggs",
+      "amount": "1 egg"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "bell pepper (red and yellow)",
+      "amount": "1 each"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small"
+    },
+    {
+      "name": "olive oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Boil flax eggs according to package instructions.",
+    "Chop tomatoes, bell peppers, and zucchini into thin slices.",
+    "Heat a non-stick skillet with olive oil over medium heat.",
+    "Add chopped vegetables and sauté for about 5 minutes until softened.",
+    "Stir in flax eggs and cook for an additional minute or until fully cooked.",
+    "Season with salt, pepper, and red pepper flakes to taste.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "juicy",
+    "adventurous",
+    "mediterranean",
+    "flax eggs"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "spicy-juicy-adventurous-mediterranean-flax-eggs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-juicy-adventurous-mediterranean-flax-eggs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:02:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "flax eggs",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Flax Eggs",
+    "descriptor": "Spicy Juicy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
