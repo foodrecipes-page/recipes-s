@@ -1,0 +1,98 @@
+{
+  "title": "Salty Gooey Festive Pork Stir-fry",
+  "description": "A halal-friendly Portuguese dish featuring a slow-cooked mixture of pork and garlic sauce, perfect for a festive dinner.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "250g",
+      "notes": "Use halal-certified meat if necessary."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8",
+      "notes": "For a stronger flavor, use larger garlic cloves."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "optional, to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "juice of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Mix cornstarch and water in a small bowl until smooth.",
+    "Heat olive oil in a large skillet over medium-high heat. Add pork belly and cook for about 5 minutes on each side or until golden brown.",
+    "Add garlic cloves, soy sauce, salt, pepper, cayenne pepper (if using), brown sugar, and lemon juice to the pan with pork. Stir well to combine.",
+    "Pour in cornstarch mixture while stirring continuously to prevent burning. Reduce heat to low and simmer for about 15-20 minutes or until sauce thickens slightly.",
+    "Serve hot as a main course with steamed rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "pork",
+    "stir-fry",
+    "garlic",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 631,
+    "protein": 25,
+    "carbs": 79,
+    "fat": 30
+  },
+  "slug": "salty-gooey-festive-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-gooey-festive-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:51:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "slow-cook",
+    "primaryIngredient": "garlic sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "Salty Gooey Festive",
+    "dishForm": "Stir-fry"
+  }
+}
