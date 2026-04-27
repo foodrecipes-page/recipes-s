@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Greek Onion Stir-fry",
+  "description": "A creamy and smoky solo-dinner dish featuring crispy onion rings infused with Mediterranean flavors for a paleo-friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter or ghee",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut onion into thin rings.",
+    "Heat olive oil in a pan over medium heat. Add onion rings and sauté until golden brown, about 10 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Mix together butter or ghee with cumin seeds and smoked paprika. Stir-fry for another minute until fragrant.",
+    "Pour in heavy cream and lemon juice. Bring to a simmer, then reduce heat to low and let it thicken into a creamy sauce. Season with salt and pepper.",
+    "Serve the onion rings topped with the creamy sauce as your main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo-friendly",
+    "creamy-greek-onion-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 386,
+    "protein": 17,
+    "carbs": 25,
+    "fat": 21
+  },
+  "slug": "smoky-greek-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-greek-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:25:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "onion rings",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Onion",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
