@@ -1,0 +1,84 @@
+{
+  "title": "Sick-Day Tunisian Olives Stir-fry",
+  "description": "A low-calorie-friendly and creamy dish featuring pitted black olives, perfect for a sick-day meal that's both flavorful and easy to prepare.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-calorie",
+    "cream-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pitted black olives",
+      "amount": "200g (about 1 cup, pitted)"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "¼ lemon",
+      "notes": "juiced"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes (optional)",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and cook until fragrant, about 30 seconds.",
+    "Stir in the pitted black olives. Cook for another minute.",
+    "Squeeze in lemon juice and add dijon mustard. Mix well.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately as a refreshing snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sick-day",
+    "tunisian",
+    "olive-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "sick-day-tunisian-olives-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-tunisian-olives-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:58:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "pitted black olives",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Olives",
+    "descriptor": "Sick-Day",
+    "dishForm": "Stir-fry"
+  }
+}
