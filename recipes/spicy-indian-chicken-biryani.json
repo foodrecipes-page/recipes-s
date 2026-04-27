@@ -1,0 +1,109 @@
+{
+  "title": "Spicy Indian Chicken Biryani",
+  "description": "A light and sour weeknight dish featuring biryani masala that's perfect for those who enjoy a dash-friendly American-style curry.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken",
+      "amount": "400g",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "Pureed"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sour Mango Chutney",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan, add cumin seeds and toast until golden brown.",
+    "Add onions, garlic, tomato puree, coriander powder, turmeric powder, red chili powder, garam masala, and salt. Cook for about 5 minutes until the spices are fragrant and the mixture is well combined.",
+    "Slice chicken into bite-sized pieces and add them to the pan with a splash of water. Cover and let it cook over medium heat for about 10-12 minutes or until the chicken is cooked through.",
+    "Add rice to the pan, cover with a lid, and steam for another 15 minutes. Open the lid, stir in sour mango chutney if using, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-biryani",
+    "sour-mango-chutney",
+    "american-style"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 25,
+    "carbs": 41,
+    "fat": 8
+  },
+  "slug": "spicy-indian-chicken-biryani",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-indian-chicken-biryani",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:09:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "biryani masala",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
