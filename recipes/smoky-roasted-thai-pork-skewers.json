@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Roasted Thai Pork Skewers",
+  "description": "A fresh, crisp, light Thai dish featuring gluten-free-friendly pork shoulder steaks roasted with smokiness and served as a side dish or appetizer.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 lb (900g) cuts"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 (minced)"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 green onions, sliced thinly"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp for glaze"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 tsp for glaze"
+    }
+  ],
+  "instructions": [
+    "Mix soy sauce, fish sauce, lime juice, minced garlic, and sliced scallions in a large bowl.",
+    "Add the pork shoulder to the marinade, turning to coat evenly. Cover with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat your grill to medium-high heat (around 400°F).",
+    "Coat each skewer with a bit of cooking spray or oil if using wooden skewers.",
+    "Thread the pork onto the skewers, leaving some space between pieces to allow for even cooking.",
+    "Place the skewers on the preheated grill. Brush lightly with reserved glaze mixture and season with salt.",
+    "Cook until well charred and cooked through (internal temp should reach 145°F), about 10-12 minutes per side, turning occasionally to ensure even browning and glazing."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 12,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "thai",
+    "pork",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 31,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "smoky-roasted-thai-pork-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-thai-pork-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:14:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Skewers"
+  }
+}
