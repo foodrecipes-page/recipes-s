@@ -1,0 +1,89 @@
+{
+  "title": "Savory Mediterranean Curry Powder Crumble",
+  "description": "A quick-fix keto-friendly mediterranean dish featuring savory curry powder and a velvety texture for a satisfying meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "",
+      "notes": "Optional, can be omitted"
+    },
+    {
+      "name": "1/2 cup unsweetened almond milk or cream",
+      "amount": "cup",
+      "notes": "Can substitute with Greek yogurt for a dairy-free option"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "8 ounces ground turkey or chicken, cooked and crumbled",
+      "amount": "",
+      "notes": "Can be substituted with beef if preferred"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine the almond milk (or yogurt), olive oil, cumin, smoked paprika, salt, and pepper.",
+    "Add the ground meat to the mixture and mix well until thoroughly combined.",
+    "Fold in the grated Parmesan cheese if using.",
+    "Transfer the crumble mixture onto a baking sheet lined with parchment paper.",
+    "Bake at 350°F (175°C) for about 12-15 minutes, or until the edges are lightly golden and the top is slightly crispy.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "velvety",
+    "keto-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "protein": 15,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "savory-mediterranean-curry-powder-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-mediterranean-curry-powder-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:13:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "curry powder",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "curry_powder",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
