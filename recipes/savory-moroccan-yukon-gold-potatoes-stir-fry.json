@@ -1,0 +1,92 @@
+{
+  "title": "Savory Moroccan Yukon Gold Potatoes Stir-fry",
+  "description": "A sour and juicy Moroccan dish featuring slow-cooked yukon gold potatoes with a blend of aromatic spices for an adventurous low-calorie-friendly meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon Gold Potatoes",
+      "amount": "2 lbs",
+      "notes": "Waxy, medium-sized potatoes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup",
+      "notes": "Chopped for sweetness and depth of flavor"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp",
+      "notes": "For a touch of tanginess"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced finely, adds savory umami notes"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground spice for earthy flavor profile"
+    },
+    {
+      "name": "Coriander (Cilantro)",
+      "amount": "2 tbsp",
+      "notes": "Chopped fresh, garnish and adds freshness to the dish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For stir-frying potatoes and vegetables"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Rinse Yukon Gold Potatoes and slice into 1/2-inch thick rounds.",
+    "Place potato slices on a baking sheet lined with parchment paper, drizzle with olive oil evenly, sprinkle cumin over potatoes and toss until coated.",
+    "Bake for about 35 minutes or until golden brown. Remove from oven.",
+    "While potatoes are baking, prepare the seasoning mix: In a small bowl, combine tomato paste, garlic, salt to taste, and fresh coriander leaves; mix well.",
+    "Heat olive oil in a wok over medium heat. Add onion slices and cook until translucent, about 5 minutes.",
+    "Add prepared seasoning mix, stir-fry for another minute until fragrant. Push the onions to one side of the wok.",
+    "Once potatoes are done, remove them from oven and add back into the wok with the onions. Stir thoroughly to coat.",
+    "Serve hot over a bed of steamed green vegetables or as a side dish alongside grilled meats."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan-stir-fry",
+    "yukon-gold-potatoes",
+    "slow-cooked-dish",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 5,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "savory-moroccan-yukon-gold-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-moroccan-yukon-gold-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:09:39Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Yukon Gold Potatoes",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
