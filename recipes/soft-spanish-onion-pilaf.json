@@ -1,0 +1,72 @@
+{
+  "title": "Soft Spanish Onion Pilaf with Sous-vide",
+  "description": "A light and flavorful meal-prep dish featuring caramelized onions infused with umami notes and a low-carb-friendly sous-vide element.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "1 cup, sliced",
+      "notes": "Use Spanish onions if available"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For umami flavor"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing the onions"
+    },
+    {
+      "name": "Low-Sodium Broth",
+      "amount": "1 cup",
+      "notes": "Use for sous-vide base"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide to 165°F (74°C). Place a large pot on medium-high heat with the vegetable oil. Sauté sliced onions until golden brown and softened.",
+    "Remove from heat, transfer to a bowl, then add soy sauce and let sit for at least 10 minutes to caramelize further and develop flavors.",
+    "In a separate pot or container in the sous-vide water bath, cook the low-sodium broth with sugar until thickened. Once ready, remove from heat and pour over caramelized onions.",
+    "Let cool slightly before dividing into meal-prep containers for use throughout the week."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "onion-pilaf",
+    "sous-vide-cooking",
+    "low-carb-dinner"
+  ],
+  "nutrition": {
+    "calories": 328,
+    "protein": 15,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "soft-spanish-onion-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/soft-spanish-onion-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:31:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Onion",
+    "descriptor": "Soft",
+    "dishForm": "Stir-fry"
+  }
+}
