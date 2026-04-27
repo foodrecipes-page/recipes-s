@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Crumbly Japanese Ginger Garlic Paste Stir-fry",
+  "description": "A solo-dinner dish featuring a smoky crumbly ginger garlic paste that can be prepared as a side or main course with halal-friendly ingredients.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ginger",
+      "amount": "1/2 cup thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced finely"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup, low sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons, rice type or distilled white"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2-3, lightly crushed for smokiness"
+    },
+    {
+      "name": "oil for cooking",
+      "amount": "2 tablespoons, vegetable or peanut oil"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine soy sauce, rice vinegar, sesame oil, sugar, black pepper, and crushed coriander seeds. Stir well to dissolve the sugar and bring to a simmer. Simmer for about 5 minutes until thickened. Remove from heat.",
+    "Add minced ginger and garlic into the sauce while it's still hot, stirring constantly to avoid burning. Continue to stir until all ingredients are evenly coated with the sauce mixture. The paste should be smooth and crumbly in texture.",
+    "Heat 2 tablespoons of oil in a non-stick pan over medium-high heat. Once the oil is shimmering but not smoking, add your prepared ginger garlic paste into the pan. Cook for about 3-4 minutes until fragrant and slightly golden brown.",
+    "Garnish with additional sesame seeds or chopped green onions if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crumbly",
+    "japanese",
+    "gourmet",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 10,
+    "carbs": 19,
+    "fat": 14
+  },
+  "slug": "smoky-crumbly-japanese-ginger-garlic-paste-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-japanese-ginger-garlic-paste-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:51:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "temper",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "ginger garlic paste",
+    "descriptor": "Smoky Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
