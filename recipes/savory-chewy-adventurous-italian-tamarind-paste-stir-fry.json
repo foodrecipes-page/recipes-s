@@ -1,0 +1,88 @@
+{
+  "title": "Savory Chewy Adventurous Italian Tamarind Paste Stir-fry",
+  "description": "A savory and chewy Sicilian-inspired dish featuring tamarind paste with a mediterranean twist, ideal for adding an adventurous kick to your meals.",
+  "cuisine": "Italian (Sicilian)",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Italian Tamarind Paste",
+      "amount": "",
+      "notes": "Use high-quality tamarind paste that is not overly sweet."
+    },
+    {
+      "name": "2 tablespoons Bhuna Masala Powder",
+      "amount": "",
+      "notes": "A mix of Indian spices for a robust flavor."
+    },
+    {
+      "name": "1 can (14 oz) Black Beans",
+      "amount": "",
+      "notes": "Drained and rinsed, adds texture to the dish."
+    },
+    {
+      "name": "2 cloves Garlic",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1 medium Onion",
+      "amount": "",
+      "notes": "Chopped into thin strips"
+    },
+    {
+      "name": "1 bell Pepper (any color)",
+      "amount": "",
+      "notes": "Sliced thinly, for color and added crunch."
+    },
+    {
+      "name": "1 cup Spinach Leaves",
+      "amount": "",
+      "notes": "Washed and dried, for freshness and green color."
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the Italian Tamarind Paste and Bhuna Masala Powder to the heated oil. Stir continuously until it turns golden brown, about 2-3 minutes.",
+    "Add the chopped Garlic, Onion, and sliced bell pepper to the pan, cook for another 5 minutes or until vegetables are slightly softened.",
+    "Stir in the drained Black Beans and spinach leaves, mix well, and let simmer for an additional 4 minutes until all ingredients are heated evenly.",
+    "Serve hot as a side dish with grilled chicken or fish. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tamarind",
+    "bhuna masala",
+    "spinach",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 426,
+    "protein": 10,
+    "carbs": 73,
+    "fat": 15
+  },
+  "slug": "savory-chewy-adventurous-italian-tamarind-paste-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-chewy-adventurous-italian-tamarind-paste-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:18:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "tamarind paste",
+    "diet": "mediterranean",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tamarind paste",
+    "descriptor": "savory chewy adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
