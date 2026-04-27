@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Creamy Masarepa Stir-fry",
+  "description": "A comforting Uruguayan dish featuring yellow masarepa that is kneaded and served with a creamy sauce infused with smokiness. High-protein-friendly, perfect for those seeking a hearty meal option.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Bell Pepper",
+      "amount": "1 small, green or red, thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tablespoons, chopped (optional)"
+    },
+    {
+      "name": "Sour Cream or Yogurt",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Salt and Black Pepper to taste"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil for Stir-fry",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Grease a baking dish with olive oil and sprinkle masarepa on the bottom.",
+    "Combine onion, garlic, and bell pepper in a bowl. Mix well with sour cream, smoked paprika, salt, and pepper. Add tomato sauce until you reach your desired consistency for filling the masarepa pockets.",
+    "Divide the filling evenly among 4 prepared masarepa discs, packing them tightly to form small packets (around 1-inch diameter). Place the filled masarepas in the baking dish.",
+    "Pour the remaining sauce over the top of the masarepas. Bake for about 25 minutes until fully cooked and golden brown.",
+    "Garnish with extra cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "creamy",
+    "masarepa",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 27,
+    "carbs": 56,
+    "fat": 18
+  },
+  "slug": "smoky-creamy-masarepa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-creamy-masarepa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:03:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "masarepa",
+    "descriptor": "smoky creamy comforting",
+    "dishForm": "Stir-fry"
+  }
+}
