@@ -1,0 +1,90 @@
+{
+  "title": "Smoky Peanut Turkish Stir-fry",
+  "description": "A light and flavorful vegan-friendly brunch dish featuring smoky peanut seasoning and stir-fried vegetables.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, julienned"
+    },
+    {
+      "name": "Peanut Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoky Peanut Seasoning Mix",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a non-stick pan over medium-high heat.",
+    "Add chopped onions and sauté until translucent, about 3 minutes.",
+    "Add minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Increase heat to high. Add julienned carrots and bell pepper to the pan. Stir-fry for about 5-7 minutes or until vegetables are tender-crisp.",
+    "Stir in peanut sauce, water, smoky peanut seasoning mix, and salt. Cook for an additional minute until the mixture thickens slightly.",
+    "Serve hot as a side dish or wrap in a whole-grain wrap with lettuce leaves for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-peanut-stir-fry",
+    "vegan-friendly",
+    "turkish-food",
+    "light-dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "smoky-peanut-turkish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-peanut-turkish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:50:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "seasoning",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "peanut",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
