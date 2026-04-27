@@ -1,0 +1,75 @@
+{
+  "title": "Savory Crisp Portuguese Chips Cumble",
+  "description": "A low-calorie-friendly, salty and crumbly dish featuring a caramel sauce with bhuna seasoning in one pot, perfect for a quick breakfast or snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-calorie",
+    "salty"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato Chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Caramel Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bhuna Seasoning Mix (t酥, cumin powder, turmeric)",
+      "amount": "3-4 teaspoons"
+    },
+    {
+      "name": "Salt to taste",
+      "notes": "Adjust amount based on preference and sodium intake"
+    },
+    {
+      "name": "Ghee (clarified butter) or Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Mix bhuna seasoning, salt, and ghee in a small bowl until well combined. Set aside.",
+    "Arrange potato chips on a baking sheet lined with parchment paper. Drizzle caramel sauce over chips.",
+    "Sprinkle the mixed bhuna seasoning mix evenly over the coated chips.",
+    "Bake for 10 minutes at 180°C, then reduce heat to 160°C and bake for an additional 5-7 minutes or until chips are golden brown and crisp.",
+    "Serve warm as a snack or breakfast accompaniment."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 15,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory chips",
+    "caramel sauce",
+    "bhuna seasoning",
+    "low calorie"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "savory-crisp-portuguese-chips-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crisp-portuguese-chips-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:09:44Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "caramel sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chips",
+    "descriptor": "Savory Crisp",
+    "dishForm": "Crumble"
+  }
+}
