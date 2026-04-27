@@ -1,0 +1,97 @@
+{
+  "title": "Spicy Tender Malaysian Dumplings Stir-fry",
+  "description": "This dish satisfies midnight cravings with its blend of spicy dried red chillies and tender dumplings, perfect for a diabetic-friendly snack.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dumplings",
+      "amount": "100g",
+      "notes": "Preferably made with gluten-free flour for easy digestion."
+    },
+    {
+      "name": "Ground Chicken or Turkey",
+      "amount": "50g",
+      "notes": "Use lean cuts to keep the dish healthier."
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1/2 tbsp",
+      "notes": "For extra umami flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Spring Onion, sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Water (for dumplings)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add minced garlic and spring onions to the pan, stir for 2 minutes.",
+    "Fold in ground chicken or turkey along with salt, red chili powder, and optional fish sauce. Stir until fully incorporated and heated through.",
+    "Gently submerge dumplings into the cooking mixture using a spoon, adding water as needed to prevent sticking.",
+    "Simmer gently for about 5 minutes until the ingredients are well combined and the dumplings are cooked but still tender.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "spicy",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 11,
+    "carbs": 7,
+    "fat": 3
+  },
+  "slug": "spicy-tender-malaysian-dumplings-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-tender-malaysian-dumplings-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:48:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "dum",
+    "primaryIngredient": "dried red chillies",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dumplings",
+    "descriptor": "Spicy Tender Midnight Craving",
+    "dishForm": "Stir-fry"
+  }
+}
