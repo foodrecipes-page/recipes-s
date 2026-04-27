@@ -1,0 +1,75 @@
+{
+  "title": "Sweet & Juicy Turkish Pork Stir-fry",
+  "description": "This meal-prep-friendly dish features steamed minced pork with a sweet and savory sauce, perfect for a quick lunch or dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "high-protein",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork loin meat",
+      "amount": "200g",
+      "notes": "Minced and seasoned with garlic, paprika, turmeric"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "For steaming"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Finely minced for the sauce"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped finely, diced"
+    }
+  ],
+  "instructions": [
+    "Mix pork with water, garlic, and paprika until fully blended.",
+    "Steam the mixture in a steamer basket over boiling water for about 10 minutes or until cooked through.",
+    "Heat oil in a pan over medium heat. Add minced red bell pepper and cook for 2-3 minutes until softened slightly.",
+    "In another pan, sauté chopped garlic until fragrant, then add the steamed pork mixture and stir-fry for an additional 2-3 minutes to coat with flavor.",
+    "Season with a pinch of salt and turmeric. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "stir-fry",
+    "steamed",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 31,
+    "carbs": 2,
+    "fat": 9
+  },
+  "slug": "sweet-juicy-turkish-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-juicy-turkish-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:29:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "minced pork",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pork",
+    "descriptor": "Sweet & Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
