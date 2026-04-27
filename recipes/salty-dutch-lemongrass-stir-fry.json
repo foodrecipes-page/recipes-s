@@ -1,0 +1,89 @@
+{
+  "title": "Salty Dutch Lemongrass Stir-Fry",
+  "description": "A crispy and savory dish with a unique blend of lemongrass stalks that tantalizes the taste buds with its tropical notes, perfect for those who crave something midnight-craving but without compromising their dietary choices.",
+  "cuisine": "Indonesian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup of shrimp, peeled and deveined",
+      "amount": "",
+      "notes": "use any protein alternative based on your dietary preference"
+    },
+    {
+      "name": "2 lemongrass stalks, white part only",
+      "amount": "",
+      "notes": "about 6 inches long"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of sesame seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp of fish sauce (optional)",
+      "amount": "",
+      "notes": "adjust according to taste"
+    },
+    {
+      "name": "2 tbsp of coconut oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a skillet over medium-high heat.",
+    "Add minced garlic and sauté until fragrant, about 30 seconds.",
+    "Gently add lemongrass stalks and cook for another minute to soften slightly.",
+    "Push the lemongrass to one side of the skillet and add shrimp to the other half. Cook until opaque and pinked through, about 2-3 minutes per batch if needed.",
+    "Sprinkle sesame seeds evenly over shrimp in the skillet. If using fish sauce, stir it into the shrimp mixture now for added flavor.",
+    "Stir everything together gently so that all ingredients are coated with the lemongrass aroma and sesame seeds' crunch.",
+    "Serve hot as a snack or meal accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "crisp",
+    "midnight-craving",
+    "dutch",
+    "dish",
+    "featuring",
+    "lemongrass",
+    "stems"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 26
+  },
+  "slug": "salty-dutch-lemongrass-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-dutch-lemongrass-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:54:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Lemongrass",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
