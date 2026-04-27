@@ -1,0 +1,106 @@
+{
+  "title": "Salty Indian Sirloin Steak Tips",
+  "description": "A tender and nostalgic dish featuring sirloin steak tips in a creamy, dairy-free sauce that is perfect for a quick dinner or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) sirloin steak tips",
+      "amount": "",
+      "notes": "trimmed and cut into bite-sized pieces"
+    },
+    {
+      "name": "2 tbsp coconut oil or vegan butter substitute",
+      "amount": "each side of the pan"
+    },
+    {
+      "name": "1 large onion, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "3 cups vegetable broth",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp tomato paste or vegan tomato sauce",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": ""
+    },
+    {
+      "name": "1/8 tsp black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 can (6 oz) coconut milk or almond milk",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add the oil and swirl to coat.",
+    "Add the onion and garlic, sautéing until softened and translucent, about 5 minutes.",
+    "Season the steak tips with salt and pepper on both sides, then add them to the pan. Cook for about 1-2 minutes per side or until browned.",
+    "Pour in the vegetable broth, tomato paste, cumin, smoked paprika, turmeric, salt, and black pepper. Stir well to combine all ingredients.",
+    "Bring to a boil then reduce heat to low, cover with a lid, and simmer for about 15 minutes.",
+    "Stir in the coconut milk or almond milk and cook for an additional 3-4 minutes until thickened.",
+    "Serve hot as a snack or side dish with steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "tender",
+    "indian",
+    "steak-tips",
+    "air-fryer-friendly",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 16,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "salty-indian-sirloin-steak-tips",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-indian-sirloin-steak-tips",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:56:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Sirloin Steak",
+    "descriptor": "Salty",
+    "dishForm": "Tips"
+  }
+}
