@@ -1,0 +1,94 @@
+{
+  "title": "Savory Silky Indian Potato Stir-fry",
+  "description": "A kid-friendly Polish dish featuring savory potato slices mixed with creamy Dijon mustard in a simple and silky sauce.",
+  "cuisine": "Indian-Polish Fusion",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "preferably peeled and sliced thinly"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 teaspoons",
+      "notes": "add a pinch of salt for taste"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon",
+      "notes": "to add flavor and aroma"
+    },
+    {
+      "name": "chopped garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "green chilies (optional)",
+      "amount": "2-3 slices",
+      "notes": "for a bit of heat"
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": "1/8 teaspoon",
+      "notes": "optional, for added depth"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a wok or large pan over medium-high heat.",
+    "Add cumin seeds and let them sizzle until they pop.",
+    "Add finely chopped onions and sauté till translucent.",
+    "Add sliced potatoes to the pan, stirring occasionally for about 5 minutes to soften slightly.",
+    "Stir in Dijon mustard with a pinch of salt, ensuring it fully coats the vegetables and potatoes.",
+    "If using green chilies, add them now and stir well.",
+    "Sprinkle nutmeg powder (if using) over everything and mix again.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "silky",
+    "kid-friendly",
+    "indian-potato-stir-fry",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 34,
+    "fat": 16
+  },
+  "slug": "savory-silky-indian-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-silky-indian-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:35:58Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "tadka",
+    "primaryIngredient": "dijon mustard",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Potato",
+    "descriptor": "Savory Silky",
+    "dishForm": "Stir-fry"
+  }
+}
