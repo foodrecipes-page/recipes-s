@@ -1,0 +1,91 @@
+{
+  "title": "Silky Sick-Day Citrus Stir-fry",
+  "description": "This egg-free friendly, citrusy and silky dish features bay leaf to provide a unique twist on traditional Kenyan cuisine for those feeling under the weather.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 tablespoons of vegetable oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "not specified",
+      "notes": "about half a medium-sized onion"
+    },
+    {
+      "name": "3 cloves of garlic, minced",
+      "amount": "not specified",
+      "notes": "about 2-3 cloves"
+    },
+    {
+      "name": "1 red bell pepper, thinly sliced",
+      "amount": "not specified",
+      "notes": "about the size of a thumb"
+    },
+    {
+      "name": "2 cups of shredded coconut (unsweetened)",
+      "amount": "cups",
+      "notes": "or use any other type of coconut you prefer"
+    },
+    {
+      "name": "Juice of 1 lime and 1 orange",
+      "amount": "juices of 1 each",
+      "notes": "freshly squeezed for extra citrusy flavor"
+    },
+    {
+      "name": "3 bay leaves",
+      "amount": "bay leaves"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a wok or large frying pan, heat the vegetable oil over medium-high heat.",
+    "Add the finely chopped onion and minced garlic. Sauté until the onions turn translucent, about 3-4 minutes.",
+    "Next, add the thinly sliced red bell pepper and cook for an additional 2-3 minutes until slightly softened but still crisp.",
+    "Fold in the shredded coconut and gently stir to combine with the vegetables and garlic mixture.",
+    "Add the freshly squeezed lime and orange juices to the pan. Stir well to coat all ingredients evenly.",
+    "Gently toss in the bay leaves for a moment, just enough to infuse their flavor into the dish without overcooking them.",
+    "Season with salt to taste if needed.",
+    "Serve hot as a snack or light meal accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "silky",
+    "bay leaf",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 187,
+    "protein": 2.6,
+    "carbs": 30.2,
+    "fat": 4.9
+  },
+  "slug": "silky-sick-day-citrus-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-sick-day-citrus-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:59:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "bay leaf",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Citrus",
+    "descriptor": "Sick-Day Silky",
+    "dishForm": "Stir-fry"
+  }
+}
