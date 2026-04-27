@@ -1,0 +1,81 @@
+{
+  "title": "Savory Silky Light Air Fried Tomato Stir-fry",
+  "description": "This savory and light air fried dish features baby plum tomatoes in a silky sauce that is both low-calorie-friendly and enjoyable for the whole family.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-calorie",
+    "salty"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baby Plum Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "a small handful (optional)"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "juice of 1 lime"
+    }
+  ],
+  "instructions": [
+    "Wash and finely chop the baby plum tomatoes.",
+    "Mince the garlic cloves.",
+    "Heat olive oil in an air fryer basket at a temperature between 200°C to 230°C (40-45 minutes).",
+    "Add minced garlic to the hot oil and sauté for about 1 minute until fragrant, but be cautious not to burn it.",
+    "Stir in chopped tomatoes and cook for another 2-3 minutes until they soften slightly.",
+    "Drizzle with soy sauce and stir well. Let it simmer over low heat for a couple of minutes to meld the flavors together.",
+    "Add lime juice if desired, followed by sesame seeds (if using) and stir to incorporate all ingredients evenly.",
+    "Check seasoning and adjust according to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "baby-plum-tomato",
+    "savory-light",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 2
+  },
+  "slug": "savory-silky-light-air-fried-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-silky-light-air-fried-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:02:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Savory Silky Light Air Fried",
+    "dishForm": "Stir-fry"
+  }
+}
