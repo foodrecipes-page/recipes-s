@@ -1,0 +1,77 @@
+{
+  "title": "Spicy Gooey Corn Flour Stir-fry",
+  "description": "This Spicy Gooey Corn Flour Stir-fry is a show-off Italian dish featuring corn flour that's kneadable and high-protein-friendly, perfect for breakfast or lunch.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Corn Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes (Sriracha)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground Beef or Chicken",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Mix together corn flour and garlic powder in a large bowl.",
+    "Add onion, paprika, red pepper flakes, and ground beef or chicken to the mixture. Knead until well combined.",
+    "Form into patties about 1-inch thick and flatten slightly on both sides.",
+    "Place on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until golden brown and crispy on the outside.",
+    "Remove from oven, let cool slightly, then serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "gooey",
+    "corn_flour",
+    "high_protein"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 19,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "spicy-gooey-corn-flour-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-corn-flour-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:31:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "knead",
+    "primaryIngredient": "corn flour",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Corn Flour",
+    "descriptor": "spicy gooey",
+    "dishForm": "Stir-fry"
+  }
+}
