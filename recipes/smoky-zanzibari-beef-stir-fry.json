@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Zanzibari Beef Stir-fry",
+  "description": "A hearty and flavorful low-carb-friendly meal perfect for a sick-day comfort food dish featuring slow-cooked beef with smokiness from pickle juice.",
+  "cuisine": "Caribbean-Venezuelan",
+  "diet": [
+    "low-carb",
+    "sick-day"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "200g"
+    },
+    {
+      "name": "yellow onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell peppers (red and green)",
+      "amount": "2 pcs"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 lime"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Trim the sirloin of excess fat. Slice it into thin strips.",
+    "Finely chop the yellow onions, bell peppers, and garlic cloves.",
+    "Mix olive oil with lime juice in a bowl for marinade. Add sliced onions, bell peppers, and garlic to marinate overnight or for at least 30 minutes.",
+    "Heat some olive oil in a wok over medium-high heat. Sear the beef strips until golden brown on all sides.",
+    "Add smoked paprika and salt/pepper to taste into the wok. Stir-fry for a minute, allowing the spices to meld with the meat.",
+    "Once the beef is well-browned, add the marinated vegetables from the bowl. Cook for about 5 minutes, stirring occasionally until the vegetables are tender but still have some crunch.",
+    "Finish cooking by adding a splash of water or chicken broth if needed to cook out any excess juice, and reduce heat to low. Cover the wok with a lid for 2-3 minutes to ensure everything is well-cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 47,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "zanzibari",
+    "beef-stir-fry",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "smoky-zanzibari-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-zanzibari-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:18:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "pickle juice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "beef",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
