@@ -1,0 +1,83 @@
+{
+  "title": "Sour Light Crowd-Pleaser Egyptian Sevaiiya Stir-fry",
+  "description": "This low-sodium-friendly stir-fry is a light and sour take on the popular Egyptian dish featuring sevaiiya (puffed rice noodles). It's perfect for a quick lunch or dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sevaiiya",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/4 cup, low-sodium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons, fresh squeezed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "dill weed (for garnish)",
+      "amount": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a wok or large skillet over medium-high heat. Add sevaiiya and cook for about 2 minutes, stirring frequently.",
+    "Add garlic and onion; sauté until fragrant, about 1 minute. Stir in tomato sauce and lemon juice. Cook for another minute to let flavors meld together.",
+    "Reduce heat to low-medium, add bell pepper, salt, and dill weed. Mix well and cook for an additional 5-7 minutes until vegetables are tender but still crisp.",
+    "Serve hot as a side dish or over steamed greens like spinach."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "sevaiiya",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 217,
+    "protein": 6,
+    "carbs": 39,
+    "fat": 4
+  },
+  "slug": "sour-light-crowd-pleaser-egyptian-sevaiiya-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-light-crowd-pleaser-egyptian-sevaiiya-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:06:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sevaiiya",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Sour Light Crowd-Pleaser",
+    "dishForm": "Stir-fry"
+  }
+}
