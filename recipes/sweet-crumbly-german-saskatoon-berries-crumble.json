@@ -1,0 +1,88 @@
+{
+  "title": "Sweet Crumbly German Saskatoon Berries Crumble",
+  "description": "A lazy Sunday dish featuring sweet and tangy saskatoon berries topped with a crumbly oat-based crust.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons (solidified)",
+      "notes": null
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3/4 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "kosher salt",
+      "amount": "a pinch",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "optional, 1-2 teaspoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "If using fresh saskatoon berries, rinse them and pat dry. If using frozen, simply thaw.",
+    "In a mixing bowl, combine the rolled oats, flour, sugar, and a pinch of salt. Cut in softened butter with your fingers until the mixture resembles coarse crumbs.",
+    "Stir in vanilla extract if using.",
+    "Spread the oat mixture evenly on a baking sheet lined with parchment paper.",
+    "Evenly distribute the saskatoon berries over the oat crust.",
+    "Bake for 20-25 minutes or until golden brown and crisp on top. Stir carefully to redistribute the berries.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saskatoon-berries",
+    "crumble-dessert",
+    "lazy-sunday-meal"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 3,
+    "carbs": 41,
+    "fat": 9
+  },
+  "slug": "sweet-crumbly-german-saskatoon-berries-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crumbly-german-saskatoon-berries-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:22:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Saskatoon Berries",
+    "descriptor": "Sweet Crumbly",
+    "dishForm": "Crumble"
+  }
+}
