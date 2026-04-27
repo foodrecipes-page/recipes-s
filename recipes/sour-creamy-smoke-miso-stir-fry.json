@@ -1,0 +1,88 @@
+{
+  "title": "Sour Creamy Smoke Miso Stir-fry",
+  "description": "This romantic Japanese dish features a blend of sour cream, miso paste, and smoked flavors with the addition of dried cranberries for added depth and sweetness.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of sour cream",
+      "amount": "cup",
+      "notes": "Use full-fat sour cream for richer flavor."
+    },
+    {
+      "name": "2 tablespoons miso paste",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "4 oz smoked salmon fillets",
+      "amount": "oz",
+      "notes": "Optional, use smoked tuna or other seafood if preferred."
+    },
+    {
+      "name": "1/2 cup dried cranberries",
+      "amount": "cup",
+      "notes": "Add for sweetness and texture."
+    },
+    {
+      "name": "3 cloves of garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 yellow onion, thinly sliced",
+      "amount": "slice"
+    },
+    {
+      "name": "2 cups baby spinach leaves",
+      "amount": "cup"
+    },
+    {
+      "name": "A few slices of smoked salmon for garnish (optional)",
+      "amount": null,
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt the miso paste in a small saucepan with 1/4 cup of water until smooth and slightly thickened.",
+    "In a large skillet or wok, heat some oil over medium-high heat. Add sliced onions and minced garlic; sauté for about 3 minutes until they are translucent and fragrant.",
+    "Stir in the melted miso mixture and dried cranberries, along with the sour cream. Bring to a simmer and let it cook for another minute to allow flavors to meld together.",
+    "Increase heat to high, add sliced salmon (if using) and stir occasionally until just cooked through, about 1-2 minutes per side if desired.",
+    "Add spinach leaves towards the end of cooking; toss them in the miso mixture to wilt slightly. Serve hot with extra dried cranberries and garnished with slices of smoked salmon if used.",
+    "Enjoy your hearty and aromatic dish as a satisfying dinner option."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sour",
+    "creamy",
+    "smoke",
+    "misoshio"
+  ],
+  "nutrition": {
+    "calories": 678,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 31
+  },
+  "slug": "sour-creamy-smoke-miso-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-creamy-smoke-miso-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:24:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "dried cranberries",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "miso",
+    "descriptor": "Sour Creamy Smoke",
+    "dishForm": "Stir-fry"
+  }
+}
