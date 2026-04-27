@@ -1,0 +1,84 @@
+{
+  "title": "Spicy Dense Adventurous Thai Navy Bean Stir-fry",
+  "description": "This dish features spicy, dense white navy beans in a flavorful sauce with aromatic spices and fresh herbs, ideal as a vegan-friendly dinner option.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (14 oz/398g) navy beans",
+      "amount": "",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "2 tbsp soy sauce"
+    },
+    {
+      "name": "1 tbsp fish sauce"
+    },
+    {
+      "name": "1 tbsp brown sugar"
+    },
+    {
+      "name": "1 clove garlic, minced"
+    },
+    {
+      "name": "1 tsp ground red chili pepper (serrano or cayenne)",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "1/2 cup water"
+    },
+    {
+      "name": "1 tsp ginger powder",
+      "notes": "Freshly grated if available"
+    },
+    {
+      "name": "3 tbsp vegetable oil"
+    },
+    {
+      "name": "Salt and pepper, to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat. Add minced garlic and red chili pepper, sautéing for about 1 minute.",
+    "Add navy beans, fish sauce, soy sauce, brown sugar, water, ginger powder, salt, and pepper to the skillet. Stir well to combine.",
+    "Increase heat to high, bring the mixture to a boil then reduce to medium-low. Simmer for about 5-7 minutes or until the liquid has reduced slightly and flavors are well incorporated.",
+    "Serve hot over steamed rice with fresh herbs like cilantro or basil on top if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "navy beans",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 11,
+    "carbs": 68,
+    "fat": 9
+  },
+  "slug": "spicy-dense-adventurous-thai-navy-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-dense-adventurous-thai-navy-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:25:05Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "dried white navy beans",
+    "descriptor": "Spicy Dense Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
