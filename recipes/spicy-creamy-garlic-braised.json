@@ -1,0 +1,94 @@
+{
+  "title": "Spicy Creamy Garlic Braised with Saucy Bhuna and Sauerkraut",
+  "description": "This rich, spicy, creamy dish combines elements of Australian comfort food with a twist of South Asian cuisine. Perfect for date nights, it features the comforting flavors of garlic, sauerkraut, and a hint of bhuna spice.",
+  "cuisine": "Australian, Indian-Inspired",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Coconut Milk",
+      "amount": "2 cups",
+      "notes": "Use full-fat for richness"
+    },
+    {
+      "name": "Sauerkraut (Serving size: 1 cup)",
+      "amount": "2 cups fresh or frozen, rinsed and drained",
+      "notes": "For added flavor, add some dried red chili flakes to the sauerkraut before use."
+    },
+    {
+      "name": "Garlic Puree (3 cloves of garlic, minced)",
+      "amount": "1 cup",
+      "notes": "Blend until smooth"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Use a good quality tomato paste for best results"
+    },
+    {
+      "name": "Sesame Oil (or any mild flavored oil)",
+      "amount": "1 tablespoon",
+      "notes": "For aroma and flavor enhancement"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "to taste",
+      "notes": "Add to taste for heat, but keep in mind the already spicy bhuna masala."
+    },
+    {
+      "name": "Sour Cream (optional)",
+      "amount": "2 tablespoons",
+      "notes": "For a creamy texture"
+    },
+    {
+      "name": "Red Chilli Flakes (for garnish and flavor enhancement)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut milk in a large pot over medium heat, stirring occasionally.",
+    "Add garlic puree, tomato paste, sauerkraut, sesame oil, and freshly ground black pepper. Stir well to combine all ingredients together.",
+    "Simmer for about 15 minutes until the flavors are fully infused into the dish.",
+    "Pour in sour cream if using and stir gently to ensure it melts evenly with other ingredients.",
+    "Serve hot garnished with a sprinkle of red chilli flakes on top, along with crusty bread or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-dish",
+    "garlicky",
+    "creamy",
+    "nut-free-friendly",
+    "south-african-fusion"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 30
+  },
+  "slug": "spicy-creamy-garlic-braised",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-garlic-braised",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:52:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "sauerkraut",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Creamy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
