@@ -1,0 +1,87 @@
+{
+  "title": "Sour Gooey German Gruyère Stir-fry",
+  "description": "This sour and gooey German Gruyère dish is perfect for a Mediterranean-friendly breakfast or light lunch featuring caramelized flavors and textures.",
+  "cuisine": "German, Mediterranean",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 oz Gruyère cheese",
+      "amount": "cut into small cubes"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "diced finely"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "3 tbsp olive oil",
+      "notes": "heated to medium-high for cooking and caramelization"
+    },
+    {
+      "name": "1 lemon",
+      "amount": "squeezed juice only"
+    },
+    {
+      "name": "2 tbsp white wine vinegar",
+      "notes": "optional for acidity"
+    },
+    {
+      "name": "1 tsp salt"
+    },
+    {
+      "name": "Pinch of black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat your stove to medium-high heat.",
+    "In a large skillet, add the olive oil and onion. Cook until translucent, about 5 minutes.",
+    "Add garlic and cook for an additional minute until fragrant.",
+    "Increase heat to high and stir in grated Gruyère cheese cubes. Let them melt first before adding any liquid to prevent burning.",
+    "Pour the lemon juice over the melted cheese gently and toss well to combine. If desired, add a splash of white wine vinegar now to enhance acidity without overpowering the dish's flavors.",
+    "Season with salt and pepper to taste.",
+    "Turn off heat immediately after stirring in the last ingredients to avoid overcooking and losing that gooey texture.",
+    "Serve hot as a side dish or atop toast for an elegant breakfast experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "gooey",
+    "german",
+    "gruyere",
+    "caramelize"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 4,
+    "fat": 18
+  },
+  "slug": "sour-gooey-german-gruyere-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-gooey-german-gruyere-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:35:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "gruy re",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Gruyère",
+    "descriptor": "sour gooey",
+    "dishForm": "Stir-fry"
+  }
+}
