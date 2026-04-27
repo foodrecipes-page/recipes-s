@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Crumbly Algerian Asparagus Crumbl",
+  "description": "This indulgent algerian dish features a smoky flavor infused asparagus, crumbly in texture and perfectly suited for an afternoon snack or light meal.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "a few sprigs (optional)"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 clove, minced"
+    }
+  ],
+  "instructions": [
+    "Trim the ends of the asparagus and cut them into uniform pieces.",
+    "In a large skillet or saucepan, heat olive oil over medium heat. Add asparagus, balsamic vinegar, salt, pepper, smoked paprika, and garlic; toss to coat evenly.",
+    "Cover with a lid and cook for 5-7 minutes until the asparagus is tender but still crisp.",
+    "Remove from heat and let cool slightly before using as an ingredient in your desired recipe. Sprinkle thyme leaves on top if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crumbly",
+    "algerian",
+    "asparagus",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 9
+  },
+  "slug": "smoky-crumbly-algerian-asparagus-crumbl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-algerian-asparagus-crumbl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:09:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "asparagus",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Asparagus",
+    "descriptor": "Smoky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
