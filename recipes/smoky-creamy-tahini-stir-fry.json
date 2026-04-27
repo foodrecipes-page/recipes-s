@@ -1,0 +1,114 @@
+{
+  "title": "Smoky Creamy Tahini Stir-fry",
+  "description": "A weeknight vegan-friendly Korean dish featuring smoky flavors and creamy tahini sauce, perfect for quick meal prep.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tablespoon toasted sesame seeds",
+      "amount": "tablespoon",
+      "notes": "For added crunch and flavor"
+    },
+    {
+      "name": "2 tablespoons tahini",
+      "amount": "tablespoon",
+      "notes": "A vegan-friendly alternative to soy sauce"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "cup",
+      "notes": "Adjust as needed for desired consistency of sauce"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice",
+      "notes": "Optional, for extra tanginess"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves",
+      "notes": "Minced or pressed"
+    },
+    {
+      "name": "Pinch of smoked paprika",
+      "amount": "pinch",
+      "notes": "Toasted for added smokiness"
+    },
+    {
+      "name": "1/4 teaspoon ground ginger",
+      "amount": "teaspoon",
+      "notes": "For extra depth of flavor"
+    },
+    {
+      "name": "1/4 cup nutritional yeast",
+      "amount": "cup",
+      "notes": "Optional, for a nuttier taste"
+    },
+    {
+      "name": "2 tablespoons soy sauce (or tamari)",
+      "amount": "tablespoon",
+      "notes": "Vegan alternative, if needed"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "1 bell pepper, diced (any color)",
+      "amount": "medium",
+      "notes": "Add a pop of color and sweetness to the dish"
+    },
+    {
+      "name": "1 small onion, thinly sliced",
+      "amount": "medium",
+      "notes": "Adds texture and depth"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat.",
+    "Add toasted sesame seeds and a pinch of salt to the hot pan. Toast until fragrant and lightly golden, about 1-2 minutes.",
+    "Melt 1 tablespoon of coconut oil in the same pan if using, then add minced garlic and smoked paprika. Sauté for another minute or two until fragrant.",
+    "Pour in tahini, water, lemon juice (if using), ginger, nutritional yeast (if using), and soy sauce (or tamari). Stir to combine and bring to a simmer.",
+    "Once the liquid is thickened into a smooth sauce, add diced bell pepper and sliced onion. Stir frequently until all vegetables are heated through and the sauce has slightly thickened, about 5-7 minutes.",
+    "Season with salt and pepper to taste before serving. Enjoy as a side dish or over rice for an authentic Korean flavor experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "creamy",
+    "tahini",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 516,
+    "protein": 27,
+    "carbs": 39,
+    "fat": 24
+  },
+  "slug": "smoky-creamy-tahini-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-creamy-tahini-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:11:01Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "fry",
+    "primaryIngredient": "tahini",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Tahini",
+    "descriptor": "Smoky Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
