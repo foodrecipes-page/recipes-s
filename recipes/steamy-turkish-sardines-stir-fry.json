@@ -1,0 +1,88 @@
+{
+  "title": "Steamy Turkish Sardines Stir-fry",
+  "description": "A sour and creamy low-carb-friendly dish featuring steam-cooked sardines with a side of aromatic herbs for an unexpected twist on traditional Mediterranean flavors.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "sour"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 can (400g) of sardines in oil, drained and reserved oil",
+      "amount": "",
+      "notes": "Use a full can for more fish"
+    },
+    {
+      "name": "2 tablespoons lemon juice or vinegar",
+      "amount": "",
+      "notes": "Adjust to taste for sourness"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Handful of fresh dill leaves",
+      "amount": "",
+      "notes": "About 2-3 sprigs per can of sardines"
+    },
+    {
+      "name": "1 tablespoon unsalted butter or ghee",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "For extra flavor"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "",
+      "notes": "To taste for seasoning"
+    }
+  ],
+  "instructions": [
+    "Place the drained sardines in a steamer basket over boiling water and steam for about 5 minutes or until just cooked through.",
+    "In a small saucepan, mix together lemon juice, minced garlic, dill, unsalted butter, salt, and pepper. Stir well to combine.",
+    "Pour the sauce over the steamed sardines in the basket and toss gently with tongs to coat evenly.",
+    "Transfer the sardine mixture to a serving bowl, garnish with extra fresh dill sprigs if desired, and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sardines",
+    "stir-fry",
+    "steam-cooked",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 381,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "steamy-turkish-sardines-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamy-turkish-sardines-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:03:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "sardines",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Sardines",
+    "descriptor": "Steamy",
+    "dishForm": "Stir-fry"
+  }
+}
