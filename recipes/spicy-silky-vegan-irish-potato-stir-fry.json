@@ -1,0 +1,93 @@
+{
+  "title": "Spicy Silky Vegan Irish Potato Stir-fry",
+  "description": "This tangy and silky vegan Irish dish features a blend of cider and whisk to create a spicy-savory sauce that complements the creamy mashed potatoes, making it perfect for weeknight dinners.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb of Irish potatoes",
+      "amount": "medium-sized"
+    },
+    {
+      "name": "1/4 cup vegetable broth",
+      "notes": "low sodium"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "notes": "or vegan butter for a dairy-free option"
+    },
+    {
+      "name": "1 small onion, finely chopped"
+    },
+    {
+      "name": "3 cloves garlic, minced"
+    },
+    {
+      "name": "1 red pepper, diced (optional)"
+    },
+    {
+      "name": "2 tbsp cider vinegar"
+    },
+    {
+      "name": "1/4 cup whisked plant-based milk or cream (such as almond or soy milk with a thickener like cornstarch)",
+      "notes": "for silky texture"
+    },
+    {
+      "name": "1 tsp smoked paprika"
+    },
+    {
+      "name": "Pinch of cayenne pepper"
+    },
+    {
+      "name": "Salt and freshly ground black pepper, to taste"
+    },
+    {
+      "name": "Fresh parsley or dill for garnish (optional)"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in salted water until tender. Drain and mash with a little vegetable broth.",
+    "Meanwhile, heat olive oil (or vegan butter) in a wok over medium-high heat. Add onions and garlic; sauté for about 2 minutes or until fragrant.",
+    "If using, add red pepper and cook for an additional minute. Stir in cider vinegar, whisked plant-based milk, smoked paprika, cayenne pepper, salt, and pepper.",
+    "Slowly pour the hot mash into the wok with the sauce mixture, stirring continuously to avoid lumping. Bring back to a simmer and let it thicken slightly by cooking for about 5-7 minutes.",
+    "Serve immediately garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-irish-dinner",
+    "tangy-potato-stir-fry",
+    "silky-spice",
+    "cider-vinegar"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 75,
+    "fat": 20
+  },
+  "slug": "spicy-silky-vegan-irish-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-silky-vegan-irish-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:20:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "cider",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Spicy Silky Vegan",
+    "dishForm": "Stir-fry"
+  }
+}
