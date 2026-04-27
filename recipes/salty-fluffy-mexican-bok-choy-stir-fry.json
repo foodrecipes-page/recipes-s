@@ -1,0 +1,78 @@
+{
+  "title": "Salty Fluffy Mexican Bok Choy Stir-fry",
+  "description": "This kid-friendly Mexican-inspired dish features salty and fluffy bok choy that's perfect for stir-frying at home. It's a gluten-free recipe suitable for all kids to prepare with parental supervision.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 bunch of bok choy",
+      "amount": "",
+      "notes": "Trimmed and cleaned"
+    },
+    {
+      "name": "2 tbsp olive oil or avocado oil",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp cumin powder",
+      "amount": "",
+      "notes": "Optional for extra flavor"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large frying pan over medium-high heat.",
+    "Add the minced garlic and cook until fragrant, about 30 seconds.",
+    "Add the bok choy to the pan, tossing gently with tongs for even cooking. Season with salt as needed.",
+    "If desired, sprinkle some cumin powder over the bok choy before serving to enhance its flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "fluffy",
+    "kid-friendly",
+    "mexican",
+    "stir-fry",
+    "bok choy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "salty-fluffy-mexican-bok-choy-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-fluffy-mexican-bok-choy-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:55:52Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "bok choi",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Bok Choy",
+    "descriptor": "Salty Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
