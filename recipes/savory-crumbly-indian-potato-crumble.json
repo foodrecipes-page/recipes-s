@@ -1,0 +1,79 @@
+{
+  "title": "Savory Crumbly Indian Potato Cumber",
+  "description": "A kid-friendly polish dish featuring kabse spice and egg-free-friendly tempering method for a savory crumbly texture.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "kabse spice mix (turmeric, cumin seeds, coriander powder)",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "curd",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Peel and chop potatoes into small cubes.",
+    "Chop onions finely and sauté in oil until translucent.",
+    "Add potato cubes, salt, and kabse spice mix to the onion mixture. Cook over medium heat for about 5 minutes.",
+    "Pour curd over the mixture and continue cooking until all liquid is absorbed (about 3 more minutes).",
+    "Turn off heat and cool slightly before shaping into small patties or crumbles.",
+    "Serve as a snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crumbly",
+    "kid-friendly",
+    "indian",
+    "polish",
+    "kabse-spice",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "savory-crumbly-indian-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-indian-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:38:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "kabse spice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Potato",
+    "descriptor": "Savory Crumbly",
+    "dishForm": "Crumble"
+  }
+}
