@@ -1,0 +1,72 @@
+{
+  "title": "Sour Chewy Lazy-Sunday Chicken Liver Stir-fry",
+  "description": "A refreshing and hearty sour chewy dish featuring chicken liver mixed with pickled vegetables for a vegetarian-friendly option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Liver",
+      "amount": "100g"
+    },
+    {
+      "name": "Pickled Vegetables (like cucumber or carrot)",
+      "amount": "50g"
+    },
+    {
+      "name": "Sour Sauce (use a store-bought one for convenience)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or frying pan over medium-high heat. Add oil and swirl to coat the bottom.",
+    "Add minced garlic to the hot pan and cook for about 30 seconds until fragrant but not browned.",
+    "Add chicken liver to the pan, stirring frequently to prevent burning. Cook for about 2-3 minutes or until golden brown on all sides.",
+    "Stir in sour sauce and pickled vegetables. Continue to stir-fry for another minute until everything is evenly combined.",
+    "Remove from heat immediately to preserve the texture and flavor of chicken liver."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "chicken-liver-stir-fry",
+    "sour-chewy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "sour-chewy-lazy-sunday-chicken-liver-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-lazy-sunday-chicken-liver-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:11:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "pickle",
+    "primaryIngredient": "chicken liver",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Chicken Liver",
+    "descriptor": "Sour Chewy Lazy-Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
