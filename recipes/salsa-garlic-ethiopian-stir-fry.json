@@ -1,0 +1,84 @@
+{
+  "title": "Salsa Garlic Ethiopian Stir-fry",
+  "description": "A garlicky, silky, weeknight dish featuring salsa as a key ingredient, infused with the rich flavors of Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (400g)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salsa Verde",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium heat.",
+    "Add chopped onions and sauté until translucent, about 5 minutes.",
+    "Add garlic and cook for another minute until fragrant.",
+    "Stir in salsa verde, red pepper flakes, cumin powder, and chili powder. Cook for an additional 2 minutes to allow flavors to meld together.",
+    "Pour in tomatoes (with their juice) and simmer on low heat for about 15-20 minutes or until thickened and slightly reduced.",
+    "Serve hot as a main dish with injera bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salsa",
+    "garlic",
+    "stir-fry",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 271,
+    "protein": 9,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "salsa-garlic-ethiopian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salsa-garlic-ethiopian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:01:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "salsa",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Salsa",
+    "dishForm": "Stir-fry"
+  }
+}
