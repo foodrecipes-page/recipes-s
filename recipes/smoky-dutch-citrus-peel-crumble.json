@@ -1,0 +1,80 @@
+{
+  "title": "Smoky Dutch Citrus Peel Crumble",
+  "description": "A delightful monsoon dutch dish featuring citrusy flavors, flaky texture, and a hint of smokiness in this plant-based-friendly recipe.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Single Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Citrus Peel (e.g. Orange)",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Milk (dairy-free alternative)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine Single Cream, Water or Vegetable Stock, Smoked Paprika, and Caster Sugar in a saucepan. Stir until the sugar dissolves.",
+    "Add Milk and continue stirring until mixture is smooth and hot but not boiling.",
+    "Squeeze 6 slices of citrus peel into the liquid to release oils and add more flavor.",
+    "Transfer the mixture to a shallow baking dish and sprinkle Almond Flour evenly on top.",
+    "Bake for 20-25 minutes or until golden brown, stirring every 10 minutes to prevent burning."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "citrus",
+    "dutch",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 3,
+    "carbs": 19,
+    "fat": 14
+  },
+  "slug": "smoky-dutch-citrus-peel-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dutch-citrus-peel-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:44:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "smoke",
+    "primaryIngredient": "single cream",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Citrus Peel",
+    "descriptor": "smoky",
+    "dishForm": "Crumble"
+  }
+}
