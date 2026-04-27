@@ -1,0 +1,102 @@
+{
+  "title": "Spicy Dense Nostalgic Malaysian Pistachio Stir-fry",
+  "description": "A spicy and dense dish featuring a mix of aromatic spices and creamy textures, enriched with pistachio paste for an authentic Malaysian flavor profile.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dish",
+  "ingredients": [
+    {
+      "name": "pistachio paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "capsicum (red or yellow), thinly sliced",
+      "amount": "1"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander (cilantro), finely chopped",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "water chestnuts, sliced",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add minced ginger and onion. Sauté until onions become translucent.",
+    "Stir in pistachio paste and red pepper flakes. Cook for about 2 minutes, stirring constantly to avoid burning.",
+    "Pour in water chestnuts and soy sauce. Stir until the mixture thickens slightly.",
+    "Reduce heat to low, add peanut butter and cumin seeds. Mix well.",
+    "Add sliced capsicum and continue to cook for another 5-7 minutes or until all vegetables are tender but not mushy.",
+    "Garnish with finely chopped coriander before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "dense",
+    "nostalgic",
+    "malaysian",
+    "pistachio",
+    "stir-fry",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "spicy-dense-nostalgic-malaysian-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-dense-nostalgic-malaysian-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:35:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "pistachio paste",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Pistachio",
+    "descriptor": "Spicy Dense Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
