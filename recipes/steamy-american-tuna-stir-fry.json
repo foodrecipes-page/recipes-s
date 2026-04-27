@@ -1,0 +1,85 @@
+{
+  "title": "Steamy American Tuna Stir-fry",
+  "description": "A sweet and light keto-friendly dish featuring tuna steamed with a touch of sweetness for a romantic twist.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna Fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Baby Carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Season the tuna fillets with salt and pepper.",
+    "Heat olive oil in a pan over medium heat. Add onions, red peppers, and lemon zest; sauté for about 2 minutes.",
+    "Place seasoned tuna on top of the vegetables. Pour over 1/4 cup of water and cover tightly with aluminum foil.",
+    "Bake in preheated oven for 8-10 minutes or until the fish is cooked through.",
+    "Remove from heat, add broccoli florets and cook for another 2-3 minutes to wilt slightly.",
+    "Squeeze fresh lemon juice over the top before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "steam",
+    "american",
+    "stir-fry",
+    "sweet",
+    "light",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 30,
+    "carbs": 4,
+    "fat": 15
+  },
+  "slug": "steamy-american-tuna-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamy-american-tuna-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:20:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "tuna",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Tuna",
+    "descriptor": "Steamy",
+    "dishForm": "Stir-fry"
+  }
+}
