@@ -1,0 +1,89 @@
+{
+  "title": "Savory Russian Sea Bass Broil",
+  "description": "A low-sodium-friendly savory dish featuring tender sea bass fillets cooked to perfection under a broiler, ideal for midnight cravings.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 450°F (230°C).",
+    "Cut each garlic clove in half and press them into the flesh of the sea bass fillets, making sure they are well distributed on all sides.",
+    "Slice the red onion thinly and spread it evenly over a baking dish. Top with the sea bass fillets seasoned with lemon zest and minced parsley.",
+    "Mix together olive oil, ginger, soy sauce, salt, pepper, and garlic in a small bowl until combined. Pour this marinade mixture over the top of the fish and onions.",
+    "Place the baking dish under the broiler for 12-15 minutes or until the sea bass is cooked through (internal temperature reaches at least 145°F/63°C).",
+    "Serve hot with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "tender",
+    "russian",
+    "midnight-craving",
+    "sea-bass",
+    "broil",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "savory-russian-sea-bass-broil",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-russian-sea-bass-broil",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:46:37Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sea bass",
+    "descriptor": "Savory",
+    "dishForm": "Broil"
+  }
+}
