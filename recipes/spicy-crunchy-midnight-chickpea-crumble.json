@@ -1,0 +1,81 @@
+{
+  "title": "Spicy Crunchy Midnight Chickpea Crumble",
+  "description": "A savory and crunchy Indian-inspired dish featuring poached chickpeas seasoned with red chili powder for a midnight craving that's dairy-free-friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 can (15 oz) chickpeas",
+      "amount": "undrained"
+    },
+    {
+      "name": "2 tbsp coconut oil",
+      "notes": "or any other neutral-flavored cooking oil"
+    },
+    {
+      "name": "1 tsp red chili powder"
+    },
+    {
+      "name": "1/4 cup water or low-sodium vegetable broth (optional)"
+    },
+    {
+      "name": "1 tsp ground cumin"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "1/2 tsp paprika"
+    },
+    {
+      "name": "Juice of 1 lime"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix chickpeas with coconut oil, red chili powder, and optional water or vegetable broth. Stir in ground cumin, salt, and paprika.",
+    "Transfer mixture to an oven-safe dish or baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for about 20-25 minutes until golden brown and crispy on top.",
+    "Squeeze half a lime over the crumble just before serving to add some extra tanginess."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "crunchy",
+    "midnight-craving",
+    "indian",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "spicy-crunchy-midnight-chickpea-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crunchy-midnight-chickpea-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:05:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "red chilli powder",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Spicy Crunchy Midnight",
+    "dishForm": "Crumble"
+  }
+}
