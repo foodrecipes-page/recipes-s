@@ -1,0 +1,85 @@
+{
+  "title": "Salty Light Midnight Craving Middle Eastern Paccheri Pasta Stir-fry",
+  "description": "A light and savory Middle Eastern dish featuring paccheri pasta with a quick deglaze of flavorful ingredients for a midnight craving.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup paccheri pasta",
+      "amount": "",
+      "notes": "cookable tube pasta"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp sumac powder",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 500°F (260°C). Cook paccheri pasta according to package directions.",
+    "While pasta cooks, heat olive oil in a pan over medium-high heat. Add minced garlic and cook for about 1 minute until fragrant.",
+    "Deglaze the pan with the lemon juice, scraping any browned bits off the bottom of the pan.",
+    "Stir in sumac powder and salt to taste. Remove from heat immediately after deglazing.",
+    "Drain pasta and add it to the pan with garlic mixture. Toss until evenly coated.",
+    "Add parsley on top before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "light",
+    "midnight-craving",
+    "middle-eastern",
+    "pasta",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 4,
+    "fat": 7
+  },
+  "slug": "salty-light-midnight-craving-middle-eastern-paccheri-pasta-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-light-midnight-craving-middle-eastern-paccheri-pasta-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:42:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Paccheri Pasta",
+    "descriptor": "Salty Light Midnight Craving",
+    "dishForm": "Stir-fry"
+  }
+}
