@@ -1,0 +1,74 @@
+{
+  "title": "Savory Mediterranean Garlic Stir-fry",
+  "description": "A quick and easy weeknight dish featuring a blend of salty, crisp flavors with the addition of garlic for an extra savory touch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "salty",
+    "crisp",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "Approximately 1 garlic bulb"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium piece",
+      "notes": "Approximately 125g/4.4oz"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, drained"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "1 handful",
+      "notes": "Fresh basil, chopped finely"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2-3 pieces",
+      "notes": "Sliced into thin wedges"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For tossing and sautéing"
+    },
+    {
+      "name": "Paprika powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Blanch green beans in boiling water for about 2 minutes. Drain and rinse under cold water.",
+    "In a large skillet or wok, heat olive oil over medium-high heat. Add garlic cloves and sauté until fragrant, approximately 30 seconds to 1 minute.",
+    "Add red bell pepper and tomatoes, cook for another 5-7 minutes until softened slightly and heated through.",
+    "Stir in green beans and basil leaves. Cook for an additional 2-3 minutes mixing well.",
+    "Season with paprika powder if using. Serve hot as a side dish or main course.",
+    "prepTimeMin"
+  ],
+  "slug": "savory-mediterranean-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-mediterranean-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:56:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Garlic",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
