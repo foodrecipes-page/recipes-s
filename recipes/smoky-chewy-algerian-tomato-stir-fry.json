@@ -1,0 +1,79 @@
+{
+  "title": "Smoky Chewy Algerian Tomato Stir-fry",
+  "description": "A brunch-friendly dish featuring a smoky and chewy texture made with tomatoes, onions, and aromatic herbs like bay leaves and thyme.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups, halved"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "1-2 per recipe (optional)"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "a few"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onions and garlic to the heated oil and cook until translucent.",
+    "Stir in halved tomatoes along with bay leaves, thyme sprigs, salt, and pepper. Cook for about 10 minutes stirring occasionally.",
+    "Reduce heat to low-medium and simmer for another 5-7 minutes or until sauce thickens slightly.",
+    "Serve warm as a side dish or over bread for an authentic Algerian breakfast experience."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-tomato-stir-fry",
+    "smoky-chewy-dish",
+    "brunch-friendly",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "smoky-chewy-algerian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chewy-algerian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:08:12Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "bouquet garni",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Smoky Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
