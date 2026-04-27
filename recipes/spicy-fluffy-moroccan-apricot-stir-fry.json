@@ -1,0 +1,84 @@
+{
+  "title": "Spicy Fluffy Moroccan Apricot Stir-fry",
+  "description": "A comforting dish featuring fluffy apricots mixed with a spicy, aromatic blend in an air fryer for a sugar-free and easy meal.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Apricot",
+      "amount": "1 cup (pitted)"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3",
+      "notes": "minced or smashed"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sugar-free soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine apricots with minced garlic, cumin seeds, turmeric powder, and red pepper flakes. Mix well.",
+    "Drizzle soy sauce over the mixture to coat evenly and add water gradually until the desired consistency is reached.",
+    "Heat oil in an air fryer basket at 375°F (190°C). Spoon the apricot mixture into the hot oil and cook for about 8-10 minutes, flipping occasionally until lightly browned on all sides.",
+    "Reduce heat to medium and continue cooking for another 2-3 minutes, stirring frequently to prevent burning. Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "stir-fry",
+    "spicy",
+    "fluffy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 5
+  },
+  "slug": "spicy-fluffy-moroccan-apricot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-moroccan-apricot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:10:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "apricot",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Apricot",
+    "descriptor": "Spicy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
