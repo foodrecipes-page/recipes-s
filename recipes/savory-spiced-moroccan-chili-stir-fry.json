@@ -1,0 +1,100 @@
+{
+  "title": "Savory Spiced Moroccan Chili Stir-fry",
+  "description": "A salty and tender moroccan dish featuring a savory chili sauce and toasted elements for a solo-dinner experience.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chili paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "2 cans (6 oz each), crushed"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1 handful, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add chili paste and onions, sauté for about 5 minutes until softened.",
+    "Stir in garlic and cook for an additional minute.",
+    "Add tomato sauce, crushed tomatoes, basil leaves, salt, black pepper, red pepper flakes, ground cumin, and cayenne pepper. Stir to combine well.",
+    "Reduce heat to low and let the mixture simmer for about 20 minutes or until slightly thickened.",
+    "Stir in diced tomatoes from cans (if not already added).",
+    "Serve hot as a savory side dish or over rice for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan-chili-stir-fry",
+    "raw-friendly-dish",
+    "salty-and-tender"
+  ],
+  "nutrition": {
+    "calories": 316,
+    "protein": 8,
+    "carbs": 47,
+    "fat": 20
+  },
+  "slug": "savory-spiced-moroccan-chili-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spiced-moroccan-chili-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:20:00Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "chilli sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chili",
+    "descriptor": "Savory Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
