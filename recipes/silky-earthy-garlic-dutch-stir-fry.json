@@ -1,0 +1,105 @@
+{
+  "title": "Silky Earthy Garlic Dutch Stir-fry",
+  "description": "A show-off dutch dish featuring smoked paprika and bhuna spices that is both earthy and silky smooth, perfect for a healthy meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "earthly",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "50g tofu",
+      "amount": "medium",
+      "notes": "Use firm tofu"
+    },
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "medium"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "large"
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": "medium"
+    },
+    {
+      "name": "2 tbsp curry paste",
+      "amount": "medium"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "small"
+    },
+    {
+      "name": "2 tbsp bhuna masala powder",
+      "amount": "medium"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "large"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "peppercorn-size"
+    },
+    {
+      "name": "100g cherry tomatoes, halved",
+      "amount": "small"
+    },
+    {
+      "name": "2 tbsp coconut milk",
+      "amount": "large"
+    },
+    {
+      "name": "Fresh cilantro for garnish",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium-high heat and add a drizzle of coconut oil.",
+    "Add the chopped onion, minced garlic, curry paste, smoked paprika, and bhuna masala powder. Stir-fry for about 3 minutes until fragrant.",
+    "Reduce heat to medium and add the tofu cubes, salt, and water. Cover and simmer for 5-7 minutes or until the tofu is lightly browned on all sides.",
+    "Add the halved cherry tomatoes and coconut milk. Bring to a simmer and cook for another 3-4 minutes allowing flavors to meld together.",
+    "Stir in broccoli florets and continue to cook until tender, about 3 more minutes.",
+    "Taste and adjust seasoning if needed. Serve hot with fresh cilantro as garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "silky",
+    "earthy",
+    "show-off",
+    "dutch",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 17,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "silky-earthy-garlic-dutch-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-earthy-garlic-dutch-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:18:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "smoked paprika",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Garlic",
+    "descriptor": "Earthy Silky Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
