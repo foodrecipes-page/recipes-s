@@ -1,0 +1,94 @@
+{
+  "title": "Salty Chicken Five Spice Stir-Fry",
+  "description": "A kid-friendly and tender Indian-style stir-fry featuring salty chicken, Chinese five spice powder, and a touch of tang from pickles, suitable for all diets.",
+  "cuisine": "Indian-Chinese Fusion",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "200g",
+      "notes": "Skin-on or bone-in for extra flavor"
+    },
+    {
+      "name": "Pickled Ginger and Capsicum",
+      "amount": "100g",
+      "notes": "Use fresh or frozen, finely chopped"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "Any neutral-flavored oil such as canola, vegetable, or peanut oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Finely minced for best flavor"
+    },
+    {
+      "name": "Chili Flakes (optional)",
+      "amount": "1 teaspoon",
+      "notes": "For a spicy kick, adjust to taste"
+    },
+    {
+      "name": "Chinese Five Spice Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Add extra depth of flavor without overpowering the dish"
+    },
+    {
+      "name": "Vegetable Stock or Water",
+      "amount": "50ml",
+      "notes": "Use to cook chicken for tenderness and to thin out sauce if needed"
+    }
+  ],
+  "instructions": [
+    "Trim any excess fat from chicken breasts. Pat dry with paper towels.",
+    "Season the chicken generously with salt, pepper, and Chinese five spice powder on both sides. Let sit while you prepare other ingredients.",
+    "Heat a wok or large frying pan over medium-high heat. Add oil and swirl to coat bottom of pan.",
+    "Add garlic and chili flakes (if using) to pan for a few seconds until fragrant but not burnt, tossing frequently.",
+    "Gently place the seasoned chicken into the pan in a single layer, skin side down. Cook for 3-4 minutes on each side or until golden brown on both sides.",
+    "Remove the chicken from the pan and set aside. In the same pan, add pickled ginger and capsicum and stir-fry for about 2 minutes.",
+    "Push the vegetables to one side of the pan and return the chicken to the other half of the pan. Pour in vegetable stock or water and bring to a simmer.",
+    "Stir until most of the liquid has evaporated, then finish cooking until the sauce thickens slightly but still retains some moisture for a better texture.",
+    "Return the cooked chicken back into the pan and toss everything together gently to ensure all ingredients are well combined. Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty-chicken",
+    "five-spice-stir-fry",
+    "kid-friendly",
+    "indian-style",
+    "tender-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "salty-chicken-five-spice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-chicken-five-spice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:21:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
