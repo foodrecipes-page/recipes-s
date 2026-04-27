@@ -1,0 +1,80 @@
+{
+  "title": "Savory Chewy Light Polish Romano Pepper Crumble",
+  "description": "A light and savory dish featuring roasted romano peppers that are crumbled over a base of garlic bread or as a side for an easy dinner.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic Bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Romano Cheese",
+      "amount": "1 oz",
+      "notes": "Grated for easier crumbing"
+    },
+    {
+      "name": "Roasted Romano Peppers",
+      "amount": "4-6 pieces (peeled and seeded)"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 whole clove",
+      "notes": "Mince it for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "A few grains",
+      "notes": "To taste, but keep it mild as a dash-friendly dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice the garlic bread in half and toast until golden brown. Remove from heat.",
+    "Gently mince the roasted romano peppers, removing seeds if desired for a smoother texture.",
+    "Crush the minced roasted peppers with the minced garlic clove to combine flavors.",
+    "Add salt and black pepper to taste and mix thoroughly.",
+    "Sprinkle the crumbled pepper mixture evenly over both halves of the toasted garlic bread. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "chewy",
+    "light",
+    "polish",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "savory-chewy-light-polish-romano-pepper-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-chewy-light-polish-romano-pepper-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:18:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "romano pepper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Romano Pepper",
+    "descriptor": "savory chewy light polish",
+    "dishForm": "Crumble"
+  }
+}
