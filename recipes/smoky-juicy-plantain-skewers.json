@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Juicy Plantain Skewers",
+  "description": "A smoky and juicy midnight-craving Jamaican dish featuring plantains marinated in a blend of cider vinegar, tandoor spices, and infused with the warmth of a wood fire.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 pound ripe plantains",
+      "amount": "whole"
+    },
+    {
+      "name": "2 tablespoons cider vinegar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "tsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice"
+    },
+    {
+      "name": "1/4 cup tandoori spice blend",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 tablespoon honey or agave nectar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Slice plantains into half-inch thick rounds.",
+    "In a large bowl, combine plantain slices with cider vinegar, lime juice, smoked paprika, tandoori spice blend, minced garlic, honey, and salt. Mix well to coat the plantains evenly.",
+    "Thread plantain slices onto skewers (alternating between green and black ones for visual appeal).",
+    "Preheat a charcoal or gas grill to medium-high heat. Place skewers on the grill and cook until charred on all sides and slightly crispy, about 5-7 minutes per side.",
+    "For an extra smoky flavor, you can close the lid of the grill if using a gas grill during cooking for a few minutes.",
+    "Remove from heat and serve immediately with additional tandoori spice blend for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "juicy",
+    "plantain",
+    "skewer",
+    "jamaican",
+    "midnight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 3
+  },
+  "slug": "smoky-juicy-plantain-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-juicy-plantain-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:51:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "cider vinegar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "plantain",
+    "descriptor": "Smoky Juicy Midnight Craving",
+    "dishForm": "Skewers"
+  }
+}
