@@ -1,0 +1,69 @@
+{
+  "title": "Smoky German Goose Fat Stir-fry",
+  "description": "A vegetarian-friendly smoky and indulgent dish featuring goose fat, served as a quick side or snack.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "goose fat",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "2 cups"
+    },
+    {
+      "name": "zucchini, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onions, finely chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat goose fat in a non-stick skillet over medium heat.",
+    "Add sliced bell peppers and cook for about 5 minutes until they start to soften.",
+    "Stir in diced onions and cook for an additional minute, allowing them to caramelize slightly.",
+    "Next, add zucchini. Cook for another 3-4 minutes until vegetables are tender but still crisp.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately as a side or snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crisp",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 4,
+    "carbs": 29,
+    "fat": 18
+  },
+  "slug": "smoky-german-goose-fat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-german-goose-fat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:22:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "goose fat",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Goose Fat",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
