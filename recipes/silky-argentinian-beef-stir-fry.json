@@ -1,0 +1,97 @@
+{
+  "title": "Silky Argentinian Beef Stir-fry",
+  "description": "This low-carb-friendly meal-prep argentinian dish features fresh, silky beef with a touch of rosemary for added depth and flavor. Perfect for quick weeknight dinners.",
+  "cuisine": "Argentine",
+  "diet": [
+    "low-carb",
+    "meal-prep"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "150g",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups cooked",
+      "notes": "Use for serving if desired, optional"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 pieces",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup diced",
+      "notes": ""
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2 pieces",
+      "notes": "Whisked to form a sauce"
+    },
+    {
+      "name": "Rosemary sprigs",
+      "amount": "3-4 leaves",
+      "notes": "Chopped finely, adds depth of flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "To taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Prepare the beef strips by slicing them into thin, even pieces.",
+    "In a small bowl, whisk together the egg whites and black pepper. Set aside.",
+    "Heat olive oil in a non-stick skillet over medium-high heat.",
+    "Add the sliced onions and garlic to the skillet. Sauté for about 2 minutes until softened.",
+    "Fold in the seasoned beef strips and cook for another 3-4 minutes, stirring occasionally.",
+    "Sprinkle rosemary leaves evenly over the top of the beef. Pour the egg white mixture into the skillet.",
+    "Cook until the sauce thickens slightly and coats the beef evenly, about 2-3 more minutes.",
+    "Serve hot with cooked rice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "silky",
+    "low-carb",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 29,
+    "carbs": 7.5,
+    "fat": 16
+  },
+  "slug": "silky-argentinian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-argentinian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:48:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "slow-cook",
+    "primaryIngredient": "rosemary",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
