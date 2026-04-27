@@ -1,0 +1,85 @@
+{
+  "title": "Sweet & Creamy Fold Yellow Pepper",
+  "description": "A delightful brunch dish featuring sweet and creamy flavors with a touch of spiciness in every fold of yellow pepper. Perfect for those looking to enjoy a savory yet comforting meal on a chilly morning.",
+  "cuisine": "British",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 medium yellow bell pepper",
+      "amount": "1",
+      "notes": "Rinsed and sliced"
+    },
+    {
+      "name": "3 tablespoons unsalted butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "2 cups heavy cream",
+      "amount": "2 c"
+    },
+    {
+      "name": "1/4 cup finely grated Parmesan cheese",
+      "amount": "1/4 c"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1"
+    },
+    {
+      "name": "Salt and freshly ground black pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Freshly chopped parsley for garnish (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Slice the yellow bell peppers into strips, about 1/2 inch thick. Season them with salt and pepper on both sides.",
+    "In a large skillet or frying pan over medium heat, melt the butter until it starts to foam slightly.",
+    "Add the sliced yellow peppers to the melted butter and cook for about 5 minutes, stirring occasionally, until they become tender but still maintain their shape.",
+    "Pour in the heavy cream, Parmesan cheese, and lemon juice. Stir well to combine all ingredients.",
+    "Increase heat to medium-high and bring the mixture to a simmer. Reduce the heat to low and let it cook for about 10 minutes or until the sauce thickens slightly.",
+    "Taste test and adjust seasoning with additional salt and pepper if needed. Serve hot as desired garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "creamy",
+    "folded",
+    "yellow_pepper",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 427,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 20
+  },
+  "slug": "sweet-creamy-fold-yellow-pepper",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-creamy-fold-yellow-pepper",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:56:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "yellow pepper",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Yellow Pepper",
+    "descriptor": "Sweet & Creamy",
+    "dishForm": "Fold"
+  }
+}
