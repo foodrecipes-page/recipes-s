@@ -1,0 +1,84 @@
+{
+  "title": "Smoky Spiced Kenyan Garlic Stir-fry",
+  "description": "A sour, fluffy and light Kenyan dish featuring dried oregano, smoke, whole30-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat.",
+    "Add garlic cloves and diced onion, cooking until softened and fragrant.",
+    "Stir in smoked paprika, dried oregano, cumin seeds, and salt. Cook for about 1 minute, stirring constantly to prevent burning.",
+    "Pour in pineapple chunks, stir well, and let simmer for 5-7 minutes or until the pineapple has released its juice and the mixture is slightly thickened.",
+    "Garnish with a squeeze of lime juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-spiced",
+    "fluffy-kenyan-dish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "smoky-spiced-kenyan-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spiced-kenyan-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:43:38Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "dried oregano",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "garlic",
+    "descriptor": "Smoky Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
