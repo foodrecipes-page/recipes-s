@@ -1,0 +1,90 @@
+{
+  "title": "Silky Adventurous Tunisian Trout Stir-fry",
+  "description": "A garlicky and silky Tunisian-inspired dish featuring sous-vide cooked trout with a touch of adventure, ready in under half an hour.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "200g",
+      "notes": "Pre-soaked and sous-vide cooked"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6",
+      "notes": "For the garlic sauce"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "For glazing"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For the stir-fry sauce"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "For heat and adventure"
+    },
+    {
+      "name": "Chili garlic paste",
+      "amount": "1-2 tsp",
+      "notes": "To enhance flavors, adjust to taste"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "a few",
+      "notes": "For finishing touch"
+    }
+  ],
+  "instructions": [
+    "Prep the trout by soaking it in water for about 15 minutes and then sous-vide cooking at 72°C (162°F) for about an hour.",
+    "Blend together garlic cloves, soy sauce, lemon juice, olive oil, red pepper flakes, chili garlic paste, and thyme leaves until smooth. Season with salt to taste.",
+    "Heat a large skillet over medium-high heat, add some olive oil, then pour in the prepared sauce and stir-fry for about 1-2 minutes until thickened.",
+    "Place the sous-vide cooked trout fillets into the hot skillet, ensuring they are fully coated with the sauce. Cook for another minute or two until evenly glazed and heated through.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky-adventurous-tunisian",
+    "garlicky-stir-fry",
+    "sous-vide-trout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 42,
+    "carbs": 16,
+    "fat": 18
+  },
+  "slug": "silky-adventurous-tunisian-trout-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-adventurous-tunisian-trout-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:40:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "sous-vide",
+    "primaryIngredient": "trout",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Trout",
+    "descriptor": "Garlicky Silky Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
