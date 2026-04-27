@@ -1,0 +1,87 @@
+{
+  "title": "Sick-Day Australian Tomato Stir-fry",
+  "description": "A tangy and silky sick-day dish featuring sumac to add a unique flavor profile in a gluten-free-friendly format.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Tamari Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tomatoes, chopped",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sumac powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Capsicum (Pepper), sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Zucchini, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and sauté for about 30 seconds until fragrant.",
+    "Stir in chopped tomatoes, salt, and pepper. Cook for an additional 5 minutes.",
+    "Fold in sumac powder to taste.",
+    "Add capsicum and zucchini slices, stirring occasionally.",
+    "Cook until vegetables are tender but still have some crunch.",
+    "Serve warm with gluten-free toast if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sick-day",
+    "australian",
+    "tomato-stir-fry",
+    "sumac"
+  ],
+  "nutrition": {
+    "calories": 217,
+    "protein": 6.5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "sick-day-australian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-australian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:57:38Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "sumac",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Sick-Day",
+    "dishForm": "Stir-fry"
+  }
+}
