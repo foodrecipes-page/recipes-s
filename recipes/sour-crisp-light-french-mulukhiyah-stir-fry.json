@@ -1,0 +1,85 @@
+{
+  "title": "Sour Crisp Light French Mulukhiyah Stir-fry",
+  "description": "This dish combines light French cuisine elements with a traditional Middle Eastern mulukhiyah base, seasoned with tangy components and served as a keto-friendly snack or side.",
+  "cuisine": [
+    "French",
+    "Middle Eastern"
+  ],
+  "diet": [
+    null,
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mulukhiyah",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Hummus Mix (chickpea flour, tahini)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "Cilantro (fresh)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Blend Mulukhiyah with Sunflower Seeds, Hummus Mix, Tomato Sauce, Cilantro, and Lemon Juice until smooth.",
+    "Add minced garlic to the mixture for extra flavor.",
+    "Season the mixture as desired, adjusting spices like cumin or paprika to taste.",
+    "Heat a non-stick skillet over medium heat. Pour in the mixture and cook for about 5 minutes on each side until crisp on both sides.",
+    "Serve hot with a sprinkle of additional fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sour",
+    "crisp",
+    "light-french",
+    "mulukhiyah"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "sour-crisp-light-french-mulukhiyah-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crisp-light-french-mulukhiyah-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:12:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Mulukhiyah",
+    "descriptor": "Sour Crisp Light",
+    "dishForm": "Stir-fry"
+  }
+}
