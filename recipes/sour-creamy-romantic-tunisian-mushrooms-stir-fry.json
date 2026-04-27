@@ -1,0 +1,79 @@
+{
+  "title": "Sour Creamy Romantic Tunisian Mushrooms Stir-fry",
+  "description": "A low-carb friendly, romantic twist on the classic Tunisian Mushroom dish featuring creamy sour cream and a tadka seasoning for added depth of flavor.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Button Mushrooms",
+      "amount": "12-15 grams"
+    },
+    {
+      "name": "Canned Tamarind Paste",
+      "amount": "1.5 tsp"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "30 ml"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a non-stick pan over medium heat.",
+    "Add mushrooms and cook until they release their moisture, about 2 minutes.",
+    "Stir in tamarind paste, garlic powder, salt, black pepper, and sour cream. Cook for an additional 3-5 minutes or until the sauce thickens slightly.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "stir-fry",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "sour-creamy-romantic-tunisian-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-creamy-romantic-tunisian-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:21:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "mushrooms",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Mushrooms",
+    "descriptor": "Sour Creamy Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
