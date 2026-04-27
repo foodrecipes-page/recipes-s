@@ -1,0 +1,58 @@
+{
+  "title": "Sour Velvety Lime Salad",
+  "description": "This brunch-mood Venezuelan dish features an unconventional sour and velvety raw-friendly salad made with unwaxed limes cooked sous-vide to perfection.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Unwaxed limes",
+      "amount": "4"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Red onion, finely diced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Raw cashews, soaked and peeled",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Prepare the limes by soaking them in a solution of 1 part white vinegar to 3 parts water for at least an hour.",
+    "Squeeze the prepared limes, and discard any that don't yield much juice. Set aside all other unopened limes for later use.",
+    "In a blender or food processor, combine the lime juice, minced garlic, red onion, soaked cashews, and zest. Blend until smooth.",
+    "Serve immediately as a side dish or add to your favorite sandwich or wrap.",
+    "prepTimeMin"
+  ],
+  "slug": "sour-velvety-lime-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-velvety-lime-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:12:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "lime",
+    "descriptor": "Sour Velvety",
+    "dishForm": "Salad"
+  }
+}
