@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Dense Spanish Butter Beans Stir-fry",
+  "description": "A crowd-pleasing Spanish dish featuring smoky butter beans that are both tender and dense, perfect as a side or main course for a whole30-friendly meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of dried butter beans",
+      "amount": "",
+      "notes": "Soak in water overnight"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 can (15 oz) diced tomatoes",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onions and garlic, cooking until softened and fragrant, about 5 minutes.",
+    "Drain soaked butter beans and add them to the skillet. Stir well to coat with the onion mixture.",
+    "Stir in tomatoes, paprika, cumin, salt, and pepper. Reduce heat to low and simmer for about 30 minutes or until flavors have melded and beans are tender.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "stir-fry",
+    "smoky",
+    "dense",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 14,
+    "carbs": 41,
+    "fat": 9
+  },
+  "slug": "smoky-dense-spanish-butter-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dense-spanish-butter-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:56:57Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "butter beans",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Butter Beans",
+    "descriptor": "Smoky Dense",
+    "dishForm": "Stir-fry"
+  }
+}
