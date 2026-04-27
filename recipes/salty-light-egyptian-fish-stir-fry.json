@@ -1,0 +1,98 @@
+{
+  "title": "Salty Light Egyptian Fish Stir-fry",
+  "description": "A light and diabetic-friendly post-workout dish featuring a flavorful mix of fish, aromatic spices, and vegetables to complement the workout without overwhelming your system.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White fish fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Red bell pepper, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green beans, halved",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2-3"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium heat.",
+    "Add onions and garlic, sautéing until translucent. Add cumin, coriander, and fennel seeds, cook for another minute.",
+    "Throw in the red bell pepper and green beans, stir-fry for 2-3 minutes or until slightly tender.",
+    "Fold in fish fillets, season with turmeric powder and salt (adjust according to taste). Stir well ensuring all pieces of fish are evenly coated.",
+    "Continue stirring and cooking until the fish is cooked through. Fish should be opaque and have no raw texture left.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "light",
+    "post-workout",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 26,
+    "carbs": 13,
+    "fat": 5
+  },
+  "slug": "salty-light-egyptian-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-light-egyptian-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:22:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "fish",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Fish",
+    "descriptor": "Salty Light",
+    "dishForm": "Stir-fry"
+  }
+}
