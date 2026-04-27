@@ -1,0 +1,95 @@
+{
+  "title": "Spicy Gooey Adventurous Vietnamese Leek Stir-fry",
+  "description": "This adventurous take on a traditional Vietnamese dish features leeks cooked sous-vide to perfection and served with a spicy kick for an extra adventure.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pack of leeks",
+      "amount": "1 medium-sized bag",
+      "notes": "Ensure leeks are fresh and tender."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "4 cloves",
+      "notes": "Chopped finely for added flavor."
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "approx. 60 ml",
+      "notes": "For the tangy kick."
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": "To taste",
+      "notes": "Enhances the flavors without overpowering them."
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "To taste",
+      "notes": "Adds a spicy twist to your stir-fry."
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": "Half measuring cup",
+      "notes": "For umami and flavor richness."
+    },
+    {
+      "name": "1 tbsp sriracha or other hot sauce",
+      "amount": "To taste",
+      "notes": "For that signature spicy kick."
+    },
+    {
+      "name": "Vegetable oil for stir-frying",
+      "amount": "Enough to coat the pan",
+      "notes": "Choose a light neutral oil like avocado or canola oil."
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 130°F (54°C) and place leeks in the bag, ensuring they are well-sealed.",
+    "Cook the leeks for about 6 hours until tender. Let them cool down before proceeding with preparation.",
+    "Mince the garlic finely. In a wok or large skillet, add oil and heat over medium-high heat.",
+    "Add minced garlic to the hot pan, stirring continuously to avoid burning, then gently fold in cooled leeks.",
+    "Mix soy sauce, lime juice, salt, and pepper with sriracha into a small bowl and pour it over the leeks in the wok.",
+    "Stir until everything is well combined and heated through. Taste and adjust seasoning if needed.",
+    "Serve hot as an appetizer or side dish for an unforgettable culinary adventure."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 120,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "gooey",
+    "adventurous",
+    "vietnamese",
+    "sous-vide",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "spicy-gooey-adventurous-vietnamese-leek-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-adventurous-vietnamese-leek-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:12:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "sous-vide",
+    "primaryIngredient": "leek",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Leek",
+    "descriptor": "Spicy Gooey Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
