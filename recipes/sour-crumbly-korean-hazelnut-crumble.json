@@ -1,0 +1,81 @@
+{
+  "title": "Sour Crumbly Korean Hazelnut Crumble",
+  "description": "A romantic Korean dish featuring hazelnuts, air-fried for a delicate texture and balanced with sour notes for added depth.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cornstarch or Arrowroot Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Mix hazelnuts, almond meal, sugar, cornstarch or arrowroot powder, salt, and vanilla extract in a bowl.",
+    "Add water gradually while mixing until you get a crumbly dough consistency. It should be somewhat wet but not too sticky.",
+    "Roll small balls of the mixture into your hand and press them gently into an air fryer basket lined with parchment paper or silicon mat.",
+    "Cook for 8-10 minutes or until golden brown, shaking the basket halfway through cooking to ensure even browning.",
+    "Let cool slightly before serving. Serve as a dessert accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crumbly",
+    "korean",
+    "hazelnut",
+    "air-fryer"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "sour-crumbly-korean-hazelnut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crumbly-korean-hazelnut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:17:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "hazlenuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Sour Crumbly",
+    "dishForm": "Crumble"
+  }
+}
