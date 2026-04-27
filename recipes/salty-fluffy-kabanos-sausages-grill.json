@@ -1,0 +1,91 @@
+{
+  "title": "Salty Fluffy Kabanos Sausages Grill",
+  "description": "A hangover-curing Chinese-inspired dish featuring savory kabanos sausages grilled to perfection with a touch of fluffiness and plant-based ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kabaos Sausages",
+      "amount": "1 package"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "minced finely"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Sunflower Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a small bowl, mix olive oil, garlic, red bell pepper, and green peppers together.",
+    "Gently spread the mixture on each sausage.",
+    "Grill the sausages for about 5-7 minutes per side until fully cooked but still juicy.",
+    "While grilling, drizzle sunflower oil over sausages to create a crispy exterior.",
+    "Season with salt and black pepper just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "fluffy",
+    "salty",
+    "kabaos-sausages",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "salty-fluffy-kabanos-sausages-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-fluffy-kabanos-sausages-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:57:50Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Kabanos Sausages",
+    "descriptor": "Salty Fluffy",
+    "dishForm": "Grill"
+  }
+}
