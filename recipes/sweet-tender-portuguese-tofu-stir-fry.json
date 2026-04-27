@@ -1,0 +1,111 @@
+{
+  "title": "Sweet & Tender Portuguese Tofu Stir-fry",
+  "description": "A midnight-craving dish featuring white vinegar and tofu in a savory sauce that is both sweet and tender.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (200g)",
+      "notes": "Extra-firm tofu"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "Diced thinly"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 large, diced",
+      "notes": "Green and red"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons",
+      "notes": "Regular or tamari if gluten-free"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons",
+      "notes": "To taste"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "For thickening sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "Black pepper or similar spice for flavor"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add tofu to the pan and season with salt, pepper, and soy sauce. Stir-fry until golden brown, about 5 minutes.",
+    "Remove tofu from pan and set aside.",
+    "In the same pan, add chopped onion and garlic. Cook for about 1 minute until fragrant.",
+    "Add carrots and bell peppers to the pan. Cook for another 3-4 minutes or until vegetables are tender.",
+    "Return the tofu to the pan with the vegetables. Add white vinegar and stir-fry for an additional 2-3 minutes.",
+    "In a small bowl, mix cornstarch with cold water until smooth. Pour into the pan and stir quickly to combine all ingredients. Cook for another minute until sauce thickens.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet-and-tender",
+    "portuguese-vegan-dish",
+    "midnight-craving",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "sweet-tender-portuguese-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-tender-portuguese-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:16:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "white vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Sweet & Tender",
+    "dishForm": "Stir-fry"
+  }
+}
