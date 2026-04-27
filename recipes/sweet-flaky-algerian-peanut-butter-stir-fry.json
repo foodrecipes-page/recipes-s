@@ -1,0 +1,88 @@
+{
+  "title": "Sweet Flaky Algerian Peanut Butter Stir-fry",
+  "description": "This sweet and flaky peanut butter stir-fry is a Mediterranean-friendly breakfast dish that’s energizing and perfect for those early morning cravings.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Peanut Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Frozen Mixed Vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "2 slices (halved)"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 pieces (chopped)"
+    },
+    {
+      "name": "Almond Slivers",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add soy sauce and garlic powder, stir for about 1 minute.",
+    "Gently add frozen mixed vegetables to the pan, cover and cook until vegetables are heated through (about 5 minutes).",
+    "Once vegetables are cooked, add red peppers, green onions, and almond slivers. Stir well until all ingredients are evenly coated in sauce.",
+    "Serve warm with whole grain toast or as a side dish for breakfast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "flaky",
+    "algerian",
+    "peanut-butter",
+    "stir-fry",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 16,
+    "fat": 12
+  },
+  "slug": "sweet-flaky-algerian-peanut-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-flaky-algerian-peanut-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:36:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "peanut butter",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Peanut Butter",
+    "descriptor": "Sweet Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
