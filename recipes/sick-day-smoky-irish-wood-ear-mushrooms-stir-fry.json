@@ -1,0 +1,88 @@
+{
+  "title": "Sick-Day Smoky Irish Wood Ear Mushrooms Stir-fry",
+  "description": "A whole30-friendly sick-day dish featuring smoky wood ear mushrooms in a creamy sauce.",
+  "cuisine": "Irish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wood Ear Mushrooms",
+      "amount": "1 cup, soaked and cleaned"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Heavy Whipping Cream",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Heavy Sour Cream",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler. Rinse wood ear mushrooms and pat dry.",
+    "In a medium saucepan, combine cream, garlic, heavy whipping cream, heavy sour cream, Dijon mustard, salt, and pepper. Stir to mix well. Bring to a simmer over medium heat until the mixture thickens slightly, about 5 minutes.",
+    "Add butter to the saucepan with mushrooms. Cook for 2-3 minutes on each side or until golden brown.",
+    "Pour the creamy sauce over the mushrooms, ensuring they're evenly coated. Broil for another 2-3 minutes until the mushroom caps are golden and crispy.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "wood ear mushrooms",
+    "stir-fry",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 345,
+    "protein": 9,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "sick-day-smoky-irish-wood-ear-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-smoky-irish-wood-ear-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:40:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "broil",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Wood Ear Mushrooms",
+    "descriptor": "Sick-Day",
+    "dishForm": "Stir-fry"
+  }
+}
