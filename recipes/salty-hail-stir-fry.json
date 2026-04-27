@@ -1,0 +1,77 @@
+{
+  "title": "Salty Hail Stir-fry",
+  "description": "A hearty and comforting savory dish featuring hail (a common ingredient in Uruguayan cuisine) with a tadka base for added flavor and coziness, suitable for Jain followers.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hail",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Vegetable Oil or Clarified Butter (Ghee)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Chop the onion and garlic finely.",
+    "Heat oil in a pan over medium heat. Add chopped onions and cook until translucent.",
+    "Add minced garlic to the pan and sauté for about 1 minute.",
+    "Stir in tomato puree, salt (to your preference), and continue to stir-fry for an additional minute or two.",
+    "Pour in the hail and mix thoroughly. Cook for another 2-3 minutes until the mixture is heated through.",
+    "Serve hot with a side of rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "stir-fry",
+    "hail"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "salty-hail-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-hail-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:14:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "hail",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Hail",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
