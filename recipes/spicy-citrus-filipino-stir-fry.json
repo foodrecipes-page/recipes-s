@@ -1,0 +1,92 @@
+{
+  "title": "Spicy Citrus Filipino Stir-fry",
+  "description": "A citrusy, tender, energizing Filipino dish featuring szechuan peppercorns and poached vegetables, perfect for a keto-friendly breakfast or snack.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "1 tsp ground"
+    },
+    {
+      "name": "Ketogenic oil or butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "half a medium lime"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1/4 inch, finely grated"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add onions and garlic to the pan. Sauté until translucent, about 2 minutes.",
+    "Add sliced bell peppers and sauté for another minute.",
+    "Stir in ground szechuan peppercorns and fresh ginger. Cook for an additional 1-2 minutes.",
+    "Pour in lime juice and mix well.",
+    "Toss kale with the vegetables, cooking until just wilted but still crisp, about 3-5 minutes.",
+    "Season with sea salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "citrus",
+    "filipino",
+    "stir-fry",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 13,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "spicy-citrus-filipino-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-citrus-filipino-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:13:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Citrus",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
