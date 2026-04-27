@@ -1,0 +1,85 @@
+{
+  "title": "Savory Gooey Saudian Sweetcorn Stir-fry",
+  "description": "This savory and gooey dish features sweetcorn blanched and added to a Paleo-friendly stir-fry that serves as an excellent hangover-cure.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sweetcorn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2, diced"
+    },
+    {
+      "name": "Palm Hearts (optional)",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "a few, roughly chopped"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Blanch sweetcorn in boiling water for about 2 minutes.",
+    "In a large skillet, heat avocado oil over medium-high heat. Add chopped onions and garlic; sauté until fragrant and translucent, about 5 minutes.",
+    "Add green peppers and palm hearts (if using), stirring occasionally for another 3-4 minutes.",
+    "Stir in the blanched sweetcorn along with thyme leaves and salt/pepper to taste. Cook for an additional minute or two.",
+    "Serve immediately as a Paleo-friendly snack or hangover cure."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saujidian",
+    "sweetcorn",
+    "stir-fry",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 16,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "savory-gooey-saudian-sweetcorn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-gooey-saudian-sweetcorn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:40:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "sweetcorn",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Saudian",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "Savory Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
