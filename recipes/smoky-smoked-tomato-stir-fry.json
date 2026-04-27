@@ -1,0 +1,77 @@
+{
+  "title": "Smoky Smoked Tomato Stir-fry",
+  "description": "A low-calorie-friendly smoky and crispy Brazilian dish featuring diced tomatoes that satisfies a midnight craving.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the tomatoes into small cubes.",
+    "Heat the olive oil in a pan over medium heat.",
+    "Add minced garlic and red pepper flakes to the heated oil, stir for about 1 minute until fragrant.",
+    "Fold in the tomato pieces, add smoked paprika, and salt. Stir well to coat evenly with seasoning.",
+    "Reduce heat to low and let it simmer until the tomatoes start to soften and release their juices, approximately 5-7 minutes.",
+    "Turn off the heat immediately after observing a reduction of liquid from the tomatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crispy",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "smoky-smoked-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-smoked-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:56:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
