@@ -1,0 +1,75 @@
+{
+  "title": "Salty Crumbly Garlic Egyptian Crumble",
+  "description": "A raw-friendly solo-dinner egyptian dish featuring sichuan pepper and deglazed garlic for a salty and crumbly texture, perfect for those who prefer lighter fare.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small piece"
+    },
+    {
+      "name": "sichuan pepper",
+      "amount": "a few seeds"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Mince the garlic and ginger finely.",
+    "In a small bowl, mix minced garlic, ginger, sichuan pepper, salt, lemon juice, and olive oil together until well combined.",
+    "Gently fold in the mixture into your crackers or bread of choice. Ensure it is evenly distributed.",
+    "Serve as a dip or spread on a cracker with raw vegetables like carrots and celery for added crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "garlic",
+    "sichuan_pepper",
+    "crumbly",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "salty-crumbly-garlic-egyptian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crumbly-garlic-egyptian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:30:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Salty Crumbly Solo",
+    "dishForm": "Crumble"
+  }
+}
