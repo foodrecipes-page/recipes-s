@@ -1,0 +1,73 @@
+{
+  "title": "Spicy Crispy Garlic Syrian Crumble",
+  "description": "An adventurous take on a classic Syrian dish featuring black pepper and garlic, this recipe is egg-free-friendly and perfect for any meal.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "",
+      "notes": "Use whole wheat or almond flour for a healthier option."
+    },
+    {
+      "name": "1/4 cup chopped roasted garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). In a large bowl, mix flour and black pepper.",
+    "Add chopped roasted garlic and olive oil. Knead dough until it comes together into a ball.",
+    "Roll out the dough on a lightly floured surface until about 1/4 inch thick.",
+    "Cut into desired shapes using cookie cutters or knife. Place on baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown and crispy.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crispy",
+    "adventurous",
+    "syrian",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "spicy-crispy-garlic-syrian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crispy-garlic-syrian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:56:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "knead",
+    "primaryIngredient": "black pepper",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Spicy Crispy",
+    "dishForm": "Crumble"
+  }
+}
