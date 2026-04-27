@@ -1,0 +1,77 @@
+{
+  "title": "Smoky Lemon Stir-fry",
+  "description": "A creamy and smoky Mediterranean dish featuring lemons in a one-pot preparation, suitable for egg-free diets.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 small onion",
+      "amount": "medium dice"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 can (500ml) coconut milk"
+    },
+    {
+      "name": "Juice of 3 lemons"
+    },
+    {
+      "name": "1/4 cup lemon juice concentrate"
+    },
+    {
+      "name": "1 tablespoon olive oil"
+    },
+    {
+      "name": "Salt and pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add onions and garlic, cooking until softened about 5 minutes.",
+    "Pour in coconut milk, lemon juice, lemon concentrate, stir well to combine, then add salt and pepper.",
+    "Simmer for another 10 minutes or until slightly thickened.",
+    "Serve hot as a main dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "lemon",
+    "stir-fry",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 16
+  },
+  "slug": "smoky-lemon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-lemon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:49:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "whisk",
+    "primaryIngredient": "lemons",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Lemon",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
