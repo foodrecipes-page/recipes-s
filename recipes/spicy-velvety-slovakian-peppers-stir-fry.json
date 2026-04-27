@@ -1,0 +1,83 @@
+{
+  "title": "Spicy Velvety Slovakian Peppers Stir-fry",
+  "description": "This low-calorie-friendly date-night dish features a spicy, velvety flavor profile using barbeque sauce and pressure-cooking for convenience.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "3-4 fresh, chopped"
+    },
+    {
+      "name": "barbeque sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2-3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker to high heat.",
+    "Trim the tops of the bell peppers, and cut into strips or dice. Keep the seeds for extra flavor.",
+    "In a bowl, mix together chili flakes, chopped basil leaves, barbeque sauce, oyster sauce, soy sauce, and a little bit of water until smooth. Adjust seasoning as needed.",
+    "Add vegetable oil to your pressure cooker, followed by the bell peppers, and stir-fry for about 2-3 minutes until slightly softened.",
+    "Pour the mixed sauce over the vegetables in the pot. Seal with the lid and cook on high heat for about 10-15 minutes until cooked through.",
+    "Let the pressure release naturally before carefully opening the cooker to serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "velvety",
+    "slovakian",
+    "barbeque",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "spicy-velvety-slovakian-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-slovakian-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:36:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "peppers",
+    "descriptor": "Spicy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
