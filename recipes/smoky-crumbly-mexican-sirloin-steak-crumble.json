@@ -1,0 +1,84 @@
+{
+  "title": "Smoky Crumbly Mexican Sirloin Steak Crock",
+  "description": "This smoky crumbly mexican dish features sirloin steak, fermented for a unique flavor twist and served as a low-carb-friendly brunch option with oaxacan flair.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) sirloin steak",
+      "amount": "1 lb",
+      "notes": "sourced from a trusted supplier"
+    },
+    {
+      "name": "1 cup (250ml) low-fat sour cream or Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1/2 cup (60g) grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Fermented ingredients for added flavor (optional)",
+      "amount": null,
+      "notes": "such as fermented vegetables or fruits"
+    }
+  ],
+  "instructions": [
+    "Slice the sirloin steak thinly against the grain.",
+    "Mix the sour cream with lime juice and salt to taste. Adjust seasoning if necessary.",
+    "Fold in grated parmesan cheese until well combined.",
+    "If using, add a tablespoon of fermented ingredients for extra depth of flavor.",
+    "Place the steak slices between two sheets of parchment paper and pound lightly with a meat mallet or rolling pin to tenderize evenly.",
+    "Heat a non-stick skillet over medium-high heat. Place steaks in the skillet for 2-3 minutes on each side until golden brown, allowing juices to flow out slightly.",
+    "Remove from heat and carefully transfer to the mixture of sour cream and cheese. Mix well until all steak is coated evenly with the crumble mixture.",
+    "Serve warm as a flavorful low-carb-friendly brunch option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crumbly",
+    "mexican",
+    "fermented",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 12,
+    "fat": 17
+  },
+  "slug": "smoky-crumbly-mexican-sirloin-steak-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-mexican-sirloin-steak-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:30:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "sirloin steak",
+    "diet": "low-carb",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Sirloin Steak",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
