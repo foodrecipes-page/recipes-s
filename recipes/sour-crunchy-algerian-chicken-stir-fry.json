@@ -1,0 +1,87 @@
+{
+  "title": "Sour Crunchy Algerian Chicken Stir-fry",
+  "description": "A flavorful and crunchy solo-dinner dish featuring sour chicken wings with a touch of ferment to enhance its savory taste, suitable for Jain-friendly meals.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "200 grams"
+    },
+    {
+      "name": "fermented vegetables (e.g. pickles or brine)",
+      "amount": "100 grams",
+      "notes": "use fresh or pre-made ferment based on availability and preference"
+    },
+    {
+      "name": "ginger",
+      "amount": "a few slices"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3 cloves"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sour sauce (e.g. tamarind or fermented bean paste)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok over high heat. Add sesame oil and wait until hot.",
+    "Add chicken wings to the wok, season with salt, and stir-fry for about 5 minutes on each side or until golden brown.",
+    "Remove chicken from the wok and set aside.",
+    "In the same wok, add fermented vegetables (if using fresh, finely chop them), ginger, garlic, and red pepper flakes. Stir-fry for about 1 minute.",
+    "Return chicken to the wok with its juices, pour in sour sauce, and stir well until everything is coated evenly.",
+    "Turn off heat and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-algerian",
+    "crunchy-chicken",
+    "ferment-based",
+    "jain-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "sour-crunchy-algerian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-algerian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:28:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "chicken wings",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Sour Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
