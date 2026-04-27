@@ -1,0 +1,81 @@
+{
+  "title": "Sweet Creamy Yogurt Greek Stir-fry",
+  "description": "A sweet and creamy greek dish featuring ground allspice, simmered to perfection with low-calorie-friendly ingredients for a show-off meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sweetener of choice (e.g. honey, maple syrup)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried cranberries or cherries",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger root",
+      "amount": "small piece, minced"
+    }
+  ],
+  "instructions": [
+    "Combine yogurt and sweetener in a mixing bowl.",
+    "Add ground allspice and mix well. Stir in flaxseed meal, sesame seeds, dried fruits, and ginger until combined.",
+    "Heat the mixture gently over low heat for about 5 minutes or until it thickens slightly but not boiling.",
+    "Serve warm as a dessert or side dish with grilled vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "creamy",
+    "greek",
+    "allspice"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 2
+  },
+  "slug": "sweet-creamy-yogurt-greek-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-creamy-yogurt-greek-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:18:09Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "simmer",
+    "primaryIngredient": "ground allspice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Sweet Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
