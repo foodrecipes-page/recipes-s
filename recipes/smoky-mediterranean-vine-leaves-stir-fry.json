@@ -1,0 +1,92 @@
+{
+  "title": "Smoky Mediterranean Vine Leaves Stir-fry",
+  "description": "A paleo-friendly, smoky and creamy dish featuring vine leaves that are slow-cooked to perfection.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "20-30 pieces"
+    },
+    {
+      "name": "palm hearts, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil for drizzling",
+      "amount": "extra to taste"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon finely chopped (optional)"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Rinse vine leaves under cold water and drain. Pat dry with paper towels.",
+    "Spread palm hearts on a baking sheet and drizzle with olive oil. Season with salt, pepper, and smoked paprika.",
+    "Place the vine leaves over the palm hearts in a single layer. Drizzle more olive oil over them lightly to prevent sticking.",
+    "Bake for about 15-20 minutes until they are crispy on top but still tender inside. Remove from oven and let cool slightly.",
+    "In a large pan, heat olive oil over medium-high heat. Add minced garlic and cook for about 30 seconds until fragrant. Stir in lemon juice and dill (if using).",
+    "Gently fold the cooled vine leaves into the sauce and stir to coat evenly. Adjust seasoning with salt and pepper as needed.",
+    "Serve hot, garnished with a sprinkle of fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vine leaves",
+    "paleo-friendly",
+    "smoky",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 14,
+    "carbs": 36,
+    "fat": 8
+  },
+  "slug": "smoky-mediterranean-vine-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-mediterranean-vine-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:14:12Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "vine leaves",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vine leaves",
+    "descriptor": "smoky",
+    "dishForm": "Stir-fry"
+  }
+}
