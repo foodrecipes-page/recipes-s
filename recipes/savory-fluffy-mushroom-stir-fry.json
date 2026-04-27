@@ -1,0 +1,103 @@
+{
+  "title": "Savory Fluffy Mushroom Stir-fry",
+  "description": "An indulgent Thai dish featuring whole black peppercorns in a savory and fluffy stir-fry that is both satisfying and low FODMAP-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "low_fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "button mushrooms",
+      "amount": "1 cup finely chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2-3 fresh leaves, chiffonade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "a few slices"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "3-4, crushed finely"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "oyster sauce (optional)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add crushed black peppercorns, red pepper flakes, and sauté for about 30 seconds until fragrant.",
+    "Add sliced mushrooms to the pan and stir-fry until they start to brown, about 5 minutes.",
+    "Add finely chopped button mushrooms and green onions; continue to stir-fry for another 2-3 minutes or until mushrooms are soft but not mushy.",
+    "Stir in soy sauce, fish sauce (if using), fresh ginger, oyster sauce (if using), and salt. Mix well and let cook down slightly for about 1 minute more.",
+    "Garnish with chopped basil leaves before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory_fluffy",
+    "thai_dish",
+    "indulgent",
+    "slow_cook",
+    "fodmap_friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 18,
+    "fat": 14
+  },
+  "slug": "savory-fluffy-mushroom-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fluffy-mushroom-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:07:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Savory Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
