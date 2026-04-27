@@ -1,0 +1,84 @@
+{
+  "title": "Sweet Mexican Jam Stir-Fry",
+  "description": "A festive and low-carb-friendly Yucatecan dish featuring sweet jam as a main ingredient for a silky and delightful stir-fry.",
+  "cuisine": "Mexican (Yucatecan)",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Mexican Jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Breasts",
+      "amount": "4 pieces, sliced into bite-sized pieces",
+      "notes": "Ensure they are cooked to at least 165°F (74°C) for safety."
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium, finely chopped"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "Jalapeno Peppers",
+      "amount": "2 pieces, finely chopped and seeded (optional)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add sliced chicken and sauté until golden brown and cooked through (about 5 minutes).",
+    "Remove the chicken from the pan and set aside.",
+    "In the same pan, add finely chopped bell peppers, red onion, jalapeno (if using), and garlic. Stir-fry for about 3-4 minutes or until vegetables are tender-crisp.",
+    "Add the sweet Mexican Jam to the pan with the vegetables and stir well for an additional minute to meld flavors.",
+    "Return the chicken to the pan with the vegetable mixture, ensuring all pieces are coated in the jam. Cook for another minute.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-mexican-jam-stir-fry",
+    "low-carb-friendly",
+    "festive-yucatecan-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "sweet-mexican-jam-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-mexican-jam-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:16:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "jam",
+    "diet": "low-carb",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "jam",
+    "descriptor": "sweet",
+    "dishForm": "Stir-fry"
+  }
+}
