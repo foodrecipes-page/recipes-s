@@ -1,0 +1,85 @@
+{
+  "title": "Sour Silky Tomato Stir-fry",
+  "description": "A whole30-friendly dish inspired by the traditional Turkish sour-silky tomato recipe, perfect for those feeling under the weather.",
+  "cuisine": "Turkish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "1 (8 oz can), drained"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon white vinegar or lemon juice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add finely chopped onions and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook for another minute or two until fragrant.",
+    "Gently add the drained tomatoes along with red pepper flakes. Cover and simmer for about 10 minutes.",
+    "Whisk together vinegar (or lemon juice), salt, and sugar. Stir this mixture into the tomato sauce and continue to simmer uncovered for an additional 5 minutes, or until desired consistency is reached.",
+    "Serve hot as a side dish or over cooked rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-silky",
+    "tomato-stir-fry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "sour-silky-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-silky-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:25:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "rigatoni",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "tomato",
+    "descriptor": "Sour Silky",
+    "dishForm": "Stir-fry"
+  }
+}
