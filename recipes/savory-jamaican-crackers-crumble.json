@@ -1,0 +1,87 @@
+{
+  "title": "Savory Jamaican Crackers Crumble",
+  "description": "A salty and flaky indulgent dish featuring rosemary, toastable texture, and raw-friendly options.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "salty",
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup",
+      "notes": "Preferably raw for a healthier option"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Raw Almonds (optional)",
+      "amount": "3 tablespoons",
+      "notes": "For added crunch and texture"
+    },
+    {
+      "name": "Rosemary Powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine almond flour and caster sugar.",
+    "Add eggs one at a time, stirring well after each addition.",
+    "Stir in rosemary powder and salt until the mixture is smooth and crumbly.",
+    "If using raw almonds, add them to the dough now for extra crunch.",
+    "Form the dough into small balls or use your hands to shape it into thin sheets.",
+    "Place the shaped crackers on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes until golden brown and slightly crispy.",
+    "Allow to cool completely before serving as a snack or dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crumble",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 475,
+    "protein": 12,
+    "carbs": 69,
+    "fat": 30
+  },
+  "slug": "savory-jamaican-crackers-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-jamaican-crackers-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:46:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "rosemary",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Crackers",
+    "descriptor": "Savory",
+    "dishForm": "Crumble"
+  }
+}
