@@ -1,0 +1,83 @@
+{
+  "title": "Spicy Fluffy Tofu Stir-fry",
+  "description": "A spicy and fluffy tofu dish with a vinaigrette dressing for a crowd-pleasing Filipino snack that is both comforting and refreshing.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 block firm tofu",
+      "amount": "one whole block"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "notes": "use gluten-free if needed"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "notes": "adjust to taste for spiciness"
+    },
+    {
+      "name": "1 teaspoon ground black pepper"
+    },
+    {
+      "name": "1/4 cup vegetable oil"
+    },
+    {
+      "name": "1/2 cup chopped fresh cilantro"
+    },
+    {
+      "name": "Juice of 1 lime"
+    },
+    {
+      "name": "Pinch of red pepper flakes"
+    }
+  ],
+  "instructions": [
+    "Blanch tofu in boiling salted water for about 5 minutes. Drain and let cool slightly.",
+    "Press the cooled tofu with paper towels to remove excess moisture.",
+    "In a small bowl, mix soy sauce, minced garlic, black pepper, and red pepper flakes. Stir until well combined.",
+    "Heat oil in a non-stick skillet over medium heat. Add drained tofu slices and pour vinaigrette mixture over them. Toss gently to coat evenly.",
+    "Cook for about 3-4 minutes on each side or until golden brown and crispy on the outside, while ensuring it remains tender inside.",
+    "Garnish with chopped cilantro just before serving. Serve hot with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "fluffy",
+    "tofu",
+    "vinaigrette",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 5
+  },
+  "slug": "spicy-fluffy-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:04:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tofu",
+    "descriptor": "Spicy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
