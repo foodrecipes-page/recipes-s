@@ -1,0 +1,98 @@
+{
+  "title": "Savory Malaysian Frankfurter Stir-fry",
+  "description": "A savory and dense brunch-mood Malaysian dish featuring crispy frankfurters stir-fried with Mediterranean-friendly vegetables, spices, and sauces.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "8"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium (green or orange)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Broth or Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Molasses (or Hainan Black Soy Sauce)",
+      "amount": "1-2 tablespoons"
+    },
+    {
+      "name": "Cayenne Pepper or Chili Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    },
+    {
+      "name": "Fresh Herbs (such as coriander leaves or parsley)",
+      "amount": "",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium-high heat.",
+    "Add chopped onion and bell peppers, sauté until translucent and slightly softened.",
+    "Add minced garlic and cook for another minute.",
+    "Place frankfurters on top of the vegetables. Add salt, pepper, tomato paste, and molasses (or Hainan black soy sauce). Stir to combine evenly with the veggies and frankfurters.",
+    "Pour in vegetable broth or water and bring to a simmer, then reduce heat to low.",
+    "Cover and cook for about 10-15 minutes until the liquid is absorbed and the frankfurters are fully cooked. Toss occasionally to ensure even cooking.",
+    "Serve hot with fresh herbs on top as garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "malaysian",
+    "frankfurter"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 26,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "savory-malaysian-frankfurter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-malaysian-frankfurter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:57:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "frankfurter",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Frankfurter",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
