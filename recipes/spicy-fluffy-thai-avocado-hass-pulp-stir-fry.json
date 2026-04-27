@@ -1,0 +1,99 @@
+{
+  "title": "Spicy Fluffy Thai Avocado Hass Pulp Stir-fry",
+  "description": "A spicy and fluffy Thai-inspired dish featuring avocado hass pulp in a pressure cooker for a solo-dinner experience. Nut-free-friendly.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado h Ass pulp",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp (substitute with almond butter for nut-free)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame seeds in a small pan until golden brown, then set aside.",
+    "In a blender or food processor, combine avocado h Ass pulp, chili flakes, soy sauce, lime juice, ginger paste, garlic paste, tamarind water, fish sauce, peanut butter (or almond butter), and salt. Blend until smooth.",
+    "Place the pressure cooker on high heat, add 1 cup of water, then pour in the blended mixture.",
+    "Close the lid securely and set the regulator to 'sealing'. Lock the valve for a manual cook at high pressure for about 3 minutes, or follow your pressure cooker's specific instructions.",
+    "After cooking is complete, allow it to naturally release pressure (manual method) for about 10 minutes before releasing any remaining steam manually. Stir in heated sesame seeds and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "fluffy",
+    "thai",
+    "avocado",
+    "hass",
+    "stir-fry",
+    "pressure-cooked",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 29,
+    "fat": 16
+  },
+  "slug": "spicy-fluffy-thai-avocado-hass-pulp-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-thai-avocado-hass-pulp-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:34:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "avocado hass pulp",
+    "descriptor": "Spicy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
