@@ -1,0 +1,74 @@
+{
+  "title": "Silky Adventurous Spanish Goose Fat Stir-fry",
+  "description": "A silky and adventurous Spanish dish featuring goose fat, infused with smoke for a unique twist, served as a raw-friendly dinner option.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Goose Fat",
+      "amount": "100g",
+      "notes": "Ensure it is properly smoked and safe for use in cooking."
+    },
+    {
+      "name": "Garlic",
+      "amount": "5 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Sliced thinly."
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 large each color: red, green, yellow",
+      "notes": "Chopped finely."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the goose fat in a shallow dish and place it in an oven preheated at 428°F (220°C) for about 20 minutes until smoking.",
+    "Heat 2 tablespoons of olive oil in a wok or large skillet over medium-high heat. Add sliced onions and sauté until translucent, about 5 minutes.",
+    "Remove the skewered goose fat from the oven to cool slightly. Once cooled, use a wooden spoon or tongs to break it into smaller pieces.",
+    "Add minced garlic to the wok with the onions and cook for another minute until fragrant but not browned.",
+    "Gradually add chopped bell peppers into the wok, stirring continuously to prevent burning. Cook until soft, about 3-4 minutes.",
+    "Fold in the cooled goose fat pieces and continue cooking for an additional minute. Season with salt and pepper to taste.",
+    "Serve hot as a main dish or side, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "raw-friendly",
+    "silky",
+    "smoke-infused",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 19
+  },
+  "slug": "silky-adventurous-spanish-goose-fat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-adventurous-spanish-goose-fat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:02:03Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "goose fat",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Goose Fat",
+    "descriptor": "Silky Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
