@@ -1,0 +1,103 @@
+{
+  "title": "Sour Tender Light German Potato Stir-fry",
+  "description": "This keto-friendly dish features tender potatoes tossed with a sour sauce infused with parsley, perfect for a light and refreshing lunch or dinner.",
+  "cuisine": "German",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1 medium",
+      "notes": "preferably sweet potatoes"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small",
+      "notes": "about the size of a thumb"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced for added flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": "use apple cider or white wine vinegar for a better match"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tablespoons, chopped",
+      "notes": "freshly picked for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Slice the potatoes into rounds about 1/4 inch thick and place them in a baking dish.",
+    "Sprinkle salt and pepper over the potatoes, toss gently with a spatula until evenly distributed.",
+    "In a pan, heat olive oil over medium-high heat. Add minced garlic and sauté for 1 minute, being careful not to burn it.",
+    "Pour tomato paste into the pan and stir well to coat the garlic; cook for another minute.",
+    "Add red wine vinegar, paprika, and chopped parsley to the pan. Stir in salt and pepper according to taste. Let this mixture simmer gently for about 30 seconds or until the liquid has reduced slightly.",
+    "Pour the sauce over the potatoes. Spread evenly with a spatula and place them directly on the preheated baking dish.",
+    "Bake for approximately 25 minutes or until the potatoes are tender and golden brown.",
+    "Remove from oven, sprinkle more parsley over the top if desired, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "potato",
+    "german",
+    "stir-fry",
+    "sour",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 2,
+    "fat": 4
+  },
+  "slug": "sour-tender-light-german-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-tender-light-german-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:21:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "parsley",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Potato",
+    "descriptor": "Sour Tender Light",
+    "dishForm": "Stir-fry"
+  }
+}
