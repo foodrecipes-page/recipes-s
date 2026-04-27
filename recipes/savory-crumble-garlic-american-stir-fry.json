@@ -1,0 +1,87 @@
+{
+  "title": "Savory Crumble Garlic American Stir-fry",
+  "description": "A savory crumbly garlic american dish featuring jambalaya and ib rico with a keto-friendly twist, perfect for a solo dinner.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8, minced"
+    },
+    {
+      "name": "Jambalaya mix (prepared)",
+      "amount": "2 cans"
+    },
+    {
+      "name": "Ib RICO ground beef",
+      "amount": "20 oz can"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1, sliced thinly"
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1, sliced thinly"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat. Add ground beef and cook until browned.",
+    "Add onions and garlic to the skillet; sauté for about 2 minutes.",
+    "Stir in jambalaya mix and ib RICO, along with soy sauce. Let simmer for about 10 minutes.",
+    "Fold in bell peppers and continue cooking until heated through, about 5 more minutes.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "crumble",
+    "garlic",
+    "american",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 752,
+    "protein": 36,
+    "carbs": 14,
+    "fat": 30
+  },
+  "slug": "savory-crumble-garlic-american-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumble-garlic-american-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:41:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Garlic",
+    "descriptor": "Savory Crumble",
+    "dishForm": "Stir-fry"
+  }
+}
