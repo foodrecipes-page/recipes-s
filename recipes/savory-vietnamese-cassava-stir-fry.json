@@ -1,0 +1,105 @@
+{
+  "title": "Savory Vietnamese Cassava Stir-fry",
+  "description": "This savory vegan-friendly cassava stir-fry is tender and perfect for a solo dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cassava",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the cassava by slicing it into thin strips and soaking them in water for at least 15 minutes to remove excess starch.",
+    "In a small bowl, whisk together cornstarch with water until smooth. Set aside.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add garlic and onion, stir-fry for about 2 minutes until fragrant.",
+    "Add cassava and bell pepper to the wok. Stir fry for another 5-7 minutes, or until the vegetables are tender but still crisp.",
+    "In a small saucepan, combine soy sauce, fish sauce, sugar, and salt. Mix well and bring to a simmer over medium heat.",
+    "Pour the mixture into the wok with the vegetables, stirring quickly to coat everything evenly in the sauce. Reduce heat to low and let cook for an additional 2 minutes.",
+    "Thicken the sauce by adding cornstarch slurry gradually until you achieve your desired consistency. Stir constantly to avoid burning.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "tender",
+    "vietnamese-dish",
+    "cassava-stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 5.3,
+    "carbs": 40.9,
+    "fat": 7.8
+  },
+  "slug": "savory-vietnamese-cassava-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-vietnamese-cassava-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:05:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "cassaba",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Cassava",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
