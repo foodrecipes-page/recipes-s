@@ -1,0 +1,89 @@
+{
+  "title": "Spicy Chewy Sugar-Free Carrot Stir-fry",
+  "description": "A lazy Sunday French-inspired dish featuring spicy carrot stir-fry with a touch of sweetness from sugar-free-friendly ingredients like jicama and bell pepper.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup shredded carrots",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup sliced jicama",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small red bell pepper, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon sugar-free sweetener (e.g., Stevia)",
+      "amount": "",
+      "notes": "For added sweetness without sugars."
+    },
+    {
+      "name": "1/4 cup sliced green onions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon vegetable oil or avocado oil",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Pinch of red pepper flakes (or to taste)",
+      "amount": "",
+      "notes": "For spiciness"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Chop the carrots, jicama into thin slices and dice the bell pepper.",
+    "Mix all ingredients in a bowl to combine.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add carrot mixture and cook for about 5-7 minutes, stirring occasionally until everything is heated through and slightly caramelized.",
+    "Remove from heat and squeeze lime juice on top before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "spicy-carrot-stir-fry",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "spicy-chewy-sugar-free-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-chewy-sugar-free-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:03:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "pickle",
+    "primaryIngredient": "sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Carrot",
+    "descriptor": "Spicy Chewy Sugar-Free",
+    "dishForm": "Stir-fry"
+  }
+}
