@@ -1,0 +1,89 @@
+{
+  "title": "Spicy Creamy Frankfurter Stir-Fry",
+  "description": "A smoky and creamy dish that combines paleo-friendly frankfurters with a Moroccan twist for a perfect date-night meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "200g"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "Minced onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "1 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large frying pan over medium-high heat.",
+    "Add minced garlic and onion, sauté until translucent, about 3 minutes.",
+    "Stir in tomato paste, red pepper flakes, thyme leaves, and sun-dried tomatoes. Cook for an additional 2 minutes.",
+    "Fold in frankfurters and stir to coat evenly with the sauce.",
+    "Simmer for another 5-7 minutes until most of the liquid has been absorbed by the frankfurters.",
+    "Stir in capers and cook for one more minute.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo-friendly",
+    "moroccan-flavor",
+    "smoky-spicy"
+  ],
+  "nutrition": {
+    "calories": 618,
+    "protein": 27,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "spicy-creamy-frankfurter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-frankfurter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:13:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "frankfurter",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Frankfurter",
+    "descriptor": "Creamy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
