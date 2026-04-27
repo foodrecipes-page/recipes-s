@@ -1,0 +1,97 @@
+{
+  "title": "Savory Crunchy Australian Pomegranate Stir-fry",
+  "description": "A savory and dense dish featuring pomegranate in a low-fat-friendly version with a tadka to energize your meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped green bell peppers",
+      "amount": "1"
+    },
+    {
+      "name": "chopped red onion",
+      "amount": "1"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tadka spices (cumin seeds, mustard seeds)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1 handful"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium heat.",
+    "Add minced ginger and garlic to the hot oil and stir-fry for about 2 minutes, until fragrant.",
+    "Throw in chopped green bell peppers and red onion, toss them with the oil mixture for 5-7 minutes or until they start to soften.",
+    "Stir in pomegranate seeds and lemon juice, mix well. Cook for an additional minute to let flavors meld together.",
+    "Add soy sauce, stir gently to combine all ingredients evenly.",
+    "Heat a tadka (cumin and mustard seeds) in another pan over medium heat until the seeds start smoking lightly.",
+    "Drizzle tadka onto the pomegranate stir-fry, incorporating it into the dish with gentle stirring.",
+    "Garnish with fresh basil leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory-australian-stir-fry",
+    "pomegranate-dish",
+    "tadka-spices",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "savory-crunchy-australian-pomegranate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-australian-pomegranate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:01:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "pomegranate",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pomegranate",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
