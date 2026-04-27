@@ -1,0 +1,100 @@
+{
+  "title": "Sour Fluffy Filipino Brussels Sprouts Stir-fry",
+  "description": "A low-carb-friendly date-night dish featuring tender Brussels sprouts cooked in a tangy sauce for a delightful and satisfying meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels Sprouts",
+      "amount": "1 cup trimmed and halved",
+      "notes": "Choose firm, young sprouts"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/4 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 green onions thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon low-sodium",
+      "notes": "Ensure the sauce is not too salty"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 teaspoon",
+      "notes": "For thickening the sauce"
+    },
+    {
+      "name": "Water or Chicken Broth",
+      "amount": "2 tablespoons",
+      "notes": "To dilute tamarind paste and soy sauce if needed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat.",
+    "Add garlic, green onions, and red bell pepper. Stir-fry for about 2 minutes until fragrant and slightly softened.",
+    "Remove from heat and set aside to cool slightly.",
+    "In another pan, heat soy sauce and tamarind paste together with a little water or broth if needed to dissolve the tamarind paste (it should be smooth).",
+    "Return the cooled vegetables to the wok along with the sauce mixture. Stir-fry for about 5 minutes until the veggies are tender yet crunchy.",
+    "Stir in cornstarch mixed with water, and simmer until the sauce thickens slightly.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brussels-sprouts",
+    "stir-fry",
+    "filipino-dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "sour-fluffy-filipino-brussels-sprouts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-fluffy-filipino-brussels-sprouts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:04:38Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Sour Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
