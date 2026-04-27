@@ -1,0 +1,91 @@
+{
+  "title": "Sous-vide Garlicky Brazilian Stir-fry",
+  "description": "This lazy Sunday dish features a creamy and garlicky stir-fry of green peppers with a sous-vide preparation that keeps the fat content low.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat",
+    "healthy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green Peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Chopped Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken Broth or Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt and Pepper to taste"
+    },
+    {
+      "name": "Thyme Sprigs (optional)",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 145°F (63°C).",
+    "Trim the stems from the green peppers. Cut into thin strips.",
+    "In a large pot, heat olive oil over medium heat. Add sliced onions and chopped garlic; sauté for about 2 minutes until onions are translucent.",
+    "Add the pepper strips to the pot with the onions and garlic. Stir in soy sauce, chicken broth or water, salt, pepper, and optional thyme sprigs.",
+    "Bring to a simmer and let cook for about 10-15 minutes, stirring occasionally, until the peppers are tender and the mixture is creamy.",
+    "Transfer the cooked mixture into a sous-vide bag. Cook in your sous-vide machine preheated at 145°F (63°C) for 2 hours.",
+    "Let the prepared dish rest for about 10 minutes before serving. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "garlicky",
+    "green-peppers",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "sous-vide-garlicky-brazilian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-garlicky-brazilian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:32:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "green pepper",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Sous-vide",
+    "dishForm": "Stir-fry"
+  }
+}
