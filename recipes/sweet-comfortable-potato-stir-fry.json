@@ -1,0 +1,88 @@
+{
+  "title": "Sweet Comfortable Potato Stir-fry",
+  "description": "An earthy and comforting Ukrainian dish featuring hoisin sauce, tender potatoes, and a touch of sweetness without added sugars.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1 large potato"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece of fresh ginger"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water or chicken broth",
+      "amount": "as needed to make a slurry"
+    }
+  ],
+  "instructions": [
+    "Peel and thinly slice the potato. Chop the onion into small pieces.",
+    "Slice the ginger finely for easy incorporation into the stir-fry.",
+    "Heat sesame oil in a wok over medium-high heat.",
+    "Add sliced potatoes, onions, and ginger to the wok. Stir-fry until they start to brown, about 5 minutes.",
+    "Mix together hoisin sauce, soy sauce, cornstarch, and water or broth into a slurry. Pour this mixture into the wok with the vegetables.",
+    "Stir continuously for an additional 2-3 minutes until the potatoes are tender and coated with a sweet hoisin glaze.",
+    "Season with salt to taste if needed. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "comfortable",
+    "potato",
+    "stir-fry",
+    "hoisin"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "sweet-comfortable-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-comfortable-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:49:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Potato",
+    "descriptor": "Comfortable Sweet",
+    "dishForm": "Stir-fry"
+  }
+}
