@@ -1,0 +1,76 @@
+{
+  "title": "Spicy Flaky Slovakian Turmeric Powder Stir-fry",
+  "description": "A one-pot vegan-friendly dish featuring spicy turmeric powder with a flaky texture, ideal for quick weeknight meals.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 oz tofu",
+      "amount": "firmly packed"
+    },
+    {
+      "name": "1 tbsp turmeric powder"
+    },
+    {
+      "name": "1 tbsp black pepper flakes"
+    },
+    {
+      "name": "1/2 cup cashews, soaked and drained"
+    },
+    {
+      "name": "2 cups mixed vegetables (e.g., bell peppers, carrots, onions)"
+    },
+    {
+      "name": "2 tbsp soy sauce (or tamari for vegan option)"
+    },
+    {
+      "name": "2 cloves garlic, minced"
+    },
+    {
+      "name": "Juice of 1 lime"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat. Add turmeric powder and black pepper flakes to the pan and cook for about 30 seconds.",
+    "Add cashews, mixed vegetables, soy sauce (or tamari), garlic, and lime juice. Stir well until evenly coated with the spices.",
+    "Stir-fry everything together for another 5 minutes or until the vegetables are tender but still crisp.",
+    "Fold in tofu cubes into the pan. Continue to stir-fry for an additional 2-3 minutes until all ingredients are heated through and the dish is nicely spiced and flavorful."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "flaky",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 21,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "spicy-flaky-slovakian-turmeric-powder-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-flaky-slovakian-turmeric-powder-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:58:58Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "turmeric powder",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Turmeric Powder",
+    "descriptor": "Spicy Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
