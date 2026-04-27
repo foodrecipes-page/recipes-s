@@ -1,0 +1,85 @@
+{
+  "title": "Steamy Moroccan Peas Stir-fry",
+  "description": "A tangy and gooey lazy-sunday meal featuring frozen peas cooked with aromatic spices for a low-fat-friendly side dish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "Frozen Peas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chopped Cumin Seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chopped Coriander Leaves",
+      "amount": "handful",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat.",
+    "Add minced garlic, cumin seeds, and red chili flakes; sauté for about 1 minute.",
+    "Stir in frozen peas. Pour tomato paste over the mixture and mix well to coat all peas evenly.",
+    "Cook until most of the water has evaporated from the peas, about 5 minutes. Add chopped coriander leaves and cook for another 2-3 minutes or until you reach desired consistency.",
+    "Serve hot as a side dish with your favorite meals."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "lazy-sunday",
+    "tangy",
+    "gooey",
+    "side-dish",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "steamy-moroccan-peas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamy-moroccan-peas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:46:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "frozen peas",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Peas",
+    "descriptor": "Steamy",
+    "dishForm": "Stir-fry"
+  }
+}
