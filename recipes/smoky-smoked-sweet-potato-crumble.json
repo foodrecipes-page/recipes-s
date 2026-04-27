@@ -1,0 +1,106 @@
+{
+  "title": "Smoky Smoked Sweet Potato Crumble",
+  "description": "A tangy, gooey, romantic Korean dish featuring yellow food colouring, roast, and keto-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "4 medium-sized",
+      "notes": "Skin on"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Yellow food coloring",
+      "amount": "2 drops"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "30ml"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "60g"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Rub the sweet potatoes with coconut oil, sprinkle evenly with dark brown sugar, ground black pepper, smoked paprika, and cayenne pepper. Toss gently.",
+    "Place the sweet potatoes on a baking sheet lined with parchment paper and roast for about 45-60 minutes or until tender, flipping halfway through cooking time.",
+    "In a small saucepan, combine heavy cream, Dijon mustard, yellow food coloring, and a pinch of ground black pepper. Stir until smooth; it should be pourable like honey but thicker. Reduce heat to low if necessary to avoid scorching.",
+    "Remove the sweet potatoes from the oven and let them cool for 10 minutes. Gently scoop out the insides into a bowl and mash with an electric mixer or fork.",
+    "Once cooled, mix in cooled heavy cream mixture until fully incorporated and smooth. Sprinkle almond flour over the top to thicken slightly, stirring gently just enough to coat evenly.",
+    "Pour crumble mixture back onto the roasted sweet potatoes and bake for another 15-20 minutes at 375°F (190°C) or until golden brown on top.",
+    "Let it rest for a couple of minutes before serving as is, garnished with additional Dijon mustard if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-potato",
+    "crumble",
+    "smoky-smoked",
+    "korean-dish",
+    "tangy",
+    "gooey",
+    "romantic",
+    "yellow-food-colouring",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "smoky-smoked-sweet-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-smoked-sweet-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:20:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Gooey Smoked",
+    "dishForm": "Crumble"
+  }
+}
