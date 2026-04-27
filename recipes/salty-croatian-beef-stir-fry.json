@@ -1,0 +1,64 @@
+{
+  "title": "Salty Croatian Beef Stir-fry",
+  "description": "A festive croatian dish featuring salty and crispy beef, perfect for a quick lunch or dinner that's vegetarian-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "200g"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add oil and sauté beef until browned on all sides.",
+    "Add onions and bell peppers to the pan, stir-frying for about 5 minutes until vegetables are tender but still crisp.",
+    "Season with salt and pepper to taste. Adjust seasoning as needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "croatian",
+    "beef-stir-fry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "salty-croatian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-croatian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:55:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "beef",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Beef",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
