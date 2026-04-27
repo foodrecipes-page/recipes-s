@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Ukrainian Bean Sprouts Stir-fry",
+  "description": "A light and romantic dish featuring fermented bean sprouts with a touch of smokiness, suitable for those following kosher dietary guidelines.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Bean Sprouts",
+      "amount": "1 cup",
+      "notes": "Choose the ones that have a distinct, fermented flavor."
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "A pinch",
+      "notes": "To enhance the flavors and prevent over-salting if using salted bean sprouts."
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "For soaking the bean sprouts to remove excess salt or fermentation liquid."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": "For stir-frying and adding smokiness if desired."
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves",
+      "notes": "Chopped finely for added flavor."
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 small, thinly sliced",
+      "notes": "For a touch of color and sweetness."
+    },
+    {
+      "name": "Shallots",
+      "amount": "3-4 shallot slices",
+      "notes": "Sliced finely for added depth of flavor."
+    }
+  ],
+  "instructions": [
+    "Place the bean sprouts in a bowl, cover with water, and soak for about 10 minutes to remove any excess salt or fermentation liquid.",
+    "Drain and pat dry the soaked bean sprouts, then add them back into the soaking water. Sprinkle a pinch of kosher salt over the top and let sit for another 5-7 minutes before draining again.",
+    "Heat a tablespoon of oil in a wok or large skillet over medium-high heat. Add minced garlic cloves, finely sliced shallots, and thinly sliced red peppers; stir-fry until fragrant, about 2 minutes.",
+    "Increase the heat to high and add the drained bean sprouts directly from the soaking water into the pan. Stir rapidly for a few seconds to prevent burning.",
+    "If desired, add a couple of teaspoons of dark soy sauce or another type of fermented sauce which complements the dish well with its umami flavor. Mix evenly and cook until fully coated with sauce.",
+    "Serve hot as a side dish or main course, garnished with fresh herbs like parsley for additional freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky-ukrainian-bean-sprouts-stir-fry",
+    "fermented-dishes",
+    "kosher-friendly",
+    "romantic-meals"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "smoky-ukrainian-bean-sprouts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-ukrainian-bean-sprouts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:29:42Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "bean sprouts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Bean Sprouts",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
