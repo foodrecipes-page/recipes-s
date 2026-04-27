@@ -1,0 +1,107 @@
+{
+  "title": "Savory Gooey Syrian Lamb Stir-fry",
+  "description": "This savory and gooey dish features lamb cooked to perfection with the perfect balance of tangy lemon juice, ensuring a deliciously nostalgic meal that's both comforting and satisfying.",
+  "cuisine": "Syrian",
+  "diet": [
+    "savory",
+    "gooey",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water or low sodium chicken broth",
+      "amount": "450ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "a few sprigs, chopped (optional)"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "a handful, roughly torn (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add cumin seeds and sauté for about 30 seconds until fragrant.",
+    "Add onion and garlic to the pan; cook until softened and translucent, stirring occasionally.",
+    "Stir in tomato paste and cook for another minute. Gradually add water/broth while continuously stirring to prevent sticking.",
+    "Reduce heat to medium-low and add lamb mince. Cook until browned on all sides, breaking up lumps with a wooden spoon as it cooks.",
+    "Season the stew with salt, lemon juice, and red pepper flakes according to taste.",
+    "Garnish with chopped parsley and torn cilantro leaves if desired before serving hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "gooey",
+    "syrian",
+    "stir-fry",
+    "lambsandwich",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "savory-gooey-syrian-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-gooey-syrian-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:07:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "rest",
+    "primaryIngredient": "lemon juice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Savory Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
