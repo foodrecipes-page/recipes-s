@@ -1,0 +1,72 @@
+{
+  "title": "Savory Juicy Light Middle Eastern Beef Steak",
+  "description": "A keto-friendly and sous-vide prepared savory beef steak with a touch of beer for added depth and juiciness, perfect as a light main course.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Steak",
+      "amount": "150g",
+      "notes": "Choose a lean cut like sirloin or flank steak for the best result."
+    },
+    {
+      "name": "Beer",
+      "amount": "2 ounces",
+      "notes": "A light beer works well, such as Pilsner or Witbier."
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "To sear the steak on a hot skillet."
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 60°C (140°F). Place the beef steak in a vacuum-sealed bag with a small amount of beer.",
+    "Vacuum seal and cook the steak for 5 hours at 60°C (140°F).",
+    "Remove from the sous-vide machine, let it rest for about 10 minutes.",
+    "Season both sides of the steak generously with salt and pepper. In a hot skillet, add olive oil to sear each side for approximately 2-3 minutes per side until golden brown and cooked through.",
+    "Slice the steak against the grain into thin slices and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 500,
+  "totalTimeMin": 515,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "beer-steak",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 354,
+    "protein": 30,
+    "carbs": 1,
+    "fat": 20
+  },
+  "slug": "savory-juicy-light-middle-eastern-beef-steak",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-light-middle-eastern-beef-steak",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:24:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "beer",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beef",
+    "descriptor": "Savory Juicy Light",
+    "dishForm": "Steak"
+  }
+}
