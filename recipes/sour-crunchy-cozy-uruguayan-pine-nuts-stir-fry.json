@@ -1,0 +1,76 @@
+{
+  "title": "Sour Crunchy Cozy Uruguayan Pine Nuts Stir-fry",
+  "description": "This sugar-free-friendly dish features savory pine nuts in a tangy sauce that’s perfect for a quick and easy snack or as an appetizer.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white pepper powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium-high heat.",
+    "Add pine nuts and cook until they start to brown, stirring occasionally for about 2 minutes.",
+    "Mix in ginger juice, tomato sauce, white pepper powder, and salt. Stir well and let it simmer for an additional 1-2 minutes until the sauce thickens slightly.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crunchy",
+    "cozy",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "sour-crunchy-cozy-uruguayan-pine-nuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-cozy-uruguayan-pine-nuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:51:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "pine nuts",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pine nuts",
+    "descriptor": "Sour Crunchy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
