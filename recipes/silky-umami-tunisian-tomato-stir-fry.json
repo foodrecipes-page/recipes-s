@@ -1,0 +1,79 @@
+{
+  "title": "Silky Umami Tunisian Tomato Stir-fry",
+  "description": "A kid-friendly dish featuring shaoxing wine and dairy-free-friendly elements to create a silky umami flavor profile suitable for mealtime enjoyment.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "2 cups fresh or 1 can diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4-5"
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili flakes (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Sauté onion and garlic in a pan until translucent.",
+    "Add bell peppers and continue to stir-fry for about 2 minutes.",
+    "Remove from heat and add shaoxing wine. Simmer for an additional minute.",
+    "Fold in tomato, soy sauce, and chili flakes (if using). Stir well to combine all ingredients.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "umami",
+    "silky",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 26,
+    "fat": 3
+  },
+  "slug": "silky-umami-tunisian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-umami-tunisian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:25:05Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "simmer",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Silky Umami",
+    "dishForm": "Stir-fry"
+  }
+}
