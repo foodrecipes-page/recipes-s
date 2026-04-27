@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Stir-fry Yautia",
+  "description": "A smoky, crispy solo-dinner dish featuring yautia roots that are friendly for pescatarians.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yautia (daikon)",
+      "amount": "1 medium root",
+      "notes": "Peel and dice into thin strips."
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium onion",
+      "notes": "Chop into fine pieces for quick cooking."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves",
+      "notes": "Minced for aroma and flavor."
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 large pepper",
+      "notes": "Dice thinly, leave seeds and membranes intact for added smokiness."
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2-3 tablespoons",
+      "notes": "Use a mild or low-sodium variety to avoid excess salt."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For the crispy texture and as a smoking medium if using a smoker."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C) for roasting or use a gas grill set to high heat.",
+    "Slice yautia into thin strips. If not roasting, blanch the strips in boiling water for about 2 minutes before stir-frying.",
+    "In a small bowl, mix tomato sauce with olive oil and enough water to reach a pouring consistency.",
+    "In a skillet or wok, sauté chopped onion until translucent. Add minced garlic and diced red bell pepper, cook for an additional minute.",
+    "Add yautia strips to the skillet. Pour the tomato-oil mixture over the vegetables, ensuring all are well-coated with sauce.",
+    "If using a smoker, place the skillet on the grill or in your oven and let it smoke until the edges of the yautia turn crispy (about 10-15 minutes).",
+    "For those not smoking: Cook for another minute or so to ensure all vegetables are tender. Season with salt if needed.",
+    "Serve hot as a side dish or a main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "turkish",
+    "yautia",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "smoky-stir-fry-yautia",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-stir-fry-yautia",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:34:33Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "smoke",
+    "primaryIngredient": "yautia",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Yautia",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
