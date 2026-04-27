@@ -1,0 +1,84 @@
+{
+  "title": "Salty Velvety Midnight Canadian Fish Stir-fry",
+  "description": "A gluten-free friendly salty and velvety fish dish that satisfies a midnight craving for Canadian flavors. Features fish that has been blanched to perfection.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Water chestnuts",
+      "amount": "3-4 pcs"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "10 pcs"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 piece"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Olive oil or butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C). Blanch the fish fillets in boiling water for about 2-3 minutes. Drain and set aside.",
+    "Slice the garlic thinly, scallions into thin slices, and cut the red bell pepper into strips.",
+    "Heat olive oil or butter in a wok or large skillet over medium heat. Add sliced garlic, sauté until golden brown (about 1 minute).",
+    "Add fish fillets to the pan, sprinkle with salt, and cook for about 2-3 minutes on each side, or until lightly golden.",
+    "Stir-fry water chestnuts, snow peas, and red bell pepper strips in the remaining oil. Season with a pinch of salt and black pepper (if desired).",
+    "Combine blanched fish with stir-fried vegetables. Garnish with scallion slices before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salty",
+    "velvety",
+    "midnight-craving",
+    "canadian-dish",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 10
+  },
+  "slug": "salty-velvety-midnight-canadian-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-velvety-midnight-canadian-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:22:22Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "fish",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Fish",
+    "descriptor": "Salty Velvety Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
