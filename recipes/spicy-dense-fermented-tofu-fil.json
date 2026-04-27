@@ -1,0 +1,88 @@
+{
+  "title": "Spicy Dense Fermented Tofu Fil",
+  "description": "A flavorful and meal-prep-friendly Filipino dish featuring ground cinnamon for added depth of flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 small piece"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Mix the fermented tofu with sesame seeds, ground cinnamon, red chili flakes, minced garlic and ginger.",
+    "Add salt to taste. Mix well until all ingredients are evenly distributed.",
+    "Heat vegetable oil in a pan over medium heat.",
+    "Once heated, add the fermented tofu mixture into the pan.",
+    "Cook for about 10-15 minutes or until the tofu becomes crispy and golden brown.",
+    "Remove from heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "dense",
+    "fermented tofu fil",
+    "cinnamon",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 27,
+    "fat": 18
+  },
+  "slug": "spicy-dense-fermented-tofu-fil",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-dense-fermented-tofu-fil",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:39:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tofu",
+    "descriptor": "Spicy Dense Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
