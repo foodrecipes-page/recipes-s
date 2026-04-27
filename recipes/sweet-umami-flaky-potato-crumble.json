@@ -1,0 +1,75 @@
+{
+  "title": "Sweet Umami Flaky Potato Crumble",
+  "description": "A sweet and savory crumble that is perfect for breakfast or dessert, featuring potato flakes, kosher salt, and a touch of sweetness without added sugars.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Potato Flakes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "8 tablespoons, melted and cooled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix potato flakes with salt, sugar, vanilla extract, flour, and butter until a soft dough forms.",
+    "Press the dough into a lined baking dish. Bake for 25-30 minutes or until golden brown and crispy.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "umami",
+    "flaky",
+    "potato",
+    "kosher-salt"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 7
+  },
+  "slug": "sweet-umami-flaky-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-umami-flaky-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:52:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "kosher salt",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Potato",
+    "descriptor": "Umami Flaky Sweet",
+    "dishForm": "Crumble"
+  }
+}
