@@ -1,0 +1,91 @@
+{
+  "title": "Savory Jamaican Pistachio Stir-fry",
+  "description": "A sour and juicy solo-dinner jamaican dish featuring pistachio paste in a paleo-friendly stir-fry that combines savory spices with tender vegetables.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pistachio paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "100g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small",
+      "notes": "red or green, cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat. Add the onion and garlic, sautéing until translucent.",
+    "Add chicken breast to the pan, season with salt and pepper, and cook for about 5-7 minutes or until fully cooked through.",
+    "Remove the chicken from the skillet and set aside. Increase the heat to high if needed.",
+    "Return the skillet to the stove. Add zucchini and bell peppers, tossing well in the hot oil, and cook for about 3-4 minutes or until they start to soften.",
+    "Add pistachio paste and cook for an additional 2-3 minutes, stirring constantly to prevent sticking.",
+    "Stir-fry the chicken back into the skillet with the vegetables. Cook for another minute or two, until everything is heated through.",
+    "Serve hot as a solo-dinner dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "jamaican",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 456,
+    "protein": 28,
+    "carbs": 39,
+    "fat": 17
+  },
+  "slug": "savory-jamaican-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-jamaican-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:32:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "pistachio paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pistachio",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
