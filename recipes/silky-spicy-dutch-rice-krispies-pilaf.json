@@ -1,0 +1,84 @@
+{
+  "title": "Silky Spicy Dutch Rice Krispies Pilaf",
+  "description": "A spicy and silky dutch dish featuring rice krispies cooked sous-vide for an elevated raw-friendly meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "2-3 pieces"
+    },
+    {
+      "name": "Red pepper flakes (siracha paste for non-spicy option)",
+      "amount": "a few twists or 1/4 teaspoon"
+    },
+    {
+      "name": "Melted unsalted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1-2 teaspoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shredded parmesan cheese (optional)",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Paprika (for garnish, optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide to 160°F for the entire cooking time.",
+    "In a small pan, warm unsalted butter and garlic powder. Add rice krispies and saffron threads in this mixture until evenly coated with butter and infused with the spices.",
+    "Place prepared rice krispies mixture into preheated sous-vide bag, seal it, and cook for 1 hour at 160°F.",
+    "Once cooked, deglaze the pan with a little bit of olive oil to release any stuck bits on the bottom. Add red pepper flakes (or siracha paste), reduce temperature to low heat and stir until fully incorporated.",
+    "Transfer cooked rice krispies mixture from sous-vide back into pan. Stir in shredded parmesan cheese if using, along with a pinch of paprika for garnish.",
+    "Serve hot or at room temperature as a unique snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "silky-spicy",
+    "dutch-rice-krispies-pilaf",
+    "sous-vide",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "silky-spicy-dutch-rice-krispies-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-spicy-dutch-rice-krispies-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:13:22Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "rice krispies",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Rice Krispies",
+    "descriptor": "Silky Spicy",
+    "dishForm": "Pilaf"
+  }
+}
