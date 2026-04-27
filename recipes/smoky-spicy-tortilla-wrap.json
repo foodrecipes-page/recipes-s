@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Spicy Tortilla Wrap",
+  "description": "A bold and low-carb Polish dish featuring smoky flavors and a spicy kick served in corn tortillas, perfect for an adventurous meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "spicy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 corn tortillas",
+      "amount": "each",
+      "notes": "Can be whole or halved"
+    },
+    {
+      "name": "1/4 cup smoked paprika",
+      "amount": "optional, for added smokiness"
+    },
+    {
+      "name": "1 tablespoon cumin",
+      "amount": "ground"
+    },
+    {
+      "name": "1 tablespoon chili powder",
+      "amount": "spicy"
+    },
+    {
+      "name": "1/2 teaspoon garlic powder",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "optional, for acid balance"
+    },
+    {
+      "name": "1/4 cup diced green peppers",
+      "amount": "for added crunch and color"
+    },
+    {
+      "name": "1/4 cup shredded cheddar cheese",
+      "amount": "optional, to make it gooey"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "for cooking tortillas and wrapping the fillings"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Fold each tortilla in half and place them seam side down on a baking sheet. Brush with olive oil and sprinkle with smoked paprika, cumin, chili powder, and garlic powder.",
+    "Bake for about 2-3 minutes or until lightly golden brown, flipping once halfway through cooking time.",
+    "While the tortillas are heating up, mix together the green peppers, cheese (if using), cilantro, lime juice (if using), and olive oil in a small bowl to create your filling mixture.",
+    "Place about 1/4 cup of the filling on each tortilla. Roll tightly from one side to close around the fillings, pressing lightly with fingers or a fork to seal.",
+    "Serve warm as a low-carb, spicy, gooey meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-spicy",
+    "low-carb-friendly",
+    "adventurous-dish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "smoky-spicy-tortilla-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spicy-tortilla-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:20:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "corn tortillas",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Tortilla",
+    "descriptor": "Smoky Spicy",
+    "dishForm": "Wrap"
+  }
+}
