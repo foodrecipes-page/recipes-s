@@ -1,0 +1,93 @@
+{
+  "title": "Silky Post-Workout Paleo Clove Polish Dish",
+  "description": "A sweet and silky post-workout dish featuring cloves, paleo-friendly ingredients for a delightful finish to your workout.",
+  "cuisine": "Paleo",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Paleo Protein Blend",
+      "amount": "1/2 cup",
+      "notes": "A mix of almond flour, coconut flour, and stevia."
+    },
+    {
+      "name": "Raw Almond Butter",
+      "amount": "1 tbsp",
+      "notes": "For a creamy texture."
+    },
+    {
+      "name": "Organic Dates",
+      "amount": "4 medium",
+      "notes": "Choose dates with natural pits to remove before use."
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "Natural or vanilla-flavored for an extra touch of sweetness and flavor."
+    },
+    {
+      "name": "Coconut Sugar (optional)",
+      "amount": "1 tbsp",
+      "notes": "To sweeten the dish, adjust to taste."
+    },
+    {
+      "name": "Clove Paste",
+      "amount": "2 cloves",
+      "notes": "Freshly ground or ready-made paste for added flavor and aroma."
+    },
+    {
+      "name": "Honey (optional)",
+      "amount": "1 tsp",
+      "notes": "To complement the dish, optional as it’s not paleo-friendly but adds a touch of sweetness."
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "For crunch and color."
+    }
+  ],
+  "instructions": [
+    "Blend together Paleo Protein Blend, Raw Almond Butter, dates (de-pitted), vanilla extract, and optional Coconut Sugar in a food processor until smooth.",
+    "If using Honey, mix it into the blended mixture last to prevent burning if heating further.",
+    "Stir in Clove Paste until well incorporated. The mixture will thicken up slightly as it cooks down from moisture.",
+    "Pour the mixture into an oven-safe dish and bake at 160°C (320°F) for about 25 minutes or until set.",
+    "For serving, garnish with chopped Pistachios and a drizzle of Coconut Sugar if desired.",
+    "Serve chilled as this will make it more refreshing post-workout."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky-post-workout",
+    "paleo-friendly",
+    "clove-polish-dish"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "silky-post-workout-paleo-clove-polish-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-post-workout-paleo-clove-polish-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:06:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "cloves",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Paleo",
+    "mainIngredient": "Cloves",
+    "descriptor": "Silky Post Workout",
+    "dishForm": "Polish Dish"
+  }
+}
