@@ -1,0 +1,102 @@
+{
+  "title": "Savory Juicy Dutch King Prawn Brunch Mood Crumble",
+  "description": "A savory and juicy dutch dish featuring king prawns in a sous-vide preparation, served as a brunch item that is also plant-based-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) king prawns",
+      "amount": "",
+      "notes": "fresh, peeled and deveined"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "for the crust and sauce"
+    },
+    {
+      "name": "1 cup cashews",
+      "amount": "chopped",
+      "notes": "soaked for 30 minutes and drained"
+    },
+    {
+      "name": "1/4 cup nutritional yeast",
+      "amount": "optional, to taste"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": "",
+      "notes": "freshly squeezed from 1 lemon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "",
+      "notes": "for heat, optional"
+    },
+    {
+      "name": "2 cups vegan cream cheese or cashew cream (homemade)",
+      "amount": "homemade or store-bought",
+      "notes": "can be substituted with any plant-based alternative for cheese"
+    },
+    {
+      "name": "1/4 cup fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Place the prawns in a sous-vide bag and cook them at 52°C (126°F) for about 1 hour. Pat dry with paper towels.",
+    "In a skillet, heat the olive oil over medium heat. Add the chopped cashews and sauté until golden brown and fragrant, approximately 4-5 minutes.",
+    "Add minced garlic to the skillet, stir for 30 seconds and then add lemon juice. Mix well to combine.",
+    "Fold in cooked prawns, salt, pepper, and red pepper flakes (if using). Stir everything together thoroughly.",
+    "Pour in cashew cream or vegan cheese, stirring gently until everything is evenly coated and heated through. Serve warm.",
+    "Top with fresh parsley for garnish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "king prawns",
+    "vegan crumble",
+    "savory brunch"
+  ],
+  "nutrition": {
+    "calories": 357,
+    "protein": 19,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "savory-juicy-dutch-king-prawn-brunch-mood-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-dutch-king-prawn-brunch-mood-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:48:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "king prawns",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "King Prawn",
+    "descriptor": "Savory Juicy",
+    "dishForm": "Brunch Mood Dish"
+  }
+}
