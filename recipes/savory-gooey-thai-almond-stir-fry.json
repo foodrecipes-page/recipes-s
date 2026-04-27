@@ -1,0 +1,97 @@
+{
+  "title": "Savory Gooey Thai Almond Stir-fry",
+  "description": "A savory and gooey Thai-inspired dish featuring almond extract to add a unique nutty flavor in a quick weeknight dinner option that's also vegan-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan Egg Replacer",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Plant-based Cream Cheese",
+      "amount": "3 oz"
+    },
+    {
+      "name": "Fresh Mushrooms",
+      "amount": "100g, sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "100g, trimmed and washed"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/4 medium, thinly sliced"
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "2, chopped finely"
+    },
+    {
+      "name": "Dried Shrimp or Vegan Shrimp Alternatives",
+      "amount": "30g, soaked and drained if using dried"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Seeds (for garnish)",
+      "amount": "a sprinkle"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix Vegan Egg Replacer with almond milk to make egg replacer for the creamy sauce.",
+    "Heat a non-stick pan over medium heat. Add sliced mushrooms and sauté until they release their moisture, about 3 minutes.",
+    "Stir in red bell pepper and green onions; continue cooking for another minute or so.",
+    "If using dried shrimp, soak them first. In a different small bowl, mix Plant-based Cream Cheese with cornstarch, Sesame Seeds, and almond milk until smooth.",
+    "Pour the cream cheese sauce over the vegetables and stir well to combine. Cook for 2 minutes on medium heat.",
+    "Fold in soaked dried shrimps or vegan shrimp alternatives if using. Add fresh mushrooms and snow peas; toss gently to distribute evenly.",
+    "Cook for another minute to allow flavors to meld together, then remove from heat.",
+    "Garnish with chopped green onions before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "gooey",
+    "thai-almond-stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "savory-gooey-thai-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-gooey-thai-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:44:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "almond extract",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Almonds",
+    "descriptor": "Savory Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
