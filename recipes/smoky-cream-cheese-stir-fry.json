@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Cream Cheese Stir-Fry",
+  "description": "A savory and comforting smoky mediterranean dish featuring cream cheese as the star ingredient with a touch of sweetness for a lazy Sunday treat.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "8 oz baby spinach leaves",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "200g cream cheese (softened)",
+      "amount": "g"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup finely grated fresh parsley",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup finely grated fresh oregano",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat. Add onion and garlic, sauté until softened.",
+    "Stir in cream cheese and smoked paprika. Cook for an additional 2 minutes or until the mixture is smooth and slightly heated.",
+    "Fold in spinach leaves and cook until wilted. Stir in fresh parsley and oregano just before serving to prevent browning.",
+    "Serve hot with crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "cream_cheese",
+    "lazy_sunday",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 16,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "smoky-cream-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-cream-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:12:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "cream cheese",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Cream Cheese",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
