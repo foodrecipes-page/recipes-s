@@ -1,0 +1,76 @@
+{
+  "title": "Salty Crispy Japanese Dum Stir-fry",
+  "description": "A unique take on the traditional Japanese dum dish with a twist of cinnamon to complement the salty and crispy texture.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paleo-friendly dum",
+      "amount": "2 pieces",
+      "notes": "Available in most health food stores or specialty stores"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "For a rich flavor"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "To add crunch and texture"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tbsp",
+      "notes": "Substitute with honey or maple syrup for non-paleo version"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Place the Paleo-friendly dum on a baking sheet lined with parchment paper.",
+    "Sprinkle cinnamon over the dum evenly, making sure all pieces are coated.",
+    "Drizzle palm sugar or honey mixture evenly on top of each dum and mix well using your fingers to distribute it properly.",
+    "Bake for 10 minutes until caramelized and golden brown. Rotate the pan halfway during baking for even cooking.",
+    "After removing from oven, sprinkle sesame seeds over the dum for added crunchiness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "crispy",
+    "japanese-dum",
+    "monsoon-friendly",
+    "cinnamon",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "salty-crispy-japanese-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crispy-japanese-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:47:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "cinnamon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "dum",
+    "descriptor": "Salty, Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
