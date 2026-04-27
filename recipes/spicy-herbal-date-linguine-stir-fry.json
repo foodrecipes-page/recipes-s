@@ -1,0 +1,86 @@
+{
+  "title": "Spicy Herbal Date Linguine Stir-fry",
+  "description": "A spicy herbal date dish perfect for a romantic evening featuring linguine pasta with a Brazilian flair.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Linguine Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped scotch bonnet pepper",
+      "amount": "2-3",
+      "notes": "deseeded and finely chopped"
+    },
+    {
+      "name": "Sautéed onions",
+      "amount": "1 small, finely diced"
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "1 can (28 oz)"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Green onion",
+      "amount": "3-4 pieces",
+      "notes": "finely chopped for garnish"
+    },
+    {
+      "name": "Low sodium chicken broth",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to package instructions until al dente.",
+    "In a pan, heat a little bit of oil over medium-high heat. Add minced garlic and scotch bonnet pepper; sauté for about 1 minute or until fragrant.",
+    "Add finely diced onions into the pan with garlic and scotch bonnet, cook for another 2 minutes until translucent.",
+    "Pour in crushed tomatoes and low sodium chicken broth; bring to a simmer. Reduce heat to medium-low and let it thicken slightly.",
+    "Stir in cooked linguine pasta and gently fold everything together so that it coats all the pasta evenly. Simmer for an additional 5-7 minutes, stirring occasionally.",
+    "Fold in finely chopped cilantro leaves and green onions just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "linguine",
+    "date-night",
+    "brazilian-dish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 57,
+    "fat": 9
+  },
+  "slug": "spicy-herbal-date-linguine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-herbal-date-linguine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:56:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "linguine pasta",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Date",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
