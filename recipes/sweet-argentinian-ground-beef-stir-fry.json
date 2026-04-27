@@ -1,0 +1,90 @@
+{
+  "title": "Sweet Argentinian Ground Beef Stir-fry",
+  "description": "A sweet and savory dish featuring ground beef with a touch of sweetness that hits the perfect midnight craving. Jain-friendly and suitable for light meals.",
+  "cuisine": "Argentine",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "200g"
+    },
+    {
+      "name": "jalapenos",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "3 medium, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2-3 tsp"
+    },
+    {
+      "name": "coriander seeds (optional)",
+      "amount": "1 tbsp crushed"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Toss in finely chopped onions, diced tomatoes, jalapenos, and any optional crushed coriander seeds. Season with soy sauce and vinegar.",
+    "Reduce the heat to low, cover, and simmer for about 5 minutes or until slightly thickened.",
+    "Serve warm as a snack or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "argentine",
+    "ground-beef-stir-fry",
+    "jalapeno",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 28,
+    "carbs": 19,
+    "fat": 18
+  },
+  "slug": "sweet-argentinian-ground-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-argentinian-ground-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:40:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "ground beef",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Ground Beef",
+    "descriptor": "Sweet",
+    "dishForm": "Stir-fry"
+  }
+}
