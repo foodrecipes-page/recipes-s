@@ -1,0 +1,86 @@
+{
+  "title": "Salty Juicy Irish Dum Stir-fry",
+  "description": "A savory and juicy high-heat dish featuring dumplings in a flavorful sauce made with low-carb-friendly ingredients for a date-night treat.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dumplings",
+      "amount": "12 pcs"
+    },
+    {
+      "name": "ground beef or turkey",
+      "amount": "150g",
+      "notes": "use lean meat for low carb option"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chili flakes (optional)",
+      "amount": "a pinch"
+    },
+    {
+      "name": "olive oil or coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat. Add olive oil and swirl to coat the bottom.",
+    "Add ground meat and cook until browned, breaking it up with a spoon as you stir-fry for about 5 minutes.",
+    "Add ginger paste, soy sauce, salt, pepper, and chili flakes (if using) to the pan. Stir well to combine.",
+    "Reduce heat to medium and add dumplings in batches if needed to avoid overcrowding the pan. Cook for 2-3 minutes per batch until fully cooked and golden brown on all sides.",
+    "Serve hot with additional soy sauce or lime wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish-dumplings",
+    "high-heat-stir-fry",
+    "low-carb-friendly",
+    "date-night-treat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 9,
+    "fat": 18
+  },
+  "slug": "salty-juicy-irish-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-juicy-irish-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:08:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "dum",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "dum",
+    "descriptor": "Salty Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
