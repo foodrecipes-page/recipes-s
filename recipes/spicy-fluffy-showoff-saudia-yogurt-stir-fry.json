@@ -1,0 +1,79 @@
+{
+  "title": "Spicy Fluffy Showoff Saudia Yogurt Stir-fry",
+  "description": "A show-off dish from Saudi Arabia featuring a combination of spicy yogurt sauce and fluffy naan bread in a sugar-free-friendly recipe.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Naan Bread",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Yogurt Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spicy Seasoning Blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "handful"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Lightly coat naan bread with the yogurt sauce.",
+    "Spread garlic paste evenly over each piece of naan bread, then sprinkle spicy seasoning blend and red chili powder on top.",
+    "Gently fold in fresh cilantro leaves for a garnish.",
+    "Place folded naan pieces in oven-safe dish or directly on baking sheet to cook until golden brown (about 10-15 minutes).",
+    "Remove from heat, let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-fluffy",
+    "saudia-yogurt-stir-fry",
+    "naan-bread",
+    "show-off",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "spicy-fluffy-showoff-saudia-yogurt-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-showoff-saudia-yogurt-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:32:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "naan bread",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Spicy Fluffy Showoff",
+    "dishForm": "Stir-fry"
+  }
+}
