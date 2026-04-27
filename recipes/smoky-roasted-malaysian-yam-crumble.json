@@ -1,0 +1,102 @@
+{
+  "title": "Smoky Roasted Malaysian Yam Crumble",
+  "description": "A fresh and creamy solo-dinner dish featuring a low-carb-friendly crumble atop roasted Malaysian yam fries, perfect for those watching their carb intake.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Malaysian Yams",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Mixed Herbs (Oregano, Thyme)",
+      "amount": "pinch"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wash and peel the Malaysian yams, then slice them into thick fries.",
+    "In a bowl, mix olive oil, garlic powder, smoked paprika, cumin powder, salt, black pepper, and herbs. Drizzle this mixture over the sliced yams and toss to coat evenly.",
+    "Spread the coated yam fries onto a baking sheet lined with parchment paper. Roast in the preheated oven for 25 minutes or until golden brown.",
+    "In another bowl, combine flour and almond flour. Mix in coconut milk until smooth.",
+    "Sprinkle the crumble mixture over the roasted yams before serving as a meal complement."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "roasted",
+    "malaysian",
+    "yam",
+    "crumble",
+    "vegan-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "smoky-roasted-malaysian-yam-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-malaysian-yam-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:58:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "fries",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Yam",
+    "descriptor": "Creamy Smoky Roasted",
+    "dishForm": "Crumble"
+  }
+}
