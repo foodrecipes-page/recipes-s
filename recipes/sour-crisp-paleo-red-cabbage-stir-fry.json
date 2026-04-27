@@ -1,0 +1,71 @@
+{
+  "title": "Sour Crisp Paleo Red Cabbage Stir-fry",
+  "description": "This quick-fix dish features sour fermented red cabbage in a paleo-friendly stir-fry, making it a delicious and nutritious option for any meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented red cabbage",
+      "amount": "1 cup",
+      "notes": "ensure it's paleo-friendly and fermented correctly"
+    },
+    {
+      "name": "chopped green bell pepper",
+      "amount": "1/2 cup",
+      "notes": "use mild variety like banana or honeybell"
+    },
+    {
+      "name": "minced garlic cloves",
+      "amount": "1-2 cloves"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "optional for added crunch and flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat.",
+    "Add the chopped green bell pepper and minced garlic to the pan, stir-fry for about 2 minutes.",
+    "Stir in fermented red cabbage, cook for another minute or until slightly softened.",
+    "If using, sprinkle sesame seeds on top of the dish just before serving for added texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "stir-fry",
+    "fermented",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 3
+  },
+  "slug": "sour-crisp-paleo-red-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crisp-paleo-red-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:10:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "red cabbage",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Red Cabbage",
+    "descriptor": "Sour Crisp Paleo",
+    "dishForm": "Stir-fry"
+  }
+}
