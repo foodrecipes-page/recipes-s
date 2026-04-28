@@ -1,0 +1,105 @@
+{
+  "title": "Sweet & Velvety Middle Eastern Shrimp Stir-fry",
+  "description": "A sweet and creamy shrimp dish with a touch of Middle Eastern spices, perfect for brunch or dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "16-20 pieces",
+      "notes": "Peel and devein"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water Chestnut Fries",
+      "amount": "2 cups, pre-cut"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "6-8 threads (optional)"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large frying pan over medium heat.",
+    "Add onion and garlic, sauté for about 3 minutes until softened.",
+    "Stir in tomato paste, water chestnuts, lemon juice, red pepper flakes, cumin seeds, and turmeric powder. Cook for another minute.",
+    "Add shrimp to the sauce, cook for 2-3 minutes or until fully cooked.",
+    "Blend Greek yogurt with a splash of water and add it to the pan. Stir continuously until the mixture thickens slightly, about 1-2 minutes.",
+    "Garnish with saffron threads if using.",
+    "Serve hot over steamed basmati rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-middle-eastern",
+    "velvety-shrimp-stir-fry",
+    "middle-eastern-dish",
+    "brunch-mood",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "sweet-velvety-middle-eastern-shrimp-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvety-middle-eastern-shrimp-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:39:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "shrimp",
+    "descriptor": "Sweet & Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
