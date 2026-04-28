@@ -1,0 +1,64 @@
+{
+  "title": "Smoky Crispy American Prosciutto Wraps",
+  "description": "A savory and juicy festive dish featuring prosciutto wrapped in a low-carb wrap for a keto-friendly meal.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "12 slices"
+    },
+    {
+      "name": "Keto bread wraps (or lettuce leaves)",
+      "amount": "4-6 per person"
+    },
+    {
+      "name": "Salted caramel sauce or sweet butter (optional for dipping)",
+      "notes": "For an extra festive touch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Wrap each slice of prosciutto around a keto bread wrap or lettuce leaf, ensuring it is fully covered.",
+    "Place the wrapped prosciutto in the preheated oven and bake for about 6 minutes until crispy and golden brown.",
+    "While the wraps are baking, prepare a salted caramel sauce or sweet butter to serve on the side as a dipping option.",
+    "Remove from oven and let cool enough to handle before serving. Serve with your choice of condiments if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "caramel",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 25,
+    "carbs": 9,
+    "fat": 12
+  },
+  "slug": "smoky-crispy-american-prosciutto-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crispy-american-prosciutto-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:57:58Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "prosciutto",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Prosciutto",
+    "descriptor": "Smoky Crispy",
+    "dishForm": "Wraps"
+  }
+}
