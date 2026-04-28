@@ -1,0 +1,75 @@
+{
+  "title": "Sweet And Dense French Egg Salad",
+  "description": "This halal-friendly sweet and dense egg salad is perfect for a solo dinner. It combines sous-vide cooked eggs with flour to achieve its signature texture.",
+  "cuisine": "French",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Sugared Brown Sugar Syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Place eggs in a sous-vide water bath at 65°C for about an hour.",
+    "Let the eggs cool and then peel them. Cut into small pieces.",
+    "Combine sugar syrup, water, flour, and salt in a saucepan over medium heat.",
+    "Bring to a boil, stirring continuously until thickened.",
+    "Fold egg mixture into sweet and dense sauce.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "dense",
+    "eggs",
+    "sous-vide",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 8
+  },
+  "slug": "sweet-and-dense-french-egg-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-dense-french-egg-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:36:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "flour",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "egg",
+    "descriptor": "Sweet And Dense",
+    "dishForm": "Salad"
+  }
+}
