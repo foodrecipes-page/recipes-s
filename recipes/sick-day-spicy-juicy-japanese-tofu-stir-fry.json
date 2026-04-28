@@ -1,0 +1,77 @@
+{
+  "title": "Sick-Day Spicy Juicy Japanese Tofu Stir-fry",
+  "description": "A delicious and comforting Japanese dish featuring smoky paprika to tackle those sick days, suitable for a light meal or snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "spicy",
+    "soy-free",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Paprika (smoky)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2-3 stalks"
+    },
+    {
+      "name": "Soya sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add paprika and minced garlic to the pan, cooking for about 2 minutes until fragrant.",
+    "Add tofu cubes to the pan and stir-fry for about 5-7 minutes until golden brown on all sides.",
+    "Add soya sauce and green onions to the dish, stir well to combine. Cook for an additional minute or two until heated through.",
+    "Serve immediately as a snack or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sick-day",
+    "spicy",
+    "juicy",
+    "tofu",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "sick-day-spicy-juicy-japanese-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-spicy-juicy-japanese-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:54:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "smoky paprika",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Sick-Day Spicy Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
