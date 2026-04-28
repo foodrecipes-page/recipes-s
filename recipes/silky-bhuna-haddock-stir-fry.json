@@ -1,0 +1,73 @@
+{
+  "title": "Silky Bhuna Haddock Stir-fry",
+  "description": "A silky and fermented haddock stir-fry that is nut-free-friendly and can be a hangover cure.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 smoked haddock fillet",
+      "amount": "one piece"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Juice of half a lemon",
+      "amount": "half a lemon"
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "A handful of fresh cilantro, chopped",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or frying pan over medium-high heat.",
+    "Season the haddock fillet with salt and pepper on both sides. ",
+    "In a small bowl, mix together soy sauce and lemon juice until well combined.",
+    "Add sesame oil to the heated pan and swirl it around, ensuring every part of the pan is coated evenly with the oil. Place the haddock in the pan skin side down first, then flip once golden brown on both sides.",
+    "Pour the soy-lemon mixture over the fish while it's still cooking for a few seconds.",
+    "Remove from heat and garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "bhuna",
+    "haddock",
+    "smoked",
+    "hangover_cure"
+  ],
+  "nutrition": {
+    "calories": 679,
+    "protein": 28.03,
+    "carbs": 15.04,
+    "fat": 34.2
+  },
+  "slug": "silky-bhuna-haddock-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-bhuna-haddock-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:01:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "smoked haddock",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "haddock",
+    "descriptor": "Silky Bhuna",
+    "dishForm": "Stir-fry"
+  }
+}
