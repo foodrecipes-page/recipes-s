@@ -1,0 +1,89 @@
+{
+  "title": "Sour Crispy Kenyana Flour Crame",
+  "description": "A monsoon-inspired sour and crispy flour crumble dish that's perfect for a quick snack or breakfast.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyana Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Raw Honey or Agave Syrup",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Apple Juice Concentrate (or Fresh Apple Juice)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup, melted"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Raw Cacao Powder (optional for extra sourness)",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Mix Kenyana Flour, baking powder, and salt in a mixing bowl.",
+    "Add raw honey or agave syrup, apple juice concentrate, and melted coconut oil to the dry ingredients. Mix well until no lumps remain.",
+    "Gradually add almond milk while continuing to mix until you get a smooth batter-like consistency.",
+    "If desired, stir in some Raw Cacao Powder for extra sourness and flavoring.",
+    "Spray a baking sheet with cooking spray or line it with parchment paper. Pour the mixture into the prepared pan and spread evenly using a spatula.",
+    "Bake at 150°C (300°F) for about 40-45 minutes, or until golden brown on top and crispy inside.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crispy",
+    "kenyan",
+    "monsoon",
+    "flour"
+  ],
+  "nutrition": {
+    "calories": 267,
+    "protein": 3.9,
+    "carbs": 41,
+    "fat": 5.8
+  },
+  "slug": "sour-crispy-kenyana-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crispy-kenyana-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:05:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "flour",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyana",
+    "mainIngredient": "flour",
+    "descriptor": "Sour Crispy",
+    "dishForm": "Crumble"
+  }
+}
