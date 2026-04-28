@@ -1,0 +1,80 @@
+{
+  "title": "Sweet-Crisp Kenyan Prawns Stir-fry",
+  "description": "A low-fat-friendly solo-dinner dish featuring raw tiger prawns in a sweet and crispy sauce.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-fat",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Raw Tiger Prawns",
+      "amount": "100g"
+    },
+    {
+      "name": "Low-Fat Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sweet Corn Starch (corn syrup)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low-Sodium Soya Milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "Crispy Tapioca Fingers",
+      "amount": "10g"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "2-3 pieces"
+    }
+  ],
+  "instructions": [
+    "Prepare the raw prawns by removing any shells and membranes. Rinse them under cold water.",
+    "In a mixing bowl, combine the low-fat soy sauce, sweet corn starch, and soya milk to create the sauce base.",
+    "Place the prawns in a single layer on a baking sheet lined with parchment paper. Brush each shrimp lightly with oil for crispiness.",
+    "Broil the prawns at high heat until they turn golden brown, about 2 minutes per side. Remove from heat and set aside.",
+    "Gently stir-fry the crispy tapioca fingers in a non-stick pan over medium heat to ensure they are not burnt, adding them after the prawns have been broiled.",
+    "Once both prawns and tapioca fingers are ready, add them back into the mixing bowl with sauce base. Mix well until all prawns are coated evenly with the sauce.",
+    "Toss in the chopped mint leaves for a fresh flavor boost before serving.",
+    "Serve hot as an appetizer or main course with steamed rice or vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crisp",
+    "kitchen-sink-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 14,
+    "fat": 5
+  },
+  "slug": "sweet-crisp-kenyan-prawns-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crisp-kenyan-prawns-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:21:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Prawns",
+    "descriptor": "Sweet-Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
