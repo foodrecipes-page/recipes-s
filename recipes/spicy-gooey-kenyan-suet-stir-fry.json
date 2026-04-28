@@ -1,0 +1,83 @@
+{
+  "title": "Spicy Gooey Kenyan Suet Stir-fry",
+  "description": "This keto-friendly spicy gooey dish features suet and dates, perfect for a date-night dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1/2 cup suet",
+      "amount": "cup",
+      "notes": "ensure it’s keto-friendly"
+    },
+    {
+      "name": "3 dates, pitted and chopped",
+      "amount": "medium-sized",
+      "notes": "adjust quantity based on preference"
+    },
+    {
+      "name": "1 teaspoon chili powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup shredded cheddar cheese",
+      "amount": "cup",
+      "notes": "can be substituted with any keto-friendly cheese"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 teaspoon sea salt",
+      "amount": "tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix suet, dates, chili powder, cheese, and salt in a small bowl.",
+    "Press mixture into the bottom of a greased shallow baking dish.",
+    "Bake for about 20 minutes or until edges start to brown slightly.",
+    "Stir butter and remaining teaspoon chili powder over low heat until melted.",
+    "Drizzle the heated sauce over the hot baked suet mixture, stirring gently to combine.",
+    "Let sit for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "gooey",
+    "kenyan",
+    "suet",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "spicy-gooey-kenyan-suet-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-kenyan-suet-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:25:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "poach",
+    "primaryIngredient": "suet",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "suet",
+    "descriptor": "Spicy Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
