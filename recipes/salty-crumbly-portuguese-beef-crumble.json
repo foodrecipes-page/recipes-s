@@ -1,0 +1,101 @@
+{
+  "title": "Salty Crumbly Portuguese Beef Crumble",
+  "description": "A crowd-pleasing Portuguese dish featuring minced beef in a flavorful crumble sauce, made with plant-based ingredients and spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef mince",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Plant-based milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add finely chopped onion and minced garlic to the pan. Sauté until translucent and fragrant, about 5 minutes.",
+    "Stir in tomato puree, vegetable broth, cumin powder, coriander powder, salt, and pepper. Simmer for 10-12 minutes or until thickened slightly.",
+    "Fold in beef mince and cook until browned on all sides, breaking it up with a wooden spoon into small crumbles if necessary, about 5-7 minutes.",
+    "Stir in plant-based milk and reduce heat to low. Let simmer for another 3-4 minutes until the mixture thickens further. Adjust seasoning as needed.",
+    "Serve hot with fresh parsley as a garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef crumble",
+    "plant-based",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 28,
+    "carbs": 31,
+    "fat": 18
+  },
+  "slug": "salty-crumbly-portuguese-beef-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crumbly-portuguese-beef-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:48:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "minced beef",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Beef",
+    "descriptor": "Salty",
+    "dishForm": "Crumble"
+  }
+}
