@@ -1,0 +1,102 @@
+{
+  "title": "Smoky Roasted Ghee Pilaf",
+  "description": "A spicy and dense middle-eastern dish featuring dry sherry, deglazed with ghee for a show-off touch. This paleo-friendly creation is perfect as an appetizer or side dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup ghee (clarified butter)",
+      "amount": "cup"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 cup dried apricots, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup dried cherries, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup dry sherry",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of sesame seeds for garnish (optional)",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water and transfer to a medium saucepan. Add 1 cup of water, bring to a boil, reduce heat, cover, and simmer until liquid is absorbed, about 15 minutes.",
+    "Heat ghee in a large skillet over medium-high heat. Add onion and garlic, sauté for 2-3 minutes or until translucent.",
+    "Stir in smoked paprika, cayenne pepper, salt, and black pepper. Cook for an additional minute.",
+    "Deglaze the skillet with dry sherry, scraping up any browned bits from the bottom of the pan. Allow to simmer until liquid is almost completely absorbed.",
+    "Add cooked quinoa to the skillet, mixing well with vegetables and ghee mixture. Stir in dried apricots and cherries. Continue cooking for 2-3 minutes more or until everything is evenly combined.",
+    "If desired, sprinkle sesame seeds on top before serving. Serve warm as a side dish or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-roasted-ghee-pilaf",
+    "spicy-dense-middle-eastern",
+    "show-off-chefs-cuisine",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 16,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "smoky-roasted-ghee-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-ghee-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:59:22Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "dry sherry",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Ghee",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
