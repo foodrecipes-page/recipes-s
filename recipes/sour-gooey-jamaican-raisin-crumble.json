@@ -1,0 +1,90 @@
+{
+  "title": "Sour Gooey Jamaican Raisin Crumble",
+  "description": "A post-workout dish featuring sour gummies and raisins baked into a crumbly texture, perfect for those following a low FODMAP diet.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free oats",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup honey or maple syrup",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1/3 cup unsalted butter, melted",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 cup dried mango pieces (sour gummies)",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup raisins",
+      "amount": "cup"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine oats and sugar. Add melted butter and stir until well combined.",
+    "Fold in honey or maple syrup and mix thoroughly.",
+    "Stir in mango pieces (sour gummies) and raisins evenly throughout the mixture.",
+    "Sprinkle with cinnamon and salt.",
+    "Press mixture into a greased 8-inch square baking dish. Bake for 25-30 minutes until golden brown and set.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "gooey",
+    "jamaican",
+    "post-workout",
+    "raisin",
+    "bake",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "sour-gooey-jamaican-raisin-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-gooey-jamaican-raisin-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:41:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "raisins",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "raisin",
+    "descriptor": "Sour Gooey",
+    "dishForm": "Crumble"
+  }
+}
