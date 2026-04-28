@@ -1,0 +1,95 @@
+{
+  "title": "Spicy Crispy Corn Stir-fry",
+  "description": "A delightful and nostalgic twist on a traditional Portuguese dish featuring sweetcorn in a spicy and crispy sauce.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweetcorn",
+      "amount": "200g",
+      "notes": "Includes corn kernels"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Serrano Chorizo",
+      "amount": "100g",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For glazing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 450°F (230°C).",
+    "In a large bowl, mix corn kernels with red bell pepper and garlic. Season lightly with salt.",
+    "Spread the mixture evenly on a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes or until edges are golden brown and crispy.",
+    "While sweetcorn is baking, heat olive oil in a wok over medium-high heat.",
+    "Add chorizo to the hot pan and stir-fry for about 2-3 minutes until fragrant and slightly crispy. Remove from heat.",
+    "In the same wok, add paprika powder and sauté briefly, stirring constantly to prevent burning.",
+    "Return chorizo and corn mixture to the wok. Drizzle lime juice over everything and toss gently to combine.",
+    "Serve hot as a side dish or main course with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crispy",
+    "sweetcorn",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 371,
+    "protein": 9,
+    "carbs": 52,
+    "fat": 8
+  },
+  "slug": "spicy-crispy-corn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crispy-corn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:54:58Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "sweetcorn",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "corn",
+    "descriptor": "Spicy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
