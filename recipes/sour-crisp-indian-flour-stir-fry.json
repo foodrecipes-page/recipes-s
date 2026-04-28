@@ -1,0 +1,83 @@
+{
+  "title": "Sour Crisp Indian Flour Stir-fry",
+  "description": "A tangy and crisp dish made with plain flour, spices, and vegetables, designed to help cure hangovers.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Whisk together the flour, vinegar, sesame oil, cumin seeds, coriander seeds, garam masala, and salt.",
+    "Heat a non-stick skillet or wok over medium-high heat. Add the whisked mixture to the pan.",
+    "Cook for about 2 minutes until crispy and golden brown. Stir occasionally to prevent burning.",
+    "Add finely chopped onion to the skillet, cooking until translucent and fragrant. Remove from heat and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crisp",
+    "hangover-cure",
+    "indian-flour",
+    "whisk"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 2
+  },
+  "slug": "sour-crisp-indian-flour-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crisp-indian-flour-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:36:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "plain flour",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "flour",
+    "descriptor": "Sour Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
