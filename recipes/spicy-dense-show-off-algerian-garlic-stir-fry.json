@@ -1,0 +1,108 @@
+{
+  "title": "Spicy Dense Show-off Algerian Garlic Stir-fry",
+  "description": "A show-stopping vegan and gluten-free dish featuring a blend of spices, creamy soured cream, and tangy chive dip that comes together in a vibrant garlic stir-fry.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "6-8",
+      "notes": "adjust for spiciness preference"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color, diced finely"
+    },
+    {
+      "name": "aubergine (eggplant)",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "30 ml",
+      "notes": ""
+    },
+    {
+      "name": "chives",
+      "amount": "1 handful fresh, chopped",
+      "notes": "for serving"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a pan with oil and sauté garlic, onions, and sliced bell peppers until fragrant.",
+    "Add thinly sliced eggplant and cook for about 5 minutes. Stir in tomato paste, cumin seeds, coriander powder, turmeric powder, and red chilli powder. Mix well and continue to cook for another 3-4 minutes or until the eggplant is tender.",
+    "Gently fold in sour cream, ensuring it melts evenly into the sauce without breaking. Let it sit for a minute so that the flavors meld together.",
+    "Season with salt and pepper to taste. Garnish with chopped chives before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "dense",
+    "algerian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 7
+  },
+  "slug": "spicy-dense-show-off-algerian-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-dense-show-off-algerian-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:03:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Spicy Dense Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
