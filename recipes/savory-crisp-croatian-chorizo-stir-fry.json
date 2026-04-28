@@ -1,0 +1,96 @@
+{
+  "title": "Savory Crisp Croatian Chorizo Stir-fry",
+  "description": "A quick and easy meal-prep dish featuring crispy chorizo, bhuna-style vegetables, and a vegetarian-friendly twist for a satisfying mid-day snack or light meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "100g",
+      "notes": "Vegeterian chorizo can be used."
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium",
+      "notes": "Red and yellow for color contrast."
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna Spice Mix (adjustable)",
+      "amount": "1 tsp",
+      "notes": "Can be adjusted for spiciness."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "50ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Vegetable Oil (for searing)",
+      "amount": "A few drops",
+      "notes": "For adding crispiness to chorizo and onions."
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a pan, add sliced chorizo, onion, and garlic. Cook until the chorizo is crispy and onions are translucent.",
+    "Add bell peppers, stir-fry for about 5 minutes, until slightly softened but still crunchy on the outside.",
+    "Drizzle water over the vegetables to soften them further if desired. Season with salt and bhuna spice mix (adjustable).",
+    "Serve hot as a quick snack or meal prepped side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crisp",
+    "croatian",
+    "stir-fry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "savory-crisp-croatian-chorizo-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crisp-croatian-chorizo-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:04:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "chorizo",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Chorizo",
+    "descriptor": "Savory Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
