@@ -1,0 +1,76 @@
+{
+  "title": "Sweet & Crispy Malaysian Semolina Flour Crumble",
+  "description": "A savory and comforting sweet dish featuring semolina flour, which is egg-free-friendly and perfect for hangovers or any time you need a quick breakfast.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup semolina flour"
+    },
+    {
+      "name": "1/2 cup brown sugar"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Juice of 1 lemon"
+    },
+    {
+      "name": "3 tablespoons granulated glucose"
+    },
+    {
+      "name": "2 teaspoons vanilla extract"
+    },
+    {
+      "name": "Optional: zest of half a lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine semolina flour, brown sugar, and salt. Stir in the juice from one lemon.",
+    "Add glucose, vanilla extract, and optional lemon zest to the dry ingredients and mix well until there are no lumps.",
+    "Pour the crumble mixture into a greased 8x8 inch baking dish.",
+    "Bake for about 15 minutes or until edges start to brown. Remove from oven and let cool slightly before serving.",
+    "For an extra crispy texture, you can chill the cooled crumble in the fridge for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 15,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "semolina-flour-crumble",
+    "malaysian-dish",
+    "egg-free-friendly",
+    "sweet-and-crispy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 0
+  },
+  "slug": "sweet-crispy-malaysian-semolina-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crispy-malaysian-semolina-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:41:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "semolina flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Semolina Flour",
+    "descriptor": "Sweet & Crispy",
+    "dishForm": "Crumble"
+  }
+}
