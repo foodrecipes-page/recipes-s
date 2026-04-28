@@ -1,0 +1,78 @@
+{
+  "title": "Sour Dutch Yellow Onion Stir-Fry",
+  "description": "A savory and flavorful sour Dutch yellow onion stir-fry made with a mix of yellow onions, pickled vegetables, and other nutritious ingredients suitable for post-workout recovery.",
+  "cuisine": "Dutch",
+  "diet": [
+    "sour",
+    "dense",
+    "post-workout",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow onions",
+      "amount": "2 cups thinly sliced"
+    },
+    {
+      "name": "Pickled vegetables (such as gherkins or cucumbers)",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "Fodmap-friendly soy sauce alternative",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 pieces, minced"
+    },
+    {
+      "name": "Water chestnuts (optional)",
+      "amount": "10 pcs, halved"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the sliced yellow onions and cook until translucent and golden brown, about 8-10 minutes.",
+    "Stir in the minced garlic to release its aroma, cooking for an additional minute.",
+    "Include the pickled vegetables and water chestnuts if using, continuing to stir fry for another 2 minutes.",
+    "Pour in the soy sauce alternative and cook until it slightly thickens, about a minute more.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "dutch",
+    "yellow-onion-stir-fry",
+    "post-workout",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 5
+  },
+  "slug": "sour-dutch-yellow-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-dutch-yellow-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:32:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "yellow onion",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "yellow onion",
+    "descriptor": "Sour",
+    "dishForm": "Stir-fry"
+  }
+}
