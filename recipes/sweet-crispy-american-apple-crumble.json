@@ -1,0 +1,88 @@
+{
+  "title": "Sweet & Crispy American Apple Crumble",
+  "description": "This American apple crumble is a comforting dish featuring sweet and flaky layers with the addition of cranberry juice for a unique twist. Whole30-friendly, it’s perfect for those on special diets or just looking to enjoy something deliciously different.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 lbs (900g) apples",
+      "amount": "",
+      "notes": "Select firm, ripe apples"
+    },
+    {
+      "name": "1 cup (150g) granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "3/4 cup (180ml) heavy cream",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons cornstarch",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons unsalted butter, cut into cubes",
+      "amount": ""
+    },
+    {
+      "name": "5 ounces (140g) almond flour",
+      "amount": ""
+    },
+    {
+      "name": "2/3 cup (60g) rolled oats",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Core and slice the apples, leaving them whole.",
+    "In a saucepan, combine sugar, cream, cornstarch, lemon juice. Bring to a boil while stirring until thickened. Reduce heat and simmer for about 2 minutes.",
+    "Place apple slices on a baking sheet lined with parchment paper or aluminum foil, drizzle with the sweet sauce evenly over apples.",
+    "Mix almond flour and oats in a bowl, then sprinkle over apples and butter cubes. Gently press down to adhere.",
+    "Bake for 30-35 minutes until golden brown and crispy on top. Serve warm with vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crispy",
+    "american",
+    "apple",
+    "cranberry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 487,
+    "protein": 12.5,
+    "carbs": 76.9,
+    "fat": 16
+  },
+  "slug": "sweet-crispy-american-apple-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crispy-american-apple-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:57:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "cranberry juice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "apple",
+    "descriptor": "Sweet & Crispy",
+    "dishForm": "Crumble"
+  }
+}
