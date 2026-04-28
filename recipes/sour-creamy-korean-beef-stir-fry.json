@@ -1,0 +1,77 @@
+{
+  "title": "Sour Creamy Korean Beef Stir-fry",
+  "description": "A quick-fix middle-eastern dish featuring a blend of sour flavors from white vinegar and creamy texture from sour cream, all sugar-free friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "150g"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "60ml"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "20ml"
+    },
+    {
+      "name": "Korean chili garlic paste (gochujang)",
+      "amount": "30g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Jalapeno peppers, finely chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Sous-vide the beef for 2 hours at 78°C (175°F).",
+    "Remove beef from sous-vide and let it cool slightly.",
+    "In a wok or large skillet, heat oil over high heat.",
+    "Add finely chopped jalapeno peppers to the hot oil and cook for about 30 seconds until fragrant.",
+    "Add Korean chili garlic paste (gochujang) and stir-fry for another minute.",
+    "Remove the beef from its packaging, slice it thinly against the grain, and add it to the wok with sour cream and white vinegar. Stir everything together until well combined.",
+    "Cook for an additional 2-3 minutes or until the beef is heated through.",
+    "Serve hot with rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-creamy-korean-beef-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 29,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "sour-creamy-korean-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-creamy-korean-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:31:15Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "white vinegar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Beef",
+    "descriptor": "Sour Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
