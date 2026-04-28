@@ -1,0 +1,68 @@
+{
+  "title": "Spicy Gooey Ethiopian Apricot Jam Stir-fry",
+  "description": "A quick-fix dish featuring spicy gooey apricot jam stir-fried with minimal ingredients to serve as a satisfying snack or side dish.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Apricot Jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red Pepper Flakes (to taste)",
+      "amount": ""
+    },
+    {
+      "name": "Turmeric Powder (optional, to taste)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix apricot jam with sesame seeds and optional red pepper flakes and turmeric powder. Stir well until all ingredients are evenly distributed.",
+    "Heat a non-stick skillet over medium-high heat. Add the spice mixture to the heated skillet and cook for about 1 minute, or until the jam starts bubbling and thickens slightly.",
+    "Serve warm as is or with gluten-free bread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "gooey",
+    "quick-fix",
+    "ethiopian",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 1,
+    "carbs": 7,
+    "fat": 0
+  },
+  "slug": "spicy-gooey-ethiopian-apricot-jam-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-ethiopian-apricot-jam-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:08:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "stir-fry",
+    "primaryIngredient": "apricot jam",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Apricot Jam",
+    "descriptor": "Spicy Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
