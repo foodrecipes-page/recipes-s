@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Flaky Kosher Cheese Crumble",
+  "description": "An energizing Mediterranean dish featuring a smoky flavor profile and a flaky texture, perfect for breakfast or snack time. It's kosher-friendly and packed with cheese.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kosher Chicken Thighs",
+      "amount": "2 pcs",
+      "notes": "Fully cooked, skin removed"
+    },
+    {
+      "name": "Gouda Cheese",
+      "amount": "100g",
+      "notes": "Grated and kosher-certified"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying and topping the crumble"
+    },
+    {
+      "name": "Mild Harissa Paste",
+      "amount": "1 tsp",
+      "notes": "Add extra spice if desired"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 tsp",
+      "notes": "To enhance the savory flavor"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "2 tbsp",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp",
+      "notes": "For a touch of color and flavor"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "A pinch",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Prepare the chicken by placing each piece in a shallow dish.",
+    "Mix together mild harissa paste, garlic powder, and paprika in another bowl. Sprinkle this mixture over both pieces of chicken evenly.",
+    "Season with black pepper to taste. Cover the dish with foil if preferred.",
+    "Place the chicken in a baking dish, drizzle with olive oil, and bake for 25 minutes or until fully cooked.",
+    "Remove from oven and allow to cool slightly.",
+    "While waiting, prepare the cheese crumble by crumbling the grated Gouda into small pieces. Mix it with cooled chicken meat in a large bowl.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "flaky",
+    "energizing",
+    "mediterranean",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 41,
+    "carbs": 30,
+    "fat": 26
+  },
+  "slug": "smoky-flaky-kosher-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-kosher-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:12:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Kosher Cheese",
+    "descriptor": "Smoky Flaky",
+    "dishForm": "Crumble"
+  }
+}
