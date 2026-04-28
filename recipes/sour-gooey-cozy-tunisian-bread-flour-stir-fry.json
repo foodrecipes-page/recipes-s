@@ -1,0 +1,88 @@
+{
+  "title": "Sour Gooey Cozy Tunisian Bread Flour Stir-fry",
+  "description": "A diabetic-friendly, sour and gooey bread flour dish that's perfect for a cozy breakfast or snack. It’s cooked in a pressure cooker to ensure everything is perfectly tender.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flax seeds",
+      "amount": "1 tbsp (grounded)"
+    },
+    {
+      "name": "honey or agave syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "paprika",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix bread flour, eggs, yogurt, sour cream, flax seeds, honey or agave syrup, vanilla extract, and a pinch of sea salt. Mix well until smooth.",
+    "Grease the pressure cooker with a bit of olive oil if you have one to prevent sticking.",
+    "Pour the mixture into the pressure cooker and secure the lid. Cook on high for 25 minutes on manual setting or until done according to your appliance's instructions.",
+    "After cooking, allow it to sit for about 5-10 minutes before serving.",
+    "Sprinkle a pinch of paprika over the top for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-gooey-tunisian-bread-flour-stir-fry",
+    "diabetic-friendly-cooking",
+    "cozy-breakfast-snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "sour-gooey-cozy-tunisian-bread-flour-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-gooey-cozy-tunisian-bread-flour-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:20:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "bread flour",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "bread flour",
+    "descriptor": "sour gooey cozy",
+    "dishForm": "Stir-fry"
+  }
+}
