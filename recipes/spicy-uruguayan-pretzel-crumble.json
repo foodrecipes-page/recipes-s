@@ -1,0 +1,72 @@
+{
+  "title": "Spicy Uruguayan Pretzel Crumble",
+  "description": "A fluffy, spicy keto-friendly snack featuring crispy pretzels and pickled elements, perfect for a monsoon day's quick bite.",
+  "cuisine": "Keto-Friendly",
+  "diet": [
+    "ketogenic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pretzel Crumbles",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Pickled Relish (from a jar)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spicy Blend (for topping, optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Keto-Friendly Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Spread the pretzel crumbles evenly on a baking sheet lined with parchment paper.",
+    "Drizzle over pickled relish, ensuring an even distribution of both ingredients.",
+    "Sprinkle the spicy blend on top if desired and add a dash of salt for taste.",
+    "Bake for 15 minutes until golden brown and crispy. Watch carefully to prevent burning.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "fluffy",
+    "pretzel",
+    "uruguayan",
+    "monsoon",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "spicy-uruguayan-pretzel-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-uruguayan-pretzel-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:29:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "pretzels",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Pretzels",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
