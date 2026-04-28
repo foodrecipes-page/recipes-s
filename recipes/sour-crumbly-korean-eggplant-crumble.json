@@ -1,0 +1,79 @@
+{
+  "title": "Sour Crumbly Korean Eggplant Creme Fraiche",
+  "description": "A savory and slightly sour crumble made from eggplants, combined with creme fraiche and other traditional Korean flavors for a unique solo dinner dish.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 medium eggplants",
+      "amount": "each",
+      "notes": "washed, patted dry"
+    },
+    {
+      "name": "1/2 cup creme fraiche",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons Korean gochujang (Korean red pepper paste)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 tablespoon grated ginger",
+      "amount": "tsp"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker to high heat.",
+    "Cut each eggplant into quarters and then slice them thinly. Arrange in the pressure cooker evenly.",
+    "Drizzle with 1 tablespoon of creme fraiche, sprinkle gochujang, minced garlic, grated ginger, and lemon juice over the eggplants.",
+    "Close the lid and lock it in place. Pressure cook on high for about 20 minutes. Turn off heat but leave the valve open to release pressure.",
+    "Let the pressure cooker sit for at least 10 minutes before opening. Remove from heat.",
+    "Gently mash the eggplants with a fork or spoon, ensuring they are slightly crumbly in texture. Adjust seasoning if needed.",
+    "Serve hot as a side dish or appetizer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crumbly",
+    "korean eggplant",
+    "pressure-cook",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 6,
+    "carbs": 14,
+    "fat": 2
+  },
+  "slug": "sour-crumbly-korean-eggplant-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crumbly-korean-eggplant-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:29:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "eggplant",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "eggplant",
+    "descriptor": "Sour Crumbly",
+    "dishForm": "Crumble"
+  }
+}
