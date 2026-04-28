@@ -1,0 +1,80 @@
+{
+  "title": "Sweet & Flaky Indian Peppers Crumble",
+  "description": "A savory and sweet vegetarian dish perfect for those with a taste for spices and peppers, ideal as an afternoon snack or meal.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sweet Peppers",
+      "amount": "1 lb (450g)"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Chopped Fresh Herbs (optional)",
+      "notes": "cilantro or mint"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Dice the sweet peppers into small pieces.",
+    "In a large bowl, mix together diced peppers and all-purpose flour. Add vegetable oil, turmeric powder, garam masala, salt, and herbs if using.",
+    "Shape the mixture into thin crumbles on a baking sheet lined with parchment paper.",
+    "Bake for about 20 minutes or until golden brown and crispy. Stir occasionally to ensure even browning.",
+    "Let cool slightly before serving as a snack or lightly drizzle with honey for an extra touch of sweetness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "flaky",
+    "indian-peppers-crumble",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "sweet-flaky-indian-peppers-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-flaky-indian-peppers-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:56:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "peppers",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "peppers",
+    "descriptor": "Sweet & Flaky",
+    "dishForm": "Crumble"
+  }
+}
