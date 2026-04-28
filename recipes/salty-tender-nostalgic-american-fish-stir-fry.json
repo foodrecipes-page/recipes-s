@@ -1,0 +1,97 @@
+{
+  "title": "Salty Tender Nostalgic American Fish Stir-fry",
+  "description": "A pescatarian-friendly dish featuring a tender and salty fish preparation with the addition of white wine for added depth.",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "100g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white wine (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "ginger slices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "scallions (green onions)",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/4 cup, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Season cod fillet with soy sauce, salt, and pepper on both sides.",
+    "In a large skillet or wok over medium heat, add sesame oil and sauté garlic and ginger until fragrant (about 1 minute).",
+    "Add white wine if using, and let it simmer for about 2 minutes to deglaze the pan.",
+    "Carefully place cod fillet on top of the aromatic base, skin-side down. Cook for about 5-7 minutes or until golden brown.",
+    "Flip the fish and cook for another 2-3 minutes, ensuring that both sides are golden brown.",
+    "Transfer cooked fish to a baking sheet lined with parchment paper, season with salt and pepper again if needed, then bake in oven at 375°F for about 10-12 minutes until fish is thoroughly cooked through.",
+    "Meanwhile, heat scallions and bell peppers in the same skillet over medium-high heat. Sauté until tender (about 2-3 minutes).",
+    "Remove fish from oven and top each piece with a generous portion of sautéed vegetables. Garnish with additional chopped green onions if desired.",
+    "Serve hot as a main course or light dinner accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "tender",
+    "nostalgic"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 16,
+    "carbs": 3,
+    "fat": 5
+  },
+  "slug": "salty-tender-nostalgic-american-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-tender-nostalgic-american-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:48:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "white wine",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Fish",
+    "descriptor": "Salty Tender Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
