@@ -1,0 +1,83 @@
+{
+  "title": "Silky Adventurous Spanish Fish Grill",
+  "description": "An earthy and silky raw-friendly dish featuring grilled fish that is adventurous yet simple to prepare.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond Paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Watercress Leaves",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Blend almond paste, garlic, watercress leaves, extra virgin olive oil, lemon zest, red pepper flakes, sea salt, and black pepper in a food processor until smooth.",
+    "Transfer the mixture to a serving bowl or plate and serve immediately as a raw snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "garlic",
+    "watercress",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 55,
+    "protein": 2.5,
+    "carbs": 1,
+    "fat": 3
+  },
+  "slug": "silky-adventurous-spanish-fish-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-adventurous-spanish-fish-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:41:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "fish",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Fish",
+    "descriptor": "Earthy Silky Adventurous",
+    "dishForm": "Grill"
+  }
+}
