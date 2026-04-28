@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Crumbly Hail Crumble",
+  "description": "A nut-free-friendly smoky brunch-mood dish featuring a blend of hail, crispy bits, and savory flavor for a satisfying breakfast option.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hail",
+      "amount": "1 cup",
+      "notes": "Use fresh or thawed frozen hail if using frozen"
+    },
+    {
+      "name": "Flour",
+      "amount": "1/2 cup",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "Sugar",
+      "amount": "3 tablespoons",
+      "notes": "Brown sugar for added sweetness and smokiness"
+    },
+    {
+      "name": "Bacon Bits (or Smoked Ham)",
+      "amount": "1/4 cup",
+      "notes": "Optional, omit for nut-free"
+    },
+    {
+      "name": "Nut-Free Pecans or Walnuts",
+      "amount": "3 tablespoons",
+      "notes": "For added crunch and flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": ""
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "To aid in the crumbly texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix hail and flour together until well combined.",
+    "Add sugar, bacon bits if using, nuts, salt, and baking powder to the mixture. Mix thoroughly until all ingredients are evenly distributed.",
+    "Press the dough into a greased or parchment-lined dish.",
+    "Bake for 15 minutes or until golden brown and crispy on top.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crumbly",
+    "brunch",
+    "hail",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 3
+  },
+  "slug": "smoky-crumbly-hail-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-hail-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:07:59Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "fry",
+    "primaryIngredient": "hail",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Hail",
+    "descriptor": "Smoky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
