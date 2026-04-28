@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Gooey Ethiopian Chickpeas Stir-fry",
+  "description": "A flavorful and hearty one-pot dish that combines tender chickpeas with a smoky flavor from smoked paprika and a gooey texture achieved through the use of ground allspice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2-3 sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add garlic cloves and sauté until fragrant, about 1 minute.",
+    "Add chickpeas to the pan along with salt, smoked paprika, ground allspice, and red pepper flakes. Stir well to coat the chickpeas evenly.",
+    "Stir in chopped basil leaves just before serving for added freshness.",
+    "Cook for an additional 2-3 minutes or until the chickpeas are heated through and slightly crispy on the edges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "gooey",
+    "ethiopian",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "smoky-gooey-ethiopian-chickpeas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-gooey-ethiopian-chickpeas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:37:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "ground allspice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Smoky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
