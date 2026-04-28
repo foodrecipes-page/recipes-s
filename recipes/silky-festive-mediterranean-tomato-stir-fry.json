@@ -1,0 +1,98 @@
+{
+  "title": "Silky Festive Mediterranean Tomato Stir-fry",
+  "description": "A silky festive mediterranean dish featuring diced tomatoes, vegan-friendly and suitable for a quick lunch or dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Green Olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1/2 cup",
+      "notes": "Halved"
+    },
+    {
+      "name": "Basil Leaves",
+      "amount": "1 handful",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Parmesan Cheese Substitute",
+      "amount": "1 tablespoon",
+      "notes": "Optional for topping"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add minced garlic and sauté until fragrant, about 1 minute.",
+    "Add diced tomatoes and bell peppers to the pan. Cook for another 5 minutes.",
+    "Stir in halved cherry tomatoes, sliced green olives, and basil leaves. Continue cooking for an additional 3-4 minutes or until all vegetables are soft.",
+    "If desired, sprinkle vegan parmesan cheese substitute over the top of the dish before serving to enhance its umami flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "festival",
+    "mediterranean",
+    "vegan-friendly",
+    "tomato-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "silky-festive-mediterranean-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-festive-mediterranean-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:07:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "steam",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Tomato",
+    "descriptor": "Silky Festive",
+    "dishForm": "Stir-fry"
+  }
+}
