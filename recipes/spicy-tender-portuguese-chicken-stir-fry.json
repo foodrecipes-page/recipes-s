@@ -1,0 +1,96 @@
+{
+  "title": "Spicy Tender Portuguese Chicken Stir-fry",
+  "description": "A crowd-pleasing dish that combines tender chicken with a spicy kick, served over rice for an easy and high-protein-friendly meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4 pcs"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "minced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 handful"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "ground cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed red pepper flakes (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season chicken with black pepper and ground cumin.",
+    "Sauté garlic, onion, and a pinch of crushed red pepper flakes in butter until translucent. Add the minced garlic and stir-fry for another minute.",
+    "Add soy sauce and red pepper flakes to the mixture; season with more black pepper if needed.",
+    "Place chicken pieces on a baking sheet lined with parchment paper. Pour the marinade over them, ensuring they are well-coated.",
+    "Bake in the preheated oven for about 20-25 minutes until the chicken is fully cooked and tender.",
+    "In a small saucepan, combine chicken broth, unsalted butter, ground cumin, red pepper flakes (if using), and parsley. Heat over medium heat, whisking well to dissolve the butter and create a smooth sauce.",
+    "Garnish with fresh parsley leaves before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "stir-fry",
+    "high-protein-friendly",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 486,
+    "protein": 39.2,
+    "carbs": 15.7,
+    "fat": 23
+  },
+  "slug": "spicy-tender-portuguese-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-tender-portuguese-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:22:25Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "double cream",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Spicy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
