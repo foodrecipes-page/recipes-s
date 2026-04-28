@@ -1,0 +1,105 @@
+{
+  "title": "Spicy Velvety Middle Eastern Avocado Stir-fry",
+  "description": "This dish combines the smooth texture of avocado with the spicy kick from Middle Eastern spices in a one-pot gluten-free recipe that's perfect for a quick and easy dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium-sized"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coriander (cilantro)",
+      "amount": "2 tablespoons fresh leaves, chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable broth or water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "8 ounces, halved"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a medium saucepan over medium heat.",
+    "Add onion and garlic; cook until soft and translucent, about 5 minutes.",
+    "Stir in tomato paste, red pepper flakes, cumin seeds, and coriander. Cook for an additional 2 minutes to meld the flavors.",
+    "Peeled and pitted avocado, chopped finely and mixed with salt and pepper to taste.",
+    "Pour in vegetable broth or water; bring to a simmer.",
+    "Add tomatoes, stir well, and cook until liquid is absorbed (about 5-7 minutes).",
+    "Taste for seasoning and adjust if needed. Mix well.",
+    "Serve hot as a side dish or over gluten-free rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "velvety",
+    "middle-eastern",
+    "one-pot",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 5,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "spicy-velvety-middle-eastern-avocado-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-middle-eastern-avocado-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:40:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "avocado",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "avocado",
+    "descriptor": "Spicy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
