@@ -1,0 +1,78 @@
+{
+  "title": "Sour Crispy Banana Stir-fry",
+  "description": "A sour and crunchy Filipino dish featuring dark brown soft sugar to aid in hangover recovery, prepared with a Jain-friendly twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "2",
+      "notes": "Choose ripe bananas for best flavor."
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "1/4 cup",
+      "notes": "Use raw or unrefined dark brown sugar to maintain authenticity and health benefits."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Soy sauce (optional)",
+      "amount": "2 teaspoons",
+      "notes": "For a slight savory taste."
+    }
+  ],
+  "instructions": [
+    "Peel and finely chop the bananas.",
+    "In a bowl, mix the chopped bananas with dark brown sugar, water, salt, and soy sauce if using. Stir until well combined.",
+    "Heat oil in a non-stick skillet over medium heat. Pour the banana mixture into the skillet and stir-fry for about 5 minutes, or until the bananas are golden and crispy on the outside.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sour-banana-stir-fry",
+    "hangover-cure",
+    "dark-brown-sugar"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "sour-crispy-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crispy-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:15:43Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "banana",
+    "descriptor": "Sour Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
