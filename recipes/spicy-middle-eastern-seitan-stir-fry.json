@@ -1,0 +1,108 @@
+{
+  "title": "Spicy Middle Eastern Seitan Stir-fry",
+  "description": "A sweet and chewy one-pot dish featuring seitan, plant-based-friendly spices, and a hint of spiciness for an authentic middle-eastern twist.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "250g Seitan",
+      "amount": "1 large block of seitan",
+      "notes": "Make sure it's fully cooked and sliced into strips."
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "1 whole onion",
+      "notes": "Chopped finely for best flavor integration."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "4 small cloves",
+      "notes": "Chopped or minced to add a subtle sweetness when cooked with seitan."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "Lemon juice from 1 medium lemon"
+    },
+    {
+      "name": "2 tbsp red chili powder (or use more depending on desired heat level)",
+      "amount": "Red chili powder to taste, typically 2-3 tbsp for a spicy kick."
+    },
+    {
+      "name": "1 tbsp turmeric",
+      "amount": "A small spoonful of turmeric"
+    },
+    {
+      "name": "1 tsp cumin seeds",
+      "amount": "Tightly packed teaspoon of cumin seeds"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "To taste, usually a pinch or two for this recipe."
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "Olive oil for cooking"
+    },
+    {
+      "name": "20g fresh parsley",
+      "amount": "1 handful of fresh parsley leaves and stems"
+    },
+    {
+      "name": "Freshly ground black pepper to taste",
+      "amount": "To taste, a few grinds or sprinkles."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "In a large bowl, combine the lemon juice with the olive oil and mix well.",
+    "Add the seitan to the bowl and marinate for at least 15 minutes. Alternatively, you can poach the seitan in water until it's cooked through and then cut into thin strips before proceeding.",
+    "Heat a wok or large frying pan over medium-high heat. Add the olive oil and stir-fry the chopped onion for about 3-4 minutes until translucent.",
+    "Add the garlic and stir for another minute, being careful not to burn it.",
+    "Stir in the marinated seitan along with any liquid from the bowl. Let it cook for a couple of minutes more while stirring occasionally.",
+    "Sprinkle the turmeric and cumin seeds over the seitan mixture, then pour in the red chili powder.",
+    "Cook everything together until fragrant and well combined (about 1-2 minutes).",
+    "Add fresh parsley, salt to taste, and freshly ground black pepper. Toss gently so as not to break up the seitan too much.",
+    "Transfer the stir-fry to a serving dish immediately for best texture and freshness. Let it rest before garnishing with more lemon juice or thinly sliced cucumber if desired.",
+    "Serve hot as an accompaniment to your main meal, ideally along with some warm naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "sweet",
+    "middle-eastern",
+    "stir-fry",
+    "seitan"
+  ],
+  "nutrition": {
+    "calories": 601,
+    "protein": 37.5,
+    "carbs": 41,
+    "fat": 21
+  },
+  "slug": "spicy-middle-eastern-seitan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-middle-eastern-seitan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:57:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "poach",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "seitan",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
