@@ -1,0 +1,87 @@
+{
+  "title": "Savory Crunchy Thai Nuts Stir-fry",
+  "description": "A high-protein-friendly salty and crunchy post-workout dish featuring dried red chillies, pressure-cooked for an easy-to-make meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dried Roasted Peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "6-8 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dried Red Chillies",
+      "amount": "1/4 cup",
+      "notes": "crushed finely"
+    },
+    {
+      "name": "Coarse Sea Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon Grass",
+      "amount": "2 stalks",
+      "notes": "minced"
+    },
+    {
+      "name": "Rice Noodles (optional)",
+      "amount": "30g",
+      "notes": "soaked and drained"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker or a regular stovetop wok over medium-high heat.",
+    "Add coconut oil to the hot pan, swirl it around to coat the bottom evenly.",
+    "Crush dried red chillies into small pieces using mortar and pestle or by crushing with a rolling pin.",
+    "Sprinkle salt on top of the oil for flavor enhancement. Add minced green onions and crushed red chillies to the heated pan.",
+    "Add peanuts, stir-fry for about 2 minutes until they start to pop and take up color from the spices.",
+    "If using rice noodles, add them in the final minute while stir-frying; ensure not to overcook as they will absorb too much moisture.",
+    "Serve hot with soya sauce or any preferred dipping sauces. Garnish with fresh green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 8,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "savory-crunchy-thai-nuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-thai-nuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:07:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dried red chillies",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Nuts",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
