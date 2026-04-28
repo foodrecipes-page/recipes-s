@@ -1,0 +1,88 @@
+{
+  "title": "Spicy Tender Slovakian Fenugreek Stir-fry",
+  "description": "A low-carb-friendly brunch dish featuring tender fenugreek leaves with a spicy kick to start the day.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add onion and garlic, sauté until translucent.",
+    "Fold in fenugreek leaves, stirring continuously to prevent burning.",
+    "Stir in chili flakes, salt, and lime juice. Season with pepper if needed.",
+    "Cook for about 5-7 minutes or until the leaves wilt slightly but remain tender.",
+    "Serve hot as a low-carb breakfast dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "tender",
+    "slovakian",
+    "fenugreek",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 3,
+    "carbs": 5,
+    "fat": 7
+  },
+  "slug": "spicy-tender-slovakian-fenugreek-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-tender-slovakian-fenugreek-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:46:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "knead",
+    "primaryIngredient": "fenugreek",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "fenugreek",
+    "descriptor": "Spicy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
