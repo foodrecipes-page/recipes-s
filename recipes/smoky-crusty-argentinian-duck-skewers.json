@@ -1,0 +1,104 @@
+{
+  "title": "Smoky Crusty Argentinian Duck Skewers",
+  "description": "A festive tandoori-inspired dish featuring argentine-style duck legs that are both fresh and crunchy. This pescatarian-friendly recipe marries the flavors of a traditional Argentinian asado with smoky tandoor techniques for a delightful twist.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "jalapenos",
+      "amount": "2",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine minced garlic, jalapenos, olive oil, cumin seeds, coriander seeds, smoked paprika, salt, ground cumin, and garam masala in a bowl. Mix well.",
+    "Place duck legs on skewers and rub the marinade mixture evenly over all surfaces of the meat.",
+    "Preheat tandoor oven to 250°C (475°F) for at least 1 hour before using it to cook the skewers.",
+    "Once the tandoor is hot, place the skewers inside. Cook until fully cooked and charred, about 30-45 minutes. Monitor seasoning during cooking for desired level of smokiness.",
+    "Allow the duck to rest off the skewers before serving with sides like chimichurri sauce or a fresh green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky-crusty",
+    "argentinian-duck-skewers",
+    "tandoor-cooking",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 45,
+    "carbs": 21,
+    "fat": 27
+  },
+  "slug": "smoky-crusty-argentinian-duck-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crusty-argentinian-duck-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:28:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "duck legs",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "duck",
+    "descriptor": "Crunchy Smoky",
+    "dishForm": "Skewers"
+  }
+}
