@@ -1,0 +1,79 @@
+{
+  "title": "Smoky Crumbly Semolina Crumble",
+  "description": "A midnight craving Malaysian dish featuring a blend of semolina and broiling for added smokiness, suitable for those with fodmap sensitivities.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp, diced"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine semolina, coconut milk, cinnamon powder, smoked paprika, and vanilla extract. Mix well until no lumps remain.",
+    "Pour the mixture onto a baking dish or a greased tray lined with parchment paper.",
+    "Melt the unsalted butter in a small saucepan over medium heat. Pour this over the semolina layer once cooled slightly but still warm.",
+    "Bake for about 20-25 minutes, until golden brown and crispy on top.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-semolina",
+    "crumbly-crumble",
+    "malaysian-dessert",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "smoky-crumbly-semolina-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-semolina-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:48:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "semolina",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "semolina",
+    "descriptor": "Smoky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
