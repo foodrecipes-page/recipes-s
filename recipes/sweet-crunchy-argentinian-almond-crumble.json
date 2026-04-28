@@ -1,0 +1,73 @@
+{
+  "title": "Sweet Crunchy Argentinian Almond Crumble",
+  "description": "A kid-friendly dessert featuring sweet and crunchy almonds that are perfect for a quick snack or dessert.",
+  "cuisine": "argentine",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup (about 30-40 pieces)",
+      "notes": "Blanched almonds"
+    },
+    {
+      "name": "sugar-free sweetener of choice",
+      "amount": "1/2 cup",
+      "notes": "Such as stevia or erythritol"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "For added sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Gather all ingredients and cut almonds into small pieces.",
+    "In a mixing bowl, combine almond pieces, sweetener, butter, and honey. Mix well until mixture is crumbly.",
+    "Line a baking sheet with parchment paper or a silicone mat.",
+    "Press the almond mixture evenly onto the prepared baking sheet to form a flat layer approximately 1/4 inch thick.",
+    "Bake for about 25-30 minutes or until almonds are golden brown and crispy.",
+    "Remove from oven and let cool slightly before serving. Store leftovers in an airtight container at room temperature for up to 3 days.",
+    "Enjoy your sweet, crunchy Argentinian Almond Crumble as a snack or dessert!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "argentine-almond-crumble",
+    "kid-friendly-dessert",
+    "sugar-free-dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "sweet-crunchy-argentinian-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crunchy-argentinian-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:34:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "blanch",
+    "primaryIngredient": "sesame seed",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "almonds",
+    "descriptor": "Sweet Crunchy",
+    "dishForm": "Crumble"
+  }
+}
