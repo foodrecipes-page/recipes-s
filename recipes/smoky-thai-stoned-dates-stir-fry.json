@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Thai Stoned Dates Stir-fry",
+  "description": "A smoky and indulgent Thai-inspired dish featuring air-fried stoned dates, perfect for a whole30-friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Stoned Dates",
+      "amount": "6"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Chilies",
+      "amount": "3-5"
+    },
+    {
+      "name": "Kaffir Lime Leaves",
+      "amount": "2-3"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Gently heat water in a small saucepan over medium heat.",
+    "While the water is heating, peel and mince garlic cloves.",
+    "In another pan, sauté minced garlic until fragrant. Add fish sauce and stir-fry for 1 minute.",
+    "Fold in tamarind paste and cook for an additional minute or until mixture thickens slightly.",
+    "Add stones dates, red chilies, and Kaffir lime leaves to the pan. Stir-fry all ingredients together.",
+    "Stir occasionally as the water in the saucepan starts to boil vigorously, then pour onto stir-fried dates and continue cooking for 2 minutes or until the mixture begins to stick together.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "stoned dates",
+    "smoky thai",
+    "air fried",
+    "whole30 friendly"
+  ],
+  "nutrition": {
+    "calories": 197,
+    "protein": 6,
+    "carbs": 21,
+    "fat": 8
+  },
+  "slug": "smoky-thai-stoned-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-thai-stoned-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:09:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "stoned dates",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "stoned dates",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
