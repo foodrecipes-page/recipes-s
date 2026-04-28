@@ -1,0 +1,98 @@
+{
+  "title": "Spicy Creamy Tomato Stir-fry",
+  "description": "A savory, creamy, monsoon Argentinean dish featuring a unique blend of flavors including passion fruit pulp to add a tropical twist.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "ketchup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spicy sauce (e.g. sriracha)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "few"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "cream cheese or vegan cream cheese alternative (optional)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onions and minced garlic, sauté until softened.",
+    "Chop tomatoes into bite-sized pieces and add to the skillet with the onions. Cook for about 5 minutes or until tomatoes soften.",
+    "Pour passion fruit pulp, ketchup, and spicy sauce into the skillet. Stir well to combine all ingredients.",
+    "Add kosher salt to taste, and cook for another minute.",
+    "If using cream cheese, stir it into the mixture gently until fully incorporated.",
+    "Stir in chopped fresh basil leaves and parsley before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "cream",
+    "tomato",
+    "creamy",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 387,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "spicy-creamy-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:51:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Creamy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
