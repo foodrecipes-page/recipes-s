@@ -1,0 +1,85 @@
+{
+  "title": "Salty Light Comforting Moroccan Purple Sprouting Broccoli Stir-fry",
+  "description": "A light and comforting dish featuring salty flavors with a twist of Morocco in a low-fat-friendly preparation.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup, rinsed purple sprouting broccoli florets",
+      "amount": "",
+      "notes": "Rinse under cold water."
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "Can be substituted with any neutral-flavored oil for a low-fat option."
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp red pepper flakes (optional)",
+      "amount": "",
+      "notes": "For added heat, use 1/8 tsp if desired."
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "amount": "",
+      "notes": "To season the dish."
+    },
+    {
+      "name": "Fresh cilantro leaves for garnish",
+      "amount": "",
+      "notes": "Approximately 3-4 leaves per serving, roughly chopped."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add cumin and red pepper flakes (if using), stir well to combine, and cook for about 15 seconds until fragrant.",
+    "Toss in rinsed purple sprouting broccoli florets, salt, and black pepper. Cook for 2-3 minutes until slightly softened but still bright green.",
+    "Remove from heat and serve garnished with fresh cilantro leaves.",
+    "Optional: Add a splash of lemon juice or tahini for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "purple sprouting broccoli",
+    "light",
+    "comforting",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 6
+  },
+  "slug": "salty-light-comforting-moroccan-purple-sprouting-broccoli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-light-comforting-moroccan-purple-sprouting-broccoli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:49:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Purple Sprouting Broccoli",
+    "descriptor": "Salty Light Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
