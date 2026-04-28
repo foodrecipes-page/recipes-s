@@ -1,0 +1,102 @@
+{
+  "title": "Spicy Fluffy Nostalgic Rice Pilaf",
+  "description": "A vegetarian-friendly and comforting Norwegian dish featuring a blend of rice wine, spices, and vegetables to create a flavorful and fluffy pilaf that captures the essence of nostalgia.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup long-grain white rice",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons vegetable oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 medium bell peppers, sliced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 can diced tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "1 cup chicken or vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons rice wine (optional)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 teaspoon paprika",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley, chopped (for garnish)",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until the water runs clear.",
+    "Heat oil in a large saucepan over medium heat. Add the rice and toast it for about 2 minutes, stirring frequently to prevent burning.",
+    "Stir in bell peppers, onion, garlic, and cook for another 5 minutes until softened.",
+    "Add diced tomatoes with their juice, broth, rice wine (if using), cumin, paprika, salt, and pepper. Bring the mixture to a boil, then reduce heat to low, cover, and simmer for about 20 minutes or until the liquid is absorbed.",
+    "Preheat oven to 350°F (175°C). Transfer the pilaf into an oven-safe dish and bake for 10-15 minutes or until golden brown on top.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "fluffy",
+    "nostalgic",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 8,
+    "carbs": 37,
+    "fat": 5
+  },
+  "slug": "spicy-fluffy-nostalgic-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-nostalgic-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:07:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "blanch",
+    "primaryIngredient": "rice wine",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Rice",
+    "descriptor": "Spicy Fluffy Nostalgic",
+    "dishForm": "Pilaf"
+  }
+}
