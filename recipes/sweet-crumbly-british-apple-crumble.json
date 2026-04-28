@@ -1,0 +1,93 @@
+{
+  "title": "Vegan Sweet Crumbly British Apple Crumble",
+  "description": "A comforting vegan dessert that features Bramley apples in a crumbly crust, perfect for cold days.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup Bramley apples, peeled and chopped",
+      "amount": "",
+      "notes": "Can be substituted with other varieties of apples."
+    },
+    {
+      "name": "3/4 cup granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons cornstarch",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon, divided",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons unsalted vegan butter, softened",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3/4 cup gluten-free oat flour or all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon sea salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine apples, sugar, cornstarch, cinnamon, and lemon juice in a bowl. Mix well.",
+    "Place softened vegan butter evenly over the top of the apple mixture.",
+    "Sprinkle oat flour and salt evenly over the surface of the crumble.",
+    "Bake for 45 minutes or until golden brown and bubbly on top.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-apple-crumble",
+    "sweet-crumble-dessert",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 3,
+    "carbs": 38,
+    "fat": 6
+  },
+  "slug": "sweet-crumbly-british-apple-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crumbly-british-apple-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:51:18Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "bramley apples",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "apple",
+    "descriptor": "Sweet Crumbly",
+    "dishForm": "Crumble"
+  }
+}
