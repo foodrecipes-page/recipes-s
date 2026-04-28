@@ -1,0 +1,79 @@
+{
+  "title": "Steamy Tunisian Leeks Soup",
+  "description": "A fresh and silky post-workout dish featuring a unique blend of leeks, barbecue sauce, and dairy-free elements, cooked to perfection in a steam setting for maximum flavor.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "medium diced"
+    },
+    {
+      "name": "2 lbs leeks",
+      "amount": "trimmed and sliced thinly"
+    },
+    {
+      "name": "4 cups vegetable broth",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp vegan barbecue sauce (optional)",
+      "amount": ""
+    },
+    {
+      "name": "1 cup water",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the barbecue sauce in a small pan over medium heat until warm. Set aside.",
+    "In a large pot, sauté the onion in a little bit of olive oil until translucent.",
+    "Add the leeks and cook for about 5 minutes or until softened slightly.",
+    "Pour in the vegetable broth, water, and barbecue sauce. Bring to a simmer.",
+    "Cover the pot and steam the soup over medium heat for 10-15 minutes until leeks are tender and soup is flavorful.",
+    "Adjust seasoning with salt and pepper if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "leeks",
+    "barbecue",
+    "silky",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 53,
+    "fat": 6
+  },
+  "slug": "steamy-tunisian-leeks-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamy-tunisian-leeks-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:34:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Leeks",
+    "descriptor": "Steamy",
+    "dishForm": "Soup"
+  }
+}
