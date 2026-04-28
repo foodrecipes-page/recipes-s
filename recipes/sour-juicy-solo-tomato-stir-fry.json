@@ -1,0 +1,83 @@
+{
+  "title": "Sour Juicy Solo Tomato Stir-fry",
+  "description": "A raw-friendly British dish featuring doubanjiang and a tadka for a tangy, juicy flavor profile suitable as a solo dinner.",
+  "cuisine": "British",
+  "diet": [
+    "raw-friendly",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "doubanjiang (fermented bean paste)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fresh chili pepper",
+      "amount": "1-2",
+      "notes": "sliced for added heat"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add minced garlic and onions, sauté until softened.",
+    "Toss in sliced fresh chili peppers if using.",
+    "Stir in the tomato chunks and cook until softened, about 5 minutes.",
+    "Mix in doubanjiang, reduce to taste for desired tartness. Allow mixture to simmer gently for another 3-4 minutes.",
+    "Adjust seasoning as needed with salt or soy sauce.",
+    "Serve immediately while still hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "juicy",
+    "doubanjiang",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "sour-juicy-solo-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-juicy-solo-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:07:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "tadka",
+    "primaryIngredient": "doubanjiang",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Tomato",
+    "descriptor": "Sour Juicy Solo",
+    "dishForm": "Stir-fry"
+  }
+}
