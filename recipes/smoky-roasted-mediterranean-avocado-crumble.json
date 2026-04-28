@@ -1,0 +1,91 @@
+{
+  "title": "Smoky Roasted Mediterranean Avocado Crumble",
+  "description": "A fresh and flaky mediterranean dish featuring roasted vegetables with a touch of smokiness, fermented elements for tanginess, and a paleo-friendly crumble topping.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 ripe avocado",
+      "amount": "",
+      "notes": "Halved and pitted"
+    },
+    {
+      "name": "2 cups cherry tomatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 red bell pepper, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 zucchini, sliced into rounds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Toss cherry tomatoes, bell pepper, zucchini, and parsley with lemon juice and garlic in a large bowl.",
+    "Spread the vegetables evenly on a baking sheet lined with parchment paper.",
+    "Roast for about 15 minutes or until veggies are tender and slightly caramelized.",
+    "Scoop avocado flesh into a blender or food processor. Add roasted vegetables, 2 tablespoons of water (for easier blending), salt, black pepper, and optional smoked paprika to taste.",
+    "Blend until smooth but still chunky for texture. Taste and adjust seasonings as needed.",
+    "Warm the crumble topping in a non-stick skillet over medium heat. Stir in melted butter, if using. Serve warm or at room temperature with roasted veggies on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "roasted",
+    "avocado",
+    "crumble",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 2.9,
+    "carbs": 30.5,
+    "fat": 8.4
+  },
+  "slug": "smoky-roasted-mediterranean-avocado-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-mediterranean-avocado-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:08:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "avocado",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Crumble"
+  }
+}
