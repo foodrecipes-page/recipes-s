@@ -1,0 +1,85 @@
+{
+  "title": "Spicy Saudia Kubbeh Stir-Fry",
+  "description": "A sweet and light vegan-friendly dish featuring small potatoes, fermented tofu, and a spicy kick, perfect for a crowd-pleaser.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Small potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Fermented tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Green onions",
+      "amount": "3-4 stalks"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sautéed spring onion pieces",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "Tbsp"
+    },
+    {
+      "name": "Oil",
+      "amount": "3 Tbsp"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until soft, then drain and mash them with a pinch of salt.",
+    "In another pan, sauté garlic until fragrant. Add fermented tofu cubes, bell peppers, and spring onion pieces; cook for about 5 minutes on medium heat.",
+    "Mix in mashed potatoes, sprinkle with oil, and continue to stir-fry for an additional minute.",
+    "Fold in fresh cilantro leaves and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kubbeh",
+    "stir-fry",
+    "sweet",
+    "light",
+    "crowd-pleaser"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "spicy-saudia-kubbeh-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-saudia-kubbeh-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:00:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "ferment",
+    "primaryIngredient": "small potatoes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "kubbeh",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
