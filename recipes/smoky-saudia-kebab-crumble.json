@@ -1,0 +1,74 @@
+{
+  "title": "Smoky Saudia Kebab Crumble",
+  "description": "A kid-friendly smoky and crispy Saudi Arabian dish featuring a red wine jelly base that's air-fried for an extra crunch and made dairy-free-friendly.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Red Wine Jelly Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cocoa Powder (optional)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil for Frying",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Air-Fryer Basket or Non-Stick Sheet Pan",
+      "notes": "For air-frying purposes only"
+    }
+  ],
+  "instructions": [
+    "Preheat your kitchen to at least 130°C (265°F) for safe frying temperatures.",
+    "In a small bowl, mix together the Red Wine Jelly Mix, almond flour, and optional cocoa powder until well combined. Adjust the consistency if needed by adding a few drops of vegetable oil.",
+    "Carefully pour the mixture into your air-fryer basket or sheet pan lined with parchment paper to prevent sticking. Press down gently to spread evenly.",
+    "Place in an air fryer preheated at 130°C (265°F) for about 7-8 minutes, flipping halfway through until golden brown and crisp on the outside but still soft inside.",
+    "Remove from heat and let cool slightly before serving. Can be enjoyed as a dessert or snack with your choice of toppings like fresh fruit or whipped coconut cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crisp",
+    "kid-friendly",
+    "saudi-arabian",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "smoky-saudia-kebab-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-saudia-kebab-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:24:52Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "red wine jelly",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Kebab",
+    "descriptor": "Smoky",
+    "dishForm": "Crumble"
+  }
+}
