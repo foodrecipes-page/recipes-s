@@ -1,0 +1,82 @@
+{
+  "title": "Silky Adventurous Portuguese Petit Pois Stir-fry",
+  "description": "A herbal, silky, adventurous Portuguese dish featuring petit pois cooked with a blend of aromatic herbs and spices for a uniquely flavored side or light meal.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "2 cups",
+      "amount": "petit pois (green split peas)",
+      "notes": "freshly cleaned and de-seeded"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "dry white wine"
+    },
+    {
+      "name": "1 tbsp",
+      "amount": "olive oil"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 tbsp",
+      "amount": "chopped fresh parsley"
+    },
+    {
+      "name": "1 tbsp",
+      "amount": "chopped fresh thyme"
+    },
+    {
+      "name": "1/4 tsp",
+      "amount": "black pepper"
+    },
+    {
+      "name": "Salt to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Stir in the petits pois, wine, salt, pepper, and thyme. Cover and cook for about 5 minutes or until tender.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "petit pois",
+    "portuguese",
+    "herbaceous",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 78,
+    "protein": 6.3,
+    "carbs": 10.5,
+    "fat": 4
+  },
+  "slug": "silky-adventurous-portuguese-petit-pois-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-adventurous-portuguese-petit-pois-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:30:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "petit pois",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "petit pois",
+    "descriptor": "Silky Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
