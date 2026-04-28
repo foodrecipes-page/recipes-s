@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Roasted Kiswahili Tomato Stir-fry",
+  "description": "A savory and crispy vegetarian-friendly dish that features clotted cream, smoke, and is reminiscent of a romantic Kenyan cuisine.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Clotted Cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Trim the stems from the tomatoes and cut them into quarters.",
+    "Mix together olive oil, garlic, red pepper flakes, salt, thyme leaves, and smoked paprika in a large bowl. Add the tomato quarters and toss until evenly coated with the marinade.",
+    "Place the marinated tomatoes on a baking sheet lined with parchment paper. Roast for 25-30 minutes or until the tomatoes are slightly caramelized and golden brown.",
+    "While the tomatoes are roasting, heat a skillet over medium-high heat. Add clotted cream to the skillet and let it simmer for about 10 minutes, stirring occasionally, until reduced by half.",
+    "Remove the roasted tomatoes from the oven and drizzle with the reduced clotted cream mixture. Serve hot as a side dish or alongside rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-roasted-tomato-stir-fry",
+    "vegetarian-friendly",
+    "savory-romantic-kenyan-dish"
+  ],
+  "nutrition": {
+    "calories": 415,
+    "protein": 8,
+    "carbs": 62,
+    "fat": 27
+  },
+  "slug": "smoky-roasted-kiswahili-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-kiswahili-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:50:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "clotted cream",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kiswahili",
+    "mainIngredient": "Tomato",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
