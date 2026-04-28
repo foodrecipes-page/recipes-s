@@ -1,0 +1,98 @@
+{
+  "title": "Sour Chewy Canadian Pork Chops",
+  "description": "A high-protein-friendly brunch dish featuring tender pork chops with a tangy glaze that's perfect for those seeking a savory yet refreshing meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Pork Chops",
+      "amount": "4 pieces",
+      "notes": "Grill-ready, bone-in"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tbsp",
+      "notes": "For the glaze"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 oz",
+      "notes": "Whole milk sour cream for a tangy flavor"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": "For the glaze"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "For basting and glazing"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C). Season the pork chops with salt and pepper on both sides.",
+    "In a small bowl, mix together cornstarch, Dijon mustard, apple cider vinegar, and honey. Slowly pour in olive oil while stirring until fully combined into a smooth glaze.",
+    "Heat some olive oil in a skillet over medium heat. Once hot, add the pork chops skin-side down for about 4 minutes or until they develop a nice sear. Flip and brush with the prepared glaze mixture.",
+    "Transfer the skillet to your preheated oven and continue baking for approximately 20-30 minutes, flipping halfway through cooking time to ensure even browning on all sides.",
+    "Once done, remove from oven and let rest for a few minutes before slicing into individual pieces. Serve hot with steamed vegetables or side salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sour-chewy",
+    "canadian-pork-chops",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 31,
+    "carbs": 2,
+    "fat": 24
+  },
+  "slug": "sour-chewy-canadian-pork-chops",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-canadian-pork-chops",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:09:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "pork chops",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pork",
+    "descriptor": "Sour Chewy",
+    "dishForm": "Chops"
+  }
+}
