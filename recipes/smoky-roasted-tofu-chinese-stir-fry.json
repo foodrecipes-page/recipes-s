@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Roasted Tofu Chinese Stir-fry",
+  "description": "A fluffy and bitter meal-prep friendly Chinese dish featuring roasted tofu, lemongrass stalks, and a smoky flavor profile, perfect for breakfast or lunch.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 block firm tofu",
+      "amount": "1 (400g)",
+      "notes": "preferably extra-firm"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2Tbsp"
+    },
+    {
+      "name": "1 small onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "3"
+    },
+    {
+      "name": "1-inch piece ginger, peeled and minced",
+      "amount": "1"
+    },
+    {
+      "name": "2 cups shredded spring onions (green part only)",
+      "amount": "2Cups"
+    },
+    {
+      "name": "5 lemongrass stalks, tough outer layer removed",
+      "amount": "5"
+    },
+    {
+      "name": "1/4 cup soy sauce",
+      "amount": "1/4Cup"
+    },
+    {
+      "name": "1 tablespoon dark brown sugar or maple syrup",
+      "amount": "1Tbsp"
+    },
+    {
+      "name": "Pinch of five-spice powder (optional)",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/2 cup chicken broth",
+      "amount": "1/2Cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "In a small bowl, mix soy sauce, brown sugar, and five-spice powder (if using). Set aside.",
+    "Place tofu on a baking sheet. Drizzle with oil and season lightly with salt and pepper.",
+    "Roast in preheated oven for 25-30 minutes or until golden brown.",
+    "In a large skillet over medium heat, add diced onion and garlic. Sauté until softened, about 5 minutes.",
+    "Add ginger to the skillet and cook for an additional minute.",
+    "Stir-fry shredded spring onions, lemongrass (chopped), and roasted tofu together in the skillet. Pour in sauce mixture and broth. Stir well to combine.",
+    "Simmer for another 3-4 minutes until slightly thickened.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-tofu",
+    "fluffy-chinese-dish",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 37,
+    "fat": 8
+  },
+  "slug": "smoky-roasted-tofu-chinese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-tofu-chinese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:52:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "caramelize",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
