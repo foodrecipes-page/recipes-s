@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Silky Sichuan Pepper Stir-fry",
+  "description": "A kid-friendly and vegan-friendly smoky stir-fry featuring Sichuan pepper with a silky texture that's perfect for mealtime in Norway.",
+  "cuisine": "Vegan Chinese cuisine",
+  "diet": [
+    "vegan",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots, julienned",
+      "amount": "1 medium carrot"
+    },
+    {
+      "name": "Green onions, sliced",
+      "amount": "2-3 green onions"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil or vegan butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Peanuts, crushed (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil or vegan butter in a wok over medium-high heat.",
+    "Add Sichuan peppercorns and minced garlic to the hot oil. Stir for about 30 seconds until fragrant.",
+    "Add sliced green onions, broccoli florets, and carrots to the wok. Mix well with the spices.",
+    "Pour soy sauce evenly into the stir-fry mixture and mix thoroughly.",
+    "Stir-fry everything for about 5-7 minutes or until vegetables are tender but still a little crisp.",
+    "If desired, sprinkle crushed peanuts on top before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "silky",
+    "kid-friendly",
+    "norwegian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "smoky-silky-sichuan-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-silky-sichuan-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:05:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Sichuan Pepper",
+    "descriptor": "Smoky Silky",
+    "dishForm": "Stir-fry"
+  }
+}
