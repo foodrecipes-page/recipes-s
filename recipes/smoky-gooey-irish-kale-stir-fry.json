@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Gooey Irish Kale Stir-fry",
+  "description": "A flavorful and nutritious post-workout dish featuring smoky flavors, gooey kale, mint, and dumplings (potato starch noodles) in a kosher-friendly recipe.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "1 bunch",
+      "notes": "Rinse and chop into thin strips."
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Mint Leaves",
+      "amount": "a few handfuls, chopped"
+    },
+    {
+      "name": "Dumplings (Potato Starch Noodles)",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "Olive Oil or Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "enough to cook dumplings"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to boil and prepare the kale by rinsing it, chopping into thin strips, and adding them to the boiling water for about 2-3 minutes until just wilted. Drain and set aside.",
+    "In another pan, heat olive oil or coconut oil over medium-high heat. Add minced garlic and red pepper flakes, cooking for about 1 minute until fragrant but not browned.",
+    "Add chopped mint leaves to the pan with the garlic and red pepper flakes. Sauté for another minute until the mint is slightly wilted.",
+    "Reserve a little bit of the kale water in case you need it later, then add the drained kale back into the pan with the mint mixture. Toss gently until everything is coated evenly.",
+    "Cook dumplings according to package instructions, usually by boiling them in salted water for about 5-7 minutes or until they float and are fully cooked. Drain any excess water from the dumplings.",
+    "Combine the kale-mint mixture with the dumplings, adding reserved kale water as needed if the mixture becomes too dry. Cook everything together on low heat to allow flavors to meld and the kale to absorb some of the liquid.",
+    "Season with kosher salt to taste and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stir-fry",
+    "vegan-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 192,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "smoky-gooey-irish-kale-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-gooey-irish-kale-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:31:21Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "dum",
+    "primaryIngredient": "mint",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Kale",
+    "descriptor": "Smoky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
