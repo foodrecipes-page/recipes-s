@@ -1,0 +1,87 @@
+{
+  "title": "Sweet & Dense Filipino Potato Stir-fry",
+  "description": "A sweet and dense Filipino potato dish featuring russet potatoes, seasoned with a mediterranean blend to create an indulgent yet healthy twist on the traditional recipe.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mediterranean Blend Seasoning (Olive Oil, Lemon Juice, Dijon Mustard, Parsley)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Sugar or Stevia",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pinch of Salt and Pepper",
+      "notes": "For taste adjustment"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Wash and peel the russet potatoes. Cut them into small bite-sized pieces.",
+    "Arrange potato pieces in a single layer on a baking sheet lined with parchment paper. Drizzle with olive oil, add Mediterranean blend seasoning, coconut sugar, salt, and pepper. Toss to coat evenly.",
+    "Roast for 15 minutes, then reduce heat to 375°F (190°C) and continue roasting until potatoes are golden brown and slightly crispy on the outside, about 20-25 more minutes. Let cool slightly.",
+    "Heat a wok or large skillet over medium-high heat. Add extra virgin olive oil. Once hot, add minced garlic and sliced onion. Sauté for about 3 minutes or until onions turn translucent.",
+    "Stir in roasted potatoes, if using red bell pepper (if desired), and continue to stir-fry for another 5-7 minutes or until all ingredients are heated through and fragrant.",
+    "Season with additional salt and pepper if needed. Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-dense",
+    "indulgent-filipino",
+    "mediterranean-friendly",
+    "roasted-potato-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 3.4,
+    "carbs": 19.7,
+    "fat": 5
+  },
+  "slug": "sweet-dense-filipino-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-dense-filipino-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:51:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "russet potato",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Potato",
+    "descriptor": "Sweet & Dense",
+    "dishForm": "Stir-fry"
+  }
+}
