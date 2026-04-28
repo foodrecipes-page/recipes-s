@@ -1,0 +1,96 @@
+{
+  "title": "Savory Velvety Cozy Chicken Stir-fry",
+  "description": "This savory, velvety Filipino dish combines crispy air-fried chicken with a rich red wine sauce for a cozy and comforting meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "2 pieces",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup",
+      "notes": "dry red variety like Pinot Noir or Burgundy"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1/2 cup",
+      "notes": "low sodium variety"
+    },
+    {
+      "name": "Thyme sprigs",
+      "amount": "a few",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Paprika powder",
+      "amount": "1 tsp",
+      "notes": "smoked or regular, to taste"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional for heat"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Season the chicken pieces with paprika, salt, and pepper.",
+    "In a saucepan, sauté minced garlic and chopped onions until translucent.",
+    "Add red wine, chicken broth, thyme sprigs, and red pepper flakes. Bring to a boil then reduce heat and simmer for 5 minutes.",
+    "Pour the sauce into an air fryer basket with the seasoned chicken pieces, making sure they are evenly coated in the sauce.",
+    "Air fry at 375°F (190°C) for about 20 minutes or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "Garnish with extra thyme sprigs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo-friendly",
+    "cozy",
+    "stir-fry",
+    "velvety",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 32,
+    "carbs": 16,
+    "fat": 18
+  },
+  "slug": "savory-velvety-cozy-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-velvety-cozy-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:04:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "red wine",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Savory Velvety Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
