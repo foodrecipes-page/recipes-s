@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Gooey Greek Turkish Delight Stir-fry",
+  "description": "A gooey, crowd-pleasing Greek dish featuring smoky flavors and the texture of Turkish delight, simmered to perfection for a simple yet delightful side or snack.",
+  "cuisine": [
+    "Greek",
+    "Turkish"
+  ],
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greeks Delight",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the Greeks Delight, Sweet Chilli Sauce, Ketchup, Brown Sugar, Garlic Powder, Black Pepper, and Lemon Juice. Stir until well combined.",
+    "Heat 1 tablespoon of Olive Oil in a pan over medium heat. Pour the mixture into the pan and stir continuously for about 2 minutes to prevent burning.",
+    "Reduce heat to low and let it simmer for another 5-7 minutes or until the Greeks Delight has absorbed most of the sauce and is gooey.",
+    "Serve hot as a snack with extra Olive Oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "turkish",
+    "smoky",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "smoky-gooey-greek-turkish-delight-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-gooey-greek-turkish-delight-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:12:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "turkish delight",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Turkish Delight",
+    "descriptor": "Smoky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
