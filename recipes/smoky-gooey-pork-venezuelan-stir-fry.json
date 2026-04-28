@@ -1,0 +1,105 @@
+{
+  "title": "Smoky Gooey Pork Back Ribs Venezuelan Stir-fry",
+  "description": "This halal-friendly dish combines smoky pork back ribs with a cozy, gooey sauce that's perfect for a quick and easy dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Back Ribs",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Ancho Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Season the pork with salt, black pepper, ancho chili powder, cumin, ground cinnamon, and fresh oregano.",
+    "Heat vegetable oil in a large skillet over medium-high heat. Add onions and garlic, sautéing until translucent.",
+    "Add paprika, salt, and pepper to the onion mixture. Cook for about 1 minute.",
+    "Transfer pork ribs into a baking dish. Pour sauce ingredients evenly over the meat.",
+    "Bake in the preheated oven for approximately 45 minutes or until the meat reaches an internal temperature of at least 140°F (60°C).",
+    "Reduce heat to low and stir-fry with fresh lime juice for about 5-7 minutes, ensuring that the sauce thickens slightly.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "gooey",
+    "cozy",
+    "venezuelan",
+    "stir-fry",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 16
+  },
+  "slug": "smoky-gooey-pork-venezuelan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-gooey-pork-venezuelan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:29:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "pork back ribs",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pork",
+    "descriptor": "Smoky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
