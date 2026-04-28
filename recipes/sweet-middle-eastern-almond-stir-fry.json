@@ -1,0 +1,86 @@
+{
+  "title": "Sweet Middle Eastern Almond Stir-fry",
+  "description": "A fluffy, dairy-free solo-dinner dish featuring almond extract and sweetened with honey or maple syrup for a deliciously indulgent treat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cooking spray or oil",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Toast almonds in a dry pan until golden brown, about 3 minutes. Let cool.",
+    "In a large bowl, mix toasted almonds with honey and maple syrup; set aside to marinate for at least 10 minutes.",
+    "Heat cooking spray or oil in a non-stick skillet over medium heat. Add minced garlic and grated ginger, sautéing until fragrant, about 2 minutes.",
+    "Add almond mixture to the skillet and stir-fry for another 4-5 minutes, stirring frequently to coat almonds evenly with syrup mixture.",
+    "Stir in cornstarch and cook for an additional minute or until thickened. Remove from heat.",
+    "Serve warm as a dessert or snack accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "stir-fry",
+    "middle-eastern",
+    "almond-extract"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 15,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "sweet-middle-eastern-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-middle-eastern-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:45:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "almond extract",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Almonds",
+    "descriptor": "Sweet",
+    "dishForm": "Stir-fry"
+  }
+}
