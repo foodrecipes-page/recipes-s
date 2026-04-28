@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Roasted Slovakian Glace Cherry Stir-fry",
+  "description": "A indulgent slovakian dish featuring glace cherry, smoke, and with a focus on being sour and crispy. Perfect for those following a fodmap-friendly diet.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Glace cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves, minced"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sour cream (optional)",
+      "amount": "3-4 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C.",
+    "In a large bowl, mix chopped onions, garlic, smoked paprika, and a pinch of salt and pepper. Add the Glace cherries and toss well.",
+    "Heat oil in a wok or frying pan over medium-high heat. Pour in the cherry mixture and stir-fry until the onions are translucent and slightly golden.",
+    "Add sour cream (if using) to the mix, stirring gently to combine with the other ingredients. Cook for an additional 2 minutes.",
+    "Transfer the dish into a serving bowl and serve immediately.",
+    "Optional: For an extra smoky flavor, you can grill the cherry mixture under high heat for about 1 minute before transferring it to the wok."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "glace-cherry",
+    "smoky-roasted",
+    "stir-fry",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 4
+  },
+  "slug": "smoky-roasted-slovakian-glace-cherry-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-slovakian-glace-cherry-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:07:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "smoke",
+    "primaryIngredient": "glace cherry",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Glace Cherry",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
