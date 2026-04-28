@@ -1,0 +1,95 @@
+{
+  "title": "Spicy Chewy Italian Stir-fry",
+  "description": "A solo-dinner Sicilian-style dish featuring spicy shrimp paste in a chewy sauce with toast and other nut-free-friendly ingredients.",
+  "cuisine": "Sicilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Nut-Free Italian Seasoning Mix",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Breadcrumbs (optional for chewiness)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Toast slices",
+      "amount": "8 slices",
+      "notes": "Toasted in advance and left to cool slightly."
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add garlic and onion; cook until translucent.",
+    "Stir in shrimp paste, red pepper flakes, tomato paste, and Italian seasoning mix. Cook for about 1 minute.",
+    "Gradually add breadcrumbs (if using) while stirring continuously to prevent sticking.",
+    "Garnish with toasted toast slices. Serve hot.",
+    "For extra chewiness, you can sprinkle additional breadcrumbs on top before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "solo-dinner",
+    "spicy",
+    "chewy",
+    "italian",
+    "sicilian",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 14
+  },
+  "slug": "spicy-chewy-italian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-chewy-italian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:01:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "shrimp paste",
+    "diet": "nut-free",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Shrimp Paste",
+    "descriptor": "Spicy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
