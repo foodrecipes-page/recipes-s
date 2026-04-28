@@ -1,0 +1,93 @@
+{
+  "title": "Savory Mexican Orange Peel Stir-fry",
+  "description": "A light and crispy mexican dish featuring candied orange peel with high-protein ingredients for a perfect high-protein-friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground Turkey or Chicken Breast",
+      "amount": "150g"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped fresh"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "2 stalks, finely chopped"
+    },
+    {
+      "name": "Orange Peel",
+      "amount": "6 pieces, peeled and halved"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 140°F (60°C). Cook the ground turkey or chicken breast for about 30 minutes, until fully cooked.",
+    "In a small saucepan, mix soy sauce with lemon juice and set aside. Heat sesame oil in a wok over medium-high heat, add minced garlic and sauté for one minute.",
+    "Add sliced red bell pepper to the wok and stir-fry for about 2 minutes or until slightly softened. Add chopped green onions, orange peel pieces (skin only), soy sauce mixture, and ground turkey/chicken breast.",
+    "Stir everything together until orange peel is soft and chicken/turkey is fully cooked. Adjust seasoning if needed. Serve hot with cilantro as a garnish.",
+    "To prepare orange peel for sous-vide: soak in water for 30 minutes, then coat with sugar syrup (1 cup of water and 2 tablespoons of granulated sugar), place in sous-vide bag, cook at 150°F (65°C) for 2 hours. Rinse clean before using.",
+    "Serve this dish as a side or main course, depending on your preference."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory-mexican-stir-fry",
+    "orange-peel-stir-fry",
+    "high-protein-friendly-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 10
+  },
+  "slug": "savory-mexican-orange-peel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-mexican-orange-peel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:14:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "candied peel",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Orange Peel",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
