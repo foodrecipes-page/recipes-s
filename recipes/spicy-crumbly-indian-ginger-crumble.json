@@ -1,0 +1,87 @@
+{
+  "title": "Spicy Crumbly Indian Ginger Crumble",
+  "description": "A quick-fix snack featuring allspice and tandoor spices in a sugar-free crumbly dish that's perfect for on-the-go consumption.",
+  "cuisine": "Indian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tandoor powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup (unsweetened)"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "6-8 strands"
+    },
+    {
+      "name": "almond meal",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "rice flour",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine allspice, tandoor powder, and ginger paste in a bowl.",
+    "Add coconut milk to the mixture until it reaches a smooth consistency.",
+    "Stir in saffron strands with enough warm water to cover them for about 10 minutes.",
+    "In another bowl, mix almond meal, rice flour, and ground cardamom together.",
+    "Gradually blend the dry ingredients into the wet while mixing continuously.",
+    "Spoon mixture onto a greased baking sheet or use muffin cups if desired. Chill for at least 30 minutes before serving.",
+    "Serve with tea or coffee as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crumbly",
+    "indian-ginger-crumble",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "spicy-crumbly-indian-ginger-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crumbly-indian-ginger-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:46:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "tandoor",
+    "primaryIngredient": "allspice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "ginger",
+    "descriptor": "Spicy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
