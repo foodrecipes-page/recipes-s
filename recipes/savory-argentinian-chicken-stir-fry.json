@@ -1,0 +1,76 @@
+{
+  "title": "Savory Argentinian Chicken Stir-fry",
+  "description": "A dense and salty meal-prep Argentinean dish featuring Cajun seasoning, dumplings, and a paleo-friendly twist.",
+  "cuisine": "Argentine",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 pieces",
+      "notes": "skin-on"
+    },
+    {
+      "name": "2 tablespoons Cajun seasoning"
+    },
+    {
+      "name": "1 cup bone-in and skin-on dumplings"
+    },
+    {
+      "name": "3 medium bell peppers, sliced"
+    },
+    {
+      "name": "2 cloves garlic, minced"
+    },
+    {
+      "name": "1 onion, diced"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Season the chicken with Cajun seasoning and place in a baking dish. Bake for 25 minutes or until fully cooked.",
+    "In a large skillet, heat olive oil over medium-high heat. Add garlic and onion, sautéing for about 1 minute until fragrant.",
+    "Add sliced bell peppers to the skillet. Cook for another 3-4 minutes until they start to soften slightly.",
+    "Remove chicken from oven and set aside. In the same skillet, add the dumplings and stir for about 2-3 minutes allowing them to absorb flavors.",
+    "Place the cooked dumplings back in the baking dish with the chicken. Return the skillet to the stove-top, add a little bit of water if needed and bring to a boil for about 1 minute until slightly thickened.",
+    "Pour the sauce over the chicken and dumplings, ensuring all ingredients are well combined.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory-argentinian",
+    "meal-prep",
+    "salty-dense",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "savory-argentinian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-argentinian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:22:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "cajun",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
