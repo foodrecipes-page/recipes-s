@@ -1,0 +1,77 @@
+{
+  "title": "Sour Crunchy Indian Cucumber Crumble",
+  "description": "A quick and refreshing post-workout dish featuring red pepper paste, pickle, and a touch of sweetness to satisfy your palate.",
+  "cuisine": "Indian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "2 medium",
+      "notes": "Use any variety preferred"
+    },
+    {
+      "name": "Red Chili Paste",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste for spiciness"
+    },
+    {
+      "name": "Pickled Vegetables (optional)",
+      "amount": "1/4 cup",
+      "notes": "Such as carrot, daikon, or cucumber pickles"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "To balance the sourness"
+    }
+  ],
+  "instructions": [
+    "Chop cucumbers into thin rounds.",
+    "Mix red chili paste, sugar, and rice vinegar in a bowl until well combined. Add pickled vegetables if using.",
+    "Dip cucumber slices in the spice mixture until evenly coated.",
+    "Garnish with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crispy",
+    "indian",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 1,
+    "carbs": 4,
+    "fat": 1
+  },
+  "slug": "sour-crunchy-indian-cucumber-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-indian-cucumber-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:18:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "red pepper paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Sour Crunchy",
+    "dishForm": "Crumble"
+  }
+}
