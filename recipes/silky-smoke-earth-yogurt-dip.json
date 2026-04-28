@@ -1,0 +1,79 @@
+{
+  "title": "Silky Smoke Earth Yogurt Dip",
+  "description": "A silky earthy yogurt dip infused with smoke and tailored for a date-night polished taste experience, vegan-friendly and paleo-approved.",
+  "cuisine": "Vegan & Paleo Cuisine",
+  "diet": [
+    "paleo",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dried Dates",
+      "amount": "6 medium"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "Ginger Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Clove Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the dried dates in a small bowl, add enough water to cover them completely. Let sit for about 20 minutes until soft.",
+    "In a blender, combine Greek yogurt, soaked and mashed dates, coconut flakes, chopped walnuts, ginger powder, and clove powder. Blend until smooth.",
+    "Season with salt to taste and mix well. Transfer the mixture into an oven-safe dish or ramekin.",
+    "Bake for 10-15 minutes, or until golden brown on top and set in the middle. Let cool before serving.",
+    "Serve chilled as a dip with various vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "smoke",
+    "date-night",
+    "yogurt-dip"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "silky-smoke-earth-yogurt-dip",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smoke-earth-yogurt-dip",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:22:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "greek yogurt",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Earth",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Silky Smoke",
+    "dishForm": "Dip"
+  }
+}
