@@ -1,0 +1,88 @@
+{
+  "title": "Silky Romantic Russian Morcilla Stir-fry",
+  "description": "A silky and romantic dish featuring morcilla in a bhuna sauce, served as an evening meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-sodium-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morcilla",
+      "amount": "100g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Low-sodium Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Clean and finely chop the morcilla.",
+    "Finely dice the onion and garlic, setting aside half of the chopped onions for later use.",
+    "Sauté the chopped onions in a pan with a bit of oil until they are translucent.",
+    "Add minced garlic to the pan; stir-fry for 20 seconds.",
+    "Place morcilla into the pan and stir-fry until it becomes golden brown, about 5 minutes.",
+    "Pour tomato sauce over the morcilla, and bring to a simmer. Let it cook for an additional 5-7 minutes.",
+    "Stir in low-sodium soy sauce and season with salt and pepper according to taste. Cook for another minute or two until heated through.",
+    "Remove from heat, mix in remaining chopped onions, and serve hot as a romantic dinner side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "romantic-russian",
+    "bhuna-sauce",
+    "morcilla-stir-fry",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 19,
+    "carbs": 37,
+    "fat": 15
+  },
+  "slug": "silky-romantic-russian-morcilla-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-romantic-russian-morcilla-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:11:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "morcilla",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Morcilla",
+    "descriptor": "Silky Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
