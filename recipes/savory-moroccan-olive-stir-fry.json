@@ -1,0 +1,104 @@
+{
+  "title": "Savory Moroccan Olive Stir-fry",
+  "description": "A savory and chewy brunch-mood Moroccan dish featuring marinated black olives in a plant-based-friendly sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olives, pitted and chopped (Kalamata or black)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onion and sauté until translucent, about 5 minutes.",
+    "Stir in garlic, tomato paste, balsamic vinegar, and water. Bring to a simmer.",
+    "Add cumin seeds, coriander powder, paprika, and salt. Simmer for another 2-3 minutes.",
+    "Increase heat to high, add chopped olives, and stir well.",
+    "Cook for an additional 5 minutes until the sauce has thickened slightly and olives are heated through.",
+    "Stir in fresh parsley and serve hot over toast or a wrap."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "stir-fry",
+    "plant-based",
+    "savory",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "savory-moroccan-olive-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-moroccan-olive-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:36:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "black olives",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Olive",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
