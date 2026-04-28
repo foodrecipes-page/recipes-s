@@ -1,0 +1,92 @@
+{
+  "title": "Salty Creamy Raw-Friendly Algerian Bhuna Stir-fry",
+  "description": "A comforting raw-friendly dish featuring baked beans and a creamy bhuna sauce in an easy to prepare Moroccan-inspired recipe.",
+  "cuisine": "Moroccan, Algerian",
+  "diet": [
+    "vegan",
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 can of baked beans (400g)",
+      "amount": "",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 cups of raw cashews, soaked and drained",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon paprika",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add onions and garlic, sauté until softened.",
+    "Stir in soaked cashews, ground cumin, paprika, and lemon juice. Mix well.",
+    "Add the baked beans and salt to taste. Stir gently to combine.",
+    "Simmer for about 10 minutes or until thickened. Adjust seasoning if needed.",
+    "Serve warm as a snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "raw-friendly",
+    "bhuna",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 9,
+    "carbs": 36,
+    "fat": 11
+  },
+  "slug": "salty-creamy-raw-friendly-algerian-bhuna-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-creamy-raw-friendly-algerian-bhuna-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:37:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "bhuna",
+    "primaryIngredient": "baked beans",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Bhuna",
+    "descriptor": "Salty Creamy Raw-Friendly",
+    "dishForm": "Stir-fry"
+  }
+}
