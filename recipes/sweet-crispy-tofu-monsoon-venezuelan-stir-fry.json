@@ -1,0 +1,96 @@
+{
+  "title": "Sweet Crispy Tofu Monsoon Venezuelan Stir-fry",
+  "description": "A savory and sweet monsoon-inspired dish featuring crispy tofu with a tangy BBQ sauce, pickled vegetables, and dairy-free cheese for a unique twist on traditional cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "crispy tofu",
+      "amount": "1 block (400g)"
+    },
+    {
+      "name": "barbecue sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickled vegetables",
+      "amount": "1 cup",
+      "notes": "use vegan pickles for dairy-free option"
+    },
+    {
+      "name": "dairy-free cheese",
+      "amount": "1 block (150g) finely grated"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Chop the tofu into cubes and season lightly with salt and pepper. Pat dry with paper towels.",
+    "Arrange tofu cubes on the prepared baking sheet, drizzle with oil, and bake for about 15 minutes until golden brown.",
+    "In a medium pan over medium heat, combine tomato sauce, barbecue sauce, pickled vegetables, chopped onion, minced garlic, and salt and pepper. Simmer for about 5-7 minutes to let flavors meld together.",
+    "Remove the tofu from the oven and slice into smaller pieces if needed. Add sliced tofu to the simmering mixture. Stir well until fully combined with the sauce.",
+    "Add finely grated dairy-free cheese to the pan, stirring continuously until cheese melts and sauce thickens slightly, about 1-2 minutes more.",
+    "Serve warm as a snack or side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crispy",
+    "monsoon",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 329,
+    "protein": 15.9,
+    "carbs": 30.8,
+    "fat": 6.7
+  },
+  "slug": "sweet-crispy-tofu-monsoon-venezuelan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crispy-tofu-monsoon-venezuelan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:47:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Monsoon Venezuelan",
+    "mainIngredient": "Tofu",
+    "descriptor": "Sweet Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
