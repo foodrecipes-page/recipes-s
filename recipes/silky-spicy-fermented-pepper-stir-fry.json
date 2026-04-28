@@ -1,0 +1,98 @@
+{
+  "title": "Silky Spicy Fermented Pepper Stir-fry",
+  "description": "A fresh and silky one-pot Australian dish featuring fermented peppers for a unique twist on traditional stir-fries, suitable for diabetics.",
+  "cuisine": "Australian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Red Peppers",
+      "amount": "1 cup",
+      "notes": "Freshly fermented and finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for added flavor"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Shallots",
+      "amount": "4 slices",
+      "notes": "Finely chopped for sweetness and umami"
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated for its natural sugars and zestiness"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use low-sodium if necessary"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "To enhance the acidity and balance flavors"
+    },
+    {
+      "name": "Red Chili Peppers (optional)",
+      "amount": "1 small",
+      "notes": "For a touch of heat, finely chopped or crushed"
+    },
+    {
+      "name": "Water Chestnuts (optional)",
+      "amount": "2 ounces",
+      "notes": "Cut into thin slices for crunch and texture"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic, shallots, and grated ginger. Sauté until fragrant, about 1 minute.",
+    "Fold in the fermented red peppers. Stir-fry for another 2 minutes.",
+    "If using chili peppers and water chestnuts, add them now and stir well to combine.",
+    "Pour in soy sauce and lemon juice. Mix thoroughly and let it simmer for an additional 2-3 minutes until slightly thickened.",
+    "Serve hot as a side dish or main course accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-pepper",
+    "silky-spicy",
+    "australian-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "silky-spicy-fermented-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-spicy-fermented-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:46:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "pepper",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Silky Spicy Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
