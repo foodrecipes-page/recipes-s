@@ -1,0 +1,84 @@
+{
+  "title": "Savory Juicy Lazy-Sunday Rice Krispies Stir-fry",
+  "description": "A savory and juicy croatian dish featuring rice krispies in a paleo-friendly stir-fry that's perfect for lazy Sunday mornings.",
+  "cuisine": "Croatian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Chili Flake (optional)",
+      "amount": "",
+      "notes": "For added heat, use 1/4 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Herbs (Optional)",
+      "amount": "",
+      "notes": "Such as parsley or cilantro for garnish"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine Rice Krispies with Palm Sugar and water. Stir until the mixture starts to dissolve.",
+    "Add Avocado Oil to the saucepan over medium heat. Once hot, add Garlic cloves and cook until they become fragrant (about 1 minute).",
+    "If using chili flakes, sprinkle them into the pan and stir well for a few seconds. If not, continue with next step.",
+    "Pour in the Krispies mixture from step 2 and mix well to combine Rice Krispies with the oil and spices.",
+    "Let it simmer for about 1-2 minutes or until the mixture is fully coated and starting to thicken slightly.",
+    "Remove from heat. Let cool slightly before serving if desired, then garnish with herbs for presentation."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "savory",
+    "juicy",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "savory-juicy-lazy-sunday-rice-krispies-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-lazy-sunday-rice-krispies-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:52:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "rice krispies",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Rice Krispies",
+    "descriptor": "Savory Juicy Lazy-Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
