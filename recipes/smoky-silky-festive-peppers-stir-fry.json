@@ -1,0 +1,82 @@
+{
+  "title": "Smoky Silky Festive Peppers Stir-fry",
+  "description": "A festive Croatian dish featuring red chilli flakes in a silky-smooth stir-fry with blanched peppers for added texture and flavor.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large bell peppers",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "piece"
+    },
+    {
+      "name": "3 garlic cloves",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 teaspoon red chilli flakes (optional)",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Water for blanching peppers",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Wash the bell peppers, onion, and garlic. Cut off the tops of the peppers and remove their seeds.",
+    "Blanch the peppers in boiling water for about 1 minute until they start to soften slightly. Remove them with a slotted spoon and let cool.",
+    "In a large wok or frying pan, heat olive oil over medium-high heat. Add chopped onion and sauté for about 2 minutes until translucent.",
+    "Add garlic and cook for another minute. Stir in red chilli flakes (if using), salt, and pepper.",
+    "Gently slide the blanched peppers into the wok along with any liquid from their bottom side. Cook for a few more minutes to release their flavor.",
+    "Serve hot as an accompaniment or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "silky",
+    "festive",
+    "croatian",
+    "stir-fry",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "smoky-silky-festive-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-silky-festive-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:48:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Peppers",
+    "descriptor": "Smoky Silky Festive",
+    "dishForm": "Stir-fry"
+  }
+}
