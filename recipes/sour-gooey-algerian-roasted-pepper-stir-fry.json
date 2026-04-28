@@ -1,0 +1,78 @@
+{
+  "title": "Sour Gooey Algerian Roasted Pepper Stir-fry",
+  "description": "This light Algerian dish features sour roasted peppers in a sauce made from lemon juice and sugar-free yogurt, served as a savory snack or side dish.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 bell peppers",
+      "amount": "medium"
+    },
+    {
+      "name": "1 lemon",
+      "amount": "large"
+    },
+    {
+      "name": "1/4 cup sugar-free yogurt",
+      "amount": "as needed"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "Vegetable oil for roasting",
+      "amount": "enough to coat peppers"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Wash the bell peppers and remove their stems.",
+    "Cut a shallow cross shape in each pepper with kitchen shears for easier roasting.",
+    "Place the peppers on a baking sheet lined with parchment paper, cut-side up. Season with salt and pepper.",
+    "Roast peppers until soft and slightly charred, about 20-25 minutes. Rotate peppers occasionally for even cooking.",
+    "Let them cool enough to handle before piercing them all over with a fork. Squeeze lemon juice evenly into the roasted peppers.",
+    "Mix sugar-free yogurt and lemon juice in a small bowl.",
+    "Gently stir-in the mixture through the cooled peppers until they are coated well.",
+    "Serve immediately as a snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-roasted-pepper-stir-fry",
+    "sour-gooey-dish",
+    "light-algerian-recipe"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 4.3,
+    "fat": 2
+  },
+  "slug": "sour-gooey-algerian-roasted-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-gooey-algerian-roasted-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:21:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "roasted pepper",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Roasted Pepper",
+    "descriptor": "Sour Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
