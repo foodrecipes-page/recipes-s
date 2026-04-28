@@ -1,0 +1,78 @@
+{
+  "title": "Salty-Gooey-Nostalgic Lemon Stir-fry",
+  "description": "A low-calorie-friendly, salty-gooey-nostalgic lemon stir-fry featuring dry white wine, braise, and traditional Egyptian ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cucumber",
+      "amount": "medium-sized",
+      "notes": "Julienned"
+    },
+    {
+      "name": "2 bell peppers, any color",
+      "amount": "medium-sized",
+      "notes": "Chopped into thin strips"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced",
+      "notes": "Use less if very spicy"
+    },
+    {
+      "name": "1 lemon",
+      "amount": "juiced and zested",
+      "notes": ""
+    },
+    {
+      "name": "200ml dry white wine",
+      "amount": "",
+      "notes": "Red wine can be used as a substitute, but use only 75-100 ml for lower alcohol content"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a wok or large skillet, heat the olive oil over medium-high heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Toss in the julienned cucumber and bell peppers; cook for another minute.",
+    "Stir in the lemon juice and zest, cumin, and salt. Pour in the dry white wine and let it simmer to reduce slightly.",
+    "Once reduced, add a splash of water if needed to prevent burning and continue cooking until most liquid is evaporated.",
+    "Serve hot as a side dish or over rice for an additional meal.",
+    "prepTimeMin"
+  ],
+  "slug": "salty-gooey-nostalgic-lemon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-gooey-nostalgic-lemon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:00:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "dry white wine",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lemon",
+    "descriptor": "Salty-Gooey-Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
