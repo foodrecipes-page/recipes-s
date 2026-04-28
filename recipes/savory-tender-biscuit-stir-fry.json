@@ -1,0 +1,78 @@
+{
+  "title": "Savory Tender Biscuit Stir-fry",
+  "description": "A quick and easy savory dish featuring air-fried digestive biscuits in a low-fat-friendly recipe that's perfect for sick days, inspired by Jamaican cuisine.",
+  "cuisine": "Jamaican-Inspired",
+  "diet": [
+    "low-fat",
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Digestive biscuits",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Minced onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 350°F (175°C).",
+    "Place biscuits in a single layer on a baking sheet and bake for 4-5 minutes or until golden brown. Let cool.",
+    "Heat peanut oil in a wok over medium heat, add minced onion and bell pepper, sauté until softened.",
+    "Add cooled biscuits to the pan, stir-fry for 1 minute, then toss with grated carrot and garlic powder.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 7,
+  "totalTimeMin": 15,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "sick-day",
+    "jamaican",
+    "digestive-biscuit",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 5
+  },
+  "slug": "savory-tender-biscuit-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-tender-biscuit-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:19:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Biscuit",
+    "descriptor": "Savory Tender",
+    "dishForm": "Stir-fry"
+  }
+}
