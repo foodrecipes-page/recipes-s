@@ -1,0 +1,82 @@
+{
+  "title": "Smoky Flaky Teff Pancake",
+  "description": "A low-calorie-friendly crowd-pleaser Ethiopian dish featuring blackcurrant jam and cured meats, served as a breakfast treat with flaky teff pancakes.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup teff flour",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 eggs",
+      "amount": "each"
+    },
+    {
+      "name": "300ml water",
+      "amount": "ml"
+    },
+    {
+      "name": "1/4 cup blackcurrant jam, at room temperature",
+      "amount": ""
+    },
+    {
+      "name": "Tahini sauce for drizzling (optional)",
+      "amount": ""
+    },
+    {
+      "name": "A few slices of cured meats",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Combine teff flour and salt in a large bowl.",
+    "In another bowl, beat eggs. Gradually add water to the egg mixture while stirring continuously until smooth.",
+    "Gradually stir the wet ingredients into the dry ones until just combined.",
+    "Heat a non-stick pan over medium heat. Pour batter onto the hot pan for each pancake, about 1/4 cup per pancake, and cook until bubbles form on top and bottoms are golden brown, flipping once.",
+    "While pancakes are cooking, prepare tahini sauce by mixing tahini with a little water to make a smooth paste.",
+    "Serve the teff pancakes hot with blackcurrant jam and drizzled with tahini sauce. Garnish with slices of cured meats if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "teff-pancake",
+    "smoky-flaky",
+    "blackcurrant-jam",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 74,
+    "fat": 18
+  },
+  "slug": "smoky-flaky-teff-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-teff-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:56:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Teff",
+    "descriptor": "Smoky Flaky",
+    "dishForm": "Pancake"
+  }
+}
