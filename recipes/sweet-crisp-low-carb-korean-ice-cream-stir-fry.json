@@ -1,0 +1,78 @@
+{
+  "title": "Sweet Crisp Low Carb Korean Ice Cream Stir-fry",
+  "description": "A low-carb twist on a classic dessert featuring ice cream and vegetables in a flavorful stir-fry sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ice Cream",
+      "amount": "2 scoops"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1/4 medium"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 small"
+    },
+    {
+      "name": "Lettuce Leaves",
+      "amount": "1 head"
+    },
+    {
+      "name": "Tomato Sauce (or Soy Sauce for a savory twist)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Gently stir-fry bell pepper and carrot in a pan with oil until tender.",
+    "Add ice cream to the pan, stirring gently as it melts into the vegetables.",
+    "Drizzle tomato sauce (or soy sauce) over the mixture for extra flavor.",
+    "Place lettuce leaves on plates and serve the stir-fried ice cream mixture over them."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crisp",
+    "lazy-sunday",
+    "korean-dish",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "sweet-crisp-low-carb-korean-ice-cream-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crisp-low-carb-korean-ice-cream-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:36:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "ice cream",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Ice Cream",
+    "descriptor": "sweet crisp low carb",
+    "dishForm": "Stir-fry"
+  }
+}
