@@ -1,0 +1,73 @@
+{
+  "title": "Sour Dense Braised Red Onions Moroccan Stir-fry",
+  "description": "A monsoon-inspired Moroccan dish featuring a dense blend of red onions braised in a tangy sauce with spices for a spicy and flavorful twist, suitable for egg-free diets.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "medium"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "standard measuring cup"
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "notes": "pungent spice to add depth of flavor"
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "Juice from 1 lemon",
+      "amount": "juiced standard lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Chop the onion into thin wedges.",
+    "In a large mixing bowl, combine onions and lemon juice. Mix gently but thoroughly.",
+    "Add cumin and red pepper flakes. Stir well to distribute evenly.",
+    "Spread the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 45 minutes or until the onions are tender and have a dense, caramelized texture.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "sour",
+    "dense",
+    "red_onions"
+  ],
+  "nutrition": {
+    "calories": 109,
+    "protein": 1,
+    "carbs": 23,
+    "fat": 0
+  },
+  "slug": "sour-dense-braised-red-onions-moroccan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-dense-braised-red-onions-moroccan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:20:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "red onions",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Red Onions",
+    "descriptor": "Sour Dense Braised",
+    "dishForm": "Stir-fry"
+  }
+}
