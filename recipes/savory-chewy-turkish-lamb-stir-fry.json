@@ -1,0 +1,100 @@
+{
+  "title": "Savory Chewy Turkish Lamb Stir-fry",
+  "description": "A meal-prep friendly dish featuring tender lamb cubes marinated in sour cream and slow-cooked to perfection, ideal for a satisfying lunch or dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500g",
+      "notes": "Chilled and at room temperature"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup",
+      "notes": "Full-fat for best results"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Extra-virgin for better flavor"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1 tsp",
+      "notes": "Or other dried spices like cumin or paprika can be used as a substitute"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 300°F (150°C).",
+    "In a mixing bowl, combine sour cream with chopped onion and minced garlic. Add salt and pepper to taste.",
+    "Season the lamb cubes generously with salt, pepper, paprika, and a pinch of saffron. Marinate the lamb in the sour cream mixture for at least 2 hours or overnight.",
+    "Remove the lamb from the marinade, reserving some of the marinade for later use. Pat dry with paper towels to remove excess liquid.",
+    "Heat olive oil in a large skillet over medium-high heat. Add the marinated lamb cubes and cook until they start getting golden brown on all sides, about 5-7 minutes per side.",
+    "Reduce heat to low-medium and add reserved marinade to the skillet. Stir gently to combine with the lamb. Cover and simmer for another 10-12 minutes or until the lamb is fully cooked and tender.",
+    "Serve hot as a main dish or use it in wraps, salads, or sandwiches."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "chewy",
+    "meal-prep",
+    "turkish",
+    "slow-cooked",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 45,
+    "carbs": 13,
+    "fat": 20
+  },
+  "slug": "savory-chewy-turkish-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-chewy-turkish-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:00:04Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "slow-cook",
+    "primaryIngredient": "sour cream",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Savory Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
