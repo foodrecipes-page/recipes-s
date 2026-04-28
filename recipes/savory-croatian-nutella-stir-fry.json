@@ -1,0 +1,84 @@
+{
+  "title": "Savory Croatian Nutella Stir-fry",
+  "description": "A light and savory one-pot dish that blends the comforting sweetness of Nutella with hearty vegetables to create a whole30-friendly meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "whole30",
+    "sour",
+    "light"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Nutella",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Chop onions, carrots, and broccoli into bite-sized pieces.",
+    "Dice garlic cloves.",
+    "Heat olive oil in a large skillet over medium heat. Add chopped vegetables and sauté until they start to soften.",
+    "Stir in Nutella, salt, and pepper. Cook for an additional 2-3 minutes until the sauce thickens slightly.",
+    "Add diced garlic and cook for another minute.",
+    "Reduce heat to low and let everything simmer for about 5-7 minutes or until the vegetables are tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutella",
+    "stir-fry",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 46,
+    "fat": 18
+  },
+  "slug": "savory-croatian-nutella-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-croatian-nutella-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:34:36Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "nutella",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Nutella",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
