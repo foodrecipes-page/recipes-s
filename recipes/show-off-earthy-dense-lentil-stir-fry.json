@@ -1,0 +1,89 @@
+{
+  "title": "Show-off Earthy Dense Lentil Stir-fry",
+  "description": "This gluten-free Syrian dish features a dense and earthy flavor profile with the addition of sazon seasoning for extra depth. Slow-cooked lentils make it an excellent show-off dinner option.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup green lentils",
+      "amount": "cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons sazon seasoning (or equivalent), optional",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "Fresh parsley, chopped for garnish",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet or wok over medium heat.",
+    "Add onion and garlic; sauté until softened, about 5 minutes.",
+    "Stir in the lentils and add water or broth. Bring to a simmer.",
+    "If using sazon seasoning, stir it into the lentils now.",
+    "Reduce heat to low, cover, and let cook for 10-15 minutes until the lentils are tender but still have some bite.",
+    "Season with salt and pepper as needed.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "show-off",
+    "earthly",
+    "dense",
+    "lentil",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 8,
+    "carbs": 34,
+    "fat": 6
+  },
+  "slug": "show-off-earthy-dense-lentil-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-earthy-dense-lentil-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:27:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "sazon",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lentils",
+    "descriptor": "Earthy Dense Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
