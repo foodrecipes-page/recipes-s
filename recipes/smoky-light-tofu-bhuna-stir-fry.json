@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Light Tofu Bhuna Stir-fry",
+  "description": "A light and smoky Filipino dish featuring tofu as the main ingredient with a hint of midnight craving taste, served warm for an evening snack.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (about 200g)",
+      "notes": "Ensure tofu is drained and pressed to reduce moisture."
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "3 pcs, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 pcs, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "5 pieces, minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Sesame Seeds Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Red Chillies",
+      "amount": "4 pcs, finely chopped"
+    },
+    {
+      "name": "Black Pepper Corns",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or a large skillet over medium-high heat. Add olive oil and swirl to coat.",
+    "Add sliced green peppers, onions, and garlic to the hot pan. Stir-fry for about 2 minutes until vegetables start to soften.",
+    "Chop tomatoes into small pieces and add them to the mix. Cook for another minute until they release their juices.",
+    "Mix together Tamarind Paste, Fish Sauce, salt, sesame seeds butter, and black pepper corns in a bowl. Pour this mixture over the vegetables.",
+    "Increase heat to high, then reduce back down to medium-high. Stir-fry for 3-5 minutes until sauce thickens slightly but still flows smoothly.",
+    "Add tofu cubes to the wok. Cover with a lid if using and stir-fry for another 5 minutes or until tofu is golden brown and heated through.",
+    "Turn off heat immediately after removing from the stove top, ensuring food stays warm without burning."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "light",
+    "tofu_bhuna"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "smoky-light-tofu-bhuna-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-light-tofu-bhuna-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:59:54Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "sesame butter",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tofu",
+    "descriptor": "Smoky Light Midnight Craving",
+    "dishForm": "Stir-fry"
+  }
+}
