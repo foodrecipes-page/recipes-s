@@ -1,0 +1,74 @@
+{
+  "title": "Silky Adventurous Dutch Grapefruit Stir-fry",
+  "description": "A floral and silky Dutch dish featuring grapefruit juice as the base, sautéed with raw-friendly vegetables for a unique twist on stir-fry.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grapefruit Juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Bell Pepper Slices",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green Onion Chiffonade",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine grapefruit juice, broccoli florets, red bell pepper slices, green onion chiffonade, and garlic cloves in a bowl.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add the vegetable mixture and cook for about 5 minutes until vegetables are tender but still crisp.",
+    "Stir-fry for an additional minute to meld all flavors together. Remove from heat immediately as overcooking can cause unwanted bitterness in grapefruit juice.",
+    "Serve hot with a side of steamed rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grapefruit",
+    "dutch",
+    "stir-fry",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 36,
+    "fat": 15
+  },
+  "slug": "silky-adventurous-dutch-grapefruit-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-adventurous-dutch-grapefruit-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:40:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Grapefruit",
+    "descriptor": "Silky Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
