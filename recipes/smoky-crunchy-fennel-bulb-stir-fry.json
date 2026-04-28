@@ -1,0 +1,81 @@
+{
+  "title": "Smoky Crunchy Fennel Bulb Stir-fry",
+  "description": "A festive Chinese dish featuring crispy fennel bulbs with a smoky flavor and a nut-free-friendly option.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 medium fennel bulb",
+      "amount": "",
+      "notes": "Rinse thoroughly"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "1 cup chopped green onions",
+      "amount": "",
+      "notes": "Chiffonade for garnish"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Halve the fennel bulb lengthwise and remove the core. Slice into thin rounds about 1/4 inch thick.",
+    "Sprinkle both sides of the sliced fennel with salt, pepper, and oil.",
+    "Place the fennel in the skillet and cook until lightly browned on both sides, about 5-7 minutes per side, flipping once.",
+    "Squeeze lime juice over cooked fennel to add a tangy touch.",
+    "Toss with chopped green onions for extra freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-fennel-bulb-stir-fry",
+    "festival-chinese-dish",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 107,
+    "protein": 3.2,
+    "carbs": 6.5,
+    "fat": 4.8
+  },
+  "slug": "smoky-crunchy-fennel-bulb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crunchy-fennel-bulb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:11:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "fennel bulb",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Fennel Bulb",
+    "descriptor": "Smoky Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
