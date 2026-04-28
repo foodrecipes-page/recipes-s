@@ -1,0 +1,81 @@
+{
+  "title": "Sous-vide Crumbly Filipino Shrimp Crumbe",
+  "description": "This quick-fix dish features dry white wine, sous-vide cooking method for a tender and juicy texture, low-fat-friendly option with minimal oil.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-fat",
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "250g"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley leaves",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cooking salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place shrimp in a sous-vide bag with olive oil, garlic, dry white wine, and cooking salt. Seal and cook at 60°C for 25 minutes.",
+    "Remove shrimp from the bag and let it cool slightly before shredding into fine pieces.",
+    "Combine cooked shrimp with freshly chopped parsley and lime juice in a mixing bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "crumbly",
+    "filipino",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 28,
+    "carbs": 3,
+    "fat": 9
+  },
+  "slug": "sous-vide-crumbly-filipino-shrimp-crumbe",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-crumbly-filipino-shrimp-crumbe",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:32:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "dry white wine",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "shrimp",
+    "descriptor": "Sous-vide Crumbly",
+    "dishForm": "Crumble"
+  }
+}
