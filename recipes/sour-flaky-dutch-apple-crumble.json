@@ -1,0 +1,84 @@
+{
+  "title": "Sour Flaky Dutch Apple Crumble",
+  "description": "A comforting and nostalgic Dutch apple crumble featuring a blend of sweet applesauce with a tangy glaze and flaky crust, perfect for breakfast or dessert.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "3/4 cup unsalted butter, cold and cubed",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "3 cups peeled and chopped apples (about 6 medium)",
+      "amount": "cups"
+    },
+    {
+      "name": "1/4 cup fresh lemon juice",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup packed light brown sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "amount": "tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). In a mixing bowl, combine flour and salt. Add in cold cubed butter using the 'peel-and-grate' method until mixture resembles coarse crumbs.",
+    "In another bowl, mix sugar and lemon juice; add chopped apples and stir gently to coat with sugar-lemon mixture.",
+    "Pour apple filling into an 8x8 inch baking dish lined with parchment paper. Sprinkle half of flour-crust mixture evenly over the top of apples.",
+    "Bake for about 35-40 minutes or until apples are tender and crust is golden brown. Allow to cool slightly before serving. Top with remaining crumb mixture if desired.",
+    "Serve warm, optionally drizzled with extra glaze made from lemon juice and sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "flaky",
+    "dutch",
+    "apple",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 1.5,
+    "carbs": 30.4,
+    "fat": 7.7
+  },
+  "slug": "sour-flaky-dutch-apple-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-flaky-dutch-apple-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:59:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "applesauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "apple",
+    "descriptor": "sour flaky",
+    "dishForm": "Crumble"
+  }
+}
