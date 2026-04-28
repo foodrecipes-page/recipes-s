@@ -1,0 +1,77 @@
+{
+  "title": "Silky Spicy Middle Eastern Creamed Corn Stir-fry",
+  "description": "A floral and silky middle-eastern dish featuring creamed corn, deglazed with spices for a unique twist. Perfectly suited for weeknight meals, this keto-friendly recipe is sure to impress.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Creamed corn",
+      "amount": "1 can"
+    },
+    {
+      "name": "Spicy Harissa paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "a handful, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place can of creamed corn in a baking dish.",
+    "Drizzle half of the olive oil over the corn, and sprinkle with salt and chopped parsley. Mix gently to combine and coat evenly.",
+    "Bake for 20 minutes or until golden brown on top.",
+    "While the corn is baking, heat remaining oil in a non-stick skillet over medium-high heat.",
+    "Add spicy harissa paste to the hot oil and stir until fragrant but not burnt. This should take about 30 seconds.",
+    "Pour the heated harissa into the baked corn, mix well to coat all pieces evenly with the sauce.",
+    "Serve immediately as a main dish or side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "spicy",
+    "middle-eastern",
+    "cream-ed-corn",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 152,
+    "protein": 3.6,
+    "carbs": 9.4,
+    "fat": 8.7
+  },
+  "slug": "silky-spicy-middle-eastern-creamed-corn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-spicy-middle-eastern-creamed-corn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:12:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "deglaze",
+    "primaryIngredient": "creamed corn",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Creamed Corn",
+    "descriptor": "Silky Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
