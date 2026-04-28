@@ -1,0 +1,75 @@
+{
+  "title": "Salty Flaky Irish Cherry Crumble",
+  "description": "A kid-friendly Irish dish featuring pressure-cooked dried cherries with a flaky crust made from almond meal, perfect for breakfast or dessert.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup of dried sour cherries",
+      "amount": "cup",
+      "notes": "ensure they are not too wet"
+    },
+    {
+      "name": "1/2 cup almond meal",
+      "amount": "cup",
+      "notes": "commercially available at grocery stores or make your own using almonds and a food processor"
+    },
+    {
+      "name": "1 tablespoon sugar",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": null
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "cup",
+      "notes": "ensure it is at room temperature"
+    }
+  ],
+  "instructions": [
+    "Pressure-cook the dried cherries with 2 cups of water and a pinch of salt for 3 minutes on high pressure. Let them cool before using.",
+    "Preheat your oven to 350°F (180°C). Mix the almond meal, sugar, and olive oil together in a large bowl until smooth and creamy.",
+    "Press the mixture into an 8-inch square baking dish lined with parchment paper for easy removal. Bake for 20 minutes or until golden brown.",
+    "After removing from oven, spread the cooled cherry filling over the crust evenly. Let it cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "flaky",
+    "kid-friendly",
+    "irish",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "salty-flaky-irish-cherry-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-flaky-irish-cherry-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:12:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dried cherries",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cherries",
+    "descriptor": "Salty Flaky",
+    "dishForm": "Crumble"
+  }
+}
