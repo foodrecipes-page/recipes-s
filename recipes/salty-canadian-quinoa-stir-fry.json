@@ -1,0 +1,90 @@
+{
+  "title": "Salty Canadian Quinoa Stir-fry",
+  "description": "A low-carb friendly snack with a salty and crispy texture, perfect for midnight cravings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 bell pepper, diced",
+      "amount": "large"
+    },
+    {
+      "name": "1/4 cup soy sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 teaspoon five spice powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Fresh cilantro, for garnish (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "In a medium pot, rinse quinoa under cold water and cook it with 2 cups of water until tender. Set aside to cool.",
+    "Heat olive oil in a large skillet over medium heat. Add onion and garlic; sauté for about 1 minute until fragrant.",
+    "Add bell pepper to the skillet; stir-fry for another 3-4 minutes until soft and slightly browned.",
+    "Stir in cooked quinoa, soy sauce, five spice powder, and salt. Mix well.",
+    "Transfer the mixture into an oven-safe dish and bake for about 10-15 minutes or until golden brown on top.",
+    "Serve hot with a sprinkle of fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "stir-fry",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "salty-canadian-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-canadian-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:30:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "quinoa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
