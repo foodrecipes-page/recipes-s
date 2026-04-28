@@ -1,0 +1,96 @@
+{
+  "title": "Savory Fluffy Monsoon Whole Wheat Stir-fry",
+  "description": "A savory and fluffy monsoon-inspired dish featuring whole wheat that is both caramelize-rich and whole30-friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup whole wheat pasta",
+      "amount": "cup",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "1 bell pepper, sliced (any color)",
+      "amount": "piece"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": "cup",
+      "notes": "dried can be used as a substitute if unavailable"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "1/4 tsp cumin seeds",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 tsp coriander powder",
+      "amount": "teaspoon"
+    }
+  ],
+  "instructions": [
+    "Boil the whole wheat pasta in a large pot of salted water until al dente, about 8-10 minutes or as per package instructions.",
+    "Meanwhile, in a pan, heat olive oil over medium heat. Add cumin seeds and sauté for 30 seconds to release their aroma.",
+    "Add finely chopped garlic and onion to the pan; cook for another minute until fragrant.",
+    "Toss in the sliced bell pepper and let it cook for about 2-3 minutes, stirring occasionally.",
+    "Drain the pasta and add it to the pan with vegetables. Stir in fresh parsley (or dried if used), salt, and pepper to taste.",
+    "Cook everything together until all ingredients are well combined and heated through.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-fluffy",
+    "monsoon",
+    "whole-wheat",
+    "algerian-dish",
+    "caramelized",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 456,
+    "protein": 18,
+    "carbs": 72,
+    "fat": 20
+  },
+  "slug": "savory-fluffy-monsoon-whole-wheat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fluffy-monsoon-whole-wheat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:47:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "caramelize",
+    "primaryIngredient": "whole wheat",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Monsoon",
+    "mainIngredient": "Whole Wheat",
+    "descriptor": "Savory Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
