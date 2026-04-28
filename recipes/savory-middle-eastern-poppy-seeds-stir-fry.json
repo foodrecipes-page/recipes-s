@@ -1,0 +1,89 @@
+{
+  "title": "Savory Middle Eastern Poppy Seeds Stir-fry",
+  "description": "A quick-fix Croatian dish featuring savory ground poppy seeds in a sour and creamy sauce, perfect for a midday meal or snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup ground poppy seeds",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "medium",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup heavy cream",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped (optional garnish)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the ground poppy seeds and cook until lightly golden, about 5 minutes.",
+    "Add minced garlic and chopped onion to the skillet, sautéing for another 3-4 minutes or until onions are translucent.",
+    "Pour in lemon juice and heavy cream. Stir well to combine all ingredients.",
+    "Simmer gently on medium-low heat for about 10-15 minutes, stirring occasionally until sauce thickens slightly, adjusting seasoning with salt if needed.",
+    "Serve hot as a snack or side dish with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-poppy-seeds",
+    "creamy-sauce",
+    "middle-eastern-flavors",
+    "quick-fix-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "savory-middle-eastern-poppy-seeds-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-middle-eastern-poppy-seeds-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:17:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
