@@ -1,0 +1,70 @@
+{
+  "title": "Smoky Smoked Lime Stir-fry",
+  "description": "A silky-smooth weeknight dish featuring unwaxed lime and a smoky flavor profile that is perfect for those sugar-free-friendly meals.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Unwaxed limes",
+      "amount": "6-8"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "10-12"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash and de-stem the limes, then cut them into slices. Slice dumplings if not pre-cut.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add lime slices and salt to the hot oil, stir-frying for about 2 minutes until fragrant.",
+    "Remove the lime slices from the oil when they start to show signs of being cooked, leaving some oil behind.",
+    "Stir-fry dumplings in the remaining oil for a couple more minutes until heated through but still have their soft texture.",
+    "Fold the stir-fried dumplings and lime into each other, ensuring everything is coated with oil and evenly seasoned. Cook briefly to warm up.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "limes"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 9
+  },
+  "slug": "smoky-smoked-lime-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-smoked-lime-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:34:52Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "dum",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lime",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
