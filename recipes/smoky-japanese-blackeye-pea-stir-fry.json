@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Japanese Blackeye Pea Stir-fry",
+  "description": "A low-fat-friendly salty and fluffy dish featuring blackeye peas with a hint of smokiness that can serve as a hangover cure.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece, minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 green parts, sliced thinly"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup, toasted and coarsely ground"
+    }
+  ],
+  "instructions": [
+    "Soak blackeye peas in water overnight.",
+    "Drain the soaking liquid from the peas. Rinse well and set aside.",
+    "In a large wok or skillet, heat sesame oil over medium-high heat.",
+    "Add minced garlic and ginger to the pan. Sauté for about 30 seconds until fragrant.",
+    "Stir in blackeye peas with soy sauce and rice vinegar. Mix well and cook for about 2 minutes to allow flavors to meld.",
+    "Fold in scallions, ensuring they are fully coated with the marinade mixture.",
+    "Toss sesame seeds into the stir-fry mixture and mix evenly for another minute or two until heated through.",
+    "Remove from heat immediately after tossing in the sesame seeds to avoid burning."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "japanese",
+    "blackeye-pea",
+    "hangover-cure",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "smoky-japanese-blackeye-pea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-japanese-blackeye-pea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:49:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "blackeye pea",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "blackeye pea",
+    "descriptor": "smoky",
+    "dishForm": "Stir-fry"
+  }
+}
