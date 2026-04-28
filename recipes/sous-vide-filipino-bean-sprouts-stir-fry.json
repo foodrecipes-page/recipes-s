@@ -1,0 +1,86 @@
+{
+  "title": "Sous-vide Filipino Bean Sprouts Stir-fry",
+  "description": "A buttery and juicy festive filipino dish featuring bean sprouts prepared sous-vide for optimal tenderness and flavor.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bean Sprouts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Kalamansi Juice",
+      "amount": "1 tablespoon",
+      "notes": "for sweetness and acidity"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium or gluten-free if needed"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 teaspoon",
+      "notes": "use a low sodium version if necessary"
+    },
+    {
+      "name": "Minced Shallots",
+      "amount": "3 small shallots",
+      "notes": "finely chopped for added depth of flavor"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1 handful",
+      "notes": "chopped to garnish the dish"
+    }
+  ],
+  "instructions": [
+    "Place bean sprouts in a sous-vide bag, seal it properly and cook at 140°F for 30 minutes.",
+    "In a separate pan, heat up some oil over medium-high heat. Add minced shallots and garlic cloves until fragrant (about 2-3 minutes).",
+    "Add soy sauce and fish sauce to the pan with minced shallots and garlic, stir well to combine, let it simmer for another minute.",
+    "Gently fold in cooked bean sprouts into the sauce mixture, ensuring they are well coated. Let them cook together for an additional 2-3 minutes until heated through.",
+    "Remove from heat immediately after adding bean sprouts; allow a few moments for everything to meld before serving.",
+    "Just before serving, sprinkle chopped cilantro leaves over the stir-fried bean sprouts as a garnish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 30,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "filipino-bean-sprouts",
+    "stir-fry",
+    "buttery-and-juicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "sous-vide-filipino-bean-sprouts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-filipino-bean-sprouts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:05:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "bean sprouts",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Sous-vide",
+    "dishForm": "Stir-fry"
+  }
+}
