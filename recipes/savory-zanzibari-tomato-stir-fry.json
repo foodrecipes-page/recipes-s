@@ -1,0 +1,87 @@
+{
+  "title": "Savory Zanzibari Tomato Stir-fry",
+  "description": "A salty and velvety savory dish featuring English muffins, sautéed in a midnight-craving Kenyan style. Perfect for those on the keto-friendly diet.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": "4 slices",
+      "notes": "Use keto-friendly or gluten-free varieties if necessary."
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Kosher-grade, no added preservatives."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped finely for better flavor and texture."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves",
+      "notes": "Minced to add a robust garlic kick."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Slice the English muffins into thin rounds or flat pieces.",
+    "On a large skillet, heat olive oil over medium-high heat. Add onions and garlic, sauté for about 2 minutes until translucent.",
+    "Add tomatoes to the skillet with their juice. Season with salt, black pepper, and allow them to cook down slightly to release more flavor.",
+    "Once all ingredients are well combined in the skillet, reduce heat to low-medium. Mix in oven-heated English muffins evenly into the tomato mixture for about 3-5 minutes until they're heated through.",
+    "Transfer the entire mixture onto a serving dish and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-zanzibari",
+    "salty-veggie",
+    "midnight-craving",
+    "keto-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "savory-zanzibari-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-zanzibari-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:21:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "english muffins",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Tomato",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
