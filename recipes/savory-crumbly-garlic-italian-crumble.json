@@ -1,0 +1,89 @@
+{
+  "title": "Savory Crumbly Garlic Italian Crumble",
+  "description": "This indulgent italian dish features turmeric powder and is air-fried to make it raw-friendly. Perfect for a breakfast or snack.",
+  "cuisine": "Italian",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "raw almonds",
+      "amount": "30g"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "15g"
+    },
+    {
+      "name": "raw pumpkin seeds",
+      "amount": "15g"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 200°C (392°F).",
+    "Mix almond flour, garlic powder, turmeric powder, and sesame seeds together.",
+    "Fold in raw almonds, sunflower seeds, pumpkin seeds, and chia seeds thoroughly.",
+    "Transfer mixture into an airtight container for easy consumption.",
+    "Air fry the mixture for 10-15 minutes until golden brown, shaking halfway through.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crumbly",
+    "indulgent",
+    "italian",
+    "turmeric",
+    "air-fried",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 23,
+    "fat": 14
+  },
+  "slug": "savory-crumbly-garlic-italian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-garlic-italian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:24:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "turmeric powder",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Savory Crumbly",
+    "dishForm": "Crumble"
+  }
+}
