@@ -1,0 +1,80 @@
+{
+  "title": "Steamy French Squid Stir-fry",
+  "description": "A comforting and whole30-friendly French dish featuring baby squid cooked in a steam-based stir-fry with nutty flavors.",
+  "cuisine": "French",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Squid",
+      "amount": "1 lb (450g)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "2 tablespoons thinly sliced"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2 large, finely chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Scallions (White Part Only)",
+      "amount": "2-3 stalks, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Place the squid in a food processor with 4 cloves of garlic and blend until you get a paste. Season with salt.",
+    "Wash and pat dry the squid. Spread it out on a large plate lined with parchment paper.",
+    "Brush some olive oil over the squid, then use your hands to coat evenly with the garlic-squid mixture. Let rest for 5 minutes.",
+    "While the squid is resting, heat a heavy-bottomed skillet over medium-high heat. Add enough olive oil to coat the bottom of the pan.",
+    "Once hot, add the remaining garlic and ginger slices. Stir-fry for about 30 seconds until fragrant.",
+    "Add in the cubed green peppers and red bell pepper, stirring occasionally for about 2-3 minutes until slightly softened.",
+    "Increase heat to high, carefully transfer the squid onto the skillet (do not overcrowd), and stir-fry for an additional 5 minutes or until it turns golden brown.",
+    "Add scallion whites at the last minute. Stir fry for another 1-2 minutes just to wilt them slightly.",
+    "Remove from heat immediately and serve hot with a sprinkle of fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "steamy-french-squid-stir-fry",
+    "whole30-friendly-dish",
+    "nutty-juicy-consomme"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 19,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "steamy-french-squid-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamy-french-squid-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:11:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "baby squid",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Squid",
+    "descriptor": "Steamy",
+    "dishForm": "Stir-fry"
+  }
+}
