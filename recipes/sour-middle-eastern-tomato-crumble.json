@@ -1,0 +1,88 @@
+{
+  "title": "Sour Middle Eastern Tomato Crumble",
+  "description": "A sweet and juicy dish with a tangy kick featuring pickles, cooked sous-vide to perfection for a low-sodium option.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "1 (200g can)",
+      "notes": "Drained and diced"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "Drained and sliced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "Low-fat or plain, optional for extra tangy flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for best results"
+    },
+    {
+      "name": "dill weed",
+      "amount": "1 tsp",
+      "notes": "For added freshness and umami"
+    },
+    {
+      "name": "oregano",
+      "amount": "1/2 tsp",
+      "notes": "Optional, to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For saucing the tomatoes"
+    }
+  ],
+  "instructions": [
+    "Place tomatoes in a sous-vide bag and seal. Cook at 85°C (185°F) for about 30 minutes.",
+    "In a bowl, mix sour cream with lemon juice, dill weed, oregano, and olive oil until well combined.",
+    "Drain the pickled carrots and cut them into thin slices. Add to the sous-vied tomatoes along with the sour cream mixture.",
+    "Toss everything together gently to ensure no clumps form. Taste and adjust seasoning as needed.",
+    "Serve immediately or store in the fridge for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour-middle-eastern-dish",
+    "sweet-juicy-sick-day",
+    "pickles",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "sour-middle-eastern-tomato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-middle-eastern-tomato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:02:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "pickles",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "tomato",
+    "descriptor": "Sour",
+    "dishForm": "Stir-fry"
+  }
+}
