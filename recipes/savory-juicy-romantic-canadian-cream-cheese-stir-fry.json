@@ -1,0 +1,97 @@
+{
+  "title": "Savory Juicy Romantic Canadian Cream Cheese Stir-fry",
+  "description": "A savory and juicy vegetarian-friendly dish featuring creamy Canadian cream cheese in a quick stir-fry that's perfect for any mealtime.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh mixed vegetables",
+      "amount": "",
+      "notes": "Includes bell peppers, onions, mushrooms, and broccoli"
+    },
+    {
+      "name": "2 tablespoons Canadian cream cheese",
+      "amount": "",
+      "notes": "Full-fat for richness"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ginger paste",
+      "amount": "",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "2 tablespoons soy sauce (or tamari)",
+      "amount": "",
+      "notes": "Vegan option available"
+    },
+    {
+      "name": "1 tablespoon cornstarch",
+      "amount": "",
+      "notes": "For thickening the sauce"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add minced garlic and ginger paste, stir-fry for about 30 seconds until fragrant but not browned.",
+    "Add mixed vegetables to the pan and stir-fry for about 5 minutes until they start to soften and slightly golden.",
+    "In a small bowl, mix cornstarch with water. Pour into the wok, stirring constantly to prevent lumps from forming and to thicken the sauce.",
+    "Reduce heat to low-medium and add Canadian cream cheese, allowing it to melt slowly into the sauce. Cook for another 2-3 minutes until heated through and the sauce is glossy and creamy.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "juicy",
+    "romantic",
+    "canadian",
+    "cream cheese",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "savory-juicy-romantic-canadian-cream-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-romantic-canadian-cream-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:10:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "cream cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Cream Cheese",
+    "descriptor": "Savory Juicy Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
