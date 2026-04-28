@@ -1,0 +1,84 @@
+{
+  "title": "Silky Roasted Italian Tomato Stir-fry",
+  "description": "A kid-friendly and vegetarian-friendly umami-rich dish featuring roasted tomatoes with raisins for a touch of sweetness and depth of flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 medium tomato",
+      "amount": "1 piece"
+    },
+    {
+      "name": "1/2 cup canned diced tomatoes (no salt added)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "1/4 teaspoon red chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "1 clove garlic, minced (optional)",
+      "amount": "1 piece"
+    },
+    {
+      "name": "2 tablespoons fresh basil leaves, chopped (optional)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut the tomato into small chunks and place in a bowl.",
+    "Drizzle olive oil over the tomatoes, sprinkle with salt, pepper, red chili flakes, and garlic if using. Toss gently until evenly coated.",
+    "Spread the tomatoes on a baking sheet lined with parchment paper, ensuring they are not overcrowded to allow for even roasting.",
+    "Roast in the preheated oven for about 15-20 minutes or until the tomatoes turn golden brown and start to caramelize. Stir occasionally during roasting to ensure even browning.",
+    "While the tomatoes are roasting, place raisins in a small bowl with enough water to cover them. Let soak for about 5 minutes to soften slightly.",
+    "Once the tomatoes have roasted and cooled slightly, remove from oven. Add the softened raisins to the tomatoes, mix well, and serve hot or at room temperature as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "roasted tomato",
+    "stir-fry",
+    "raisin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "silky-roasted-italian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-roasted-italian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:46:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "raisins",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tomato",
+    "descriptor": "Silky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
