@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Flaky Saudia Tomato Stir-fry",
+  "description": "A lazy-sunday dish featuring baby plum tomatoes slow-cooked with a smoky flavor profile, perfect for pescatarian diets.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby Plum Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "White Beans",
+      "amount": "1 can (about 14 oz)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Rinse and drain the white beans.",
+    "Melt 2 tablespoons of olive oil in a large skillet over medium heat. Add minced garlic, red chili flakes, salt, and black pepper. Sauté for about 1 minute until fragrant.",
+    "Add baby plum tomatoes to the skillet with the sautéed garlic mixture. Mix well.",
+    "Fold in the white beans and sprinkle dried oregano on top. Stir gently to combine all ingredients evenly.",
+    "Transfer the stir-fry to a baking dish and bake for about 15-20 minutes until the tomato slices are tender and the mixture is slightly crispy at the edges.",
+    "Serve hot with crusty bread or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-flaky-saudia-tomato-stir-fry",
+    "lazy-sunday-dish",
+    "saudi-arabian-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 31,
+    "fat": 9
+  },
+  "slug": "smoky-flaky-saudia-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-saudia-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:55:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Tomato",
+    "descriptor": "Smoky Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
