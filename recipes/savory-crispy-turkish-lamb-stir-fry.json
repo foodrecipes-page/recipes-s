@@ -1,0 +1,94 @@
+{
+  "title": "Savory Crispy Turkish Lamb Stir-fry",
+  "description": "A post-workout-friendly dish featuring tender lamb cubes cooked with aromatic spices in a crispy bhuna sauce for a burst of flavor and texture.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb meat",
+      "amount": "500g",
+      "notes": "ensure it's halal-certified"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated fresh"
+    },
+    {
+      "name": "bhuna masala mix",
+      "amount": "2 tbsp",
+      "notes": "includes chili powder, turmeric, coriander seeds, and cumin seeds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped finely for color and crunch"
+    },
+    {
+      "name": "carrots",
+      "amount": "3-4 small",
+      "notes": "julienned for texture"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). Season lamb with salt and pepper.",
+    "In a large pan, heat olive oil over medium-high heat. Add minced garlic and ginger, sauté for about 1 minute until fragrant.",
+    "Add sliced onions and cook until translucent, about 2-3 minutes. Stir in bhuna masala mix and cook for another 2 minutes.",
+    "Toss in halved red bell peppers and carrots, season with salt and pepper again, then stir well to combine.",
+    "Transfer lamb pieces into the pan along with remaining spices. Sauté until lamb is browned on all sides, about 5-7 minutes.",
+    "Reduce heat to low-medium and bake in oven for 15-20 minutes or until lamb reaches your desired doneness (internal temperature of 63°C/145°F).",
+    "Serve hot with a side salad or whole wheat naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stir-fry",
+    "bhuna",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 687,
+    "protein": 32,
+    "carbs": 51,
+    "fat": 20
+  },
+  "slug": "savory-crispy-turkish-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crispy-turkish-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:34:52Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "lamb",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Savory Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
