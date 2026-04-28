@@ -1,0 +1,76 @@
+{
+  "title": "Salty Velvety Australian Kale Salad",
+  "description": "A low-carb-friendly brunch dish featuring kale cooked under pressure for a salty and velvety texture that pairs well with citrus dressing.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb",
+    "salty"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and tear the kale into bite-sized pieces.",
+    "Add the kale to a pressure cooker with a pinch of salt. Cook for 2 minutes on high pressure.",
+    "Remove from heat, allow it to sit for another minute before opening the lid.",
+    "Cut the avocado into slices or chunks.",
+    "In a small bowl, mix together lemon zest and olive oil until well combined. Season to taste with additional salt.",
+    "Gently toss cooked kale with sliced avocado and dressing.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "australian",
+    "kale",
+    "pressure-cooked"
+  ],
+  "nutrition": {
+    "calories": 283,
+    "protein": 10,
+    "carbs": 9,
+    "fat": 17
+  },
+  "slug": "salty-velvety-australian-kale-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-velvety-australian-kale-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:33:03Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "kale",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Kale",
+    "descriptor": "Salty Velvety",
+    "dishForm": "Salad"
+  }
+}
