@@ -1,0 +1,75 @@
+{
+  "title": "Spicy Velvety Uruguayan Pepper Stir-fry",
+  "description": "A low-fat-friendly monsoon dish featuring spicy uruguayan peppers and white bread cooked slowly to achieve a velvety texture.",
+  "cuisine": "South American",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 ripe avocados",
+      "amount": "medium"
+    },
+    {
+      "name": "1 cup uruguayan peppers, roughly chopped",
+      "amount": "large bowl"
+    },
+    {
+      "name": "8 slices of white bread",
+      "amount": "6 slices for use in the recipe, 2 slices for croutons"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "standard measuring cup"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juicer"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Toast the bread slices until golden brown and slightly crispy, then cut into cubes for croutons.",
+    "Mince half of the chopped peppers. Place the other half in a large skillet over medium heat with olive oil. Once hot, add minced peppers to the pan and toss for 1-2 minutes or until fragrant.",
+    "Add the avocados and lime juice to the pepper mixture. Continue cooking, stirring occasionally, for about 5-7 minutes or until the avocado begins to soften and release its oils, creating a smooth texture reminiscent of creamy vegetables.",
+    "Fold in the toasted bread cubes into the skillet. Adjust seasoning with salt and pepper if needed, then serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan-pepper-stir-fry",
+    "spicy-velvety-dish",
+    "monsoon-dish",
+    "low-fat-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 2.6,
+    "carbs": 18.3,
+    "fat": 7.9
+  },
+  "slug": "spicy-velvety-uruguayan-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-uruguayan-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:45:05Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "slow-cook",
+    "primaryIngredient": "white bread",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Pepper",
+    "descriptor": "Spicy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
