@@ -1,0 +1,84 @@
+{
+  "title": "SavoryFluffy Whole30Friendly GreekYogurt Crumble",
+  "description": "A savory and fluffy post-workout dish featuring sour cream, eggs, and whole30-friendly ingredients for a delicious treat.",
+  "cuisine": "American",
+  "diet": [
+    "whole30",
+    "vegan",
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3"
+    },
+    {
+      "name": "Coconut Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pumpkin Pie Spice",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix Greek Yogurt, Sour Cream, eggs, Coconut Flour, Pumpkin Pie Spice, Apple Cider Vinegar, and Vanilla Extract until well combined.",
+    "Transfer the mixture into an 8x8 inch baking dish.",
+    "Bake for about 20-25 minutes or until golden brown on top and set in the center.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "whole30",
+    "vegan-friendly",
+    "sugar-free",
+    "fluffy",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "savory-fluffy-whole30-friendly-greek-yogurt-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fluffy-whole30-friendly-greek-yogurt-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:17:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "sour cream",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Whole30Friendly",
+    "mainIngredient": "GreekYogurt",
+    "descriptor": "SavoryFluffy",
+    "dishForm": "Crumble"
+  }
+}
