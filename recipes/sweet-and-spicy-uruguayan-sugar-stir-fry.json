@@ -1,0 +1,87 @@
+{
+  "title": "Sweet And Spicy Uruguayan Sugar Stir-fry",
+  "description": "A dense and sour one-pot dish from Uruguay featuring ground sugar as the star ingredient, cooked with spices to achieve a unique flavor profile that's both sweet and spicy.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Baby Carrots",
+      "amount": "6 pieces (about 200g)"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler according to manufacturer’s instructions, ensuring it reaches a temperature of at least 450°F.",
+    "In a large skillet or non-stick pan, heat the vegetable oil over medium-high heat. Add the ground sugar and stir until it melts completely and turns amber brown.",
+    "Add red pepper flakes, garlic powder, salt, turmeric powder, and paprika to the melted sugar. Stir well so that all ingredients are evenly distributed and flavored.",
+    "Carefully add the baby carrots into the skillet with the sugar mixture. Spread them out in an even layer to ensure even cooking.",
+    "Broil for about 8-10 minutes, or until the vegetables are tender-crisp and lightly caramelized. Use tongs to gently toss the vegetables as they cook to ensure even distribution of heat.",
+    "Remove from the oven once cooked, season with additional salt if needed, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-spicy",
+    "sour-dense-uruguayan",
+    "ground-sugar-dish",
+    "one-pot",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 1,
+    "carbs": 6.3,
+    "fat": 0
+  },
+  "slug": "sweet-and-spicy-uruguayan-sugar-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-spicy-uruguayan-sugar-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:26:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "ground sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Sugar",
+    "descriptor": "Sweet And Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
