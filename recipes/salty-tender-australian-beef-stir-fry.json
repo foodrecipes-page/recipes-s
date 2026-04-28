@@ -1,0 +1,77 @@
+{
+  "title": "Salty, Tender Australian Beef Stir-fry",
+  "description": "This dish is a show-off keto-friendly meal featuring pickled vegetables and tender beef, perfect for any Australian-inspired dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "200g",
+      "notes": "Grilled to perfection"
+    },
+    {
+      "name": "Pickled vegetables",
+      "amount": "1/4 cup",
+      "notes": "Includes carrots, celery, and red onion for crunch and flavor"
+    },
+    {
+      "name": "Keto-friendly soy sauce alternative (such as Bragg Liquid Aminos)",
+      "amount": "2 tablespoons",
+      "notes": "Substitute with tamari or another gluten-free soy sauce if preferred"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4 green onions, thinly sliced",
+      "notes": "For a pop of color and flavor"
+    },
+    {
+      "name": "Red pepper flakes (or chili oil)",
+      "amount": "1/2 teaspoon",
+      "notes": "For added heat"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C) for the grill setting.",
+    "Season the beef sirloin with salt and pepper on both sides. Grill until cooked through, about 4-6 minutes per side or as desired.",
+    "While the beef cooks, in a small bowl mix together the soy sauce alternative, scallions, red pepper flakes (or chili oil), and any pickled vegetables you wish to use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "tender",
+    "australian-dish",
+    "pickled-vegetables",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 4,
+    "fat": 14
+  },
+  "slug": "salty-tender-australian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-tender-australian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:43:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "pickles",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "Salty, Tender",
+    "dishForm": "Stir-fry"
+  }
+}
