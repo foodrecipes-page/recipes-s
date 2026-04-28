@@ -1,0 +1,95 @@
+{
+  "title": "Spicy Light Fermented Chicken Stir-fry",
+  "description": "A romantic Portuguese dish featuring spicy fermented chicken with a tangy lemon twist, suitable for kosher dietary practices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g",
+      "notes": "boneless"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green onion",
+      "amount": "2-3 pieces",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "lemon zest and juice",
+      "amount": "1 lemon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "fermented black beans",
+      "amount": "2 tablespoons",
+      "notes": "soaked in water to soften"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-5",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "for spiciness"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash chicken breast thoroughly. Pat dry with paper towels.",
+    "Season the chicken with salt, pepper, and minced garlic. Marinate for at least 30 minutes to an hour.",
+    "Heat a wok or large skillet over medium-high heat. Add oil (1-2 tablespoons).",
+    "Add marinated chicken pieces and cook until golden brown on both sides. Remove from pan.",
+    "In the same pan, add red bell pepper slices and stir-fry for 3-4 minutes until softened.",
+    "Add red pepper flakes and fermented black beans to the pan. Stir well and let it simmer for a minute or two.",
+    "Return chicken to the pan along with green onions. Add lemon zest and juice just before serving, stirring gently to combine all ingredients.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy-chicken",
+    "fermented-foods",
+    "light-dish",
+    "portuguese-recipe"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "spicy-light-fermented-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-light-fermented-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:55:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "lemon",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Spicy Light Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
