@@ -1,0 +1,98 @@
+{
+  "title": "Silky Bitter Mediterranean Avocado Salad with Caramel Sauce",
+  "description": "This lazy-sunday dish combines bitter elements like arugula and fennel with the creamy richness of avocado to create a vibrant and flavorful salad that’s perfect for an autumnal snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "3 ripe avocados",
+      "amount": "each",
+      "notes": "Halved and pitted"
+    },
+    {
+      "name": "1/2 cup finely chopped fennel",
+      "amount": "cup",
+      "notes": "Freshly grated or pre-chopped"
+    },
+    {
+      "name": "10 oz arugula leaves",
+      "amount": "oz",
+      "notes": "Chilled and washed"
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "tablespoon",
+      "notes": "Juiced from 2 fresh lemons"
+    },
+    {
+      "name": "3 tablespoons balsamic vinegar",
+      "amount": "tablespoon",
+      "notes": "Filtered and aged, or preferably substitute with red wine vinegar"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "tablespoon",
+      "notes": "Extra virgin for best results"
+    },
+    {
+      "name": "1 garlic clove",
+      "amount": "clove",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender, combine 1/2 cup fennel and 2 tablespoons lemon juice. Blend until smooth, adding more lemon juice as needed to reach desired consistency.",
+    "Add the remaining ingredients (avocados, arugula, balsamic vinegar, olive oil, garlic, salt, pepper) to the blender in order from most liquid content to least. Blend for about 30 seconds or until all ingredients are well combined and the dressing is creamy but still slightly chunky.",
+    "Transfer the mixture to a bowl and gently toss with the arugula leaves. Season lightly with additional salt and pepper if desired.",
+    "Serve chilled, drizzle with extra balsamic vinegar for added contrast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "silky",
+    "lazy-sunday",
+    "mediterranean",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "silky-bitter-mediterranean-avocado-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-bitter-mediterranean-avocado-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:48:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "caramel sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "avocado",
+    "descriptor": "Silky Bitter",
+    "dishForm": "Salad"
+  }
+}
