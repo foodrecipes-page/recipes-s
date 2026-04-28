@@ -1,0 +1,81 @@
+{
+  "title": "Spicy Juicy Jamaican Palm-Sugar Stir-Fry",
+  "description": "A spicy and juicy hangover-curing dish featuring palm sugar, perfectly suited for a quick breakfast or snack.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 onion",
+      "amount": "medium"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 cup shredded green papaya (tropical fruit, not to be confused with the tree)",
+      "amount": "fresh"
+    },
+    {
+      "name": "1 tbsp palm sugar",
+      "amount": "solid"
+    },
+    {
+      "name": "Juice of 2 limes or orange juice",
+      "amount": "juiced"
+    },
+    {
+      "name": "1 tsp chili powder (or more for extra heat, up to 3-5 tsp)",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat.",
+    "Add the minced garlic and cook for about 30 seconds until fragrant.",
+    "Add the shredded green papaya, stir-fry for about 5 minutes or until just tender but still crisp.",
+    "Reduce heat to medium and add onion, cooking until translucent (about 4-5 minutes).",
+    "Pour in the palm sugar and lime juice. Stir constantly to prevent burning.",
+    "Season with chili powder and salt. Continue stirring to combine all ingredients.",
+    "Serve hot as a quick snack or breakfast accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "juicy",
+    "jamaican",
+    "palm-sugar"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 23,
+    "fat": 2
+  },
+  "slug": "spicy-juicy-jamaican-palm-sugar-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-juicy-jamaican-palm-sugar-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:36:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "palm sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "palm_sugar",
+    "descriptor": "Spicy Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
