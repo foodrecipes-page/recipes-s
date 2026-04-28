@@ -1,0 +1,121 @@
+{
+  "title": "Smoky Silky Nostalgic Lentil Stir-fry",
+  "description": "A gluten-free and nostalgic Ethiopian dish featuring smoky lentils with a tangy kick from lemon and a hint of spice from pickle, perfect for adding some spice to your evening meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup red lentils",
+      "amount": "cup",
+      "notes": "Washed and drained"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "slice",
+      "notes": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "piece",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon smoked paprika",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons apple cider vinegar",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon tomato paste",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cumin",
+      "amount": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Grated zest of 1 lemon (for garnish)",
+      "amount": "grate",
+      "notes": ""
+    },
+    {
+      "name": "Pickled vegetables, sliced into thin strips",
+      "amount": "slice",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add onions and cook until soft, about 5 minutes.",
+    "Stir in garlic, smoked paprika, lemon juice, vinegar, tomato paste, salt, and water. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for about 10 minutes or until lentils are tender.",
+    "Add pickled vegetables and cook for an additional 2-3 minutes.",
+    "Garnish with lemon zest before serving.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky-silky-nostalgic",
+    "gluten-free-recipe",
+    "lentils-dish",
+    "lemon-tangy",
+    "pickle-complement"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-silky-nostalgic-lentil-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-silky-nostalgic-lentil-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:36:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "pickle",
+    "primaryIngredient": "lemon",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Smoky Silky Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
