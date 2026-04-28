@@ -1,0 +1,79 @@
+{
+  "title": "Smoky Show-off Jamaican Shrimp Paste Stir-fry",
+  "description": "A show-off dish featuring smoky shrimp paste in a crunchy texture and suitable for those with fodmap concerns.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low_fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp Paste",
+      "amount": "2 tablespoons",
+      "notes": "Fodmap-friendly shrimp paste"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "For a crunchy texture and smokiness"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "To add flavor without being overpowering"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "For added depth of flavor and smokiness"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": "To sauté the ingredients"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat.",
+    "Add sesame seeds to the hot oil and stir until they begin to toast and become golden brown, about 2-3 minutes.",
+    "Fold in shrimp paste and garlic powder, stirring constantly to prevent burning. Cook for an additional 1 minute.",
+    "Sprinkle smoked paprika over the mixture and cook for another minute or so until well combined and fragrant.",
+    "Serve immediately as a side dish or main course."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-dish",
+    "show-off-shrimp-paste",
+    "crunchy-texture",
+    "smoky-flavor",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "smoky-show-off-jamaican-shrimp-paste-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-show-off-jamaican-shrimp-paste-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:30:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "shrimp paste",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Shrimp Paste",
+    "descriptor": "Smoky Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
