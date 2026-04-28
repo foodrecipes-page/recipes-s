@@ -1,0 +1,99 @@
+{
+  "title": "Spicy Crispy Apple Stir-fry",
+  "description": "A Portuguese-inspired diabetic-friendly spicy and crispy apple stir-fry that's perfect for a solo dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup sliced apples",
+      "amount": "cup",
+      "notes": "Use any sweet variety like Honeycrisp or Fuji"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 teaspoon red pepper flakes (adjust to taste)",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup unsweetened applesauce",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and freshly ground black pepper, to taste",
+      "amount": null
+    },
+    {
+      "name": "2 cups baby spinach leaves",
+      "amount": "cups"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley or cilantro (optional)",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix apples, onion, garlic, cumin, smoked paprika, red pepper flakes, and unsweetened applesauce in a large bowl.",
+    "Sprinkle with salt and pepper. Toss gently to coat evenly.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper. Bake for 20 minutes or until slightly golden on the sides.",
+    "While apples are baking, heat olive oil in a wok or large skillet over medium-high heat. Add cooked apple pieces along with baby spinach leaves and a sprinkle of salt and pepper.",
+    "Stir-fry for about 5-7 minutes until spinach is wilted and everything is heated through.",
+    "Garnish with chopped fresh parsley or cilantro if desired, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese-stir-fry",
+    "spicy-apple-dish",
+    "diabetic-friendly-recipe"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 6
+  },
+  "slug": "spicy-crispy-apple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crispy-apple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:36:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "apples",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "apple",
+    "descriptor": "spicy crispy",
+    "dishForm": "Stir-fry"
+  }
+}
