@@ -1,0 +1,85 @@
+{
+  "title": "Spicy Keny Sunflower Oil Kenya Stir-fry",
+  "description": "A tangy and silky solo-dinner dish featuring sunflower oil, ferment, and other Kenyan ingredients for a halal-friendly meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 onion",
+      "amount": "medium"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 red chili pepper",
+      "amount": "sliced thinly"
+    },
+    {
+      "name": "50g sunflower oil",
+      "amount": ""
+    },
+    {
+      "name": "200g fermented fish sauce (Sambal Tersirip)"
+    },
+    {
+      "name": "100g ground peanuts"
+    },
+    {
+      "name": "2 cups water"
+    },
+    {
+      "name": "1 teaspoon salt"
+    },
+    {
+      "name": "3-4 tablespoons fresh parsley, chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat sunflower oil in a wok or frying pan over medium-high heat.",
+    "Add minced garlic and sliced chili pepper to the hot oil and stir-fry for about 1 minute until fragrant.",
+    "Gradually add water and salt, stirring constantly to prevent sticking. Bring to a boil.",
+    "Stir in fermented fish sauce and ground peanuts, continuing to cook for another 2-3 minutes until thickened slightly but still liquid.",
+    "If desired, stir through chopped fresh parsley at the end of cooking.",
+    "Serve immediately as a solo-dinner dish with rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-stir-fry",
+    "spicy-keeny",
+    "halal-friendly",
+    "sundried-peanuts"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 12.9,
+    "carbs": 54.6,
+    "fat": 21.7
+  },
+  "slug": "spicy-keny-sunflower-oil-kenya-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-keny-sunflower-oil-kenya-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:05:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "sunflower oil",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Keny",
+    "mainIngredient": "Kenya",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
