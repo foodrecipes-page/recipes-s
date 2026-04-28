@@ -1,0 +1,92 @@
+{
+  "title": "Silky Midnight Mexican Chicken Wings",
+  "description": "A floral and silky midnight-craving Mexican dish featuring chicken wings prepared with sous-vide for a gluten-free-friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sous-vide bags",
+      "amount": "6",
+      "notes": "Choose silicone or parchment paper bags for sous-vide cooking."
+    },
+    {
+      "name": "Chicken wings",
+      "amount": "1.5 kg (3 lbs)",
+      "notes": "Fresh, bone-in chicken wings from a trusted source."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "200 ml (8 fl oz)"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "4 tbsp",
+      "notes": "For topping the chicken wings."
+    },
+    {
+      "name": "Poblano peppers",
+      "amount": "1 (large)",
+      "notes": "Roasted and diced for flavor infusion."
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "30 ml (2 tbsp)"
+    },
+    {
+      "name": "Oaxaca cheese",
+      "amount": "65 g (2.3 oz), crumbled",
+      "notes": "Optional, for serving with wings."
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "1",
+      "notes": "Freshly squeezed lemon juice for dipping the chicken wings."
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 52°C (126°F). Pat dry the chicken wings and season generously with salt and pepper.",
+    "Place the seasoned chicken wings in the sous-vide bags, ensuring each wing is fully submerged. Cook for 3 hours at 52°C (126°F), turning halfway through cooking time to ensure even heat distribution.",
+    "Meanwhile, prepare a simple marinade by mixing sesame oil, vegetable oil, and minced garlic cloves (about 2-3 cloves). Heat the mixture over medium-high heat until it just begins to simmer. Reduce the heat to low and let it cool for about 10 minutes before adding the poblano peppers.",
+    "Carefully slice the cooled marinade into small cubes and add them along with the cooled oil, sesame seeds, chopped cilantro, diced poblano peppers, a pinch of cayenne pepper, and a drizzle of Mexican crema. Stir well to combine all ingredients into a savory sauce.",
+    "After removing chicken wings from sous-vide, pat off excess marinade. Preheat your oven to 180°C (350°F) and place the chicken wings on a wire rack lined with parchment paper or aluminum foil in an oven-safe dish.",
+    "Brush both sides of the chicken wings with cooled sauce mixture and bake for about 25 minutes, flipping them once midway through cooking time. Keep an eye on browning; if needed, brush more sauce until golden brown.",
+    "Serve immediately with Oaxaca cheese and freshly squeezed lemon wedges."
+  ],
+  "prepTimeMin": 1,
+  "cookTimeMin": 3,
+  "totalTimeMin": 28,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "silky-midnight",
+    "mexican-chicken-wings",
+    "sous-vide-friendly"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 70,
+    "carbs": 35,
+    "fat": 85
+  },
+  "slug": "silky-midnight-mexican-chicken-wings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-midnight-mexican-chicken-wings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:39:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "chicken wings",
+    "diet": "gluten-free",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Silky Midnight",
+    "dishForm": "Wings"
+  }
+}
