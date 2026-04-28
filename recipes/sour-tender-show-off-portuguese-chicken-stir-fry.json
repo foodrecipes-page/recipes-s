@@ -1,0 +1,77 @@
+{
+  "title": "Sour Tender Show-off Portuguese Chicken Stir-fry",
+  "description": "A low-carb-friendly sour and tender show-off Portuguese chicken dish featuring green salsa and tandoor flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skinless boneless chicken breast",
+      "amount": "2 pcs",
+      "notes": "trimmed"
+    },
+    {
+      "name": "green chilis",
+      "amount": "4-6 pieces",
+      "notes": "fresh and finely chopped"
+    },
+    {
+      "name": "tamarind paste or juice",
+      "amount": "1 tbsp",
+      "notes": "use less if too sour"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "regular or low-sodium soy sauce"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "preferably aged rice vinegar for best sourness and depth of flavor"
+    },
+    {
+      "name": "white pepper powder",
+      "amount": "½ tsp",
+      "notes": "freshly ground if available"
+    },
+    {
+      "name": "soy sauce or low-sodium soy sauce",
+      "amount": "1 tbsp",
+      "notes": "for extra umami"
+    },
+    {
+      "name": "green onions (scallions)",
+      "amount": "2-3 pieces",
+      "notes": "finely chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat. Season the chicken with white pepper powder and soy sauce.",
+    "Place the seasoned chicken in the skillet, cooking until golden brown on both sides (about 3-4 minutes per side).",
+    "Add green chilis, tamarind paste or juice, rice vinegar, and a pinch of salt to the skillet. Stir well until the mixture forms a syrup-like consistency.",
+    "Reduce heat to medium-low and continue stirring for an additional minute, allowing flavors to meld together.",
+    "Remove from heat and garnish with finely chopped green onions before serving.",
+    "prepTimeMin"
+  ],
+  "slug": "sour-tender-show-off-portuguese-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-tender-show-off-portuguese-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:16:57Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "green salsa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Sour Tender Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
