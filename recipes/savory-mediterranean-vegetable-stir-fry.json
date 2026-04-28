@@ -1,0 +1,108 @@
+{
+  "title": "Savory Mediterranean Vegetable Stir-fry",
+  "description": "A savory and tender mediterranean dish featuring a blend of vegetables flavored with malt vinegar for an adventurous twist, ideal as a side or light meal.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium",
+      "notes": "Red and orange for color contrast"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 cups sliced",
+      "notes": "For moisture and crunch"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium cubed",
+      "notes": "To absorb flavors"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 pieces minced",
+      "notes": "Optional for extra flavor"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups halved fresh or 1 can crushed",
+      "notes": "For sweetness and acidity"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small sliced thinly",
+      "notes": "For color and tangy notes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": "To coat the vegetables"
+    },
+    {
+      "name": "Malt vinegar",
+      "amount": "2 tablespoons (or substitute with apple cider vinegar)",
+      "notes": "Adds a zingy flavor to balance flavors"
+    },
+    {
+      "name": "Oregano leaves",
+      "amount": "1 tablespoon roughly chopped",
+      "notes": "For herbaceous notes"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon for heat, optional",
+      "notes": "To add a touch of heat if preferred"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "To taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add onions, minced garlic (if using), and red bell peppers to the hot skillet. Cook for about 2 minutes.",
+    "Add zucchini and eggplant, stir occasionally until lightly browned on all sides, about 5-7 minutes.",
+    "Toss in halved tomatoes and oregano leaves. Mix well with vegetables.",
+    "Pour in malt vinegar (or apple cider vinegar), salt, pepper, and red pepper flakes (if using).",
+    "Stir well to combine and let the mixture cook for another 2 minutes until the vegetables are tender but still slightly crisp.",
+    "Remove from heat and serve immediately. Can be garnished with fresh herbs like dill or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "mediterranean",
+    "vegetarian",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 187,
+    "protein": 5.9,
+    "carbs": 26.4,
+    "fat": 10.5
+  },
+  "slug": "savory-mediterranean-vegetable-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-mediterranean-vegetable-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:03:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "fold",
+    "primaryIngredient": "malt vinegar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
