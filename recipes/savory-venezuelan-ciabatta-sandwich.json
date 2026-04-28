@@ -1,0 +1,67 @@
+{
+  "title": "Savory Venezuelan Ciabatta Sandwich",
+  "description": "A pescatarian-friendly meal-prep dish featuring crispy ciabatta bread served with a savory filling using sous-vide cooking method.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ciabatta Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Sous-vide Poblano and Pepper Filling",
+      "amount": "1 (sous-vide) portion"
+    },
+    {
+      "name": "Avocado Mayo Sauce",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 140°F for the filling.",
+    "Slice the ciabatta bread and place it on a baking sheet lined with parchment paper.",
+    "Place the sous-vide portion inside the preheated sous-vide bag and cook for about 1 hour, maintaining at 140°F until fully cooked.",
+    "When the ciabatta is ready, remove from sous-vide machine and let cool slightly.",
+    "On each slice of cooled ciabatta, spread a thin layer of avocado mayo sauce evenly across it.",
+    "Add the prepared Sous-vide Poblano and Pepper Filling to each sandwich slice.",
+    "Fold the ciabatta over the filling to encase everything inside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crispy",
+    "venezuela",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 9
+  },
+  "slug": "savory-venezuelan-ciabatta-sandwich",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-venezuelan-ciabatta-sandwich",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:30:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "ciabatta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "ciabatta",
+    "descriptor": "Savory",
+    "dishForm": "Sandwich"
+  }
+}
