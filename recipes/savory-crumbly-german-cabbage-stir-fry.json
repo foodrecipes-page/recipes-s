@@ -1,0 +1,87 @@
+{
+  "title": "Savory Crumbly German Cabbage Stir-fry",
+  "description": "A quick and flavorful one-pot dish featuring savory cabbage leaves, aromatic spices, and a touch of toastiness to create a crumbly texture that's perfect for stir-frying.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Thyme sprigs",
+      "amount": "a few"
+    },
+    {
+      "name": "Rosemary sprigs",
+      "amount": "a few"
+    }
+  ],
+  "instructions": [
+    "Slice the cabbage leaves and onion into thin strips.",
+    "Mince the garlic cloves.",
+    "Heat olive oil in a wok or large frying pan over medium-high heat.",
+    "Add minced garlic, sliced onions, salt, black pepper, thyme sprigs, and rosemary sprigs. Stir-fry for about 2 minutes until fragrant.",
+    "Place cabbage leaves on the side of the pan to toast lightly without burning.",
+    "Once vegetables are well combined with spices, add toasted cabbage leaves to the pan.",
+    "Stir continuously for another 5-7 minutes or until cabbage is tender and fully coated in spices.",
+    "Remove from heat immediately after adding cabbage leaves to maintain its crunchy texture.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crumbly",
+    "german",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 2.8,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "savory-crumbly-german-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-german-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:56:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Cabbage",
+    "descriptor": "savory crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
