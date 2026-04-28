@@ -1,0 +1,97 @@
+{
+  "title": "Salty Gooey Midnight King Prawns Stir-fry",
+  "description": "A salted and gooey midnight craving dish featuring king prawns in a savory stir-fry sauce that is nut-free-friendly.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) king prawns",
+      "amount": "1 lb (450g)",
+      "notes": "Shell and de-vein"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin for flavor"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "Juice of 1",
+      "notes": "For added brightness"
+    },
+    {
+      "name": "2 tablespoons soy sauce (or tamari for vegan)",
+      "amount": "2 tbsp",
+      "notes": "Or gluten-free alternative if needed"
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup (60ml) water",
+      "amount": "1/4 cup (60ml)",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null,
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add onion and garlic, sauté for about 2 minutes until softened.",
+    "Add prawns and toss with the onions and garlic for another minute to sear them slightly.",
+    "Pour in lemon juice, soy sauce (or tamari), sesame oil, and water. Stir well to combine all ingredients.",
+    "Bring the mixture to a simmer. Reduce heat to low-medium, cover and let cook for 5 minutes until most of the liquid is absorbed.",
+    "Season with salt and pepper to taste before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "gooey",
+    "midnight-craving",
+    "tunisian",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 456,
+    "protein": 32,
+    "carbs": 18,
+    "fat": 22
+  },
+  "slug": "salty-gooey-midnight-king-prawns-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-gooey-midnight-king-prawns-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:07:12Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "stir-fry",
+    "primaryIngredient": "king prawns",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "King Prawns",
+    "descriptor": "Salty Gooey Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
