@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Roasted Ethiopian Teff Stir-fry",
+  "description": "A quick-fix ethiopian dish featuring ketchup for a bitter and gooey texture, with a touch of smoke to make it dash-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup teff flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "1/2 cup ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1/4 cup water (for teff mixture)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh cilantro, for garnish",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Mix teff flour and salt in a bowl.",
+    "Add olive oil and smoked paprika powder to the teff mix and stir well.",
+    "In another bowl, combine ketchup with water. Heat mixture until it starts to boil slowly.",
+    "Once boiling, gradually add teff mix while stirring continuously for about 3 minutes or until fully incorporated.",
+    "Reduce heat and let simmer for an additional 2-3 minutes.",
+    "Remove from heat and stir in the remaining water into the ketchup-teff mixture.",
+    "Serve hot with fresh cilantro as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "teff",
+    "ketchup",
+    "smoke",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "smoky-roasted-ethiopian-teff-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-ethiopian-teff-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:08:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "ketchup",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Teff",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
