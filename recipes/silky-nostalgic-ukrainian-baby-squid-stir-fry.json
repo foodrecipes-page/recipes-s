@@ -1,0 +1,99 @@
+{
+  "title": "Silky Nostalgic Vegan Ukrainian Baby Squid Stir-fry",
+  "description": "A vegan-friendly and nostalgic take on a traditional Ukrainian dish featuring baby squid, with a touch of sourness to give it a unique twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Squid",
+      "amount": "150g",
+      "notes": "Ensure squid is fully cooked before serving"
+    },
+    {
+      "name": "Sour Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": "Chopped for a vibrant contrast to the silky sauce"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "1 handful",
+      "notes": "For garnish and added freshness"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Finely minced for added flavor"
+    },
+    {
+      "name": "Chopped Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Use sweet varieties for a better taste in the dish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking and dressing"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tablespoons",
+      "notes": "To balance the sourness of cherry tomatoes"
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "1 cup",
+      "notes": "As a base for the sauce, reduce to half as needed"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 tablespoon",
+      "notes": "For depth and umami flavor"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and red bell pepper, sautéing for about 2 minutes until the vegetables soften.",
+    "Increase heat to high, add squid chunks followed by sour cherry tomatoes. Stir-fry for another 3-5 minutes until squid turns opaque and slightly golden.",
+    "Reduce remaining liquid in a saucepan with Worcestershire Sauce, soy sauce, and water or vegetable stock. Let it simmer and thicken to create the silky sauce.",
+    "Pour the sauce over the stir-fried squid mixture, tossing continuously for 1-2 minutes to coat the squid evenly.",
+    "Stir in chopped fresh basil leaves and serve hot with extra red bell pepper strips on top if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "stir-fry",
+    "silky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 267,
+    "protein": 13,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "silky-nostalgic-ukrainian-baby-squid-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-nostalgic-ukrainian-baby-squid-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:42:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "baby squid",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "baby squid",
+    "descriptor": "sour silky nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
