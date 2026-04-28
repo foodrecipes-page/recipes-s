@@ -1,0 +1,91 @@
+{
+  "title": "Sweet & Flaky Indian Vegetable Crumble",
+  "description": "This indulgent vegan dish features a sweet and flaky texture made with slow-cooked vegetables in white wine vinegar and spices for added depth.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups mixed bell peppers (red, yellow, orange)",
+      "amount": "",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "1 medium sweet potato",
+      "amount": "",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "1 cup diced eggplant",
+      "notes": "can be replaced with zucchini or any other preferred vegetable"
+    },
+    {
+      "name": "3 tablespoons vegan white wine vinegar",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon ground turmeric",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cardamom",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together bell peppers, sweet potato, eggplant, olive oil, vinegar, cumin, turmeric, cardamom, salt, and pepper.",
+    "Transfer the mixture onto an oven-safe dish. Bake in preheated oven for 45 minutes or until vegetables are tender and golden brown on top.",
+    "Remove from oven, let it cool slightly before serving as a sweet and flaky Indian vegetable crumble."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-flaky-indian-vegetable-crumble",
+    "vegan-sweet-dish",
+    "diabetic-friendly",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 37,
+    "fat": 5
+  },
+  "slug": "sweet-flaky-indian-vegetable-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-flaky-indian-vegetable-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:39:38Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Sweet & Flaky",
+    "dishForm": "Crumble"
+  }
+}
