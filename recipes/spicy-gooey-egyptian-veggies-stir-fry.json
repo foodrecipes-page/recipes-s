@@ -1,0 +1,102 @@
+{
+  "title": "Spicy Gooey Egyptian Veggies Stir-fry",
+  "description": "A light vegetarian-friendly dish featuring a mix of spicy and gooey vegetables, served with warm naan bread.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium, any color"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "tofu",
+      "amount": "100g (soft), drained and crumbled"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 tsp, peeled and grated"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "naan bread",
+      "amount": "2 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat. Add onions and garlic, sautéing until translucent.",
+    "Add bell peppers, zucchini, eggplant, and tofu. Stir-fry for about 5 minutes until vegetables start to soften.",
+    "Mix tomato paste, ginger, red pepper flakes, and salt in a small bowl. Pour over the stir-fried vegetables.",
+    "Stir well to coat all vegetables evenly with the spice mixture. Reduce heat to low and let simmer for an additional 3-4 minutes or until most of the liquid is absorbed.",
+    "Serve hot with warm naan bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "vegetarian",
+    "stir-fry",
+    "spicy",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "spicy-gooey-egyptian-veggies-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-egyptian-veggies-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:08:53Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "braise",
+    "primaryIngredient": "naan bread",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "veggies",
+    "descriptor": "Spicy Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
