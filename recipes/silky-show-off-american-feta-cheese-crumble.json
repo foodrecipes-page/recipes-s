@@ -1,0 +1,83 @@
+{
+  "title": "Silky Show-off American Feta Cheese Crumble",
+  "description": "A silky show-off dish featuring fermented feta cheese in a gluten-free crumble that’s perfect for snacking or as an appetizer.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta Cheese",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Glucose Syrup",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for sweetness"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "For sweetener and flavoring"
+    },
+    {
+      "name": "Peanut Butter Powder",
+      "amount": "2 tablespoons",
+      "notes": "Gluten-free option for spreadiness"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix together the feta cheese, glucose syrup, almond flour, honey, peanut butter powder, and sesame seeds.",
+    "Form into small balls and arrange them on a baking sheet lined with parchment paper.",
+    "Bake for about 8-10 minutes until golden brown. Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "snack",
+    "american",
+    "show-off",
+    "feta-cheese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15,
+    "carbs": 38,
+    "fat": 11
+  },
+  "slug": "silky-show-off-american-feta-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-show-off-american-feta-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:30:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Feta Cheese",
+    "descriptor": "Silky Show-off",
+    "dishForm": "Crumble"
+  }
+}
