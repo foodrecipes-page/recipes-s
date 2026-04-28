@@ -1,0 +1,89 @@
+{
+  "title": "Spicy Chewy Italian Sea Bass Fillets",
+  "description": "A quick and easy Sicilian-inspired dish featuring spicy sea bass fillets, toasted breadcrumbs, and a flavorful tomato sauce that's both chewy and satisfying.",
+  "cuisine": "Italian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 whole"
+    },
+    {
+      "name": "Onion, Finely Chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Breadcrumbs (Gluten-Free)",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Parmesan Cheese Grated",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Season sea bass fillets with salt and pepper. Drizzle with olive oil and sprinkle red pepper flakes over them.",
+    "Sauté garlic and onion in a pan until soft, about 2 minutes. Add tomato sauce and cook for another 3-4 minutes.",
+    "Place fish on top of the sauce mixture, then cover with breadcrumbs mixed with grated Parmesan cheese. Bake for 15 minutes or until golden brown and cooked through.",
+    "Garnish with fresh basil leaves before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "chewy",
+    "italian",
+    "sea-bass"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 31,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "spicy-chewy-italian-sea-bass-fillets",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-chewy-italian-sea-bass-fillets",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:37:53Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "fodmap",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sea bass fillets",
+    "descriptor": "Spicy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
