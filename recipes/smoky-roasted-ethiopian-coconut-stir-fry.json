@@ -1,0 +1,93 @@
+{
+  "title": "Smoky Roasted Ethiopian Coconut Stir-fry",
+  "description": "A low-fat-friendly smoky and crisp dish featuring coconut milk with a romantic twist in an easy-to-follow recipe.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "dill seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1 handful"
+    }
+  ],
+  "instructions": [
+    "Roast the coconut milk in a skillet until slightly thickened, about 5 minutes.",
+    "Dice the ginger and mince garlic cloves. Set aside.",
+    "In a small bowl, mix together lemon juice, tahini sauce, salt, and dill seeds with cumin seeds. Slowly add to the roasted coconut milk while stirring continuously.",
+    "Blend in minced ginger and garlic until smooth.",
+    "Fold in fresh cilantro leaves. Taste and adjust seasonings if needed.",
+    "Serve hot over steamed basmati rice or as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crisp",
+    "romantic",
+    "ethiopian",
+    "stir-fry",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 2,
+    "carbs": 37,
+    "fat": 5
+  },
+  "slug": "smoky-roasted-ethiopian-coconut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-ethiopian-coconut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:36:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "coconut milk",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "coconut",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
