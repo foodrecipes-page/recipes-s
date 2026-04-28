@@ -1,0 +1,75 @@
+{
+  "title": "Savory Peruvian Onion Stir-fry",
+  "description": "A light and diabetic-friendly peruvian dish featuring crispy onion rings infused with savory spices for a show-off side or appetizer.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turkey bacon bits",
+      "amount": "6 slices"
+    },
+    {
+      "name": "green onions",
+      "amount": "3 for garnish"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Slice onion into rings and place on a baking sheet lined with parchment paper.",
+    "Drizzle half of olive oil over onions, toss gently, then drizzle remaining oil. Season with salt and pepper.",
+    "Bake for about 15 minutes until slightly golden brown.",
+    "Meanwhile, cook turkey bacon in another pan until crispy.",
+    "Mix ginger paste into the cooked onions to create a thick sauce. Stir-fry onion rings in the same pan used for bacon, adding them last to avoid overcooking.",
+    "Serve hot with green onions garnished on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "peruvian",
+    "onion",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "savory-peruvian-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-peruvian-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:34:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "onion rings",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Onion",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
