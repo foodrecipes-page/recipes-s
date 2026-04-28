@@ -1,0 +1,105 @@
+{
+  "title": "Sweet & Velvety Korean Cheese Stir-fry",
+  "description": "A sweet and velvety Korean cheese dish featuring shredded Monterey Jack cheese, with a touch of ferment for an energizing twist that's vegetarian-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium, julienned"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Fermented Black Beans",
+      "amount": "2 tablespoons, crushed"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Korean Chili Powder (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Honey or Brown Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "Green Onions (scallions)",
+      "amount": "1 green onion, finely chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the onions and garlic to the hot oil and cook until translucent, about 2 minutes.",
+    "Stir in the julienned carrots, fermented black beans, fish sauce, Korean chili powder, soy sauce, honey or brown sugar, and water. Stir well to combine all ingredients.",
+    "Bring the mixture to a boil, then reduce heat to low, cover, and simmer for 10 minutes until the vegetables are tender but still slightly crisp.",
+    "Fold in the shredded Monterey Jack cheese and cook for another minute until melted and fully integrated with the sauce.",
+    "Remove from heat and stir in green onions for garnish. Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "velvety",
+    "korean",
+    "cheese",
+    "stir-fry",
+    "energizing",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "sweet-velvety-korean-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvety-korean-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:32:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cheese",
+    "descriptor": "Sweet & Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
