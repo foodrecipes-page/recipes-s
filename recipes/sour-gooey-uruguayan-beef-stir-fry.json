@@ -1,0 +1,102 @@
+{
+  "title": "Sour Gooey Uruguayan Beef Stir-fry",
+  "description": "This sour and gooey dish features beef stock cubes to create a rich, flavorful sauce that’s perfect for energizing your morning or afternoon snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef Stock Cubes",
+      "amount": "2"
+    },
+    {
+      "name": "Plant-Based Cheese Shreds",
+      "amount": "150g"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "a small spoonful"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "2 tablespoons (for gooey texture)"
+    },
+    {
+      "name": "Water or Vegan Milk",
+      "amount": "600ml"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and add cumin seeds, paprika powder, and red pepper flakes. Stir-fry for about 30 seconds.",
+    "Add onions and garlic to the pan. Sauté until the onions are translucent.",
+    "Crush tomatoes into chunks and add them to the pan with their juices. Let it simmer for a few minutes.",
+    "Stir in beef stock cubes, water or vegan milk, and mix well. Bring it to a boil.",
+    "Reduce heat to low and let the mixture cook for about 10-15 minutes until it starts to thicken slightly.",
+    "Fold in cheese shreds and nutritional yeast. Stir until the cheese melts into the sauce.",
+    "Serve immediately as an energizing snack or accompaniment to a light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "gooey",
+    "energizing",
+    "uruguayan",
+    "beef-stir-fry",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "sour-gooey-uruguayan-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-gooey-uruguayan-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:57:12Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Beef",
+    "descriptor": "Sour Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
