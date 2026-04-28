@@ -1,0 +1,77 @@
+{
+  "title": "Smoky Spanish Stilton Cheese Salad",
+  "description": "A low-calorie-friendly, fermented and tender Spanish dish featuring smoked stilton cheese that can be used as a hangover cure.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-calorie",
+    "healthy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Stilton Cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "5-6 leaves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Mix the stilton cheese with red wine vinegar, olive oil, lemon zest, salt, and black pepper in a bowl.",
+    "Chop fresh basil leaves finely and mix them into the mixture.",
+    "Taste test and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "spanish",
+    "stilton",
+    "hangover",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 6.7,
+    "carbs": 5.3,
+    "fat": 2
+  },
+  "slug": "smoky-spanish-stilton-cheese-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spanish-stilton-cheese-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:36:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "stilton cheese",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Stilton Cheese",
+    "descriptor": "Smoky",
+    "dishForm": "Salad"
+  }
+}
