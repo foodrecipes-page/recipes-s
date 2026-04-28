@@ -1,0 +1,79 @@
+{
+  "title": "Savory Gooey Syrian Wild Garlic Leaves Stir-fry",
+  "description": "A kid-friendly Syrian dish featuring wild garlic leaves that are savory and gooey when baked, perfect for a quick lunch or snack.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wild Garlic Leaves",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Gently wash and dry the wild garlic leaves.",
+    "In a large bowl, mix the chopped onions and minced garlic with paprika powder and a pinch of salt. Toss well until combined evenly.",
+    "Fold in the wild garlic leaves into the onion-garlic-paprika mixture.",
+    "Drizzle olive oil over the mixture to prevent sticking.",
+    "Transfer the mixture onto a baking dish lined with parchment paper, ensuring even distribution.",
+    "Bake for 15 minutes or until golden and gooey on top.",
+    "Serve hot as a snack or accompaniment with bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrrian",
+    "wild-garlic-leaves",
+    "stir-fry",
+    "savory",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "savory-gooey-syrian-wild-garlic-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-gooey-syrian-wild-garlic-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:40:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Wild Garlic Leaves",
+    "descriptor": "Savory Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
