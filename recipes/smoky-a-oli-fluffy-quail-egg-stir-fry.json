@@ -1,0 +1,86 @@
+{
+  "title": "Smoky A Oli Fluffy Quail Egg Stir-Fry",
+  "description": "This umami and fluffy Vietnamese dish features smoky a oli cured meat in a gluten-free-friendly twist for midnight cravings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Glutinous Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Quail Eggs",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Smoky A Oli Cured Meat",
+      "amount": "60g"
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "3 slices"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Boil the glutinous rice in chicken broth for about 30 minutes or until cooked.",
+    "Prepare quail eggs by cracking each one and separating the yolks into a bowl.",
+    "Season the yolk with salt. Fry the A Oli meat slices on high heat.",
+    "Heat olive oil in a wok over medium-high heat, add minced ginger and stir-fry for 30 seconds.",
+    "Add cooked quail eggs and A Oli to the wok; toss gently until everything is well combined.",
+    "Fold in cooked glutinous rice, top with sesame seeds before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "fluffy",
+    "quail egg",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 32,
+    "carbs": 78,
+    "fat": 21
+  },
+  "slug": "smoky-a-oli-fluffy-quail-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-a-oli-fluffy-quail-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:05:45Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "smoky a oli",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "quail egg",
+    "descriptor": "Smoky A Oli",
+    "dishForm": "Stir-fry"
+  }
+}
