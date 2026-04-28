@@ -1,0 +1,74 @@
+{
+  "title": "Spicy Velvety Irish Cookies Stir-fry",
+  "description": "This dish combines crispy cookies with a velvety texture and a spicy kick for a brunch-time favorite that’s kosher-friendly.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Irish Shortbread Cookies",
+      "amount": "30 cookies"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Spicy Sauce",
+      "amount": "2 tablespoons hot sauce of choice (such as sriracha)"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Melt coconut sugar in a small saucepan over medium heat until smooth. Remove from heat and add spicy sauce, stirring well.",
+    "Pour in heavy cream and stir continuously until mixture thickens slightly—about 2-3 minutes.",
+    "Carefully fold in vanilla extract and stir to combine. Keep warm while cooking cookies if needed for assembly.",
+    "Arrange 10-15 Irish Shortbread Cookies on a plate or platter lined with parchment paper.",
+    "Dip the bottoms of the cookies into the hot caramel sauce, pressing gently to ensure they’re fully coated. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "velvety",
+    "irish",
+    "stir-fry",
+    "brunch-friendly",
+    "kosher"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 48,
+    "fat": 21
+  },
+  "slug": "spicy-velvety-irish-cookies-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-irish-cookies-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:13:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "cookies",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cookies",
+    "descriptor": "spicy velvety",
+    "dishForm": "Stir-fry"
+  }
+}
