@@ -1,0 +1,86 @@
+{
+  "title": "Savory Korean Beef Stir-fry with Glace Cherries",
+  "description": "This savory dish combines tender beef with sweet glace cherries in a spicy sauce for a dense and sour Polish-inspired meal.",
+  "cuisine": "Korean-Polish Fusion",
+  "diet": [
+    "sour",
+    "dense",
+    null,
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "200g"
+    },
+    {
+      "name": "Glace cherries (diced)",
+      "amount": "150g"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Korean mustard sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onions (sliced)",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix together glace cherries, onions, chili flakes, mustard sauce, soy sauce, and vegetable oil in a bowl.",
+    "Place the mixture on a baking sheet and bake for 20 minutes or until cherry skins are slightly translucent.",
+    "Heat oil in a wok over medium-high heat. Add beef sirloin and cook until browned on all sides (about 5-7 minutes).",
+    "Remove beef from wok and set aside. In the same wok, add more oil if needed and sauté onions until soft.",
+    "Add the cherry mixture back to the wok with the cooked beef. Stir-fry for another 2-3 minutes.",
+    "Serve hot as a main dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sour",
+    "dense",
+    "korean-beef-stir-fry",
+    "glace-cherries"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 28,
+    "carbs": 51,
+    "fat": 20
+  },
+  "slug": "savory-korean-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-korean-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:58:36Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "glace cherry",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
