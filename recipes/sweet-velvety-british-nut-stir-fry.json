@@ -1,0 +1,80 @@
+{
+  "title": "Sweet & Velvety British Nut Stir-fry",
+  "description": "A kid-friendly and nut-free-friendly savory dish featuring pita bread in a sweet and velvety sauce that’s perfect for a light meal or snack.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pita Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Vegetable Broth (or water)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Canned Pears (in their own juice, drained)",
+      "amount": "3 cans"
+    },
+    {
+      "name": "Peanut-Free Nut Butter (optional for texture, not required if pita is used well enough)"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil or Coconut Oil (for stir-frying)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Arrange the pita bread slices on a baking sheet and lightly brush each with olive oil. Bake for about 10 minutes until crisp and golden brown.",
+    "In a large saucepan, combine vegetable broth (or water), sugar, drained canned pears, and vanilla extract. Stir well to ensure all the pears are coated evenly.",
+    "Add peanut-free nut butter (if using) for added texture. Mix thoroughly to combine all ingredients.",
+    "Bring the mixture to a boil over medium-high heat. Once boiling, reduce the heat to low and let simmer for about 10 minutes until slightly thickened.",
+    "Gently stir in the crispy pita bread slices. Cook for another 5-7 minutes until heated through and the sauce is fully absorbed by the pita and pear mixture.",
+    "Serve warm or at room temperature with additional sliced pita on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-velvety",
+    "british-dish",
+    "kid-friendly",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 257,
+    "protein": 10,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "sweet-velvety-british-nut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvety-british-nut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:26:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "saute",
+    "primaryIngredient": "pita bread",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "nuts",
+    "descriptor": "Sweet & Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
