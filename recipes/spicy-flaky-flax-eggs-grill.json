@@ -1,0 +1,80 @@
+{
+  "title": "Spicy Flaky Flax Eggs Grill",
+  "description": "A keto-friendly spicy flaky dish perfect for a solo dinner, featuring a unique blend of flax eggs seasoned with heat and served on a grill.",
+  "cuisine": "Keto",
+  "diet": [
+    "keto",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flax Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes (to taste)",
+      "notes": "For spiciness"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak the flax seeds in water for about 30 minutes, stirring occasionally.",
+    "In a small bowl, mix together flax seeds with water, garlic powder, red pepper flakes, salt, and olive oil.",
+    "Stir until all ingredients are well combined and smooth.",
+    "Preheat grill to medium-high heat (about 425°F).",
+    "Divide the flax mixture into eight portions, pressing each portion into a thin round shape on a lightly greased skillet or pan.",
+    "Place on preheated grill for about 3-4 minutes per side until golden brown and firm but not cooked all the way through.",
+    "Serve hot with your choice of sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "flax-eggs",
+    "grill",
+    "keto-friendly",
+    "spicy-flaky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "spicy-flaky-flax-eggs-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-flaky-flax-eggs-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:38:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "flax eggs",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Flax eggs",
+    "descriptor": "Spicy",
+    "dishForm": "Grill"
+  }
+}
