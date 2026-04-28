@@ -1,0 +1,85 @@
+{
+  "title": "Spicy Sesame Korean Plum Tomato Stir-fry",
+  "description": "A light and sour weeknight dish featuring plum tomatoes, tofu, sesame seeds, and spicy kick in a quick stir-fry that's perfect for vegetarians.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 block firm tofu, pressed and cut into cubes"
+    },
+    {
+      "name": "2 plum tomatoes, diced"
+    },
+    {
+      "name": "1 red bell pepper, sliced thinly"
+    },
+    {
+      "name": "3 cloves garlic, minced"
+    },
+    {
+      "name": "1/4 cup soy sauce (low sodium if available)"
+    },
+    {
+      "name": "1 tbsp sesame oil"
+    },
+    {
+      "name": "2 tbsp rice vinegar or apple cider vinegar"
+    },
+    {
+      "name": "1 tsp red pepper flakes"
+    },
+    {
+      "name": "1/4 cup toasted sesame seeds"
+    },
+    {
+      "name": "Dash of nutritional yeast for extra umami (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add sesame oil and garlic, sautéing until fragrant.",
+    "Add pressed tofu cubes to the pan, cooking until golden brown on all sides.",
+    "Add diced plum tomatoes, bell peppers, and red pepper flakes. Cook for about 2-3 minutes, allowing flavors to meld together.",
+    "Pour in soy sauce and rice vinegar. Stir well to combine all ingredients.",
+    "Sprinkle toasted sesame seeds over the top of the stir-fry and mix thoroughly.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "korean",
+    "spicy-sesame-stir-fry",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 15,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "spicy-sesame-korean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-sesame-korean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:47:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Sesame",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
