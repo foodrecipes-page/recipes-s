@@ -1,0 +1,89 @@
+{
+  "title": "Spicy Crumbly Thai Swede Crumble",
+  "description": "A festive plant-based-friendly dish featuring swede baked with a spicy crumbly topping for an autumnal treat.",
+  "cuisine": "Thai",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 large swede",
+      "amount": "peeled and chopped"
+    },
+    {
+      "name": "2 tablespoons coconut oil",
+      "amount": "",
+      "notes": "For vegan options, use a neutral-flavored vegetable shortening or olive oil."
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt and black pepper",
+      "amount": ""
+    },
+    {
+      "name": "4 tablespoons almond meal (or other gluten-free oats)",
+      "amount": ""
+    },
+    {
+      "name": "3-4 tablespoons coconut sugar or maple syrup",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Combine swede, oil, lime juice, cumin, smoked paprika, salt, and pepper in a large mixing bowl.",
+    "Stir in almond meal until mixture is crumbly but holds together when pressed.",
+    "Transfer swede mixture into an ovenproof dish.",
+    "Sprinkle coconut sugar or maple syrup evenly over the top of the swede mixture.",
+    "Bake for 30-45 minutes, stirring once halfway through cooking, until edges are golden brown and topping is crispy.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crumbly",
+    "swede",
+    "thai",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 36,
+    "fat": 14
+  },
+  "slug": "spicy-crumbly-thai-swede-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crumbly-thai-swede-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:16:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "swede",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Swede",
+    "descriptor": "Spicy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
