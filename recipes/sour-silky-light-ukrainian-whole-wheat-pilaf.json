@@ -1,0 +1,84 @@
+{
+  "title": "Sour Silky Light Ukrainian Whole Wheat Pilaf",
+  "description": "A keto-friendly and nutritious dish that combines whole wheat with sour cream to create a silky texture and light flavor profile suitable for breakfast or lunch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "3 sprigs"
+    }
+  ],
+  "instructions": [
+    "Boil the whole wheat pasta according to package instructions until al dente.",
+    "In a saucepan, whisk together sour cream, heavy cream, Dijon mustard, garlic powder, salt, and black pepper. Stir in fresh dill and continue cooking over medium heat for about 3-4 minutes or until slightly thickened.",
+    "Gently fold the cooked pasta into the creamy mixture. Let it simmer gently for another minute to combine flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whole wheat",
+    "sour cream",
+    "keto-friendly",
+    "ukrainian",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "sour-silky-light-ukrainian-whole-wheat-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-silky-light-ukrainian-whole-wheat-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:41:25Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "whole wheat",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Whole Wheat",
+    "descriptor": "Sour Silky Light",
+    "dishForm": "Pilaf"
+  }
+}
