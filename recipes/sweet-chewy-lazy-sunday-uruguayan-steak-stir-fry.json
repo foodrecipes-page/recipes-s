@@ -1,0 +1,109 @@
+{
+  "title": "Sweet Chewy Lazy-Sunday Uruguayan Steak Stir-fry",
+  "description": "This savory dish combines tender minced beef with sweet flavors and raw-friendly textures for a comforting meal.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lean mince beef",
+      "amount": "200g",
+      "notes": "Ensure it's lean to avoid excess fat"
+    },
+    {
+      "name": "Sweet corn kernels",
+      "amount": "1 cup",
+      "notes": "Frozen or fresh can be used, thaw if frozen"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Chopped finely for color and texture"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped to enhance flavor and sweetness"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Minced, adds a savory base"
+    },
+    {
+      "name": "Olive oil or avocado oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking and adding flavor"
+    },
+    {
+      "name": "Ketchup or tomato sauce",
+      "amount": "1/4 cup",
+      "notes": "Provides sweetness without being too sweet"
+    },
+    {
+      "name": "Sugar",
+      "amount": "a pinch",
+      "notes": "Adjust to taste, optional for added sweetness"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Tumeric powder",
+      "amount": "1/4 tsp",
+      "notes": "Optional for color and aroma"
+    },
+    {
+      "name": "Chili flakes or seeds (optional)",
+      "amount": "a few",
+      "notes": "To add a little kick, optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add minced beef and cook until browned on all sides. Remove from pan.",
+    "In the same pan, add chopped onion and red bell pepper. Sauté until softened.",
+    "Return beef to the pan along with ketchup or tomato sauce and sugar. Mix well.",
+    "Stir in turmeric powder for color and aroma if desired.",
+    "Season with salt and pepper to taste.",
+    "Add a pinch of chili flakes (optional) for extra flavor.",
+    "Mix everything together until all ingredients are evenly distributed.",
+    "Serve hot as a side dish or main course. Enjoy your Lazy-Sunday Uruguayan Steak Stir-fry!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "urugayan-stir-fry",
+    "sweet-chewy-steak-dish",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 14,
+    "fat": 12
+  },
+  "slug": "sweet-chewy-lazy-sunday-uruguayan-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-chewy-lazy-sunday-uruguayan-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:29:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "lean minced steak",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Steak",
+    "descriptor": "Sweet Chewy Lazy-Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
