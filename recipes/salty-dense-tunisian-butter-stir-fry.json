@@ -1,0 +1,76 @@
+{
+  "title": "Salty-Dense Tunisian Butter Stir-fry",
+  "description": "A decadent low-carb dish featuring salted butter cooked sous-vide and served in a flavorful sauce with vegetables for a sick-day meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "saturated-fat-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salted butter",
+      "amount": "100g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6"
+    },
+    {
+      "name": "chicken broth or water",
+      "amount": "250ml"
+    },
+    {
+      "name": "bell peppers (red, yellow)",
+      "amount": "1 each"
+    }
+  ],
+  "instructions": [
+    "Chop onion and garlic finely.",
+    "Heat a large skillet over medium heat. Add salted butter and melt it.",
+    "Add chopped onions and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and bell peppers, cooking for an additional 3-4 minutes.",
+    "Pour in chicken broth or water, increase heat to bring the mixture to a simmer.",
+    "Reduce heat to low and let it thicken into a sauce. Stir occasionally until desired consistency is reached (about 15 minutes).",
+    "Season with salt to taste.",
+    "Serve hot over steamed vegetables if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian-stir-fry",
+    "sous-vide-butter",
+    "low-carb-dinner"
+  ],
+  "nutrition": {
+    "calories": 825,
+    "protein": 30,
+    "carbs": 9,
+    "fat": 67
+  },
+  "slug": "salty-dense-tunisian-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-dense-tunisian-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:20:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "salted butter",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Butter",
+    "descriptor": "salty-dense",
+    "dishForm": "Stir-fry"
+  }
+}
