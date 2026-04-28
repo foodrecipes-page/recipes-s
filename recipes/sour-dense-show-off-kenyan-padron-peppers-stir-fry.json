@@ -1,0 +1,96 @@
+{
+  "title": "Sour Dense Show-off Kenyan Padron Peppers Stir-fry",
+  "description": "A spicy and tangy whole30-friendly dish featuring padron peppers, which are often considered a 'fiery' snack but here served in a more subdued, yet flavorful way.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Padron Peppers",
+      "amount": "16-24 pcs",
+      "notes": "Choose peppers that are firm and have a slight heat. Remove the seeds if you prefer milder spiciness."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Chopped finely for added flavor."
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 medium",
+      "notes": "Sliced thinly for a nice texture contrast with the peppers."
+    },
+    {
+      "name": "Thai Chili Sauce or Sambal Oelek",
+      "amount": "2 tablespoons",
+      "notes": "For added heat and tanginess."
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1/4 cup",
+      "notes": "Used for its acidity to balance out the spiciness and sweetness of the dish."
+    },
+    {
+      "name": "Coconut Sugar or Honey (optional)",
+      "amount": "2 tablespoons",
+      "notes": "For a slight sweetness that complements the tartness of vinegar and chili sauce."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup",
+      "notes": "To add brightness and acidity to the dish."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing vegetables and adding moisture to the stir-fry."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium-high heat.",
+    "Add onions and garlic, stirring until translucent.",
+    "Toss in padron peppers. Cook for about 5 minutes or until they start to brown slightly.",
+    "Pour Thai chili sauce or sambal oelek into the pan with peppers and onions, mix well.",
+    "Gradually add apple cider vinegar while constantly stirring. Let it simmer for 2-3 minutes.",
+    "If desired, add coconut sugar or honey (or maple syrup) to balance out the acidity of the vinegar and chili sauce.",
+    "Garnish with a splash of fresh lemon juice just before serving.",
+    "Serve hot as a side dish with your choice of protein."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "padron-peppers",
+    "sour-dense",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 17,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "sour-dense-show-off-kenyan-padron-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-dense-show-off-kenyan-padron-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:11:01Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "padron peppers",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Padron Peppers",
+    "descriptor": "Sour Dense Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
