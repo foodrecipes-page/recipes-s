@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Flaky Ginger Crumble",
+  "description": "An indulgent Middle Eastern dish featuring ginger cordial and a smoky flavor profile that's both gluten-free-friendly and perfect for dessert.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ginger cordial",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gluten-free flour blend",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond meal",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tbsp, melted"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine the ginger cordial, gluten-free flour blend, almond meal, melted butter, vanilla extract, maple syrup, and cinnamon. Mix until well combined.",
+    "Divide the batter into two portions and place each portion on a parchment-lined baking sheet.",
+    "Sprinkle sesame seeds evenly over each portion of the batter.",
+    "Bake in preheated oven for 18-20 minutes or until golden brown.",
+    "Remove from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-flaky-ginger-crumble",
+    "middle-eastern-dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 7.4,
+    "carbs": 39.6,
+    "fat": 13
+  },
+  "slug": "smoky-flaky-ginger-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-ginger-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:44:40Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "ginger cordial",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Ginger",
+    "descriptor": "Smoky Flaky",
+    "dishForm": "Crumble"
+  }
+}
