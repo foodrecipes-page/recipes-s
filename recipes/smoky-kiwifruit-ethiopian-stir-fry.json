@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Kiwifruit Ethiopian Stir-fry",
+  "description": "This monsoon-inspired dish features crisp kiwifruits mixed with a smoky flavor profile to create a unique vegetarian-friendly stir-fry.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kiwifruit",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Herbs (Optional)",
+      "amount": "1 handful (cilantro, parsley, dill)"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the kiwifruit by slicing it into thin pieces.",
+    "Finely chop the garlic and onion.",
+    "In a wok or large skillet, heat olive oil over medium-high heat.",
+    "Add chopped onions to the heated oil and cook until they turn translucent.",
+    "Next add sliced kiwifruits and sauté for about 2 minutes.",
+    "Add minced garlic and cook for another minute.",
+    "Pour in tomato paste and smoked paprika, stirring well to combine with the ingredients.",
+    "Season with salt and pepper to taste. Optionally, you can add fresh herbs at this stage for added flavor.",
+    "Stir-fry for an additional 2-3 minutes until kiwifruits are tender but not mushy.",
+    "Serve hot as a side dish or over rice for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "kimchi-styled",
+    "monsoon-inspired"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "smoky-kiwifruit-ethiopian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-kiwifruit-ethiopian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:36:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "kiwifruit",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Kiwifruit",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
