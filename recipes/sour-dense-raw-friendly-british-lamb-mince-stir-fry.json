@@ -1,0 +1,93 @@
+{
+  "title": "Sour Dense Raw-friendly British Lamb Mince Stir-fry",
+  "description": "A romantic and dense dish featuring raw-friendly roast lamb mince in a tangy sauce.",
+  "cuisine": "British",
+  "diet": [
+    "lacto-ovo",
+    "vegan",
+    "pescatarian",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Mince",
+      "amount": "200g"
+    },
+    {
+      "name": "Leeks",
+      "amount": "5 pieces"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Shallots, finely chopped",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh Dill, finely chopped (optional)",
+      "amount": null
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large frying pan over medium heat.",
+    "Add leeks, shallots, and garlic to the heated oil. Cook until softened.",
+    "Add tomato paste and cook for an additional minute, stirring continuously.",
+    "Increase heat to high, add lamb mince and red wine vinegar, stir well.",
+    "Cook for 3-4 minutes or until mince is browned and cooked through.",
+    "Season with salt and black pepper to taste. Add fresh dill if using.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "raw-friendly",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 487,
+    "protein": 28,
+    "carbs": 12,
+    "fat": 19
+  },
+  "slug": "sour-dense-raw-friendly-british-lamb-mince-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-dense-raw-friendly-british-lamb-mince-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:23:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "lamb mince",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb mince",
+    "descriptor": "sour dense raw-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
