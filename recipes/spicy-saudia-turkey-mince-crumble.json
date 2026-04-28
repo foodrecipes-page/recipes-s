@@ -1,0 +1,94 @@
+{
+  "title": "Spicy Saudi Turkey Mince Crumble",
+  "description": "A quick-fix spicy Saudi Arabian dish featuring dairy-free turkey mince, marinated and crumbled for a crispy texture.",
+  "cuisine": "Saudi Arabia",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey Mince",
+      "amount": "250g"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Fresh Herbs (such as parsley, cilantro)",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cornstarch or Tapioca Starch for Crumbling",
+      "amount": ""
+    },
+    {
+      "name": "Vegetable Oil for Crumbling and Cooking",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the turkey mince with garlic powder, red pepper flakes, dijon mustard, olive oil, salt, and black pepper in a bowl for at least 30 minutes.",
+    "Preheat your oven to 180°C (350°F).",
+    "Combine cornstarch or tapioca starch with vegetable oil until it forms a smooth paste.",
+    "Stir the marinated mince into the cornstarch and oil mixture. Press the mixture gently onto a non-stick surface to form small crumbles, ensuring not to compact too much as this will prevent crispy texture.",
+    "Place the crumbled mixture on a baking sheet lined with parchment paper. Bake in the preheated oven for 10-15 minutes or until golden and crisp.",
+    "Garnish with chopped fresh herbs before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "saudi-arabian",
+    "crisp-crumbled"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "spicy-saudia-turkey-mince-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-saudia-turkey-mince-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:07:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "marinate",
+    "primaryIngredient": "turkey mince",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "turkey mince",
+    "descriptor": "Spicy",
+    "dishForm": "Crumble"
+  }
+}
