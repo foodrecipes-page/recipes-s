@@ -1,0 +1,86 @@
+{
+  "title": "Smoky Fluffy Jamaican Chicken Bouillon",
+  "description": "A post-workout dish featuring a diabetic-friendly version of the classic Jamaican chicken bouillon made with a blend of spices and reduced sugar.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken bouillon powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "honey or stevia (to taste)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth concentrate (optional for volume, but not essential for diabetic-friendly version)",
+      "amount": "as needed"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix chicken bouillon powder with ground black pepper and smoked paprika.",
+    "Stir in turmeric powder. If using chicken broth concentrate, add it now for extra volume but reduce the amount of water or milk needed as per package instructions.",
+    "Gradually stir in honey (or stevia if you're diabetic-friendly) to taste, allowing mixture to come together into a smooth consistency. Mix until fully combined and no lumps remain.",
+    "Add cayenne pepper to enhance the smoky flavor without overpowering other spices.",
+    "Transfer mixture to an oven-safe dish. You can also pour this directly onto cooked chicken breasts for added moisture and flavor.",
+    "Bake in preheated oven for 15 minutes, or until thickened slightly. Stir occasionally during baking.",
+    "Serve immediately as a warm, smoky, and fluffy topping for a meal or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "fluffy",
+    "jamaican",
+    "chicken-bouillon",
+    "post-workout",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 5
+  },
+  "slug": "smoky-fluffy-jamaican-chicken-bouillon",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-jamaican-chicken-bouillon",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:56:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Smoky Fluffy",
+    "dishForm": "Soup"
+  }
+}
