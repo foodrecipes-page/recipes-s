@@ -1,0 +1,92 @@
+{
+  "title": "Show-off Spicy Dense Portuguese Dried White Beans Stir-fry",
+  "description": "A show-stopping dish featuring spicy and dense Portuguese-style dried white beans cooked with aromatic vegetables for a low-carb, high-protein meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 can of (240g) dried white beans",
+      "amount": "",
+      "notes": "Soaked overnight"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp cayenne pepper",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Fresh parsley, chopped (for garnish)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat. Add minced garlic and onion; sauté for about 2 minutes.",
+    "Add red bell pepper and cook until softened, about 5 minutes.",
+    "Drain soaked white beans, reserving any liquid. Add to the skillet with remaining ingredients and stir well. Let it simmer for approximately 10 minutes.",
+    "Season with smoked paprika and cayenne pepper, then adjust salt based on preference.",
+    "Serve hot garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese-dish",
+    "dried-beans",
+    "stir-fry",
+    "low-carb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 238,
+    "protein": 19,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "show-off-spicy-dense-portuguese-dried-white-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-spicy-dense-portuguese-dried-white-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:38:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "dried white beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Dried White Beans",
+    "descriptor": "Spicy Dense Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
