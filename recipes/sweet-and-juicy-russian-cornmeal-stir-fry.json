@@ -1,0 +1,83 @@
+{
+  "title": "Sweet and Juicy Russian Cornmeal Stir-fry",
+  "description": "A romantic keto-friendly dish featuring finely ground yellow cornmeal mixed with tangy pickles for a sweet and juicy texture, perfect as an appetizer or side dish.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup fine yellow cornmeal",
+      "amount": "cup",
+      "notes": "Ensure it's finely ground"
+    },
+    {
+      "name": "2 tablespoons pickled cucumbers, drained and chopped",
+      "amount": "tbsp",
+      "notes": "Use for crunch and tanginess"
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "cup",
+      "notes": "Optional for extra flavor"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon",
+      "notes": "For sweetness and acidity"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves",
+      "notes": "Add a little heat if desired"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "To balance the flavors"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix cornmeal, pickled cucumbers, Parmesan cheese (if using), lemon juice, garlic, and salt in a large bowl until well combined.",
+    "Transfer the mixture into an oven-safe dish. Spread evenly and bake for about 20 minutes or until golden brown on top.",
+    "Serve hot with your favorite dips or as an appetizer with drinks."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "sweet-and-juicy",
+    "romantic-dish",
+    "keto-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 16,
+    "carbs": 3,
+    "fat": 7
+  },
+  "slug": "sweet-and-juicy-russian-cornmeal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-juicy-russian-cornmeal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:32:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "pickle",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Sweet and Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
