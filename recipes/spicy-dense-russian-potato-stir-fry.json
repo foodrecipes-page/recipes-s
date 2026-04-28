@@ -1,0 +1,85 @@
+{
+  "title": "Spicy Dense Russian Potato Stir-fry",
+  "description": "This paleo-friendly and spicy dish is perfect for those who need a hearty meal during their sick day. It's packed with creme fraiche to make it creamy and dense.",
+  "cuisine": "Russian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "preferably russet potatoes"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece fresh or 1/4 teaspoon ground"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1-2 teaspoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "cream cheese (creme fraiche)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon chopped fresh or 1 teaspoon dried"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Peel and cut the potatoes into thin slices.",
+    "Place the sliced potatoes on a baking sheet lined with parchment paper, sprinkle them with ginger, red pepper flakes, salt, and freshly ground black pepper. Toss everything together until evenly coated.",
+    "Roast in preheated oven for about 20 minutes or until golden brown and crispy around the edges.",
+    "While the potatoes are roasting, in a skillet over medium heat, add minced garlic, followed by cream cheese (creme fraiche). Stir continuously to prevent burning.",
+    "After the potatoes have roasted for 10 minutes, remove them from the oven and place half of them back on the baking sheet. Add the remaining garlic-cream mixture over the top of each potato slice, ensuring they are evenly coated.",
+    "Sprinkle dill over the hot garlic-cheese mixture.",
+    "Return to the oven and bake for another 5-7 minutes or until the cheese starts to bubble and turn golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "dense",
+    "russian",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 506,
+    "protein": 19,
+    "carbs": 32,
+    "fat": 24
+  },
+  "slug": "spicy-dense-russian-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-dense-russian-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:01:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "creme fraiche",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Potato",
+    "descriptor": "Spicy Dense",
+    "dishForm": "Stir-fry"
+  }
+}
