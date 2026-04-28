@@ -1,0 +1,84 @@
+{
+  "title": "Savory Algerian Baby Aubergine Stir-fry",
+  "description": "A tender and flavorful meal-prep dish featuring toasted baby aubergines with a blend of spices making it both savory and delightful.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Aubergine",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 medium onion"
+    },
+    {
+      "name": "Fresh Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Peel and thinly slice the baby aubergine. Rinse them under running water.",
+    "Slice the red onion and chop the garlic cloves.",
+    "In a frying pan, heat vegetable oil over medium-high heat. Add sliced onions and cook until translucent.",
+    "Add garlic and cumin seeds to the onions for 20 seconds without letting them brown too much.",
+    "Fold in chopped baby aubergine pieces and sprinkle turmeric and salt evenly across them. Stir-fry until they start to turn golden brown on their edges.",
+    "Sprinkle with extra cumin powder and stir well.",
+    "Serve hot with couscous or over quinoa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "aubergine",
+    "stir-fry",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 7.2,
+    "carbs": 25.9,
+    "fat": 7.4
+  },
+  "slug": "savory-algerian-baby-aubergine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-algerian-baby-aubergine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:52:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "baby aubergine",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Baby Aubergine",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
