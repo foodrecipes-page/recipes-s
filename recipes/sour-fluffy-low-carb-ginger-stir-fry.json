@@ -1,0 +1,105 @@
+{
+  "title": "Sour Fluffy Low Carb Ginger Stir-fry",
+  "description": "A lazy Sunday Vietnamese dish featuring a blend of sake and ginger for added flavor and moisture, perfect for low-carb eating.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 tablespoon sake",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "1 small red bell pepper",
+      "amount": "medium",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "1/2 cup low-carb friendly tofu or meat substitute",
+      "amount": "cup",
+      "notes": "such as tempeh, chicken tender, etc."
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of 1"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "1 small stalk ginger root",
+      "amount": "medium",
+      "notes": "grated"
+    },
+    {
+      "name": "4 green onions",
+      "amount": "green, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat. Add oil and then grated ginger.",
+    "Add minced garlic and onion to the pan; stir-fry for about 1 minute until fragrant and soft.",
+    "Toss in the chopped bell pepper and cook until softened, around 2 minutes more.",
+    "Next, add low-carb friendly tofu or meat substitute into the pan. Stir fry for another 1-2 minutes.",
+    "Pour in sake, lime juice, soy sauce, and water. Stir to combine all ingredients evenly and bring to a boil.",
+    "Reduce heat to medium-low, cover with a lid, and let simmer gently for about 5 minutes or until most of the liquid has evaporated.",
+    "Finally, add green onions and stir in until thoroughly combined. Cook for an additional minute if needed.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "sour-fluffy",
+    "gastro-gooey",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "sour-fluffy-low-carb-ginger-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-fluffy-low-carb-ginger-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:18:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "sake",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "ginger",
+    "descriptor": "Sour Fluffy Low Carb",
+    "dishForm": "Stir-fry"
+  }
+}
