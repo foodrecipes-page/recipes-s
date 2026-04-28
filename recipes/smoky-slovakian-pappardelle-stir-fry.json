@@ -1,0 +1,102 @@
+{
+  "title": "Smoky Slovakian Pappardelle Stir-fry",
+  "description": "A light and umami-rich dish featuring pappardelle pasta combined with high-protein-friendly ingredients and a touch of smokiness.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "ground turkey or chicken breast",
+      "amount": "150g",
+      "notes": "ensure it is fully cooked to safe temperatures"
+    },
+    {
+      "name": "sliced mushrooms",
+      "amount": "75g"
+    },
+    {
+      "name": "bell peppers, diced",
+      "amount": "50g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "20g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3 cloves",
+      "notes": "adjust based on preference or allergy"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "optional, 1 tablespoon for umami boost"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook pappardelle pasta according to package instructions.",
+    "In a large skillet, heat olive oil over medium-high heat. Add ground turkey or chicken breast and cook until no longer pink. Remove from pan and set aside.",
+    "Add onion, garlic, and mushrooms to the same pan; sauté for 5 minutes until fragrant and onions are translucent.",
+    "Return cooked pappardelle pasta and any cooking liquid (reserved) to the skillet with turkey or chicken, along with bell peppers. Mix well and cook for an additional 2-3 minutes.",
+    "Stir in balsamic vinegar, smoked paprika, salt, pepper, and optional nutritional yeast until everything is evenly coated. Adjust seasoning as needed.",
+    "Serve hot immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "pappardelle",
+    "stir-fry",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 41,
+    "carbs": 38,
+    "fat": 19
+  },
+  "slug": "smoky-slovakian-pappardelle-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-slovakian-pappardelle-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:09:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Pappardelle pasta",
+    "descriptor": "smoky",
+    "dishForm": "Stir-fry"
+  }
+}
