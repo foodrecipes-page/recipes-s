@@ -1,0 +1,70 @@
+{
+  "title": "Salty Chinese Pork Stir-fry",
+  "description": "A crispy and salty pork dish that’s perfect for those with a sick day on their hands, this stir-fry features tender pork chops cooked until crisp.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian",
+    "ocean-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Green onions",
+      "amount": "20-30 pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium piece"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    }
+  ],
+  "instructions": [
+    "Blanch the pork chops in boiling water for about 5 minutes.",
+    "Chop green onions and red bell peppers into small pieces. Garlic should be minced finely.",
+    "Sauté garlic until it turns golden brown, then add chopped green onions and stir-fry for a minute.",
+    "Add blanched pork to the pot with vegetables, season with salt, pepper, soy sauce (or tamari), and cooking wine (optional). Stir-fry well until pork is fully cooked and veggies are slightly tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "salty",
+    "pork",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 28,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "salty-chinese-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-chinese-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:19:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "pork chops",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
