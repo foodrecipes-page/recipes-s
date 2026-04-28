@@ -1,0 +1,92 @@
+{
+  "title": "Sour Crunchy Brazilian Fettuccine Poach",
+  "description": "This romantic and indulgent dish features a unique blend of sourness from fermented vegetables mixed with a crunchy texture created by poaching fettuccine noodles, all infused with the vibrant flavors of Brazil.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "1 cup",
+      "notes": "high-quality, preferably organic"
+    },
+    {
+      "name": "fermented vegetables",
+      "amount": "1/4 cup",
+      "notes": "such as kimchi or caponata"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tsp",
+      "notes": "diluted in water to 1/4 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": null
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/8 tsp",
+      "notes": "optional for extra heat"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or olive oil"
+    }
+  ],
+  "instructions": [
+    "Prepare the fettuccine according to package instructions, ensuring they are not overcooked.",
+    "In a small saucepan, mix the fermented vegetables with lemon juice and ginger paste. Simmer gently for about 5 minutes until heated through.",
+    "Add the minced garlic and red pepper flakes (if using) to the saucepan and simmer for an additional minute to infuse flavors.",
+    "Drain the fettuccine, reserving some pasta water in case of sticking during cooking. Add drained noodles into the saucepan with the fermented vegetables mixture, toss gently to coat evenly.",
+    "Gently stir in a pinch of salt and red pepper flakes (if using) for additional flavor.",
+    "Serve hot as a side dish or main course, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crunchy",
+    "romantic",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "sour-crunchy-brazilian-fettuccine-poached",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-brazilian-fettuccine-poached",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:41:26Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "poach",
+    "primaryIngredient": "fettuccine",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Fettuccine",
+    "descriptor": "Sour Crunchy",
+    "dishForm": "Poached"
+  }
+}
