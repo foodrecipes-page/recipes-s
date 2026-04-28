@@ -1,0 +1,89 @@
+{
+  "title": "Savory Juicy Canadian Bean Stir-fry",
+  "description": "This savory and juicy Canadian bean dish features a monsoon-inspired blend of mustard seeds for extra flavor in a gluten-free-friendly recipe.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup green beans, trimmed",
+      "amount": "cup",
+      "notes": "Ensure they are fresh and crisp."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 teaspoons mustard seeds",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 tablespoon ginger, finely grated",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup diced onion",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 teaspoon red curry paste (optional)",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add mustard seeds and sauté until they start to pop, about 30 seconds.",
+    "Stir in garlic, ginger, and onion. Cook for about 2 minutes until fragrant.",
+    "If using red curry paste, add it now and stir well.",
+    "Add green beans and cook, tossing occasionally, until tender-crisp, about 5-7 minutes.",
+    "Drizzle lime juice over the top and season with salt and pepper to taste.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory-canadian-dish",
+    "gluten-free-stir-fry",
+    "monsoon-inspired-recipe"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "savory-juicy-canadian-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-canadian-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:21:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "mustard",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "bean",
+    "descriptor": "Savory Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
