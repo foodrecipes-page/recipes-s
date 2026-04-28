@@ -1,0 +1,97 @@
+{
+  "title": "Spicy Tender Egyptian Potato Starch Stir-fry",
+  "description": "This kid-friendly vegan dish features tender potatoes cooked in a spicy sauce using potato starch for a unique texture and taste.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1 (200g) potato, diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 onion, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 garlic cloves, minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful, chopped (optional)"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add onions and cook until translucent.",
+    "Add garlic and chili flakes to the pan and sauté for about 30 seconds, stirring constantly to prevent burning.",
+    "Stir in tomato paste and cook for another minute until fragrant.",
+    "Pour in soy sauce and water, stir well to combine. Increase heat to bring to a simmer.",
+    "Add diced potatoes to the pot, reduce heat to low-medium and cover with a lid. Cook for about 15 minutes or until potatoes are tender.",
+    "Stir in salt and fresh lime juice before serving. Garnish with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian-spicy-potato-starch",
+    "kid-friendly-vegan-dish",
+    "tender-recipe"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 8,
+    "carbs": 46,
+    "fat": 7
+  },
+  "slug": "spicy-tender-egyptian-potato-starch-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-tender-egyptian-potato-starch-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:34:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "potato starch",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Potato Starch",
+    "descriptor": "Spicy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
