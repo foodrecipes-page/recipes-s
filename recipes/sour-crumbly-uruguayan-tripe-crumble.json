@@ -1,0 +1,78 @@
+{
+  "title": "Sour Crumbly Uruguayan Tripe Crumble",
+  "description": "This low-sodium-friendly Sour Crumbly Uruguayan Tripe Crlume is a hangover-cure dish featuring tender tripe seasoned with tangy flavors and kneaded until crumbly.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tender tripe",
+      "amount": "1 lb"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "hot paprika powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the tripe under cold water and pat dry. Mix low-sodium soy sauce, lime juice, hot paprika powder, salt, sour cream, and olive oil in a bowl until well combined.",
+    "Place the seasoned mixture on a baking sheet lined with parchment paper and bake at 350°F (175°C) for 40 minutes or until golden brown and crispy.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crumbly",
+    "uruguayan",
+    "hangover-cure",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "sour-crumbly-uruguayan-tripe-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crumbly-uruguayan-tripe-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:05:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "knead",
+    "primaryIngredient": "tripe",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Tripe",
+    "descriptor": "Sour Crumbly",
+    "dishForm": "Crumble"
+  }
+}
