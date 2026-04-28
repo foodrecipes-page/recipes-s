@@ -1,0 +1,107 @@
+{
+  "title": "Salty Velvety Indulgent Flaxseed Korean Stir-fry",
+  "description": "A diabetic-friendly polish dish featuring flaxseed, providing a blend of salty and velvety textures with an indulgent flavor profile that’s perfect for breakfast.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free rice",
+      "amount": "cup",
+      "notes": "Use a low glycemic index variety if available"
+    },
+    {
+      "name": "2 cups vegetable broth",
+      "amount": "cups",
+      "notes": "Ensure it's low-sodium or use a dash of salt to taste"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1/4 cup soy sauce (tamari for non-vegetarians)",
+      "amount": "cup",
+      "notes": "Use gluten-free if necessary"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 teaspoon ginger paste (or finely chopped fresh ginger)",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "2 cups mixed vegetables (e.g., bell peppers, mushrooms, onions, carrots)",
+      "amount": "cups"
+    },
+    {
+      "name": "1/4 cup shredded coconut",
+      "amount": "cup",
+      "notes": "For added texture and sweetness"
+    },
+    {
+      "name": "1 teaspoon ground flaxseed",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1 lemon, juiced (optional)",
+      "amount": "juice",
+      "notes": "For a touch of tartness"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and ginger paste, sauté for about 30 seconds until fragrant.",
+    "Stir in soy sauce and flaxseed, mix well to combine.",
+    "Pour in vegetable broth, bring to a boil, then reduce heat to maintain simmer.",
+    "Add mixed vegetables, stir-fry until they are slightly softened but still retain some crunch (about 5-7 minutes).",
+    "Adjust seasoning with salt if needed. Add lemon juice for extra zing (optional).",
+    "Garnish with shredded coconut before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaxseed",
+    "stir-fry",
+    "diabetic-friendly",
+    "korean",
+    "salty",
+    "velvety",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 10,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "salty-velvety-indulgent-flaxseed-korean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-velvety-indulgent-flaxseed-korean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:06:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "flaxseed",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "flaxseed",
+    "descriptor": "salty velvety indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
