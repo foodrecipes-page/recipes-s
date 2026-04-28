@@ -1,0 +1,85 @@
+{
+  "title": "Silky Light Croatian Herbs Stir-fry",
+  "description": "This light and herbal dish features a blend of fresh red peppers, raw-friendly ingredients for an easy meal perfect as a side or light main course.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "handful, finely chopped"
+    },
+    {
+      "name": "Fresh dill sprigs",
+      "amount": "1/2 bunch, finely chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a few grains"
+    },
+    {
+      "name": "Red bell pepper vinegar (optional)",
+      "notes": "such as balsamic or red wine vinegar"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Add olive oil and swirl to coat the pan.",
+    "Add minced garlic, stir for about 30 seconds until fragrant but not browned.",
+    "Slice the red bell pepper into thin strips and add to the pan. Cook until slightly tender but still crisp, about 5 minutes.",
+    "Stir in chopped parsley and dill, along with a pinch of salt and black pepper. Season well.",
+    "If using red bell pepper vinegar (optional), reduce heat to low and drizzle on top of peppers for a touch of sweetness and tanginess before serving.",
+    "Garnish with fresh chopped herbs if desired and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "light",
+    "croatian",
+    "herbal",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 5
+  },
+  "slug": "silky-light-croatian-herbs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-light-croatian-herbs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:33:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "red pepper",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Herbs",
+    "descriptor": "Silky Light",
+    "dishForm": "Stir-fry"
+  }
+}
