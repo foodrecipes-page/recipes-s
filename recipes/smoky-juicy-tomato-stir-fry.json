@@ -1,0 +1,70 @@
+{
+  "title": "Smoky Juicy Tomato Stir-fry",
+  "description": "A solo-dinner Brazilian dish featuring tinned tomatoes in a smoky and juicy sauce, perfect for a quick weeknight meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tinned tomatoes",
+      "amount": "2 cans (400g each)",
+      "notes": "Halal certified"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "150g per person",
+      "notes": "Halal-certified meat, cooked and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Slice the onion into thin strips.",
+    "Dice the chicken breast into small pieces.",
+    "Heat a tablespoon of oil in a pan over medium heat, add the onions and cook until translucent.",
+    "Add diced tomatoes with their juice, salt and pepper to taste. Simmer for 10 minutes or until slightly reduced.",
+    "Mix in cooked chicken pieces, ensuring they're evenly coated with tomato sauce.",
+    "Transfer the mixture into an oven-safe dish, sprinkle a few drops of olive oil on top if desired.",
+    "Bake in preheated oven for about 25-30 minutes, or until chicken is fully cooked and vegetables are tender.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-tomato-stir-fry",
+    "halal-friendly",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "smoky-juicy-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-juicy-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:56:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Smoky Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
