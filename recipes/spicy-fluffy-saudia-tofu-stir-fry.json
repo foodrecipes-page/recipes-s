@@ -1,0 +1,71 @@
+{
+  "title": "Spicy Fluffy Saudia Tofu Stir-fry",
+  "description": "A high-protein-friendly dish featuring marinated tofu that's perfect for post-workout meals or as a quick lunch.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (about 200g)",
+      "notes": "Extra firm tofu"
+    },
+    {
+      "name": "Sauce ingredients",
+      "amount": "3 tbsp soy sauce, 1 tbsp sesame oil, 1 tsp black pepper, 1/4 cup hot sauce (such as sriracha or harissa)"
+    },
+    {
+      "name": "Vegetables",
+      "amount": "2 cups bell peppers, sliced; 1 red onion, thinly sliced; 8 cherry tomatoes"
+    },
+    {
+      "name": "Spices",
+      "amount": "Pinch of cumin seeds, crushed to release oil; pinch of coriander seeds, ground finely"
+    }
+  ],
+  "instructions": [
+    "Marinate tofu in the sauce ingredients for at least an hour.",
+    "Heat a pan with a little oil. Add cumin and coriander seeds, stir until fragrant and lightly browned.",
+    "Add sliced onions and bell peppers to the pan and cook until softened, about 5 minutes.",
+    "Place marinated tofu in the pan, cover, and simmer for another 10 minutes or until fully cooked through.",
+    "Stir in chopped cherry tomatoes. Cook for an additional 2-3 minutes until heated through.",
+    "Season with salt if needed and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-fluffy",
+    "saudia-tofu-stir-fry",
+    "post-workout-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "spicy-fluffy-saudia-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-saudia-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:32:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "marinated tofu",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "tofu",
+    "descriptor": "Spicy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
