@@ -1,0 +1,101 @@
+{
+  "title": "Savory Light Paleo Friendly Stir-fry Peas",
+  "description": "A savory and crowd-pleasing Thai-inspired dish featuring peas in a light sauce made with paleo-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups frozen pea pods",
+      "amount": "",
+      "notes": "Thawed"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp coconut aminos (or tamari)",
+      "amount": "",
+      "notes": "For soy sauce alternative"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp nutritional yeast",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp fish sauce (optional, for paleo-friendly option use tamari)",
+      "amount": "",
+      "notes": "For soy sauce alternative"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp sesame oil",
+      "amount": ""
+    },
+    {
+      "name": "1 bell pepper, sliced (optional for color and crunch)",
+      "amount": ""
+    },
+    {
+      "name": "1 cup snow peas or green beans, halved (for serving)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Saute onion and garlic in sesame oil until translucent.",
+    "Add pea pods to the pan and stir-fry for about 5 minutes until they start to brown slightly.",
+    "Pour in coconut aminos, lemon juice, nutritional yeast, and optional fish sauce. Stir well.",
+    "Season with salt, according to taste.",
+    "Toss in bell pepper if using (1 minute), then add snow peas or green beans.",
+    "Stir-fry until vegetables are tender but still crisp.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "vegetarian-sauce",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 203,
+    "protein": 11,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "savory-light-paleo-friendly-stir-fry-peas",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-light-paleo-friendly-stir-fry-peas",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:49:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "peas",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "peas",
+    "descriptor": "Savory Light Paleo Friendly",
+    "dishForm": "Stir-fry"
+  }
+}
