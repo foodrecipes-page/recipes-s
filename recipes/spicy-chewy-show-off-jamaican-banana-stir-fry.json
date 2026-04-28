@@ -1,0 +1,84 @@
+{
+  "title": "Spicy Chewy Show-off Jamaican Banana Stir-fry",
+  "description": "This dish combines spicy banana with a hint of honey to create a show-stopping culinary experience that is both chewy and flavorful.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Spicy Seasoning Mix (like Jamaican jerk seasoning)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Onion Powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Peel and finely chop the bananas.",
+    "In a large skillet, heat a tablespoon of oil over medium-high heat. Add chopped bananas and honey, cooking until they start to brown slightly.",
+    "Add spicy seasoning mix, salt, pepper, soy sauce, garlic powder, and onion powder to the banana mixture. Stir well to combine all ingredients.",
+    "Reduce heat to low and simmer for about 5 minutes or until the banana becomes chewy and fully coated with spices.",
+    "Serve hot as a side dish or enjoy it on its own as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "chewy",
+    "jamaican",
+    "banana",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "spicy-chewy-show-off-jamaican-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-chewy-show-off-jamaican-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:53:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "honey",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "banana",
+    "descriptor": "Spicy Chewy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
