@@ -1,0 +1,108 @@
+{
+  "title": "Savory Flaky Moroccan Chicken Stir-fry",
+  "description": "A comforting and savory dish featuring chicken legs in a flavorful Moroccan sauce with pickled vegetables for low-sodium enjoyment.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Leg",
+      "amount": "2",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Pickled Vegetables",
+      "amount": "1 cup",
+      "notes": "use low-sodium variety"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2-3",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Chili Flakes (optional)",
+      "amount": "A few",
+      "notes": "adjust for heat preference"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Vegetable Stock or Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt and Pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt, pepper, cumin seed, coriander powder, turmeric powder, paprika, red chili flakes if using.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add the chicken, skin-side down first, and cook until golden brown on both sides (about 5 minutes per side). Remove from pan.",
+    "Reduce heat to medium. Add onions and garlic; sauté for about 2 minutes until softened. Stir in pickled vegetables, chicken, vegetable stock, paprika, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 10-15 minutes or until slightly thickened. Taste and adjust seasoning as needed.",
+    "Garnish with fresh herbs (optional) and serve hot over rice or as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "flaky",
+    "comforting",
+    "chicken",
+    "stir-fry",
+    "pickled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "savory-flaky-moroccan-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-flaky-moroccan-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:22:27Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "chicken legs",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Savory Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
