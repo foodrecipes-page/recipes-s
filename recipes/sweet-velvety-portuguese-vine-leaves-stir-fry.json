@@ -1,0 +1,80 @@
+{
+  "title": "Sweet Velvety Portuguese Vine Leaves Stir-fry",
+  "description": "This air-fried sweet and velvety Portuguese vine leaves dish is a romantic twist on the traditional recipe, perfect for dessert or as a light snack.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "30-40",
+      "notes": "fresh vine leaves"
+    },
+    {
+      "name": "pumpkin puree",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tsp",
+      "notes": "optional, for texture and depth of flavor"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "to enrich the sauce"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "for brightness and freshness"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C). Rinse the vine leaves and remove any stems or tough parts.",
+    "In a small saucepan, combine pumpkin puree, maple syrup, cocoa powder, coconut milk, and lime juice. Bring to a simmer over medium heat, stirring occasionally until well combined and slightly thickened.",
+    "Carefully place the air-fried vine leaves in an even layer on a baking sheet lined with parchment paper. Pour the mixture evenly over them, ensuring they are fully coated.",
+    "Bake for 10-12 minutes or until the vine leaves are hot and golden brown. Remove from oven, let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-velvety-portuguese-dish",
+    "vine-leaves-stir-fry",
+    "air-fried-dessert",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 36,
+    "fat": 10
+  },
+  "slug": "sweet-velvety-portuguese-vine-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvety-portuguese-vine-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:39:52Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "vine leaves",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "vine leaves",
+    "descriptor": "sweet velvety",
+    "dishForm": "Stir-fry"
+  }
+}
