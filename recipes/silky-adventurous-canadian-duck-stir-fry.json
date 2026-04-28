@@ -1,0 +1,103 @@
+{
+  "title": "Silky Adventurous Canadian Duck Stir-fry",
+  "description": "A fresh, silky and adventurous Canadian dish featuring duck in a mediterranean-friendly sauce that’s both light and flavorful.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 piece",
+      "notes": "Medium-sized"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 medium",
+      "notes": "Juice and zest"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 pieces",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "3-4 halves",
+      "notes": "Rinsed and chopped"
+    },
+    {
+      "name": "Mediterranean herbs blend (oregano, basil, thyme)",
+      "amount": "1 teaspoon",
+      "notes": "Finely ground"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": "For glazing the duck breast"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C). Pat dry the duck with paper towels.",
+    "Mix together olive oil, minced garlic, and Dijon mustard in a small bowl. Brush this mixture on the duck, ensuring even coverage.",
+    "Season both sides of the duck generously with salt and pepper.",
+    "Place the duck breast on a rack inside a baking dish that has been lightly greased. Bake for 25-30 minutes or until cooked through (internal temperature should reach 165°F).",
+    "Meanwhile, in a separate pan over medium heat, sauté chopped red bell pepper and green onions with olive oil until the vegetables start to soften.",
+    "Add sun-dried tomatoes and Mediterranean herbs blend to the vegetable mix. Stir well.",
+    "Remove duck from oven, let it rest for 5 minutes before slicing into thin slices.",
+    "Drizzle a bit of olive oil over the veggies if desired, then serve the duck slices on top of the veggie medley with a drizzle of lemon juice and zest.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "stir-fry",
+    "canadian",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "silky-adventurous-canadian-duck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-adventurous-canadian-duck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:07:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "duck",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "duck",
+    "descriptor": "Silky Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
