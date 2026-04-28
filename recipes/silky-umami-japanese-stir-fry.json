@@ -1,0 +1,103 @@
+{
+  "title": "Silky Umami Japanese Stir-fry",
+  "description": "A delicious monsoon-inspired stir-fry dish featuring umami flavors and a touch of rum for added depth without compromising on sugar-free-friendly status.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free",
+    "alcohol-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "150g",
+      "notes": "soaked if dried"
+    },
+    {
+      "name": "baby bok choy",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cornstarch slurry",
+      "amount": "1 tbsp water, 1 tsp cornstarch mixed together"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or a large skillet over medium-high heat.",
+    "Sautee shiitake mushrooms in sesame oil for about 5 minutes until they release their liquid and slightly brown.",
+    "Add baby bok choy, ginger, carrots, soy sauce, rice vinegar, salt, and cornstarch slurry. Stir-fry everything together until the vegetables are just tender-crisp, around 7-10 minutes.",
+    "Stir in peanut butter (make sure to use a bit of extra for an umami boost), simmer for another minute or so till heated through.",
+    "Sprinkle with sesame seeds before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "silky-stir-fry",
+    "umami-japanese-dish",
+    "monsoon-inspired",
+    "rum-free"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "silky-umami-japanese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-umami-japanese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:00:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "rum",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Umami",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
