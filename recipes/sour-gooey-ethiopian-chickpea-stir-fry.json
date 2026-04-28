@@ -1,0 +1,100 @@
+{
+  "title": "Sour Gooey Ethiopian Chickpea Stir-fry",
+  "description": "A show-off ethiopian dish featuring green chillies with a slow-cooked, low-calorie-friendly blend of sour and gooey flavors.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "2 cans (14 oz each)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can (14.5 oz), undrained, quartered",
+      "notes": "Optional for added acidity"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, finely chopped",
+      "notes": "About 3 tbsp of onion juice should be extracted later"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "For added flavor and extra health benefits"
+    },
+    {
+      "name": "green chillies",
+      "amount": "4-5, finely chopped",
+      "notes": "Adjust to taste for spiciness"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch, minced",
+      "notes": "To add a subtle hint of spice and flavor"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "To achieve the gooey texture"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup, for added acidity",
+      "notes": "Ensure it's at room temperature to prevent chilling"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "To enhance the sour and gooey flavors"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat. Add onions, garlic, and green chillies.",
+    "Cook until onions are translucent, about 3 minutes.",
+    "Stir in tomato paste, cooking for another minute.",
+    "Add tomatoes (optional), ginger, apple cider vinegar, and honey to the pan.",
+    "Mix well, bring to a boil then reduce heat to low. Simmer for about 20-25 minutes.",
+    "Pour out half of the mixture into a blender and blend until smooth.",
+    "Return blended mixture back to the pot, add chickpeas, and mix well.",
+    "Simmer for another 10 minutes while stirring occasionally.",
+    "Serve hot. Adjust seasoning if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "gooey",
+    "ethiopian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "sour-gooey-ethiopian-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-gooey-ethiopian-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:17:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "green chilli",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Sour Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
