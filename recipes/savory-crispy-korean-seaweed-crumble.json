@@ -1,0 +1,67 @@
+{
+  "title": "Savory Crispy Korean Seaweed Crumble",
+  "description": "This egg-free Korean seaweed dish combines savory flavors with a crispy texture, perfect for a solo dinner featuring seasoned rice vinegar and boiling.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup dried seaweed",
+      "amount": "",
+      "notes": "Soaked in water for at least 4 hours or overnight"
+    },
+    {
+      "name": "2 tablespoons rice vinegar (seasoned with salt, sugar, and garlic)",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon sesame oil",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Drain and pat dry the soaked seaweed.",
+    "Place seaweed on a baking sheet lined with parchment paper.",
+    "Mix rice vinegar in a small bowl and brush evenly over the seaweed, making sure it's well coated.",
+    "Bake at 350°F (175°C) for about 20 minutes or until crispy and golden brown.",
+    "Garnish with sesame oil before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-seaweed",
+    "crisp",
+    "savoury",
+    "seasoned-rice-vinegar"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "savory-crispy-korean-seaweed-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crispy-korean-seaweed-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:53:31Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Seaweed",
+    "descriptor": "Savory Crispy",
+    "dishForm": "Crumble"
+  }
+}
