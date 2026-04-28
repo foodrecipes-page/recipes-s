@@ -1,0 +1,90 @@
+{
+  "title": "Salty-Crispy Malaysian Chinese Leaf Wraps",
+  "description": "A savory and crispy dish featuring Chinese leaves wrapped around a mix of seasoned proteins and vegetables, perfect for post-workout meals.",
+  "cuisine": "Malaysian Chinese",
+  "diet": [
+    "satiating",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese leaves",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Ground chicken or beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "a few pinches"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Chop the red onion and mince the garlic.",
+    "Mix ground chicken or beef with chopped onions, garlic, soy sauce, fish sauce, and chili flakes. Season to taste.",
+    "Wash and dry the Chinese leaves.",
+    "Fold each leaf in half lengthwise and then roll into a cylinder shape, securing with toothpicks if needed.",
+    "Preheat broiler to high heat.",
+    "Place rolled wraps on a baking sheet lined with parchment paper.",
+    "Broil for 2-3 minutes or until edges are golden brown and crispy.",
+    "Serve warm as an easy-to-eat snack or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 3,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "crispy",
+    "malaysian-dish",
+    "post-workout",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 14,
+    "fat": 18
+  },
+  "slug": "salty-crispy-malaysian-chinese-leaf-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crispy-malaysian-chinese-leaf-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:23:47Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "broil",
+    "primaryIngredient": "chinese leaf",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chinese Leaf",
+    "descriptor": "Salty-Crispy",
+    "dishForm": "Wraps"
+  }
+}
