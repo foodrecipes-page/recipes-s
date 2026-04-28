@@ -1,0 +1,90 @@
+{
+  "title": "Sweet Tender Lazy-Sunday Toffee Popcorn Stir-fry",
+  "description": "A sweet and tender Japanese-inspired dish featuring toffee popcorn as the star ingredient, combined with toast for a low-carb friendly twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toaster Strudels",
+      "amount": "1 oz",
+      "notes": "These are used as toffee popcorn. Be mindful of portion size."
+    },
+    {
+      "name": "Toast (Whole Grain)",
+      "amount": "2 slices",
+      "notes": "Use a toaster or pan for a low-carb friendly option."
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp",
+      "notes": "For added flavor and texture."
+    },
+    {
+      "name": "Soy Sauce (Low Sodium)",
+      "amount": "1/2 tsp",
+      "notes": "A touch of umami to enhance the dish."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 tsp",
+      "notes": "To add depth of flavor without excess salt."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": "For cooking and adding to the stir-fry mixture."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven or toaster to a temperature suitable for making Toaster Strudels (about 350°F).",
+    "Slice both slices of Toast into small pieces.",
+    "Melt Butter in a non-stick pan and add sliced Toast. Cook until lightly golden brown, stirring occasionally.",
+    "While Toast is cooking, pop and cool the Toaster Strudels as per instructions on packaging.",
+    "In a wok or large skillet, heat Vegetable Oil over medium-high heat. Add Garlic Powder and sauté for 30 seconds.",
+    "Add cooked Toast to the oil in the wok/pan, stirring continuously until toast is well coated with oil.",
+    "Gradually add cooled Toaster Strudels to the pan/wok, stirring gently to ensure even distribution of ingredients, especially Toffee Popcorn chunks. This step should take about 1 minute.",
+    "Drizzle Soy Sauce over the stir-fry mixture and continue cooking for another minute until sauce is well incorporated into the dish.",
+    "Remove from heat immediately after adding soy sauce for best texture of Toffee Popcorn.",
+    "Serve hot with a side of lemon wedges or low-fat yogurt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "tender",
+    "lazy-sunday",
+    "japanese",
+    "toffee-popcorn",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "sweet-tender-lazy-sunday-toffee-popcorn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-tender-lazy-sunday-toffee-popcorn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:10:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "toffee popcorn",
+    "descriptor": "sweet tender lazy-sunday",
+    "dishForm": "Stir-fry"
+  }
+}
