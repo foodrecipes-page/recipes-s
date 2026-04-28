@@ -1,0 +1,86 @@
+{
+  "title": "Spicy Thai Carrot Crumble",
+  "description": "A rich, gooey meal-prep dish featuring self-raising flour that's both diabetic-friendly and gluten-free. The addition of curry paste adds a spicy kick to this comforting breakfast.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup self-raising flour",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups grated carrots",
+      "amount": "cups"
+    },
+    {
+      "name": "1/4 cup coconut milk",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup unsweetened almond milk",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tablespoon curry paste",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Vegetable oil for frying",
+      "notes": "about 2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine self-raising flour, grated carrots, coconut milk, almond milk, curry paste, and salt. Stir until well combined.",
+    "Fold in ground cumin gently to avoid over-mixing which can cause the mixture to fall apart.",
+    "Heat about 2 tablespoons of vegetable oil in a non-stick skillet or frying pan over medium heat.",
+    "Once heated, pour in the carrot crumble mixture and use spatula to spread evenly across the pan. Cook for about 5-7 minutes until golden brown on bottom.",
+    "Gently flip the crumbles with spatula and cook for another 2-3 minutes until both sides are golden and slightly crispy.",
+    "Remove from heat, transfer to a plate lined with paper towel to absorb extra oil, then serve warm as your breakfast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-carrot-crumble",
+    "diabetic-friendly",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 306,
+    "protein": 7.8,
+    "carbs": 42.9,
+    "fat": 12.5
+  },
+  "slug": "spicy-thai-carrot-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-thai-carrot-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:34:01Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "self-raising flour",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "carrot",
+    "descriptor": "Spicy",
+    "dishForm": "Crumble"
+  }
+}
