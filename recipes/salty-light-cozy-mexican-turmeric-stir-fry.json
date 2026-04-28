@@ -1,0 +1,97 @@
+{
+  "title": "Salty Light Cozy Mexican Turmeric Stir-fry",
+  "description": "A light and cozy mexican dish featuring turmeric that is both flavorful and jain-friendly. This dish is perfect for a quick lunch or dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "3 slices"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "2 slices, finely chopped"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 slice (optional)"
+    }
+  ],
+  "instructions": [
+    "Prepare the turmeric and ginger by grating them into fine pieces.",
+    "In a wok or skillet, heat olive oil over medium-high heat. Add sliced scallions and jalapeno peppers, sauté for about 2 minutes until fragrant.",
+    "Add tomato puree, coconut milk, lime juice, salt, and turmeric to the wok. Stir well to combine.",
+    "Lower the heat to low-medium and simmer for another 5-7 minutes or until sauce thickens slightly.",
+    "If using avocado, slice it thinly and add to the stir-fry just before serving to prevent browning.",
+    "Garnish with scallions if desired. Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turmeric",
+    "mexican",
+    "cozy",
+    "light",
+    "salty",
+    "jalapeno"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "salty-light-cozy-mexican-turmeric-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-light-cozy-mexican-turmeric-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:49:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "turmeric",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Turmeric",
+    "descriptor": "Salty Light Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
