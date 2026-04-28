@@ -1,0 +1,81 @@
+{
+  "title": "Sour Gooey Seitan Muffins",
+  "description": "These Sour Gooey Seitan Muffins are a unique and delicious meal-prep Korean dish featuring seitan as the protein base with added sourness from fermented ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Seitan (plant-based meat)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kombucha Brine (fermented tea from Kombucha)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sesame Seeds (for topping)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). In a mixing bowl, combine the seitan and the remaining ingredients. Mix well until everything is fully incorporated.",
+    "Divide the mixture into 8 muffin cups. Sprinkle sesame seeds over each muffin.",
+    "Bake for approximately 20 minutes or until golden brown on top.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "seitan",
+    "muffins",
+    "sour",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "sour-gooey-seitan-muffins",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-gooey-seitan-muffins",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:19:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "muffins",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Seitan",
+    "descriptor": "Sour Gooey",
+    "dishForm": "Muffins"
+  }
+}
