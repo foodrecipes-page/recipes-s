@@ -1,0 +1,89 @@
+{
+  "title": "Salty Tender Midnight Craving French Raisin Stir-fry",
+  "description": "A savory and tender French dish infused with the sweetness of raisins, perfect for midnight cravings and low in fodmap-friendly components.",
+  "cuisine": "French",
+  "diet": [
+    "low fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Tenderloin",
+      "amount": "150g"
+    },
+    {
+      "name": "Raisins",
+      "amount": "3 tablespoons",
+      "notes": "Use dehydrated raisins if necessary."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "half a teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F.",
+    "Slice the pork tenderloin into thin strips. Pound them lightly with a mallet or rolling pin for tenderness.",
+    "In a small bowl, mix together olive oil, soy sauce, and fish sauce (if using). Add red pepper flakes if you like it spicy.",
+    "Place the pork in an oven-proof dish and pour the marinade over evenly. Marinate for at least 10 minutes or longer for better flavor integration.",
+    "Arrange the raisins on a baking sheet lined with parchment paper. Bake them until golden brown, about 8-10 minutes, ensuring they don't burn.",
+    "Remove the pork from the marinade and pat dry with paper towels. Heat some olive oil in a non-stick pan over medium-high heat.",
+    "Add garlic to the pan and sauté for about 30 seconds until fragrant but not browned. Add the marinated pork, raisins, and remaining marinade.",
+    "Stir-fry everything until the pork is cooked through (internal temperature should reach at least 145°F) and most of the liquid has evaporated.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "tender",
+    "midnight-craving",
+    "french",
+    "raisin",
+    "stir-fry",
+    "low fodmap"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 35,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "salty-tender-midnight-craving-french-raisin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-tender-midnight-craving-french-raisin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:17:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "raisins",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "raisins",
+    "descriptor": "salty tender midnight craving",
+    "dishForm": "Stir-fry"
+  }
+}
