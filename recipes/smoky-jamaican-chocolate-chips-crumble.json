@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Jamaican Chocolate Chips Crumble",
+  "description": "A crispy and smoky chocolate chip dessert with a hint of Jamaican spice that is halal-friendly and perfect for dessert.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "30g cocoa powder",
+      "amount": "30g"
+    },
+    {
+      "name": "125ml milk",
+      "amount": "125ml"
+    },
+    {
+      "name": "65g dark chocolate chips",
+      "amount": "65g",
+      "notes": "halal certified"
+    },
+    {
+      "name": "80g granulated sugar",
+      "amount": "80g"
+    },
+    {
+      "name": "4 large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "125g all-purpose flour",
+      "amount": "125g"
+    },
+    {
+      "name": "1/3 cup unsalted butter, melted",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). Grease a baking dish with melted butter.",
+    "Mix cocoa powder, milk, and dark chocolate chips in a bowl until smooth. Add sugar and eggs; whisk until well combined.",
+    "Stir in flour and salt. Mix evenly until no lumps remain.",
+    "Pour batter into prepared dish. Bake for 20 minutes or until golden brown on top.",
+    "Serve warm with a dollop of whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crispy",
+    "jamaican",
+    "chocolate",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 18
+  },
+  "slug": "smoky-jamaican-chocolate-chips-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-jamaican-chocolate-chips-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:00:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "chocolate chips",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chocolate Chips",
+    "descriptor": "Smoky",
+    "dishForm": "Crumble"
+  }
+}
