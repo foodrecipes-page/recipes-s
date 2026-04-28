@@ -1,0 +1,91 @@
+{
+  "title": "Smoky Portuguese Corned Beef Stir-fry",
+  "description": "This gooey smoky dish features corned beef kneaded with low-fat-friendly ingredients for a sick-day comfort food option.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corned beef",
+      "amount": "200g",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (320°F).",
+    "Slice bell peppers and onions, then dice garlic cloves.",
+    "Place corned beef in a baking dish. Add sliced bell peppers and chopped onions over it.",
+    "Drizzle tomato paste on top of the vegetables and sprinkle with salt and pepper.",
+    "Roast for 35 minutes at 160°C (320°F).",
+    "Meanwhile, heat olive oil in a wok or large skillet. Add minced garlic and sauté until fragrant.",
+    "Add roasted corned beef mixture to the wok and stir-fry for another 10-15 minutes or until heated through.",
+    "Season with salt and pepper as desired.",
+    "Serve hot as a main dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-portuguese",
+    "stir-fry",
+    "sick-day-food"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "smoky-portuguese-corned-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-portuguese-corned-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:14:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "corned beef",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "corned beef",
+    "descriptor": "smoky",
+    "dishForm": "Stir-fry"
+  }
+}
