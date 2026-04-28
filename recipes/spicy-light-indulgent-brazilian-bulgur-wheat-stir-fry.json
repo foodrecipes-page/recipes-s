@@ -1,0 +1,98 @@
+{
+  "title": "Spicy Light Indulgent Brazilian Bulgur Wheat Stir-fry",
+  "description": "This indulgent dish features a blend of spicy bhuna spices to add depth and lightness with the use of bulgur wheat in an easy-to-prepare vegan-friendly stir-fry.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup bulgur wheat",
+      "amount": "measure cups"
+    },
+    {
+      "name": "1/2 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": "medium"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "small bunch"
+    },
+    {
+      "name": "1 can (8 oz) coconut milk",
+      "amount": "can"
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 tsp black pepper powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 tsp garam masala",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 tbsp red chili powder (adjust to taste)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur wheat under cold water and soak in water for 15-20 minutes.",
+    "Heat a wok or large skillet over medium-high heat. Add olive oil, onion, bell pepper, and garlic; stir-fry for about 5 minutes until vegetables are tender-crisp.",
+    "Drain the bulgur wheat, reserving some soaking water if needed, then add to the wok with the onions, peppers, and garlic. Stir well.",
+    "In a small saucepan, combine water or broth, turmeric powder, black pepper powder, garam masala, red chili powder, and reserved soaking water from the bulgur wheat. Bring to a boil and pour over the bulgur mixture in the wok.",
+    "Stir continuously for another 2-3 minutes until all liquid is absorbed and ingredients are heated through.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bulgur wheat",
+    "bhuna",
+    "spicy",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 9.4,
+    "carbs": 58.7,
+    "fat": 12.7
+  },
+  "slug": "spicy-light-indulgent-brazilian-bulgur-wheat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-light-indulgent-brazilian-bulgur-wheat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:05:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Bulgur Wheat",
+    "descriptor": "Spicy Light Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
