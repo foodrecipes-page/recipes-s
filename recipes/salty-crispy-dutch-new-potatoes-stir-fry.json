@@ -1,0 +1,70 @@
+{
+  "title": "Salty Crispy Dutch New Potatoes Stir-fry",
+  "description": "A quick and easy stir-fry dish featuring crispy new potatoes seasoned with salt to help alleviate hangovers.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 pounds of small, young potatoes",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 tablespoon of vegetable oil",
+      "notes": "For frying the potatoes"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Wash and scrub the young potatoes thoroughly.",
+    "Cut the potatoes into even, bite-sized pieces.",
+    "Toss the potato pieces in a bowl with vegetable oil until evenly coated.",
+    "Place the coated potato pieces on a baking sheet lined with parchment paper.",
+    "Bake for 10 minutes, then reduce heat to 375°F (190°C) and continue baking for another 20-25 minutes or until crispy.",
+    "Remove from oven and sprinkle with salt and freshly ground black pepper immediately after removing the potatoes. Allow them to cool slightly before serving.",
+    "Serve warm as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "crispy",
+    "hangover-cure",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 1.5,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "salty-crispy-dutch-new-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crispy-dutch-new-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:10:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "new potatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "New Potatoes",
+    "descriptor": "Salty Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
