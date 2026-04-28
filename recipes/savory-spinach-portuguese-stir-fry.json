@@ -1,0 +1,89 @@
+{
+  "title": "Savory Spinach Portuguese Stir-fry",
+  "description": "A quick-fix dish featuring salty and dense flavors with horseradish to add a kick of spice, dairy-free for those who prefer it that way.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups fresh spinach",
+      "amount": "",
+      "notes": "Washed and dried"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "3 tablespoons olive oil or vegan alternative",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon ground pepper (optional, for extra spiciness)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons grated horseradish root",
+      "amount": "",
+      "notes": "Optional, adds a spicy kick"
+    },
+    {
+      "name": "Juice of 1 lemon or lime",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium-high heat.",
+    "Add onion and garlic; sauté until fragrant and lightly browned.",
+    "Stir in spinach, salt to taste, and if using pepper, add now as well.",
+    "Pour lemon or lime juice over vegetables. Deglaze the pan by scraping up any browned bits from the bottom of the pan.",
+    "If desired, add grated horseradish for extra spiciness.",
+    "Mix in some nutritional yeast or soy sauce to enhance flavor (optional).",
+    "Stir occasionally until spinach is cooked through and mixture thickens slightly. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-spinach-portuguese-stir-fry",
+    "salty-dense-quick-fix",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "savory-spinach-portuguese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spinach-portuguese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:20:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "horseradish",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "spinach",
+    "descriptor": "Savory Spinach",
+    "dishForm": "Stir-fry"
+  }
+}
