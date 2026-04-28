@@ -1,0 +1,83 @@
+{
+  "title": "Silky Tunisian Herb Stir-fry",
+  "description": "A herbal and silky solo-dinner dish featuring dill without nuts, air-fried for a light texture and nut-free-friendly.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup bell peppers",
+      "amount": "medium",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "1 cup zucchini",
+      "amount": "medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "1/2 cup chopped dill",
+      "amount": "handful",
+      "notes": "fresh or dried, depending on availability and preference"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "minced",
+      "notes": "crushed for extra flavor"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "notes": "for air-frying"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "In a bowl, mix chopped dill with salt and pepper.",
+    "Place bell peppers, zucchini, onion, and garlic in the bowl with the spice mixture. Toss well until evenly coated.",
+    "Lightly oil an air fryer basket with olive oil and place the vegetable mixture inside, spreading out for even cooking.",
+    "Air-fry in batches for about 15-20 minutes or until vegetables are tender but not mushy, shaking the basket halfway through.",
+    "Once done, transfer to a serving dish. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky-tunisian-herb-stir-fry",
+    "air-fried",
+    "dill-free"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 7,
+    "carbs": 31,
+    "fat": 8
+  },
+  "slug": "silky-tunisian-herb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-tunisian-herb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:03:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "air-fry",
+    "primaryIngredient": "dill",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Herb",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
