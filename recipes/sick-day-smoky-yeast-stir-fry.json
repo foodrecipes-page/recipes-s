@@ -1,0 +1,95 @@
+{
+  "title": "Sick-Day Smoky Yeast Stir-fry",
+  "description": "A fast action yeast-based dish with a smoky and caramelized flavor profile, perfect for sick days due to its low-fat-friendly characteristics.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 tablespoons low-sodium soy sauce",
+      "amount": "",
+      "notes": "Replace with coconut aminos for a vegan option."
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup quick-rise yeast blend (active dry)",
+      "amount": "",
+      "notes": "Use 1/2 teaspoon active dry yeast instead for a quicker start."
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups mixed vegetables (e.g., bell peppers, onions, carrots)",
+      "amount": "",
+      "notes": "Choose low-sodium options if available."
+    },
+    {
+      "name": "1/4 cup cashews or almonds, chopped",
+      "amount": "",
+      "notes": "For added texture and flavor."
+    },
+    {
+      "name": "Juice of 1 lemon (optional for a tangy twist)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chiffonade",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine soy sauce and olive oil. Warm over medium heat until just simmering.",
+    "Add minced garlic to the warm liquid mixture and cook for about 1 minute, stirring constantly to prevent burning.",
+    "Gradually add yeast blend into the garlic-sauce mixture, whisking well to incorporate evenly.",
+    "Slowly stir in mixed vegetables and chopped cashews. Continue cooking over low heat until all ingredients are heated through and flavors meld together.",
+    "Season with lemon juice or a pinch of salt if needed. Garnish with fresh parsley before serving.",
+    "Serve hot as a light snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "velvety",
+    "sick-day",
+    "tunisian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "sick-day-smoky-yeast-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-smoky-yeast-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:37:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "fast action yeast",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Yeast",
+    "descriptor": "Sick-Day",
+    "dishForm": "Stir-fry"
+  }
+}
