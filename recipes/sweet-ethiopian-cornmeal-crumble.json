@@ -1,0 +1,87 @@
+{
+  "title": "Sweet Ethiopian Cornmeal Crumble",
+  "description": "A sweet and cozy Ethiopian dish featuring fine yellow cornmeal, deglazed with a touch of sweetness to create a chewy crumble suitable for breakfast or dessert.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups yellow cornmeal",
+      "amount": "",
+      "notes": "Note: Cornmeal should be fine, not coarsely ground."
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "",
+      "notes": "For a sugar-free version, omit this ingredient."
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "",
+      "notes": "Use for sweetness if you prefer to add it."
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cups milk or non-dairy alternative",
+      "amount": "",
+      "notes": "Ensure it is at room temperature to facilitate deglazing."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "For flavoring and aiding in browning."
+    },
+    {
+      "name": "1/4 cup chopped fresh herbs (optional)",
+      "amount": "",
+      "notes": "Such as parsley or cilantro for added freshness."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine cornmeal, sugar, honey, salt, and optional herbs.",
+    "Pour in the milk and olive oil. Stir until well combined; make sure there are no lumps.",
+    "Transfer the mixture into an oven-safe baking dish or shallow pan to prevent overflow during cooking.",
+    "Bake for 25 minutes, or until edges start to brown slightly. Keep a close eye as it can easily burn in the oven.",
+    "Remove from oven and let cool slightly before serving with your choice of sweet accompaniment like yogurt or fresh fruit."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-ethiopian-crumble",
+    "cozy-dessert",
+    "cornmeal-bite",
+    "no-sugar-addition"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "sweet-ethiopian-cornmeal-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-ethiopian-cornmeal-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:17:32Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "deglaze",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Sweet",
+    "dishForm": "Crumble"
+  }
+}
