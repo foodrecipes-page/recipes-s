@@ -1,0 +1,83 @@
+{
+  "title": "Savory Thai Coconut Soup",
+  "description": "A low-fat-friendly midnight craving that's salty and chewy with a creamy finish made from creme fraiche.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat",
+    "salty"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 inch, grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut milk in a pot over medium heat. Add chicken and cook until cooked through.",
+    "Add lime juice, fish sauce, garlic, ginger, green onions, and cilantro to the pot. Simmer for an additional 5 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "coconut-soup",
+    "creme-fraiche"
+  ],
+  "nutrition": {
+    "calories": 365,
+    "protein": 17,
+    "carbs": 28,
+    "fat": 20
+  },
+  "slug": "savory-thai-coconut-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-thai-coconut-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:38:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "creme fraiche",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "coconut",
+    "descriptor": "Savory",
+    "dishForm": "Soup"
+  }
+}
