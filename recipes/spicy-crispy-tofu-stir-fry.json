@@ -1,0 +1,83 @@
+{
+  "title": "Spicy Crispy Tofu Stir-fry",
+  "description": "A flavorful and crispy dish featuring fresh basil, perfect for post-workout meal recovery. This recipe is both spicy and fodmap-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "spicy",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "4 pcs"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sriracha sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok over medium-high heat. Add chopped garlic and sauté until fragrant.",
+    "Add sliced Thai chili peppers to the pan, cook for about 30 seconds or until slightly softened.",
+    "Cut tofu into small cubes and add them to the pan, stir-fry for about 5 minutes or until golden brown.",
+    "Mix in fish sauce and Sriracha sauce. Stir gently to combine all ingredients evenly.",
+    "Add chopped basil leaves and stir well to coat the tofu thoroughly with the sauce.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "crispy",
+    "tofu",
+    "butterfly-tofu"
+  ],
+  "nutrition": {
+    "calories": 312,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 19
+  },
+  "slug": "spicy-crispy-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crispy-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:47:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "fresh basil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Spicy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
