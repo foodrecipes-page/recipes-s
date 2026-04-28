@@ -1,0 +1,93 @@
+{
+  "title": "Savory Flaky Cheese Stir-Fry",
+  "description": "This savory, flaky Jamaican dish features Monterey Jack cheese and is a perfect lazy Sunday meal, suitable for diabetics.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "1 cup (shredded)",
+      "notes": "Use a low-fat variety if needed."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 green stalk, chopped finely"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tapioca Flour (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For added flakiness and texture."
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": "To taste, or omitted as desired."
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice Flour (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For added flakiness and texture."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix Monterey Jack cheese, vegetable oil, minced garlic, scallions, jerk seasoning, tapioca flour (if using), salt (to taste or omitted), water, and rice flour (if using) in a bowl until well combined.",
+    "Transfer the mixture into an oven-safe dish and bake for 10 minutes on the middle rack of the oven. Alternatively, you can mix all ingredients together thoroughly and spoon them onto a baking sheet lined with parchment paper to form thin circles or strips.",
+    "Check seasoning and add more salt if needed.",
+    "Once done, remove from heat and let cool slightly before serving as desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-flaky",
+    "lazy-sunday-jamaican-dish",
+    "monterey-jack-cheese",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 27,
+    "fat": 4
+  },
+  "slug": "savory-flaky-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-flaky-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:25:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Cheese",
+    "descriptor": "savory flaky lazy sunday",
+    "dishForm": "Stir-fry"
+  }
+}
