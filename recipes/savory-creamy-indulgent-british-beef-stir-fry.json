@@ -1,0 +1,87 @@
+{
+  "title": "Savory Creamy Indulgent British Beef Stir-fry",
+  "description": "A savory and creamy dish featuring high-protein-friendly beef fillet in a rich sauce that is both indulgent and comforting.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Fillet",
+      "amount": "100g"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "175ml"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Onion Slices",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Season the beef fillet with salt and pepper.",
+    "Heat olive oil in a large skillet over medium heat. Add garlic cloves and onion slices, sauté for about 3 minutes until softened.",
+    "Add beef fillet to the skillet, searing each side until browned and cooked through (approximately 5-7 minutes per side).",
+    "Remove beef from skillet and set aside. In the same skillet, add tomato sauce and Worcestershire sauce, whisk in heavy cream, and bring to a simmer.",
+    "Return the beef fillet to the skillet with the sauce mixture, gently stir until coated evenly with sauce, allowing it to warm through (about 5 minutes).",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "creamy",
+    "indulgent",
+    "british",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "savory-creamy-indulgent-british-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-creamy-indulgent-british-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:41:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "beef fillet",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Beef",
+    "descriptor": "Savory Creamy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
