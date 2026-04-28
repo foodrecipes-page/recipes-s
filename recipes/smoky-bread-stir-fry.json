@@ -1,0 +1,72 @@
+{
+  "title": "Smoky Bread Stir-fry",
+  "description": "A smoky and crispy Vietnamese dish featuring stale bread sautéed with vegetables for a quick, energizing snack or side dish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Stale Bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "small, minced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Bell Pepper (any color)",
+      "amount": "1/4 cup, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat. Add oil and garlic; sauté until fragrant and lightly golden.",
+    "Add bread slices to the skillet. Cook until they are crisp and lightly browned on all sides.",
+    "Stir in finely chopped red onion and thinly sliced bell pepper, cooking for about 2 minutes until softened.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crispy",
+    "energizing",
+    "bread_stir-fry"
+  ],
+  "nutrition": {
+    "calories": 203,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "smoky-bread-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-bread-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:43:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "stale bread",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bread",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
