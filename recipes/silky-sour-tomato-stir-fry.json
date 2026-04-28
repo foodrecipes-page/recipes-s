@@ -1,0 +1,96 @@
+{
+  "title": "Silky Sour Tomato Stir-fry",
+  "description": "A quick and easy Chinese dish featuring a silky sauce made with sour tomatoes, garlic, and onions in just one pot for a perfect meal.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "1 can (400g)",
+      "notes": "preferably cherry or grape tomatoes"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "a small spoonful (optional for thickening)"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "light soy sauce works well with sour flavors"
+    },
+    {
+      "name": "sour vegetables paste",
+      "amount": "1-2 tablespoons",
+      "notes": "such as tamarind or pineapple puree for the sourness"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for a tangy finish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "or any cooking oil of your preference"
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a wok or large pan over medium-high heat.",
+    "Add minced garlic and chopped onions, sauté for about 1 minute until fragrant.",
+    "Stir in the tomatoes from can, cook for another couple of minutes.",
+    "Sprinkle cornstarch into the tomato mixture and stir well to avoid lumps. Cook for a minute more.",
+    "Pour in soy sauce and sour vegetables paste, stir well to combine all ingredients.",
+    "Add rice vinegar and salt, stir continuously until the sauce thickens slightly, about 2-3 minutes or until desired consistency is achieved.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "sour-tomato",
+    "silky-sauce"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 7
+  },
+  "slug": "silky-sour-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-sour-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:15:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "fry",
+    "primaryIngredient": "toast",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Sour",
+    "mainIngredient": "Tomato",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
