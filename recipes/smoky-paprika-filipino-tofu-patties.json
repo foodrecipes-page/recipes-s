@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Paprika Filipino Tofu Patties",
+  "description": "These savory and dense tofu patties are perfect for kids and feature smoked paprika to add a smoky flavor without the use of eggs.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz/400g)",
+      "notes": "Extra firm tofu"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "For panning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Press tofu with paper towels to remove excess liquid.",
+    "Cube the pressed tofu into small pieces and gently press out more moisture if necessary.",
+    "In a mixing bowl, combine tofu cubes, garlic powder, oregano, red chili flakes, smoked paprika, salt, and black pepper. Mix well until evenly combined.",
+    "Divide the mixture into 6-8 patties of equal size.",
+    "Heat oil in an oven-safe skillet over medium heat. Carefully form patties using your hands or a spoon, placing them on the heated skillet.",
+    "Bake for 25 minutes at 375°F (190°C).",
+    "Once done, serve hot as a snack with a side of rice or greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-paprika",
+    "filipino-tofu",
+    "kid-friendly",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 9
+  },
+  "slug": "smoky-paprika-filipino-tofu-patties",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-paprika-filipino-tofu-patties",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:22:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "smoked paprika",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tofu",
+    "descriptor": "Smoky Paprika",
+    "dishForm": "Patties"
+  }
+}
