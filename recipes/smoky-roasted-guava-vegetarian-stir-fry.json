@@ -1,0 +1,107 @@
+{
+  "title": "Smoky Roasted Guava Vegetarian Stir-fry",
+  "description": "This herbal and juicy Venezuelan dish features a midnight craving with English mustard for a unique twist on traditional vegetarian recipes.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large eggplant",
+      "amount": "1",
+      "notes": "Cut into cubes"
+    },
+    {
+      "name": "2 bell peppers (any color)",
+      "amount": "2",
+      "notes": "Slice thinly"
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "4",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 cup fresh guava puree (or 2-3 fresh guavas, mashed)",
+      "amount": "1",
+      "notes": "Optional for added sweetness and color"
+    },
+    {
+      "name": "1 tablespoon English mustard powder",
+      "amount": "1",
+      "notes": "For smoky flavor"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "1",
+      "notes": "Optional, for brightness and freshness"
+    },
+    {
+      "name": "2 tablespoons olive oil or coconut oil",
+      "amount": "2",
+      "notes": "To help with the guava sticking to the pan"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro (for garnish)",
+      "amount": "1/4",
+      "notes": "Optional for extra flavor and color"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null,
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the guava puree with olive oil, salt, and pepper. Mix well until all the guava is coated evenly.",
+    "In another bowl, mix together the remaining ingredients: guava-olive oil mixture, onion, bell peppers, garlic, and lime juice (if using).",
+    "Spread the mixture over a greased baking sheet lined with parchment paper or aluminum foil. Sprinkle with English mustard powder lightly.",
+    "Place in preheated oven for about 30 minutes, or until veggies are tender and edges start to brown slightly.",
+    "While the veggies are roasting, stir-fry your eggplant cubes by heating a bit more olive oil or coconut oil in a wok over medium-high heat. Add the cubed eggplant and cook until golden and soft, stirring occasionally.",
+    "Once the vegetables have finished cooking, combine them with the eggplant chunks. Let everything come together for another 5 minutes to meld the flavors.",
+    "Garnish with fresh cilantro if desired before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "stir-fry",
+    "smoky",
+    "vegan",
+    "guava",
+    "japanese-inspired",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "smoky-roasted-guava-vegetarian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-guava-vegetarian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:43:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "smoke",
+    "primaryIngredient": "english mustard",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vegetarian",
+    "mainIngredient": "Guava",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
