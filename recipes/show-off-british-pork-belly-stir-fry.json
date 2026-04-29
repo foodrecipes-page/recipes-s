@@ -1,0 +1,89 @@
+{
+  "title": "Garlicky Creamy Show-off British Pork Belly Stir-fry",
+  "description": "This vegan-friendly stir-fry showcases the richness of creamy sauces with a twist of garlic and hints of savory spices to complement the tender texture of baked pork belly.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cashew pieces",
+      "amount": "cup",
+      "notes": "ensure they are soaked and drained for at least an hour"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "pieces",
+      "notes": null
+    },
+    {
+      "name": "2 tbsp soy sauce (vegetable or gluten-free)",
+      "amount": "tbsp",
+      "notes": null
+    },
+    {
+      "name": "1 cup vegan cream",
+      "amount": "cup",
+      "notes": null
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice",
+      "notes": null
+    },
+    {
+      "name": "2 tbsp fresh parsley, chopped (for garnish)",
+      "amount": "tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the cashew pieces in a shallow baking dish, drizzle with olive oil, salt, and freshly ground black pepper. Bake for about 25 minutes or until golden brown.",
+    "While the cashews are baking, heat a large skillet over medium-high heat. Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Add soy sauce to the pan and stir continuously until it starts to reduce slightly, adding lemon juice once reduced by half.",
+    "Fold in baked cashew pieces, vegan cream, and fresh parsley. Stir gently, allowing the mixture to heat through without letting it boil.",
+    "Season with salt and pepper if needed and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "show-off",
+    "pork-belly",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "show-off-british-pork-belly-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-british-pork-belly-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:34:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "pork belly slices",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "pork belly",
+    "descriptor": "Garlicky Creamy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
