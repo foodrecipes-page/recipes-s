@@ -1,0 +1,99 @@
+{
+  "title": "Savory Crunchy Brazilian Tofu Crumble",
+  "description": "This savory crunchy dish features a blend of tofu crumbles with rice vermicelli and other flavorful ingredients to create a brunch-friendly, chewy and sour-tasting meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 block firm/soft tofu",
+      "amount": "medium sized",
+      "notes": "drained"
+    },
+    {
+      "name": "2 cups rice vermicelli",
+      "amount": "standard pack",
+      "notes": "soaked and drained"
+    },
+    {
+      "name": "6 tablespoons soy sauce",
+      "amount": "full tablespoon",
+      "notes": "low sodium for safety"
+    },
+    {
+      "name": "1/4 cup finely chopped onions",
+      "amount": "small handful",
+      "notes": "ensure they are safe to consume if you have any onion allergy"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "one clove whole"
+    },
+    {
+      "name": "1 tablespoon ground cumin",
+      "amount": "full teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon red pepper flakes (optional for heat)",
+      "amount": "full pinch"
+    },
+    {
+      "name": "1/2 cup finely chopped bell peppers, any color",
+      "amount": "medium handful",
+      "notes": "ensure they are safe to consume if you have any pepper allergy"
+    },
+    {
+      "name": "1/4 cup fresh parsley or cilantro leaves, chopped",
+      "amount": "small handful"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the rice vermicelli well under cold water.",
+    "In a large bowl, blend the drained tofu with soy sauce, minced garlic, ground cumin, red pepper flakes (if using), salt and pepper to taste. Mix until smooth.",
+    "Add the soaked and drained rice vermicelli into the tofu mixture and stir in finely chopped onions and bell peppers.",
+    "Fold in chopped parsley or cilantro leaves for a fresh touch and enhance the dish's vibrant color and aroma.",
+    "Divide the mixture evenly among 4-6 small ramekins or individual serving dishes. Cover with plastic wrap to prevent sogginess, refrigerate overnight if desired for better texture.",
+    "When ready to serve, preheat the oven to 350°F (175°C). Bake the crumbles until golden brown and crispy on top, about 20-25 minutes.",
+    "Serve warm as a side dish or main course. Enjoy with your favorite Brazilian accompaniments like avocado salsa or citrus-topped guacamole."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sour",
+    "chewy",
+    "brazilian",
+    "tofu",
+    "crumble",
+    "brunch-mood",
+    "rice-vermicelli"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "savory-crunchy-brazilian-tofu-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-brazilian-tofu-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:18:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Crumble"
+  }
+}
