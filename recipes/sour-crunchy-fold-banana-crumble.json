@@ -1,0 +1,82 @@
+{
+  "title": "Sour Crunchy Fold Banana Crumble",
+  "description": "A comforting jamaican dish featuring dark rum, fold, and banana blended into a sour yet crunchy crumble for a diabetic-friendly dessert.",
+  "cuisine": "jamaican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "2 medium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dark rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "chopped pecans or walnuts",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Blend bananas with coconut milk, dark rum, unsweetened applesauce, chopped nuts, and cocoa powder until smooth.",
+    "Transfer the mixture to a greased baking dish.",
+    "Bake for about 25 minutes or until golden brown on top.",
+    "Drizzle extra dark rum over crumble before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crunchy",
+    "jamaican",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "sour-crunchy-fold-banana-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-fold-banana-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:45:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "dark rum",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "banana",
+    "descriptor": "Sour Crunchy Fold",
+    "dishForm": "Crumble"
+  }
+}
