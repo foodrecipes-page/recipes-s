@@ -1,0 +1,78 @@
+{
+  "title": "Sweet & Dense Norwegian Berry Porridge",
+  "description": "A sweet and dense post-workout dish featuring orange zest for a refreshing touch, perfect as a Paleo-friendly breakfast option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "paleo-friendly oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paleo-friendly almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar-free sweetener of choice (e.g. erythritol, stevia)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange zest",
+      "amount": "juice from 1 orange"
+    },
+    {
+      "name": "fresh or frozen berries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paleo-friendly vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the oats and place them in a saucepan with almond milk.",
+    "Bring to a boil, then reduce heat and simmer for about 5 minutes or until thickened slightly.",
+    "In a small bowl, mix together sweetener, orange zest juice, and vanilla extract. Stir into the oat mixture.",
+    "Fold in berries gently to avoid breaking them up too much.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "paleo-friendly",
+    "post-workout",
+    "sweet",
+    "dense"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 21,
+    "fat": 4
+  },
+  "slug": "sweet-dense-norwegian-berry-porridge",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-dense-norwegian-berry-porridge",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:52:32Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "orange zest",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "berries",
+    "descriptor": "Sweet & Dense",
+    "dishForm": "Porridge"
+  }
+}
