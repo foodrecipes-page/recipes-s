@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Fluffy Chickpea Stir-fry",
+  "description": "A comforting moroccan dish featuring smoky chickpeas, coriander, and paleo-friendly broiled texture for a fluffy texture.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup canned chickpeas",
+      "amount": "",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "2 tablespoons coconut oil",
+      "amount": ""
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup fresh cilantro, chopped",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a non-stick skillet over medium heat.",
+    "Add onion and garlic, sauté for about 3 minutes or until softened.",
+    "Stir in smoked paprika, cumin, and black pepper. Cook for another minute.",
+    "Purée chickpeas with half of the cilantro using immersion blender or transfer to a blender.",
+    "Mix chickpea purée back into skillet with onion mixture.",
+    "Toss in remaining cilantro and cook until heated through, about 3 minutes more."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "fluffy",
+    "moroccan",
+    "comforting",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "smoky-fluffy-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:32:04Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "coriander",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Fluffy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
