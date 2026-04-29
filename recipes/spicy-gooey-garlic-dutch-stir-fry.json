@@ -1,0 +1,81 @@
+{
+  "title": "Spicy Gooey Garlic Dutch Stir-fry",
+  "description": "A midnight craving dish that combines spicy goodness with a gooey garlic base in a whole30-friendly twist featuring pitted black olives.",
+  "cuisine": "Dutch",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Black olives",
+      "amount": "1 cup pitted",
+      "notes": ""
+    },
+    {
+      "name": "Minced onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Optional for a gooier texture"
+    },
+    {
+      "name": "Spices (optional)",
+      "amount": "To taste",
+      "notes": "Cayenne pepper, paprika, cumin"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and cook until fragrant, about 2 minutes.",
+    "Stir in the black olives and minced onion. Cook for another 5-7 minutes until softened.",
+    "Sprinkle panko breadcrumbs over the mixture (if using). Stir well to coat evenly.",
+    "Season with spices of your choice. Taste test; adjust seasoning accordingly.",
+    "Continue cooking until all liquid is absorbed, about 2 more minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "gooey",
+    "dutch",
+    "midnight-craving",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "spicy-gooey-garlic-dutch-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-garlic-dutch-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:06:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "simmer",
+    "primaryIngredient": "pitted black olives",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Garlic",
+    "descriptor": "Spicy Gooey Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
