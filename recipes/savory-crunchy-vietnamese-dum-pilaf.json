@@ -1,0 +1,94 @@
+{
+  "title": "Savory Crunchy Vietnamese Dum Pilaf",
+  "description": "A savory and crunchy monsoon-friendly Vietnamese dish featuring tarragon leaves with a Mediterranean twist.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dum",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tarragon Leaves",
+      "amount": "2 tablespoons",
+      "notes": "Fresh or dried, optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2-3 cloves",
+      "notes": "Finely minced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Chicken Broth or Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lettuce (for garnish)",
+      "amount": "2-3 leaves"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onions and minced garlic to the pan, sautéing until fragrant and translucent.",
+    "Stir in tarragon leaves if using fresh or dried, cook for about 1 minute.",
+    "Gradually add chicken broth or water while stirring continuously to avoid sticking.",
+    "Simmer for 5 minutes to allow flavors to meld together.",
+    "Fold dumplings gently into the sauce as it simmers. Cook until heated through and dumplings are tender but not falling apart.",
+    "Garnish with lettuce leaves before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crunchy",
+    "monsoon-friendly",
+    "vietnamese-dum-pilaf",
+    "tarragon-leaves",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "savory-crunchy-vietnamese-dum-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-vietnamese-dum-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:34:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "dum",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Pilaf"
+  }
+}
