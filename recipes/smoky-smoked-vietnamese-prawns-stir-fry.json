@@ -1,0 +1,90 @@
+{
+  "title": "Smoky Smoked Vietnamese Prawns Stir-fry",
+  "description": "A smoky, tender, lazy-sunday vietnamese dish featuring tiger prawns that is both vegetarian-friendly and gluten-free.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) tiger prawns",
+      "amount": "1 lb (450g)",
+      "notes": "ensure they are fresh and have been deveined"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "1 tablespoon rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "1 teaspoon granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "1/4 cup fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 lime, juiced",
+      "amount": "juiced 1 lime"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Place the prawns in a bowl and combine with soy sauce, rice vinegar, sugar, minced garlic, sesame oil, and smoked paprika. Mix well until the prawns are evenly coated.",
+    "Heat a wok or large skillet over medium-high heat. Add the sautéed mix of prawns to the pan and stir-fry for about 2-3 minutes or until the prawns turn pink and cook through.",
+    "Remove the prawns from the pan and set aside. In the same pan, add a bit more oil if needed and add the chopped cilantro. Stir and toss until wilted slightly.",
+    "Add the lime juice to the pan and stir-fry for about 30 seconds. Return the prawns to the pan and mix them in with the cilantro, ensuring they are evenly coated with the sauce.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "tiger prawns"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 19,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "smoky-smoked-vietnamese-prawns-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-smoked-vietnamese-prawns-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:18:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "tiger prawns",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
