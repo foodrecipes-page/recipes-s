@@ -1,0 +1,83 @@
+{
+  "title": "Savory Crisp Festive Low Carb Crostini",
+  "description": "A festive low-carb Croatian dish featuring Saskatoon berries in a savory and crisp topping for crostini.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Low Carb Bread Slices",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Saskatoon Berries",
+      "amount": "1 cup frozen"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "Low-Sodium Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice bread into ¼-inch thick pieces.",
+    "In a large bowl, combine bread slices, Saskatoon berries, olive oil, garlic, parsley, salt, and pepper. Mix gently until the bread is evenly coated with the berry mixture.",
+    "Spread the crumbled mixture onto prepared baking sheets lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown on top and crisp. Stir occasionally during cooking to ensure even browning.",
+    "Remove from oven, let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crisp",
+    "festive",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 146,
+    "protein": 2.9,
+    "carbs": 13.5,
+    "fat": 7.8
+  },
+  "slug": "savory-crisp-festive-low-carb-crostini",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crisp-festive-low-carb-crostini",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:17:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "fry",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "savory crisp festive low carb",
+    "dishForm": "crostini"
+  }
+}
