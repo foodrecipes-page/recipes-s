@@ -1,0 +1,90 @@
+{
+  "title": "Silky Umami Ukrainian Pilaf",
+  "description": "A one-pot dish featuring harissa spice for a bold umami flavor profile in a nut-free-friendly version of traditional Ukrainian pilaf.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Sun-Dried Tomatoes (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Parsley",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "Harissa Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "White Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat. Add the chicken broth and bring to a simmer.",
+    "Add chopped onion, finely chopped garlic, and sun-dried tomatoes (if using). Sauté for about 5 minutes until fragrant and onions are translucent.",
+    "Gradually add rice, ensuring even distribution of broth. Stir occasionally to prevent sticking.",
+    "Pour in harissa paste and stir well to evenly coat the rice. Add salt and white pepper according to taste preferences.",
+    "Cover the pot with a tight-fitting lid and reduce heat to low. Cook for about 20 minutes or until all liquid is absorbed by the rice.",
+    "Remove from heat and let rest covered for an additional 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "umami",
+    "one-pot",
+    "ukrainian",
+    "pilaf",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 6
+  },
+  "slug": "silky-umami-ukrainian-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-umami-ukrainian-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:07:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "harissa spice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Umami",
+    "descriptor": "Silky",
+    "dishForm": "Pilaf"
+  }
+}
