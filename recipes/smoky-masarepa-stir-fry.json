@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Masarepa Stir-fry",
+  "description": "A smoky and dense vegan-friendly Kenyan dish featuring yellow masarepa mixed with toasted cashews, onions, and peppers.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 oz yellow masarepa",
+      "amount": "oz"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "3 bell peppers (red and green), thinly sliced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 cup cashews, soaked overnight and toasted",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "lime juice"
+    },
+    {
+      "name": "3 tbsp coconut aminos or soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro, chopped (optional)",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Toast the cashews in a dry skillet for about 2 minutes or until lightly golden. Set aside.",
+    "In a large skillet over medium-high heat, add olive oil and sauté onion until translucent, about 4-5 minutes.",
+    "Add bell peppers and garlic to the skillet with some salt, cook for another 3-4 minutes until softened slightly.",
+    "Reduce heat to medium and add yellow masarepa into the pan. Stir constantly for about 2-3 minutes until the edges start to brown.",
+    "Pour in lime juice, coconut aminos or soy sauce, smoked paprika, and cashews. Mix well and cook for an additional 2-3 minutes.",
+    "Add fresh cilantro if using and stir again. Adjust seasoning with salt as needed.",
+    "Serve hot with steamed vegetables or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "dense",
+    "masarepa",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 381,
+    "protein": 7,
+    "carbs": 69,
+    "fat": 20
+  },
+  "slug": "smoky-masarepa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-masarepa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:14:31Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Masarepa",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
