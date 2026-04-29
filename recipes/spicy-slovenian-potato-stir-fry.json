@@ -1,0 +1,95 @@
+{
+  "title": "Spicy Slovenian Potato Stir-fry",
+  "description": "This tangy, tender dish features a blend of spices including chilli powder for an indulgent Slovakian flavor profile, perfect for a satisfying lunch or dinner.",
+  "cuisine": "Slovenian",
+  "diet": [
+    "tangy",
+    "tender",
+    "indulgent"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 medium-sized",
+      "notes": "preferably with skin for added nutrition"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3, minced",
+      "notes": null
+    },
+    {
+      "name": "chilli powder",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sour cream (optional)",
+      "amount": "1/4 cup",
+      "notes": "for a tangy twist"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a wok or large skillet over medium-high heat.",
+    "Slice the potatoes into thin rounds and add them to the hot oil. Cook until golden brown, about 5 minutes.",
+    "Remove potatoes from oil and set aside on paper towels. Add onions and garlic to the same pan and sauté for another minute.",
+    "Add chopped potatoes back into the pan along with the spices and salt/pepper. Stir well.",
+    "Pour in sour cream (if using) and stir again until evenly distributed, about 2 minutes more.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "stir-fry",
+    "slovenian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 5
+  },
+  "slug": "spicy-slovenian-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-slovenian-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:25:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "boil",
+    "primaryIngredient": "chilli powder",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovenian",
+    "mainIngredient": "potato",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
