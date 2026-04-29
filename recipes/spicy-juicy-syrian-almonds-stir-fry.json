@@ -1,0 +1,88 @@
+{
+  "title": "Spicy Juicy Syrian Almonds Stir-fry",
+  "description": "A quick-fix spicy and juicy Syrian almond dish featuring crispy almonds, perfect for a healthy snack or light meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "a small piece, minced"
+    },
+    {
+      "name": "Chili Peppers",
+      "amount": "2-3 slices (adjust based on spice preference)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Water or Chicken Broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add almonds and sesame seeds to the pan. Stir-fry for about 2 minutes until lightly toasted.",
+    "Add minced ginger, garlic, and chili peppers (or sliced red pepper flakes). Sauté for another minute.",
+    "Pour water or broth into the pan and stir well to combine.",
+    "Stir in red pepper flakes and let it simmer for a few seconds more.",
+    "Reduce heat to low, cover the pan, and cook until liquid is absorbed and almonds are crispy (about 5 minutes).",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "juicy",
+    "syrian",
+    "almonds",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "spicy-juicy-syrian-almonds-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-juicy-syrian-almonds-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:22:53Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "blanch",
+    "primaryIngredient": "flaked almonds",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Spicy Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
