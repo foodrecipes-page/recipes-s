@@ -1,0 +1,94 @@
+{
+  "title": "Spicy Silky Slovak Salt Cod Stir-fry",
+  "description": "This vibrant brunch dish features salt cod stir-fried with spicy peppers and a creamy sauce in a way that’s sure to satisfy any craving for traditional Slovak cuisine, while keeping the meal vegetarian-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Salt cod fillets",
+      "amount": "1 cup",
+      "notes": "Ensure it's properly soaked and drained before use."
+    },
+    {
+      "name": "Bell peppers, julienned",
+      "amount": "2 medium",
+      "notes": "Red and green bell peppers for color contrast and mild heat."
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil for stir-frying",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped (for garnish)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add enough oil to coat the bottom of the pan.",
+    "Add salt cod fillets and sauté for about 5 minutes until golden brown on all sides, flipping occasionally to ensure even cooking.",
+    "Add minced garlic and finely chopped onion; stir-fry for another 2-3 minutes until fragrant and onions are translucent.",
+    "Fold in julienned bell peppers. Continue stirring for an additional minute allowing the flavors to meld together.",
+    "In a small mixing bowl, combine soy sauce with cayenne pepper flakes. Stir gently into the skillet mixture.",
+    "Reduce heat to low-medium. Cover the pan and let cook until salt cod is cooked through (about 5 more minutes).",
+    "Sprinkle chopped parsley on top before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-silky",
+    "slovakian-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "spicy-silky-slovak-salt-cod-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-silky-slovak-salt-cod-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:33:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "salt cod",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "salt cod",
+    "descriptor": "Spicy Silky",
+    "dishForm": "Stir-fry"
+  }
+}
