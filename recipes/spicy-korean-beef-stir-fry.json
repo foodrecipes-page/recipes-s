@@ -1,0 +1,82 @@
+{
+  "title": "Spicy Korean Beef Stir-fry",
+  "description": "This spicy dish features tender beef mixed with a zesty blend of lemongrass and other seasonings for a perfect hangover-cure meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "salty",
+    "silky"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "3 stalks"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Clean and finely chop the beef. Thinly slice the lemongrass.",
+    "In a wok or large skillet, heat oil over medium-high heat. Add sliced lemongrass and sauté for 1 minute.",
+    "Add ginger and garlic to the wok and stir-fry for an additional 30 seconds.",
+    "Add beef, red pepper flakes, soy sauce, salt (to taste), and enough water to cover the ingredients. Stir until well combined.",
+    "Simmer for about 5 minutes or until the meat is cooked through. Adjust seasoning if needed.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-beef",
+    "korean-stir-fry",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 569,
+    "protein": 28.7,
+    "carbs": 13.2,
+    "fat": 20
+  },
+  "slug": "spicy-korean-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-korean-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:37:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
