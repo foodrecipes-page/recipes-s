@@ -1,0 +1,67 @@
+{
+  "title": "Spicy Flaky Festive Graham Cracker Crumble",
+  "description": "A festive Middle Eastern dish featuring a spicy and flaky graham cracker crust with a bhuna spice mixture, designed to be egg-free-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Graham Cracker Sheets",
+      "amount": "1 sheet per person",
+      "notes": "Can be homemade or store-bought."
+    },
+    {
+      "name": "Bhuna Spice Mixture (pre-made or homemade)",
+      "amount": "To taste",
+      "notes": "Equal parts of ground cumin, ground coriander, and turmeric, mixed with a pinch of cinnamon and a little salt for flavor."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "A few tablespoons to grease the baking dish.",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). Grease a small baking dish with olive oil.",
+    "Place one graham cracker sheet in the greased baking dish. Evenly spread Bhuna spice mixture over the top of the graham cracker sheet, leaving about an inch around the edges for crust formation.",
+    "Top with second graham cracker sheet and press down gently to ensure all layers are evenly coated.",
+    "Bake for 15-20 minutes or until the edges start to turn golden brown. Let cool slightly before serving.",
+    "Optional: Drizzle with a little honey or sugar syrup for added sweetness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "flaky",
+    "festive",
+    "garnet",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "spicy-flaky-festive-graham-cracker-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-flaky-festive-graham-cracker-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:30:25Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Graham Cracker",
+    "descriptor": "Spicy Flaky Festive",
+    "dishForm": "Crumble"
+  }
+}
