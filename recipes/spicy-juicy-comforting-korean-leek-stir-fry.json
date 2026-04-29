@@ -1,0 +1,91 @@
+{
+  "title": "Spicy Juicy Comforting Korean Leek Stir-fry",
+  "description": "A comforting and flavorful leek stir-fry with a spicy kick that's both healthy and delicious.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "medium dice"
+    },
+    {
+      "name": "2 cups leeks",
+      "amount": "thinly sliced"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "minced"
+    },
+    {
+      "name": "1 tbsp gochujang (Korean chili paste)",
+      "notes": "for added flavor and spice"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "notes": "adjust for sourness preference"
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "notes": "low sodium if preferred"
+    },
+    {
+      "name": "1 tsp sesame oil",
+      "notes": "to add depth of flavor"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1/4 cup water",
+      "notes": "to deglaze the pan after stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat. Add sesame oil and allow it to shimmer.",
+    "Add onion, leeks, and garlic to the skillet. Stir frequently until softened and slightly browned, about 5 minutes.",
+    "Pour in gochujang and lime juice. Simmer for an additional minute or so to bring out flavors.",
+    "Stir in soy sauce and continue simmering for another minute. Add water to deglaze the pan, scraping up any crispy bits from the bottom.",
+    "Reduce heat to low-medium and stir occasionally until slightly thickened, about 3-4 minutes more.",
+    "Serve hot over cooked rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "vegan-friendly",
+    "lactose-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 7,
+    "fat": 3
+  },
+  "slug": "spicy-juicy-comforting-korean-leek-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-juicy-comforting-korean-leek-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:16:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "stir-fry",
+    "primaryIngredient": "leek",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "leek",
+    "descriptor": "spicy juicy comforting",
+    "dishForm": "Stir-fry"
+  }
+}
