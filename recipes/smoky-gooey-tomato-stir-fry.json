@@ -1,0 +1,79 @@
+{
+  "title": "Smoky Gooey Tomato Stir-fry",
+  "description": "A low-calorie-friendly smoky tomato dish with a midnight craving profile suitable for Canadian cuisine and dietary preferences.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili Flake",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a nonstick skillet over medium heat.",
+    "Halve the tomatoes and blanch them for about 30 seconds, then rinse with cold water to stop the cooking process.",
+    "Cut each tomato into wedges and place them in the skillet along with the garlic cloves.",
+    "Drizzle olive oil on top of the tomatoes and sprinkle chili flakes and paprika over the mixture.",
+    "Sauté until the tomatoes are cooked through but still retain their bright red color, adding lemon juice at the last moment to enhance its zingy flavor.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "goey",
+    "midnight-craving",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "smoky-gooey-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-gooey-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:19:34Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "tomatoes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Smoky Gooey Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
