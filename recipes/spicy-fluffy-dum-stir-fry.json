@@ -1,0 +1,98 @@
+{
+  "title": "Spicy Fluffy Dum Stir-fry",
+  "description": "A high-protein-friendly brunch-mood Uruguayan dish featuring spicy dumplings and vanilla bean paste in a savory sauce.",
+  "cuisine": [
+    "Uruguayan"
+  ],
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dumplings",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "ground beef or chicken",
+      "amount": "150 grams"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "3-4 cloves, finely chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or skillet over medium heat.",
+    "Add finely chopped onions and garlic, sauté until translucent.",
+    "Add chili peppers, stir for another minute.",
+    "Fold in ground beef or chicken, cook until browned, then add salt and pepper to taste.",
+    "Pour in vanilla bean paste and soy sauce, mix well to combine all ingredients.",
+    "Gently fold dumplings into the mixture. Cover and let simmer for about 5 minutes.",
+    "Serve hot with a side of fresh fruit or toast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "fluffy",
+    "uruguayan-dish",
+    "vanilla-bean-paste"
+  ],
+  "nutrition": {
+    "calories": 527,
+    "protein": 36,
+    "carbs": 19,
+    "fat": 18
+  },
+  "slug": "spicy-fluffy-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:19:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dum",
+    "descriptor": "Spicy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
