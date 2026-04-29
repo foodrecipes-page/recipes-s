@@ -1,0 +1,98 @@
+{
+  "title": "Spicy Fluffy British Doner Meat Stir-fry",
+  "description": "A flavorful and low-sodium dish combining the savory tastes of doner meat with a spicy twist in a fluffy stir-fry that’s perfect for weeknight dinners.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Doner Meat",
+      "amount": "200g"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3-4"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low-Sodium Tomato Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Korean Chili Paste (Gochujang)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low Sodium Soy Sauce (or Water)",
+      "amount": "30ml"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Slice the carrots and onions into thin rounds.",
+    "Chop the garlic finely.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the diced carrot and cook for an additional 2-3 minutes.",
+    "Stir in the chopped garlic, Korean chili paste (gochujang), soy sauce, low-sodium tomato paste, lemon juice, and cumin powder. Mix well and cook for another minute.",
+    "Fold in the doner meat chunks and stir to evenly coat with the sauce.",
+    "Reduce heat to medium and let it simmer until the vegetables are tender and the meat is coated with a rich sauce, about 10-12 minutes.",
+    "Serve hot as a side dish or over rice for an authentic British-inspired meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "spicy",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 33,
+    "fat": 5
+  },
+  "slug": "spicy-fluffy-british-doner-meat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-british-doner-meat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:33:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "doner meat",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Doner Meat",
+    "descriptor": "Spicy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
