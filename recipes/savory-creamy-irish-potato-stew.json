@@ -1,0 +1,102 @@
+{
+  "title": "Savory Creamy Irish Potato Stew",
+  "description": "A hearty and comforting dish perfect for sick days, this savory creamy Irish stew features gluten-free-friendly ingredients including tandoori spices to add a unique twist.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 lbs",
+      "notes": "russet potatoes are preferred"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "1 medium",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "tandoori seasoning blend",
+      "amount": "1 tablespoon",
+      "notes": "such as Garam Masala and other Indian spices"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": "lighter option than regular cooking wine for a healthier twist"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Dice the potatoes into chunks and place them in a large pot.",
+    "Add chopped onions, celery, garlic, and tandoori seasoning blend to the pot with the potatoes. Stir well to coat evenly.",
+    "Pour enough vegetable oil over the ingredients until they are coated. Drizzle 1 tablespoon of unsalted butter along with the oil and toss gently for about a minute.",
+    "Season with salt and pepper according to taste, then pour in red wine vinegar and heavy cream. Bring everything together and stir well to combine all ingredients.",
+    "Transfer the mixture into an oven-safe dish and bake at 400°F (200°C) for 30-40 minutes or until potatoes are tender and creamy on top.",
+    "Serve hot with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "creamy",
+    "irish",
+    "sick-day",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 49,
+    "fat": 18
+  },
+  "slug": "savory-creamy-irish-potato-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-creamy-irish-potato-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:09:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "cooking wine",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Savory Creamy",
+    "dishForm": "Stew"
+  }
+}
