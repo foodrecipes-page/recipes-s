@@ -1,0 +1,85 @@
+{
+  "title": "Sour Crunchy Kenyan Leek Soup",
+  "description": "A monsoon-friendly leek soup with a tangy kick and crunchy texture, suitable for those following the fodmap diet.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "soup",
+  "ingredients": [
+    {
+      "name": "1 cup leeks",
+      "amount": "cup",
+      "notes": "use only the white and light green parts, finely chopped"
+    },
+    {
+      "name": "1/2 cup coconut milk",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp tomato paste",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/2 cup cashews, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup canned mandarin oranges, peeled and sliced",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 tsp cayenne pepper (optional)",
+      "amount": "teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pot over medium heat. Add leeks, salt, black pepper, and optionally cayenne pepper. Cook until soft.",
+    "Add tomato paste and cook for about 1 minute to color the soup slightly.",
+    "Pour in coconut milk and stir well. Bring to a simmer, then reduce heat to low.",
+    "Let it simmer gently for about 30 minutes or until the leeks are very tender and the soup has thickened slightly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sour-kenyan-leek-soup",
+    "crunchy",
+    "monsoon-friendly",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 9,
+    "carbs": 40,
+    "fat": 7
+  },
+  "slug": "sour-crunchy-kenyan-leek-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-kenyan-leek-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:11:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "poach",
+    "primaryIngredient": "leek",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Leek",
+    "descriptor": "Sour Crunchy",
+    "dishForm": "Soup"
+  }
+}
