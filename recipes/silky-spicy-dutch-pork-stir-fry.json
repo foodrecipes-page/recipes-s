@@ -1,0 +1,88 @@
+{
+  "title": "Silky Spicy Dutch Pork Stir-Fry",
+  "description": "This recipe creates a nostalgic pork dish infused with spicy flavors and silky texture, perfect for diabetic-friendly dining.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "200g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 handful, chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp (for braise)"
+    },
+    {
+      "name": "oil for stir-fry",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix soy sauce and cornstarch until smooth. Add ginger paste and stir evenly.",
+    "Slice the pork tenderloin thinly and marinate in the mixed ingredients for at least 30 minutes.",
+    "Heat oil in a wok or large frying pan over medium heat. Sear the marinaded pork on all sides, about 5-7 minutes per side until golden brown.",
+    "Add bell peppers and green onions to the pan; stir-fry for another minute. Pour the soy sauce mixture into the pan.",
+    "Increase heat to high and let it simmer for about 2 minutes or until thickened. Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "silky-spicy",
+    "dutch-pork-stir-fry",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 28,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "silky-spicy-dutch-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-spicy-dutch-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:25:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "pork",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pork",
+    "descriptor": "Silky Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
