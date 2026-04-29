@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Quinoa Stir-fry",
+  "description": "A comforting Australian dish featuring quinoa with a smoky flavor profile and crisp textures, suitable for plant-based diets.",
+  "cuisine": "Australian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "medium",
+      "notes": "chopped into thin strips"
+    },
+    {
+      "name": "1/4 cup nutritional yeast",
+      "amount": "cup",
+      "notes": "crumbled finely"
+    },
+    {
+      "name": "2 tbsp smoked paprika",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, rinse quinoa and cook with 2 cups of water until tender and the liquid is absorbed.",
+    "Transfer quinoa to an oven-safe baking dish. Mix in chopped red bell pepper, nutritional yeast, smoked paprika, cumin, salt, and black pepper.",
+    "Drizzle olive oil over the mixture and pour water evenly on top.",
+    "Bake for 25 minutes until crispy and golden brown.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "quinoa",
+    "stir-fry",
+    "australian",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 298,
+    "protein": 10,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "smoky-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:21:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "whisk",
+    "primaryIngredient": "quinoa",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
