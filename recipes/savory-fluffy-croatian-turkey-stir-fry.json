@@ -1,0 +1,109 @@
+{
+  "title": "Savory Fluffy Croatian Turkey Stir-fry",
+  "description": "A cozy Mediterranean dish featuring turkey that is both savory and fluffy. Perfect for a light lunch or dinner.",
+  "cuisine": "Mediterranean, Croatian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless turkey breast",
+      "amount": "200g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "water or broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few",
+      "notes": "freshly picked"
+    },
+    {
+      "name": "red chili flakes (optional)",
+      "amount": "1 teaspoon",
+      "notes": "for a spicy touch"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onion, garlic, and red bell pepper to the pan. Stir-fry for about 3 minutes until fragrant and softened.",
+    "Add turkey cubes and stir until browned on all sides, approximately 5-7 minutes.",
+    "Pour in tomato paste and thyme leaves, stirring well to coat the turkey evenly. Cook for another minute.",
+    "Drizzle water or broth over the mixture, add red chili flakes if using, and bring to a simmer.",
+    "Reduce heat to low-medium and cover the wok with a lid. Cook until all liquid is absorbed and turkey is cooked through (about 15 minutes).",
+    "Once done, remove from heat, season with salt and pepper, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkey",
+    "stir-fry",
+    "cozy",
+    "fluffy",
+    "savory",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 306,
+    "protein": 27,
+    "carbs": 14,
+    "fat": 15
+  },
+  "slug": "savory-fluffy-croatian-turkey-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fluffy-croatian-turkey-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:32:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "braise",
+    "primaryIngredient": "turkey",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Turkey",
+    "descriptor": "Savory Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
