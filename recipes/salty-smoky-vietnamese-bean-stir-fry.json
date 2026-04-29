@@ -1,0 +1,75 @@
+{
+  "title": "Salty-Smoky Vietnamese Bean Stir-fry",
+  "description": "A date-night friendly dish featuring crispy bean sprouts and spring onions, infused with a smoky flavor from miso paste, making it dairy-free and perfect for those who prefer a more savory experience.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup snap peas",
+      "amount": "cup"
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": "slice"
+    },
+    {
+      "name": "2 tbsp miso paste",
+      "amount": ""
+    },
+    {
+      "name": "2 spring onions, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add miso paste and stir until it forms a slightly thick sauce.",
+    "Add snap peas, bell pepper slices, and spring onions. Stir-fry for about 5 minutes or until vegetables start to soften.",
+    "Add minced garlic and continue cooking for another minute until fragrant.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "smoky",
+    "vietnamese",
+    "spring-onion",
+    "stir-fry",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 3
+  },
+  "slug": "salty-smoky-vietnamese-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-smoky-vietnamese-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T15:14:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "braise",
+    "primaryIngredient": "spring onions",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bean",
+    "descriptor": "Salty-Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
