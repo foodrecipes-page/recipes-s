@@ -1,0 +1,106 @@
+{
+  "title": "Salty Uruguayan Sevaiiya Stew",
+  "description": "This high-protein-friendly, gooey, sick-day dish features sevaiiya and a savory, comforting flavor profile.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g sevaiiya",
+      "amount": "1 bag"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "notes": "For cooking the sevaiiya and vegetables"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": null
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": null
+    },
+    {
+      "name": "2 medium potatoes, peeled and cubed",
+      "amount": null
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": null
+    },
+    {
+      "name": "1 can kidney beans, drained and rinsed",
+      "amount": null
+    },
+    {
+      "name": "3 cups vegetable broth",
+      "amount": null
+    },
+    {
+      "name": "1 tsp cumin seeds",
+      "amount": null
+    },
+    {
+      "name": "1/2 tsp coriander powder",
+      "amount": null
+    },
+    {
+      "name": "1 bay leaf",
+      "notes": "To infuse the flavor"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onions and garlic, sauté until softened.",
+    "Stir in cubed potatoes and sliced bell pepper. Cook for about 5 minutes.",
+    "Roughly chop the sevaiiya and add to the pot with kidney beans and bay leaf.",
+    "Pour in vegetable broth, bring to a boil, then reduce heat to low.",
+    "Simmer gently for at least 30 minutes or until sevaiiya is tender.",
+    "Season with salt and cumin coriander powder to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "sevaiiya",
+    "gooey",
+    "salty",
+    "high-protein-friendly",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "salty-uruguayan-sevaiiya-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-uruguayan-sevaiiya-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:56:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "sevaiiya",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "salty",
+    "dishForm": "Stew"
+  }
+}
