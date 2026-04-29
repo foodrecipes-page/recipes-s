@@ -1,0 +1,84 @@
+{
+  "title": "Smoky Crumbly Japanese Dates Stir-fry",
+  "description": "This Smoky Crumbly Japanese Dates Stir-fry is perfect for a cozy date night with its blend of crispy dates and tender vegetables, served broiled to perfection.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "200g"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bell peppers (red and green)",
+      "amount": "1 medium each"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger (fresh or powdered)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Prepare the dates by removing any pits and cutting them into small pieces.",
+    "Wash and chop the broccoli florets, bell peppers, and mince the garlic cloves.",
+    "In a large mixing bowl, combine the prepared dates with the chopped vegetables, minced garlic, soy sauce, sesame oil, rice vinegar, and ginger powder. Mix well until all ingredients are evenly coated.",
+    "Transfer the mixture to an oven-safe dish or baking sheet lined with parchment paper.",
+    "Bake in preheated oven for 20-25 minutes, stirring occasionally, until vegetables are tender and dates are slightly crisp on top but still chewy inside.",
+    "Serve hot as a side dish or a main course, garnished with sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "crumbly",
+    "japanese-dates-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 7.8,
+    "carbs": 52,
+    "fat": 6
+  },
+  "slug": "smoky-crumbly-japanese-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-japanese-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:15:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "broil",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Dates",
+    "descriptor": "Smoky Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
