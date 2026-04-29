@@ -1,0 +1,75 @@
+{
+  "title": "Salty German Shrimp Toast Crumbs",
+  "description": "A decadent shrimp toast dish with a salty and crispy topping that's both indulgent and low FODMAP-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice cakes",
+      "amount": "20-30"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a bowl, mix Panko breadcrumbs with garlic powder and salt. Add red pepper flakes if desired.",
+    "Lightly grease your hands and spread the breadcrumb mixture evenly onto each rice cake.",
+    "Place toasted rice cakes on a baking sheet lined with parchment paper.",
+    "Bake for 5-7 minutes or until golden brown, turning once halfway through cooking time.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 5,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "crispy",
+    "indulgent",
+    "german",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 36,
+    "protein": 1,
+    "carbs": 8.4,
+    "fat": 0
+  },
+  "slug": "salty-german-shrimp-toast-crumbs",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-german-shrimp-toast-crumbs",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:02:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "shrimp",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Salty",
+    "dishForm": "Toast Crumbs"
+  }
+}
