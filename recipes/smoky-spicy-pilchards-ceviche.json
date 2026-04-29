@@ -1,0 +1,93 @@
+{
+  "title": "Smoky Spicy Pilchards Ceviche",
+  "description": "A light and show-off British dish featuring pilchards marinated in a blend of spices and smoke for a unique twist on traditional ceviche.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pilchards",
+      "amount": "250g (1 can)"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fresh lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red chilli, finely chopped",
+      "amount": "1-2"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "A few grinds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Place the pilchards in a bowl and add lime juice, red chilli, garlic, cumin seeds, smoked paprika, salt, and black pepper. Mix well.",
+    "In a separate bowl, whisk together olive oil and sugar until smooth. Add to the marinade and mix again.",
+    "Cover with cling film and marinate at room temperature for 10-20 minutes or refrigerate overnight.",
+    "Serve chilled over crushed ice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-spicy-pilchards-ceviche",
+    "spicy-show-off-british-dish",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 8,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "smoky-spicy-pilchards-ceviche",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spicy-pilchards-ceviche",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:42:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "smoke",
+    "primaryIngredient": "pilchards",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Pilchards",
+    "descriptor": "Spicy Smoky",
+    "dishForm": "Ceviche"
+  }
+}
