@@ -1,0 +1,78 @@
+{
+  "title": "Spicy Gooey Brie Quesadilla",
+  "description": "A brunch-mood American dish featuring brie in a spicy gooey quesadilla, perfect for egg-free-friendly recipes and slow-cook methods.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "6 oz of creamy brie cheese",
+      "amount": "1 block"
+    },
+    {
+      "name": "2 tbsp of mayonnaise",
+      "amount": "30 ml",
+      "notes": "Use vegan mayo for non-dairy option."
+    },
+    {
+      "name": "1 tbsp of finely chopped red pepper flakes",
+      "amount": "5 g"
+    },
+    {
+      "name": "6 slices of whole wheat tortilla",
+      "amount": "1 sheet per quesadilla"
+    },
+    {
+      "name": "2 oz of grated cheddar cheese",
+      "amount": "60 g"
+    },
+    {
+      "name": "Vegetable oil or vegan butter for frying",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Slice the brie into thin rounds. If using, spread mayonnaise on one side of each tortilla and place a slice of brie on top of it.",
+    "Top with cheddar cheese slices, followed by a sprinkle of red pepper flakes.",
+    "Fold the other half of the tortilla over to form a quesadilla. Cook for about 1-2 minutes until the bottom is golden brown.",
+    "Flip and cook the other side for another 1-2 minutes or until it's also golden brown.",
+    "Serve warm with additional brie, mayonnaise, and red pepper flakes as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "gooey",
+    "quesadilla",
+    "brie",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 30,
+    "carbs": 75,
+    "fat": 45
+  },
+  "slug": "spicy-gooey-brie-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-brie-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:16:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "brie",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Brie",
+    "descriptor": "Spicy Gooey",
+    "dishForm": "Quesadilla"
+  }
+}
