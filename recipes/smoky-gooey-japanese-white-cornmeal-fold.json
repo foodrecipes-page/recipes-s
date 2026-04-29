@@ -1,0 +1,86 @@
+{
+  "title": "Smoky Gooey Japanese White Cornmeal Fold",
+  "description": "A paleo-friendly post-workout dish featuring gooey and smoky flavors from smoked paprika and white cornmeal, perfect for satisfying your cravings after a workout.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Grease a baking dish with coconut oil.",
+    "In a mixing bowl, combine white cornmeal, smoked paprika, salt, and baking soda. Gradually add unsweetened almond milk while stirring continuously until you get a smooth batter.",
+    "Fold in pumpkin seeds and vanilla extract.",
+    "Pour the mixture into your greased baking dish and bake for 20-25 minutes or until golden brown on top.",
+    "Serve warm with a side of Greek yogurt or coconut whip."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "gooey",
+    "post-workout",
+    "japanese",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "smoky-gooey-japanese-white-cornmeal-fold",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-gooey-japanese-white-cornmeal-fold",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:07:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "white cornmeal",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "white cornmeal",
+    "descriptor": "Smoky Gooey",
+    "dishForm": "Fold"
+  }
+}
