@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Roasted Cheddar Cheese Stir-fry",
+  "description": "A cozy Brazilian dish featuring smoky roasted cheddar cheese in a low-fat-friendly stir-fry that's perfect for a quick lunch or dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat",
+    "healthy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Low-Sodium Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "1 whole"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large mixing bowl, combine cheddar cheese, olive oil, smoked paprika, salt, and pepper. Mix well.",
+    "Add broccoli florets, red bell pepper slices, onion, and garlic cloves into the bowl with cheese mixture. Toss to coat evenly.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper. Arrange in an even layer and bake for 20 minutes.",
+    "Gently stir the mixture and add low-sodium broth back into the baking dish. Bake for another 10 minutes until all vegetables are tender and cheese is fully melted and bubbly.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky-roasted-cheese-stir-fry",
+    "cozy-brazilian-dish",
+    "low-fat-friendly",
+    "quick-lunch"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 17,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "smoky-roasted-cheddar-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-cheddar-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:00:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Cheddar Cheese",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
