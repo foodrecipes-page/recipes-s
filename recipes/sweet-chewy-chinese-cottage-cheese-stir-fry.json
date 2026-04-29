@@ -1,0 +1,97 @@
+{
+  "title": "Sweet & Chewy Chinese Cottage Cheese Stir-fry",
+  "description": "A meal-prep-friendly, gluten-free Chinese (Sichuan) dish featuring sweet and chewy cottage cheese with a hint of savory pickles for an authentic twist on classic stir-fry dishes.",
+  "cuisine": "Chinese (Sichuan)",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cottage Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pickle Relish",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Chili Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "A few slices, for garnish"
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix the cottage cheese with the soy sauce and cornstarch. Set aside.",
+    "Heat a wok or large skillet over medium-high heat. Add oil to the pan.",
+    "Add minced garlic and chili paste to the pan; sauté for about 1 minute until fragrant.",
+    "Stir in the pickle relish, cooking for another minute to release its flavors.",
+    "Gently fold in the cottage cheese mixture into the wok. Mix well to coat all pieces with the sauce.",
+    "Bring a small amount of water to boil and pour over the stir-fry until it forms a thick gravy-like consistency. Stir frequently to ensure no lumps form, about 2-3 minutes.",
+    "Remove from heat and garnish with chopped green onions before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-chewy",
+    "chinese-stir-fry",
+    "cottage-cheese",
+    "sichuan-flavor",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 13,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "sweet-chewy-chinese-cottage-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-chewy-chinese-cottage-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:00:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "cottage cheese",
+    "diet": "gluten-free",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Cottage Cheese",
+    "descriptor": "Sweet & Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
