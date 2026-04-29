@@ -1,0 +1,85 @@
+{
+  "title": "Steamed Steamy Russian Butter Beans Stew",
+  "description": "An earthy and dense one-pot vegetarian dish featuring butter beans steamed to perfection, perfect for a hearty dinner.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "dill",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Trim the ends of the onion and cut it into half-moons. Peel and mince the garlic cloves.",
+    "In a large pot, combine the butter beans, halved onions, minced garlic, tomato paste, water or vegetable broth, salt, black pepper, dill, and bay leaves. Stir well to mix all ingredients evenly.",
+    "Bring the mixture to a boil over medium-high heat, then reduce the heat to low and simmer for about 45 minutes until the beans are tender and the liquid has reduced slightly.",
+    "Serve hot with crusty bread or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "steamed",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 9,
+    "carbs": 36,
+    "fat": 5
+  },
+  "slug": "steamed-steamy-russian-butter-beans-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamed-steamy-russian-butter-beans-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T15:12:16Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "butter beans",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "butter beans",
+    "descriptor": "Steamed",
+    "dishForm": "Stew"
+  }
+}
