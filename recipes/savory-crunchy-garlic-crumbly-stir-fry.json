@@ -1,0 +1,87 @@
+{
+  "title": "Savory Crunchy Garlic Crumbly Stir-fry",
+  "description": "A hearty vegan Chinese dish perfect for cold days with a blend of garlic, chili sauce, and crispy textures.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Vegan Chicken Patty",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "30g"
+    },
+    {
+      "name": "Peanuts (optional for crunch)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili Sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Mince the garlic finely. Chop the green onions into rings.",
+    "If using peanuts, crush them slightly in a mortar and pestle for added texture.",
+    "Heat some oil in a wok or large frying pan over medium-high heat. Add peanuts if used, followed by the minced garlic.",
+    "Add soy sauce and chili sauce to the pan, stirring until fragrant and well combined with the garlic.",
+    "Fold in chopped green onions and bean sprouts into the sauce mixture.",
+    "Place vegan chicken patties on top of the sauce, adjusting heat for a short stir-fry time so as not to overcook the proteins.",
+    "Cover partially or let simmer for 2-3 minutes until the chicken is heated through but still moist. Adjust seasoning if needed.",
+    "Serve hot with additional chili sauce and chopped green onions on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "crumbly",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "savory-crunchy-garlic-crumbly-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-garlic-crumbly-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:43:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "chilli sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Garlic",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
