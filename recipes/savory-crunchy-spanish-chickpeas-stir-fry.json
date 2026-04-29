@@ -1,0 +1,61 @@
+{
+  "title": "Savory Crunchy Spanish Chickpeas Stir-fry",
+  "description": "This dish is a salty and comforting fusion of tamarind pulp with crispy Spanish chickpeas, perfect for a quick weeknight meal.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (15 oz) light canned chickpeas",
+      "amount": "undrained"
+    },
+    {
+      "name": "1/2 cup unsalted peanuts, crushed",
+      "amount": "",
+      "notes": "For those who are nut-free"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Drain and rinse the chickpeas. Pat them dry with a paper towel.",
+    "Combine the drained chickpeas, unsalted peanuts, and about half of a tamarind pulp in a large mixing bowl.",
+    "Season with salt to taste.",
+    "Spread the chickpea-peanut mixture evenly on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until golden brown and crunchy.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-chickpeas",
+    "tamarind-pulp",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 9,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "savory-crunchy-spanish-chickpeas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-spanish-chickpeas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:32:47Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "bake",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
