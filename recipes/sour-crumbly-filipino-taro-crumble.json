@@ -1,0 +1,94 @@
+{
+  "title": "Sour Crumbly Filipino Taro Crumble",
+  "description": "A monsoon-inspired, sour and crumbly Filipino dish featuring red chilli flakes, made keto-friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "taro",
+      "amount": "1 medium-sized",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "a few pinches",
+      "notes": "for spiciness"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "1-2",
+      "notes": "minced for aroma"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150ml",
+      "notes": "to help with binding"
+    },
+    {
+      "name": "sugar",
+      "amount": "3 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vinegar (rice or apple cider)",
+      "amount": "2 tablespoons",
+      "notes": "for tanginess"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut cream and coconut milk in a saucepan over medium heat.",
+    "Add mashed taro, minced garlic, red chilli flakes, and sugar. Mix well.",
+    "Stir in vinegar continuously until it starts to boil and thicken slightly.",
+    "Reduce heat to low and let simmer for about 5 minutes until the mixture thickens further and coats the back of a spoon.",
+    "Serve warm or at room temperature as a snack or accompaniment."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crumbly",
+    "filipino",
+    "monsoon",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "sour-crumbly-filipino-taro-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crumbly-filipino-taro-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:22:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "cure",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Taro",
+    "descriptor": "Sour Crumbly",
+    "dishForm": "Crumble"
+  }
+}
