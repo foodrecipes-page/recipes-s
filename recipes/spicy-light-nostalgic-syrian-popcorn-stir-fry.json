@@ -1,0 +1,78 @@
+{
+  "title": "Spicy Light Nostalgic Syrian Popcorn Stir-fry",
+  "description": "A light and spicy take on a traditional Syrian dish featuring toffee popcorn with a dash of nostalgia in each bite.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Popcorn kernels",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "A few grains"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Milk or water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a medium-sized pot over medium heat.",
+    "Add popcorn kernels and a pinch of salt, tossing to coat evenly. Let it pop without stirring for about 30 seconds.",
+    "While the popcorn is popping, prepare the toffee mixture by dissolving sugar in milk or water until smooth and golden brown, adding cinnamon and red pepper flakes if desired.",
+    "Drizzle the toffee mixture over the popped popcorn while it’s still warm. Stir quickly to ensure even coating.",
+    "Transfer the dish onto a serving plate and garnish with additional cinnamon powder for extra flavor and visual appeal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "nostalgic",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 1.8,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "spicy-light-nostalgic-syrian-popcorn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-light-nostalgic-syrian-popcorn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:27:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "popcorn",
+    "descriptor": "Spicy Light Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
