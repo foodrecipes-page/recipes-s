@@ -1,0 +1,80 @@
+{
+  "title": "Sour Fluffy Yogurt Stir-Fry",
+  "description": "A savory solo-dinner Chinese dish featuring full fat yogurt blended with dumplings for a unique sour and fluffy texture, perfect as a low-sodium-friendly option.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Full Fat Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "20-30 pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 green onion, chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive Oil or Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Blend full fat yogurt with garlic and scallions in a blender until smooth.",
+    "Add sesame oil, olive oil, and soy sauce to the blended yogurt mixture. Stir well.",
+    "Cook dumplings in boiling water for about 2 minutes or until they float to the surface. Remove from heat.",
+    "Heat a wok or large frying pan with a small amount of oil over medium-high heat. Add the yogurt mixture and stir-fry for about 5-7 minutes, stirring frequently until thickened.",
+    "Gently fold in cooked dumplings and simmer for another minute to allow flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sour-fluffy-yogurt-stir-fry",
+    "full-fat-yogurt-dumpling",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 16,
+    "fat": 18
+  },
+  "slug": "sour-fluffy-yogurt-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-fluffy-yogurt-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:04:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Sour Fluffy Solo-Dinner",
+    "dishForm": "Stir-fry"
+  }
+}
