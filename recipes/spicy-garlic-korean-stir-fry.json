@@ -1,0 +1,78 @@
+{
+  "title": "Spicy Garlic Korean Stir-fry",
+  "description": "An earthy and dense low-calorie-friendly brunch dish featuring garlic, prepared using the pressure-cooking method for a quick and healthy meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "100g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "scallions",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spicy chili paste",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Pressurize the chicken breast with a bit of spicy chili paste and soy sauce for about 5 minutes.",
+    "Chop the garlic, bell peppers, and scallions into small pieces.",
+    "Heat some oil in a pan over medium heat. Add the chopped vegetables and cook until they start to soften.",
+    "Add the pressurized chicken to the pan with its liquid and continue cooking for another 2 minutes.",
+    "Stir in the reserved chili paste and soy sauce, ensuring everything is well combined.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "garlic",
+    "korean",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "spicy-garlic-korean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-garlic-korean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:50:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "garlic",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Garlic",
+    "descriptor": "Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
