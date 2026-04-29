@@ -1,0 +1,77 @@
+{
+  "title": "Sweet Tender Nutella Jamaican Stir-fry",
+  "description": "A midnight-craving dish featuring a sweet and creamy twist of Nutella in a tender plant-based Jamaican-style stir-fry, perfect for those who crave something slightly indulgent.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nutella",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tofu or Tempeh cubes",
+      "amount": "200g",
+      "notes": "Marinated with Nutella and spices for a savory twist"
+    },
+    {
+      "name": "Red bell pepper slices",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "5 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch slurry (1 tbsp cornstarch mixed with 2 tbsp water)",
+      "amount": "",
+      "notes": "For thickening the sauce"
+    }
+  ],
+  "instructions": [
+    "Marinate tofu or tempeh cubes in Nutella, soy sauce, and a mix of Jamaican spices like allspice, nutmeg, cinnamon for at least 30 minutes.",
+    "Heat oil in a wok over medium heat. Add marinated tofu or tempeh cubes, cook until golden brown on both sides.",
+    "Add red bell peppers, green onions, and the cornstarch slurry to the pan. Stir-fry until peppers are slightly softened and sauce thickens.",
+    "Serve hot as a snack or side dish with rice or quinoa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutella",
+    "jamaican",
+    "stir-fry",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 407,
+    "protein": 13.6,
+    "carbs": 28.5,
+    "fat": 9.1
+  },
+  "slug": "sweet-tender-nutella-jamaican-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-tender-nutella-jamaican-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:52:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "simmer",
+    "primaryIngredient": "nutella",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Nutella",
+    "descriptor": "sweet tender",
+    "dishForm": "Stir-fry"
+  }
+}
