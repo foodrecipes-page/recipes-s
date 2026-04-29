@@ -1,0 +1,70 @@
+{
+  "title": "Smoky Flaky Thai Jam Nib Rico Stir-fry",
+  "description": "This sugar-free-friendly smoky flaky thai dish features jam nib rico stir-fried with a touch of smokiness and midnight cravings.",
+  "cuisine": "Thai",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jam nib rico",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onions, finely chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a pan over medium heat.",
+    "Add onions and garlic to the pan for about 2 minutes until they soften slightly.",
+    "Increase heat to high and add bell peppers followed by jam nib rico, stir-fry until tender and fragrant.",
+    "Serve hot as a snack with extra sambal or lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "flaky",
+    "thai dish",
+    "jam nib rico",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "smoky-flaky-thai-jam-nib-rico-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-thai-jam-nib-rico-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:27:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Jam Nib Rico",
+    "descriptor": "Smoky Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
