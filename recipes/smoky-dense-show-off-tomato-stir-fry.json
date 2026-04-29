@@ -1,0 +1,89 @@
+{
+  "title": "Smoky Dense Show-off Tomato Stir-fry",
+  "description": "A Middle Eastern-inspired dish featuring smoked tomatoes and red wine jelly as the star ingredient, this show-off recipe is egg-free-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large tomatoes",
+      "amount": "pieces",
+      "notes": "Use smoked or sun-dried tomatoes for smokiness."
+    },
+    {
+      "name": "1 cup red wine jelly",
+      "amount": "cup",
+      "notes": "Ensure it’s safe to consume as per safety regulations."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves",
+      "notes": "Minced, optional."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice",
+      "notes": "For color and flavor."
+    },
+    {
+      "name": "A pinch of cumin",
+      "amount": "pinch",
+      "notes": "To enhance the smoky flavors."
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tbsp",
+      "notes": "Heating and flavoring agent."
+    }
+  ],
+  "instructions": [
+    "Gently heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic if using, sauté until fragrant, about 30 seconds.",
+    "Carefully add tomatoes along with lemon juice. Let them cook without stirring for about 5 minutes to get some color development and caramelization.",
+    "Stir in the smoked or sun-dried tomato pieces and continue cooking for another 4-5 minutes until most of the liquid has evaporated.",
+    "Fold in the red wine jelly, lower heat to maintain a simmer. Allow it to meld with the tomatoes for about 10 minutes, stirring occasionally.",
+    "Season with salt and cumin, adjust seasoning if necessary, ensuring everything is well-combined.",
+    "Serve hot as a side dish or over rice for added authenticity."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "dense",
+    "show-off",
+    "tomato",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "smoky-dense-show-off-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dense-show-off-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:59:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "red wine jelly",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "tomato",
+    "descriptor": "smoky dense show-off",
+    "dishForm": "Stir-fry"
+  }
+}
