@@ -1,0 +1,86 @@
+{
+  "title": "Savory Silky Venezuelan Peach Stir-fry",
+  "description": "A savory and silky vegetarian-friendly dish featuring sweet peaches in a delectable vegetarian sauce, perfect for those with a sick day craving.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "2"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1, finely chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken bouillon granules (optional)",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "- to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium heat.",
+    "Add onions and garlic, sauté until fragrant and translucent.",
+    "Deglaze with the vegetable broth. Let it simmer for about 5 minutes.",
+    "Stir in tomato sauce and chicken bouillon granules (if using).",
+    "Slice peaches into rounds or cubes, add to pan and let cook together.",
+    "Season with salt and pepper to taste.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "silky",
+    "vegan_peach_stir_fry"
+  ],
+  "nutrition": {
+    "calories": 169,
+    "protein": 3.8,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "savory-silky-venezulan-peach-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-silky-venezulan-peach-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T11:50:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "peaches",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "peaches",
+    "descriptor": "Savory Silky",
+    "dishForm": "Stir-fry"
+  }
+}
