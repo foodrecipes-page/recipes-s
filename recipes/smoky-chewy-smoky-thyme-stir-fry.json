@@ -1,0 +1,84 @@
+{
+  "title": "Smoky Chewy Thyme Stir-fry",
+  "description": "A crowd-pleasing Vietnamese dish featuring fresh thyme, perfectly balanced with a touch of smokiness and chewiness to delight the taste buds.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "100g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "2 tablespoons fresh thyme",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tablespoon smoked paprika"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a small bowl, mix together smoked paprika and salt. Rub this mixture onto the pork belly pieces.",
+    "Heat 1 tablespoon of coconut oil in a non-stick skillet over medium-high heat. Add pork belly and cook until golden brown on all sides, about 5 minutes per side.",
+    "Add minced garlic to the same pan and stir-fry for an additional minute until fragrant.",
+    "Stir in thyme leaves and toss well with the cooked pork pieces.",
+    "Serve hot as a main dish or alongside rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "chewy",
+    "thyme",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 618,
+    "protein": 37,
+    "carbs": 2,
+    "fat": 35
+  },
+  "slug": "smoky-chewy-smoky-thyme-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chewy-smoky-thyme-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:56:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "fresh thyme",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Thyme",
+    "descriptor": "Smoky Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
