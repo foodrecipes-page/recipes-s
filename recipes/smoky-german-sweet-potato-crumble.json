@@ -1,0 +1,92 @@
+{
+  "title": "Smoky German Sweet Potato Crumble",
+  "description": "A decadent and indulgent dish featuring demerara sugar, smoke flavor, and keto-friendly components for a comforting yet light meal.",
+  "cuisine": "German",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoke flavor (liquid smoke or smoked paprika)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg substitute",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Rinse sweet potatoes and pierce them with a fork.",
+    "In a mixing bowl, combine coconut oil, demerara sugar, cocoa powder, vanilla extract, smoke flavor, egg substitute, and salt. Mix well until smooth.",
+    "Carefully cut the top off each sweet potato and scoop out the flesh into the mixing bowl, leaving enough skin to hold the filling together when spooned back in.",
+    "Pour the mixture into the hollowed-out sweet potatoes and place them on a baking sheet lined with parchment paper. Bake for 40 minutes or until the center is set but still slightly soft when pierced with a knife.",
+    "While the sweet potatoes are baking, prepare the crumble topping by mixing almond flour with enough additional coconut oil to make it spreadable.",
+    "Once the sweet potatoes are done, remove from oven and spoon the warm crumble mixture over each one. Return to oven for another 5 minutes or until golden brown on top.",
+    "Let cool before serving to allow filling to settle slightly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "indulgent",
+    "keto-friendly",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 17
+  },
+  "slug": "smoky-german-sweet-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-german-sweet-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:14:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "smoke",
+    "primaryIngredient": "demerara sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sweet potato",
+    "descriptor": "smoky",
+    "dishForm": "Crumble"
+  }
+}
