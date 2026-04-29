@@ -1,0 +1,76 @@
+{
+  "title": "Savory Mexican Pistachio Tender",
+  "description": "A salty and tender crowd-pleasing mexican dish featuring unsalted pistachios that are baked in a tandoor for an authentic flavor.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsalted pistachio",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "In a small bowl, mix together the unsalted pistachio, all-purpose flour, oregano, salt, paprika, and pepper.",
+    "Transfer the mixture onto a parchment-lined baking sheet. Press it down evenly with your hand so that it becomes slightly flattened.",
+    "Bake in the preheated oven for 15-20 minutes or until golden brown and crispy on top.",
+    "Remove from oven and let it cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "tender",
+    "mexican",
+    "pistachio",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 4,
+    "carbs": 7,
+    "fat": 3
+  },
+  "slug": "savory-mexican-pistachio-tender",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-mexican-pistachio-tender",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:30:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Pistachio",
+    "descriptor": "Savory",
+    "dishForm": "Tender"
+  }
+}
