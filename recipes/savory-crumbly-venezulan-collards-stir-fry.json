@@ -1,0 +1,84 @@
+{
+  "title": "Savory Crumbly Venezulan Collards Stir-fry",
+  "description": "A spicy and flavorful solo-dinner dish featuring crumbly collards sautéed with a blend of aromatic spices, ready in under 30 minutes for a satisfying meal.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green collard leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "2-3 slices or finely chopped"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "a small spoonful"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Wash and roughly chop the collard leaves.",
+    "Heat oil in a wok or large frying pan over medium-high heat. Add chopped onions and sauté until translucent.",
+    "Add finely chopped garlic and jalapeno peppers, stirring for about 1 minute until fragrant.",
+    "Toss in cumin seeds and salt. Continue to cook until the mixture starts to stick together slightly.",
+    "Fold in the chopped collard leaves and continue cooking for another 5-7 minutes or until they are wilted but still have some crunch.",
+    "Garnish with red pepper flakes if desired, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crumbly",
+    "venezuelan",
+    "collards"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 4.6,
+    "carbs": 3.2,
+    "fat": 7
+  },
+  "slug": "savory-crumbly-venezulan-collards-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-venezulan-collards-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:40:31Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "collards",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "Collards",
+    "descriptor": "savory crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
