@@ -1,0 +1,82 @@
+{
+  "title": "Salty Crumbly Tomato Crumble",
+  "description": "A cozy Brazilian dish featuring a mixture of salty tomato puree and crumbly topping that is egg-free-friendly.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tomato Puree",
+      "amount": "1 cup",
+      "notes": "Can be homemade or store-bought"
+    },
+    {
+      "name": "Coarse Salt",
+      "amount": "1/2 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "For cooking the topping"
+    },
+    {
+      "name": "Almond Meal or Ground Almonds",
+      "amount": "1 cup",
+      "notes": "As a crumbly base for the topping"
+    },
+    {
+      "name": "Pecorino Cheese",
+      "amount": "2 tbsp",
+      "notes": "For adding a bit of sharpness to the dish"
+    },
+    {
+      "name": "Sunflower Seeds or Pignoli Nuts",
+      "amount": "1/4 cup",
+      "notes": "For texture and crunch in the topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a bowl, mix tomato puree with coarse salt until well combined.",
+    "Fold through olive oil, almond meal, pecorino cheese, and sunflower seeds or pignoli nuts. Stir until the mixture is smooth and crumbly.",
+    "Transfer the tomato-crust base to an oven-safe dish. Bake for 10 minutes until golden brown and crispy.",
+    "Let it cool slightly before serving warm with additional toppings if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "crumbly",
+    "brazilian",
+    "tomato",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 13,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "salty-crumbly-tomato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crumbly-tomato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:48:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "tomato puree",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Salty Crumbly",
+    "dishForm": "Crumble"
+  }
+}
