@@ -1,0 +1,96 @@
+{
+  "title": "Sweet Velvety Lazy Sunday Syrian Cinnamon Stir-fry",
+  "description": "A sweet and velvety lazy Sunday Syrian dish featuring ground cinnamon in a hearty stir-fry that’s perfect for a casual meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "sweet",
+    "velvety",
+    "lazy-sunday",
+    "syrian",
+    "ground-cinnamon",
+    "roast",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "4 pieces (skin removed)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Spinach Leaves",
+      "amount": "2 cups, fresh"
+    },
+    {
+      "name": "Fodmap-Friendly Sauce",
+      "amount": "4 tablespoons (homemade or store-bought)"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add ground cinnamon and cook for about 30 seconds until fragrant.",
+    "Add garlic and onion, cooking for an additional 2 minutes until soft.",
+    "Place chicken pieces into the pan. Cook them, turning occasionally, until browned on all sides, about 8-10 minutes total.",
+    "Stir in the Fodmap-Friendly Sauce and lemon zest, scraping any browned bits from the bottom of the skillet.",
+    "Add chopped spinach to the pan. Cover and cook for another minute or two, or until the spinach wilts.",
+    "Serve hot with a side of crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "velvety",
+    "lazy-sunday",
+    "syrian",
+    "ground-cinnamon",
+    "roast",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 41,
+    "fat": 15
+  },
+  "slug": "sweet-velvety-lazy-sunday-syrian-cinnamon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvety-lazy-sunday-syrian-cinnamon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:13:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "cinnamon",
+    "descriptor": "sweet velvety lazy sunday",
+    "dishForm": "Stir-fry"
+  }
+}
