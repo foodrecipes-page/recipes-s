@@ -1,0 +1,97 @@
+{
+  "title": "Smoky Spanish Lamb Stir-fry",
+  "description": "A vegan-friendly solo-dinner dish featuring crispy lamb in a smoky sauce, perfect for those chilly evenings.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb lamb meatballs",
+      "amount": "200g",
+      "notes": "Use vegan sausages or cubed tofu as a substitute for lamb"
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "1 yellow onion, finely chopped",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "about",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp smoked paprika",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Drain any excess liquid from the lamb meatballs if using sausages or tofu.",
+    "In a large skillet, heat 1/4 cup of olive oil over medium-high heat. Add onion and garlic; cook for about 5 minutes until softened.",
+    "Add red bell pepper and smoked paprika to the skillet. Sauté for an additional minute.",
+    "Pour in lemon juice and stir well to combine with all ingredients. Season with salt and pepper to taste.",
+    "Remove from heat and add the drained lamb meatballs or tofu cubes. Toss everything together gently until coated evenly.",
+    "Transfer the mixture into a preheated oven-safe baking dish. Bake for about 15-20 minutes, or until the meat is cooked through (internal temperature should reach at least 145°F/63°C).",
+    "Serve hot with crusty bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crisp",
+    "spanish",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 619,
+    "protein": 27,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "smoky-spanish-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spanish-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:37:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "lamb",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "lamb",
+    "descriptor": "Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
