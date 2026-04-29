@@ -1,0 +1,79 @@
+{
+  "title": "Smoky Celeriac German Salad",
+  "description": "A smoky, crispy, and flavorful solo-dinner dish featuring celeriac cooked with cider in a pressure cooker for a deliciously healthy and comforting meal.",
+  "cuisine": "German",
+  "diet": [
+    "smoky",
+    "crispy",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 medium bulb"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": "a few"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel and thinly slice the celeriac.",
+    "In a pressure cooker, combine sliced celeriac with apple cider vinegar, olive oil, thyme sprigs, salt, and pepper. Seal and cook on high for about 5 minutes or until tender.",
+    "Transfer the cooked mixture to a bowl. Let it cool slightly before shredding into thin strips.",
+    "Mix in additional apple cider vinegar if needed for desired tanginess.",
+    "Garnish with fresh thyme leaves before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "cider",
+    "celeriac",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "smoky-celeriac-german-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-celeriac-german-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:55:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "cider",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Celeriac",
+    "descriptor": "Smoky",
+    "dishForm": "Salad"
+  }
+}
