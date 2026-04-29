@@ -1,0 +1,90 @@
+{
+  "title": "Show-off Spanish Almond Stir-fry",
+  "description": "A silky and sour show-off dish featuring almond extract, cooked sous-vide for added depth of flavor, suitable for gluten-free diets.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-free bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Gluten-free breadcrumbs",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide to 160°F (71°C).",
+    "Mix together soy sauce, almond extract, and minced garlic in a bowl.",
+    "Place the gluten-free breadcrumbs into another bowl. Add the soy sauce mixture and mix until evenly coated with sauce.",
+    "Add chopped red bell pepper to the breadcrumb mixture and gently toss to combine.",
+    "Carefully pour the breadcrumb mixture into a sous-vide bag lined with parchment paper, seal it well, and cook for 1 hour at 160°F (71°C).",
+    "Once cooked, remove from water bath and place on a cutting board. Let sit for about 15 minutes.",
+    "Mix in sour cream until fully incorporated.",
+    "Serve hot with additional gluten-free bread crumbs on top as garnish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sour",
+    "silky",
+    "spanish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 382,
+    "protein": 16,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "show-off-spanish-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-spanish-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:38:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "almond extract",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Almonds",
+    "descriptor": "Sour Silky Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
