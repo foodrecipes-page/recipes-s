@@ -1,0 +1,97 @@
+{
+  "title": "Slow-Simmered Korean Beef Stir-fry",
+  "description": "A quick and flavorful weeknight dish featuring tender beef slices simmered with soy sauce, garlic, and ginger in a spicy chili paste.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "200g",
+      "notes": "Slice thinly against the grain"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp, finely grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1/2 tbsp"
+    },
+    {
+      "name": "Spicy chili paste",
+      "amount": "1 tsp (adjust to taste)"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetables (optional)",
+      "amount": "scallions, bell peppers, snap peas"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add thinly sliced beef and cook until browned on all sides. Remove from pan.",
+    "In the same pan, add ginger, garlic, chili paste, soy sauce, ketchup, Worcestershire sauce, and water.",
+    "Bring to a simmer and let reduce for about 3 minutes.",
+    "Return beef to the pan with the sauce mixture. Stir until well combined.",
+    "If using vegetables, add them during the last minute of cooking time. Adjust seasoning if needed.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "slow-simmered",
+    "korean-beef-stir-fry",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 351,
+    "protein": 29,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "slow-simmered-korean-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-simmered-korean-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:11:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Beef",
+    "descriptor": "Slow-Simmered",
+    "dishForm": "Stir-fry"
+  }
+}
