@@ -1,0 +1,84 @@
+{
+  "title": "Savory Crumbly Paleo Potato Stir-fry",
+  "description": "A refreshing and energizing Polish dish featuring small potatoes sautéed with savory seasonings in a paleo-friendly manner.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "small russet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "chopped garlic cloves",
+      "amount": "3-4",
+      "notes": "minced or thinly sliced"
+    },
+    {
+      "name": "paleo-friendly tamari soy sauce",
+      "amount": "1 tbsp",
+      "notes": "or any paleo-friendly seasoning of your choice"
+    },
+    {
+      "name": "paleo-friendly nutritional yeast flakes",
+      "amount": "1 tsp",
+      "notes": "optional, adds a cheesy flavor and boost in protein and calcium"
+    },
+    {
+      "name": "paleo-friendly olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "fresh parsley leaves (minced for garnish)",
+      "amount": "1 handful"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Drizzle the diced potatoes with olive oil and season with salt and pepper. Toss to coat evenly.",
+    "Arrange the potato slices on a baking sheet lined with parchment paper, spread them out in a single layer, and roast for about 15-20 minutes or until golden brown and crispy on the edges.",
+    "While the potatoes are roasting, heat up 1 tbsp of olive oil in a non-stick skillet over medium-high heat. Add minced garlic cloves and sauté for about 30 seconds until fragrant but not browned.",
+    "Stir in the paleo-friendly tamari soy sauce and nutritional yeast flakes (if using), and cook for another minute, stirring constantly to combine all ingredients evenly.",
+    "Add the roasted potatoes to the skillet with the garlic-soy mixture, tossing them well to coat. Cook for about 2-3 minutes more or until heated through and thoroughly mixed.",
+    "Remove from heat immediately after the stir-fry is finished cooking. Garnish with fresh parsley leaves and serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crumbly",
+    "paleo-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "savory-crumbly-paleo-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-paleo-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:07:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "small potatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Paleo",
+    "mainIngredient": "Potato",
+    "descriptor": "Savory Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
