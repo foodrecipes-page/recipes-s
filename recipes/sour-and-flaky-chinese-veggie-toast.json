@@ -1,0 +1,82 @@
+{
+  "title": "Sour and Flaky Chinese Veggie Toast",
+  "description": "This Cantonese-inspired dish features a flaky texture with a tangy cucumber topping for a delightful date-night snack or light meal.",
+  "cuisine": "Cantonese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread slices",
+      "amount": "10"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "2"
+    },
+    {
+      "name": "Olive oil or flaxseed oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Minced garlic cloves",
+      "amount": "1-2"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the cucumber into thin rounds and sprinkle lightly with salt. Let sit for about 10 minutes, then rinse and pat dry.",
+    "Mix olive oil or flaxseed oil with lemon juice, water, and minced garlic in a bowl until well combined.",
+    "Brush each slice of bread on both sides generously with the dressing mixture.",
+    "Arrange cucumber slices over the bread to form a decorative pattern. You can also layer them for a more uniform look if desired.",
+    "Bake in the oven for about 10 minutes or until the edges are golden and crispy. If you prefer a crispier texture, bake for an additional minute on each side.",
+    "Remove from oven and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "flaky",
+    "date-night",
+    "chinese",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 2.7,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "sour-and-flaky-chinese-veggie-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-and-flaky-chinese-veggie-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T15:10:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "cucumber",
+    "diet": "vegan",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "veggie toast",
+    "descriptor": "Sour and Flaky",
+    "dishForm": "Toast"
+  }
+}
