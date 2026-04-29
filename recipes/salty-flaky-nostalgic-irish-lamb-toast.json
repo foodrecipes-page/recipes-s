@@ -1,0 +1,77 @@
+{
+  "title": "Salty, Flaky, Nostalgic Irish Lamb Toast",
+  "description": "This dish features lamb shanks in a savory sauce served on toasted bread for a perfect combination of flavor and texture.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shanks",
+      "amount": "2",
+      "notes": "Skinless, bone-in"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Onions, Finely Chopped",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, mix flour, salt, and black pepper.",
+    "Dip each lamb shank into the seasoned flour mixture, coating evenly.",
+    "Melt butter in a large skillet over medium heat. Add onions and sauté until translucent.",
+    "Place coated lamb shanks in the skillet. Cook for about 10 minutes on each side or until golden brown.",
+    "Transfer lamb to a baking dish and pour remaining seasoned flour mixture over them evenly.",
+    "Bake in preheated oven for about 2 hours or until meat is tender and easily falls off bones."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-toast",
+    "irish-dinner",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 36,
+    "carbs": 25,
+    "fat": 41
+  },
+  "slug": "salty-flaky-nostalgic-irish-lamb-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-flaky-nostalgic-irish-lamb-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:05:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "lamb shanks",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb shanks",
+    "descriptor": "Salty, Flaky, Nostalgic",
+    "dishForm": "Toast"
+  }
+}
