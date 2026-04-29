@@ -1,0 +1,85 @@
+{
+  "title": "Savory Velvety Vietnamese Banana Stir-fry",
+  "description": "A show-off Vietnamese dish featuring bananas in a velvety sauce that is both savory and high-protein-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "high-protein",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "2 medium",
+      "notes": "Use ripe bananas for best flavor."
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup",
+      "notes": "Opt for low-sodium variety if available."
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional, can be omitted for reduced salt intake."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Fresh Peppercorns",
+      "amount": "3-4",
+      "notes": "Whole or ground, depending on preference."
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 green onions, chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat.",
+    "Slice the bananas into thin rounds and finely chop the garlic cloves. Peel and roughly chop the green onions.",
+    "In a small bowl, mix Fish Sauce with Soy Sauce and set aside.",
+    "Add oil to your heated wok or skillet and when hot, add sliced bananas along with green onions.",
+    "Toss for about 1 minute until they start to soften. Add chopped garlic, turmeric powder, and salt into the pan.",
+    "Pour in the prepared Fish-Soy Sauce mixture and stir well until everything is evenly coated and fragrant.",
+    "Finally, sprinkle fresh peppercorns over the top of your banana stir-fry and continue to cook for another minute to infuse the flavor further.",
+    "Serve immediately while hot. Enjoy this high-protein-friendly Vietnamese dish as a side or main course!",
+    "prepTimeMin"
+  ],
+  "slug": "savory-velvety-vietnamese-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-velvety-vietnamese-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:53:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "bananas",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "banana",
+    "descriptor": "Savory Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
