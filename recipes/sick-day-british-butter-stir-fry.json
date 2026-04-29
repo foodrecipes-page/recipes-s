@@ -1,0 +1,85 @@
+{
+  "title": "Sick-Day British Butter Stir-fry",
+  "description": "This dish features tender vegetables and a generous helping of melted butter for an indulgent yet comforting meal.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb",
+    "saturated-fat-adapted"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "2 small"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "5-6 cloves"
+    },
+    {
+      "name": "butter",
+      "amount": "8 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add butter to the hot pan, swirling until it melts and begins to foam. Add salt and pepper for flavoring.",
+    "Add sliced onions and cook until they turn translucent, about 3-5 minutes.",
+    "Push onions to one side of the pan and add bell peppers, carrots, and celery stalks in another part of the pan. Cook until vegetables start to soften, about 4-6 minutes.",
+    "Fold onions into vegetables and mix well. Add garlic cloves on top of the vegetables and cook for an additional minute or two until the vegetables are tender but not mushy.",
+    "Serve hot as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-stir-fry",
+    "sick-day-meal"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 7.2,
+    "carbs": 5.3,
+    "fat": 14
+  },
+  "slug": "sick-day-british-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-british-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:38:51Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "melted butter",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Butter",
+    "descriptor": "Sick-Day",
+    "dishForm": "Stir-fry"
+  }
+}
