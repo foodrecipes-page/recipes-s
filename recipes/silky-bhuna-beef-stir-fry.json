@@ -1,0 +1,86 @@
+{
+  "title": "Silky Bhuna Beef Stir-fry",
+  "description": "A sour and silky Korean-inspired dish featuring tender beef brisket in a flavorful sauce that’s perfect for a quick one-pot meal.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Brisket",
+      "amount": "200g",
+      "notes": "Cut into thin slices"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Gochujang (Korean Chili Paste)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "80ml"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 slices",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Scallions",
+      "amount": "Finely chopped",
+      "notes": "Green part only"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat.",
+    "Add beef slices and cook until browned, about 5 minutes. Remove from the pan.",
+    "In the same pan, add soy sauce, gochujang, mirin, and fish sauce. Stir well to combine.",
+    "Return beef to the pan with the sauce mixture. Add ginger and scallions.",
+    "Pour in water and bring to a simmer. Let it cook for about 2-3 minutes until thickened slightly.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky-bhuna-beef-stir-fry",
+    "sour-korean-dish",
+    "beef-brisket"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 25,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "silky-bhuna-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-bhuna-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:07:11Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "beef brisket",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef brisket",
+    "descriptor": "Silky Bhuna",
+    "dishForm": "Stir-fry"
+  }
+}
