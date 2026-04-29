@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Gooey Italian Pistachio Stir-fry",
+  "description": "A lazy Sunday dish featuring a combination of creamy, gooey textures with the crunch of pistachios in a smoky flavor profile, perfect for dessert or a light snack.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups heavy whipping cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3/4 cup powdered sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup evaporated milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons butter, melted",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon Italian seasoning",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3/4 cup finely chopped pistachios",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix the flour, powdered sugar, evaporated milk, and melted butter together in a mixing bowl until smooth.",
+    "Add Italian seasoning and salt to taste. Stir well.",
+    "Fold in the chopped pistachios gently with a spatula.",
+    "Transfer the mixture into an 8x8 inch baking dish.",
+    "Bake for about 25-30 minutes or until golden brown on top.",
+    "Serve warm as a dessert or snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "gooey",
+    "lazy-sunday",
+    "italian-pistachio"
+  ],
+  "nutrition": {
+    "calories": 517,
+    "protein": 8,
+    "carbs": 43,
+    "fat": 23
+  },
+  "slug": "smoky-gooey-italian-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-gooey-italian-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:53:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "powdered sugar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pistachios",
+    "descriptor": "Smoky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
