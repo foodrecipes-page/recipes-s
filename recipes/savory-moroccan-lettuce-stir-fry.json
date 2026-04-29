@@ -1,0 +1,95 @@
+{
+  "title": "Savory Moroccan Lettuce Stir-fry",
+  "description": "A gluten-free-friendly savory dish featuring baby lettuce leaves, infused with the rich flavors of Morocco through sous-vide cooking for a hangover-cure delicacy.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "1 bunch",
+      "notes": "ensure they are thoroughly washed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced for flavor"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "a pinch",
+      "notes": "whole, lightly toasted before grinding"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "a pinch",
+      "notes": "whole, lightly toasted before grinding"
+    },
+    {
+      "name": "paprika powder",
+      "amount": "1 tsp",
+      "notes": "regular or smoked as preferred"
+    },
+    {
+      "name": "oregano leaves",
+      "amount": "few sprigs",
+      "notes": "fresh for a touch of freshness"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "2-3",
+      "notes": "optional, for color and aroma"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin if available"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 150°F (65°C) for baby lettuce leaves. Place the leaves in a single layer on a plastic sheet and vacuum seal them in a bag.",
+    "Sous-vide the bagged leaves for 3 hours at 150°F (65°C). Check temperature regularly to maintain it within range.",
+    "While the sous-vived leaves are cooling, roughly mince the garlic cloves. Toast cumin and coriander seeds lightly in a dry skillet until fragrant, then grind them with a mortar and pestle or using a spice grinder.",
+    "To assemble, heat olive oil in a frying pan over medium heat. Add minced garlic, sauté for about 30 seconds to release its flavors, then add the toasted cumin and coriander seeds mixture.",
+    "Add the cooled sous-vided leaves to the pan, tossing well to coat them evenly with the spice paste. Mix in paprika powder, oregano, and a pinch of saffron if using for added color and flavor.",
+    "Toss gently until all the leaves are coated and heated through, about 2-3 minutes on medium heat.",
+    "Serve warm or at room temperature as a snack to aid hangover recovery."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 215,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "hangover_cure",
+    "baby_lettuce",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3.5,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "savory-moroccan-lettuce-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-moroccan-lettuce-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:19:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
