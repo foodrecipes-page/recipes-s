@@ -1,0 +1,109 @@
+{
+  "title": "Silky Smoky Ukrainian Chicken Soup",
+  "description": "An earthy and silky monsoon dish featuring diabetic-friendly-friendly chicken stock infused with smoky flavors, perfect for a comforting dinner.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken bones",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "Mashed lightly with the back of a knife"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "Quartered"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "1 medium",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Chicken Stock",
+      "amount": "4 cups",
+      "notes": "Thickened with cornstarch and water to achieve a silky texture"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "Freshly chopped for extra depth of flavor"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place chicken bones in a large pot, cover with water, and bring to a boil. Reduce heat, let simmer for about an hour.",
+    "In another pan, sauté chopped onions until translucent, then add mashed garlic. Cook briefly and set aside.",
+    "Drain the broth from the pot of chicken bones, reserve any excess for thickening later. Add onion-garlic mixture to the reserved broth.",
+    "Add carrots, potatoes, celery, bay leaves, cumin seeds, coriander seeds, salt, pepper, and remaining water. Season with a pinch of sugar for sweetness balance if needed.",
+    "Simmer all ingredients together until vegetables are tender, about 20-30 minutes.",
+    "Blend the soup until smooth in batches using an immersion blender or regular blender, adding back any seasoning as it blends. If necessary, return to simmering and blend again.",
+    "Thicken the blended soup by mixing cornstarch with a small amount of hot water, then stir into the pot and let cook for another minute to thicken slightly.",
+    "Serve warm in bowls."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "silky",
+    "smoky",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "silky-smoky-ukrainian-chicken-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smoky-ukrainian-chicken-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:58:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "smoke",
+    "primaryIngredient": "chicken stock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Silky Smoky",
+    "dishForm": "Soup"
+  }
+}
