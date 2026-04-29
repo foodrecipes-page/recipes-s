@@ -1,0 +1,88 @@
+{
+  "title": "Silky Ajiaco Stir-fry",
+  "description": "An earthy and silky Argentinian dish featuring dried mint to aid in hangover recovery. Kasher-friendly and suitable for breakfast or dinner.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "200g",
+      "notes": "Skinless, bone-in"
+    },
+    {
+      "name": "Dried Mint",
+      "amount": "1 tsp",
+      "notes": "Approximately half the amount of fresh mint"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2-3 cloves",
+      "notes": "Minced or minced into a fine paste for added depth of flavor"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp",
+      "notes": "To add richness and color to the dish"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/4 cup",
+      "notes": "For thickening the sauce"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing vegetables and adding richness to the stir-fry"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": "For seasoning the dish, use low-sodium if available"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onion and garlic to the pan. Sauté until onions are translucent.",
+    "Stir in tomato paste and cook for about 1 minute until it thickens slightly.",
+    "Crush dried mint finely and add to the pan, stirring well to release its flavor.",
+    "Return chicken to the wok or skillet, ensuring all pieces are coated with the sauce.",
+    "Add soy sauce, cornstarch dissolved in a little water (to avoid clumping), and cook until mixture thickens slightly.",
+    "Garnish with fresh mint leaves before serving.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 20",
+    "totalTimeMin: 45",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "argentine",
+    "hangover-cure",
+    "silky",
+    "dairy-free",
+    "kosher"
+  ],
+  "slug": "silky-ajiaco-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-ajiaco-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:56:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "knead",
+    "primaryIngredient": "dried mint",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Ajiaco",
+    "descriptor": "Earthy Silky",
+    "dishForm": "Stir-fry"
+  }
+}
