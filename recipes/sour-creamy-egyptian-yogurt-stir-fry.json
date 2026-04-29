@@ -1,0 +1,83 @@
+{
+  "title": "Sour Creamy Egyptian Yogurt Stir-fry",
+  "description": "A savory and creamy meal-prep dish featuring high heat cooking oil and gluten-free-friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups plain Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "3 tablespoons tahini",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1 large egg white",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "6 ounces firm tofu",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Blend together the yogurt, tahini, lemon juice, egg white, and salt until smooth.",
+    "In a separate pan, lightly fry the tofu cubes in olive oil until golden brown on all sides.",
+    "Add the blended mixture to the pan with the tofu and stir well for about 2 minutes until heated through.",
+    "Garnish with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 396,
+    "protein": 18,
+    "carbs": 27,
+    "fat": 14
+  },
+  "slug": "sour-creamy-egyptian-yogurt-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-creamy-egyptian-yogurt-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:46:37Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Sour Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
