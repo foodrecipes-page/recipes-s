@@ -1,0 +1,98 @@
+{
+  "title": "Savory Crispy Spices Stir-fry",
+  "description": "A cozy Chinese dish featuring mixed spices in a savory and crispy texture, perfect for those following a paleo-friendly diet.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of boneless chicken breast",
+      "amount": "",
+      "notes": "skinless"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "2 cups mixed spices (e.g., cumin, coriander, fennel seeds)",
+      "amount": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "2 cups of coconut milk",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground ginger",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh cilantro, chopped (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add chicken and cook until golden brown, stirring occasionally. Remove from the pan and set aside.",
+    "In the same pan, add mixed spices and sauté for about 2 minutes until fragrant.",
+    "Add onion and garlic; cook for an additional minute.",
+    "Return chicken to the pan along with bell peppers and coconut milk. Stir well to combine all ingredients.",
+    "Season with soy sauce and ground ginger, stirring again to coat evenly.",
+    "Cover the pan and let simmer on low heat for about 5-10 minutes or until most of the liquid is absorbed.",
+    "Stir in fresh cilantro (if using) and serve hot over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crispy",
+    "cozy",
+    "mixed_spice",
+    "paleo_friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "savory-crispy-spices-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crispy-spices-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:10:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "mixed spice",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Spices",
+    "descriptor": "Savory Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
