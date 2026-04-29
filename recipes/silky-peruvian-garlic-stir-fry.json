@@ -1,0 +1,90 @@
+{
+  "title": "Silky Peruvian Garlic Stir-fry",
+  "description": "A silky peruvian garlic stir fry meal prep dish featuring a flavorful blend of ingredients that is both nut-free and friendly.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Green peppers",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red onions",
+      "amount": "1/2",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Jalepeño peppers",
+      "amount": "1 small",
+      "notes": "Dice finely, seeds removed"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fish sauce (optional for added depth)",
+      "amount": "1-2 tsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic, green peppers, red onions, jalepeño, salt, and pepper. Stir-fry for about 3-4 minutes until vegetables start to soften but not mushy.",
+    "If using fish sauce, add it now along with tomato paste and stir well to combine. The mixture will thicken slightly as the oil evaporates.",
+    "Pour in coconut milk and let simmer until thickened and glossy, stirring occasionally for about 5-6 minutes. The sauce should coat your back spoon nicely when poured out.",
+    "Garnish with cilantro (optional) and serve hot over rice or quinoa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky-peruvian-garlic-stir-fry",
+    "nut-free-friendly",
+    "meal-prep-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "silky-peruvian-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-peruvian-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:01:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "garlic",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
