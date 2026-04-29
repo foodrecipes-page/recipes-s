@@ -1,0 +1,93 @@
+{
+  "title": "Spicy Velvety Cherries Crumble",
+  "description": "A hangover-cure dish from Turkey featuring spicy cherries and a crumbly topping in a halal-friendly version.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups pitted fresh or frozen cherries",
+      "amount": "",
+      "notes": "Add 1/4 cup sugar for frozen cherries"
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons cornstarch",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of cayenne pepper (optional for extra heat)",
+      "amount": ""
+    },
+    {
+      "name": "4 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "2/3 cup granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup unsalted butter, softened",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Prepare cherries by adding 1/4 cup of sugar to frozen cherries or pitting fresh ones.",
+    "In a saucepan, mix cherry juice and cornstarch. Stir until thickened, then set aside.",
+    "Combine cream, sugar, cinnamon, and cayenne pepper (if using) in another saucepan over medium heat. Bring to simmering point, stirring often.",
+    "Fold the sweetened cream mixture into the cherry mixture. Simmer for 2-3 minutes or until thick enough to coat the back of a spoon.",
+    "Preheat oven to 180°C (350°F). Mix flour and sugar in a large bowl. Add softened butter, mixing until crumbly.",
+    "Spread sweetened cream mixture evenly onto a 9x13-inch baking dish lined with parchment paper.",
+    "Press the crumble mixture over the top of the cherry filling to create an even layer.",
+    "Bake for 25-30 minutes or until golden brown and bubbly on top. Allow to cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "velvety",
+    "cherries",
+    "hangover",
+    "turkish",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 1637,
+    "protein": 42,
+    "carbs": 244,
+    "fat": 98
+  },
+  "slug": "spicy-velvety-cherries-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-cherries-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:13:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "cherries",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cherries",
+    "descriptor": "Spicy Velvety",
+    "dishForm": "Crumble"
+  }
+}
