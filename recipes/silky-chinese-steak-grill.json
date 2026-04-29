@@ -1,0 +1,90 @@
+{
+  "title": "Silky Chinese Steak Grill",
+  "description": "An earthy and silky solo-dinner dish featuring a fillet of steak grilled to perfection with low-sodium-friendly seasoning for those watching their sodium intake.",
+  "cuisine": "chinese (hunan)",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fillet of steak",
+      "amount": "100g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "ginger, finely grated",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place the fillet of steak on a plate and season with salt.",
+    "Mix soy sauce, rice vinegar, sugar, minced garlic, ginger, red pepper flakes in a small bowl until well combined. Set aside.",
+    "Heat sesame oil in a pan over medium heat.",
+    "Add seasoned steak to the pan and cook for about 3-4 minutes on each side or until cooked through (internal temperature should reach at least 145°F).",
+    "Once cooked, remove from heat and let rest for 2-3 minutes before slicing thinly across the grain.",
+    "Drizzle sauce over steaks and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "steak",
+    "grill",
+    "hunan"
+  ],
+  "nutrition": {
+    "calories": 453,
+    "protein": 30,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "silky-chinese-steak-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-chinese-steak-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:45:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "fillet of steak",
+    "diet": "low-sodium",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "steak fillet",
+    "descriptor": "Silky",
+    "dishForm": "Grill"
+  }
+}
