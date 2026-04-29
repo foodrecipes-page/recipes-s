@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Velvety Chicken Stir-fry",
+  "description": "A smoky and velvety low-carb-friendly date-night dish inspired by Venezuelan cuisine, featuring five spice powder for added depth of flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium piece"
+    },
+    {
+      "name": "green onions (scallions)",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "five spice powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut chicken into bite-sized pieces and season with salt and pepper.",
+    "In a pan, heat olive oil over medium-high heat. Add chicken and cook until golden brown on all sides.",
+    "Transfer chicken to a plate. In the same pan, add red bell peppers, garlic, and green onions. Cook for about 2 minutes or until vegetables soften slightly.",
+    "Add soy sauce and five spice powder to the pan; stir well.",
+    "Return chicken to the pan with the sauce. Simmer for another 5-7 minutes.",
+    "Garnish with fresh basil leaves before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "velvety",
+    "five-spice",
+    "date-night",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 31,
+    "carbs": 7,
+    "fat": 12
+  },
+  "slug": "smoky-velvety-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-velvety-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:25:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "braise",
+    "primaryIngredient": "five spice powder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Smoky Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
