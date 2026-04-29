@@ -1,0 +1,66 @@
+{
+  "title": "Silky Slovakian Gelatin Pudding",
+  "description": "A sweet and silky egg-free Slovakian dessert made with unflavored gelatin that is perfect for a cozy night.",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Dissolve the gelatin in the water and let it sit for about 5 minutes to soften.",
+    "In a medium saucepan, heat the cream over medium heat. Add sugar and stir until fully dissolved.",
+    "Gradually add the softened gelatin mixture into the hot cream while stirring continuously to avoid lumps.",
+    "Reduce heat to low and cook, stirring occasionally, until the mixture thickens enough to coat the back of a spoon (about 10-15 minutes).",
+    "Pour the pudding into an individual serving dish or cups and refrigerate for at least 2 hours before serving. Serve cold with whipped cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "gelatin",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 1,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "silky-slovakian-gelatin-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-slovakian-gelatin-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:41:51Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Gelatin",
+    "descriptor": "Silky",
+    "dishForm": "Pudding"
+  }
+}
