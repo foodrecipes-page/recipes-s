@@ -1,0 +1,75 @@
+{
+  "title": "Smoky Chewy Midnight Bun",
+  "description": "A satisfying and comforting Korean dish featuring a plant-based bun with smoky flavors for midnight cravings.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bread Bun",
+      "amount": "1",
+      "notes": "Preferably whole wheat or oat-based for texture and nutrition."
+    },
+    {
+      "name": "Vegan Mayo",
+      "amount": "2 tablespoons",
+      "notes": "Use a low-fat option if desired."
+    },
+    {
+      "name": "Smoked Paprika Powder",
+      "amount": "1 teaspoon",
+      "notes": "For added depth of flavor and smoked quality."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Enhances the savory profile without overpowering other flavors."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Gently spread vegan mayo inside the bun.",
+    "Sprinkle smoked paprika and garlic powder evenly over the mayo.",
+    "Place the filled bun on a baking sheet lined with parchment paper.",
+    "Bake for about 20 minutes or until golden brown and slightly crispy around the edges.",
+    "Serve immediately as a snack or dessert."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "chewy",
+    "midnight",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 1,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "smoky-chewy-midnight-bun",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chewy-midnight-bun",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:04:21Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "bun",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Seitan",
+    "descriptor": "Smoky Chewy Midnight Bun",
+    "dishForm": "Bun"
+  }
+}
