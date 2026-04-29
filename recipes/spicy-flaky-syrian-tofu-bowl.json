@@ -1,0 +1,101 @@
+{
+  "title": "Spicy Flaky Syrian Tofu Bowl",
+  "description": "A romantic syrian dish featuring marinated tofu in a spicy bhuna sauce, served as a flaky bowl with halal-friendly accompaniments.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp fresh or 1 tsp grated dried"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "hing (asafoetida)",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "bhuna spices blend",
+      "amount": "3 tbsp (typically including cumin, coriander seeds, peppercorns)"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "flour (for coating tofu)",
+      "amount": "a few tablespoons"
+    }
+  ],
+  "instructions": [
+    "Slice the onion and finely chop the garlic. Grate or crush the ginger.",
+    "In a mixing bowl, combine tofu with chopped onions, minced garlic, grated ginger, cumin seeds, coriander powder, hing (asafoetida), bhuna spices blend, red chili powder, and salt. Mix well to coat evenly.",
+    "Heat oil in a pan over medium heat. When the oil is hot, carefully dust the tofu with flour to prevent sticking, then place it in the pan. Cook on each side until golden brown, about 5 minutes per side.",
+    "Prepare the spicy bhuna sauce by blending all bhuna spices (cumin seeds, coriander seeds, peppercorns) in a spice grinder or mortar and pestle with enough water to form a paste. Add this paste to a large pan with oil over medium heat. Once hot, add the blended paste and cook until it turns dark brown, stirring continuously.",
+    "Add the marinated tofu from step 2 to the bhuna sauce. Stir well until the tofu is coated evenly and absorbs the spicy sauce. Cook for another 5-7 minutes, ensuring the sauce thickens slightly.",
+    "Serve in a flaky bowl with optional toppings like chopped fresh herbs or lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "flaky",
+    "romantic",
+    "syrian",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "spicy-flaky-syrian-tofu-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-flaky-syrian-tofu-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:41:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "marinated tofu",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Spicy Flaky",
+    "dishForm": "Bowl"
+  }
+}
