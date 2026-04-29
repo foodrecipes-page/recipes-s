@@ -1,0 +1,88 @@
+{
+  "title": "Sour Crumbly Vietnamese Coconut Crumble",
+  "description": "This festive Vietnamese dish is a whole30-friendly dessert featuring cinnamon and tadka spices for a touch of warmth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tadka spices blend (optional)",
+      "amount": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweetener of choice (e.g. honey or maple syrup, optional)",
+      "amount": "to taste"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "for flavoring"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, mix coconut cream and cornstarch until smooth.",
+    "Add cinnamon powder if using and vanilla extract. If using tadka spices blend, add now too.",
+    "Bring to a simmer over medium heat while stirring continuously.",
+    "Once the mixture thickens, remove from heat and let cool slightly.",
+    "If using sweetener, mix it into the cooled sauce until well combined.",
+    "Pour the crumble onto a baking dish or plate. Chill in the fridge for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crumbly",
+    "vietnamese",
+    "festive",
+    "cinnamon",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "sour-crumbly-vietnamese-coconut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crumbly-vietnamese-coconut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:43:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "cinnamon",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "coconut",
+    "descriptor": "sour crumbly festive whole30-friendly",
+    "dishForm": "Crumble"
+  }
+}
