@@ -1,0 +1,90 @@
+{
+  "title": "Silky Fresh Kenyan Crustaceans Stir-fry",
+  "description": "A fresh and silky weeknight dish featuring crustaceans in a flavorful Thai-inspired sauce with whole30-friendly ingredients.",
+  "cuisine": "Thai-Kenyan fusion",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) crab meat",
+      "amount": "fresh, rinsed"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "chopped finely"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "minced"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "notes": "lemon or lime can be used interchangeably, optional"
+    },
+    {
+      "name": "1 tbsp sriracha sauce",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "3 tbsp coconut aminos (soy sauce)",
+      "notes": "can use tamari for gluten-free option"
+    },
+    {
+      "name": "2 tbsp fish sauce (optional, can omit for no seafood flavor)"
+    },
+    {
+      "name": "1/4 cup water",
+      "notes": "adjust to thin out the sauce if needed"
+    },
+    {
+      "name": "Pinch of salt",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over medium-high heat.",
+    "Add chopped onion and garlic, sauté for about 2 minutes until softened.",
+    "Add the crab meat to the pan. Stir-fry for another minute.",
+    "Deglaze the pan with lime juice (or lemon), scraping up any bits from the bottom of the pan.",
+    "Pour in coconut aminos, fish sauce (if using), and water. Bring to a simmer.",
+    "Season with salt as needed.",
+    "Stir everything together until heated through and the sauce has thickened slightly.",
+    "Serve immediately over steamed jasmine rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crustaceans",
+    "whole30",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 559,
+    "protein": 21,
+    "carbs": 27,
+    "fat": 24
+  },
+  "slug": "silky-fresh-kenyan-crustaceans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-fresh-kenyan-crustaceans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:30:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "deglaze",
+    "primaryIngredient": "crustaceans",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Crustaceans",
+    "descriptor": "Silky Fresh",
+    "dishForm": "Stir-fry"
+  }
+}
