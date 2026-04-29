@@ -1,0 +1,92 @@
+{
+  "title": "Smoky Fluffy Beef Stir-fry",
+  "description": "A festive Chinese dish featuring Paleo-friendly beef cutlets marinated in a savory blend of spices and served with a side of veggies for a satisfying meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Cutlets",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Chili Paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper Corns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Marinate the beef cutlets in a mixture of chili paste, brown sugar, cumin seeds, black pepper corns, and sesame oil for at least 30 minutes.",
+    "Prepare vegetables such as bell peppers, onions, and mushrooms. Slice them thinly or dice them into small pieces.",
+    "Heat your wok or skillet over medium-high heat with a drizzle of olive oil.",
+    "Add the marinated beef cutlets to the pan, sear until golden brown on both sides (about 2 minutes per side).",
+    "Remove the beef and set aside. Add chopped scallions to the pan, stir-fry for about 30 seconds.",
+    "Return the beef to the wok, add paprika powder and garlic, and toss everything together for a few more seconds until heated through.",
+    "Serve with steamed or roasted Paleo-friendly vegetables on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "paleo-friendly",
+    "smoky",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 20
+  },
+  "slug": "smoky-fluffy-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:12:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "beef cutlet",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Beef",
+    "descriptor": "Smoky Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
