@@ -1,0 +1,85 @@
+{
+  "title": "Savory Crumbly Kenyar Beef Stir-fry",
+  "description": "A flavorful and crispy dish perfect for quick meals, featuring baby lettuce leaves in a savory blend of spices and herbs.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "200g"
+    },
+    {
+      "name": "baby lettuce leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp fresh, chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the beef into small cubes.",
+    "Dice the onion and finely mince the garlic cloves.",
+    "Heat oil in a wok or large pan over medium-high heat.",
+    "Add chopped onions and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and cook for another minute.",
+    "Throw in cubed beef and stir-fry for about 10 minutes, making sure to sear the meat well on all sides.",
+    "Pour tomato sauce over beef and let simmer for 5-7 minutes until it's slightly thickened.",
+    "Remove from heat and add chopped baby lettuce leaves, thyme, and cilantro. Mix thoroughly and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "stir-fry",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 28,
+    "carbs": 17,
+    "fat": 14
+  },
+  "slug": "savory-crumbly-kenyar-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-kenyar-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:08:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyar",
+    "mainIngredient": "Beef",
+    "descriptor": "Savory Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
