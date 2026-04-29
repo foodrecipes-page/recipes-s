@@ -1,0 +1,89 @@
+{
+  "title": "Sour Crispy Turkish Padron Peppers Stir-fry",
+  "description": "This dish features tender yet slightly crunchy padron peppers in a tangy sauce made with lemon juice and vinegar, perfect for adding to your dinner menu.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Padron Peppers",
+      "amount": "12",
+      "notes": "Remove their seeds and stems"
+    },
+    {
+      "name": "Extra-virgin Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "2 tbsp",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 450°F (230°C).",
+    "Clean the padron peppers and remove their stems, seeds, and membranes.",
+    "In a pan over medium heat, add olive oil. Once hot, sauté minced garlic until fragrant.",
+    "Add padron peppers to the pan along with salt; stir occasionally for about 2-3 minutes or until they start browning slightly.",
+    "Pour in lemon juice and apple cider vinegar; mix well and let it cook for another minute until most of the liquid has evaporated.",
+    "Sprinkle chili flakes over the mixture, toss gently to coat all peppers evenly. Serve immediately garnished with fresh parsley.",
+    "Enjoy your meal hot as a starter or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crispy",
+    "turkish",
+    "padron peppers",
+    "romantic",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "sour-crispy-turkish-padron-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crispy-turkish-padron-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T11:57:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "padron peppers",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Padron Peppers",
+    "descriptor": "Sour Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
