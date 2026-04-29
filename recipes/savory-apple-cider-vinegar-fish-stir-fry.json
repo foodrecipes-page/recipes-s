@@ -1,0 +1,84 @@
+{
+  "title": "Savory Apple Cider Vinegar Fish Stir-Fry",
+  "description": "A salty and dense one-pot Malaysian dish featuring fish marinated in apple cider vinegar and served with a savory sauce.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Chicken bouillon cubes",
+      "amount": "3"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6, minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 inch, finely chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "2 tbsp, fresh"
+    }
+  ],
+  "instructions": [
+    "Combine fish with apple cider vinegar and marinate for at least 30 minutes.",
+    "Heat a wok or large skillet over high heat. Add coconut cream and chicken bouillon cubes to the pan.",
+    "Once the mixture is hot, add minced garlic and ginger; cook until fragrant, about 1 minute.",
+    "Add the diced red bell pepper and fish fillets. Stir-fry for about 4-5 minutes or until the vegetables are tender and the fish is cooked through.",
+    "Remove from heat and stir in fresh cilantro leaves just before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "dense",
+    "malaysian",
+    "one-pot",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 34,
+    "carbs": 18,
+    "fat": 26
+  },
+  "slug": "savory-apple-cider-vinegar-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-apple-cider-vinegar-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:11:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Fish",
+    "descriptor": "Savory Apple Cider Vinegar One-Pot",
+    "dishForm": "Stir-fry"
+  }
+}
