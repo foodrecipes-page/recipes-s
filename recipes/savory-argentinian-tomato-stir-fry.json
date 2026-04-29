@@ -1,0 +1,77 @@
+{
+  "title": "Savory Argentinian Tomato Stir-fry",
+  "description": "A kid-friendly and low-calorie friendly savory dish featuring red pepper paste, tomatoes, and dumplings in a flavorful yet mild sauce.",
+  "cuisine": "Argentine",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dumplings",
+      "amount": "10-15 pcs"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice tomatoes and onions, finely chop garlic.",
+    "Combine red pepper paste with olive oil in a bowl. Add chopped garlic and mix well.",
+    "Add sliced onions into the sauce, stir for about 2 minutes until translucent.",
+    "Add chopped tomatoes and dumplings to the sauce mixture, cover and simmer for 5-7 minutes or until dumplings are cooked.",
+    "Serve hot as a lunch meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crisp",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 9,
+    "carbs": 18,
+    "fat": 8
+  },
+  "slug": "savory-argentinian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-argentinian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:18:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "red pepper paste",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tomato",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
