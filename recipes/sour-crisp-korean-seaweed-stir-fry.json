@@ -1,0 +1,90 @@
+{
+  "title": "Sour Crisp Korean Seaweed Stir-fry",
+  "description": "A meal-prep friendly korean dish featuring a blend of seaweed, bread rolls, and tandoor for an unexpected yet delicious savory crunch.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kombu Seaweed",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Bread Rolls (optional)",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Seared Tandoori Chicken",
+      "amount": "200g"
+    },
+    {
+      "name": "Korean Chili Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green Onions (scallions)",
+      "amount": "5 pieces"
+    },
+    {
+      "name": "Ginger",
+      "amount": "a small piece"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine seaweed with the Korean Chili Sauce and Soy Sauce in a bowl, set aside.",
+    "Soak bread rolls in water for about 5 minutes. Drain and place on skewers.",
+    "Heat a pan over medium heat and add chicken pieces seasoned with salt and pepper. Sear until golden brown, then finish cooking.",
+    "Combine cornstarch and water to make a slurry, mix into the seaweed mixture and bring to simmering point, stirring continuously.",
+    "Saute garlic and ginger in the same pan, adding green onions last.",
+    "Plate up bread rolls with seared chicken. Serve the seaweed sauce on the side or mix it into the chicken for extra tanginess."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sour",
+    "crisp",
+    "meal-prep",
+    "korean",
+    "seaweed",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "sour-crisp-korean-seaweed-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crisp-korean-seaweed-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:08:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "bread rolls",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Seaweed",
+    "descriptor": "Sour Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
