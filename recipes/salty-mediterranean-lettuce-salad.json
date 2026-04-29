@@ -1,0 +1,76 @@
+{
+  "title": "Salty Mediterranean Lettuce Salad",
+  "description": "A refreshing and nostalgic mediterranean dish featuring tender iceberg lettuce paired with crispy fried potatoes for a salty twist, perfect as a side or light meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Iceberg lettuce",
+      "amount": "2 large heads"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "a few sprigs",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 medium"
+    }
+  ],
+  "instructions": [
+    "Slice the iceberg lettuce leaves into bite-sized pieces.",
+    "Peel and thinly slice the red onions.",
+    "Heat a skillet over medium heat, add olive oil and sliced potatoes. Fry until golden brown and crispy.",
+    "In another pan, sauté minced red onion in olive oil until translucent and slightly caramelized.",
+    "Combine fried potato slices with lettuce leaves, adding fried red onions on top if desired.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "salty",
+    "mediterranean",
+    "lettuce",
+    "fried_potatoes"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 9,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "salty-mediterranean-lettuce-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-mediterranean-lettuce-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:19:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Salty",
+    "dishForm": "Salad"
+  }
+}
