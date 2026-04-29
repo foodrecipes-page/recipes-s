@@ -1,0 +1,98 @@
+{
+  "title": "Savory Crispy Vietnamese Chicken Stir-fry",
+  "description": "A post-workout-friendly Vietnamese dish featuring savory chicken stir-fry with a kick of green salsa for added protein and crunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "green chilies",
+      "amount": "1-2, finely chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch, grated"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "a sprinkle"
+    }
+  ],
+  "instructions": [
+    "Marinate chicken in lime juice, soy sauce, sugar, and minced garlic for at least 15 minutes.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat. Add marinated chicken pieces and cook until golden brown on both sides, about 4-5 minutes per side.",
+    "Add green chilies and minced garlic to the pan; stir-fry for another minute.",
+    "Mix tomato sauce with lime juice and pour it into the wok, stirring well so all ingredients are coated evenly.",
+    "Add sliced bell peppers and continue to stir-fry until vegetables are tender but still crisp. Season with salt if needed.",
+    "Sprinkle sesame seeds on top of the chicken for additional texture.",
+    "Serve hot as a meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "crispy",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 427,
+    "protein": 38,
+    "carbs": 19,
+    "fat": 16
+  },
+  "slug": "savory-crispy-vietnamese-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crispy-vietnamese-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:28:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "boil",
+    "primaryIngredient": "green salsa",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Savory Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
