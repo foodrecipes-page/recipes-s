@@ -1,0 +1,86 @@
+{
+  "title": "Silky Indian Cabbage Stir-fry",
+  "description": "A umami-rich and silky Indian cabbage dish perfect for a solo dinner featuring caramelized cabbage leaves without eggs.",
+  "cuisine": "Indian (Kashmiri)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 large head"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Ginger Garlic Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sukhni (Indian Dry Red Chili)",
+      "amount": "4-6 pieces, crushed"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Slice the cabbage into large leaves and the onion into thin strips.",
+    "Heat oil in a non-stick pan over medium heat. Add crushed sukhni, stir for about 30 seconds.",
+    "Add chopped ginger garlic paste to the pan and sauté until fragrant, about 2 minutes.",
+    "Add sliced onions and continue cooking until they turn translucent, about 5-7 minutes.",
+    "Fold in cabbage leaves one by one. Add turmeric powder and coriander powder. Cook for an additional 10-15 minutes or until the cabbage is tender but still has a crunch.",
+    "Season with salt to taste and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "umami",
+    "indian",
+    "kashmiri",
+    "cabbage",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "silky-indian-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-indian-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:37:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "egg-free",
+    "region": "kashmiri",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
