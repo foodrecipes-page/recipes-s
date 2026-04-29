@@ -1,0 +1,75 @@
+{
+  "title": "Sweet And Crunchy Italian Date Stir-fry",
+  "description": "A sweet and crunchy Italian date dish featuring wholegrain bread, perfect for a date night or as a snack with a low FODMAP diet.",
+  "cuisine": "Italian",
+  "diet": [
+    "low fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wholegrain Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Date Medjool",
+      "amount": "12-16 dates"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut the wholegrain bread into thin slices and spread a little coconut oil on each slice.",
+    "Arrange the bread slices in a single layer on a baking sheet lined with parchment paper.",
+    "Roast for about 10 minutes or until golden brown, flipping halfway through cooking time to ensure even browning.",
+    "While the bread is roasting, soak date medjool in warm water for at least 30 minutes. Soaking helps soften them and prevents them from exploding during frying.",
+    "In a small pan over medium heat, melt brown sugar with enough coconut oil to cover the bottom of the pan, stirring continuously until dissolved. Once dissolved, let it cool slightly.",
+    "When the bread slices are toasted but still pliable (they should be able to bend), remove from oven and carefully cut into thin strips.",
+    "Drain soaked dates and gently fold them with a bit of brown sugar mixture in the pan, ensuring they're evenly coated. Cook for 2-3 minutes or until golden and fragrant.",
+    "Transfer cooked date strips onto toasted bread slices. Serve immediately while hot.",
+    "Optional: Garnish with fresh mint leaves to add freshness and color."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crunchy",
+    "italian",
+    "date-stir-fry",
+    "low fodmap"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 8
+  },
+  "slug": "sweet-and-crunchy-italian-date-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-crunchy-italian-date-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:15:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Date",
+    "descriptor": "Sweet And Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
