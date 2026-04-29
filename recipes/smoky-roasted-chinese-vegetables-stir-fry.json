@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Roasted Chinese Vegetables Stir-fry",
+  "description": "A spicy and creamy post-workout dish featuring dry sherry for a touch of smokiness, perfect for vegetarians.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell Pepper (Green or Red)",
+      "amount": "2 cups, roughly chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 cup, julienned"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup, sliced thinly"
+    },
+    {
+      "name": "Sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Pepper Flakes",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Pepper Flakes (Cayenne)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon, optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Chop onions and mince garlic. Slice carrots and zucchini into thin rounds. Chop green or red bell peppers.",
+    "Combine sherry, olive oil, soy sauce, pepper flakes, red pepper flakes, and garlic powder in a small bowl. Mix well.",
+    "In a large mixing bowl, combine the roasted vegetables with the marinade mixture, tossing until all vegetables are coated evenly.",
+    "Transfer to a baking dish. Sprinkle sesame seeds on top if using.",
+    "Roast for 20-25 minutes or until the vegetables are tender and lightly browned.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "vegetarian-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "smoky-roasted-chinese-vegetables-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-chinese-vegetables-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:01:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "smoke",
+    "primaryIngredient": "dry sherry",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
