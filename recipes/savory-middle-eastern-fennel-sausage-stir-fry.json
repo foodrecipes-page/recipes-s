@@ -1,0 +1,96 @@
+{
+  "title": "Savory Middle Eastern Fennel Sausage Stir-fry",
+  "description": "A savory and tender brunch-mood dish featuring vegetarian-friendly Italian fennel sausages, with a touch of Middle Eastern flavors.",
+  "cuisine": "Middle Eastern, Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Italian Fennel Sausage",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Pitted Kalamata Olives",
+      "amount": "20-30, halved"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, sliced thinly"
+    },
+    {
+      "name": "Jalepeno Slices (optional)",
+      "amount": "2-3, finely chopped"
+    },
+    {
+      "name": "Zucchini Slices",
+      "amount": "8-10 slices"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vinegar or Lemon Juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice sausage into bite-sized pieces.",
+    "Heat olive oil in a large skillet over medium-high heat. Add onions and garlic, cook until translucent.",
+    "Add sausage and red bell peppers to the skillet. Stir-fry for about 5 minutes or until sausage is golden brown and slightly crispy.",
+    "Stir in olives, parsley, jalapenos (if using), and zucchini. Season with salt and pepper.",
+    "Pour vinegar or lemon juice over the mixture, tossing gently to coat all ingredients evenly.",
+    "Transfer the stir-fry to a baking dish lined with parchment paper. Bake for about 15-20 minutes until vegetables are tender and edges start to brown.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-middle-eastern",
+    "salty-tender",
+    "middle-eastern-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "savory-middle-eastern-fennel-sausage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-middle-eastern-fennel-sausage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:56:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Fennel Sausage",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
