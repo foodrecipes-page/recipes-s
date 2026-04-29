@@ -1,0 +1,88 @@
+{
+  "title": "Sweet & Chewy Australian Russet Potato Stir-fry",
+  "description": "A keto-friendly and date-night appropriate dish featuring sweet and chewy russet potatoes with a touch of toasting for added texture.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ground Almonds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Slice russet potatoes into thin rounds and place on a baking sheet. Drizzle with coconut oil, sprinkle with brown sugar, ground almonds, garlic powder, salt, and pepper. Toss evenly.",
+    "Bake for about 15 minutes or until golden brown and crispy.",
+    "In a large skillet over medium heat, add 2 tablespoons of coconut oil. Once hot, add the russet potato rounds from the oven, spreading them out to prevent sticking.",
+    "Stir frequently with tongs, adding more oil as needed, for about 5-7 minutes or until desired crispiness is achieved. The potatoes should be golden and slightly caramelized but not burnt.",
+    "Add brown sugar, ground almonds, garlic powder, salt, and pepper to the skillet. Stir well and cook for an additional minute to meld all flavors together.",
+    "Serve hot as a side dish or alongside other keto-friendly meal options."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "australian",
+    "potato",
+    "date-night",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "sweet-chewy-australian-russet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-chewy-australian-russet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:36:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "russet potato",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Russet Potato",
+    "descriptor": "Sweet & Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
