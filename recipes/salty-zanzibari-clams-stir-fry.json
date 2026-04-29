@@ -1,0 +1,87 @@
+{
+  "title": "Salty Zanzibari Clams Stir-Fry",
+  "description": "A tender and salty monsoon Malaysian dish featuring clams in a vegetarian-friendly recipe.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb of fresh clams",
+      "amount": "lb"
+    },
+    {
+      "name": "3 tablespoons of vegetable oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small onion, chopped",
+      "amount": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup of soy sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tablespoon of oyster sauce or Worcestershire sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/2 teaspoon of salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": null
+    },
+    {
+      "name": "Freshly chopped cilantro for garnish (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the onions and garlic, cooking until they are translucent and fragrant.",
+    "Pour in the clams, add soy sauce, oyster sauce/lime juice, salt, and stir well to combine all ingredients.",
+    "Cook for about 5-7 minutes, or until the clams have opened. Discard any unopened clams.",
+    "Garnish with fresh cilantro if using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty",
+    "tender",
+    "malaysian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 10
+  },
+  "slug": "salty-zanzibari-clams-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-zanzibari-clams-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:51:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "clams",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Clams",
+    "descriptor": "Salty",
+    "dishForm": "Stir-fry"
+  }
+}
