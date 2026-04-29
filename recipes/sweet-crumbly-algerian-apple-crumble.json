@@ -1,0 +1,110 @@
+{
+  "title": "Sweet Crumbly Algerian Apple Crumble",
+  "description": "This weeknight dish combines sweet apples with a crumbly topping infused with cider for a delicious and easy-to-make dessert.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 (400g) bag frozen mixed berries",
+      "amount": "",
+      "notes": "Use any mix of blackberries, raspberries, and blueberries"
+    },
+    {
+      "name": "2 large Granny Smith apples",
+      "amount": "",
+      "notes": "Cubed and lightly baked with cinnamon"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "",
+      "notes": "Optional for added sweetness if needed"
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "notes": "For the crumble topping"
+    },
+    {
+      "name": "1/2 cup unsweetened applesauce",
+      "amount": "",
+      "notes": "Added to the baking mixture for extra moisture"
+    },
+    {
+      "name": "1 tablespoon lemon juice",
+      "amount": "",
+      "notes": "Lightens and balances flavors"
+    },
+    {
+      "name": "Pinch of ground cinnamon",
+      "amount": "",
+      "notes": "For flavoring apples and topping"
+    },
+    {
+      "name": "3/4 cup almond flour (or any gluten-free flour blend)",
+      "amount": "",
+      "notes": "For the crumble topping"
+    },
+    {
+      "name": "1/2 cup unsalted vegan butter, melted",
+      "amount": "",
+      "notes": "For the crumble topping"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "Enhances flavors in both apples and topping"
+    },
+    {
+      "name": "1/4 cup granulated sugar (for topping)",
+      "amount": "",
+      "notes": "Optional for added sweetness if needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Core the apples and slice into bite-sized pieces.",
+    "Toss the apple slices with sugar, cinnamon, flour, all-purpose flour, lemon juice, and a pinch of salt. Mix well until evenly coated.",
+    "Transfer the baked apples to a greased 8x8 inch baking dish.",
+    "In a separate bowl, mix together almond flour, unsalted vegan butter (melted), granulated sugar, and salt for the crumble topping.",
+    "Sprinkle half of the crumble mixture over the top layer of baked apples and press gently with your fingers to create an even distribution. Repeat by sprinkling remaining crumbs evenly on top.",
+    "Bake in preheated oven for 25-30 minutes or until the top is golden brown and crisp.",
+    "Let cool for a few minutes before serving warm with any additional mixed berries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "sweet",
+    "crumbly",
+    "apple",
+    "cider",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 4,
+    "carbs": 62,
+    "fat": 10
+  },
+  "slug": "sweet-crumbly-algerian-apple-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crumbly-algerian-apple-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:40:22Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "cider",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Apple",
+    "descriptor": "Sweet Crumbly",
+    "dishForm": "Crumble"
+  }
+}
