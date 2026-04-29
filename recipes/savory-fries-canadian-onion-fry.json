@@ -1,0 +1,68 @@
+{
+  "title": "Savory Fries Canadian Onion Fry",
+  "description": "Quick-fix crispy canadian fries with a savory twist, perfect for a snack or light meal. Low-calorie-friendly and oil-free.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie",
+    "sour"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Low-Sodium Vegetable Stock",
+      "amount": "1 cup",
+      "notes": "for flavoring"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup",
+      "notes": "for coating"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 200°C.",
+    "Mix onions with vegetable stock and coat them lightly with flour. Toss gently until all pieces are evenly coated.",
+    "Arrange the onion slices in a single layer on the air fryer basket.",
+    "Cook for about 15 minutes, flipping halfway through cooking time.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "crunchy",
+    "air-fry"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 2
+  },
+  "slug": "savory-fries-canadian-onion-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fries-canadian-onion-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:45:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "oil",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Onion",
+    "descriptor": "Savory Fries",
+    "dishForm": "Fry"
+  }
+}
