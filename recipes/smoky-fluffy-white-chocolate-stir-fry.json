@@ -1,0 +1,78 @@
+{
+  "title": "Smoky Fluffy White Chocolate Stir-fry",
+  "description": "This vegan-friendly smoky white chocolate stir-fry is a cozy Korean dish that combines rich white chocolate with aromatic spices and veggies for a comforting meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup sliced mushrooms",
+      "amount": "",
+      "notes": "Use shiitake or cremini mushrooms."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "1/4 cup finely chopped green onions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of ground black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp soy sauce (or tamari for gluten-free option)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add the sliced mushrooms, minced garlic, and green onions to the pan. Cook until the mushrooms are soft and lightly browned.",
+    "Sprinkle the ground black pepper on top of the mixture and stir well to distribute evenly.",
+    "Pour in the soy sauce (or tamari) and let it simmer for about 2-3 minutes or until slightly thickened.",
+    "Fold in a block of vegan white chocolate, break it into small pieces and stir continuously until fully melted and incorporated with the other ingredients.",
+    "Serve hot as a side dish or as a main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-fluffy-white-chocolate-stir-fry",
+    "cozy-korean-dish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "smoky-fluffy-white-chocolate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-white-chocolate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:49:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "white chocolate",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "White Chocolate",
+    "descriptor": "Smoky Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
