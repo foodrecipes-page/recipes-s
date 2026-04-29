@@ -1,0 +1,95 @@
+{
+  "title": "Salty Velvety Greek Lemon Pepper Stir-Fry",
+  "description": "A monsoon-inspired dish featuring a salty and velvety texture with the addition of fresh coriander leaves, incorporating a tadka for added flavor.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb ground beef",
+      "amount": "1 pound",
+      "notes": "Kosher-certified"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Juice of 3 lemons",
+      "amount": "juiced from 3 lemons"
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 cup finely chopped fresh coriander leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "1/4 teaspoon cumin seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "1 tablespoon coriander seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "2-3 green chilies, slit lengthwise",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add ground beef and cook until browned. Add minced garlic and sauté for another minute.",
+    "Pour in lemon juice and let it reduce slightly, stirring occasionally.",
+    "Sprinkle salt and pepper to taste over the mixture.",
+    "Stir in finely chopped coriander leaves and mix well.",
+    "Add cumin seeds, coriander seeds, and green chilies. Tadka (tempering) can be done by heating oil and adding these spices on high heat for a few seconds before adding them to the main dish.",
+    "Simmer until all liquids are absorbed, adjusting seasoning as needed.",
+    "Serve hot with crusty bread or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-lemon-pepper-stir-fry",
+    "salty-velvety-dish",
+    "coriander-leaves",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 32,
+    "carbs": 16,
+    "fat": 20
+  },
+  "slug": "salty-velvety-greek-lemon-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-velvety-greek-lemon-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:21:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "coriander leaves",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lemon pepper",
+    "descriptor": "Salty Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
