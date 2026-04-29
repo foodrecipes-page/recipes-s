@@ -1,0 +1,93 @@
+{
+  "title": "Spicy Gooey Chocolate Stir-fry",
+  "description": "A lazy-sunday mexican-inspired dish featuring a spicy chocolate sauce made with ras el hanout and bhuna spices for an added kick, perfect for vegans or pescatarians.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate",
+      "amount": "100g",
+      "notes": "For a gooier texture"
+    },
+    {
+      "name": "Ras el Hanout Spice Mix",
+      "amount": "1 tsp",
+      "notes": "Can be found in Middle Eastern grocery stores or online"
+    },
+    {
+      "name": "Bhuna Spice Paste",
+      "amount": "2 tbsp",
+      "notes": "A blend of curry powder, cumin, coriander seeds, and chili paste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced finely for a milder flavor"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Use a neutral oil like avocado or grapeseed for a healthier option"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1 tbsp",
+      "notes": "For an additional cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a small saucepan, heat the olive oil over medium heat. Add ras el hanout and bhuna spice paste. Stir until fragrant and spices are coated.",
+    "Add garlic and chili flakes to the pan, stirring for about 30 seconds or until they start to soften and release their flavors.",
+    "Gradually add water while continuously stirring with a wooden spoon to prevent burning.",
+    "Once it starts boiling, reduce heat to low and stir in dark chocolate. Cook, stirring frequently, until mixture is smooth and thickened (about 5 minutes).",
+    "Sprinkle nutritional yeast on top of the sauce for extra texture and flavor. Let simmer for another minute or two until everything is well combined.",
+    "Pour the mixture into a shallow baking dish lined with parchment paper to prevent sticking. Bake in preheated oven for about 10-15 minutes or until golden brown.",
+    "Remove from heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-chocolate-stir-fry",
+    "mexican-dish",
+    "lazy-sunday-meal",
+    "ras-el-hanout-spice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "spicy-gooey-chocolate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-chocolate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:22:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "ras el hanout",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chocolate",
+    "descriptor": "Spicy Gooey Lazy Sunday Pescatarian Friendly",
+    "dishForm": "Stir-fry"
+  }
+}
