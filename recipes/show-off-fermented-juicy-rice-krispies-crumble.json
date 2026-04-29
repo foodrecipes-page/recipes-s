@@ -1,0 +1,86 @@
+{
+  "title": "Show-off Fermented Juicy Rice Krispies Crumble",
+  "description": "A unique and show-stopping fermented rice krispie treat featuring a juicy texture and Ethiopian-inspired flavors, suitable for kosher households.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fermented Syrup (optional)",
+      "notes": "For a homemade fermented syrup, mix 1 cup water with 2 tablespoons sugar and let it ferment for at least 24 hours. Strain out solids."
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "3/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Almond Milk",
+      "notes": "Optional, for extra moisture and a lighter texture."
+    }
+  ],
+  "instructions": [
+    "Prepare the fermented syrup if using by mixing water, sugar, and apple cider vinegar in a pot.",
+    "Boil the mixture over medium-high heat until it reaches a boil. Add cornstarch and stir continuously to prevent burning.",
+    "Once cooked to desired consistency, remove from heat and let cool slightly.",
+    "Add salt and almond milk (if using) to the cooled syrup and mix well.",
+    "Fold the Rice Krispies into the sweetened mixture by gently tossing them until fully incorporated.",
+    "Transfer the crumble onto a greased baking sheet or tray and place in refrigerator for at least 2 hours before serving to allow it to set."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "show-off",
+    "fermented",
+    "juicy",
+    "rice-krispies",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "show-off-fermented-juicy-rice-krispies-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-fermented-juicy-rice-krispies-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:00:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "rice krispies",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Rice Krispies",
+    "descriptor": "fermented juicy show-off",
+    "dishForm": "Crumble"
+  }
+}
