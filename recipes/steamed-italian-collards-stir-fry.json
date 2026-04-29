@@ -1,0 +1,81 @@
+{
+  "title": "Steamed Italian Collards Stir-fry",
+  "description": "A gluten-free and herbal Italian dish featuring steamed collards with a blend of savory seasonings, perfect for meal prepping.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black olives",
+      "amount": "10-15 pieces"
+    }
+  ],
+  "instructions": [
+    "Clean and chop the collard greens into bite-sized pieces.",
+    "Heat olive oil in a pan over medium heat. Add garlic cloves, red pepper flakes, and salt. Sauté for about 30 seconds until fragrant.",
+    "Add chopped collard greens to the pan and stir-fry for 2-3 minutes until slightly wilted but still crisp.",
+    "Fold in pineapple chunks and black olives just before serving. Serve steamed collards over a bed of pasta or as a side dish.",
+    "Garnish with fresh herbs like basil or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "steamed",
+    "italian",
+    "collards",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "steamed-italian-collards-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamed-italian-collards-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:33:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "collards",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "collards",
+    "descriptor": "Steamed",
+    "dishForm": "Stir-fry"
+  }
+}
