@@ -1,0 +1,81 @@
+{
+  "title": "Spicy Silky Comforting Egyptian Chickpeas Stir-fry",
+  "description": "This spicy and silky comfort dish is perfect for a Mediterranean-inspired dinner featuring roasted chickpeas with a touch of heat.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (14.5 oz/410g) chickpeas",
+      "amount": "",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "2 tablespoons olive oil"
+    },
+    {
+      "name": "2 cloves garlic, minced"
+    },
+    {
+      "name": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "1/2 teaspoon paprika"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper (optional)"
+    },
+    {
+      "name": "Juice of 1 lemon"
+    },
+    {
+      "name": "Salt to taste"
+    },
+    {
+      "name": "Fresh parsley, chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Add chickpeas, cumin, paprika, and cayenne pepper if using. Stir well to combine ingredients evenly.",
+    "Pour the lemon juice into the pan and mix thoroughly with the chickpeas. Season with salt as needed.",
+    "Spread the mixture in an even layer on a baking sheet lined with parchment paper. Roast for 10-12 minutes, shaking the pan halfway through, until heated through and slightly crispy around the edges.",
+    "Serve hot garnished with fresh parsley."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "comfort-food",
+    "spicy",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 62,
+    "fat": 14
+  },
+  "slug": "spicy-silky-comforting-egyptian-chickpeas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-silky-comforting-egyptian-chickpeas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:28:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Spicy Silky Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
