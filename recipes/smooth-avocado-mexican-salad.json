@@ -1,0 +1,85 @@
+{
+  "title": "Sweet Avocado Mexican Salad",
+  "description": "A cozy and sweet mexican dish featuring ripe avocados in a cider vinegar dressing with roasted vegetables for a low-calorie-friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-calorie",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 small"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tablespoon, chopped fresh"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the tomato and red onion into small pieces.",
+    "Scoop avocado flesh from skin and mash with a fork, adding cider vinegar, olive oil, salt, pepper to taste, and mix well until smooth.",
+    "Fold in chopped cilantro, tomato, and red onion into the mashed avocado mixture.",
+    "Serve chilled as an appetizer or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "mexican",
+    "salad",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "smooth-avocado-mexican-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smooth-avocado-mexican-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:12:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "cider vinegar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Avocado",
+    "descriptor": "Smooth",
+    "dishForm": "Salad"
+  }
+}
