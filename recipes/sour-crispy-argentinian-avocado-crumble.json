@@ -1,0 +1,73 @@
+{
+  "title": "Sour Crispy Argentinian Avocado Crumble",
+  "description": "A crowd-pleasing Argentinean dish featuring creme fraiche, pickle, and a whole30-friendly twist for a unique breakfast or snack option.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "2 ripe avocados"
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pickled onions (or pickles)",
+      "amount": "1 small jar"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Peel and pit the avocados, then scoop out half of each avocado into a mixing bowl.",
+    "Add creme fraiche to the bowl with the scooped-out avocado halves.",
+    "Fold in fresh lime juice and salt until well combined.",
+    "Divide the mixture between two serving plates or ramekins if desired.",
+    "Top each portion with pickled onions for added crunch and flavor.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "crispy",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "sour-crispy-argentinian-avocado-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crispy-argentinian-avocado-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:33:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "creme fraiche",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Avocado",
+    "descriptor": "Sour Crispy",
+    "dishForm": "Crumble"
+  }
+}
