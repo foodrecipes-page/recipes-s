@@ -1,0 +1,87 @@
+{
+  "title": "Silky Peruvian Quinoa Muffins",
+  "description": "These herbal quinoa muffins are a savory yet comforting dish perfect for vegetarians and those looking for a hangover cure.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tbsp crushed"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2 handfuls fresh, chopped finely"
+    },
+    {
+      "name": "chives",
+      "amount": "50g thinly sliced raw"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa in a fine mesh strainer and transfer to a medium saucepan.",
+    "Add water or vegetable broth, turmeric powder, and coriander seeds. Bring to a boil over high heat.",
+    "Reduce heat to low, cover, and simmer until water is absorbed (approximately 15 minutes).",
+    "Stir in ground cumin, basil leaves, chives, and olive oil. Season with salt and pepper as desired.",
+    "Pour into prepared muffin tin lined with paper liners or sprayed with cooking spray.",
+    "Bake at 375°F for about 20-25 minutes or until a toothpick inserted comes out clean.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "silky",
+    "quinoa",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 164,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "silky-peruvian-quinoa-muffins",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-peruvian-quinoa-muffins",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:11:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "muffins",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Silky",
+    "dishForm": "Muffins"
+  }
+}
