@@ -1,0 +1,90 @@
+{
+  "title": "Spicy Creamy Show-off Syrian Chickpea Stir-fry",
+  "description": "This dish combines spicy chickpeas with a creamy chimichurri sauce and bhuna spices for an impressive meal that's both flavorful and easy to prepare.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "250g canned chickpeas",
+      "amount": "can",
+      "notes": "Rinse before use"
+    },
+    {
+      "name": "1/4 cup Greek yogurt",
+      "amount": "cup",
+      "notes": "Full-fat for creaminess"
+    },
+    {
+      "name": "1 tbsp tomato paste",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp red pepper flakes",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "amount": "",
+      "notes": "To season the chickpeas and sauce"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Rinse the canned chickpeas and set aside.",
+    "In a blender or food processor, combine Greek yogurt, tomato paste, lemon juice, minced garlic, red pepper flakes, salt, black pepper, and olive oil. Blend until smooth.",
+    "Heat the chickpeas in a large pan with a bit of oil over medium heat until they start to brown lightly.",
+    "Add the chimichurri sauce to the chickpeas and stir continuously for 1-2 minutes or until evenly coated.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian-dish",
+    "chickpea-stir-fry",
+    "spicy-creamy",
+    "bhuna-spices",
+    "yogurt-sauce"
+  ],
+  "nutrition": {
+    "calories": 403,
+    "protein": 19,
+    "carbs": 52,
+    "fat": 26
+  },
+  "slug": "spicy-creamy-show-off-syrian-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-show-off-syrian-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:58:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Spicy Creamy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
