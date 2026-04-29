@@ -1,0 +1,84 @@
+{
+  "title": "Savory Crunchy Japanese Garlic Stir-fry",
+  "description": "A quick-fix Japanese dish featuring savory and chewy textures with a blend of garlic powder, soy sauce, and sesame oil, suitable for vegetarians.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "snap peas",
+      "amount": "1 cup, trimmed and halved"
+    },
+    {
+      "name": "green onions",
+      "amount": "4-6 stalks, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together garlic powder, soy sauce, sesame oil, and rice vinegar.",
+    "Heat a large skillet or wok over medium-high heat. Add half of the whisked mixture to the pan.",
+    "Add cherry tomatoes, red bell peppers, and snap peas. Stir-fry for about 2 minutes.",
+    "Stir in the remaining whisked mixture. Cook for another 1 minute until well combined and heated through.",
+    "Garnish with green onions before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "savory-crunchy-japanese-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-japanese-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:14:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "garlic powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Garlic",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
