@@ -1,0 +1,90 @@
+{
+  "title": "Silky Adventurous Bean Sprouts Stir-fry",
+  "description": "A smoky and silky vegan Malaysian dish featuring bean sprouts with a deglaze technique to add depth of flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bean sprouts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Scallions (green onions)",
+      "amount": "1 stalk, sliced thinly"
+    },
+    {
+      "name": "Chili pepper(s)",
+      "amount": "1-2, finely chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Soya sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce (optional for added umami, omit if soy sauce is used instead)",
+      "amount": "1-2 tbsp"
+    },
+    {
+      "name": "Water or veggie stock",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat. Add garlic and scallions, stir for about 30 seconds until fragrant.",
+    "Add bean sprouts to the wok and stir-fry for about 2 minutes or until they start to wilt slightly.",
+    "Pour soya sauce, water/stock, and optional fish sauce into the wok. Stir well to combine ingredients.",
+    "Reduce heat to low and mix in cornstarch. Stir quickly for an additional minute to allow the sauce to thicken slightly.",
+    "Add finely chopped chili pepper(s) last if you like it spicy. Stir and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean sprouts",
+    "stir-fry",
+    "silky",
+    "adventurous",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "silky-adventurous-bean-sprouts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-adventurous-bean-sprouts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:27:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "deglaze",
+    "primaryIngredient": "bean sprouts",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Bean Sprouts",
+    "descriptor": "Smoky Silky Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
