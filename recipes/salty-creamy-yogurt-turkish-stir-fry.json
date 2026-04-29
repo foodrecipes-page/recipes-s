@@ -1,0 +1,81 @@
+{
+  "title": "Salty Creamy Yogurt Turkish Stir-fry",
+  "description": "A post-workout dish featuring a mix of salty yogurt with a creamy texture and infused with turmeric for a Mediterranean-friendly twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add garlic and onion, sauté for about 2 minutes until translucent.",
+    "Stir in turmeric powder and cook for an additional minute.",
+    "Fold in Greek yogurt and stir until well combined. Season with salt to taste.",
+    "Garnish with fresh mint leaves before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "stir-fry",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 16,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "salty-creamy-yogurt-turkish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-creamy-yogurt-turkish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:39:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "turmeric",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Salty Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
