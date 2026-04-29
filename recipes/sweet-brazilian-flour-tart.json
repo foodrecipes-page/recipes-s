@@ -1,0 +1,71 @@
+{
+  "title": "Sweet Brazilian Flour Tart",
+  "description": "This herbal and fluffy flour tart is a crowd-pleaser featuring ground sugar as the star ingredient, perfect for dessert.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a tart pan.",
+    "In a large bowl, mix sugar and all-purpose flour until combined. Add vanilla extract and baking powder; stir well.",
+    "Pour the mixture into your prepared tart pan and spread evenly. Bake for about 20 minutes or until golden brown on top.",
+    "Remove from oven, let it cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-brazilian-tart",
+    "fluffy-flour-tart",
+    "herbal-dessert"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 2,
+    "carbs": 34,
+    "fat": 0
+  },
+  "slug": "sweet-brazilian-flour-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-brazilian-flour-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:54:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "ground sugar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Flour",
+    "descriptor": "Sweet",
+    "dishForm": "Tart"
+  }
+}
