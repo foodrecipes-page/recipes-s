@@ -1,0 +1,78 @@
+{
+  "title": "Smoky Oily Egyptian Tomato Stir-fry",
+  "description": "A vegan-friendly sour and gooey meal prep dish featuring smoky olive oil, tomatoes, onions, and spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "6 ripe tomatoes",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "medium"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium heat.",
+    "Add garlic and sauté until soft and fragrant.",
+    "Add tomatoes, onions, and parsley to the wok.",
+    "Season with salt, pepper, cumin, paprika, and lemon juice.",
+    "Stir-fry for 5-7 minutes or until vegetables are tender.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "meal-prep",
+    "smoky-olive-oil",
+    "tomato-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "smoky-oily-egyptian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-oily-egyptian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:14:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "fry",
+    "primaryIngredient": "smoky a oli",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Smoky Oily",
+    "dishForm": "Stir-fry"
+  }
+}
