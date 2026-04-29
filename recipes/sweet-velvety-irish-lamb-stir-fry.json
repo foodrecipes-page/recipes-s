@@ -1,0 +1,101 @@
+{
+  "title": "Sweet Velvety Irish Lamb Stir-fry",
+  "description": "A sweet and velvety lamb stir-fry with a midnight-craving flavor profile that’s perfect for pescatarian diets.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "200g",
+      "notes": "Bone-in for added flavor."
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "4 oz",
+      "notes": "Full-fat for creaminess."
+    },
+    {
+      "name": "Pomegranate Syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Chopped finely."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Yellow Peppers",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large, finely chopped"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "6-8",
+      "notes": "Fresh for best flavor."
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add onions and garlic, sauté until softened about 3 minutes.",
+    "Stir in lamb shoulder and cook for 5-7 minutes per side or until browned evenly.",
+    "Add diced peppers, thyme sprigs, vegetable broth, coconut milk, and pomegranate syrup to the skillet. Stir well.",
+    "Bring to a boil then reduce heat to low-medium and simmer for about 10-12 minutes until lamb is fully cooked through but still tender.",
+    "Season with salt and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "velvety",
+    "lamb",
+    "stir-fry",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 739,
+    "protein": 31,
+    "carbs": 24,
+    "fat": 28
+  },
+  "slug": "sweet-velvety-irish-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvety-irish-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:47:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "stir-fry",
+    "primaryIngredient": "lamb",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "sweet velvety midnight craving",
+    "dishForm": "Stir-fry"
+  }
+}
