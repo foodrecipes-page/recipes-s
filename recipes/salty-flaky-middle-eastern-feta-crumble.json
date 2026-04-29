@@ -1,0 +1,72 @@
+{
+  "title": "Salty Flaky Middle Eastern Feta Crumble",
+  "description": "A date-night polish dish featuring cubed feta cheese in a salty and flaky texture, perfect for those who enjoy Mediterranean flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup (200g) cubed feta cheese",
+      "amount": "cup",
+      "notes": "ensure it's halal and at room temperature"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "3 tablespoons unsalted butter",
+      "amount": "tbsp",
+      "notes": null
+    },
+    {
+      "name": "2-3 cloves garlic, minced",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Melt the butter in a small saucepan over medium heat.",
+    "Add minced garlic and stir for about 1 minute until fragrant but not burnt.",
+    "Stir in salt and feta cheese cubes, mixing well until evenly coated with the melted butter mixture.",
+    "Transfer the feta-crumbled mixture onto an oven-safe plate or baking sheet lined with parchment paper.",
+    "Bake in preheated oven for 15-20 minutes or until golden brown and crispy on top. Avoid over-baking as it may cause cheese to dry out.",
+    "Remove from oven, let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "feta cheese",
+    "flaky texture",
+    "middle eastern snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "salty-flaky-middle-eastern-feta-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-flaky-middle-eastern-feta-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:27:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cubed feta cheese",
+    "descriptor": "salty flaky",
+    "dishForm": "polish dish"
+  }
+}
