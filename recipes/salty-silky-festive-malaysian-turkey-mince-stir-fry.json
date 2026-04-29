@@ -1,0 +1,98 @@
+{
+  "title": "Salty Silky Festive Malaysian Turkey Mince Stir-fry",
+  "description": "A festive twist on a classic dish featuring turkey mince, flavored with spices for a savory and silky texture, suitable for vegans.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey Mince",
+      "amount": "250g",
+      "notes": "Use plant-based turkey mince or soy mince for a vegan-friendly option."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "50g",
+      "notes": "For gluten-free option."
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots, grated",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Peppers, sliced (red and green)",
+      "amount": "2 each"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "5-6"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a wok or large frying pan over medium-high heat.",
+    "Dust the turkey mince with all-purpose flour and toss to coat evenly. Add salt and pepper, and stir-fry until golden brown, about 4 minutes.",
+    "Add minced garlic and chopped onion to the pan, stirring for another minute. Incorporate grated carrots and sliced peppers, continuing to stir-fry until vegetables are tender but not mushy, about 5-7 minutes.",
+    "Stir in chicken broth and thyme sprigs. Cook for an additional 3-4 minutes, allowing flavors to meld together.",
+    "Serve hot with steamed rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salty-silky-festive",
+    "malaysian-turkey-mince-stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "salty-silky-festive-malaysian-turkey-mince-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-silky-festive-malaysian-turkey-mince-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:20:51Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "turkey mince",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Turkey Mince",
+    "descriptor": "Salty Silky Festive",
+    "dishForm": "Stir-fry"
+  }
+}
