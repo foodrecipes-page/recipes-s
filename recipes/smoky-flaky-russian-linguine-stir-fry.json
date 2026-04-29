@@ -1,0 +1,94 @@
+{
+  "title": "Smoky Flaky Russian Linguine Stir-fry",
+  "description": "A raw-friendly, midnight-craving dish featuring pressure-cooked linguine pasta with a smoky flavor profile to satisfy your cravings.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Linguine Pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell Pepper, chopped (any color)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Herbs (optional)",
+      "amount": "handful"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garlic and chopped onion, sauté for about 2 minutes until translucent.",
+    "Fold in bell pepper and cook for another minute.",
+    "Pour in tomato sauce, balsamic vinegar, add smoked paprika and herbs if using.",
+    "Bring to a simmer then reduce the heat to low.",
+    "Add linguine pasta and stir well to coat all pasta pieces with the sauce mixture.",
+    "Simmer until pasta is cooked (about 2-3 minutes).",
+    "Taste and adjust seasoning as needed, adding salt and pepper if necessary."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-flaky",
+    "russian-linguine-stir-fry",
+    "pressure-cooked",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 36,
+    "fat": 7
+  },
+  "slug": "smoky-flaky-russian-linguine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-russian-linguine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:34:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "linguine pasta",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "linguine",
+    "descriptor": "Smoky Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
