@@ -1,0 +1,85 @@
+{
+  "title": "Sick-Day Garlicy Thai Stir-Fry",
+  "description": "A velvety sick-day meal featuring thai green curry paste, marinated vegetables and noodles for a low-fat-friendly dish.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat",
+    "flexible"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Noodles",
+      "amount": "1 cup",
+      "notes": "Al dente, gluten-free if needed"
+    },
+    {
+      "name": "Marinated Vegetables (carrots, bell peppers, mushrooms)",
+      "amount": "2 cups total",
+      "notes": "Pre-marinated with garlic and thai green curry paste for 30 mins"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Thai Green Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "Regularly available in most grocery stores"
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "1 cup",
+      "notes": "To thin the sauce if needed"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For extra umami flavor, optional for low-fat diet"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water or vegetable stock to a boil and cook noodles according to package instructions until al dente. Drain.",
+    "In a large skillet, heat a tablespoon of oil over medium-high heat. Add chopped garlic and sauté until fragrant but not browned. Add marinated vegetables and stir for about 2 minutes.",
+    "Pour in thai green curry paste and cook for another minute, ensuring the mixture is evenly coated with the ingredients.",
+    "Gradually add water or vegetable stock while stirring continuously to avoid lumps. Once liquid has been absorbed by the vegetables and sauce thickens slightly, add fish sauce if using (this step can be skipped if you prefer a low-sodium option).",
+    "Toss in cooked noodles and cook for an additional 2 minutes until fully heated through. Adjust seasoning as needed.",
+    "Serve immediately with lime wedges or a drizzle of extra virgin olive oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "thai",
+    "stir-fry",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 478,
+    "protein": 10,
+    "carbs": 63,
+    "fat": 25
+  },
+  "slug": "sick-day-garlicy-thai-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-garlicy-thai-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:49:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "marinate",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Garlic",
+    "descriptor": "Sick-Day",
+    "dishForm": "Stir-fry"
+  }
+}
