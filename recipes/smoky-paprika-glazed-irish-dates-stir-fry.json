@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Paprika Glazed Irish Dates Stir-fry",
+  "description": "A tangy and gooey date-night dish featuring smoked paprika for an added smokiness that complements the natural sweetness of Irish dates in a low-sodium-friendly recipe.",
+  "cuisine": "Irish-American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "1 cup pitted Irish dates, soaked in water and drained",
+      "notes": "soak dates for at least an hour to reduce their natural sweetness"
+    },
+    {
+      "name": "4 slices smoked bacon, finely chopped (optional)",
+      "notes": "use low-sodium if available"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "notes": "or regular paprika for a milder taste"
+    },
+    {
+      "name": "1 tbsp honey or agave nectar (adjust to taste)",
+      "notes": "use low-sodium if available"
+    },
+    {
+      "name": "2 cups baby spinach leaves, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley or cilantro, finely chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add the soaked Irish dates to the skillet and cook until they release their natural sweetness, about 5 minutes. Add the garlic and smoked bacon if using.",
+    "Stir in the smoked paprika and honey or agave nectar, cooking for an additional 2-3 minutes until slightly thickened.",
+    "Fold in chopped baby spinach leaves to wilt them gently with the glaze.",
+    "Remove from heat and garnish with fresh parsley or cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-paprika-glazed-irish-dates-stir-fry",
+    "tangy-gooey-date-night-irish-dish",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "smoky-paprika-glazed-irish-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-paprika-glazed-irish-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:33:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "paprika",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Dates",
+    "descriptor": "Smoky Paprika Glazed",
+    "dishForm": "Stir-fry"
+  }
+}
