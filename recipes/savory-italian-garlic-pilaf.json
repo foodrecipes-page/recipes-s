@@ -1,0 +1,95 @@
+{
+  "title": "Savory Italian Garlic Pilaf",
+  "description": "A salty, tender, indulgent Sicilian dish featuring marjoram and garlic in a light and flavorful rice pilaf.",
+  "cuisine": "Italian (Sicilian)",
+  "diet": [
+    "salty",
+    null,
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup long grain rice",
+      "amount": "cup"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Pinch of saffron threads",
+      "amount": null
+    },
+    {
+      "name": "1/4 teaspoon crushed red pepper flakes (optional)",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1 cup chicken or vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon marjoram (optional)",
+      "amount": null
+    },
+    {
+      "name": "2 cups chopped fresh spinach",
+      "amount": "cups"
+    }
+  ],
+  "instructions": [
+    "Rinse rice in cold water and drain well. Sauté garlic in olive oil until fragrant.",
+    "Add rice, saffron threads (if using), red pepper flakes (if using), and broth to a pot over medium heat. Stir occasionally until liquid is absorbed and rice is tender.",
+    "Reduce heat to low, add salt and black pepper. If desired, sprinkle marjoram on top of the rice before serving.",
+    "When ready to serve, stir in chopped spinach for last minute cooking time."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory-italian-garlic-pilaf",
+    "salty-tender-indulgent",
+    "indulgent-italian-dish",
+    "sri-lankan-saffron-rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "savory-italian-garlic-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-italian-garlic-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:22:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "saute",
+    "primaryIngredient": "marjoram",
+    "diet": "fodmap",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
