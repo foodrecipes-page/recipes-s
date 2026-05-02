@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Chinese Dried White Navy Beans Stew",
+  "description": "A rich, slow-cooked stew featuring tender dried white navy beans with a hint of smokiness from dried chili flakes and aromatic spices. High-protein and perfect for a hearty dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "unsalted pork shoulder",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "dried chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 piece",
+      "notes": "adds subtle licorice note"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      ": ": ", "
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "light"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "balances acidity"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Soak dried white navy beans overnight in water.",
+    "In a large pot, sauté pork shoulder cubes with garlic and ginger until lightly browned.",
+    "Add star anise, dried chili flakes, soy sauce, brown sugar, and 1 cup water. Bring to a gentle simmer.",
+    "Add soaked beans and coconut milk. Bring to a boil, then reduce heat to low.",
+    "Cover and cook for 1 hour, stirring occasionally to prevent sticking.",
+    "Add remaining 1 cup water and simmer for another 20 minutes until beans are tender.",
+    "Adjust seasoning with a pinch of salt and a splash of water if needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stew",
+    "highprotein",
+    "driedbeans",
+    "smoky",
+    "vegetarian",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 24,
+    "carbs": 42,
+    "fat": 12
+  },
+  "slug": "smoky-chinese-dried-white-navy-beans-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chinese-dried-white-navy-beans-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:31:57Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "dried white navy beans",
+    "descriptor": "smoky",
+    "dishForm": "stew"
+  }
+}
