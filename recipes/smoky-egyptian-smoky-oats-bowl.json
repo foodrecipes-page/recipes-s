@@ -1,0 +1,63 @@
+{
+  "title": "Smoky Egyptian Smoky Oats Bowl",
+  "description": "A light, smoky oat bowl inspired by Egyptian cuisine, perfect for a FODMAP-friendly breakfast. Silky texture with subtle smoke flavor without heavy additives.",
+  "cuisine": "egyptian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "30g",
+      "notes": "certified FODMAP"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp",
+      "notes": "natural smoke flavor"
+    },
+    {
+      "name": "almond milk",
+      "amount": "150ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "5g",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "2 leaves",
+      "notes": "light herb accent"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine rolled oats, smoked paprika, and chia seeds.",
+    "Add almond milk and stir until smooth.",
+    "Let sit for 5 minutes to thicken.",
+    "Gently fold in mint leaves before serving."
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 0,
+  ": 3.5,  (Wait, the user said total time is prep + cook, so 3 + 0 = 3.5? But they want it as number, and JSON should have totalTimeMin as number. But the example I made has 3.5. Wait, the user said ": ", but the instruction says ",
+  "slug": "smoky-egyptian-smoky-oats-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-egyptian-smoky-oats-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:22:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "ground oats",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "oats",
+    "descriptor": "smoky",
+    "dishForm": "Bowl"
+  }
+}
