@@ -1,0 +1,81 @@
+{
+  "title": "Spicy Gooey Cheese Toast",
+  "description": "A crowd-pleasing, spicy and gooey Uruguayan dish featuring full fat sour cream on paleo-friendly toast.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toasted Paleo Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Full Fat Sour Cream",
+      "amount": "1/4 cup",
+      "notes": "Use full fat to enhance the creamy texture"
+    },
+    {
+      "name": "Spicy Pepper Sauce or Hot Sauce (optional)",
+      "amount": "a few drops",
+      "notes": "For a spicy kick, adjust as needed"
+    },
+    {
+      "name": "Full Fat Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": "Optional for extra creaminess and tangy flavor"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Freshly Chopped Herbs (optional)",
+      "amount": "to taste",
+      "notes": "Such as parsley, chives or cilantro to add freshness"
+    }
+  ],
+  "instructions": [
+    "Toast the paleo bread until lightly golden brown and slightly crispy on both sides.",
+    "In a small bowl, mix together the sour cream, optional spicy pepper sauce, full fat Greek yogurt (if using), and salt. Stir well until smooth.",
+    "Spread the spiced sour cream mixture evenly over each slice of toast.",
+    "Top with fresh herbs for added freshness if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "gooey",
+    "uruguayan",
+    "crowd-pleaser",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "spicy-gooey-cheese-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-cheese-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-02T20:56:57Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "Spicy Gooey",
+    "dishForm": "Toast"
+  }
+}
