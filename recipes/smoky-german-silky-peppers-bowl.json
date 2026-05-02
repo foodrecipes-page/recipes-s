@@ -1,0 +1,89 @@
+{
+  "title": "Smoky German Silky Peppers Bowl",
+  "description": "A low-calorie, sweet red pepper dish with smoky flavor profile, featuring a light tadka (tempering) technique for a silky texture.",
+  "cuisine": "german",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet red peppers",
+      "amount": "150g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "10ml",
+      "notes": "for tadka"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "5g",
+      "description": "for smoky flavor"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "5ml",
+      "notes": "for tangy balance"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml",
+      "notes": "light, low-fat"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a small pan over medium heat.",
+    "Add smoked paprika and stir for 30 seconds to release aroma.",
+    "Add tamarind paste and cook for 1 minute until thickened.",
+    "Add sliced sweet red peppers and cook for 5 minutes until tender.",
+    "Stir in coconut milk and cook for 2 minutes until silky.",
+    "Add chopped cilantro and mix gently.",
+    "Serve immediately with a sprinkle of extra smoked paprika."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegan",
+    "low-calorie",
+    "lunch",
+    "silky",
+    "smoky",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "smoky-german-silky-peppers-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-german-silky-peppers-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:47:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "peppers",
+    "descriptor": "Smoky",
+    "dishForm": "Bowl"
+  }
+}
