@@ -1,0 +1,79 @@
+{
+  "title": "Sweet Irish Tamarind Pudding",
+  "description": "A cozy, nut-free Irish dessert featuring tangy tamarind paste with a creamy texture, perfect for a sweet treat.",
+  "cuisine": "irish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp",
+      "notes": "use unsweetened, ripe tamarind"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole or low-fat"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      ": name": "cornstarch",
+      "amount": "1 tbsp",
+      "notes": "thickener"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine tamarind paste, sugar, milk, and vanilla extract.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens slightly (about 5 minutes).",
+    "Stir in cornstarch until dissolved, then continue cooking for 2 more minutes.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 7,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "tamarind",
+    "dessert",
+    "sweet",
+    "cozy",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 38,
+    "fat": 5
+  },
+  "slug": "sweet-irish-tamarind-pudding",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-irish-tamarind-pudding",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:02:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "tamarind paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "tamarind",
+    "descriptor": "Sweet",
+    "dishForm": "Pudding"
+  }
+}
