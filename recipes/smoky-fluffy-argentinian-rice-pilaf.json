@@ -1,0 +1,84 @@
+{
+  "title": "Smoky Fluffy Argentinian Rice Pilaf",
+  "description": "This energizing dish features dark brown sugar and a tadka (spices) to add smokiness to the fluffy Argentinian rice pilaf, making it gluten-free-friendly.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "3 cups long-grain white rice",
+      "amount": "",
+      "notes": "Rinse thoroughly to remove excess starch."
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": "room temperature"
+    },
+    {
+      "name": "1/4 cup dark brown sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "Optional to taste."
+    },
+    {
+      "name": "Grated lemon zest (optional)",
+      "amount": "",
+      "notes": "For extra flavor."
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in cold water until the water runs clear.",
+    "Heat olive oil in a saucepan over medium heat. Add garlic and sauté for about 30 seconds.",
+    "Add brown sugar, salt (if using), and lemon zest to the pan. Stir well to combine.",
+    "Pour in the rinsed rice and stir until coated with the mixture.",
+    "Gradually add water or broth while stirring constantly to prevent lumps from forming.",
+    "Bring to a boil then reduce heat to low, cover, and simmer for about 15 minutes.",
+    "Remove from heat and let stand, covered, for an additional 10 minutes. Fluff with a fork before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "smoky",
+    "fluffy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 296,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 13
+  },
+  "slug": "smoky-fluffy-argentinian-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-argentinian-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-02T20:47:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "rice",
+    "descriptor": "Smoky Fluffy",
+    "dishForm": "Pilaf"
+  }
+}
