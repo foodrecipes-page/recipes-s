@@ -1,0 +1,94 @@
+{
+  "title": "Sweet & Crispy Syrian White Cabbage Stir-fry",
+  "description": "A sick-day dish featuring sweet and crispy white cabbage in a flavorful sauce that's perfect for making on the stove.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar (or honey for a touch of sweetness)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few, chopped"
+    },
+    {
+      "name": "cilantro (for garnish)",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Wash and thinly slice the white cabbage.",
+    "Heat olive oil in a pan over medium heat. Add garlic and cook until fragrant but not browned.",
+    "Add tomato paste, stirring continuously to prevent burning. Cook for about 1 minute.",
+    "Pour in apple cider vinegar, sugar, salt, and black pepper. Stir well to combine all the ingredients into a sauce.",
+    "Add sliced cabbage to the pan. Cover with a lid or foil and cook for about 3-5 minutes or until cabbage is tender but still crisp.",
+    "Stir in thyme leaves and garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crispy",
+    "syrian",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "sweet-crispy-syrian-white-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crispy-syrian-white-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-02T20:52:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "white cabbage",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "White cabbage",
+    "descriptor": "Sweet & Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
