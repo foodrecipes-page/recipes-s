@@ -1,0 +1,71 @@
+{
+  "title": "Spicy Egyptian Milk Broil",
+  "description": "A quick, energizing Egyptian-inspired dish using dairy and spices for a low-carb, diabetic-friendly meal.",
+  "cuisine": "egyptian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "full-fat coconut milk",
+      "amount": "150ml",
+      "notes": "use for creaminess without added sugar"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "for subtle heat"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Heat a small skillet over medium heat",
+    "Add coconut milk and red chili flakes",
+    "Stir gently until heated through (1-2 minutes)",
+    "Season with ground cumin and remove from heat"
+  ],
+  "prepTimeMin": 1,
+  "cookTimeMin": 2,
+  "totalTimeMin": 3,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "spicy",
+    "milk",
+    "broil",
+    "diabetic-friendly",
+    "low-carb",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 1,
+    "fat": 12
+  },
+  "slug": "spicy-egyptian-milk-broil",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-egyptian-milk-broil",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:16:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "milk",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "milk",
+    "descriptor": "Spicy",
+    "dishForm": "Broil"
+  }
+}
