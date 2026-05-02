@@ -1,0 +1,87 @@
+{
+  "title": "Sweet Italian Onion Pasta",
+  "description": "A post-workout Italian dish featuring juicy, sweet onions and a light marinade for raw-friendly consumption.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "red or yellow"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tsp",
+      "notes": "raw"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      ": ": ", "
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/8 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Clean and thinly slice the onion into rounds.",
+    "Heat olive oil in a small skillet over medium heat.",
+    "Add onion and sauté for 3 minutes until translucent.",
+    "Stir in balsamic vinegar and garlic, cook for 1 minute.",
+    "Season with black pepper and sea salt.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "onion",
+    "pasta",
+    "sweet",
+    "raw-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "sweet-italian-onion-pasta",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-italian-onion-pasta",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:34:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "onion salt",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "onion",
+    "descriptor": "Sweet",
+    "dishForm": "Pasta"
+  }
+}
