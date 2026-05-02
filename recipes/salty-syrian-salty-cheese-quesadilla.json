@@ -1,0 +1,75 @@
+{
+  "title": "Salty Syrian Cheese Quesadilla",
+  "description": "A comforting, velvety Syrian dish featuring shredded Mexican cheese, caramelized flavors, and no eggs for a rich, savory experience.",
+  "cuisine": "syrian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "syrian cheese (shredded)",
+      "amount": "30g",
+      "notes": "finely shredded, use low-moisture cheese for best results"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 small onion",
+      "notes": "finely chopped, sautéed in 1 tsp oil until golden"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salty seasoning blend",
+      "amount": "1/2 tsp",
+      "notes": "mix of black pepper, cumin, and sumac for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a medium skillet over medium heat.",
+    "Add 1 small chopped onion and sauté until golden brown (3-4 minutes).",
+    "Stir in 1/2 tsp salty seasoning blend and cook for 1 minute.",
+    "Layer 30g shredded syrian cheese over the onions in the skillet.",
+    "Cook for 1-2 minutes until cheese melts and edges are golden.",
+    "Serve warm with a side of fresh parsley for garnish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "cheese",
+    "caramelized",
+    "egg-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "salty-syrian-salty-cheese-quesadilla",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-syrian-salty-cheese-quesadilla",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:37:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "cheese",
+    "descriptor": "Salty",
+    "dishForm": "Quesadilla"
+  }
+}
