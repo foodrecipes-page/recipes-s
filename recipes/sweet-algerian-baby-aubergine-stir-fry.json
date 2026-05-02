@@ -1,0 +1,91 @@
+{
+  "title": "Sweet Algerian Baby Aubergine Stir-fry",
+  "description": "A silky and sweet brunch-mood dish featuring baby aubergines in a dairy-free stir-fry sauce that’s perfect for a quick weeknight meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Baby aubergine",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup (dairy-free)"
+    },
+    {
+      "name": "Honey or maple syrup",
+      "amount": "1-2 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "1 tbsp, finely chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add oil and onions; sauté until translucent.",
+    "Add garlic and thyme leaves to the pan; stir for about 1 minute.",
+    "Add baby aubergine slices, salt, and pepper. Stir fry for another 2 minutes until slightly charred on all sides.",
+    "Pour in tomato paste and coconut milk. Simmer for about 5-7 minutes or until thickened.",
+    "Reduce heat to low and stir in honey or maple syrup. Cook for an additional minute to let the sauce thicken further.",
+    "Serve hot with a side of naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "baby-aubergine",
+    "stir-fry",
+    "sweet",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 37,
+    "fat": 14
+  },
+  "slug": "sweet-algerian-baby-aubergine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-algerian-baby-aubergine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-02T20:45:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "baby aubergine",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "Sweet",
+    "dishForm": "Stir-fry"
+  }
+}
