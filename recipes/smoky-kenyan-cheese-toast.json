@@ -1,0 +1,79 @@
+{
+  "title": "Smoky Kenyan Cheese Toast",
+  "description": "A smoky, chewy brunch dish featuring parmesan and a hint of Kenyan flavor, perfect for keto diets.",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "kenyan smoked cheese",
+      "amount": "2 oz",
+      "notes": "Use a traditional Kenyan smoked cheese like chakalaka cheese or similar"
+    },
+    {
+      "name": "parmesan cheese",
+      ": ": ", "
+    },
+    {
+      "name": "flax seeds",
+      "amount": "1 tbsp",
+      "notes": "For keto-friendly crunch and omega-3s"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Adds smoky depth and nuttiness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "For cooking and flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat and add olive oil.",
+    "Add smoked cheese and parmesan cheese to the skillet. Stir gently until melted and slightly browned.",
+    "Sprinkle flax seeds and black sesame seeds over the cheese mixture.",
+    "Cook for 2-3 minutes until the cheese is fully melted and the seeds are toasted.",
+    "Serve warm on a slice of whole-grain bread for a keto-friendly crunch."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 3,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "keto",
+    "cheese",
+    "brunch",
+    "smoky",
+    "toasted"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "smoky-kenyan-cheese-toast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-kenyan-cheese-toast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:40:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "simmer",
+    "primaryIngredient": "parmesan",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cheese",
+    "descriptor": "Smoky",
+    "dishForm": "Toast"
+  }
+}
