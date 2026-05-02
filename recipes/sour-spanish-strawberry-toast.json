@@ -1,0 +1,80 @@
+{
+  "title": "Sour Spanish Strawberry Toast",
+  "description": "A tangy, flaky Spanish-inspired dish using fresh strawberries and sourdough bread for a refreshing, plant-based snack.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sourdough bread",
+      "amount": "2 slices (about 120g)",
+      "notes": "use fresh, crusty bread for better flavor"
+    },
+    {
+      "name": "strawberries",
+      "amount": "150g (about 1 cup)",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for acidity"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional for sweetness"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1 tsp",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F) for toasting",
+    "Slice strawberries into thin pieces and mix with lemon juice and honey",
+    "Place bread slices on a baking sheet and top with strawberry mixture",
+    "Bake for 8-10 minutes until bread is golden and crusty"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "strawberry",
+    "sour",
+    "toast",
+    "plant-based",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 8
+  },
+  "slug": "sour-spanish-strawberry-toast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-spanish-strawberry-toast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:48:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "strawberries",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "strawberries",
+    "descriptor": "Sour",
+    "dishForm": "Toast"
+  }
+}
