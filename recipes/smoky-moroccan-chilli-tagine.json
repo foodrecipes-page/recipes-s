@@ -1,0 +1,96 @@
+{
+  "title": "Smoky Moroccan Chilli Tagine",
+  "description": "A quick, silky vegetarian tagine with smoky depth from smoked paprika and fresh chilli. Perfect for busy weeknights.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g",
+      "notes": "halved"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "400g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or large skillet over medium heat.",
+    "Add onion and garlic; sauté until soft (about 3 minutes).",
+    "Stir in smoked paprika and red bell pepper; cook for 1 minute to release flavor.",
+    "Add cherry tomatoes, chickpeas, and cilantro; mix gently.",
+    "Simmer for 10 minutes until tomatoes are tender and flavors blend.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "vegetarian",
+    "quick",
+    "chilli",
+    "smoky",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "smoky-moroccan-chilli-tagine",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-moroccan-chilli-tagine",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:43:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "chilli",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chilli",
+    "descriptor": "Smoky",
+    "dishForm": "Tagine"
+  }
+}
