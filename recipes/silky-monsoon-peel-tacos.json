@@ -1,0 +1,90 @@
+{
+  "title": "Silky Monsoon Peel Tacos",
+  "description": "A buttery, silky Oaxacan-style taco featuring tender mixed peels folded with a nut-free twist.",
+  "cuisine": "mexican (oaxacan)",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oaxacan corn tortillas",
+      "amount": "6",
+      "notes": "thin, soft"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150ml",
+      ": ": ", "
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a small pan over medium heat.",
+    "Add 1/4 cup of corn tortillas, cook until slightly softened and pliable.",
+    "In a bowl, combine coconut milk, cucumber, red onion, cilantro, and lime juice.",
+    "Fold the cooked tortillas into the coconut mixture, adjusting for silkiness.",
+    "Serve warm, garnished with extra cilantro and lime wedges."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "oaxacan",
+    "tacos",
+    "silky",
+    "nut-free",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "silky-monsoon-peel-tacos",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-monsoon-peel-tacos",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:42:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "mixed peel",
+    "diet": "nut-free",
+    "region": "oaxacan",
+    "cuisineAdjective": "Monsoon",
+    "mainIngredient": "peel",
+    "descriptor": "Silky",
+    "dishForm": "Tacos"
+  }
+}
