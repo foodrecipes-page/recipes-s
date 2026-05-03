@@ -1,0 +1,109 @@
+{
+  "title": "Silky Russian Chicken Stir fry",
+  "description": "A plant-based-friendly, umami-rich Russian dish featuring chicken breasts, perfect for a hangover cure. This silky stir-fry combines the savory flavors of Russian cuisine with the comfort of a warm, nourishing meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "plant-based-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes. Remove from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the sliced onions to the skillet and cook until they are translucent, about 3-4 minutes.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown, about 4-5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "In a small bowl, whisk together the soy sauce, tomato paste, dried thyme, salt, and black pepper. Pour the sauce over the onions and mushrooms in the skillet.",
+    "Return the cooked chicken to the skillet and stir to coat with the sauce.",
+    "Reduce heat to medium-low and simmer, covered, for 10-12 minutes or until the chicken is cooked through.",
+    "Stir in the crumbled silken tofu and cook for an additional 2-3 minutes, until the sauce has thickened and the tofu is heated through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian-cuisine",
+    "chicken-stir-fry",
+    "umami-rich",
+    "hangover-cure",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "silky-russian-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-russian-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:48:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "stir-fry",
+    "primaryIngredient": "chicken breasts",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "umami silky",
+    "dishForm": "Stir-fry"
+  }
+}
