@@ -1,0 +1,105 @@
+{
+  "title": "Salty Indian Lentils Dal",
+  "description": "A light, salty dal that’s perfect for a hangover cure, simmered with fragrant spices and finished with fresh chives.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils (masoor dal)",
+      "amount": "200 g"
+    },
+    {
+      "name": "water",
+      "amount": "600 ml"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "10 leaves"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper, ground",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "chives, chopped (plus extra for garnish)",
+      "amount": "30 g"
+    },
+    {
+      "name": "oil (vegetable or olive)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until the water runs clear.",
+    "Heat the oil in a medium pot over medium heat. Add the cumin seeds and curry leaves; wait until they crackle and release their aroma.",
+    "Add the diced onion, minced garlic, and grated ginger. Sauté until the onion becomes translucent.",
+    "Stir in the chopped tomato and cook until the tomato softens and starts to break down.",
+    "Add the lentils and water, then bring the mixture to a gentle simmer.",
+    "Season with kosher salt and ground black pepper; cover and let it simmer, stirring occasionally, until the lentils are tender (about 20–25 minutes).",
+    "Taste the dal and adjust seasoning if needed. Fold in the chopped chives, stirring to distribute their flavor.",
+    "Serve the dal hot, garnished with a few extra chives for a fresh finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salty-dal",
+    "hangover-cure",
+    "kosher-friendly",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "salty-indian-lentils-dal",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-indian-lentils-dal",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:29:03Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "chives",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Salty",
+    "dishForm": "Dal"
+  }
+}

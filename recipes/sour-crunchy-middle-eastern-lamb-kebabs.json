@@ -1,0 +1,99 @@
+{
+  "title": "Sour Crunchy Middle Eastern Lamb Kebabs",
+  "description": "A flavorful and crunchy Middle Eastern-inspired dish featuring lamb kebabs, perfect for special occasions. The combination of sumac, pomegranate molasses, and ground nut oil alternatives creates a unique and delicious flavor profile.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably with 20% fat content"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "pickled turnips",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (200°C/400°F).",
+    "In a large bowl, combine lamb mince, sumac, pomegranate molasses, lemon juice, salt, and black pepper. Mix well with your hands or a wooden spoon until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kebabs for 4-5 minutes per side, or until they reach an internal temperature of 65°C/150°F for medium-rare.",
+    "Warm the pita bread by wrapping it in foil and heating it on the grill for a few minutes.",
+    "Assemble the kebabs by slicing them and serving in the warm pita bread with pickled turnips and a drizzle of pomegranate molasses.",
+    "Serve immediately and enjoy!",
+    "Consider serving with additional sides, such as roasted vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "lamb",
+    "kebabs",
+    "grilled",
+    "sour",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "sour-crunchy-middle-eastern-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-middle-eastern-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:28:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "ground nut oil",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "sour crunchy",
+    "dishForm": "Kebabs"
+  }
+}
