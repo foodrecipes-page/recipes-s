@@ -1,0 +1,110 @@
+{
+  "title": "Savory Kenyan Chili Peppers Stir-fry",
+  "description": "A salty and crispy kid-friendly vegetarian dish featuring savory Kenyan chili peppers with pickle juice and a tadka (seasoning blend). This recipe is perfect for quick weekday meals.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup shredded coconut",
+      "amount": "",
+      "notes": "For added texture and flavor"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 red onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 large cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 medium tomatoes, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup pickled green papaya (or cucumber), drained and chopped",
+      "amount": "",
+      "notes": "For its sourness"
+    },
+    {
+      "name": "1 tablespoon tamarind paste or concentrated tomato sauce",
+      "amount": "",
+      "notes": "Can use store-bought if not available"
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground turmeric",
+      "amount": "",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh coriander, chopped (for garnish)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the red onion and garlic. Sauté for about 3 minutes until softened.",
+    "Add the tomatoes and cook for another 2-3 minutes, allowing them to break down slightly.",
+    "Stir in the pickled green papaya (or cucumber), tamarind paste, ground turmeric, water, and a pinch of salt. Mix well.",
+    "Bring the mixture to a simmer, then reduce heat to low and let it cook for about 10 minutes until most of the liquid has evaporated and you have a thick sauce.",
+    "Add the shredded coconut to the wok and stir-fry for another 5-7 minutes, until the coconut is lightly toasted and golden.",
+    "Stir in salt to taste. Serve hot with fresh coriander on top as garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "kenyan",
+    "stir-fry",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "savory-kenyan-chili-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-kenyan-chili-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:30:51Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "tadka",
+    "primaryIngredient": "pickle juice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyani",
+    "mainIngredient": "chili peppers",
+    "descriptor": "Savory",
+    "dishForm": "Stir-fry"
+  }
+}
