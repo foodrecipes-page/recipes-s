@@ -1,0 +1,86 @@
+{
+  "title": "Sweet Raspberry Chinese Pancake",
+  "description": "A light and sweet dessert dish featuring raspberry jam as a temper in an unconventional pancake base that is both savory and slightly fruity.",
+  "cuisine": "Chinese (Shandong)",
+  "diet": [
+    "sweet",
+    "light"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "a pinch"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "optional, 1-2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together flour and water until it forms a smooth batter.",
+    "Add rice vinegar, sesame oil, sugar, ground cinnamon, and vanilla extract (if using) to the flour mixture. Stir well until fully combined.",
+    "Heat a non-stick pan over medium-high heat. Once hot, add 1 tablespoon of cooking spray or a small amount of butter for each pancake you wish to make.",
+    "Once heated, pour about 1/4 cup of batter onto the pan and spread evenly with a spatula. Cook until bubbles appear on top and edges start to dry out (about 2-3 minutes).",
+    "Remove from heat and fold in half, then spoon a tablespoon of raspberry jam over each pancake.",
+    "Serve warm or at room temperature as desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-raspberry",
+    "chinese-pancake",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2.8,
+    "carbs": 36,
+    "fat": 4
+  },
+  "slug": "sweet-raspberry-chinese-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-raspberry-chinese-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:23:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "raspberry jam",
+    "diet": "raw",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Raspberry",
+    "descriptor": "Sweet",
+    "dishForm": "Pancake"
+  }
+}
