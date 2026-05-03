@@ -1,0 +1,130 @@
+{
+  "title": "Spicy Hangover Aussie Pork Belly Bao",
+  "description": "A flavorful and spicy breakfast bao featuring tender pork belly slices in a gluten-free friendly filling, designed to cure even the worst hangovers.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1.2 kg",
+      "notes": "Sliced into 1 cm thick pieces"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Gluten-free bao dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green chili slices",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine pork belly, gochujang, soy sauce, brown sugar, garlic, and ginger. Mix well to coat.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a large skillet or wok over medium-high heat.",
+    "Add vegetable oil and cook the pork belly mixture until caramelized and sticky, about 10 minutes.",
+    "While the pork is cooking, prepare the bao dough according to the package instructions.",
+    "Divide the dough into small balls, about 1-inch diameter.",
+    "Roll each ball into a thin circle, about 3 inches in diameter.",
+    "Place a tablespoon of the pork belly mixture onto the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges to seal.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Cook the bao for 2-3 minutes on each side, or until golden brown.",
+    "Serve the bao hot, garnished with green chili slices, cilantro, and scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "bacon",
+    "breakfast",
+    "chili",
+    "cuisine",
+    "easy",
+    "food",
+    "gluten-free",
+    "hangover-cure",
+    "korean",
+    "pork",
+    "recipe",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "spicy-hangover-aussie-pork-belly-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-hangover-aussie-pork-belly-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:07:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "pork belly slices",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Aussie",
+    "mainIngredient": "pork belly",
+    "descriptor": "spicy hangover",
+    "dishForm": "Bao"
+  }
+}
