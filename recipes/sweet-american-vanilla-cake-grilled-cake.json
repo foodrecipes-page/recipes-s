@@ -1,0 +1,91 @@
+{
+  "title": "Sweet American Vanilla Grilled Cake",
+  "description": "A delicious and crispy grilled cake infused with the sweetness of vanilla, perfect for a cozy dessert or snack.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups (190g)"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup (200g)"
+    },
+    {
+      "name": "Unsalted butter, softened",
+      "amount": "1/2 cup (110g)"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Pure vanilla extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Soda water",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, ensuring the grates are clean and brushed with cooking spray.",
+    "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together butter, eggs, and vanilla extract.",
+    "Add the soda water to the wet ingredients and whisk until combined.",
+    "Gradually pour the wet ingredients into the dry ingredients and mix until just combined.",
+    "Do not overmix.",
+    "Transfer the batter to a piping bag fitted with a round tip.",
+    "Pipe the batter onto the prepared grill in 4-6 equal portions.",
+    "Grill for 3-4 minutes or until golden brown, flipping halfway through.",
+    "Repeat with the remaining batter.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-cake",
+    "vanilla-cake",
+    "american-dessert",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "45g",
+    "fat": "16g"
+  },
+  "slug": "sweet-american-vanilla-cake-grilled-cake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-american-vanilla-cake-grilled-cake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:06:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "vanilla",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "vanilla cake",
+    "descriptor": "sweet",
+    "dishForm": "Grilled Cake"
+  }
+}

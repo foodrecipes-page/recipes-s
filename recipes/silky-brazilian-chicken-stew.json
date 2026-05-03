@@ -1,0 +1,109 @@
+{
+  "title": "Silky Brazilian Chicken Stew",
+  "description": "A delicious and refreshing Brazilian-inspired stew featuring herbal notes and a silky texture, perfect for a brunch gathering. This low-sodium dish showcases the brightness of unwaxed lemon and the richness of chicken braised in aromatic spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free Brazilian seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute.",
+    "Add the chicken to the pot and cook, stirring occasionally, until browned on all sides, about 5-7 minutes.",
+    "Add the dried oregano, salt-free Brazilian seasoning blend, and low-sodium chicken broth to the pot. Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer, stirring occasionally, for 20-25 minutes, or until the chicken is cooked through.",
+    "Stir in the coconut milk and unwaxed lemon juice. Continue to simmer, uncovered, for an additional 5-7 minutes, or until the stew has thickened slightly.",
+    "Season the stew with salt to taste, then stir in the chopped fresh cilantro and parsley.",
+    "Serve the stew hot, garnished with additional cilantro and parsley if desired.",
+    "Let the stew cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-stew",
+    "brunch-recipe",
+    "low-sodium",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "silky-brazilian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-brazilian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:05:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "herbal silky",
+    "dishForm": "Stew"
+  }
+}
