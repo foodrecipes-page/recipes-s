@@ -1,0 +1,93 @@
+{
+  "title": "Silky Date-Night Peanut Bowl",
+  "description": "A umami-rich, silky-smooth peanut bowl perfect for date nights, featuring marinated ingredients and whole30 compliance.",
+  "cuisine": "american",
+  "diet": [
+    "whole30",
+    "umami",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe dates",
+      "amount": "1 cup (150g)",
+      "notes": "pitted, fresh"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tbsp",
+      ": ": ", "
+    },
+    {
+      "name": "toasted cashews",
+      "amount": "1/4 cup",
+      "notes": "unsalted, roughly chopped"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "1 tsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "Pit and chop 1 cup ripe dates.",
+    "In a small bowl, mix 2 tbsp almond butter, 1 tbsp coconut aminos, 1 tsp olive oil, and 1 tbsp chopped mint leaves.",
+    "Combine dates with the dressing, stirring until sticky and smooth.",
+    "Add 1/4 cup toasted cashews and 1/4 cup thinly sliced red onion, mixing gently.",
+    "Chill for 10 minutes for optimal texture and flavor.",
+    "Serve immediately with a drizzle of extra-virgin olive oil."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "peanut-bowl",
+    "umami",
+    "whole30",
+    "silky",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 8,
+    "carbs": 42,
+    "fat": 22
+  },
+  "slug": "silky-date-night-peanut-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-date-night-peanut-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:18:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "marinate",
+    "primaryIngredient": "peanut butter",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Date-night",
+    "mainIngredient": "peanut",
+    "descriptor": "Silky",
+    "dishForm": "Bowl"
+  }
+}
