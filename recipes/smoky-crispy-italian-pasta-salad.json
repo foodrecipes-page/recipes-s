@@ -1,0 +1,104 @@
+{
+  "title": "Smoky Crispy Italian Pasta Salad",
+  "description": "A smoky, crispy crowd‑pleaser that combines poached pasta, a zesty vinaigrette, and crunchy roasted fennel for a fresh Italian twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "soda water",
+      "amount": "500ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "diced roasted fennel",
+      "amount": "200g"
+    },
+    {
+      "name": "sliced black olives",
+      "amount": "40g"
+    },
+    {
+      "name": "marinated artichoke hearts",
+      "amount": "150g"
+    },
+    {
+      "name": "fresh basil, chopped",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425 degrees Fahrenheit.",
+    "Bring a large pot of soda water to a boil, add sea salt, and cook the pasta al dente according to package instructions, about 8 minutes.",
+    "Drain the pasta and rinse under cold running water until it stops steaming, then transfer to a large bowl and let cool completely.",
+    "In a small bowl, whisk together olive oil, smoked paprika, liquid smoke, lemon juice, and red wine vinegar to make the dressing.",
+    "Toss the cooled pasta with the dressing until evenly coated.",
+    "Spread the pasta in a single layer on a parchment-lined baking sheet and bake for 10 minutes, stirring halfway, until the edges are crisp.",
+    "Remove from oven and let cool slightly, then fold in diced roasted fennel, black olives, and marinated artichoke hearts.",
+    "Sprinkle chopped basil over the salad and gently mix.",
+    "Serve immediately or chill in the refrigerator for 30 minutes to allow flavors to meld."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "italian",
+    "lunch"
+  ],
+  "slug": "smoky-crispy-italian-pasta-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crispy-italian-pasta-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:01:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "soda water",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Pasta",
+    "descriptor": "Smoky Crispy",
+    "dishForm": "Salad"
+  }
+}
