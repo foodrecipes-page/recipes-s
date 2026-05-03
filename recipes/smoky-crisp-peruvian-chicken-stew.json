@@ -1,0 +1,110 @@
+{
+  "title": "Smoky Crisp Peruvian Chicken Stew",
+  "description": "A hearty and comforting Peruvian-inspired stew featuring smoky and crispy chicken, served with a sweet and tangy quince jam, perfect for a sick day. This diabetic-friendly dish is made with blanched vegetables and lean protein.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "quince jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the chicken with smoked paprika, salt, and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Add the chicken and cook until browned, about 5-6 minutes. Remove the chicken from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes. Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped carrots and potatoes to the pot, and cook for 5 minutes, stirring occasionally.",
+    "Add the chicken broth to the pot, and bring to a boil. Return the chicken to the pot, cover, and transfer to the preheated oven.",
+    "Bake for 25-30 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "While the stew is cooking, blanch the chopped carrots and potatoes in boiling water for 5 minutes, then drain and set aside.",
+    "Stir in the quince jam, and cook for an additional 2-3 minutes, or until the jam is heated through.",
+    "Serve the stew hot, garnished with chopped fresh herbs and crispy chicken skin (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "crisp",
+    "peruvian",
+    "chicken",
+    "stew",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "smoky-crisp-peruvian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crisp-peruvian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:56:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "jam",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "smoky crisp",
+    "dishForm": "Stew"
+  }
+}
