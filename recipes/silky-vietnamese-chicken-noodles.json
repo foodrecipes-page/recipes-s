@@ -1,0 +1,100 @@
+{
+  "title": "Silky Vietnamese Chicken Noodles",
+  "description": "A rich and savory Vietnamese dish featuring chicken, noodles, and nuts, perfect for a lazy Sunday. The combination of bitter and silky textures creates a delightful culinary experience.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together fish sauce, soy sauce, honey, and grated ginger to make the marinade.",
+    "Add the chicken to the marinade and refrigerate for at least 30 minutes.",
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a large skillet, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Remove the chicken from the marinade and cook until browned and cooked through, about 5-6 minutes.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil and cook the chopped peanuts until fragrant, about 1 minute.",
+    "Add the cooked noodles to the skillet and stir to combine with the peanuts and chicken.",
+    "Season with salt and black pepper to taste.",
+    "Serve the silky noodles hot, garnished with additional peanuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodles",
+    "chicken",
+    "peanuts",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "silky-vietnamese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-vietnamese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:05:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "marinate",
+    "primaryIngredient": "nuts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "bitter silky",
+    "dishForm": "Noodles"
+  }
+}
