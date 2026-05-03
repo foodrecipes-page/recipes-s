@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Egyptian Lentil Stew",
+  "description": "A rich, tender lentil stew with a smoky twist using red food coloring and plant-based ingredients, perfect for meal prep. This dish captures the essence of Egyptian cuisine while being smoke-infused and vegan-friendly.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1/4 tsp",
+      "notes": "for color only"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak red lentils overnight in water",
+    "Heat olive oil in a large pot over medium heat",
+    "Add diced onion and garlic; sauté until soft",
+    "Stir in smoked paprika, cumin, and tomato paste; cook for 1 minute",
+    "Add soaked lentils, red food coloring, water, and bay leaf",
+    "Bring to a boil, then reduce heat to low; cover and simmer for 25 minutes",
+    "Remove bay leaf; stir in salt and pepper to taste",
+    "Simmer uncovered for 5 minutes to thicken"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "lentil",
+    "stew",
+    "vegan",
+    "smoky",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 14,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "smoky-egyptian-smoky-lentils-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-egyptian-smoky-lentils-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T05:37:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "red food colouring",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Smoky",
+    "dishForm": "Stew"
+  }
+}
