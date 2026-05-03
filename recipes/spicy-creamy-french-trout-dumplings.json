@@ -1,0 +1,129 @@
+{
+  "title": "Spicy Creamy French Trout Dumplings",
+  "description": "A comforting French dish featuring trout and dumplings in a spicy, creamy sauce, adapted to be vegan-friendly.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout fillets (or vegan trout substitute)",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Vegan all-purpose flour",
+      "amount": "1 cup",
+      "notes": "For dumpling dough"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Non-dairy milk (e.g., almond, soy)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped celery",
+      "amount": "1 stalk",
+      "notes": ""
+    },
+    {
+      "name": "Spicy paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Vegan cream (e.g., soy, almond)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onion, carrot, and celery in vegan butter until softened.",
+    "Add the vegetable broth, thyme, paprika, salt, and pepper. Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "While the broth is simmering, prepare the dumpling dough. In a mixing bowl, combine the flour and a pinch of salt. Gradually add the non-dairy milk, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until smooth. Divide into 8-10 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "When the broth has finished simmering, carefully add the trout fillets (or substitute) to the pot.",
+    "Place a dumpling on top of each trout fillet.",
+    "Cover the pot and cook for an additional 8-10 minutes, or until the dumplings are cooked through and the trout is flaky.",
+    "Using a slotted spoon, remove the trout and dumplings from the pot. Place on a plate and cover with foil to keep warm.",
+    "Strain the cooking liquid through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Add the vegan cream to the saucepan and bring to a simmer over medium heat.",
+    "Reduce the heat to low and let simmer for 2-3 minutes, or until the sauce has thickened slightly.",
+    "Serve the trout and dumplings with the spicy creamy sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "french",
+    "comfortfood",
+    "trout",
+    "dumplings",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "spicy-creamy-french-trout-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-french-trout-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:24:15Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "trout",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "trout",
+    "descriptor": "spicy creamy",
+    "dishForm": "Dumplings"
+  }
+}

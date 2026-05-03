@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Tender Hunan Corned Beef Bao",
+  "description": "A twist on traditional Chinese bao featuring smoky corned beef, pickled vegetables, and a hint of spicy Hunan sauce. This recipe is perfect for a low-calorie meal prep.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-calorie",
+    "meat-lovers"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corned Beef",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "Hunan Sauce",
+      "amount": "1/4 cup (60ml)"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tsp (10ml)"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "2 tsp (10g)"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup (15g)"
+    },
+    {
+      "name": "Pickle Slices",
+      "amount": "1/4 cup (30g)"
+    },
+    {
+      "name": "Soft Bao Buns",
+      "amount": "4 buns"
+    },
+    {
+      "name": "Pickled Carrots",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "2 tbsp (10g)"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine corned beef, low-sodium soy sauce, Hunan sauce, sesame oil, ginger paste, and garlic paste. Mix well to combine.",
+    "Wrap the mixture in plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cook the pickled carrots and green onions in the grill or grill pan for 2-3 minutes or until slightly charred.",
+    "Warm the soft bao buns in the oven at 350°F (180°C) for 5-7 minutes.",
+    "Assemble the bao by spreading a spoonful of the corned beef mixture onto each bun, followed by a few slices of pickled carrots and green onions.",
+    "Top with cilantro leaves and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "hunan",
+    "corned-beef",
+    "bao",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "25g",
+    "carbs": "30g",
+    "fat": "12g"
+  },
+  "slug": "smoky-tender-hunan-corned-beef-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tender-hunan-corned-beef-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:23:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "corned beef",
+    "diet": "low-calorie",
+    "region": "hunan",
+    "cuisineAdjective": "Hunan",
+    "mainIngredient": "Corned Beef",
+    "descriptor": "Smoky Tender",
+    "dishForm": "Bao"
+  }
+}
