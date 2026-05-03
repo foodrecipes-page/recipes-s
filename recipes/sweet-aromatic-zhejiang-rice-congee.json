@@ -1,0 +1,97 @@
+{
+  "title": "Sweet Aromatic Zhejiang Rice Congee",
+  "description": "A comforting Chinese dish from Zhejiang province, known for its sweet and sour flavor, fluffy texture, and Mediterranean-friendly ingredients. This recipe is perfect for a cold winter morning.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Glutinous rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pork or vegetable stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large saucepan over medium heat.",
+    "Add the sliced ginger and cook for 2-3 minutes, until fragrant.",
+    "Add the pork or vegetable stock and bring to a boil.",
+    "Add the glutinous rice, dark brown sugar, soy sauce, and rice vinegar.",
+    "Stir well to combine, then reduce the heat to low and simmer for 10-15 minutes, or until the rice is fluffy and the liquid has been absorbed.",
+    "Season with black pepper to taste.",
+    "Serve hot, garnished with chopped scallions.",
+    "Deglaze the saucepan with a small amount of water to scrape up any browned bits from the bottom.",
+    "Strain the congee into a serving bowl and discard the solids.",
+    "Serve immediately, garnished with additional scallions and sesame oil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "chinese-cuisine",
+    "comfort-food",
+    "mediterranean-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "sweet-aromatic-zhejiang-rice-congee",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-aromatic-zhejiang-rice-congee",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:56:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "mediterranean",
+    "region": "zhejiang",
+    "cuisineAdjective": "Zhejiang",
+    "mainIngredient": "Rice",
+    "descriptor": "Sweet Aromatic",
+    "dishForm": "Congee"
+  }
+}
