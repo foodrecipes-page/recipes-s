@@ -1,0 +1,115 @@
+{
+  "title": "Spicy Flaky Greek Lamb Pilaf",
+  "description": "A spicy and flaky Greek dish featuring lamb, cooking wine, and a blend of aromatic spices, perfect for a midnight craving. This low-calorie-friendly pilaf is a delicious and satisfying meal option.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 1-inch pieces"
+    },
+    {
+      "name": "cooking wine",
+      "amount": "1/2 cup",
+      "notes": "dry white wine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat. Add the lamb and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 3-4 minutes.",
+    "Stir in the tomato paste, paprika, cumin, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add the cooking wine to the pot and bring to a boil. Scrape up any browned bits from the bottom of the pot.",
+    "Cover the pot and transfer it to the preheated oven. Braise the lamb for 1 1/2 hours, or until tender.",
+    "While the lamb is cooking, thaw the phyllo dough according to the package instructions.",
+    "Remove the pot from the oven and stir in the cooked lamb. Let it cool slightly.",
+    "Layer the phyllo dough in a large bowl, brushing each layer with a little water. Spoon the lamb mixture into the center of the dough.",
+    "Fold the phyllo dough over the filling to form a flaky crust. Brush the top with a little water.",
+    "Bake the pilaf in the preheated oven for an additional 20-25 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "pilaf",
+    "spicy",
+    "flaky",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "spicy-flaky-greek-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-flaky-greek-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:30:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "braise",
+    "primaryIngredient": "cooking wine",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Spicy Flaky",
+    "dishForm": "Pilaf"
+  }
+}
