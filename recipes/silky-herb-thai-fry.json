@@ -1,0 +1,99 @@
+{
+  "title": "Silky Herb Thai Fry",
+  "description": "A quick-fix herbal and silky Thai dish featuring red chilli, sauteed with herbs for a vibrant flavor profile that's nut-free-friendly.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Red Chillies",
+      "amount": "1 cup sliced thinly"
+    },
+    {
+      "name": "Tumeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh Cilantro Leaves",
+      "amount": "3-4 sprigs"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp finely grated"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "5 cloves, minced"
+    },
+    {
+      "name": "Minced Shallots",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Coriander (Cilantro)",
+      "amount": "1/4 cup chopped finely"
+    },
+    {
+      "name": "Thai Basil Leaves",
+      "amount": "6-8 leaves, roughly torn"
+    },
+    {
+      "name": "Red Thai Curry Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup fresh"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat.",
+    "Add red chillies, turmeric powder, minced garlic, ginger, and shallots. Stir-fry for about 2 minutes until fragrant but not browned.",
+    "Stir in Thai basil leaves and fresh coriander. Cook for another minute until the herbs are slightly wilted.",
+    "Pour in red curry paste and fish sauce. Cook for about 30 seconds to release the aroma of the paste, then add lime juice.",
+    "Reduce heat to medium and cook for an additional 2-3 minutes to meld all flavors together.",
+    "Serve hot as a snack with steamed jasmine rice or enjoy it alone over greens."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "silky",
+    "herbal",
+    "thai-fry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "silky-herb-thai-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-herb-thai-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:59:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "red chilli",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Herb",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
