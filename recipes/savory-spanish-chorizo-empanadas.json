@@ -1,0 +1,96 @@
+{
+  "title": "Savory Spanish Chorizo Empanadas",
+  "description": "A savory, crumbly Spanish dish featuring chorizo and wholegrain mustard, perfect for satisfying midnight cravings. These empanadas are gluten-free-friendly and can be broiled to perfection.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "2 cups",
+      "notes": "contains rice flour, potato starch, and tapioca flour"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400°F (200°C).",
+    "In a large mixing bowl, combine the gluten-free flour, cold butter, and a pinch of salt. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add the beaten egg to the flour mixture, stirring with a fork until the dough comes together in a ball.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "In a small bowl, mix together the sliced chorizo, wholegrain mustard, and a pinch of black pepper.",
+    "On a lightly floured surface, roll out the chilled dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the chorizo mixture in the center of each dough circle.",
+    "Fold the dough in half over the filling, pressing the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Broil the empanadas for 12-15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanish-food",
+    "gluten-free",
+    "empanadas",
+    "chorizo",
+    "savory-pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "savory-spanish-chorizo-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spanish-chorizo-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:34:58Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chorizo",
+    "descriptor": "Savory Crumbly",
+    "dishForm": "Empanadas"
+  }
+}
