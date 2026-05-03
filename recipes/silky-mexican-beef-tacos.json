@@ -1,0 +1,105 @@
+{
+  "title": "Silky Mexican Beef Tacos",
+  "description": "A show-off Mexican dish featuring tender beef, fresh tomatoes, and a silky texture, all while being Whole30-friendly. This peppery taco recipe is sure to impress your guests.",
+  "cuisine": "Mexican",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Taco seasoning",
+      "amount": "1 tsp",
+      "notes": "Make sure it's Whole30 compliant"
+    },
+    {
+      "name": "Letuce leaves",
+      "amount": "8-10",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the avocado oil over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Once the beef is browned, add the diced tomatoes, sliced red onion, chopped cilantro, lime juice, ground black pepper, salt, and taco seasoning. Stir well to combine.",
+    "Reduce heat to medium-low and let the mixture simmer for 10-15 minutes, stirring occasionally, until the flavors have melded together and the mixture has reached an internal temperature of 160°F.",
+    "While the beef mixture is cooking, prepare the lettuce leaves for serving.",
+    "To serve, spoon the beef mixture onto a lettuce leaf and serve immediately.",
+    "Garnish with additional chopped cilantro, if desired.",
+    "Blanch the lettuce leaves in boiling water for 10-15 seconds to make them more pliable, if desired.",
+    "Assemble the tacos and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "beef",
+    "whole30",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 29
+  },
+  "slug": "silky-mexican-beef-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-mexican-beef-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:07:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "peppery silky",
+    "dishForm": "Tacos"
+  }
+}

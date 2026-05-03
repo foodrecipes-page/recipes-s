@@ -1,0 +1,75 @@
+{
+  "title": "Smoky Thai Chicken Grill",
+  "description": "A peppery, dense, light Thai-inspired grilled chicken dish infused with white chocolate and finished with a zesty lime drizzle – FODMAP-friendly and broiled to smoky perfection.",
+  "cuisine": "Thai",
+  "diet": [
+    "low_fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken breasts",
+      "amount": "600 g"
+    },
+    {
+      "name": "White chocolate (70% cacao)",
+      "amount": "50 g"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Fresh cilantro, chopped (optional)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or broiler to high heat.",
+    "In a small bowl, melt the white chocolate in the microwave for 30 seconds, then stir in the red chili flakes, smoked paprika, lime zest, and sea salt until smooth.",
+    "Brush each chicken breast with the melted white chocolate mixture, ensuring an even coat, then drizzle with olive oil and let rest for 5 minutes.",
+    "Place the chicken on the grill or under the broiler, cooking 6–8 minutes per side until a caramelized crust forms and the internal temperature reaches 165 °F (75 °C).",
+    "While the chicken cooks, whisk the lime juice into a small sauce.",
+    "When cooked, transfer the chicken to a serving plate, drizzle the lime sauce over it, and sprinkle chopped cilantro if desired.",
+    "Allow the chicken to rest for 3 minutes before slicing.",
+    "Serve immediately, optionally accompanied by a side of steamed green beans or a light cucumber salad."
+  ],
+  "slug": "smoky-thai-chicken-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-thai-chicken-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:07:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "broil",
+    "primaryIngredient": "white chocolate",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Chicken",
+    "descriptor": "Smoky",
+    "dishForm": "Grill"
+  }
+}
