@@ -1,0 +1,104 @@
+{
+  "title": "Spicy Gooey Peruvian Chicken Stir fry",
+  "description": "A spicy and romantic Peruvian dish featuring rosemary and a gooey sauce, perfect for a low-fat friendly dinner. This stir-fry combines the flavors of Peru with a hint of rosemary and a kick of heat.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped rosemary and cook for 1 minute, until fragrant.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped aji amarillo peppers and minced garlic to the skillet and cook for 2 minutes, until the peppers start to soften.",
+    "In a small bowl, whisk together the soy sauce, honey, and rice vinegar.",
+    "Pour the sauce into the skillet and bring to a simmer.",
+    "Return the chicken to the skillet and toss to coat with the sauce.",
+    "Reduce the heat to medium-low and simmer for 2-3 minutes, until the sauce has thickened and the chicken is coated.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "stir-fry",
+    "spicy",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "spicy-gooey-peruvian-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-peruvian-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:18:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "rosemary",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "spicy gooey",
+    "dishForm": "Stir-fry"
+  }
+}
