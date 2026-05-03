@@ -1,0 +1,121 @@
+{
+  "title": "Smoky German Wagyu Stew",
+  "description": "A smoky, gooey German-inspired stew featuring premium wagyu beef, confit tomato, and low-carb-friendly vegetables for a romantic dinner.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef chuck",
+      "amount": "800 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Confit tomato",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fresh thyme sprigs",
+      "amount": "2"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "500 ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red wine",
+      "amount": "50 ml",
+      "notes": "splash"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a heavy skillet over high heat and sear the wagyu cubes until browned on all sides, about 2-3 minutes per side, then transfer to a pot.",
+    "In the same skillet, add olive oil and sauté minced garlic until fragrant, about 30 seconds.",
+    "Add diced onion, smoked paprika, and sliced red bell pepper to the skillet, cooking until onion is translucent, about 5 minutes.",
+    "Stir in tomato paste, diced confit tomato, and a splash of red wine, letting the mixture reduce slightly for 2 minutes.",
+    "Pour in the beef broth and bring the liquid to a gentle simmer, then place the seared wagyu and vegetables back into the pot.",
+    "Add the sliced zucchini and thyme sprigs, bring the stew to a boil, then reduce heat to low and let it simmer, uncovered, for 45 minutes.",
+    "Season with salt and pepper to taste, then remove the thyme sprigs before serving.",
+    "Stir the stew gently to combine flavors and adjust consistency with a splash of broth if needed.",
+    "Ladle the stew into bowls, garnish with fresh parsley if desired, and serve hot.",
+    "Enjoy this smoky, gooey German wagyu stew as a romantic low-carb dinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "low-carb",
+    "romantic",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 1300,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 35
+  },
+  "slug": "smoky-german-wagyu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-german-wagyu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:40:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "wagyu",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Smoky",
+    "dishForm": "Stew"
+  }
+}
