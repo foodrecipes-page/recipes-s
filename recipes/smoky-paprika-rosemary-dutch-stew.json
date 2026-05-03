@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Paprika Rosemary Dutch Stew",
+  "description": "A floral and gooey Dutch dish featuring smoky paprika, rosemary, and perfect for a hangover cure, this recipe is both delicious and diabetic-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup of chicken broth",
+      "amount": "",
+      "notes": "Use low sodium if available"
+    },
+    {
+      "name": "2 cups of diced potatoes",
+      "amount": "",
+      "notes": "Skinless, no eyes"
+    },
+    {
+      "name": "1 can (14 oz) condensed cream of mushroom soup",
+      "amount": "",
+      "notes": "Low or reduced fat variety"
+    },
+    {
+      "name": "1/4 cup of low-sodium vegetable broth",
+      "amount": "",
+      "notes": "Use water if sodium is not a concern"
+    },
+    {
+      "name": "2 tablespoons of smoked paprika",
+      "amount": "",
+      "notes": "Regular paprika can be used as a substitute"
+    },
+    {
+      "name": "1 teaspoon of dried rosemary",
+      "amount": "",
+      "notes": "Fresh rosemary can also be used, 1 sprig will suffice"
+    },
+    {
+      "name": "Pinch of salt and pepper to taste",
+      "amount": "",
+      "notes": "Opt for low sodium salt if available"
+    },
+    {
+      "name": "2 tablespoons of unsalted butter",
+      "amount": "",
+      "notes": "Optional, adds richness"
+    }
+  ],
+  "instructions": [
+    "Place potatoes in a saucepan with chicken broth. Bring to boil and cook until tender.",
+    "Drain the potatoes, leaving about half an inch of liquid in the pot. Mash them gently with a potato masher or fork.",
+    "Mix condensed soup, smoked paprika, salt, pepper, and vegetable broth into the mashed potatoes. Mix well to combine.",
+    "If desired, stir in melted butter for added richness and flavor. Taste and adjust seasoning if needed.",
+    "Pour mixture into a shallow baking dish (about 1 inch deep). Bake at 350°F for about 20 minutes or until set and bubbly.",
+    "Serve warm with sour cream or plain yogurt on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-paprika",
+    "rosemary",
+    "dutch-stew",
+    "hangover-cure",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 6,
+    "carbs": 39,
+    "fat": 10
+  },
+  "slug": "smoky-paprika-rosemary-dutch-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-paprika-rosemary-dutch-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:32:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "smoky paprika",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rosemary",
+    "descriptor": "Smoky Paprika",
+    "dishForm": "Stew"
+  }
+}
