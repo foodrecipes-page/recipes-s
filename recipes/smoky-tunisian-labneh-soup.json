@@ -1,0 +1,110 @@
+{
+  "title": "Smoky Tunisian Labneh Soup",
+  "description": "A creamy, low-carb-friendly soup featuring fermented labneh and smoky paprika, perfect for a comforting lunch.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "labneh",
+      "amount": "200 g",
+      "notes": "full-fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "0.5 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1.5 L",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about 4 minutes.",
+    "Stir in the minced garlic, smoked paprika, cumin, and smoked sea salt; cook for 1 minute until fragrant.",
+    "Pour in the vegetable broth and bring to a gentle simmer.",
+    "Reduce heat to low and stir in the labneh slowly, whisking to avoid curdling; keep the soup at a very low simmer for 8 minutes.",
+    "Add lemon juice and adjust seasoning with additional salt if needed.",
+    "Remove from heat and let rest for 2 minutes.",
+    "Serve hot, garnished with chopped cilantro.",
+    "Optionally, drizzle a little olive oil on top for extra richness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "smoky",
+    "labneh",
+    "low-carb-friendly",
+    "vegetarian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 6,
+    "carbs": 7,
+    "fat": 24
+  },
+  "slug": "smoky-tunisian-labneh-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tunisian-labneh-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:28:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "smoke",
+    "primaryIngredient": "smoky paprika",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Labneh",
+    "descriptor": "Smoky",
+    "dishForm": "Soup"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Salty Flaky Portuguese Fish Skillet",
+  "description": "A traditional Portuguese dish featuring flaky fish, rich tomato sauce, and crispy potatoes, all cooked to perfection in one skillet. This recipe is nut-free and perfect for a quick dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 (28 oz can)"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large, peeled and thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced potatoes and cook for 5 minutes, or until they start to brown.",
+    "Add the canned crushed tomatoes, salt, black pepper, and paprika. Stir to combine.",
+    "Add the cod fillets to the skillet, skin side up (if they have skin).",
+    "Reduce heat to medium-low and simmer, covered, for 10-12 minutes, or until the fish is cooked through and flakes easily with a fork.",
+    "Remove the skillet from the heat and sprinkle with chopped parsley.",
+    "Serve the fish and sauce over the potatoes, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese-cuisine",
+    "fish-recipes",
+    "one-pot-meals",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "salty-flaky-portuguese-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-flaky-portuguese-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:28:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "fry",
+    "primaryIngredient": "tomato sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "salty flaky",
+    "dishForm": "Skillet"
+  }
+}
