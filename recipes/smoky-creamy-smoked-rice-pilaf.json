@@ -1,0 +1,97 @@
+{
+  "title": "Smoky Creamy Smoked Rice Pilaf",
+  "description": "A one-pot Vietnamese dish featuring saffron, smoked rice, and gluten-free-friendly ingredients for a creamy and smoky flavor profile.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "2-3 threads"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "salted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup (optional)"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon (optional) for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "In a large mixing bowl, combine saffron threads with 1 tablespoon of warm water and let soak while preparing other ingredients. Rinse rice under cold water and drain well.",
+    "Heat olive oil in a deep skillet over medium heat. Add garlic cloves, paprika, and salted butter, stirring until butter melts. Cook for about 2 minutes.",
+    "Add soaked saffron threads to the skillet along with remaining warm water from soaking process, stir well to combine. Increase heat to high and cook for another minute or until aromatics are fragrant.",
+    "Transfer rice into a bowl and add it to the skillet, stirring to coat evenly with aromatic mixture. Add white wine (if using) and mix thoroughly; let simmer on medium-low heat for about 10 minutes.",
+    "Pour in unsweetened almond milk, stir well, cover skillet, and transfer to preheated oven. Bake for 20-25 minutes or until rice is cooked through and liquid has evaporated.",
+    "Remove from oven, mix in chopped broccoli florets (if using), and cook for an additional 5-7 minutes until veggies are tender.",
+    "To serve, garnish with sesame seeds if desired. Serve warm as a side dish.",
+    "Optional: Serve with a side of grilled chicken or fish to create a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "creamy",
+    "vietnamese",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 12,
+    "carbs": 52,
+    "fat": 18
+  },
+  "slug": "smoky-creamy-smoked-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-creamy-smoked-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:04:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "saffron",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "Smoky Creamy",
+    "dishForm": "Pilaf"
+  }
+}
