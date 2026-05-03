@@ -1,0 +1,90 @@
+{
+  "title": "Sour Chewy Paleo-Friendly Chocolate Pancakes",
+  "description": "A unique and romantic Argentine dish featuring a mix of sour and chewy textures with the addition of filo pastry and stir-fry elements.",
+  "cuisine": "Argentine",
+  "diet": [
+    "paleo",
+    "sourdough"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Paleo-friendly chocolate powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Chia seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Pistachios, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Filo pastry sheets",
+      "amount": "6 sheets"
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Mix the chocolate powder, sour cream, and chia seeds in a bowl until well combined.",
+    "Arrange filo pastry sheets on a baking sheet. Spread dark chocolate chips evenly over each sheet.",
+    "Sprinkle chopped pistachios over chocolate chips.",
+    "In another mixing bowl, combine almond flour with coconut oil. Mix until smooth and pourable.",
+    "Pour the almond-flour mixture into the center of each filo sheet.",
+    "Carefully fold the edges of the filo sheets to enclose the filling. Seal completely around the sides and ends.",
+    "Place the assembled filo packs in a preheated oven at 350°F (175°C) for about 25 minutes or until golden brown.",
+    "Serve warm as a dessert with a side of your favorite paleo-friendly beverages."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "sour",
+    "chewy",
+    "argentine",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "sour-chewy-paleo-friendly-chocolate-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-paleo-friendly-chocolate-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:20:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "filo pastry",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "paleo-friendly chocolate",
+    "descriptor": "sour",
+    "dishForm": "Pancakes"
+  }
+}
