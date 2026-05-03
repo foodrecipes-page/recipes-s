@@ -1,0 +1,106 @@
+{
+  "title": "Sour Tender Ethiopian Peas Stew",
+  "description": "A sour and tender Ethiopian stew made with frozen peas, perfect for a weeknight dinner. This low-carb-friendly dish is flavored with traditional Ethiopian spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Stir in the berbere spice, turmeric, and coriander and cook for 1 minute.",
+    "Add the thawed frozen peas, salt, and black pepper. Stir to combine.",
+    "Pour in the lemon juice and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 15 minutes or until the peas are tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian-cuisine",
+    "low-carb",
+    "weeknight-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "sour-tender-ethiopian-peas-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-tender-ethiopian-peas-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:14:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "knead",
+    "primaryIngredient": "frozen peas",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "peas",
+    "descriptor": "sour tender",
+    "dishForm": "Stew"
+  }
+}
