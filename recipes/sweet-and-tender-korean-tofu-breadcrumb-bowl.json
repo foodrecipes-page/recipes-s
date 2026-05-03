@@ -1,0 +1,84 @@
+{
+  "title": "Sweet and Tender Korean Tofu Breadcrumb Bowl",
+  "description": "A Mediterranean-friendly, sweet and tender dish perfect for post-workout meals featuring tofu, breadcrumbs, and other pantry staples.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (about 300g)",
+      "notes": "Ensure it's fully drained and pressed."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean chili flakes (gochujang)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Brown sugar or Demiglace",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Peanuts, chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger (fresh or minced)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic (minced or paste)",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Press tofu and cut into cubes.",
+    "Heat oil in a large skillet over medium-high heat. Add tofu, chili flakes, brown sugar, breadcrumbs, peanuts, ginger, garlic, and water until the sauce thickens. Mix well.",
+    "Transfer tofu mixture to an oven-proof bowl. Drizzle with more brown sugar and bake for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-and-tender-korean-tofu-bowl",
+    "mediterranean-friendly-dish",
+    "post-workout-meal"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "sweet-and-tender-korean-tofu-breadcrumb-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-tender-korean-tofu-breadcrumb-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:34:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Tofu",
+    "descriptor": "Sweet and Tender",
+    "dishForm": "Bowl"
+  }
+}
