@@ -1,0 +1,108 @@
+{
+  "title": "Sweet Mexican Prawns Paella",
+  "description": "A gooey, post-workout Mexican dish featuring king prawns, cured chorizo, and a sweet-savory sauce for a quick, gluten-free meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "150g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cured chorizo",
+      "amount": "20g",
+      ": ": ", "
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "100g",
+      "notes": "cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "100ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/8 tsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Sauté diced onion and minced garlic for 2 minutes until fragrant.",
+    "Add cubed sweet potato and cook for 5 minutes until slightly tender.",
+    "Stir in cured chorizo, cook for 1 minute until warmed through.",
+    "Add king prawns, cook for 2 minutes until pink and opaque.",
+    "Pour in coconut milk and chicken stock, then add cinnamon and red pepper flakes.",
+    "Simmer for 5 minutes until the sauce thickens slightly and prawns are cooked through.",
+    "Serve hot with a sprinkle of fresh cilantro for garnish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "prawns",
+    "sweet",
+    "gluten-free",
+    "post-workout",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "sweet-mexican-sweet-prawns-paella",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-mexican-sweet-prawns-paella",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T05:16:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "king prawns",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "prawns",
+    "descriptor": "sweet",
+    "dishForm": "Paella"
+  }
+}
