@@ -1,0 +1,101 @@
+{
+  "title": "Sweet Silky Russian Beef Dumplings",
+  "description": "A quick-fix Russian dish featuring minced beef, served in a sweet and silky sauce. This dairy-free-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the minced beef, chopped onion, minced garlic, salt, and black pepper. Mix well with your hands or a wooden spoon until just combined.",
+    "Gradually add the flour to the beef mixture and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about the size of a small egg. You should end up with around 20-25 dumplings.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings. Cook for 10-12 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, heat the vegetable oil in a large skillet over medium heat.",
+    "Add the apple cider vinegar and honey to the skillet and bring to a simmer.",
+    "Reduce the sauce by half, stirring occasionally, until it reaches a thick and silky consistency.",
+    "Remove the cooked dumplings from the water with a slotted spoon and add them to the skillet with the sweet sauce.",
+    "Toss the dumplings in the sauce to coat and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian-cuisine",
+    "beef-dumplings",
+    "dairy-free",
+    "sweet-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "sweet-silky-russian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-silky-russian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:26:02Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "minced beef",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "sweet silky",
+    "dishForm": "Dumplings"
+  }
+}
