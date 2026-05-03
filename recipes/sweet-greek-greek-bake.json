@@ -1,0 +1,76 @@
+{
+  "title": "Sweet Greek Greek Bake",
+  "description": "A sweet, chewy meal-prep dish featuring a caramelized sugar sauce, baked to perfection. Halal-friendly and perfect for busy weeks.",
+  "cuisine": "greek",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "caramelized sugar sauce",
+      "amount": "2 tbsp",
+      "notes": "made from 1 tbsp sugar and 1 tsp water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "1 tsp",
+      "notes": "diced parsley and mint"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a bowl, mix sweet potatoes with 1 tbsp olive oil and fresh herbs.",
+    "Add caramelized sugar sauce to the sweet potatoes and mix well.",
+    "Transfer to a baking dish and bake for 25 minutes until tender and caramelized.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  ": 10,  ": "totalTimeMin\": 15",
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "sweet",
+    "chewy",
+    "meal-prep",
+    "halal",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "sweet-greek-greek-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-greek-greek-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:07:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "bake",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Greek",
+    "descriptor": "Sweet",
+    "dishForm": "Bake"
+  }
+}
