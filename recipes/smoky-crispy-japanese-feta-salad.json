@@ -1,0 +1,97 @@
+{
+  "title": "Smoky Crispy Japanese Feta Salad",
+  "description": "A quick, smoky, and crispy salad that blends Japanese flavors with creamy feta, perfect for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed greens",
+      "amount": "200g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, julienned"
+    },
+    {
+      "name": "edamame",
+      "amount": "1/2 cup, shelled"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g, cubed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium heat and add the sliced cucumber and carrot, cooking until crisp and slightly caramelized, about 5 minutes.",
+    "Transfer the vegetables to a bowl and add the mixed greens, edamame, and feta cubes.",
+    "In a small bowl whisk together the sesame oil, soy sauce, mirin, smoked paprika, and chili flakes until well combined.",
+    "Pour the dressing over the salad and toss gently to coat all ingredients.",
+    "Sprinkle toasted sesame seeds over the top for added crunch and a nutty aroma.",
+    "Serve immediately, optionally garnish with extra sesame seeds or a drizzle of sesame oil.",
+    "Enjoy the smoky, crispy flavors that pair Japanese umami with creamy feta.",
+    "Make sure to keep the skillet dry to avoid soggy vegetables.",
+    "Let the salad rest for a minute before serving to allow flavors to meld."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "japanese",
+    "dinner"
+  ],
+  "slug": "smoky-crispy-japanese-feta-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crispy-japanese-feta-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:38:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "feta",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "feta",
+    "descriptor": "Smoky Crispy",
+    "dishForm": "Salad"
+  }
+}
