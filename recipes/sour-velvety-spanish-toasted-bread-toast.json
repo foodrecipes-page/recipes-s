@@ -1,0 +1,102 @@
+{
+  "title": "Sour Velvety Spanish Toast",
+  "description": "A revitalizing Spanish-inspired dish featuring sweet chilli sauce, toasted bread, and a burst of citrus.",
+  "cuisine": "Spanish",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Brioche Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "Mashed"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro Leaves",
+      "amount": "for garnish"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Slice the Brioche Bread into 1-inch thick slices and place on a baking sheet.",
+    "Drizzle the Extra Virgin Olive Oil over the bread slices and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "Meanwhile, mash the Avocado in a bowl with a fork and mix in the Sweet Chilli Sauce, Orange Juice, Cinnamon, and a pinch of Salt and Pepper.",
+    "Remove the toasted bread from the oven and let cool for a minute or two.",
+    "Spread a layer of the Avocado mixture onto each toasted bread slice.",
+    "Place the bread slices under the broiler for an additional 30-60 seconds, or until the top is lightly browned.",
+    "Remove the bread from the oven and garnish with Fresh Cilantro Leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish-toasted-bread",
+    "sour-velvety",
+    "energizing-dish",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "sour-velvety-spanish-toasted-bread-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-velvety-spanish-toasted-bread-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:53:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "toasted bread",
+    "descriptor": "sour, velvety",
+    "dishForm": "Toast"
+  }
+}
