@@ -1,0 +1,85 @@
+{
+  "title": "Stoned Dates Middle Eastern Pilaf",
+  "description": "A buttery, fluffy middle eastern pilaf featuring stoned dates and a touch of fermenting for an egg-free-friendly dish perfect for weeknight meals.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup",
+      "notes": "preferably jasmine or fragrant rice"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cups"
+    },
+    {
+      "name": "15 dates, pitted and roughly chopped (fermented for at least 48 hours)",
+      "amount": "15 dates",
+      "notes": "aged to enhance flavor"
+    },
+    {
+      "name": "3 tablespoons unsalted butter",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": "to season the rice"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water. Soak it in 2 cups of water for at least 30 minutes or overnight.",
+    "Drain the water from the rice, then heat a large skillet over medium-high heat with half of the butter and sauté the minced garlic until fragrant, about 1 minute.",
+    "Add the drained rice to the skillet and toast it in the butter for about 5 minutes, stirring occasionally. The goal is to toast the rice, not brown it; this helps develop a nutty flavor.",
+    "Pour in the water and bring to a boil. Reduce heat to low, cover with a tight-fitting lid, and simmer gently until all the liquid has been absorbed by the rice (about 20 minutes for regular rice or slightly longer for long-grain basmati).",
+    "In a small bowl, combine remaining butter, cumin, salt, pepper, and roughly chopped dates. Stir this mixture into the cooked rice just before serving.",
+    "Serve warm as an accompaniment to grilled meats, roasted vegetables, or alongside a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stone-dates-middle-eastern-pilaf",
+    "buttery-fluffy-greek-dish",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 12
+  },
+  "slug": "stoned-dates-middle-eastern-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/stoned-dates-middle-eastern-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:42:28Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "stoned dates",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "dates",
+    "descriptor": "Stoned",
+    "dishForm": "Pilaf"
+  }
+}
