@@ -1,0 +1,106 @@
+{
+  "title": "Smoky Ethiopian Padron Pepper Stew",
+  "description": "A hearty and comforting Ethiopian stew featuring smoky padron peppers, slow-cooked to perfection in a rich and aromatic berbere spice blend. This low-sodium dish is perfect for a chilly evening.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "1 pound",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onions and cook, stirring occasionally, until they are softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute.",
+    "Add the padron peppers and cook, stirring occasionally, until they start to soften, about 5 minutes.",
+    "Add the berbere spice, smoked paprika, and salt-free seasoning blend. Cook, stirring constantly, for 1 minute.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the red wine (if using) and vegetable broth. Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Remove the lid and continue to simmer, stirring occasionally, until the stew has thickened and the flavors have melded together, about 20 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "ethiopian",
+    "padron-peppers",
+    "smoky",
+    "comfort-food",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "smoky-dense-ethiopian-padron-pepper-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dense-ethiopian-padron-pepper-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:08:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "slow-cook",
+    "primaryIngredient": "padron peppers",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "padron peppers",
+    "descriptor": "smoky dense",
+    "dishForm": "Stew"
+  }
+}
