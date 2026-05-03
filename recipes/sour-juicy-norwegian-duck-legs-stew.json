@@ -1,0 +1,101 @@
+{
+  "title": "Sour Juicy Norwegian Duck Legs Stew",
+  "description": "A traditional Norwegian stew featuring tender duck legs in a sour and savory broth, perfect for a cold monsoon day. The dish is fermented to give it a unique flavor profile.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4-6 legs",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Norwegian aquavit",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together sour cream, buttermilk, aquavit, caraway seeds, juniper berries, salt, and pepper.",
+    "Add the duck legs to the marinade and mix well to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 days or up to 4 days.",
+    "Heat the oil in a large Dutch oven over medium heat. Remove the duck legs from the marinade, letting any excess liquid drip off.",
+    "Sear the duck legs until browned on all sides, about 5-7 minutes. Remove the duck legs from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until they are softened and lightly browned, about 5 minutes.",
+    "Add 2 cups of water to the pot and bring to a boil. Return the duck legs to the pot and simmer, covered, until the meat is tender and falling off the bone, about 1 1/2 hours.",
+    "Remove the pot from the heat and let it cool slightly. Serve the duck legs with the sour and savory broth spooned over the top.",
+    "Garnish with fresh herbs, such as parsley or thyme, if desired.",
+    "Refrigerate or freeze the stew for later use. Reheat the stew to an internal temperature of at least 165°F (74°C) before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "duck",
+    "stew",
+    "sour",
+    "fermented",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "sour-juicy-norwegian-duck-legs-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-juicy-norwegian-duck-legs-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:03:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "ferment",
+    "primaryIngredient": "duck legs",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "duck legs",
+    "descriptor": "sour juicy",
+    "dishForm": "Stew"
+  }
+}
