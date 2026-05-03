@@ -1,0 +1,103 @@
+{
+  "title": "Salty Fluffy Argentinian Napa Cabbage Empanadas",
+  "description": "A plant-based-friendly twist on traditional Argentinian empanadas, featuring marinated napa cabbage and a fluffy, salty pastry crust. Perfect for a nostalgic and satisfying snack or meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 head, shredded",
+      "notes": "marinate in 2 tbsp olive oil, 1 tsp salt, and 1 tsp black pepper for at least 30 minutes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp",
+      "notes": "optional, for cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour, cornstarch, salt, sugar, and yeast.",
+    "Gradually add warm water, olive oil, and apple cider vinegar, mixing until a dough forms.",
+    "Knead dough for 5-7 minutes until smooth and elastic.",
+    "Let dough rest for 10 minutes, then divide into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Place 1-2 tbsp of marinated napa cabbage in the center of each circle.",
+    "Fold dough in half to form a half-moon shape, pressing edges to seal.",
+    "Brush tops with olive oil and sprinkle with salt.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "napa-cabbage",
+    "plant-based",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "salty-fluffy-argentinian-napa-cabbage-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-fluffy-argentinian-napa-cabbage-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:21:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "marinate",
+    "primaryIngredient": "napa cabbage",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "salty fluffy",
+    "dishForm": "Empanadas"
+  }
+}
