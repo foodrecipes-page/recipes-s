@@ -1,0 +1,74 @@
+{
+  "title": "Salty Turkish Cinnamon Soup",
+  "description": "A quick, creamy Turkish soup with a hint of cinnamon and a salty kick for a low-fat-friendly meal.",
+  "cuisine": "turkish",
+  "diet": [
+    "low-fat",
+    "healthy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cinnamon sticks",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground for best flavor"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "use filtered water for cleaner taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      ": ": ", "
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened, low-fat"
+    }
+  ],
+  "instructions": [
+    "Boil water in a small pot over medium heat.",
+    "Add cinnamon sticks and salt to water; simmer for 2 minutes.",
+    "Remove cinnamon sticks and pour into a blender with almond milk.",
+    "Blend until smooth, then taste and adjust salt if needed."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 3,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "soup",
+    "cinnamon",
+    "lowfat",
+    "quickmeal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "salty-turkish-cinnamon-soup",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-turkish-cinnamon-soup",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:33:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cinnamon",
+    "descriptor": "Salty",
+    "dishForm": "Soup"
+  }
+}
