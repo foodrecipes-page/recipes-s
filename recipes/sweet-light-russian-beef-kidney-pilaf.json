@@ -1,0 +1,72 @@
+{
+  "title": "Sweet & Light Russian Beef Kidney Pilaf",
+  "description": "A delightful date-night dish featuring sweet and tender beef kidneys in a light, aromatic pilaf sauce, made with plant-based-friendly ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soy mince",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "bell pepper, red",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add soy mince and cook until browned.",
+    "Add minced garlic and chopped onion to the pan, sautéing for about 2 minutes or until fragrant.",
+    "Chop red bell pepper into strips. Add it to the pan with the cooked mince mixture.",
+    "Stir in some diced tomatoes and a splash of balsamic vinegar.",
+    "In another pot, bring vegetable broth to a simmer and season with salt and pepper.",
+    "Pour the broth over the ingredients in the pan, cover, and let it cook for about 10 minutes or until the vegetables are tender. Stir occasionally.",
+    "Stir in nutritional yeast, lemon juice, and vegan butter (optional) until well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "vegan",
+    "sweet",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "sweet-light-russian-beef-kidney-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-light-russian-beef-kidney-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:29:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "beef kidney",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Sweet & Light",
+    "dishForm": "Pilaf"
+  }
+}
