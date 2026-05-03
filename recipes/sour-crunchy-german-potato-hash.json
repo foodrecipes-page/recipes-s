@@ -1,0 +1,102 @@
+{
+  "title": "Sour Crunchy German Potato Hash",
+  "description": "A plant-based German dish featuring crispy potatoes, sour flavors, and a hint of sweetness from condensed milk, perfect for a lazy Sunday. This stir-fry is a unique blend of textures and tastes.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "condensed milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced potatoes and cook until they start to brown, about 5 minutes.",
+    "Add the chopped onions and bell peppers to the skillet and continue to cook until the vegetables are tender, about 5 minutes.",
+    "In a small bowl, whisk together the condensed milk, apple cider vinegar, smoked paprika, salt, and black pepper.",
+    "Pour the milk mixture over the potatoes and vegetables in the skillet and stir to combine.",
+    "Reduce the heat to medium-low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Increase the heat to medium-high and cook for an additional 2-3 minutes, or until the potatoes are crispy and golden brown.",
+    "Remove the skillet from the heat and garnish with chopped fresh parsley.",
+    "Serve the Sour Crunchy German Potato Hash hot, straight from the skillet.",
+    "Enjoy as a lazy Sunday breakfast or brunch dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-food",
+    "potato-hash",
+    "vegan-breakfast",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "sour-crunchy-german-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-german-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:38:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "condensed milk",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "sour crunchy",
+    "dishForm": "Hash"
+  }
+}
