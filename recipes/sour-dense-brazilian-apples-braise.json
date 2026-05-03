@@ -1,0 +1,120 @@
+{
+  "title": "Sour Bramley Apples Braise",
+  "description": "A hearty, vegan-friendly Brazilian dish featuring dense, sour Bramley apples slow-cooked in a rich, spiced sauce. Perfect for a chilly evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bramley apples",
+      "amount": "4-5 medium apples",
+      "notes": "peeled, cored"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the pan"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 teaspoon",
+      "notes": "or 2-inch piece, peeled and grated"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "handful",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Grease a 9x13-inch baking dish with olive oil.",
+    "Sauté the onion in a pan with a little oil until softened.",
+    "Add the garlic and ginger paste; sauté for another minute.",
+    "Add the apples, allspice, cinnamon powder, sugar, apple cider vinegar, salt, and vegetable broth.",
+    "Stir to combine, then transfer the mixture to the prepared baking dish.",
+    "Cover the dish with aluminum foil and braise in the preheated oven for 30 minutes.",
+    "Remove the foil and continue braise for another 20-25 minutes, or until the apples are tender.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "vegan",
+    "gluten-free",
+    "apples",
+    "braise",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 7
+  },
+  "slug": "sour-dense-brazilian-apples-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-dense-brazilian-apples-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:18:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "bramley apples",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "apples",
+    "descriptor": "sour, dense",
+    "dishForm": "Braise"
+  }
+}

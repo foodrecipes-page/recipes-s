@@ -1,0 +1,123 @@
+{
+  "title": "Smoky French Fish Stew",
+  "description": "A comforting, umami-packed fish stew with a gentle smoky kick, ideal for a hangover cure and pescatarian gatherings.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion, medium, diced",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1"
+    },
+    {
+      "name": "celery stalks, diced",
+      "amount": "2"
+    },
+    {
+      "name": "fish stock",
+      "amount": "4 cups",
+      "notes": "preferably homemade with smoked fish bones"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed canned tomatoes",
+      "amount": "400 g"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "firm white fish fillets (cod or haddock), cubed",
+      "amount": "600 g"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large pot over medium heat.",
+    "Add diced onion, minced garlic, carrot, and celery; sauté 5 minutes until softened.",
+    "Stir in smoked paprika, salt, pepper, and dried thyme; cook 1 minute for aroma release.",
+    "Pour in fish stock, apple cider vinegar, and crushed tomatoes; bring to a gentle simmer.",
+    "Add the cubed fish to the pot, reduce heat to low, and cover; simmer 12-15 minutes, or until fish flakes easily.",
+    "Whisk in remaining 1 tbsp olive oil and smoked sea salt; adjust seasoning if needed.",
+    "Remove from heat and stir in chopped parsley.\nServe hot with lemon wedges on the side for squeezing over the stew.",
+    "Enjoy the warm, smoky flavors that soothe both palate and hangover."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pescatarian",
+    "gluten-free",
+    "smoky",
+    "comfort-food",
+    "fish-stew"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 115,
+    "carbs": 45,
+    "fat": 50
+  },
+  "slug": "smoky-french-fish-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-french-fish-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:17:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "cider",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Fish",
+    "descriptor": "Smoky",
+    "dishForm": "Stew"
+  }
+}
