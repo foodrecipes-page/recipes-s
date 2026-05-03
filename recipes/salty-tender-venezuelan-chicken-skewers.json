@@ -1,0 +1,101 @@
+{
+  "title": "Salty Tender Venezuelan Chicken Skewers",
+  "description": "A weeknight-friendly Venezuelan dish featuring chicken skewers marinated in a salty and sweet mixture, then grilled to perfection. This low-fat-friendly recipe is perfect for a quick dinner",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "guava jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together guava jam, soy sauce, lime juice, olive oil, garlic, oregano, salt, and pepper",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours",
+    "Preheat a grill to medium-high heat",
+    "Thread the marinated chicken onto the bamboo skewers, leaving a small space between each piece",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through",
+    "Transfer the skewers to a plate and let rest for 5 minutes",
+    "Serve the skewers hot, garnished with chopped fresh cilantro if desired",
+    "Reduce the marinade by cooking it in a small saucepan over medium heat until thickened, about 5 minutes",
+    "Serve the reduced marinade alongside the skewers"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skewers",
+    "venezuelan",
+    "low-fat",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "salty-tender-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-tender-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:58:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "jam",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "salty tender",
+    "dishForm": "Skewers"
+  }
+}
