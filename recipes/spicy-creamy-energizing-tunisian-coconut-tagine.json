@@ -1,0 +1,107 @@
+{
+  "title": "Spicy Creamy Energizing Tunisian Coconut Tagine",
+  "description": "This Spicy Creamy Energizing Tunisian Coconut Tagine is a flavorful and energizing dish featuring unsweetened coconut milk pressure-cooked with aromatic spices for an easy, quick meal.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 can (14 oz/397g) unsweetened coconut milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1-inch piece fresh ginger, peeled and minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup (60g) finely diced red bell pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 dried red chilies",
+      "amount": "",
+      "notes": "crush to a finer powder"
+    },
+    {
+      "name": "1 tablespoon cumin seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon turmeric powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup (60ml) vegetable or coconut oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro for garnish",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pressure cooker over medium heat.",
+    "Add garlic and ginger, cook for about 1 minute until fragrant.",
+    "Add red bell pepper, chilies, cumin seeds, turmeric powder, and salt. Stir well to combine.",
+    "Pour in coconut milk, seal the pressure cooker, and lock the lid in place.",
+    "Cook on high pressure for 3 minutes, then release steam naturally (jar will be hot).",
+    "Stir gently once before serving with fresh cilantro and lemon juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "spicy",
+    "creamy",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 257,
+    "protein": 6,
+    "carbs": 31,
+    "fat": 9
+  },
+  "slug": "spicy-creamy-energizing-tunisian-coconut-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-energizing-tunisian-coconut-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:34:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Coconut",
+    "descriptor": "Spicy Creamy Energizing",
+    "dishForm": "Tagine"
+  }
+}
