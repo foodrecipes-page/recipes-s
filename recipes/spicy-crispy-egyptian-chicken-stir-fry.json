@@ -1,0 +1,127 @@
+{
+  "title": "Spicy Crispy Egyptian Chicken Stir-fry",
+  "description": "A keto-friendly and spicy twist on traditional Egyptian cuisine, combining the crunch of fried chicken with the flavors of Asia.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "40ml",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2cm piece",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the chicken into bite-sized pieces and season with salt, cumin, coriander, and black pepper.",
+    "Heat 20ml of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken to the wok and cook until browned, about 5 minutes.",
+    "Remove the chicken from the wok and set aside.",
+    "Add the remaining 20ml of vegetable oil to the wok and cook until fragrant.",
+    "Add the garlic, ginger, and scallions to the wok and cook until softened.",
+    "Add the gochujang and sambal oelek to the wok and cook for 1 minute.",
+    "Add the Shaoxing wine to the wok and cook until the liquid has almost completely evaporated.",
+    "Return the chicken to the wok and stir to coat with the spicy sauce.",
+    "Serve the chicken hot, garnished with parsley and additional scallions if desired.",
+    "Serve with steamed vegetables or a side of rice for a well-rounded meal.",
+    "Optional: Top with crispy fried onions or crushed peanuts for added crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "crispy",
+    "stirfry",
+    "egyptian",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 53,
+    "carbs": 10,
+    "fat": 45
+  },
+  "slug": "spicy-crispy-egyptian-chicken-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crispy-egyptian-chicken-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:09:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "spicy crispy",
+    "dishForm": "Stir-fry"
+  }
+}
