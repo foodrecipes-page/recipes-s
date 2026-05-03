@@ -1,0 +1,96 @@
+{
+  "title": "Savory Crumbly Chinese Pistachio Dumplings",
+  "description": "A savory and adventurous Chinese dish featuring pistachio, these dumplings are boiled to perfection and offer a low-fat-friendly option for those looking for a healthier meal. The combination of pistachio and traditional Chinese ingredients creates a unique flavor profile.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably low-protein flour"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1/2 cup",
+      "notes": "or pistachio flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, pistachio meal, and salt.",
+    "Gradually add in the sesame oil and mix until the dough comes together.",
+    "Knead the dough for about 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a small spoonful of chopped scallions and grated ginger in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Bring a large pot of water to a boil and gently add the dumplings.",
+    "Cook the dumplings for about 10-15 minutes, or until they float to the surface.",
+    "Serve the dumplings hot with a dipping sauce made from the soy sauce and water."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "low-fat",
+    "pistachio",
+    "dumplings",
+    "boiled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "savory-crumbly-chinese-pistachio-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-chinese-pistachio-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:29:58Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "pistachio",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pistachio",
+    "descriptor": "savory crumbly",
+    "dishForm": "Dumplings"
+  }
+}
