@@ -1,0 +1,104 @@
+{
+  "title": "Sweet Fluffy Peruvian Black Beans Pilaf",
+  "description": "A sweet and fluffy Peruvian dish featuring black beans, sautéed to perfection with a mix of spices and herbs, making it a crowd-pleaser. This pilaf is a dash-friendly and flavorful side dish or main course.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked black beans",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the black beans and soak them in water for at least 4 hours or overnight. Drain and set aside.",
+    "In a large saucepan, heat the olive oil over medium heat. Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground cumin, smoked paprika, and salt. Cook for 1 minute, stirring constantly.",
+    "Add the soaked and drained black beans, brown sugar, and 2 cups of water to the saucepan. Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the beans are tender.",
+    "While the beans are cooking, heat a large skillet over medium-high heat. Add the cooked white rice and stir-fry for 5-7 minutes, breaking up any clumps with a spatula.",
+    "Once the beans are tender, fluff them with a fork and add them to the skillet with the rice. Stir-fry for 2-3 minutes, until the rice and beans are well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the pilaf to a serving platter and garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "black-beans",
+    "pilaf",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "sweet-fluffy-peruvian-black-beans-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-fluffy-peruvian-black-beans-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:16:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "saute",
+    "primaryIngredient": "black beans",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "black beans",
+    "descriptor": "sweet fluffy",
+    "dishForm": "Pilaf"
+  }
+}
