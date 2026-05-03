@@ -1,0 +1,102 @@
+{
+  "title": "Smoky Light Egyptian Chicken Kebabs",
+  "description": "A post-workout Egyptian dish featuring smoky flavors, serrano ham, and tadka, suitable for a sugar-free diet. This recipe combines the flavors of Egypt with the spiciness of serrano ham and the crunch of vegetables.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "serrano ham",
+      "amount": "6 slices",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together tadka spice blend, smoked paprika, olive oil, and lemon juice.",
+    "Add the chicken, serrano ham, red onion, red bell pepper, and zucchini to the bowl and toss to coat.",
+    "Thread the chicken and vegetables onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, or until the chicken is cooked through.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or cilantro.",
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Reheat leftovers to an internal temperature of 165°F (74°C) before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "egyptian",
+    "chicken",
+    "kebabs",
+    "post-workout",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "smoky-light-egyptian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-light-egyptian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:17:52Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "tadka",
+    "primaryIngredient": "serrano ham",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Smoky Light",
+    "dishForm": "Kebabs"
+  }
+}
