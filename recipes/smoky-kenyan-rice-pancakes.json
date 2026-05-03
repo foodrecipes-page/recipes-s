@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Kenyan Rice Pancakes",
+  "description": "Crispy rice flour pancakes with a smoky flavor, perfect for a romantic Mediterranean-friendly meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "mediterranean-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "150g",
+      "notes": "high-quality, unprocessed"
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": "room temperature"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "5g",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2g",
+      "notes": "for light texture"
+    },
+    {
+      "name": "salt",
+      "amount": "1g",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Mix rice flour, water, smoked paprika, baking powder, and salt in a bowl until a smooth dough forms.",
+    "Rest the dough for 10 minutes to allow flavors to blend.",
+    "Heat a non-stick pan over medium heat (about 180°C/350°F).",
+    "Scoop 30g portions of dough and flatten into thin pancakes.",
+    "Cook for 2 minutes per side until golden and crispy.",
+    "Serve immediately with a side of fresh tomatoes and lemon wedges."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "rice",
+    "pancakes",
+    "smoky",
+    "crispy",
+    "romantic",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 3
+  },
+  "slug": "smoky-kenyan-rice-pancakes",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-kenyan-rice-pancakes",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T08:34:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rice",
+    "descriptor": "smoky",
+    "dishForm": "Pancakes"
+  }
+}
