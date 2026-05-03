@@ -1,0 +1,107 @@
+{
+  "title": "Smoky Spanish Mozzarella Bake",
+  "description": "A smoky, crunchy, and cozy Spanish dish featuring mozzarella, perfect for a diabetic-friendly meal. This bake combines the flavors of Spain with the creaminess of mozzarella.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Chorizo",
+      "amount": "120g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "250ml",
+      "notes": "low-sugar"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced chorizo and cook until browned, about 3-4 minutes.",
+    "Add the diced red bell pepper and cook until tender, about 4-5 minutes.",
+    "In a separate bowl, combine the tomato sauce and smoked paprika.",
+    "In a baking dish, create a layer of the tomato sauce mixture.",
+    "Add a layer of sliced mozzarella cheese on top of the sauce.",
+    "Repeat the layers, ending with a layer of mozzarella cheese on top.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "spanish",
+    "mozzarella",
+    "bake",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "smoky-spanish-mozzarella-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spanish-mozzarella-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:37:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "mozzarella",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "mozzarella",
+    "descriptor": "smoky crunchy",
+    "dishForm": "Bake"
+  }
+}
