@@ -1,0 +1,108 @@
+{
+  "title": "Salty Gooey Canadian Sea Bass Gratin",
+  "description": "This dish combines the richness of sea bass with the savory flavors of caramelized onions and a gooey, cheesy sauce, all while being gluten-free friendly. It's a perfect, cozy meal for a cold Canadian night.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Gluten-free All-purpose Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat. Add sliced onions and cook until caramelized, stirring occasionally, about 20-25 minutes.",
+    "Add minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "In a separate saucepan, melt butter over medium heat. Add gluten-free flour and whisk to combine. Cook for 1 minute, forming a roux.",
+    "Slowly pour in milk, whisking continuously to avoid lumps. Bring mixture to a simmer and cook until it thickens, about 5 minutes.",
+    "Remove sauce from heat and stir in cheddar and parmesan cheese until melted and smooth. Season with salt to taste.",
+    "Place sea bass fillets in a baking dish. Spoon caramelized onions over the fish, then pour the cheesy sauce over the onions.",
+    "Transfer the dish to the preheated oven and bake for 15-20 minutes, or until the fish is cooked through and the top is golden brown.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-seafood",
+    "cheesy-gratin",
+    "gluten-free",
+    "sea-bass",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "salty-gooey-canadian-sea-bass-gratin",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-gooey-canadian-sea-bass-gratin",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:22:44Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "sea bass",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "sea bass",
+    "descriptor": "salty gooey",
+    "dishForm": "Gratin"
+  }
+}

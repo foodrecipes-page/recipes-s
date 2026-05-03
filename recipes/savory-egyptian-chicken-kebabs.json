@@ -1,0 +1,103 @@
+{
+  "title": "Savory Egyptian Chicken Kebabs",
+  "description": "Tender and flavorful chicken skewers marinated in a mixture of aromatic spices and herbs, served with a rich garlic sauce. Perfect for a romantic dinner with a Mediterranean twist.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, cumin, coriander, salt, and black pepper.",
+    "Add the chicken cubes to the bowl and mix well to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken cubes onto skewers, leaving a small space between each piece.",
+    "Grill the chicken kebabs for 8-10 minutes per side, or until cooked through.",
+    "While the chicken is cooking, warm the garlic sauce in a small saucepan over low heat.",
+    "Serve the chicken kebabs hot with the warm garlic sauce spooned over the top.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "egyptian",
+    "garlic-sauce",
+    "mediterranean",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "savory-egyptian-chicken-kebabs",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-egyptian-chicken-kebabs",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:22:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "garlic sauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "tender savory",
+    "dishForm": "Kebabs"
+  }
+}
