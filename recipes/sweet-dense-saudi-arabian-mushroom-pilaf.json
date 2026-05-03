@@ -1,0 +1,99 @@
+{
+  "title": "Sweet Dense Saudi Arabian Mushroom Pilaf",
+  "description": "A kid-friendly, FODMAP-friendly Saudi Arabian dish featuring sweet and dense mushroom pilaf, perfect for a weeknight dinner. This recipe uses a deglaze technique to enhance the flavors.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 1/2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button mushrooms, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped, lactose-free"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Date syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 1/4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add sliced mushrooms and cook until they release their moisture and start browning, about 5 minutes.",
+    "Add date syrup and cook for 1 minute, stirring constantly, to deglaze the pan.",
+    "Add basmati rice, salt, black pepper, and cardamom powder. Stir to combine.",
+    "Add water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked and dense.",
+    "Turn off the heat and let it rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "mushroom",
+    "pilaf",
+    "kid-friendly",
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 65,
+    "fat": 14
+  },
+  "slug": "sweet-dense-saudi-arabian-mushroom-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-dense-saudi-arabian-mushroom-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:02:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "mushroom",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "mushroom",
+    "descriptor": "sweet dense",
+    "dishForm": "Pilaf"
+  }
+}
