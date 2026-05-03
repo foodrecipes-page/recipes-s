@@ -1,0 +1,98 @@
+{
+  "title": "Smoky Chewy Algerian Apple Bake",
+  "description": "A light and flavorful Algerian-inspired dessert featuring apple juice and a smoky twist, suitable for diabetic-friendly diets. This bake is perfect for a sweet treat without overindulging.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apple juice",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large bowl, whisk together the almond flour, coconut sugar, smoked cinnamon, and baking powder.",
+    "In a separate bowl, whisk together the apple juice, melted butter, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Pour the batter into a 9x9-inch baking dish.",
+    "If using chopped almonds, sprinkle them on top of the batter.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 9,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "diabetic-friendly",
+    "smoky",
+    "chewy",
+    "apple-bake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "smoky-chewy-algerian-apple-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chewy-algerian-apple-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:29:07Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "apple juice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "apple",
+    "descriptor": "smoky chewy",
+    "dishForm": "Bake"
+  }
+}
