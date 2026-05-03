@@ -1,0 +1,104 @@
+{
+  "title": "Smoky Dutch Eggplant Toast",
+  "description": "A smoky and dense Dutch dish perfect for a lazy Sunday, featuring roasted eggplant, crispy toast, and a blend of vegetarian-friendly flavors. This hearty recipe is sure to satisfy your cravings.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 large",
+      "notes": "purple or black variety"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "crusty Dutch bread or baguette"
+    },
+    {
+      "name": "Gouda cheese",
+      "amount": "1/2 cup",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the eggplant into 1-inch thick slices and brush with olive oil.",
+    "Season the eggplant with smoked paprika, salt, and black pepper.",
+    "Roast the eggplant in the oven for 30-40 minutes, or until tender and lightly browned.",
+    "Meanwhile, toast the bread slices until crispy and lightly browned.",
+    "Spread a layer of roasted garlic on each toast slice.",
+    "Top each toast slice with a roasted eggplant slice, a sprinkle of smoked Gouda cheese, and a sprinkle of chopped parsley.",
+    "Drizzle with lemon juice and serve immediately.",
+    "Garnish with additional parsley and smoked paprika, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "dutch",
+    "eggplant",
+    "vegetarian",
+    "lazy-sunday",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "smoky-dutch-eggplant-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dutch-eggplant-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:21:14Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "eggplant",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "eggplant",
+    "descriptor": "smoky",
+    "dishForm": "Toast"
+  }
+}

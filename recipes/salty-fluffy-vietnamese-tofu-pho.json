@@ -1,0 +1,92 @@
+{
+  "title": "Salty Fluffy Vietnamese Tofu Pho",
+  "description": "A brunch‑friendly, diabetic‑friendly tofu pho that’s salty, fluffy, and packed with bean sprouts, sautéed bhuna tofu, and a light broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "400g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "100g",
+      "notes": "dry, cooked al dente"
+    },
+    {
+      "name": "Fresh bean sprouts",
+      "amount": "200g"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Bhuna spice mix",
+      "amount": "2 tbsp tomato paste, 1 tsp cumin, 1 tsp coriander, 1/2 tsp smoked paprika, 1/4 tsp chili flakes"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess moisture, then cut into cubes.",
+    "Heat 1 tbsp sesame oil in a skillet over medium heat. Add tofu cubes and sprinkle the bhuna spice mix; sauté until tofu is golden and coated, about 8–10 minutes. Remove tofu and set aside.",
+    "Bring 4 cups water to a boil and cook rice noodles for 3–4 minutes until al dente. Drain and set aside.",
+    "In a pot, combine 4 cups water, soy sauce, salt, and pepper. Bring to a gentle simmer.",
+    "In serving bowls, layer cooked noodles, bean sprouts, sautéed bhuna tofu, sliced scallions, and cilantro.",
+    "Pour the hot broth over the ingredients.",
+    "Squeeze lime over the bowl, add extra chili flakes if desired, and serve immediately."
+  ],
+  "slug": "salty-fluffy-vietnamese-tofu-pho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-fluffy-vietnamese-tofu-pho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:21:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "bhuna",
+    "primaryIngredient": "bean sprouts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Salty Fluffy",
+    "dishForm": "Pho"
+  }
+}
