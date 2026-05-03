@@ -1,0 +1,121 @@
+{
+  "title": "Sour Velvety German Sauerkraut and Beef Sauerkraut Roast",
+  "description": "A classic German sauerbraten roast, infused with the tanginess of sauerkraut and capers, all while being FODMAP-friendly and cooked sous-vide for a tender, velvety texture.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pounds beef round (1.5-2 kg)",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup sauerkraut, drained of liquid and chopped (250g)",
+      "amount": null,
+      "notes": "homemade or store-bought FODMAP-friendly"
+    },
+    {
+      "name": "2 tablespoons caraway seeds",
+      "amount": "30g",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced (6g)",
+      "amount": "6g",
+      "notes": "FODMAP-friendly garlic"
+    },
+    {
+      "name": "2 tablespoons brown sugar",
+      "amount": "30g",
+      "notes": null
+    },
+    {
+      "name": "1 cup beef broth (250ml)",
+      "amount": null,
+      "notes": "homemade or store-bought FODMAP-friendly"
+    },
+    {
+      "name": "2 tablespoons apple cider vinegar",
+      "amount": "30ml",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons red wine vinegar",
+      "amount": "30ml",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "30ml",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "5g",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "2g",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons capers, rinsed and chopped (30g)",
+      "amount": "30g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and pepper.",
+    "In a large bowl, combine the sauerkraut, caraway seeds, garlic, brown sugar, beef broth, apple cider vinegar, red wine vinegar, olive oil, salt, and black pepper. Mix well to combine.",
+    "Add the beef to the bowl and toss to coat with the sauerkraut mixture.",
+    "Seal the beef in a sous-vide bag.",
+    "Cook the beef in a water bath at 130°F (54°C) for 48-72 hours.",
+    "Preheat the oven to 400°F (200°C).",
+    "Transfer the beef to a roasting pan and spoon the sauerkraut mixture over the top.",
+    "Roast the beef in the preheated oven for 20-25 minutes, or until the top is caramelized.",
+    "Remove the beef from the oven and let it rest for 10-15 minutes.",
+    "Slice the beef against the grain and serve with the sauerkraut mixture spooned over the top.",
+    "Garnish with chopped capers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 115,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sauerkraut",
+    "beef",
+    "sous-vide",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "sour-velvety-german-sauerbraten-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-velvety-german-sauerbraten-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:55:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "sous-vide",
+    "primaryIngredient": "capers",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "sauerbraten",
+    "descriptor": "sour velvety",
+    "dishForm": "roast"
+  }
+}
