@@ -1,0 +1,80 @@
+{
+  "title": "Spicy Portuguese Kielbasa Burger",
+  "description": "A spicy, silky burger featuring smoked Portuguese kielbasa, pickles, and diabetic-friendly ingredients for a date-night dish.",
+  "cuisine": "portuguese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked portuguese kielb: 100g",
+      "amount": "100g",
+      "notes": "smoked portuguese kielbasa (e.g., chouriço) for authentic spice"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "20g",
+      "notes": "adds a subtle sweetness and crunch"
+    },
+    {
+      "name": "diced pickle",
+      "amount": "30g",
+      "notes": "for tangy crunch; choose sugar-free pickles"
+    },
+    {
+      "name": "diabetic-friendly bun",
+      "amount": "1 bun",
+      "notes": "low-carb, gluten-free option like a whole wheat roll"
+    },
+    {
+      "name": "spicy mayo",
+      "amount": "15ml",
+      "notes": "mix 5ml vegan mayo, 10ml apple cider vinegar, 1 tsp chili flakes for heat"
+    }
+  ],
+  "instructions": [
+    "Prepare smoked portuguese kielbasa by slicing into 1cm thick pieces.",
+    "Heat a non-stick pan over medium heat (150°C/300°F) for 2 minutes.",
+    "Add kielbasa slices and cook until browned (3-4 minutes).",
+    "In a small bowl, mix spicy mayo with diced onion and pickle for dressing.",
+    "Place kielbasa on the bun, top with the spicy mayo mixture, and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "portuguese",
+    "kielbasa",
+    "burger",
+    "diabetic-friendly",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "spicy-portuguese-kielbasa-burger",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-portuguese-kielbasa-burger",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T05:09:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "kielbasa",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Spicy",
+    "dishForm": "Burger"
+  }
+}
