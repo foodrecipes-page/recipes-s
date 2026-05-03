@@ -1,0 +1,100 @@
+{
+  "title": "Savory Tandoori Spanish Squid Crumble",
+  "description": "A smoky, gluten‑free squid dish with a tandoori rub and a crumbly feta‑onion topping, perfect for a lazy Sunday dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh squid",
+      "amount": "500g",
+      "notes": "cleaned and sliced into rings"
+    },
+    {
+      "name": "tandoori spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Pat the squid rings dry and toss them with tandoori spice mix, Greek yogurt, lemon juice, olive oil and a pinch of salt until evenly coated.",
+    "Let the mixture marinate for 10 minutes while you prep the crumble topping.",
+    "Heat a non‑stick skillet over medium‑high heat; add the marinated squid in a single layer and cook for 2–3 minutes on each side until just opaque.",
+    "In the same skillet, sauté the diced onion until translucent, then sprinkle the crumbled feta over the onions.",
+    "Continue cooking for another 2 minutes, letting the feta soften and slightly brown.",
+    "Transfer the cooked squid to a serving dish, spoon the feta‑onion crumble over it, and garnish with chopped cilantro.",
+    "Serve hot with a squeeze of fresh lemon and a side of crusty gluten‑free bread if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "tandoori",
+    "spanish",
+    "gluten-free",
+    "seafood",
+    "lazy-sunday",
+    "quick",
+    "crumble",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 14,
+    "fat": 32
+  },
+  "slug": "savory-tandoori-spanish-squid-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-tandoori-spanish-squid-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:28:16Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "squid",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Squid",
+    "descriptor": "Savory Tandoori",
+    "dishForm": "Crumble"
+  }
+}

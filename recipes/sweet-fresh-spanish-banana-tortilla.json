@@ -1,0 +1,96 @@
+{
+  "title": "Sweet Fresh Spanish Banana Tortilla",
+  "description": "A classic Spanish omelette with a twist, featuring fresh bananas, sweet plantains, and a touch of honey for a delicious brunch treat.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Large eggs",
+      "amount": "6",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "Sweet plantains",
+      "amount": "2",
+      "notes": "Ripe but firm"
+    },
+    {
+      "name": "Fresh bananas",
+      "amount": "4",
+      "notes": "Mashed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a 9-inch (23cm) non-stick skillet over medium heat.",
+    "In a bowl, whisk together the eggs, salt, and pepper.",
+    "Add the mashed bananas and mix well.",
+    "Add the sliced sweet plantains to the egg mixture and stir.",
+    "Pour the egg mixture into the skillet and cook for 2-3 minutes.",
+    "Use a spatula to gently lift the edges of the tortilla and tilt the skillet so the uncooked egg can flow underneath.",
+    "Cook for an additional 2-3 minutes or until the tortilla is almost set.",
+    "Sprinkle the honey over the tortilla and use the spatula to fold the tortilla in half.",
+    "Cook for an additional 1 minute or until the tortilla is golden brown.",
+    "Slide the tortilla onto a plate and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "brunch",
+    "sweet",
+    "tortilla",
+    "low-fat",
+    "delicious"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "sweet-fresh-spanish-banana-tortilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-fresh-spanish-banana-tortilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:28:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "reduce",
+    "primaryIngredient": "sugars",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Banana",
+    "descriptor": "Sweet Fresh",
+    "dishForm": "Tortilla"
+  }
+}

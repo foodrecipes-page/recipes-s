@@ -1,0 +1,121 @@
+{
+  "title": "Spicy, Crumbly Malaysian Chicken Satay",
+  "description": "A flavorful and spicy Malaysian dish made with marinated chicken, rich with coconut milk and served with crunchy peanut sauce. Perfect for a sick-day treat.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's fermented"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "add more for extra heat"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to 400°F (200°C).",
+    "Whisk coconut milk, coriander powder, cumin powder, turmeric powder, red pepper flakes, and salt in a bowl.",
+    "Add the marinade to the chicken and mix well. Cover and refrigerate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a broiler pan and brush with coconut oil.",
+    "Broil the chicken for 10-12 minutes, turning occasionally, until cooked through.",
+    "While the chicken is cooking, prepare the peanut sauce by blending peanuts, onion, garlic, and lemon juice in a food processor.",
+    "Season the peanut sauce with salt and set aside.",
+    "Serve the chicken satay with peanut sauce for dipping.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken-satay",
+    "spicy",
+    "satay",
+    "peanut-sauce",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "spicy-crumbly-malaysian-chicken-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crumbly-malaysian-chicken-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:27:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "broil",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "spicy, crumbly",
+    "dishForm": "Satay"
+  }
+}
