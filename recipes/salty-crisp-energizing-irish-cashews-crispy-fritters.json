@@ -1,0 +1,98 @@
+{
+  "title": "Salty, Crisp, Energizing Irish Cashews Crispy Fritters",
+  "description": "A quick and easy snack or side dish featuring crunchy cashews, perfect for a energy boost. Suitable for a high-protein diet.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coarse sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a food processor, pulse the cashews until coarsely chopped.",
+    "In a large bowl, whisk together the flour, Parmesan cheese, egg, melted butter, parsley, salt, pepper, and baking powder.",
+    "Stir in the chopped cashews until they are evenly coated with the batter.",
+    "Using a spoon, drop the cashew mixture into balls, about 1 1/2 inches in diameter.",
+    "Heat the air fryer to 375°F (190°C).",
+    "Place the cashew balls in a single layer in the air fryer basket.",
+    "Cook for 5-7 minutes or until golden brown, shaking the basket halfway through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "cashews",
+    "snack",
+    "air-fry",
+    "high-protein",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "salty-crisp-energizing-irish-cashews-crispy-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crisp-energizing-irish-cashews-crispy-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:29:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "cashews",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cashews",
+    "descriptor": "salty, crisp, energizing",
+    "dishForm": "Crispy Fritters"
+  }
+}
