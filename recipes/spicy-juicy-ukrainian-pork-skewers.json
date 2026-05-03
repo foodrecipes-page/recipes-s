@@ -1,0 +1,104 @@
+{
+  "title": "Spicy Juicy Ukrainian Pork Skewers",
+  "description": "These skewers bring together the bold flavors of Ukraine, with spicy pork, sour dill pickles, and a hint of freshness from parsley, all while being Whole30-friendly. Perfect for a summer evening, they are sure to impress your guests.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Dill pickles",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste for spiciness"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together smoked paprika, black pepper, salt, and red pepper flakes.",
+    "Add the chopped garlic, lemon juice, and olive oil to the bowl and mix until well combined.",
+    "Add the pork cubes to the marinade and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium-high heat. Thread the marinated pork cubes onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the pork is cooked through and slightly charred.",
+    "While the pork is cooking, mix the chopped dill pickles and parsley in a small bowl.",
+    "Once the pork skewers are done, brush them with the pickle-parsley mixture.",
+    "Serve the skewers hot, garnished with additional parsley if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian-cuisine",
+    "pork-skewers",
+    "whole30",
+    "gluten-free",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 30
+  },
+  "slug": "spicy-juicy-ukrainian-pork-skewers",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-juicy-ukrainian-pork-skewers",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:22:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "dill pickles",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "spicy juicy",
+    "dishForm": "Skewers"
+  }
+}

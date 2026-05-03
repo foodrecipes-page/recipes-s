@@ -1,0 +1,102 @@
+{
+  "title": "Smoky Creamy Turkish Lamb Kebabs",
+  "description": "Savory and indulgent Turkish lamb kebabs with a smoky flavor, served with a side of creamy tzatziki sauce and low-carb friendly options.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "almond flour cookies",
+      "amount": "6-8",
+      "notes": "crushed for low-carb breading"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together yogurt, lemon juice, garlic, smoked paprika, salt, and pepper.",
+    "Add the lamb cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to desired level of doneness.",
+    "Meanwhile, prepare the tzatziki sauce by combining the grated cucumber, chopped dill, and a pinch of salt in a bowl.",
+    "Serve the kebabs with a side of tzatziki sauce and crushed almond flour cookies for a low-carb friendly option.",
+    "Garnish with additional dill and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish-kebabs",
+    "smoky-flavor",
+    "low-carb-recipes",
+    "gluten-free-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "smoky-creamy-turkish-lamb-kebabs",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-creamy-turkish-lamb-kebabs",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:22:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "smoke",
+    "primaryIngredient": "cookies",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "smoky creamy",
+    "dishForm": "Kebabs"
+  }
+}
