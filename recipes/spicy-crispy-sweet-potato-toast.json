@@ -1,0 +1,80 @@
+{
+  "title": "Spicy Crispy Sweet Potato Toast",
+  "description": "A dairy-free friendly and sick-day Jamaican-inspired dish featuring crispy sweet potatoes topped with a spicy, savory Chinese five spice glaze for added flavor.",
+  "cuisine": "Jamaican-Chinese Fusion",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large sweet potato",
+      "amount": "peeled and cubed",
+      "notes": "about 3 cups"
+    },
+    {
+      "name": "2 tablespoons vegetable oil or coconut oil",
+      "amount": "mixed with a pinch of salt and ground black pepper",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "1/4 teaspoon Chinese five spice powder",
+      "amount": "",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "Juice of 1 lime or orange",
+      "amount": "reduced to about 2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of ground cayenne pepper (optional)",
+      "amount": "",
+      "notes": "to taste for spiciness"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F.",
+    "In a large mixing bowl, combine the cubed sweet potato with oil, salt, and black pepper. Toss well to coat evenly.",
+    "Transfer the coated sweet potatoes onto a baking sheet lined with parchment paper or a silicone mat.",
+    "Bake for about 25-30 minutes, flipping halfway through until they are crispy and golden brown on all sides.",
+    "While the sweet potatoes are baking, prepare the glaze by mixing together Chinese five spice powder, lime juice, and a pinch of ground cayenne pepper (if using).",
+    "Once the sweet potatoes are done, drizzle them with the glaze mixture immediately while they're still hot for best results.",
+    "Let the sweet potatoes cool slightly before serving. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy-sweet-potato-toast",
+    "jamaican-chinese-fusion",
+    "toast",
+    "sweet-potato-toast"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "spicy-crispy-sweet-potato-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crispy-sweet-potato-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:59:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Sweet potatoes",
+    "descriptor": "Spicy, Crispy",
+    "dishForm": "Toast"
+  }
+}
