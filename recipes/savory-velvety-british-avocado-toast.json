@@ -1,0 +1,109 @@
+{
+  "title": "Savory Velvety British Avocado Toast",
+  "description": "A nostalgic British snack that marries creamy avocado with perfectly toasted bread, seasoned for a velvety, savory bite.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole-grain bread",
+      "amount": "2 slices",
+      "notes": "sourdough or whole-grain preferred"
+    },
+    {
+      "name": "avocado (Hass)",
+      "amount": "1 medium",
+      "notes": "cut in half, pit removed, flesh scooped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for toasting the bread"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/8 tsp",
+      "notes": "optional, for heat"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 pinch",
+      "notes": "adds depth"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp",
+      "notes": "optional, for cheesy flavour"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat and brush one side of each bread slice with olive oil.",
+    "Toast the bread until golden brown on both sides, about 1-2 minutes per side; remove and set aside.",
+    "In a bowl, scoop the avocado flesh and mash it with a fork until smooth yet slightly chunky for a velvety texture.",
+    "Add the lemon juice, sea salt, black pepper, red pepper flakes, and smoked paprika to the avocado and mash together until well combined.",
+    "Fold in the chopped chives and nutritional yeast (if using).",
+    "Spread the avocado mixture evenly onto each toasted slice using a spatula or spoon.",
+    "Garnish with a sprinkle of remaining chives and, if desired, a light drizzle of olive oil for shine.",
+    "Serve immediately at room temperature, optionally accompanied by sliced cucumber or a small bowl of tomato soup for a classic British pairing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "velvety",
+    "british",
+    "avocado-toast",
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 19
+  },
+  "slug": "savory-velvety-british-avocado-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-velvety-british-avocado-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:58:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "avocado",
+    "descriptor": "Savory Velvety",
+    "dishForm": "Toast"
+  }
+}
