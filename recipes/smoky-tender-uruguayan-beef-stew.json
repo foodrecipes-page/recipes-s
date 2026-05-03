@@ -1,0 +1,110 @@
+{
+  "title": "Smoky Tender Uruguayan Beef Stew",
+  "description": "A savory, smoky stew that brings Uruguayan flavors to a weeknight dinner, featuring redcurrants and bhuna spice for a unique twist.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "2 lbs (900 g)",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "bhuna masala paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "redcurrants",
+      "amount": "1 cup (140 g)",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/2 cup (120 ml)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "finishing garnish",
+      "amount": "2 tbsp chopped parsley + 2 tbsp lemon juice"
+    }
+  ],
+  "instructions": [
+    "Pat the beef cubes dry with paper towels and toss them in flour until lightly coated.",
+    "Heat 1 tbsp olive oil in a large Dutch oven over medium-high heat; add the beef in batches and sear until browned on all sides. Transfer to a plate.",
+    "Add the remaining oil, onion, and garlic to the pot; sauté until onion is translucent, about 4 minutes.",
+    "Stir in bhuna paste and smoked paprika, cooking for 1 minute to bloom the spices.",
+    "Return the beef to the pot, pour in beef broth and tomato puree, then add redcurrants, salt, and pepper. Bring to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 2 hours, stirring occasionally, until the beef is fork‑tender.",
+    "If a thicker gravy is desired, whisk in a cornstarch slurry (1 tbsp cornstarch mixed with 2 tbsp water) and stir until the sauce thickens, about 2 minutes.",
+    "Remove the pot from heat, stir in the parsley‑lemon garnish, taste and adjust seasoning if needed.",
+    "Serve hot over mashed potatoes or crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef-stew",
+    "redcurrants",
+    "smoky",
+    "egg-free",
+    "weeknight",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 39,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "smoky-tender-uruguayan-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tender-uruguayan-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:54:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "redcurrants",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Smoky Tender",
+    "dishForm": "Stew"
+  }
+}

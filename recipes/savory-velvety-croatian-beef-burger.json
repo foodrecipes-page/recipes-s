@@ -1,0 +1,104 @@
+{
+  "title": "Savory Velvety Croatian Beef Burger",
+  "description": "A savory and velvety Croatian-inspired beef burger featuring sesame seed burger buns, served with a side of ajvar sauce. This dish is egg-free and perfect for a monsoon evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "sesame seed burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "ajvar sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 large onion",
+      "notes": "slow-cooked"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced and sautéed"
+    },
+    {
+      "name": "swiss cheese",
+      "amount": "4 slices",
+      "notes": "melted"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, combine ground beef, salt, and pepper. Mix well with your hands or a wooden spoon until just combined.",
+    "Divide the beef mixture into 4 equal parts and shape each part into a ball. Flatten each ball into a patty.",
+    "Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 130°F for medium-rare.",
+    "While the burgers are cooking, toast the sesame seed burger buns on the grill or in a toaster.",
+    "Spread a layer of ajvar sauce on the bottom bun of each burger.",
+    "Assemble the burgers with caramelized onions, mushrooms, swiss cheese, lettuce, and tomato.",
+    "Drizzle with mayonnaise, if using.",
+    "Serve immediately and enjoy.",
+    "Let the burgers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "beef",
+    "burger",
+    "savory",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "savory-velvety-croatian-beef-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-velvety-croatian-beef-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:54:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "beef",
+    "descriptor": "savory velvety",
+    "dishForm": "Burger"
+  }
+}
