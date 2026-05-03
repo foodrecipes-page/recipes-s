@@ -1,0 +1,98 @@
+{
+  "title": "Salty Chewy Turkish Vegetable Stir Fry",
+  "description": "A savory Turkish dish featuring a variety of vegetables, stir-fried in peanut oil and seasoned with salty spices, perfect for a crowd-pleasing vegetarian meal. This recipe combines the chewy texture of eggplant and bell peppers with the crunch of onions and the flavor of garlic.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium, sliced",
+      "notes": "preferably Turkish or Italian eggplant"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for authentic Turkish flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced eggplant and cook for 3-4 minutes on each side, until it develops a chewy texture and a golden-brown color.",
+    "Add the chopped onion and cook for 2-3 minutes, until it becomes translucent and starts to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced red bell pepper and cook for 2-3 minutes, until it becomes tender.",
+    "Season the vegetables with salt, black pepper, and paprika, and stir to combine.",
+    "If using sumac, sprinkle it over the vegetables and stir to combine.",
+    "Reduce the heat to medium-low and simmer the stir-fry for 5-7 minutes, until the flavors have melded together and the vegetables are coated in the salty spices.",
+    "Serve the Salty Chewy Turkish Vegetable Stir Fry hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "stir-fry",
+    "peanut-oil",
+    "eggplant",
+    "bell-pepper"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "salty-chewy-turkish-vegetable-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-chewy-turkish-vegetable-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:37:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "stir-fry",
+    "primaryIngredient": "peanut oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "vegetables",
+    "descriptor": "salty chewy",
+    "dishForm": "Stir-fry"
+  }
+}
