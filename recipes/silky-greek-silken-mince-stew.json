@@ -1,0 +1,73 @@
+{
+  "title": "Silky Greek Silken Mince Stew",
+  "description": "A rich, umami-packed vegan stew using Greek mince for a smooth texture, cooked in one pot with pressure cooking for minimal cleanup.",
+  "cuisine": "greek",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek mince",
+      "amount": "150g",
+      "notes": "Precooked, finely ground plant-based mince (e.g., lentils or soy)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Diced"
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a pressure cooker over medium heat.",
+    "Sauté diced onion for 2 minutes until translucent.",
+    "Add Greek mince and cook for 3 minutes to combine.",
+    "Pour in 1.5L vegetable broth and 1 tsp garlic powder.",
+    "Seal the pressure cooker and cook on high pressure for 10 minutes.",
+    "Release pressure naturally for 5 minutes, then check consistency.",
+    "Blend until silky smooth if needed, then serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "vegan",
+    "silken",
+    "mince",
+    "stew",
+    "umami",
+    "one-pot",
+    "pressure-cook"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "silky-greek-silken-mince-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-greek-silken-mince-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:27:55Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "pressure-cook",
+    "primaryIngredient": "mincemeat",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "mincemeat",
+    "descriptor": "silky",
+    "dishForm": "Stew"
+  }
+}
