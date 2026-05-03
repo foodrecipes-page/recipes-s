@@ -1,0 +1,64 @@
+{
+  "title": "Sour Norwegian Palm Sugar Bowl",
+  "description": "A light, sour, and fluffy Norwegian dish featuring palm sugar, braised with minimal ingredients for a weeknight meal. Low-calorie and perfect for quick preparation.",
+  "cuisine": "norwegian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp",
+      "notes": "unrefined, raw"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 small head",
+      "notes": "fresh, shredded"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 tbsp",
+      "notes": "raw, for sourness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "extra-light"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "room temperature"
+    }
+  ],
+  "instructions": [
+    "Shred cabbage into thin strips and place in a bowl.",
+    "Add palm sugar, white vinegar, and water to the bowl. Mix gently with a fork.",
+    "Let sit for 5 minutes to allow the cabbage to absorb the liquid and become tender.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  ": 5,  // Total time is prep + cook (5 + 0 = 5 minutes) but note: the user said ": ", so we'll use 5 for total time as it's very quick. Wait, the user said ",
+  "slug": "sour-norwegian-palm-sugar-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-norwegian-palm-sugar-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:11:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "palm sugar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "palm sugar",
+    "descriptor": "Sour",
+    "dishForm": "Bowl"
+  }
+}
