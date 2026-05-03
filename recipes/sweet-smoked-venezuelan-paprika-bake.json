@@ -1,0 +1,70 @@
+{
+  "title": "Sweet Smoked Venezuelan Paprika Bake",
+  "description": "A fluffy, earthy Venezuelan dish perfect for post-workout recovery, featuring sweet smoked paprika for a subtle smokiness and low-calorie profile.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "low-calorie",
+    "plant-based",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality, smoked paprika for authentic flavor"
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour for structure"
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix 1/2 cup flour with 2 tablespoons sweet smoked paprika until evenly combined.",
+    "Add 1/4 cup water and stir until a soft dough forms.",
+    "Shape dough into a ball, flatten into a 1-inch thick circle on a baking sheet.",
+    "Bake for 15-18 minutes until golden and slightly crispy.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "sweet-smoked",
+    "paprika-bake",
+    "post-workout",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 1
+  },
+  "slug": "sweet-smoked-venezuelan-paprika-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-smoked-venezuelan-paprika-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:49:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "paprika",
+    "descriptor": "Sweet Smoked",
+    "dishForm": "Bake"
+  }
+}
