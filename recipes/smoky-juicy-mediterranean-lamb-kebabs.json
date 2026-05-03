@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Juicy Mediterranean Lamb Kebabs",
+  "description": "Tender lamb kebabs infused with the rich flavors of the Mediterranean, featuring a smoky twist and a hint of dry white wine, perfect for a light and refreshing dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400°F (200°C).",
+    "In a large bowl, whisk together white wine, olive oil, lemon juice, garlic, oregano, smoked paprika, salt, and pepper.",
+    "Add the lamb cubes to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated lamb cubes onto the soaked bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking. Grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145°F (63°C) for medium-rare.",
+    "Let the kebabs rest for 5 minutes before serving. Serve hot, garnished with fresh parsley or oregano, if desired.",
+    "Optional: serve with a side of roasted vegetables, quinoa, or a simple green salad.",
+    "To add an extra smoky flavor, grill the kebabs over indirect heat for an additional 5 minutes after cooking."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mediterranean",
+    "kebabs",
+    "grilled",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "smoky-juicy-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-juicy-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:12:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "dry white wine",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Smoky Juicy",
+    "dishForm": "Kebabs"
+  }
+}
