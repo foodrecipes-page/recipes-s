@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Flaky Croatian Squash Flatbread",
+  "description": "A traditional Croatian dish with a twist, featuring roasted squash, pickles, and a smoky flavor, all on a flaky flatbread. This recipe is low-fat friendly and perfect for a quick lunch or snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly, low-fat"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the diced squash with 1 tbsp olive oil, smoked paprika, garlic powder, salt, and black pepper on a baking sheet. Roast for 20-25 minutes or until tender.",
+    "Meanwhile, heat the remaining 1 tbsp olive oil in a pan over medium heat. Add the pickle slices and cook for 2-3 minutes or until lightly browned.",
+    "Warm the flatbread pieces by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the flatbread by spreading a layer of roasted squash, followed by a few pickle slices, some crumbly feta cheese, and a sprinkle of chopped parsley.",
+    "Serve immediately and enjoy!",
+    "Optional: Drizzle with a bit of olive oil and sprinkle with additional smoked paprika for extra flavor.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "squash",
+    "flatbread",
+    "smoky",
+    "low-fat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "smoky-flaky-croatian-squash-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-croatian-squash-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:28:20Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "squash",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "squash",
+    "descriptor": "smoky flaky",
+    "dishForm": "Flatbread"
+  }
+}
