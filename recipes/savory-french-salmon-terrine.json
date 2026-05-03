@@ -1,0 +1,103 @@
+{
+  "title": "Savory French Salmon Terrine",
+  "description": "Herbal, velvety French salmon terrine with pickled cucumber garnish, ideal for a sick day.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet, skin removed",
+      "amount": "400g"
+    },
+    {
+      "name": "Pickled cucumber",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Herb mix (dill, tarragon, parsley)",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "30g"
+    },
+    {
+      "name": "Milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "15g"
+    },
+    {
+      "name": "Egg yolk",
+      "amount": "1"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "50ml"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place salmon fillet in a saucepan and cover with water; bring to a gentle simmer and poach for 8 minutes until just cooked.",
+    "Remove salmon and let cool, then flake it into small pieces, discarding any skin or bones.",
+    "In a medium saucepan, melt butter over low heat, add flour, and whisk until smooth to create a roux; cook for 1 minute.",
+    "Gradually pour in milk while whisking continuously until the sauce thickens and becomes silky.",
+    "Stir in egg yolk, lemon zest, lemon juice, herbs, and season with salt and pepper until fully incorporated.",
+    "Fold the flaked salmon into the sauce, ensuring an even distribution of fish and herbs.",
+    "Transfer the mixture to a lined terrine mold, smoothing the top with a spatula.",
+    "Bake in a preheated oven at 160 C for 25 minutes, or until set and lightly golden.",
+    "Cool the terrine to room temperature, then cover and refrigerate for at least 4 hours to set completely.",
+    "Before serving, top the terrine with sliced pickled cucumber and a drizzle of lemony cream sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "pescatarian",
+    "sick-day",
+    "terrine",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 23,
+    "carbs": 5,
+    "fat": 29
+  },
+  "slug": "savory-french-salmon-terrine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-french-salmon-terrine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:37:27Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "pickles",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Salmon",
+    "descriptor": "Savory",
+    "dishForm": "Terrine"
+  }
+}
