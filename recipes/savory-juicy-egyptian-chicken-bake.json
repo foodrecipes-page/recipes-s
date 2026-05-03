@@ -1,0 +1,95 @@
+{
+  "title": "Savory Juicy Egyptian Chicken Bake",
+  "description": "A comforting and flavorful Egyptian-inspired dish perfect for a sick day, featuring tender chicken, caramelized shallots, and aromatic spices. This halal-friendly recipe is easy to make and serves 4-6 people.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, cumin, smoked paprika, salt, black pepper, and garlic powder.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "In a large baking dish, arrange the sliced shallots in an even layer.",
+    "Add the chicken on top of the shallots.",
+    "Pour the chicken broth over the chicken and shallots.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the chicken is cooked through and the shallots are caramelized.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian-cuisine",
+    "chicken-recipes",
+    "comfort-food",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "savory-juicy-egyptian-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-egyptian-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:39:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "shallots",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "savory juicy",
+    "dishForm": "Bake"
+  }
+}
