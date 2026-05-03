@@ -1,0 +1,104 @@
+{
+  "title": "Savory Crisp Greek Eggplant Salad",
+  "description": "A refreshing take on traditional Greek eggplant salad, featuring the nutty flavor of Chinese sesame sauce and a crunchy texture.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese eggplant",
+      "amount": "2 medium",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "10 pitted",
+      "notes": "chopped"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Chinese sesame sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the eggplant into 1/4-inch thick slices.",
+    "Place the eggplant slices on a paper towel-lined plate, sprinkle with salt, and let sit for 30 minutes to draw out excess moisture.",
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the eggplant slices on the prepared baking sheet and bake for 20-25 minutes, or until crispy and golden brown.",
+    "In a large bowl, combine the roasted eggplant, red onion, olives, artichoke hearts, and parsley.",
+    "In a small bowl, whisk together the Chinese sesame sauce and Greek yogurt.",
+    "Pour the dressing over the eggplant mixture and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greeksalad",
+    "eggplant",
+    "sesame",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "savory-crisp-greek-eggplant-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crisp-greek-eggplant-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:01:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "eggplant",
+    "descriptor": "savory crisp",
+    "dishForm": "Salad"
+  }
+}

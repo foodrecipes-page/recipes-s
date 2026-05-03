@@ -1,0 +1,83 @@
+{
+  "title": "Sweet Crunchy Australian Apricot Toast",
+  "description": "A delicious and easy-to-make Australian-inspired dish perfect for a lazy Sunday morning, featuring sweet and crunchy dried apricots on top of toasted bread.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "a few sprigs",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or toaster oven to 350°F (180°C).",
+    " Toast the bread until lightly browned.",
+    "Spread 1 tablespoon of almond butter on each slice.",
+    "Top each slice with a few dried apricots.",
+    "Drizzle 1/2 teaspoon of honey over the apricots.",
+    "Sprinkle a pinch of salt over the top.",
+    "Garnish with a few sprigs of fresh thyme, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "breakfast",
+    "easy",
+    "low-fat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "sweet-crunchy-australian-apricots-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crunchy-australian-apricots-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:02:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "dried apricots",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "apricots",
+    "descriptor": "sweet crunchy",
+    "dishForm": "Toast"
+  }
+}
