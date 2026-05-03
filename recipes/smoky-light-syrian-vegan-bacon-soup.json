@@ -1,0 +1,110 @@
+{
+  "title": "Smoky Light Syrian Vegan Bacon Soup",
+  "description": "A fragrant, smoky lentil soup infused with vegan bacon, coconut milk and aromatic spices, served light and adventurous.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked tempeh bacon",
+      "amount": "200g",
+      "notes": "vegan bacon substitute"
+    },
+    {
+      "name": "Organic lentils",
+      "amount": "150g"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "Coconut milk (light)",
+      "amount": "200ml"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "600ml"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous‑vide machine to 63°C (145°F). Place the vegan bacon strips in a vacuum bag, sprinkle with ½ tsp smoked paprika, seal, and cook for 2 hours. Remove and set aside.",
+    "Heat the olive oil in a large pot over medium heat. Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the tomato puree, lentils, 1 tsp smoked paprika, 1 tsp ground cumin, and a pinch of salt and pepper. Cook for 1 minute to toast the spices.",
+    "Pour in the vegetable broth and bring the mixture to a gentle boil. Reduce heat to low and simmer uncovered for 20 minutes, or until the lentils are just tender.",
+    "Reduce heat again, stir in the coconut milk, and season to taste. Simmer for another 5 minutes.",
+    "Slice the cooked vegan bacon into strips and add them to the pot. Let the soup simmer for an additional 5 minutes to allow flavors to meld.",
+    "Taste and adjust seasoning if needed. Remove from heat.",
+    "Ladle the soup into bowls, garnish with chopped fresh parsley, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 145,
+  "totalTimeMin": 155,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "syrian",
+    "soup",
+    "smoky",
+    "light",
+    "sous-vide",
+    "lentils"
+  ],
+  "nutrition": {
+    "calories": 146,
+    "protein": 11,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "smoky-light-syrian-vegan-bacon-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-light-syrian-vegan-bacon-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:15:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "sous-vide",
+    "primaryIngredient": "bacon",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "vegan bacon",
+    "descriptor": "Smoky Light",
+    "dishForm": "Soup"
+  }
+}
