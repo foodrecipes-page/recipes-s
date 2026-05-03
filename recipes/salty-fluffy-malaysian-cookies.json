@@ -1,0 +1,98 @@
+{
+  "title": "Salty Fluffy Malaysian Cookies",
+  "description": "These salty, fluffy Malaysian cookies are a crowd-pleaser, featuring a unique fermentation process that enhances their flavor and texture. Perfect for snacking or as a dessert, they are sure to delight.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together flour, baking powder, and salt.",
+    "In another bowl, cream together sugar and butter until light and fluffy.",
+    "Beat in eggs one at a time, followed by yogurt and yeast.",
+    "Gradually mix in the dry ingredients until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let ferment in a warm place for 1 hour, or until doubled in size.",
+    "Punch down the dough and roll out to 1/4 inch thickness.",
+    "Cut into desired shapes and place on the prepared baking sheet.",
+    "Brush with egg wash and sprinkle with sesame seeds if desired.",
+    "Bake for 15-20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-cookies",
+    "salty-snacks",
+    "fermented-dough",
+    "easy-baking"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "salty-fluffy-malaysian-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-fluffy-malaysian-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:51:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment",
+    "primaryIngredient": "cookies",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cookies",
+    "descriptor": "salty fluffy",
+    "dishForm": "Cookies"
+  }
+}
