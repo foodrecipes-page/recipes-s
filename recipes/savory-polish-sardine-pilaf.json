@@ -1,0 +1,110 @@
+{
+  "title": "Savory Polish Sardine Pilaf",
+  "description": "A savory and fluffy Polish dish featuring sardines, perfect for a lazy Sunday. This low-fat-friendly recipe is a great way to enjoy a hearty meal without feeling guilty.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sardines in water",
+      "amount": "1 (4.375 oz) can, drained and chopped",
+      "notes": "look for low-sodium option"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably Polish or European-style"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "preferably sweet onion"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, peeled and grated",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk, chopped",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp",
+      "notes": "fresh parsley can be used as substitute"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tsp",
+      "notes": "fresh dill can be used as substitute"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt or kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "preferably freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add chopped onion, carrot, and celery. Cook until the vegetables are tender, about 8 minutes.",
+    "Add the chopped sardines to the skillet and cook for an additional 2 minutes, breaking them up with a spoon as they cook.",
+    "Add the rice to the skillet and cook for 1-2 minutes, stirring constantly, until the rice is coated in the oil and slightly toasted.",
+    "Add the chicken broth, dried parsley, and dried dill weed to the skillet. Stir to combine and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the skillet with a tight-fitting lid, and simmer for 18-20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Remove the skillet from the heat and let it rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and season with salt and black pepper to taste.",
+    "Serve the pilaf hot, garnished with chopped fresh parsley or dill if desired.",
+    "Refrigerate or freeze any leftovers for later use.",
+    "Reheat the pilaf gently before serving, adding a splash of chicken broth if it seems dry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish-cuisine",
+    "sardine-recipe",
+    "lazy-sunday",
+    "low-fat",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "savory-polish-sardine-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-polish-sardine-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:05:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "sardines",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sardines",
+    "descriptor": "fluffy savory",
+    "dishForm": "Pilaf"
+  }
+}
