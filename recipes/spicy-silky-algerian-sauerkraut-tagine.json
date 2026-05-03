@@ -1,0 +1,107 @@
+{
+  "title": "Spicy Silky Algerian Sauerkraut Tagine",
+  "description": "A spicy and silky Algerian dish featuring white sauerkraut, bhuna, and Jain-friendly ingredients, perfect for a quick and flavorful meal. This tagine is a unique blend of North African and Indian flavors.",
+  "cuisine": "Algerian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Sauerkraut",
+      "amount": "1 cup, drained and rinsed",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Bhuna Curry Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch, grated"
+    },
+    {
+      "name": "Red Chili Peppers",
+      "amount": "2, diced"
+    },
+    {
+      "name": "Canned Crushed Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the diced red chili peppers and cook for an additional 2 minutes.",
+    "Stir in the bhuna curry powder and cook for 1 minute, until fragrant.",
+    "Add the canned crushed tomatoes, vegetable broth, and salt. Stir to combine.",
+    "Add the white sauerkraut and stir to combine. Bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes, or until the sauerkraut is tender and the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped fresh cilantro and serve hot over rice or couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "jain-friendly",
+    "vegetarian",
+    "spicy",
+    "silky",
+    "tagine",
+    "sauerkraut"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "spicy-silky-algerian-sauerkraut-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-silky-algerian-sauerkraut-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:16:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "spicy silky",
+    "dishForm": "Tagine"
+  }
+}
