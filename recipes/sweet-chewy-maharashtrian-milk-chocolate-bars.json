@@ -1,0 +1,101 @@
+{
+  "title": "Sweet Chewy Maharashtrian Milk Chocolate Bars",
+  "description": "A sweet and chewy Indian-inspired dessert featuring milk chocolate, perfect for a dairy-free friendly treat. This meal-prep friendly dish is broiled to perfection.",
+  "cuisine": "Maharashtrian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Milk Chocolate Chips (dairy-free)",
+      "amount": "1 cup",
+      "notes": "such as coconut milk or almond milk based"
+    },
+    {
+      "name": "Condensed Milk (dairy-free)",
+      "amount": "1/2 cup",
+      "notes": "such as coconut milk or almond milk based"
+    },
+    {
+      "name": "Ghee or Vegan Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Gram Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped Pistachios",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 375°F (190°C).",
+    "In a large mixing bowl, combine the gram flour, sugar, cardamom powder, and salt.",
+    "In a separate bowl, melt the ghee or vegan butter and condensed milk together.",
+    "Add the melted mixture to the dry ingredients and stir until well combined.",
+    "Fold in the milk chocolate chips and optional chopped pistachios and coconut flakes.",
+    "Press the mixture into a lined or greased 8x8 inch baking dish.",
+    "Broil for 5-7 minutes or until the top is lightly golden brown.",
+    "Remove from the oven and let cool completely.",
+    "Cut into bars and serve.",
+    "Store in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "indian-dessert",
+    "dairy-free",
+    "vegetarian",
+    "milk-chocolate",
+    "broiled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "sweet-chewy-maharashtrian-milk-chocolate-bars",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-chewy-maharashtrian-milk-chocolate-bars",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:57:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "milk chocolate",
+    "diet": "dairy-free",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Maharashtrian",
+    "mainIngredient": "milk chocolate",
+    "descriptor": "sweet chewy",
+    "dishForm": "Bars"
+  }
+}
