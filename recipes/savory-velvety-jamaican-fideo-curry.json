@@ -1,0 +1,105 @@
+{
+  "title": "Savory Velvety Jamaican Fideo Curry",
+  "description": "A romantic and savory Jamaican dish featuring fideo, bhuna, and a dairy-free friendly twist. This velvety curry is perfect for a cozy evening in.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fideo pasta",
+      "amount": "8 oz",
+      "notes": "or other thin, short pasta"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tbsp",
+      "notes": "or adjust to taste"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and garlic, cook until onion is translucent.",
+    "Add curry powder, cook for 1 minute, stirring constantly.",
+    "Add bhuna sauce, stir to combine.",
+    "Add fideo pasta, stir to coat with sauce.",
+    "Pour in coconut milk, bring to a simmer.",
+    "Reduce heat to low, let cook for 15-20 minutes or until pasta is al dente.",
+    "Season with salt, black pepper, and scotch bonnet pepper (if using).",
+    "Serve hot, garnished with chopped fresh cilantro or scallions (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-curry",
+    "fideo-pasta",
+    "bhuna-sauce",
+    "coconut-milk",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "savory-velvety-jamaican-fideo-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-velvety-jamaican-fideo-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:12:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "fideo",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fideo",
+    "descriptor": "savory velvety",
+    "dishForm": "Curry"
+  }
+}
