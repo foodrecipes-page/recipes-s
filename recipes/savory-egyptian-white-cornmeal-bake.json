@@ -1,0 +1,87 @@
+{
+  "title": "Savory Egyptian White Cornmeal Bake",
+  "description": "A light, flaky baked dish made with white cornmeal, perfect for a low-calorie lunch or dinner that showcases traditional Egyptian flavors.",
+  "cuisine": "egyptian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "1 cup",
+      "notes": "finely ground, stone-ground for best texture"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature for even baking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      ": ": ", "
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/8 tsp",
+      "notes": "smoky flavor for depth"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix cornmeal, eggs, olive oil, dill, salt, paprika, and garlic powder until just combined.",
+    "Pour mixture into a greased 8x8 inch baking dish.",
+    "Bake for 20-25 minutes until set and lightly golden on top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 22,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "savory",
+    "bake",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 8,
+    "carbs": 22,
+    "fat": 8
+  },
+  "slug": "savory-egyptian-white-cornmeal-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-egyptian-white-cornmeal-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:27:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "white cornmeal",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "white cornmeal",
+    "descriptor": "Savory",
+    "dishForm": "Bake"
+  }
+}
