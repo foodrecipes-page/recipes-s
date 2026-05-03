@@ -1,0 +1,105 @@
+{
+  "title": "Smoky Bitter Irish Kale Salad",
+  "description": "A bright, bitter kale salad with smoky paprika, bay leaf, and crunchy walnuts, topped with a citrusy lemon dressing – perfect for a quick, sugar‑free, comforting lunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "200 g",
+      "notes": "stems removed, chopped"
+    },
+    {
+      "name": "Baby spinach",
+      "amount": "50 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "30 g",
+      "notes": "toasted"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "20 g",
+      "notes": "toasted"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked sea salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1 small"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 (juice & zest)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Wash kale and spinach, pat dry, and chop the stems of the kale.",
+    "In a large bowl, combine the kale, spinach, toasted walnuts, and toasted sunflower seeds.",
+    "Crush the bay leaf into a fine crumble and add it to the bowl.",
+    "Sprinkle the smoked paprika, smoked sea salt, and a pinch of pepper over the salad and toss to coat evenly.",
+    "Whisk together the lemon juice, lemon zest, olive oil, a pinch of salt, and pepper until the dressing emulsifies.",
+    "Pour the dressing over the salad and toss until every leaf is coated.",
+    "Let the salad rest for 5 minutes to allow flavors to meld.",
+    "Serve immediately, optionally garnishing with extra toasted nuts or seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vegan",
+    "gluten-free",
+    "sugar-free",
+    "smoky",
+    "bitter",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 8,
+    "carbs": 11,
+    "fat": 29
+  },
+  "slug": "smoky-bitter-irish-kale-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-bitter-irish-kale-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:54:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "smoke",
+    "primaryIngredient": "bay leaf",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "kale",
+    "descriptor": "Smoky Bitter",
+    "dishForm": "Salad"
+  }
+}
