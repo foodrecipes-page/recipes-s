@@ -1,0 +1,107 @@
+{
+  "title": "Smoky Silky Kenyan Herring Stew",
+  "description": "A smoky, silky stew packed with protein from herring and kid-friendly flavors, perfect for a quick Kenyan dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "high-protein",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked herring fillets",
+      "amount": "500 g"
+    },
+    {
+      "name": "potatoes, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and sauté the chopped onion and garlic until translucent.",
+    "Add the diced potatoes and carrot, cooking for 4 minutes while stirring.",
+    "Stir in the tomato paste, smoked paprika, and ground cumin, cooking for another minute to release flavors.",
+    "Pour in the vegetable stock and bring the mixture to a gentle boil, then reduce heat and simmer for 15 minutes until the vegetables are tender.",
+    "Add the flaked smoked herring fillets and bay leaf, spooning in the coconut milk, and simmer for an additional 10 minutes.",
+    "Season with salt and pepper to taste, removing the bay leaf.",
+    "Ladle the stew into bowls, ensuring each child receives a generous portion of silky herring.",
+    "Serve hot with a side of plain rice or a slice of crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "high-protein",
+    "kenyan",
+    "kid-friendly",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "smoky-silky-kenyan-herring-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-silky-kenyan-herring-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:10:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "herring",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "herring",
+    "descriptor": "Smoky Silky",
+    "dishForm": "Stew"
+  }
+}
