@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Roasted Mediterannean-friendly Ground Cardomom Pilaf",
+  "description": "This sweet and juicy Russian-inspired dish features ground cardamom in a comforting mediterranean-friendly twist.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup rice (arborio or carnaroli)",
+      "amount": "cup",
+      "notes": "Soak in water for at least 30 minutes"
+    },
+    {
+      "name": "1/2 cup chopped walnuts",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh herbs (basil, parsley, dill)",
+      "amount": "cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "clove",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cardamom",
+      "amount": "tsp",
+      "notes": "For a mediterranean twist, use a combination of cinnamon and cumin instead"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and drain. Soak in water for at least 30 minutes.",
+    "In a skillet, toast the walnuts over medium heat until golden brown, about 5 minutes.",
+    "Drain the soaked rice and transfer to a large mixing bowl with chopped herbs, minced garlic, olive oil, cardamom, and salt. Mix well.",
+    "Transfer the mixture into an oven-safe dish or pot. Cover with foil and bake at 375°F for 20-25 minutes until cooked through.",
+    "Serve hot as a side dish or alongside grilled fish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky-roasted",
+    "mediterannean-friendly",
+    "ground-cardomom-pilaf"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 9,
+    "carbs": 37,
+    "fat": 12
+  },
+  "slug": "smoky-roasted-mediterannean-friendly-ground-cardomom-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-mediterannean-friendly-ground-cardomom-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:46:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "ground cardomom",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Ground Cardomom",
+    "descriptor": "Mediterannean-friendly",
+    "dishForm": "Pilaf"
+  }
+}
