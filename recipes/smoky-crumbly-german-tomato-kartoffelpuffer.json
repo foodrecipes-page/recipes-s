@@ -1,0 +1,106 @@
+{
+  "title": "Smoky Crumbly German Tomato Kartoffelpuffer",
+  "description": "A classic German potato pancake dish, Smoky Crumbly German Tomato Kartoffelpuffer features the smoky flavor of paprika, the crunch of crumbled bacon, and a hint of tangy tomato.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large (about 2 pounds)",
+      "notes": "grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large (about 1 cup grated)",
+      "notes": "grated"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices (about 1/4 cup crumbled)",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 1/2 teaspoons",
+      "notes": "-"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "-"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "-"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large (about 2 cups diced)",
+      "notes": "-"
+    },
+    {
+      "name": "Egg Replacer",
+      "amount": "1 cup (see notes)",
+      "notes": "-"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "-"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add crumbled bacon to the skillet and cook until crispy, about 4-5 minutes. Remove from heat and set aside.",
+    "In a large bowl, combine grated potatoes, onion, smoked paprika, salt, and pepper. Mix well.",
+    "Add diced tomato to the bowl and mix until well combined.",
+    "Add egg replacer to the bowl and mix until a thick batter forms.",
+    "Using a spoon, drop the potato mixture by tablespoonfuls into the skillet with the bacon grease.",
+    "Press the spoon into the skillet to make a small indentation in the center of each patty.",
+    "Cook the patties for 4-5 minutes on each side, or until they are golden brown and crispy.",
+    "Serve the Smoky Crumbly German Tomato Kartoffelpuffer hot, garnished with additional paprika and chopped fresh herbs if desired.",
+    "Note: If using egg replacer, mix according to package instructions before adding to the potato mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "potato",
+    "tomato",
+    "bacon",
+    "egg-free",
+    "breakfast",
+    "snack",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "smoky-crumbly-german-tomato-kartoffelpuffer",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-german-tomato-kartoffelpuffer",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:25:32Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "tomato",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "tomato",
+    "descriptor": "smoky crumbly",
+    "dishForm": "Kartoffelpuffer"
+  }
+}
