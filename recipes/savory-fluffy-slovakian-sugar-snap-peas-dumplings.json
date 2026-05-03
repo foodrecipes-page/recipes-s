@@ -1,0 +1,101 @@
+{
+  "title": "Savory Fluffy Slovakian Sugar Snap Peas Dumplings",
+  "description": "A traditional Slovakian dish with a twist, featuring sugar snap peas and a dairy-free friendly option, perfect for a midnight craving. These fluffy dumplings are cooked to perfection in a tandoor oven.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably Slovakian wheat flour"
+    },
+    {
+      "name": "sugar snap peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1/2 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "1 flax egg",
+      "notes": "mixed with 3 tablespoons water"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the flour, potato starch, and salt.",
+    "Add the melted vegan butter, non-dairy milk, egg replacement, black pepper, and dried dill weed to the bowl.",
+    "Mix the ingredients until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place a few sugar snap peas in the center of each disk.",
+    "Fold the dough over the peas to form a half-moon shape and press the edges together to seal.",
+    "Place the dumplings in the preheated tandoor oven and cook for 15-20 minutes, or until they are fluffy and lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian-cuisine",
+    "vegetarian",
+    "dairy-free",
+    "tandoor-oven",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "savory-fluffy-slovakian-sugar-snap-peas-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fluffy-slovakian-sugar-snap-peas-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:51:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sugar snap peas",
+    "descriptor": "savory fluffy",
+    "dishForm": "Dumplings"
+  }
+}

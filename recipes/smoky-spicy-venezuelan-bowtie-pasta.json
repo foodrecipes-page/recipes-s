@@ -1,0 +1,107 @@
+{
+  "title": "Smoky Spicy Venezuelan Bowtie Pasta",
+  "description": "This brunch-mood dish combines fluffy bowtie pasta with a blend of smoky and spicy flavors, perfect for a light meal that's both nourishing and flavorful.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bowtie Pasta",
+      "amount": "1 cup dry",
+      "notes": "Ensure it is cooked according to package instructions"
+    },
+    {
+      "name": "Tofu Crumbles",
+      "amount": "100g",
+      "notes": "Use firm tofu, drain and crumble into small pieces"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3-4",
+      "notes": "Mince finely for added flavor"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely to release more flavors"
+    },
+    {
+      "name": "Green Chilis (jalapenos or serranos)",
+      "amount": "2-3",
+      "notes": "Finely chopped and seeded for extra spiciness"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing vegetables and tofu"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "To add a smoky flavor"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 tsp",
+      "notes": "For depth of flavor"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "-",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Fresh Basil Leaves (optional)",
+      "amount": "2-3",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F.",
+    "Cook the bowtie pasta in salted boiling water until al dente, then drain and set aside.",
+    "In a large skillet or pan, heat olive oil over medium-high heat. Add chopped green chilis and sauté for about 1 minute until fragrant.",
+    "Add minced garlic and cook for another minute to soften slightly.",
+    "Fold in crumbled tofu, paprika, cumin, salt, and pepper. Stir well to combine all ingredients thoroughly.",
+    "Return the cooked bowtie pasta to the skillet. Toss gently to coat with the spice mixture evenly.",
+    "Transfer the pasta to a baking dish. Bake at 400°F for 15 minutes or until bubbly and golden brown on top.",
+    "Sprinkle fresh basil leaves over the top if using, before serving.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "smoky",
+    "spicy",
+    "bowtie",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 10,
+    "carbs": 47,
+    "fat": 9
+  },
+  "slug": "smoky-spicy-venezuelan-bowtie-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spicy-venezuelan-bowtie-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:51:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Bowtie Pasta",
+    "descriptor": "Spicy",
+    "dishForm": "Pasta"
+  }
+}
