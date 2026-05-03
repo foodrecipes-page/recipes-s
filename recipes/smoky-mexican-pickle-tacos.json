@@ -1,0 +1,86 @@
+{
+  "title": "Smoky Mexican Pickle Tacos",
+  "description": "A cozy, smoky Mexican dish with tangy pickles and baking powder for a light yet dense texture, perfect for diabetics.",
+  "cuisine": "mexican",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1/2 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "pickled jalapeños",
+      "amount": "1/4 cup",
+      ": ": "notes"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 tsp",
+      "notes": "for lift"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4",
+      "notes": "soft"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a small pan over medium heat.",
+    "Add black beans and pickled jalapeños; stir for 2 minutes.",
+    "Stir in baking powder and lime juice until combined.",
+    "Warm corn tortillas in a dry pan for 1 minute per side.",
+    "Fill tortillas with the bean mixture and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "smoky",
+    "pickle",
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 4
+  },
+  "slug": "smoky-mexican-pickle-tacos",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-mexican-pickle-tacos",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:36:01Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "baking powder",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pickle",
+    "descriptor": "smoky",
+    "dishForm": "Tacos"
+  }
+}
