@@ -1,0 +1,106 @@
+{
+  "title": "Spicy Korean Chicken Tacos",
+  "description": "A spicy and crunchy Korean dish featuring hard taco shells and high protein chicken, perfect for a quick fix meal.",
+  "cuisine": "Korean-Mexican",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10 shells"
+    },
+    {
+      "name": "slaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "cut into wedges"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together gochujang, soy sauce, brown sugar, garlic, and ginger to make the marinade.",
+    "Add the chicken to the marinade and toss to coat, letting it marinate for at least 10 minutes.",
+    "Heat a large skillet over medium-high heat and cook the chicken until browned and cooked through.",
+    "Warm the taco shells according to package instructions.",
+    "Assemble the tacos by placing cooked chicken into the shells, followed by a spoonful of slaw and a sprinkle of cilantro.",
+    "Serve immediately with lime wedges on the side.",
+    "Prepare the tadka by heating a small amount of oil in a pan over medium heat and adding a pinch of red pepper flakes.",
+    "Drizzle the tadka over the tacos for an extra spicy kick.",
+    "Garnish with additional cilantro and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "korean-mexican",
+    "quick-fix",
+    "spicy-food",
+    "taco-tuesday",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "spicy-korean-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-korean-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:13:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "tadka",
+    "primaryIngredient": "hard taco shells",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Spicy Crunchy",
+    "dishForm": "Tacos"
+  }
+}
