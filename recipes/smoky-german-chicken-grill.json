@@ -1,0 +1,89 @@
+{
+  "title": "Smoky German Chicken Grill",
+  "description": "A smoky, spicy German-inspired grilled chicken served with a creamy mustard‑cocoa sauce, perfect for a quick low‑carb weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "680 g",
+      "notes": "about 4 thighs"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tbsp",
+      "notes": "dark, low‑carb"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Season the chicken thighs with salt, pepper, smoked paprika, cumin, and chili powder.",
+    "Heat a grill or grill pan over medium‑high heat and lightly oil the grates with olive oil.",
+    "Grill the chicken for 5–6 minutes per side, or until an instant‑read thermometer reads 165 °F (74 °C).",
+    "While the chicken rests, whisk together heavy cream, yogurt, mustard, cocoa powder, and a pinch of salt to make the sauce.",
+    "Serve the grilled chicken sliced, topped with the creamy sauce, and garnish with parsley."
+  ],
+  "slug": "smoky-german-chicken-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-german-chicken-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:40:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken",
+    "descriptor": "Smoky",
+    "dishForm": "Grill"
+  }
+}
