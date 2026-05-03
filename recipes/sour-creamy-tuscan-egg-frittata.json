@@ -1,0 +1,103 @@
+{
+  "title": "Sour Creamy Tuscan Egg Frittata",
+  "description": "A hangover-curing Italian dish featuring free-range eggs, grilled to perfection with a tangy and creamy twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "Gluten-Free",
+    "Lactose-Free",
+    "Fodmap-Friendly",
+    "Dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 large free-range eggs",
+      "amount": "beaten",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "1/4 cup sour cream",
+      "amount": "at room temperature",
+      "notes": "full-fat"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "for a mild flavor"
+    },
+    {
+      "name": "1/2 cup fresh parsley",
+      "amount": "chopped"
+    },
+    {
+      "name": "1/4 cup grated Parmesan",
+      "amount": "freshly shredded"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "for brushing the skillet"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375°F (190°C).",
+    "In a large bowl, whisk together eggs, sour cream, minced garlic, salt, and pepper.",
+    "Stir in chopped parsley and grated Parmesan.",
+    "Heat the olive oil in a 10-inch cast-iron skillet over medium heat.",
+    "Pour in the egg mixture and let it cook for 2-3 minutes, until the edges start to set.",
+    "Transfer the skillet to the preheated grill and cook for 8-10 minutes, until the eggs are almost set.",
+    "Use a spatula to gently lift and fold the edges of the frittata towards the center.",
+    "Continue cooking for another 2-3 minutes, until the eggs are fully set.",
+    "Remove the skillet from the grill and let it cool for a few minutes.",
+    "Slice the frittata into wedges and garnish with chopped fresh basil leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "tuscan",
+    "breakfast",
+    "egg",
+    "frittata",
+    "sour-cream",
+    "parmesan",
+    "garlic",
+    "parsley",
+    "olive-oil",
+    "basil"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "sour-creamy-tuscan-egg-frittata",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-creamy-tuscan-egg-frittata",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:02:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "fodmap",
+    "region": "tuscan",
+    "cuisineAdjective": "Tuscan",
+    "mainIngredient": "egg",
+    "descriptor": "sour creamy",
+    "dishForm": "Frittata"
+  }
+}
