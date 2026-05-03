@@ -1,0 +1,104 @@
+{
+  "title": "Sour Silky Jamaican Nectarine Curry",
+  "description": "A light and refreshing Jamaican-inspired curry featuring nectarines, with a silky texture and a sour twist. This dish is perfect for warm weather and Mediterranean-friendly diets.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4-5",
+      "notes": "ripe, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded, finely chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add the scotch bonnet pepper and cook for 1 minute.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the diced nectarines, coconut milk, and lime juice. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes, or until the nectarines are tender.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve over rice or with roti.",
+    "Refrigerate or freeze any leftovers.",
+    "Reheat gently before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-curry",
+    "nectarine-recipes",
+    "summer-dishes",
+    "vegetarian-curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "sour-silky-jamaican-nectarine-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-silky-jamaican-nectarine-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:03:45Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "tadka",
+    "primaryIngredient": "nectarines",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "nectarines",
+    "descriptor": "sour silky",
+    "dishForm": "Curry"
+  }
+}
