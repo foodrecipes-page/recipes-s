@@ -1,0 +1,90 @@
+{
+  "title": "Sweet Flaky Brazilian Bread Toast",
+  "description": "A sweet and cozy Brazilian dish featuring white bread, steam, and a hint of cinnamon, perfect for a gluten-free friendly breakfast or snack. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "4 slices",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a shallow dish, whisk together the eggs, milk, vanilla extract, and a pinch of salt.",
+    "Heat the unsalted butter in a non-stick skillet over medium heat.",
+    "Dip each bread slice into the egg mixture, coating both sides evenly.",
+    "Place the coated bread slices in the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the bread slices to a baking dish and sprinkle with granulated sugar and cinnamon powder.",
+    "Bake in the preheated oven for 5-7 minutes, or until the sugar is caramelized and the bread is toasted.",
+    "Remove from the oven and let cool for a minute or two.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "gluten-free",
+    "breakfast-ideas",
+    "sweet-tooth"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "sweet-flaky-brazilian-bread-toast",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-flaky-brazilian-bread-toast",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:25:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "white bread",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "bread",
+    "descriptor": "sweet flaky",
+    "dishForm": "Toast"
+  }
+}
