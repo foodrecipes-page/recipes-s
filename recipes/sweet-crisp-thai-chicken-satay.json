@@ -1,0 +1,119 @@
+{
+  "title": "Sweet Crisp Thai Chicken Satay",
+  "description": "Grilled Thai chicken skewers served with a sweet and crunchy peanut sauce, fresh basil, and crispy fried shallots. A perfect light and refreshing dish for any occasion.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "boneless, skinless, cut into 1-inch pieces"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "100g",
+      "notes": "unsalted and unsweetened"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat canned"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "use gluten-free if necessary"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "use gluten-free if necessary"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "50ml",
+      "notes": "for frying"
+    },
+    {
+      "name": "Shallots",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "1 bunch",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "2",
+      "notes": "minced, adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak 12 bamboo skewers in water for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread chicken pieces onto skewers, leaving a small space between each piece.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "Meanwhile, prepare peanut sauce by blending peanuts, coconut milk, fish sauce, brown sugar, lime juice, and chili peppers in a blender until smooth.",
+    "Heat 25ml of vegetable oil in a pan over medium heat. Add sliced shallots and fry until crispy, about 5 minutes. Drain on paper towels.",
+    "To serve, place a few grilled skewers on a plate, spoon some peanut sauce on top, and garnish with fresh basil leaves and crispy fried shallots.",
+    "Serve immediately and enjoy!",
+    "Optional: serve with steamed rice or noodles for a more filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "grilled",
+    "peanut-sauce",
+    "basil",
+    "crispy-fried-shallots"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "sweet-crisp-thai-chicken-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crisp-thai-chicken-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:43:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "fresh basil",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "sweet crisp",
+    "dishForm": "Satay"
+  }
+}
