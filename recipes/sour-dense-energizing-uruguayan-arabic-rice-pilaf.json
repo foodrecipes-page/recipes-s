@@ -1,0 +1,84 @@
+{
+  "title": "Sour Dense Energizing Uruguayan Arabic Rice Pilaf",
+  "description": "This dish is a blend of souring agents and dense, energizing elements, perfect for an afternoon or evening meal.",
+  "cuisine": "Uruguayan Arabic",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups Arab rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Juice of half a lemon",
+      "amount": "60ml"
+    },
+    {
+      "name": "1/4 cup white vinegar",
+      "amount": "60ml"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "50g"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the Arab rice in cold water until it runs clear.",
+    "In a large pot, heat oil over medium heat. Add onion and garlic; cook for about 2 minutes or until softened.",
+    "Add Arab rice to the pot with half a cup of warm water. Stir well and add lemon juice and vinegar. Bring to a boil then reduce heat to low and cover the pot.",
+    "Cook the mixture, stirring occasionally, until water is absorbed (about 10-15 minutes).",
+    "Adjust seasoning with salt and black pepper as needed.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "arabic",
+    "sour",
+    "dense"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "sour-dense-energizing-uruguayan-arabic-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-dense-energizing-uruguayan-arabic-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:03:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "arabic rice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "arabic rice",
+    "descriptor": "sour dense energizing",
+    "dishForm": "Pilaf"
+  }
+}
