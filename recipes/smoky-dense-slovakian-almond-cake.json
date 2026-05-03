@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Dense Slovakian Almond Cake",
+  "description": "A sweet, protein‑rich almond cake with a subtle smoky flavor, baked in a tandoor oven for the perfect post‑workout treat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "100 g",
+      "notes": "1/2 cup, room temperature"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "120 g",
+      "notes": "1/2 cup, room temperature"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked sea salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor oven to 200°C (392°F). Grease a 20 cm (8‑inch) cake tin with coconut oil and line the bottom with parchment.",
+    "Combine almond flour, baking soda, cardamom, and a pinch of smoked sea salt in a mixing bowl.",
+    "Whisk eggs, honey, vanilla extract, and apple cider vinegar in a separate bowl until smooth.",
+    "Add almond butter to the wet mixture and whisk until fully incorporated.",
+    "Gradually fold the dry ingredients into the wet mixture, stirring until a thick batter forms. Do not overmix.",
+    "Pour batter into the prepared tin and tap gently to release air bubbles.",
+    "Bake in the tandoor for 30‑35 minutes or until golden and a toothpick inserted in the center comes out clean.",
+    "Remove the cake, let cool in the tin for 10 min, then transfer to a wire rack to cool completely before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "paleo-friendly",
+    "tandoor",
+    "almond",
+    "dense",
+    "sweet",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 566,
+    "protein": 18,
+    "carbs": 33,
+    "fat": 38
+  },
+  "slug": "smoky-dense-slovakian-almond-cake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dense-slovakian-almond-cake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:24:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "vanilla extract",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "almonds",
+    "descriptor": "Smoky Dense",
+    "dishForm": "Cake"
+  }
+}

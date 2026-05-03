@@ -1,0 +1,103 @@
+{
+  "title": "Spicy Crunchy Norwegian Potato Hash",
+  "description": "A midnight craving Norwegian dish, vegan-friendly with the perfect balance of spicy and crunchy. Serve with a side of vegan sour cream or yogurt for added creaminess.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Diced potatoes",
+      "amount": "3 large potatoes, peeled and diced",
+      "notes": "Choose high starch potatoes for extra crunch"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large bell pepper, diced"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 large onion, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Diced jalapeño",
+      "amount": "1 jalapeño pepper, seeded and finely chopped"
+    },
+    {
+      "name": "Pitted green olives",
+      "amount": "1/4 cup, pitted"
+    },
+    {
+      "name": "Marjoram",
+      "amount": "2 teaspoons, dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the diced potatoes, red bell pepper, and yellow onion to the skillet. Cook for 10 minutes, stirring occasionally, until the potatoes start to brown.",
+    "Add the minced garlic and chopped jalapeño to the skillet. Cook for 1 minute, stirring constantly.",
+    "Stir in the pitted green olives, dried marjoram, salt, black pepper, and paprika.",
+    "Continue cooking for an additional 10-12 minutes, stirring occasionally, until the potatoes are crispy and golden brown.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Spicy Crunchy Norwegian Potato Hash hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "snack",
+    "norwegian",
+    "spicy",
+    "crunchy",
+    "hash",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "spicy-crunchy-norwegian-potatoes-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crunchy-norwegian-potatoes-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:25:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "olives",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "spicy crunchy",
+    "dishForm": "Hash"
+  }
+}
