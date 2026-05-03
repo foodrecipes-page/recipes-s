@@ -1,0 +1,104 @@
+{
+  "title": "Silky Herbal Canadian Thai Chicken Curry",
+  "description": "A cozy and diabetic-friendly Canadian dish featuring Thai red curry paste and bhuna, with a silky texture and herbal flavors. This recipe combines the warmth of Canadian cuisine with the bold spices of Thai cooking.",
+  "cuisine": "Canadian-Thai",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the Thai red curry paste and bhuna spice blend, and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken breast pieces and cook until browned on all sides, about 5-7 minutes.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook, covered, for 15-20 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Stir in the chopped cilantro, salt, and black pepper.",
+    "Serve the curry hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "thai",
+    "curry",
+    "chicken",
+    "coconut-milk",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "silky-herbal-canadian-thai-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-herbal-canadian-thai-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:56:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "silky herbal",
+    "dishForm": "Curry"
+  }
+}
