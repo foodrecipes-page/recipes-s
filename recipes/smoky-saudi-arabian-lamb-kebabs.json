@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Saudi Arabian Lamb Kebabs",
+  "description": "A citrusy and chewy Saudi Arabian dish featuring lamb kebabs marinated in a mixture of rice vinegar, olive oil, and spices, then grilled to perfection. This keto-friendly recipe is perfect for a monsoon evening.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice vinegar, olive oil, lemon juice, garlic, ginger, smoked paprika, salt, and black pepper.",
+    "Add the lamb cubes to the marinade and mix well to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with olive oil to prevent sticking.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145°F.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the lamb kebabs hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, Saudi Arabian lamb kebabs are served with a side of rice or flatbread, but for a keto-friendly option, serve with a side of roasted vegetables or a salad.",
+    "To add a smoky flavor, you can also add a few wood chips to the grill while cooking the kebabs.",
+    "For an extra burst of citrus flavor, serve the kebabs with a squeeze of fresh lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb-kebabs",
+    "keto-friendly",
+    "low-carb",
+    "grilled-meats",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "smoky-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:48:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "smoke",
+    "primaryIngredient": "rice vinegar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "smoky",
+    "dishForm": "Kebabs"
+  }
+}
