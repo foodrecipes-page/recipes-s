@@ -1,0 +1,104 @@
+{
+  "title": "Sour Juicy Slovakian Chicken Stew",
+  "description": "A kid-friendly, low-calorie Slovakian dish featuring coconut milk and sous-vide cooking, with a perfect balance of sour and juicy flavors. This stew is a great option for a healthy and delicious dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130°F (54°C).",
+    "In a large bowl, whisk together chicken broth, coconut milk, sour cream, lemon juice, paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Seal the chicken and marinade in a sous-vide bag and cook for 2 hours.",
+    "Remove the chicken from the bag and set aside.",
+    "Strain the cooking liquid into a saucepan and bring to a simmer over medium heat.",
+    "Reduce the cooking liquid by half, stirring occasionally, until it reaches a thick and creamy consistency.",
+    "Add the cooked chicken back into the saucepan and stir to coat with the reduced cooking liquid.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "chicken",
+    "stew",
+    "coconut-milk",
+    "sous-vide",
+    "low-calorie",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "sour-juicy-slovakian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-juicy-slovakian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:11:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "coconut milk",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "sour juicy",
+    "dishForm": "Stew"
+  }
+}
