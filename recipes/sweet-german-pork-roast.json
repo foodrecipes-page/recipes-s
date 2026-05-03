@@ -1,0 +1,103 @@
+{
+  "title": "Sweet German Pork Roast",
+  "description": "A traditional German dish featuring a sweet and velvety pork roast, perfect for special occasions. This recipe is halal-friendly and uses only the finest ingredients.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 lbs",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "In a large bowl, whisk together honey, apple cider vinegar, salt, black pepper, and garlic powder.",
+    "Add the chopped onion, carrots, and potatoes to the bowl and toss to coat with the honey mixture.",
+    "Place the pork roast in a large Dutch oven or oven-safe pot.",
+    "Add the honey-coated vegetables to the pot around the pork roast.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Roast for 2 1/2 hours, or until the pork reaches an internal temperature of 145°F (63°C).",
+    "Remove the pot from the oven and brush the pork roast with the brown sugar.",
+    "Return the pot to the oven and roast for an additional 30 minutes, or until the sugar is caramelized.",
+    "Remove the pot from the oven and let the pork rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "roast",
+    "german",
+    "sweet",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 34,
+    "fat": 32
+  },
+  "slug": "sweet-german-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-german-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:18:32Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "roast",
+    "primaryIngredient": "pork",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "sweet velvety",
+    "dishForm": "Roast"
+  }
+}
