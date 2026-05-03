@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Crisp Russian Salmon Pilaf",
+  "description": "A smoky, crisp, and adventurous Russian-inspired dish featuring salmon, temper, and low-sodium-friendly ingredients. Perfect for a flavorful dinner or lunch.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "4"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Crisp-fried onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 bulb"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt-free seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the crispy-fried onion and cook until slightly caramelized (3-4 minutes).",
+    "Add the diced fennel and cook until it starts to soften (4-5 minutes).",
+    "Add the salmon fillet and cook for 2-3 minutes per side, or until cooked through.",
+    "Remove the salmon from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and stir in the smoked paprika.",
+    "Add the cooked rice to the skillet and stir to coat with the paprika mixture.",
+    "Add the lemon juice and salt-free seasoning to the skillet and stir to combine.",
+    "Return the cooked salmon to the skillet and stir to combine with the rice mixture.",
+    "Transfer the pilaf to a serving platter and garnish with fresh dill.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "smoky-crisp-russian-salmon-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crisp-russian-salmon-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:48:45Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "salmon",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "salmon",
+    "descriptor": "Smoky Crisp",
+    "dishForm": "Pilaf"
+  }
+}
