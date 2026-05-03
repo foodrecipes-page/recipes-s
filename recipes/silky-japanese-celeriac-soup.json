@@ -1,0 +1,119 @@
+{
+  "title": "Silky Japanese Celeriac Soup",
+  "description": "A rich, silky soup that brings the comforting flavors of Japanese cuisine to a weeknight dinner, featuring tender celeriac and creamy coconut milk.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "400g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "80g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1 liter",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "tamari (gluten-free soy sauce)",
+      "amount": "1 tbsp",
+      "notes": "ensure tamari is gluten-free"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "100g",
+      "notes": "cubed"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "5g",
+      "notes": "optional, adds umami"
+    },
+    {
+      "name": "spring onions",
+      "amount": "2 tbsp",
+      "notes": "sliced for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger; sauté until fragrant, about 3 minutes.",
+    "Add diced celeriac and carrot; stir for 2 minutes to coat with oil.",
+    "Pour in vegetable stock, bring to a gentle boil, then reduce to a simmer; cover and cook for 20 minutes, or until vegetables are tender.",
+    "Using an immersion blender, blend the soup directly in the pot until silky smooth.",
+    "Stir in coconut milk, tamari, and kombu; simmer for an additional 5 minutes to meld flavors.",
+    "Add tofu cubes and heat through for 2 minutes; remove kombu after it has infused.",
+    "Taste and adjust seasoning if needed; serve hot, garnished with sliced spring onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegetarian",
+    "soup",
+    "japanese",
+    "weeknight",
+    "comfort-food",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "silky-japanese-celeriac-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-japanese-celeriac-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:05:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "celeriac",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "celeriac",
+    "descriptor": "Silky",
+    "dishForm": "Soup"
+  }
+}
