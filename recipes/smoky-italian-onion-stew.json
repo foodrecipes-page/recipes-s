@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Italian Onion Stew",
+  "description": "A chewy, smoky stew with tender onions, slow-simmered to perfection. Perfect for FODMAP-friendly diets.",
+  "cuisine": "italian (sicilian)",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "white or yellow"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for simmering"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium pot over medium heat.",
+    "Add onions and sauté until soft and translucent (about 5 minutes).",
+    "Add garlic and smoked paprika; stir for 1 minute until fragrant.",
+    "Add water and bay leaf (if using); bring to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes until onions are tender and stew is thickened.",
+    "Remove bay leaf and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "italian",
+    "stew",
+    "onion",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "smoky-italian-onion-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-italian-onion-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T08:23:14Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "onions",
+    "diet": "fodmap",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "onions",
+    "descriptor": "smoky",
+    "dishForm": "stew"
+  }
+}
