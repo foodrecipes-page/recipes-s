@@ -1,0 +1,79 @@
+{
+  "title": "Salty Crispy Egyptian Garlic Toast",
+  "description": "A nostalgic Egyptian snack of crunchy toast, infused with a salty garlic spread and a hint of olive oil for a gooey center.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "3 slices",
+      "notes": "use Baladi or local Egyptian bread for authenticity"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": "peeled and crushed"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": "optional, low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet or non-stick pan over medium heat (about 175–190°C).",
+    "Peel and crush the garlic cloves into a fine paste; add the pinch of black pepper if using.",
+    "Stir in the olive oil and sea salt to the garlic paste until well combined.",
+    "Spread the garlic-olive oil mixture evenly over each slice of bread.",
+    "Place the bread slices in the heated skillet; cook for 3–4 minutes on each side until the crust is golden‑brown and the toast feels firm.",
+    "Remove from heat, slice into bite‑sized pieces if desired, and serve immediately while warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "toasted",
+    "garlic",
+    "quick",
+    "eastern"
+  ],
+  "nutrition": {
+    "calories": 110,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "salty-crispy-egyptian-garlic-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crispy-egyptian-garlic-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:07:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "garlic bulb",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "garlic",
+    "descriptor": "Salty Crispy",
+    "dishForm": "Toast"
+  }
+}

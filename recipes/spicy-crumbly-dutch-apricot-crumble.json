@@ -1,0 +1,105 @@
+{
+  "title": "Spicy Crumbly Dutch Apricot Crumble",
+  "description": "A romantic Dutch dessert featuring apricots, a hint of spice, and a crumbly texture, perfect for a special occasion. This low-carb-friendly recipe incorporates fermented ingredients for added depth of flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh apricots",
+      "amount": "1 1/2 pounds",
+      "notes": "sliced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "fermented ginger",
+      "amount": "2 tablespoons",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the sliced apricots, granulated sweetener, and fermented ginger.",
+    "In a separate bowl, combine the almond flour, cinnamon, nutmeg, and cayenne pepper.",
+    "Add the melted butter, beaten egg, and vanilla extract to the dry ingredients and mix until crumbly.",
+    "Transfer the apricot mixture to a 9x9-inch baking dish.",
+    "Top the apricots with the crumbly mixture, spreading it evenly.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the fruit is tender.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm, garnished with fresh apricot slices if desired.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "apricot",
+    "crumble",
+    "spicy",
+    "low-carb",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "spicy-crumbly-dutch-apricot-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crumbly-dutch-apricot-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:07:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "apricot",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "apricot",
+    "descriptor": "spicy crumbly",
+    "dishForm": "Crumble"
+  }
+}
