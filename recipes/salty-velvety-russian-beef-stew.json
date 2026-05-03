@@ -1,0 +1,101 @@
+{
+  "title": "Salty Velvety Russian Beef Stew",
+  "description": "A hearty, paleo-friendly Russian stew featuring tender beef, rich passata, and a salty, velvety broth. Perfect for a solo dinner on a chilly evening.",
+  "cuisine": "Russian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed beef stew meat",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "passata",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the passata, beef broth, browned beef, sea salt, and black pepper to the pot. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Use a wooden spoon to deglaze the bottom of the pot, scraping up any browned bits.",
+    "Stir in the chopped fresh dill.",
+    "Serve hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "russian",
+    "paleo",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 50
+  },
+  "slug": "salty-velvety-russian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-velvety-russian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:25:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "passata",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "salty velvety",
+    "dishForm": "Stew"
+  }
+}
