@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Crisp Spanish Oranges Empanadas",
+  "description": "A kid-friendly Spanish-inspired dish featuring smoky-savory empanadas filled with crisp oranges and sous-vide cooked for tender texture, low-sodium friendly.",
+  "cuisine": "spanish",
+  "diet": [
+    "low-sodium",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sous-vide orange slices",
+      "amount": "1 cup (120g)",
+      "notes": "thin slices from 2 medium oranges, lightly salted for smokiness"
+    },
+    {
+      "name": "smoke-infused oil",
+      "amount": "1 tbsp",
+      "notes": "made from 1 tsp smoked paprika + 1 tsp olive oil, no added salt"
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup (100g)",
+      "notes": "all-purpose flour, gluten-free option available"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup (60ml)",
+      "notes": "for dough hydration"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 tsp",
+      "notes": "low-sodium option: use potassium chloride or skip entirely"
+    }
+  ],
+  "instructions": [
+    "Slice 2 medium oranges into thin rounds; salt lightly to enhance smokiness.",
+    "Prepare smoke-infused oil: blend 1 tsp smoked paprika with 1 tbsp olive oil, no salt.",
+    "Mix flour and water to form dough; knead for 2 minutes until smooth.",
+    "Add salt and smoke-infused oil to dough; divide into 12 equal portions for empanadas.",
+    "Shape each portion into small patties; place orange slices inside.",
+    "Sous-vide at 140°F (60°C) for 10 minutes to ensure crispness without overcooking.",
+    "Drain excess liquid and serve warm with a side of lime wedges for brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "kid-friendly",
+    "smoky",
+    "crisp",
+    "oranges",
+    "sous-vide",
+    "low-sodium",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 8
+  },
+  "slug": "smoky-crisp-spanish-oranges-empanadas",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crisp-spanish-oranges-empanadas",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:43:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "oranges",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "oranges",
+    "descriptor": "Smoky Crisp",
+    "dishForm": "Empanadas"
+  }
+}
