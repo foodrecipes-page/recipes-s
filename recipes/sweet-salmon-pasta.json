@@ -1,0 +1,89 @@
+{
+  "title": "Sweet Salmon Pasta",
+  "description": "A sweet and indulgent pasta dish featuring salmon and fermented flavors, dairy-free friendly for a healthy twist on an American classic.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat penne",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salmon fillets",
+      "amount": "6 ounces (about 4 pieces)"
+    },
+    {
+      "name": "Canned figs, drained and sliced",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Golden raisins",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chives",
+      "amount": "1 tablespoon thinly chopped"
+    },
+    {
+      "name": "Sour cream (dairy-free)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh dill, finely chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook whole wheat penne according to package instructions until al dente. Drain and set aside.",
+    "In a large bowl, mix salmon fillets with figs, raisins, chopped chives, sour cream, dill, garlic powder, and olive oil. Season with salt and pepper if needed.",
+    "Transfer the mixture evenly onto prepared whole wheat penne pasta, ensuring each piece is coated.",
+    "Bake in preheated oven for 15-20 minutes or until golden brown on top and heated through.",
+    "Serve hot as a light lunch dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-salmon-pasta",
+    "fermented-flavors",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 15,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "sweet-salmon-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-salmon-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:27:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "salmon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "salmon",
+    "descriptor": "sweet",
+    "dishForm": "Pasta"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Sweet Gooey Brazilian Chicken Casserole",
+  "description": "A sweet and spicy Brazilian-inspired casserole perfect for a lazy Sunday, featuring chicken, vegetables, and a blend of cheeses, with a kick of hot chilli powder.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "hot chilli powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "0.5 cup"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "amount": "1 can (15 ounces)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat. Add the chicken and cook until browned, about 5-7 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the chopped onion and red bell pepper. Cook until the vegetables are tender, about 5 minutes.",
+    "In a large bowl, combine the cooked chicken, onion, bell pepper, hot chilli powder, paprika, garlic powder, low-sodium chicken broth, and black beans. Stir to combine.",
+    "In a separate bowl, mix the shredded mozzarella and cheddar cheese.",
+    "In a 9x13 inch baking dish, arrange half of the chicken mixture in the bottom of the dish. Top with half of the cheese mixture.",
+    "Repeat the layers, starting with the remaining chicken mixture, then the remaining cheese mixture.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "casseroles",
+    "lazy-sunday",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "sweet-gooey-brazilian-chicken-casserole",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-gooey-brazilian-chicken-casserole",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:28:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Sweet Gooey",
+    "dishForm": "Casserole"
+  }
+}
