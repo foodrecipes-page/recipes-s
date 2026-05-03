@@ -1,0 +1,101 @@
+{
+  "title": "Savory Juicy Canadian Lentil Stew",
+  "description": "A hearty and comforting Canadian-inspired stew featuring the warmth of ground cinnamon, perfect for a weeknight dinner. This plant-based-friendly dish is packed with juicy lentils and savory flavors.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green or brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "can diced tomatoes",
+      "amount": "14.5 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the chopped onion, carrots, and celery, and cook until the vegetables are tender, about 8 minutes.",
+    "Add the ground cinnamon, dried thyme, salt, and pepper, and cook for 1 minute.",
+    "Add the lentils, vegetable broth, and diced tomatoes. Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30-40 minutes, or until the lentils are tender.",
+    "Blanch a handful of fresh parsley or kale in boiling water for 10-15 seconds, then drain and chop. Stir into the stew.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with additional parsley or kale if desired.",
+    "Refrigerate or freeze any leftovers for up to 5 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lentil-stew",
+    "canadian-cuisine",
+    "plant-based",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "savory-juicy-canadian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-canadian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:42:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lentils",
+    "descriptor": "savory juicy",
+    "dishForm": "Stew"
+  }
+}
