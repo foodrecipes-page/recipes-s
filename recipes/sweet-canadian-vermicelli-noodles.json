@@ -1,0 +1,100 @@
+{
+  "title": "Sweet Canadian Vermicelli Noodles",
+  "description": "A sweet, chewy, and energizing Canadian dish featuring vermicelli rice noodles, slow-cooked to perfection with a blend of local flavors. This low-calorie-friendly recipe is perfect for a chilly evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli rice noodles",
+      "amount": "200g",
+      "notes": "preferably Canadian-grown"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "roasted butternut squash",
+      "amount": "1 cup, diced"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "In a small bowl, whisk together the maple syrup, soy sauce, dried thyme, salt, and black pepper.",
+    "Add the whisked sauce to the saucepan and stir to combine.",
+    "Add the diced roasted butternut squash to the saucepan and stir to combine.",
+    "Add the vermicelli rice noodles to the saucepan and stir to combine with the sauce and squash.",
+    "Reduce heat to low and simmer, covered, for 20 minutes or until the noodles are cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "vermicelli-noodles",
+    "sweet-dish",
+    "low-calorie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "sweet-canadian-vermicelli-noodles",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-canadian-vermicelli-noodles",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:26:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "vermicelli rice noodles",
+    "descriptor": "sweet chewy",
+    "dishForm": "Noodles"
+  }
+}
