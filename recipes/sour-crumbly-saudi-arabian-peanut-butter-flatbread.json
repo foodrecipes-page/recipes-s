@@ -1,0 +1,100 @@
+{
+  "title": "Sour Crumbly Saudi Arabian Peanut Butter Flatbread",
+  "description": "A traditional Saudi Arabian flatbread featuring peanut butter, perfect for a hangover cure or a quick snack. The sour and crumbly texture is achieved through the use of sourdough starter and air-frying.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup",
+      "notes": "creamy natural peanut butter"
+    },
+    {
+      "name": "sourdough starter",
+      "amount": "1/4 cup",
+      "notes": "active sourdough starter"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, salt, and baking powder.",
+    "Add the sourdough starter, peanut butter, olive oil, lemon juice, and water to the bowl. Mix until a shaggy dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4-6 equal pieces, depending on the desired size of the flatbread.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Heat an air fryer to 375°F (190°C).",
+    "Place a flatbread in the air fryer basket and cook for 5-7 minutes, or until it is golden brown and crispy.",
+    "Repeat with the remaining dough pieces.",
+    "Brush the flatbreads with additional olive oil and sprinkle with sesame seeds, if desired.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "peanut-butter",
+    "flatbread",
+    "sourdough",
+    "air-fryer",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "sour-crumbly-saudi-arabian-peanut-butter-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crumbly-saudi-arabian-peanut-butter-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:19:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "peanut butter",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "peanut butter",
+    "descriptor": "sour crumbly",
+    "dishForm": "Flatbread"
+  }
+}

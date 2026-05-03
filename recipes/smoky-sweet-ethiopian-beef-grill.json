@@ -1,0 +1,115 @@
+{
+  "title": "Smoky Sweet Ethiopian Beef Grill",
+  "description": "A tender, smoky grilled beef dish infused with sweet coconut sugar and traditional Ethiopian berbere spice for a Mediterranean-friendly dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "Mediterranean-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "800 g",
+      "notes": "trimmed and cut into 2.5 cm cubes"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "50 g",
+      "notes": "brown sugar for sweet glaze"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tbsp (≈20 g)",
+      "notes": "Ethiopian chili spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30 ml)",
+      "notes": "for marinating and grilling"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp (15 g)",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp (30 ml)",
+      "notes": "adds brightness"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional, for extra smoke flavor"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp chopped",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan over medium-high heat.",
+    "In a large bowl, combine coco sugar, berbere spice, smoked paprika, salt, and pepper.",
+    "Add minced garlic, ginger, lemon juice, and olive oil to the spice mix; stir to form a paste.",
+    "Fold beef cubes into the paste, ensuring each piece is well coated. Cover and refrigerate for at least 30 minutes to marinate.",
+    "Remove beef from refrigerator and let it sit at room temperature for 10 minutes before grilling.",
+    "Grill the beef cubes for 2-3 minutes per side, or until a desirable char and internal temperature of 63°C (145°F) is reached.",
+    "While grilling, lightly brush additional olive oil over the beef to keep it moist.",
+    "After grilling, transfer the beef to a serving platter and sprinkle with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "beef",
+    "grill",
+    "sweet",
+    "smoky",
+    "gluten-free",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "smoky-sweet-ethiopian-beef-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-sweet-ethiopian-beef-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:19:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "coco sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Smoky Sweet",
+    "dishForm": "Grill"
+  }
+}
