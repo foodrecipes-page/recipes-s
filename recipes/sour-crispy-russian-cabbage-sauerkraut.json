@@ -1,0 +1,101 @@
+{
+  "title": "Sour Crispy Russian Cabbage Sauerkraut",
+  "description": "A traditional Russian dish featuring sour fermented cabbage, crispy texture, and energizing flavors from basil. Diabetic-friendly and perfect for a snack or side dish.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Himalayan"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Filtered"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "Raw"
+    }
+  ],
+  "instructions": [
+    "Shred the cabbage and place it in a large bowl.",
+    "Add the caraway seeds, black pepper, salt, and chopped basil to the bowl and mix well.",
+    "In a separate bowl, mix the water and apple cider vinegar together.",
+    "Pour the water-vinegar mixture over the cabbage mixture and mix until everything is well coated.",
+    "Let the mixture sit at room temperature (about 70-75°F) for 3-5 days, allowing it to ferment.",
+    "After 3-5 days, use a mandoline or sharp knife to shred the cabbage mixture into thin strips.",
+    "Place the shredded cabbage mixture in a single layer on a baking sheet lined with parchment paper.",
+    "Dehydrate the cabbage mixture in a low-temperature oven (150°F) for 2-3 hours, or until crispy.",
+    "Check the cabbage for crispiness by removing a piece from the oven and letting it cool. If it's still soft, continue dehydrating for another 30 minutes.",
+    "Once crispy, remove the cabbage from the oven and let it cool completely.",
+    "Store the sour crispy cabbage in an airtight container in the refrigerator for up to 2 weeks."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sauerkraut",
+    "russian",
+    "fermented",
+    "cabbage",
+    "basil",
+    "diabetic-friendly",
+    "keto",
+    "low-carb",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 0
+  },
+  "slug": "sour-crispy-russian-cabbage-sauerkraut",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crispy-russian-cabbage-sauerkraut",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:34:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "basil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cabbage",
+    "descriptor": "sour crispy",
+    "dishForm": "Sauerkraut"
+  }
+}
