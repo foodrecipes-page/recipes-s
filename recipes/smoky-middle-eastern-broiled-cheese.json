@@ -1,0 +1,83 @@
+{
+  "title": "Smoky Middle-Eastern Broiled Cheese",
+  "description": "A silky, smoky cheese dish perfect for paleo diets, broiled to perfection with minimal oil.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "paleo",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "halloumi cheese",
+      "amount": "2 slices (100g)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp",
+      ": ": ", "
+    },
+    {
+      "name": "sumac",
+      "amount": "1/8 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to high heat",
+    "Brush halloumi slices lightly with olive oil",
+    "Sprinkle smoked paprika and sumac over cheese",
+    "Drizzle with lemon juice",
+    "Place cheese on broiler rack, 6 inches from heat source",
+    "Broil for 3-4 minutes until cheese melts and turns golden",
+    "Remove from heat and let rest 1 minute"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "cheese",
+    "broiled",
+    "paleo",
+    "middleeastern",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 2,
+    "fat": 18
+  },
+  "slug": "smoky-middle-eastern-broiled-cheese",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-middle-eastern-broiled-cheese",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:58:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "cheese slices",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "cheese",
+    "descriptor": "Smoky",
+    "dishForm": "Broil"
+  }
+}
