@@ -1,0 +1,111 @@
+{
+  "title": "Sweet Crispy Moroccan Chickpea Bake",
+  "description": "A sweet and comforting Moroccan-inspired dish featuring crispy chickpeas in a rich and aromatic sauce, perfect for a plant-based dinner. This bake combines the warmth of cumin and coriander with the sweetness of apricots and honey.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "or maple syrup for vegan option"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, cumin, coriander, salt, and pepper.",
+    "Add the chickpeas to the bowl and toss to coat with the spice mixture.",
+    "Spread the chickpeas on a baking sheet and roast for 30 minutes, or until crispy.",
+    "In a large skillet, sauté the chopped onion and minced garlic over medium heat until the onion is translucent.",
+    "In a blender or food processor, combine the sautéed onion and garlic, apricot jam, and honey. Blend until smooth.",
+    "In a large baking dish, arrange a layer of the roasted chickpeas, followed by a layer of the apricot sauce.",
+    "Repeat the layers one more time, ending with a layer of chickpeas on top.",
+    "Bake for 20-25 minutes, or until the sauce is bubbly and the top is golden brown.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chickpeas",
+    "sweet",
+    "crispy",
+    "bake",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "sweet-crispy-moroccan-chickpea-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crispy-moroccan-chickpea-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:44:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "bake",
+    "primaryIngredient": "sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Sweet Crispy",
+    "dishForm": "Bake"
+  }
+}
