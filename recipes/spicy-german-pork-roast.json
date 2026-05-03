@@ -1,0 +1,74 @@
+{
+  "title": "Spicy German Pork Roast",
+  "description": "A chewy, spicy pork tenderloin roast with a smoky glaze, perfect for crowds. Dairy-free and easy to prepare.",
+  "cuisine": "german",
+  "diet": [
+    "dairy-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "250g",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season pork tenderloin pieces with salt and pepper.",
+    "In a small bowl, mix brown sugar and red pepper flakes to create a glaze.",
+    "Brush glaze over pork tenderloin and roast for 15-18 minutes until internal temperature reaches 65°C (149°F).",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 18,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "spicy",
+    "pork",
+    "roast",
+    "dairy-free",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "spicy-german-pork-roast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-german-pork-roast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:25:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Spicy",
+    "dishForm": "Roast"
+  }
+}
