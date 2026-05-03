@@ -1,0 +1,104 @@
+{
+  "title": "Smooth Seoul Korean Oat Milk Deopbap",
+  "description": "A rich and creamy Korean-inspired dish made with oat milk, served over steamed rice and topped with a variety of vegetables and a fried egg.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fried egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium heat.",
+    "Add the onion and garlic and cook for 2-3 minutes until softened.",
+    "Add the carrots, zucchini, and red bell pepper and cook for 5-6 minutes until tender.",
+    "Add the soy sauce and Korean chili flakes and stir to combine.",
+    "Steam the rice according to package instructions.",
+    "To assemble the deopbap, place a scoop of steamed rice in a bowl and top with the cooked vegetables and a fried egg.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "korean-cuisine",
+    "oat-milk",
+    "one-pan",
+    "plant-based",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "smooth-seoul-korean-oat-milk-deopbap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smooth-seoul-korean-oat-milk-deopbap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:17:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "oat milk",
+    "diet": "ayurvedic-tamasic",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "oat milk",
+    "descriptor": "Smooth Seoul",
+    "dishForm": "Deopbap"
+  }
+}
