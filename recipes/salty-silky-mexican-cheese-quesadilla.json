@@ -1,0 +1,97 @@
+{
+  "title": "Salty Silky Quesadilla de Queso",
+  "description": "A kid-friendly Yucatecan-inspired dish featuring a silky liquid cheese filling, poached for a smooth texture. Suitable for vegan and non-vegan options.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plant-based cheese (such as Oaxaca or Queso Fresco)",
+      "amount": "250g",
+      "notes": "Alternatively, use non-vegan cheese options"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "0.5 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "4-6",
+      "notes": "Look for vegan and gluten-free options"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "For brushing tortillas"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine plant-based cheese, cayenne pepper, and garlic powder. Blend until smooth and creamy.",
+    "Heat a small skillet over low heat. Add a tablespoon of olive oil and swirl to coat.",
+    "Add the blended cheese mixture to the skillet and cook for 5-7 minutes, stirring occasionally, until the cheese reaches a silky consistency.",
+    "Poach the cheese by placing the skillet in a larger pot of boiling water. Cover the pot and cook for 5-7 minutes, or until the cheese has thickened slightly.",
+    "Meanwhile, warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "To assemble the quesadillas, place a warmed tortilla on a flat surface. Spoon a quarter of the cheese mixture onto half of the tortilla, leaving a 1-inch border around the edges.",
+    "Fold the tortilla in half to enclose the filling. Repeat with the remaining tortillas and cheese mixture.",
+    "Heat a large skillet or griddle over medium heat. Cook the quesadillas for 2-3 minutes per side, or until they're crispy and golden brown.",
+    "Cut the quesadillas into wedges and serve immediately. Garnish with chopped cilantro and a squeeze of lemon juice, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "yucatecan",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "cheese",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "10g",
+    "carbs": "20g",
+    "fat": "15g"
+  },
+  "slug": "salty-silky-mexican-cheese-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-silky-mexican-cheese-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:16:56Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "liquid cheese",
+    "diet": "vegan",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cheese",
+    "descriptor": "salty silky",
+    "dishForm": "Quesadilla"
+  }
+}
