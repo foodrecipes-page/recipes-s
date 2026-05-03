@@ -1,0 +1,114 @@
+{
+  "title": "Sour Crumbly Vietnamese Charlotte Potatoes Salad",
+  "description": "A refreshing sour and crumbly salad featuring Charlotte potatoes, pickled vegetables, and fragrant herbs. Perfect for a date-night dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Charlotte potatoes",
+      "amount": "4 large",
+      "notes": "Choose potatoes with rough, brown skin for the best texture"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "Grate carrots for a more uniform texture"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "Slice cucumber thinly for better texture"
+    },
+    {
+      "name": "Fermented rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste for acidity"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste for sweetness"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste for umami"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "Dissolve palm sugar in fish sauce for a balanced flavor"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chop cilantro for a fragrant flavor"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "Chop mint for a refreshing flavor"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1 cup",
+      "notes": "Use store-bought or homemade pickled vegetables for added crunch"
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": "Use for added texture and flavor"
+    }
+  ],
+  "instructions": [
+    "Boil a large pot of water and cook the Charlotte potatoes until tender.",
+    "Drain the potatoes and let them cool to room temperature.",
+    "Grate the carrots and slice the cucumber thinly.",
+    "In a large bowl, combine grated carrots, sliced cucumber, and pickled vegetables.",
+    "Dissolve palm sugar in fish sauce and mix with fermented rice vinegar, sugar, and a pinch of salt.",
+    "Pour the dressing over the vegetables and mix well.",
+    "Chop fresh cilantro and mint leaves and sprinkle over the salad.",
+    "Top the salad with crushed peanuts and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "salad",
+    "potatoes",
+    "date-night",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "sour-crumbly-vietnamese-charlotte-potatoes-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crumbly-vietnamese-charlotte-potatoes-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:10:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "charlotte potatoes",
+    "descriptor": "sour, crumbly",
+    "dishForm": "Salad"
+  }
+}

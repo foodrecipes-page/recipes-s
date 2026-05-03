@@ -1,0 +1,115 @@
+{
+  "title": "Sweet Velvety Australian Lamb Tagine",
+  "description": "A rich and spicy lamb tagine infused with the sweetness of Australian honey and the warmth of cinnamon. Perfect for a romantic dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "500g",
+      "notes": "You can also use beef or mutton for a different flavor."
+    },
+    {
+      "name": "Ghee or ground nut oil",
+      "amount": "2 tablespoons",
+      "notes": "Ground nut oil adds a nutty flavor and aroma to the dish."
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "You can use 1 large onion if you prefer."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "You can use 2 cloves if you prefer a milder flavor."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "Australian honey has a rich, caramel flavor that pairs perfectly with lamb."
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "Cinnamon is a classic spice in Australian cooking."
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 teaspoon",
+      "notes": "Ginger adds a warm, spicy flavor to the dish."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "You can use less salt if you prefer."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "You can use more pepper if you prefer."
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "100g",
+      "notes": "You can use Greek yogurt for a thicker consistency."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20g",
+      "notes": "You can use parsley or dill for a different flavor."
+    }
+  ],
+  "instructions": [
+    "Heat the ground nut oil in a large clay or ceramic pot over medium heat.",
+    "Add the onion and cook until it's softened and translucent, about 5 minutes.",
+    "Add the garlic and cook for another minute, until fragrant.",
+    "Add the lamb and cook until it's browned, breaking it up with a spoon as it cooks.",
+    "Add the honey, cinnamon, ginger, salt, and pepper. Stir well to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, stirring occasionally.",
+    "Stir in the yogurt and cook for another 5 minutes, until heated through.",
+    "Garnish with fresh cilantro and serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "tagine",
+    "romantic",
+    "dinner",
+    "slow-cooked",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "sweet-velvety-australian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvety-australian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:10:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "ground nut oil",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Lamb",
+    "descriptor": "sweet, velvety",
+    "dishForm": "Tagine"
+  }
+}
