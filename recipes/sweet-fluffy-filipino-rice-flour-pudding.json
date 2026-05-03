@@ -1,0 +1,97 @@
+{
+  "title": "Maja Blanca with Cocoa",
+  "description": "A sweet and fluffy Filipino rice flour pudding featuring cocoa powder, perfect for satisfying midnight cravings. This Jain-friendly dessert is a reduced version of the traditional recipe.",
+  "cuisine": "Filipino",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably glutinous rice flour"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice flour, cocoa powder, and salt.",
+    "In a separate bowl, combine coconut milk, sugar, water, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and whisk until smooth.",
+    "Cook the mixture over medium heat, stirring constantly, until it thickens.",
+    "In a small bowl, mix cornstarch and a little water to make a slurry.",
+    "Add the cornstarch slurry to the pudding mixture and cook for another minute.",
+    "Remove from heat and stir in coconut oil.",
+    "Pour the pudding into individual serving cups or a large serving dish.",
+    "Let it cool to room temperature, then refrigerate until chilled.",
+    "Serve chilled and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-dessert",
+    "cocoa-pudding",
+    "rice-flour",
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "sweet-fluffy-filipino-rice-flour-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-fluffy-filipino-rice-flour-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:40:57Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "cocoa powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice flour",
+    "descriptor": "sweet fluffy",
+    "dishForm": "Pudding"
+  }
+}
