@@ -1,0 +1,120 @@
+{
+  "title": "Sweet Chewy Vietnamese Seafood Bake",
+  "description": "A low-calorie, sweet, and chewy Vietnamese-inspired dish featuring a seafood stock and baked to perfection.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "defrosted"
+    },
+    {
+      "name": "scallops",
+      "amount": "1/2 pound",
+      "notes": "defrosted"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "seafood stock",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine seafood stock, fish sauce, coconut sugar, grated ginger, and garlic. Whisk until the sugar dissolves.",
+    "Add the brown rice to the bowl and mix until the rice is well coated with the seafood mixture.",
+    "Add the shrimp and scallops to the bowl and toss until they are evenly coated with the seafood mixture.",
+    "Transfer the seafood and rice mixture to a 9x13-inch baking dish.",
+    "Bake for 20 minutes.",
+    "Sprinkle toasted coconut flakes and chopped green onions on top of the seafood mixture.",
+    "Return the dish to the oven and bake for an additional 5-7 minutes, or until the coconut flakes are lightly toasted.",
+    "Remove the dish from the oven and season with salt and black pepper to taste.",
+    "Serve the dish hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "low-calorie",
+    "seafood",
+    "bake",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "sweet-chewy-vietnamese-seafood-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-chewy-vietnamese-seafood-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:57:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "seafood stock",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Seafood",
+    "descriptor": "Sweet Chewy",
+    "dishForm": "Bake"
+  }
+}

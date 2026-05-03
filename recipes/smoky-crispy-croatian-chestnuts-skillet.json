@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Crispy Croatian Chestnuts Skillet",
+  "description": "Quick-fix Mediterranean-inspired dish featuring roasted chestnuts, smoky paprika, and crispy prosciutto.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the sliced onion and cook for 3-4 minutes until lightly browned.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chestnuts and smoked paprika. Cook, stirring occasionally, for 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Meanwhile, cook the prosciutto slices in a separate pan over medium heat until crispy.",
+    "Chop the crispy prosciutto into small pieces and add to the skillet with the chestnuts.",
+    "Deglaze the skillet with a small amount of water to release the browned bits from the bottom.",
+    "Stir in the chopped parsley and serve immediately.",
+    "Optional: serve with a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "smoky",
+    "chestnuts",
+    "mediterranean",
+    "croatian",
+    "skillet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "smoky-crispy-croatian-chestnuts-skillet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crispy-croatian-chestnuts-skillet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:56:59Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "chestnuts",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chestnuts",
+    "descriptor": "smoky crispy",
+    "dishForm": "Skillet"
+  }
+}
