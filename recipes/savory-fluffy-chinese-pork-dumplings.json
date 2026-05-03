@@ -1,0 +1,98 @@
+{
+  "title": "Savory Fluffy Chinese Pork Dumplings",
+  "description": "A traditional Zhejiang dish featuring savory pork dumplings with a hint of pomegranate, perfect for a brunch mood. This paleo-friendly recipe uses wholesome ingredients for a delicious and healthy meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 lb",
+      "notes": "preferably pasture-raised"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, pomegranate seeds, green onions, and ginger.",
+    "In a separate bowl, whisk together coconut flour, eggs, sesame oil, salt, and black pepper.",
+    "Add the dry ingredients to the pork mixture and mix until just combined.",
+    "Do not overmix.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, bring a large pot of water to a boil and reduce the heat to a simmer.",
+    "Using a spoon, drop small balls of the pork mixture into the simmering water.",
+    "Cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings with a slotted spoon and serve hot.",
+    "Garnish with additional green onions and pomegranate seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "paleo-recipes",
+    "brunch-ideas",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "savory-fluffy-chinese-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-fluffy-chinese-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:01:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "pomegranate",
+    "diet": "paleo",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "savory fluffy",
+    "dishForm": "Dumplings"
+  }
+}
