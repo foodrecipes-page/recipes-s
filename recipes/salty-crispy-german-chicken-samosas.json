@@ -1,0 +1,104 @@
+{
+  "title": "Salty Crispy German Chicken Samosas",
+  "description": "A twist on traditional samosas, these German-inspired pastries are filled with salty chicken and wrapped in crispy filo dough, perfect for a snack or meal prep. They are sugar-free and can be cooked to a crispy perfection in a tandoor or oven.",
+  "cuisine": "German-Indian Fusion",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "filo pastry",
+      "amount": "1 package (20 sheets)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400°F (200°C).",
+    "In a large bowl, mix together chicken, salt, black pepper, onion, garlic, and ginger.",
+    "Add the chicken broth and olive oil to the bowl and mix until the chicken is well coated.",
+    "Lay a sheet of filo pastry on a flat surface and brush with a little water.",
+    "Place about 1 tablespoon of the chicken mixture in the center of the pastry.",
+    "Fold the pastry into a triangle and press the edges together to seal the samosa.",
+    "Repeat with the remaining pastry and chicken mixture.",
+    "Brush the tops of the samosas with a little water and sprinkle with sesame seeds if desired.",
+    "Cook the samosas in the preheated tandoor or oven for 20-25 minutes, or until crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "german-food",
+    "indian-influence",
+    "sugar-free",
+    "crispy-snacks"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "salty-crispy-german-chicken-samosas",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crispy-german-chicken-samosas",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:28:51Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "filo pastry",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Chicken",
+    "descriptor": "Salty Crispy",
+    "dishForm": "Samosas"
+  }
+}
