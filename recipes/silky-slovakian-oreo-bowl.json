@@ -1,0 +1,54 @@
+{
+  "title": "Silky Slovakian Oreo Bowl",
+  "description": "A comforting, earthy Slovakian twist on Oreo cream biscuits, steam-cooked to create a silky texture while remaining diabetic-friendly.",
+  "cuisine": "slovakian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Slovakian Oreo cream biscuits",
+      "amount": "25 g",
+      "notes": "Use plain, low-sugar variants for diabetic safety"
+    },
+    {
+      "name": "Steam",
+      "amount": "100 ml",
+      "notes": "Water for steaming"
+    },
+    {
+      "name": "Earth-friendly seasoning",
+      "amount": "5 g",
+      "notes": "Dried herbs like caraway or dill for earthy flavor"
+    }
+  ],
+  "instructions": [
+    "Place 25g Slovakian Oreo cream biscuits in a heat-safe bowl.",
+    "Add 100ml water for steaming and 5g earth-friendly seasoning.",
+    "Cover tightly with a lid and steam over medium heat for 5 minutes.",
+    "Let cool slightly, then serve warm for a silky texture."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  ": total time is 5 minutes, so 5.0 for total time in minutes? Wait, total time is prep + cook = 2 + 5 = 7. But in the instructions it says ": ", the total time for the recipe should be prep + cook. Let me check the rules: the total time is prepTimeMin + cookTimeMin. So totalTimeMin = 2 + 5 = 7. But the example in the rules says 4-12 steps, etc. Wait, I need to make sure the numbers are correct. Let's recalculate: prepTimeMin is 2, cookTimeMin is 5, so totalTimeMin is 7. But in the instructions I have 4 steps, which is within 4-12. Also, the ingredients are 3, which is within 4-12. The nutrition: I need to make it realistic for a diabetic-friendly version. Let's say: calories: 40, protein: 1, carbs: 10 (since low sugar Oreo), fat: 2. But in reality, Oreo biscuits have around 100-150 calories per 100g, so 25g would be about 40-60 calories. Let's go with 45 calories, 2g protein, 10g carbs, 1g fat for the 25g portion. But the recipe says ",
+  "slug": "silky-slovakian-oreo-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-slovakian-oreo-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:06:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Oreo",
+    "descriptor": "Silky",
+    "dishForm": "Bowl"
+  }
+}
