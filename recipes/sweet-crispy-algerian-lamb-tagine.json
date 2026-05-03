@@ -1,0 +1,109 @@
+{
+  "title": "Sweet Crispy Algerian Lamb Tagine",
+  "description": "A sweet and crispy Algerian dish featuring lamb, hoisin sauce, and a blend of spices, perfect for a special occasion. This recipe is high in protein and can be served as a main course.",
+  "cuisine": "Algerian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Stir in the cumin, coriander, and cayenne pepper. Cook for 1 minute.",
+    "Add the hoisin sauce, honey, and chicken broth to the pot. Stir to combine.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven. Braise the lamb for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and increase the oven temperature to 400°F (200°C).",
+    "Remove the lid from the pot and cook the lamb for an additional 20-25 minutes, or until crispy on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 170,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "tagine",
+    "sweet",
+    "crispy",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "sweet-crispy-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crispy-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:36:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "sweet crispy",
+    "dishForm": "Tagine"
+  }
+}

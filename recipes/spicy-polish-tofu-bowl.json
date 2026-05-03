@@ -1,0 +1,105 @@
+{
+  "title": "Spicy Polish Tofu Bowl",
+  "description": "A quick, spicy tofu bowl inspired by Polish pierogi flavors, finished with a zesty sesame sauce for a vegan-friendly, lazy Sunday meal.",
+  "cuisine": "Polish/Chinese fusion",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "400 g",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup uncooked",
+      "notes": "cook according to package"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup",
+      "notes": "blanched 2 min then cooled"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Pickled daikon radish",
+      "amount": "50 g",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame sauce",
+      "amount": "3 tbsp",
+      "notes": "see instructions"
+    }
+  ],
+  "instructions": [
+    "Rinse rice, cook in 2 cups water until fluffy, set aside.",
+    "Blanch broccoli: bring water to boil, add broccoli 2 min, then transfer to ice bath and drain.",
+    "Press tofu: wrap in paper towels and press for 15 minutes, then cut into 1 cm cubes.",
+    "Heat 1 tbsp oil in a skillet over medium heat, fry tofu until golden on all sides, remove and set aside.",
+    "In the same skillet, add a splash of oil and stir‑fry carrot, bell pepper, and green onions for 2–3 minutes.",
+    "Add blanched broccoli, toss, and remove from heat.",
+    "Whisk together soy sauce, rice vinegar, sriracha, sesame oil, sugar (or maple syrup), and 1 tbsp water in a small bowl; pour into skillet and stir to coat everything.",
+    "Return tofu to the skillet and combine with the sauce and vegetables.",
+    "Serve over cooked jasmine rice, sprinkle with toasted sesame seeds, sliced pickled daikon, and extra green onions. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "quick",
+    "spicy",
+    "fusion",
+    "tofu",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 23,
+    "carbs": 55,
+    "fat": 17
+  },
+  "slug": "spicy-polish-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-polish-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:35:53Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "tofu",
+    "descriptor": "Spicy",
+    "dishForm": "Bowl"
+  }
+}
