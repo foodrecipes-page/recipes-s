@@ -1,0 +1,97 @@
+{
+  "title": "Sour Tender Syrian Lamb Kebabs",
+  "description": "A traditional Syrian dish featuring ground lamb, annatto, and a blend of spices, resulting in a sour and tender flavor profile. This recipe is halal-friendly and perfect for adventurous eaters.",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, combine the ground lamb, ground annatto, sumac, salt, and black pepper. Mix well with your hands until just combined.",
+    "Add the pomegranate molasses, lemon juice, and olive oil to the bowl. Mix until the mixture is cohesive, being careful not to overmix.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, or until they reach an internal temperature of 145°F.",
+    "Remove the kebabs from the grill and let them rest for 5 minutes.",
+    "Serve the kebabs hot, garnished with minced garlic and a side of pita bread or salad.",
+    "To blanch the garlic, submerge it in boiling water for 10 seconds, then immediately transfer it to an ice bath to stop the cooking process.",
+    "To enhance the sour flavor, serve the kebabs with a squeeze of fresh lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian-cuisine",
+    "lamb-kebabs",
+    "middle-eastern",
+    "halal-friendly",
+    "grilled-meat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "sour-tender-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-tender-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:17:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "ground annatto",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "sour tender",
+    "dishForm": "Kebabs"
+  }
+}
