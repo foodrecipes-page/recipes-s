@@ -1,0 +1,84 @@
+{
+  "title": "Smoky Roasted Shallot Ethiopian Stew",
+  "description": "A low-carb-friendly, hangover-cure dish featuring bitter, crispy shallots roasted in smoky spices and oil for a unique flavor profile.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "low-carb",
+    "ketogenic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shallot",
+      "amount": "2 medium shallots"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turkey or beef broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Wash and dry the shallots. Cut them in half lengthwise.",
+    "Place the shallot halves on a baking sheet lined with parchment paper.",
+    "Drizzle each shallot half with olive oil, sprinkle smoked paprika, cumin, salt, and pepper evenly over them.",
+    "Roast in the oven for about 20-25 minutes or until they become crispy on top and slightly softened inside.",
+    "Garnish with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "roasted",
+    "shallot",
+    "ethiopian",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "smoky-roasted-shallot-ethiopian-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-shallot-ethiopian-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:55:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "shallots",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Shallots",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stew"
+  }
+}
