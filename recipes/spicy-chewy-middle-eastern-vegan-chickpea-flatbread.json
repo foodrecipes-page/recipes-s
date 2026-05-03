@@ -1,0 +1,93 @@
+{
+  "title": "Spicy Chewy Middle Eastern Vegan Chickpea Flatbread",
+  "description": "This crowd-pleasing flatbread is a spicy twist on traditional recipes, incorporating grape juice for added flavor and texture.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups cooked chickpeas",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup roasted red peppers, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh mint leaves, chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons grape juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of ground black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine cooked chickpeas, roasted red peppers, chopped parsley, mint leaves, minced garlic, grape juice, olive oil, cayenne pepper, salt, and black pepper.",
+    "Mix well until all ingredients are evenly distributed and the mixture is slightly thickened. Let it rest for 10 minutes.",
+    "Preheat your oven to 350°F (175°C). Pour the mixture into a baking sheet lined with parchment paper or silicone mat.",
+    "Spread the mixture evenly in a thin layer, creating small indentations for added texture and flavor. Bake for about 20-25 minutes until golden brown on top.",
+    "Serve warm as a snack or side dish with hummus."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "spicy",
+    "chewy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "spicy-chewy-middle-eastern-vegan-chickpea-flatbread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-chewy-middle-eastern-vegan-chickpea-flatbread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:17:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "grape juice",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Vegan Chickpea",
+    "descriptor": "Spicy Chewy",
+    "dishForm": "Bread"
+  }
+}
