@@ -1,0 +1,98 @@
+{
+  "title": "Silky Korean Silky Tofu Stir-fry",
+  "description": "A quick, umami-packed tofu stir-fry with gochujang that's sugar-free and silky smooth.",
+  "cuisine": "korean",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (400g)",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "gochujang paste",
+      "amount": "1 tbsp",
+      "notes": "use low-sugar or sugar-free version"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "use low-sodium for reduced salt"
+    },
+    {
+      "name": "sugar-free sweetener",
+      "amount": "1/2 tsp",
+      "notes": "optional, for subtle sweetness"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      ": ": " (Note: The user's request has a typo here. I'll fix it to "
+    }
+  ],
+  "instructions": [
+    "Press tofu for 10 minutes to remove excess water, then cube into 1-inch pieces.",
+    "Heat 1 tsp sesame oil in a wok or large pan over medium-high heat.",
+    "Add garlic, ginger, and green onions; stir-fry for 30 seconds until fragrant.",
+    "Add tofu, gochujang paste, soy sauce, and sugar-free sweetener (if using); stir well to combine.",
+    "Cook for 5-7 minutes until tofu is tender and coated with sauce.",
+    "Remove from heat; serve immediately with a side of rice or vegetables."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "silky",
+    "tofu",
+    "stir-fry",
+    "sugar-free",
+    "umami",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "silky-korean-silky-tofu-stir-fry",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-korean-silky-tofu-stir-fry",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:53:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "gochujang",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Silky",
+    "dishForm": "Stir-fry"
+  }
+}
