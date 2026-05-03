@@ -1,0 +1,111 @@
+{
+  "title": "Silky Romantic Vietnamese Oyster Mushroom Pho",
+  "description": "A plant-based, herbal, and silky Vietnamese dish featuring oyster mushrooms, perfect for a romantic evening. This pho is pressure-cooked to bring out the deep flavors of the mushrooms and spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 whole"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a pressure cooker, heat the sesame oil over medium heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced ginger and cook for an additional 1-2 minutes.",
+    "Add the star anise, cinnamon stick, and vegetable broth to the pressure cooker.",
+    "Bring the mixture to a boil, then close the lid and pressure-cook for 10 minutes.",
+    "While the broth is cooking, prepare the rice noodles according to package instructions.",
+    "Add the sliced oyster mushrooms to the pressure cooker and cook for an additional 5 minutes.",
+    "Stir in the soy sauce and lime juice.",
+    "To assemble the pho, place the cooked noodles in a bowl, then add the hot broth and mushrooms.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pho",
+    "oyster-mushrooms",
+    "plant-based",
+    "romantic",
+    "herbal",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "silky-romantic-vietnamese-oyster-mushroom-pho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-romantic-vietnamese-oyster-mushroom-pho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:43:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "silky romantic",
+    "dishForm": "Pho"
+  }
+}
