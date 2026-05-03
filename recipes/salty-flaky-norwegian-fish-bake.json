@@ -1,0 +1,98 @@
+{
+  "title": "Salty Flaky Norwegian Fish Bake",
+  "description": "A comforting and flavorful Norwegian-inspired dish featuring fenugreek and flaky fish, perfect for a sick day. This low-sodium-friendly recipe is a great option for those looking for a healthier take on traditional fish bakes.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "fenugreek leaves",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, mix together fenugreek leaves, olive oil, lemon juice, garlic, salt-free seasoning blend, and black pepper.",
+    "Place the cod fillets in a baking dish and brush the fenugreek mixture evenly over both fillets.",
+    "Arrange the sliced potatoes and onion in a layer on top of the fish.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-12 minutes, or until the fish is flaky and the potatoes are tender.",
+    "Remove from the oven and let rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian-cuisine",
+    "fish-bake",
+    "low-sodium",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "salty-flaky-norwegian-fish-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-flaky-norwegian-fish-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:06:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "fenugreek",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "salty flaky",
+    "dishForm": "Bake"
+  }
+}
