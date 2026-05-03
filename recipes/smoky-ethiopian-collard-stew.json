@@ -1,0 +1,105 @@
+{
+  "title": "Smoky Ethiopian Collard Stew",
+  "description": "A hearty and aromatic pescatarian-friendly stew featuring collard greens, smoked paprika, and poached fish, perfect for a date-night dinner. This Ethiopian-inspired dish is sure to impress with its rich and smoky flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "4 fillets",
+      "notes": "any white fish"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and grated ginger, cook for 1 minute.",
+    "Add smoked paprika, berbere spice, and chopped collard greens, cook for 2 minutes.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Meanwhile, poach fish fillets in a separate pot of simmering water until cooked through.",
+    "Add poached fish to the stew and stir in lemon juice.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "ethiopian",
+    "collard-greens",
+    "pescatarian",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "smoky-ethiopian-collard-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-ethiopian-collard-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:14:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "poach",
+    "primaryIngredient": "collards",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "collards",
+    "descriptor": "smoky",
+    "dishForm": "Stew"
+  }
+}

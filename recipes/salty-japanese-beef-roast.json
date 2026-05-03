@@ -1,0 +1,77 @@
+{
+  "title": "Salty Japanese Beef Roast",
+  "description": "A light, savory roast featuring feather blade beef, finished with a silky soy‑mirin glaze and garnished with scallions and sesame seeds.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Feather blade beef (roast)",
+      "amount": "1.5 kg",
+      "notes": "Trim any excess fat"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tamari (gluten‑free soy sauce)",
+      "amount": "60 ml"
+    },
+    {
+      "name": "Mirin",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Sake",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 135 °C (275 °F).",
+    "Pat the beef dry and rub it all over with salt, pepper, and the minced garlic.",
+    "Whisk together the tamari, mirin, sake, sesame oil, and grated ginger in a small bowl.",
+    "Place the beef in a roasting pan and pour the sauce mixture over it, ensuring the meat is well‑coated.",
+    "Roast in the oven for 1.5–2 hours, basting every 20 minutes with the pan juices, until the internal temperature reaches 55 °C (135 °F).",
+    "Remove the roast from the oven, tent it loosely with foil, and let it rest for 15 minutes to allow juices to redistribute.",
+    "Meanwhile, reduce the pan juices over medium heat for 5 minutes, skimming excess fat, to create a glaze.",
+    "Slice the rested roast thinly against the grain, drizzle with the reduced glaze, and garnish with sliced scallions and a sprinkle of toasted sesame seeds."
+  ],
+  "slug": "salty-japanese-beef-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-japanese-beef-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:14:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "feather blade beef",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Beef",
+    "descriptor": "Salty",
+    "dishForm": "Roast"
+  }
+}
