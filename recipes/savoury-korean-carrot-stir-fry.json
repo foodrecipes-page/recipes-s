@@ -1,0 +1,92 @@
+{
+  "title": "Savoury Korean Carrot Stir-fry",
+  "description": "A tangy, tender, energizing Kenyan dish featuring chilli flakes, blanch, kosher-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 kg",
+      "notes": "freshly peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "Kosher for Passover"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated finely"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp",
+      "notes": "for flavoring"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C). Place the sliced carrots in a single layer on a baking sheet and roast for about 25 minutes, or until tender.",
+    "Meanwhile, heat 1 tablespoon of sesame oil in a wok over medium-high heat. Add thinly sliced onions and minced garlic, stir-fry for about 3-4 minutes until softened.",
+    "Add roasted carrots to the wok, along with grated ginger, soy sauce, chili flakes, and salt. Stir well and continue cooking for an additional 2-3 minutes until flavors are fully integrated and the vegetables are tender.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "tangy",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 389,
+    "protein": 7.1,
+    "carbs": 67.5,
+    "fat": 12.4
+  },
+  "slug": "savoury-korean-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savoury-korean-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:56:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "chilli flakes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "carrot",
+    "descriptor": "Savoury",
+    "dishForm": "Stir-fry"
+  }
+}
