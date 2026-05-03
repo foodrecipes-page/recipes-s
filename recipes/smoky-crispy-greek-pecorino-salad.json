@@ -1,6 +1,6 @@
 {
   "title": "Smoky Crispy Greek Pecorino Salad",
-  "description": "A tangy, crunchy Greek-inspired salad that pairs smoky roasted chickpeas with sharp pecorino, lime‑zest vinaigrette, and garden crunch for a show‑off vegetarian entrée.",
+  "description": "A tangy, crunchy Greek-inspired salad that pairs smoky roasted chickpeas with sharp pecorino, limezest vinaigrette, and garden crunch for a showoff vegetarian entree.",
   "cuisine": "Greek",
   "diet": [
     "vegetarian"
@@ -74,8 +74,8 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F).",
-    "Toss dry chickpeas with 1 tbsp olive oil, smoked paprika, salt, and pepper. Spread on a baking sheet and roast for 25‑30 minutes, stirring halfway, until golden and crispy.",
+    "Preheat oven to 200\u00b0C (400\u00b0F).",
+    "Toss dry chickpeas with 1 tbsp olive oil, smoked paprika, salt, and pepper. Spread on a baking sheet and roast for 25\u201130 minutes, stirring halfway, until golden and crispy.",
     "While chickpeas roast, combine tomatoes, cucumber, onion, olives, and grated pecorino in a large bowl.",
     "In a small bowl whisk together remaining 1 tbsp olive oil, lemon juice, oregano, a pinch of salt, and pepper to create the vinaigrette.",
     "Drizzle the vinaigrette over the salad, tossing gently to coat.",
@@ -100,5 +100,20 @@
     "mainIngredient": "Pecorino",
     "descriptor": "Smoky Crispy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "lunch"
+  ]
 }

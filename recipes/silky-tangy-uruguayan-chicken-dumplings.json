@@ -1,6 +1,6 @@
 {
   "title": "Silky Tangy Uruguayan Chicken Dumplings",
-  "description": "Crispy, cabbage‑wrapped dumplings packed with seasoned chicken, finished with a silky sherry‑vinegar sauce that harks back to Uruguayan flavors.",
+  "description": "Crispy, cabbagewrapped dumplings packed with seasoned chicken, finished with a silky sherryvinegar sauce that harks back to Uruguayan flavors.",
   "cuisine": "Uruguayan",
   "diet": [
     "whole30"
@@ -40,7 +40,7 @@
     {
       "name": "coconut aminos",
       "amount": "1 tsp",
-      "notes": "whole30‑friendly soy alternative"
+      "notes": "whole30\u2011friendly soy alternative"
     },
     {
       "name": "sherry vinegar",
@@ -71,11 +71,11 @@
   "instructions": [
     "Wash and blanch cabbage leaves until pliable, then pat dry.",
     "In a bowl mix ground chicken, grated carrot, sliced shallots, minced garlic, grated ginger, coconut aminos, ground cumin, smoked paprika, chopped cilantro, and a pinch of salt and pepper to create the filling.",
-    "Heat 1 tbsp olive oil in a large skillet over medium heat. Add the chicken mixture and cook, breaking it apart, until no longer pink, about 6‑8 minutes.",
+    "Heat 1 tbsp olive oil in a large skillet over medium heat. Add the chicken mixture and cook, breaking it apart, until no longer pink, about 6\u20118 minutes.",
     "While the filling cooks, combine 1 tbsp sherry vinegar and 1 tbsp olive oil in a small bowl to make a silky sauce. Season with a pinch of salt and a dash of red pepper flakes if desired.",
     "Once the chicken is cooked, remove from heat and let rest 2 minutes.",
     "Lay a blanched cabbage leaf on a clean surface. Place a spoonful of the chicken filling in the center, then fold the leaf over the filling and tuck the edges to seal, forming a small dumpling. Repeat until all filling is used.",
-    "Heat the remaining 1 tbsp olive oil in the same skillet over medium‑high heat. Place the dumplings seam‑side down and fry until golden brown, about 3 minutes on each side.",
+    "Heat the remaining 1 tbsp olive oil in the same skillet over medium\u2011high heat. Place the dumplings seam\u2011side down and fry until golden brown, about 3 minutes on each side.",
     "Add 1/4 cup water to the skillet, cover, and steam the dumplings for an additional 3 minutes, or until the cabbage is tender and the filling is heated through.",
     "Remove the lid, pour the silky sauce over the dumplings, and gently stir to coat all dumplings.",
     "Serve hot, garnished with chopped fresh cilantro or additional scallions if desired."
@@ -97,5 +97,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Silky Tangy",
     "dishForm": "Dumplings"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "uruguayan",
+    "lunch"
+  ]
 }

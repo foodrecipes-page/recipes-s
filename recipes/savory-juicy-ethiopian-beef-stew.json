@@ -8,7 +8,7 @@
     {
       "name": "beef chuck",
       "amount": "1 lb (454 g)",
-      "notes": "cut into 1½-inch cubes"
+      "notes": "cut into 1\u00bd-inch cubes"
     },
     {
       "name": "beef broth",
@@ -53,7 +53,7 @@
     {
       "name": "olive oil",
       "amount": "2 tbsp (30 ml)",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "salt",
@@ -62,7 +62,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": ""
     },
     {
@@ -77,10 +77,10 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
+    "Preheat the oven to 375\u00b0F (190\u00b0C).",
     "Season the beef cubes with salt, pepper, and berbere spice blend.",
     "In a heavy, oven-safe pot, heat olive oil over medium-high heat and brown the beef on all sides, about 5 minutes. Remove the beef and set aside.",
-    "Add diced onion to the same pot and sauté until translucent, about 4 minutes. Add minced garlic and grated ginger, cooking for another minute.",
+    "Add diced onion to the same pot and saut\u00e9 until translucent, about 4 minutes. Add minced garlic and grated ginger, cooking for another minute.",
     "Stir in tomato paste and cook for 2 minutes so it deepens in color.",
     "Add chopped tomatoes, beef broth, and bay leaf to the pot. Return the browned beef to the pot, bring to a gentle simmer.",
     "Cover the pot and transfer it to the preheated oven. Bake for 90 minutes, or until the beef is fork-tender.",
@@ -106,5 +106,20 @@
     "mainIngredient": "beef",
     "descriptor": "Savory Juicy",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "dinner"
+  ]
 }

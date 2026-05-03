@@ -1,6 +1,6 @@
 {
   "title": "Salty Japanese Beef Roast",
-  "description": "A light, savory roast featuring feather blade beef, finished with a silky soy‑mirin glaze and garnished with scallions and sesame seeds.",
+  "description": "A light, savory roast featuring feather blade beef, finished with a silky soymirin glaze and garnished with scallions and sesame seeds.",
   "cuisine": "Japanese",
   "diet": [
     "dairy-free",
@@ -22,7 +22,7 @@
       "amount": "1 teaspoon"
     },
     {
-      "name": "Tamari (gluten‑free soy sauce)",
+      "name": "Tamari (gluten\u2011free soy sauce)",
       "amount": "60 ml"
     },
     {
@@ -47,13 +47,13 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 135 °C (275 °F).",
+    "Preheat the oven to 135\u202f\u00b0C (275\u202f\u00b0F).",
     "Pat the beef dry and rub it all over with salt, pepper, and the minced garlic.",
     "Whisk together the tamari, mirin, sake, sesame oil, and grated ginger in a small bowl.",
-    "Place the beef in a roasting pan and pour the sauce mixture over it, ensuring the meat is well‑coated.",
-    "Roast in the oven for 1.5–2 hours, basting every 20 minutes with the pan juices, until the internal temperature reaches 55 °C (135 °F).",
-    "Remove the roast from the oven, tent it loosely with foil, and let it rest for 15 minutes to allow juices to redistribute.",
-    "Meanwhile, reduce the pan juices over medium heat for 5 minutes, skimming excess fat, to create a glaze.",
+    "Place the beef in a roasting pan and pour the sauce mixture over it, ensuring the meat is well\u2011coated.",
+    "Roast in the oven for 1.5\u20132\u202fhours, basting every 20\u202fminutes with the pan juices, until the internal temperature reaches 55\u202f\u00b0C (135\u202f\u00b0F).",
+    "Remove the roast from the oven, tent it loosely with foil, and let it rest for 15\u202fminutes to allow juices to redistribute.",
+    "Meanwhile, reduce the pan juices over medium heat for 5\u202fminutes, skimming excess fat, to create a glaze.",
     "Slice the rested roast thinly against the grain, drizzle with the reduced glaze, and garnish with sliced scallions and a sprinkle of toasted sesame seeds."
   ],
   "slug": "salty-japanese-beef-roast",
@@ -73,5 +73,20 @@
     "mainIngredient": "Beef",
     "descriptor": "Salty",
     "dishForm": "Roast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "japanese",
+    "dinner"
+  ]
 }

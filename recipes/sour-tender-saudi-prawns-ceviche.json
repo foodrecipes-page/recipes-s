@@ -1,6 +1,6 @@
 {
   "title": "Sour Tender Saudi Prawns Ceviche",
-  "description": "A bright, tangy Saudi‑inspired ceviche featuring tender king prawns marinated in a citrusy, herbaceous sauce, perfect for a kid‑friendly lunch.",
+  "description": "A bright, tangy Saudiinspired ceviche featuring tender king prawns marinated in a citrusy, herbaceous sauce, perfect for a kidfriendly lunch.",
   "cuisine": "Saudi Arabian",
   "diet": [
     "whole30"
@@ -32,7 +32,7 @@
       "amount": "1/4 cup chopped (15g)"
     },
     {
-      "name": "Jalapeño pepper",
+      "name": "Jalape\u00f1o pepper",
       "amount": "1 small, minced (5g)"
     },
     {
@@ -58,10 +58,10 @@
   ],
   "instructions": [
     "Thaw the prawns if frozen; rinse under cold water and pat dry.",
-    "Slice the prawns into bite‑size cubes.",
-    "In a bowl whisk together lemon juice, lime juice, olive oil, salt, pepper, cumin, coriander, garlic, and jalapeño.",
+    "Slice the prawns into bite\u2011size cubes.",
+    "In a bowl whisk together lemon juice, lime juice, olive oil, salt, pepper, cumin, coriander, garlic, and jalape\u00f1o.",
     "Add the diced onion and cilantro, then fold in the prawns, tossing to coat evenly.",
-    "Cover the bowl with plastic wrap and refrigerate for 30–45 minutes to allow the flavors to meld.",
+    "Cover the bowl with plastic wrap and refrigerate for 30\u201345 minutes to allow the flavors to meld.",
     "Taste and adjust seasoning if needed, adding more salt or lime juice.",
     "Serve immediately chilled, garnished with extra cilantro or sliced cucumber if desired."
   ],
@@ -82,5 +82,20 @@
     "mainIngredient": "prawns",
     "descriptor": "Sour Tender",
     "dishForm": "Ceviche"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi-arabian",
+    "lunch"
+  ]
 }

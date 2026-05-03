@@ -32,7 +32,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375°F (190°C).",
+    "Preheat your oven to 375\u00b0F (190\u00b0C).",
     "Gather all ingredients and mix them together in a mixing bowl until well combined.",
     "Transfer the mixture into a pie dish that has been lightly oiled, pressing it down evenly with the back of a spoon or spatula for an even crust base.",
     "Bake for 15-20 minutes until golden brown. Keep an eye on it to prevent burning.",
@@ -51,9 +51,9 @@
   ],
   "nutrition": {
     "calories": 257,
-    "protein": 4.6,
-    "carbs": 16.8,
-    "fat": 22.9
+    "protein": 5,
+    "carbs": 17,
+    "fat": 23
   },
   "slug": "soy-butter-crust",
   "source": "ollama-qwen2.5:3b",

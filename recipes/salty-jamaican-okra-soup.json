@@ -1,6 +1,6 @@
 {
   "title": "Salty Jamaican Okra Soup",
-  "description": "A light, monsoon‑inspired Jamaican okra soup with a subtle salty kick, cooked sous‑vide for silky texture and finished with miniature sugar‑based marshmallows.",
+  "description": "A light, monsooninspired Jamaican okra soup with a subtle salty kick, cooked sousvide for silky texture and finished with miniature sugarbased marshmallows.",
   "cuisine": "Jamaican",
   "diet": [
     "jain-friendly"
@@ -15,12 +15,12 @@
     {
       "name": "Coconut milk",
       "amount": "400ml",
-      "notes": "full‑fat for richness"
+      "notes": "full\u2011fat for richness"
     },
     {
       "name": "Vegetable broth",
       "amount": "200ml",
-      "notes": "low‑sodium"
+      "notes": "low\u2011sodium"
     },
     {
       "name": "Dried thyme",
@@ -47,17 +47,17 @@
       "amount": "1 tsp"
     },
     {
-      "name": "Miniature sugar‑based marshmallows",
+      "name": "Miniature sugar\u2011based marshmallows",
       "amount": "12",
-      "notes": "vegan, gelatin‑free"
+      "notes": "vegan, gelatin\u2011free"
     }
   ],
   "instructions": [
-    "Preheat the sous‑vide bath to 60°C (140°F).",
+    "Preheat the sous\u2011vide bath to 60\u00b0C (140\u00b0F).",
     "Season the sliced okra with salt, pepper, turmeric, dried thyme, and allspice.",
-    "Place the seasoned okra in a vacuum‑seal bag and pour in coconut milk and vegetable broth.",
-    "Add tamarind paste to the bag, seal, and vacuum‑seal.",
-    "Cook the bag sous‑vide for 60 minutes to gently infuse flavors and tenderize the okra.",
+    "Place the seasoned okra in a vacuum\u2011seal bag and pour in coconut milk and vegetable broth.",
+    "Add tamarind paste to the bag, seal, and vacuum\u2011seal.",
+    "Cook the bag sous\u2011vide for 60 minutes to gently infuse flavors and tenderize the okra.",
     "Remove the bag, open it carefully, and transfer the contents to a medium saucepan.",
     "Bring the mixture to a gentle simmer for 5 minutes, allowing flavors to meld.",
     "Add the miniature marshmallows to the simmering soup, stirring until they melt and create a subtle airy texture.",
@@ -81,5 +81,20 @@
     "mainIngredient": "Okra",
     "descriptor": "Salty",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "jamaican",
+    "lunch"
+  ]
 }

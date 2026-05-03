@@ -60,7 +60,7 @@
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add diced onion and sauté until translucent, about 4 minutes.",
+    "Add diced onion and saut\u00e9 until translucent, about 4 minutes.",
     "Stir in minced garlic and ginger, cooking until fragrant, 1 minute.",
     "Add berbere and tomato paste, mix well and cook for 2 minutes to bloom the spices.",
     "Pour in vegetable broth and bring the mixture to a gentle simmer.",
@@ -87,5 +87,20 @@
     "mainIngredient": "Tofu",
     "descriptor": "Sour Flaky",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "dinner"
+  ]
 }

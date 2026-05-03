@@ -41,10 +41,10 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Mix together applesauce, flour, rolled oats, baking powder, salt, and vanilla extract. Add cubed butter and mix until crumbly.",
     "Press dough into a pie dish or muffin tin for individual servings.",
-    "Bake at 375°F (190°C) for 20-25 minutes or until golden brown and crisp.",
+    "Bake at 375\u00b0F (190\u00b0C) for 20-25 minutes or until golden brown and crisp.",
     "Serve warm with whipped cream or ice cream as desired."
   ],
   "prepTimeMin": 15,
@@ -53,16 +53,16 @@
   "servings": 8,
   "difficulty": "easy",
   "tags": [
-    "apple pie",
-    "sour apple",
-    "crunchy crust",
+    "apple-pie",
+    "sour-apple",
+    "crunchy-crust",
     "jain-friendly"
   ],
   "nutrition": {
     "calories": 317,
-    "protein": 2.9,
-    "carbs": 46.3,
-    "fat": 15.8
+    "protein": 3,
+    "carbs": 46,
+    "fat": 16
   },
   "slug": "sour-crunchy-apple-pie",
   "source": "ollama-qwen2.5:3b",

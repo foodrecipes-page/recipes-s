@@ -1,6 +1,6 @@
 {
   "title": "Salty Crisp Russian Pork Skillet",
-  "description": "A flavorful, one-pan Russian-inspired pork skillet with a tangy mustard glaze, crisp edges, and a savory, dairy‑free finish.",
+  "description": "A flavorful, one-pan Russian-inspired pork skillet with a tangy mustard glaze, crisp edges, and a savory, dairyfree finish.",
   "cuisine": "Russian",
   "diet": [
     "dairy-free"
@@ -46,7 +46,7 @@
   ],
   "instructions": [
     "Heat a large skillet over medium-high heat and add 1 tbsp of olive oil.",
-    "Season the pork slices with salt, pepper, paprika, and garlic powder, then place them in the hot skillet. Sear each side until golden brown, about 3–4 minutes per side.",
+    "Season the pork slices with salt, pepper, paprika, and garlic powder, then place them in the hot skillet. Sear each side until golden brown, about 3\u20134 minutes per side.",
     "Remove the pork and set aside. Add the remaining 1 tbsp oil to the skillet and pour in the water, scraping up any browned bits to deglaze.",
     "Stir in the wholegrain mustard, allowing the sauce to simmer and thicken for 2 minutes.",
     "Return the pork to the skillet, spooning the mustard sauce over the meat. Cook for another 2 minutes until the gravy coats the pork and the edges are crisp.",
@@ -71,5 +71,20 @@
     "mainIngredient": "Pork",
     "descriptor": "Salty Crisp",
     "dishForm": "Skillet"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "russian",
+    "dinner"
+  ]
 }

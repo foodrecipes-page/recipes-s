@@ -1,6 +1,6 @@
 {
   "title": "Salty Crumbly Syrian Beef Salad",
-  "description": "A refreshing light salad featuring crisp greens, tangy beet cubes, and crumbled lean minced steak, finished with a zesty sumac‑lemon dressing.",
+  "description": "A refreshing light salad featuring crisp greens, tangy beet cubes, and crumbled lean minced steak, finished with a zesty sumaclemon dressing.",
   "cuisine": "Syrian",
   "diet": null,
   "meal": "lunch",
@@ -48,7 +48,7 @@
   ],
   "instructions": [
     "Season the minced steak with salt and sumac, mixing thoroughly.",
-    "Heat a non‑stick skillet over medium heat and cook the steak, breaking it into bite‑sized crumbles until just browned and a safe internal temperature of 145°F (63°C) is reached, about 5–6 minutes.",
+    "Heat a non\u2011stick skillet over medium heat and cook the steak, breaking it into bite\u2011sized crumbles until just browned and a safe internal temperature of 145\u00b0F (63\u00b0C) is reached, about 5\u20136 minutes.",
     "Remove the steak from the pan and set aside to cool slightly.",
     "In a large bowl, combine the mixed greens, beet cubes, chickpeas, and olives.",
     "Whisk lemon juice and olive oil together with a pinch of salt to create a simple dressing.",
@@ -73,5 +73,20 @@
     "mainIngredient": "beef",
     "descriptor": "Salty Crumbly",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "syrian",
+    "lunch"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Sour Egyptian Fish Soup",
-  "description": "A light, tangy fish soup infused with white wine, lemon, and herbs—perfect for a quick, low‑calorie meal on a sick day.",
+  "description": "A light, tangy fish soup infused with white wine, lemon, and herbs-perfect for a quick, lowcalorie meal on a sick day.",
   "cuisine": "Egyptian",
   "diet": [
     "low-fat",
@@ -28,7 +28,7 @@
       "notes": "diced"
     },
     {
-      "name": "fish stock (low‑sodium)",
+      "name": "fish stock (low\u2011sodium)",
       "amount": "1 cup"
     },
     {
@@ -52,7 +52,7 @@
     {
       "name": "olive oil",
       "amount": "1 teaspoon",
-      "notes": "just enough to sauté"
+      "notes": "just enough to saut\u00e9"
     },
     {
       "name": "fresh dill",
@@ -83,12 +83,12 @@
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add chopped onion and sauté until translucent, about 3 minutes.",
+    "Add chopped onion and saut\u00e9 until translucent, about 3 minutes.",
     "Add minced garlic and cook for another 30 seconds until fragrant.",
     "Stir in diced tomatoes, cumin, and paprika; cook for 5 minutes until tomatoes soften.",
     "Pour in the reduced white wine and allow it to simmer for 2 minutes, reducing slightly.",
     "Add fish stock, water, lemon juice, and white wine vinegar; bring the mixture to a gentle boil.",
-    "Reduce heat, then add the fish fillets, breaking them into bite‑sized pieces; simmer until fish flakes easily, about 6-8 minutes.",
+    "Reduce heat, then add the fish fillets, breaking them into bite\u2011sized pieces; simmer until fish flakes easily, about 6-8 minutes.",
     "Season with salt, pepper, dill, and parsley; adjust seasoning if needed.",
     "Serve hot, spooning out the broth with a spoonful of flaky fish and herbs."
   ],
@@ -109,5 +109,20 @@
     "mainIngredient": "fish",
     "descriptor": "Sour",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "egyptian",
+    "dinner"
+  ]
 }

@@ -80,11 +80,11 @@
     "1. Rinse the prawns under cool water and pat dry with paper towels.",
     "2. Place the prawns in a shallow dish and season lightly with salt until just coated.",
     "3. In a separate bowl whisk together lime juice, honey, and fermented fish sauce until the honey dissolves.",
-    "4. Pour the lime mixture over the prawns, cover, and refrigerate for 4–6 hours at room temperature to allow a gentle fermentation and tenderization of the shrimp.",
+    "4. Pour the lime mixture over the prawns, cover, and refrigerate for 4\u20136 hours at room temperature to allow a gentle fermentation and tenderization of the shrimp.",
     "5. After fermentation, drain excess liquid, then add the pickled cucumber slices, thinly sliced red onion, ground cumin, ground coriander, smoked paprika, chili flakes, and chopped cilantro to the prawns.",
     "6. Gently toss the mixture to combine all flavors, ensuring the prawns remain moist and silky.",
     "7. Drizzle olive oil over the ceviche, sprinkle toasted sesame seeds, and give a final gentle stir.",
-    "8. Cover the dish and chill in the refrigerator for 15–20 minutes before serving to allow flavors to meld.",
+    "8. Cover the dish and chill in the refrigerator for 15\u201320 minutes before serving to allow flavors to meld.",
     "9. Transfer the ceviche to a shallow serving bowl, garnish with extra cilantro and a light dusting of smoked paprika if desired.",
     "10. Serve immediately with toasted flatbread or crisp rice crackers for an authentic Saudi Arabian solo-dinner experience."
   ],
@@ -105,5 +105,20 @@
     "mainIngredient": "prawns",
     "descriptor": "Silky Fermented",
     "dishForm": "Ceviche"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi-arabian",
+    "dinner"
+  ]
 }

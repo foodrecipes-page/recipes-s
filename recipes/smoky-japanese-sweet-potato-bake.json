@@ -1,6 +1,6 @@
 {
   "title": "Smoky Japanese Sweet Potato Bake",
-  "description": "A comforting baked sweet potato dish infused with smoky paprika, subtle miso, and a hint of Cajun spice for a low‑calorie, earthy treat.",
+  "description": "A comforting baked sweet potato dish infused with smoky paprika, subtle miso, and a hint of Cajun spice for a lowcalorie, earthy treat.",
   "cuisine": "Japanese",
   "diet": [
     "vegetarian",
@@ -11,7 +11,7 @@
     {
       "name": "sweet potatoes",
       "amount": "2 medium (about 400g)",
-      "notes": "peeled and cut into 1‑inch cubes"
+      "notes": "peeled and cut into 1\u2011inch cubes"
     },
     {
       "name": "olive oil",
@@ -55,7 +55,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 200°C (400°F).",
+    "Preheat the oven to 200\u00b0C (400\u00b0F).",
     "In a large bowl, whisk olive oil, smoked paprika, cajun seasoning, ground ginger, minced garlic, soy sauce, miso paste, rice vinegar, and a pinch of sea salt to make the coating mixture."
   ],
   "totalTimeMin": 40,
@@ -76,5 +76,19 @@
     "mainIngredient": "Sweet Potato",
     "descriptor": "Smoky",
     "dishForm": "Bake"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "japanese",
+    "dinner"
+  ]
 }

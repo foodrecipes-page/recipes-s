@@ -1,0 +1,101 @@
+{
+  "title": "Spicy Creamy American Chicken Burger",
+  "description": "A post-workout American dish featuring spicy and creamy flavors, with a twist of golden syrup and tandoor spices. This egg-free-friendly burger is perfect for those looking for a filling and flavorful meal.",
+  "cuisine": "American",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 4 patties"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sliced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brioche buns",
+      "amount": "4"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a bowl, mix together tandoor spice mix, golden syrup, and a pinch of salt.",
+    "Add the spice mix to the chicken patties and coat evenly.",
+    "Grill the chicken patties for 5-6 minutes per side, or until they reach an internal temperature of 165°F.",
+    "In a bowl, mix together mayonnaise and sriracha sauce.",
+    "Toast the brioche buns on the grill or in a toaster.",
+    "Assemble the burgers by spreading the spicy mayonnaise on the bottom bun, followed by a chicken patty, a slice of cheese, some shredded lettuce, sliced red onion, and sliced tomatoes.",
+    "Top with the top bun.",
+    "Serve immediately and enjoy!",
+    "Let the burgers rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "creamy",
+    "american",
+    "chicken",
+    "burger",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "spicy-creamy-american-chicken-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-american-chicken-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:17:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "golden syrup",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Spicy Creamy",
+    "dishForm": "Burger"
+  }
+}

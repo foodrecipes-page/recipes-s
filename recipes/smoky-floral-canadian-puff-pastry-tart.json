@@ -1,6 +1,6 @@
 {
   "title": "Smoky Floral Canadian Puff Pastry Tart",
-  "description": "A flaky puff pastry tart infused with smoky paprika, delicate floral notes, and a touch of Sichuan pepper—sweetened naturally for a kid‑friendly Canadian treat.",
+  "description": "A flaky puff pastry tart infused with smoky paprika, delicate floral notes, and a touch of Sichuan pepper-sweetened naturally for a kidfriendly Canadian treat.",
   "cuisine": "Canadian",
   "diet": [
     "vegetarian",
@@ -11,7 +11,7 @@
     {
       "name": "Puff pastry sheet",
       "amount": "1 (250g)",
-      "notes": "Store‑bought, thawed if frozen"
+      "notes": "Store\u2011bought, thawed if frozen"
     },
     {
       "name": "Cream cheese",
@@ -59,12 +59,12 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F). Line a baking sheet with parchment paper.",
-    "Lay the puff pastry sheet on the parchment and trim a 1 cm border.",
+    "Preheat oven to 200\u00b0C (400\u00b0F). Line a baking sheet with parchment paper.",
+    "Lay the puff pastry sheet on the parchment and trim a 1\u202fcm border.",
     "In a bowl, mix the cream cheese, smoked Gouda, smoked paprika, crushed Sichuan peppercorns, dried lavender buds, rose petals, stevia syrup, and a pinch of sea salt until smooth.",
     "Spread the mixture evenly over the pastry, leaving the border uncovered.",
     "Brush the pastry edges with the beaten egg.",
-    "Bake for 15‑18 minutes, or until the pastry is golden and the filling is set.",
+    "Bake for 15\u201118 minutes, or until the pastry is golden and the filling is set.",
     "Remove from oven, let cool for 5 minutes, then slice into 6 servings. Garnish with additional edible flowers if desired. Enjoy warm or at room temperature."
   ],
   "slug": "smoky-floral-canadian-puff-pastry-tart",
@@ -84,5 +84,20 @@
     "mainIngredient": "puff pastry",
     "descriptor": "Smoky Floral",
     "dishForm": "Tart"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "dessert"
+  ]
 }

@@ -44,7 +44,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (205°C).",
+    "Preheat oven to 400\u00b0F (205\u00b0C).",
     "Toss cherry tomatoes, bell pepper, zucchini, and parsley with lemon juice and garlic in a large bowl.",
     "Spread the vegetables evenly on a baking sheet lined with parchment paper.",
     "Roast for about 15 minutes or until veggies are tender and slightly caramelized.",
@@ -66,9 +66,9 @@
   ],
   "nutrition": {
     "calories": 167,
-    "protein": 2.9,
-    "carbs": 30.5,
-    "fat": 8.4
+    "protein": 3,
+    "carbs": 30,
+    "fat": 8
   },
   "slug": "smoky-roasted-mediterranean-avocado-crumble",
   "source": "ollama-qwen2.5:3b",

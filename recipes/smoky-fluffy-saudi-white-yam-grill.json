@@ -48,7 +48,7 @@
     }
   ],
   "instructions": [
-    "Preheat a charcoal or gas grill to medium-high heat (~190-200°C).",
+    "Preheat a charcoal or gas grill to medium-high heat (~190-200\u00b0C).",
     "In a small bowl, mix smoked paprika, cumin, garlic powder, salt, and pepper.",
     "Brush each yam slice lightly with olive oil, then sprinkle the spice mix evenly on both sides.",
     "Place the seasoned yam slices on the grill, close the lid, and cook for 7-8 minutes per side, until the edges are crisp and the interior is fluffy.",
@@ -72,5 +72,20 @@
     "mainIngredient": "White Yam",
     "descriptor": "Smoky Fluffy",
     "dishForm": "Grill"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi-arabian",
+    "dinner"
+  ]
 }

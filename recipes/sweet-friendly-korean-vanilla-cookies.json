@@ -60,7 +60,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+    "Preheat oven to 350\u00b0F (175\u00b0C) and line a baking sheet with parchment paper.",
     "In a bowl, cream together butter, vanilla sugar, and honey until light and fluffy.",
     "Add vanilla extract, egg yolk, and vanilla sugar again, beating until well combined.",
     "Whisk flour, whole wheat flour, baking soda, salt, and fermented rice powder in a separate bowl.",
@@ -87,5 +87,20 @@
     "mainIngredient": "vanilla",
     "descriptor": "Sweet Friendly",
     "dishForm": "Cookies"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "korean",
+    "dessert"
+  ]
 }

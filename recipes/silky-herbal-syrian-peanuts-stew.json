@@ -1,6 +1,6 @@
 {
   "title": "Silky Herbal Syrian Peanuts Stew",
-  "description": "A comforting, egg‑free stew brimming with roasted peanuts, chickpeas, and spinach, finished in a silky coconut‑milk broth.",
+  "description": "A comforting, eggfree stew brimming with roasted peanuts, chickpeas, and spinach, finished in a silky coconutmilk broth.",
   "cuisine": "Syrian",
   "diet": [
     "vegan"
@@ -60,7 +60,7 @@
   ],
   "instructions": [
     "In a large pot, heat 2 tbsp olive oil over medium heat.",
-    "Add diced onion, minced garlic, and ginger; sauté until the onion is translucent, about 5 minutes — this is the bhuna stage.",
+    "Add diced onion, minced garlic, and ginger; saut\u00e9 until the onion is translucent, about 5 minutes \u2014 this is the bhuna stage.",
     "Whisk in tomato puree, cumin, coriander, paprika, turmeric, and cinnamon; cook for 2 minutes, stirring constantly.",
     "Add roasted peanuts, cooked chickpeas, and vegetable broth; bring to a gentle simmer and let flavors meld for 15 minutes.",
     "Stir in coconut milk and fresh spinach; simmer until the spinach wilts, about 5 minutes.",
@@ -85,5 +85,20 @@
     "mainIngredient": "peanuts",
     "descriptor": "Silky Herbal",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "syrian",
+    "lunch"
+  ]
 }

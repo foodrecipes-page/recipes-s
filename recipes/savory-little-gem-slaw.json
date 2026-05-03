@@ -1,7 +1,7 @@
 {
   "title": "Savory Little Gem Slaw",
   "description": "A unique and flavorful slaw combining the crunch of little gem lettuce with a touch of tanginess from citrus, complemented by smoky flavors from Mexican spices.",
-  "cuisine": "Mexican (Norteño)",
+  "cuisine": "Mexican (Norteno)",
   "diet": null,
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +65,7 @@
     "sour",
     "tender",
     "solo-dinner",
-    "mexican-norteño",
+    "mexican-norteno",
     "vegan-friendly"
   ],
   "nutrition": {
@@ -86,6 +86,11 @@
     "technique": "grill",
     "primaryIngredient": "little gem lettuce",
     "diet": "vegan",
-    "region": "norteño"
-  }
+    "region": "norte\u00f1o"
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

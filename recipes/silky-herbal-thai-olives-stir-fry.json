@@ -35,12 +35,12 @@
     {
       "name": "Coconut milk",
       "amount": "2 tbsp",
-      "notes": "full‑fat"
+      "notes": "full\u2011fat"
     },
     {
       "name": "Tamari sauce",
       "amount": "1 tbsp",
-      "notes": "low‑sodium"
+      "notes": "low\u2011sodium"
     },
     {
       "name": "Garlic",
@@ -69,15 +69,15 @@
     }
   ],
   "instructions": [
-    "Heat a wok or large skillet over medium‑high heat and add 1 tsp sesame oil.",
+    "Heat a wok or large skillet over medium\u2011high heat and add 1 tsp sesame oil.",
     "Add the cubed tofu and fry until golden on all sides, about 5 minutes; remove and set aside.",
     "In the same wok, add the minced garlic, grated ginger, and minced lemongrass; stir-fry for 30 seconds until fragrant.",
-    "Add the sliced bell pepper, julienned carrot, and snow peas; cook, stirring constantly, for 3 minutes until the vegetables are crisp‑tender.",
+    "Add the sliced bell pepper, julienned carrot, and snow peas; cook, stirring constantly, for 3 minutes until the vegetables are crisp\u2011tender.",
     "Return the tofu to the wok and stir in the sliced black olives.",
     "Pour in the coconut milk and tamari sauce, then add the torn kaffir lime leaves; bring to a gentle simmer and let the sauce thicken slightly, about 2 minutes.",
     "Taste and adjust seasoning with a splash of fresh lime juice if needed.",
     "Fold in the chopped Thai basil just before serving to preserve its aroma.",
-    "Serve the stir‑fry hot over steamed jasmine rice or cauliflower rice for a low‑carb option.",
+    "Serve the stir\u2011fry hot over steamed jasmine rice or cauliflower rice for a low\u2011carb option.",
     "Garnish with extra basil leaves if desired."
   ],
   "slug": "silky-herbal-thai-olives-stir-fry",
@@ -97,5 +97,20 @@
     "mainIngredient": "olives",
     "descriptor": "Silky Herbal",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "thai",
+    "lunch"
+  ]
 }

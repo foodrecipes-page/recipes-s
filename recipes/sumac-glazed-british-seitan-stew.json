@@ -1,6 +1,6 @@
 {
   "title": "Sumac Glazed British Seitan Stew",
-  "description": "A hearty, plant‑based twist on a classic British stew, finished with a bright sumac glaze that adds a tangy, midnight‑craving flavor.",
+  "description": "A hearty, plantbased twist on a classic British stew, finished with a bright sumac glaze that adds a tangy, midnightcraving flavor.",
   "cuisine": "British",
   "diet": [
     "vegan"
@@ -10,7 +10,7 @@
     {
       "name": "Seitan",
       "amount": "400g",
-      "notes": "cubes, gluten‑containing"
+      "notes": "cubes, gluten\u2011containing"
     },
     {
       "name": "Olive oil",
@@ -89,13 +89,13 @@
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add onion and garlic; sauté until translucent, about 3 minutes.",
+    "Add onion and garlic; saut\u00e9 until translucent, about 3 minutes.",
     "Add carrots and potatoes, cooking for 5 minutes while stirring.",
     "Stir in tomato paste, thyme, salt, and pepper; cook for 2 minutes.",
     "Add seitan and vegetable broth, bring to a gentle boil.",
     "Add bay leaf, reduce heat to low, cover, and simmer 20 minutes until vegetables are tender.",
     "Remove the bay leaf and stir in peas; simmer 5 more minutes.",
-    "In a small saucepan, whisk together sumac, maple syrup, soy sauce, lemon juice, and a splash of water; heat until thickened, about 3–4 minutes.",
+    "In a small saucepan, whisk together sumac, maple syrup, soy sauce, lemon juice, and a splash of water; heat until thickened, about 3\u20134 minutes.",
     "Pour the glaze into the stew and stir to coat; simmer 2 minutes.",
     "Serve hot, garnished with chopped parsley.",
     ""
@@ -117,5 +117,20 @@
     "mainIngredient": "Seitan",
     "descriptor": "Sumac Glazed",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "british",
+    "dinner"
+  ]
 }

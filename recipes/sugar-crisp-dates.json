@@ -23,7 +23,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 200°C (400°F).",
+    "Preheat your oven to 200\u00b0C (400\u00b0F).",
     "Soften the dates in a small bowl with a little warm water until they are pliable.",
     "Spread the softened dates out on a baking sheet lined with parchment paper.",
     "In a separate small bowl, mix together dark brown sugar and coconut oil to form a crumbly mixture.",
@@ -43,9 +43,9 @@
   ],
   "nutrition": {
     "calories": 389,
-    "protein": 1.7,
-    "carbs": 56.2,
-    "fat": 20.4
+    "protein": 2,
+    "carbs": 56,
+    "fat": 20
   },
   "slug": "sugar-crisp-dates",
   "source": "ollama-qwen2.5:3b",

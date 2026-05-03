@@ -1,6 +1,6 @@
 {
   "title": "Spicy Crunchy Kenyan Bryndza Fritters",
-  "description": "A crowd‑pleasing, spicy and crunchy Kenyan snack that blends creamy bryndza cheese with aromatic spices, perfect for vegetarian gatherings.",
+  "description": "A crowdpleasing, spicy and crunchy Kenyan snack that blends creamy bryndza cheese with aromatic spices, perfect for vegetarian gatherings.",
   "cuisine": "Kenyan",
   "diet": [
     "vegetarian"
@@ -10,10 +10,10 @@
     {
       "name": "Bryndza cheese",
       "amount": "200 g",
-      "notes": "cracked into bite‑size pieces"
+      "notes": "cracked into bite\u2011size pieces"
     },
     {
-      "name": "All‑purpose flour",
+      "name": "All\u2011purpose flour",
       "amount": "150 g"
     },
     {
@@ -61,8 +61,8 @@
     "In a large bowl, whisk together flour, baking powder, cumin, coriander, chili powder, salt and black pepper.",
     "Add minced garlic, chopped onion, cilantro and bryndza cheese to the dry mixture, gently folding until everything is evenly coated and a thick batter forms.",
     "Heat olive oil in a large skillet over medium heat until shimmering but not smoking.",
-    "Drop spoonfuls of batter into the hot oil, flattening slightly with the back of a spoon; cook 2–3 minutes per side until golden brown and crispy.",
-    "Transfer fried fritters to a paper‑towel‑lined plate to drain excess oil.",
+    "Drop spoonfuls of batter into the hot oil, flattening slightly with the back of a spoon; cook 2\u20133 minutes per side until golden brown and crispy.",
+    "Transfer fried fritters to a paper\u2011towel\u2011lined plate to drain excess oil.",
     "Serve hot with a side of cool cucumber raita or a tangy tomato salsa.",
     "If desired, sprinkle a pinch of extra chili flakes for added heat before serving."
   ],
@@ -83,5 +83,20 @@
     "mainIngredient": "bryndza",
     "descriptor": "Spicy Crunchy",
     "dishForm": "Fritters"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "kenyan",
+    "snack"
+  ]
 }

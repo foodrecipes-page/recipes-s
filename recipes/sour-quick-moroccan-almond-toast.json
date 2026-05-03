@@ -24,7 +24,7 @@
     },
     {
       "name": "almond extract",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": ""
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "name": "lemon zest",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": ""
     },
     {
@@ -44,17 +44,17 @@
     },
     {
       "name": "ground cumin",
-      "amount": "¼ tsp",
+      "amount": "\u00bc tsp",
       "notes": ""
     },
     {
       "name": "ground coriander",
-      "amount": "¼ tsp",
+      "amount": "\u00bc tsp",
       "notes": ""
     },
     {
       "name": "smoked paprika",
-      "amount": "¼ tsp",
+      "amount": "\u00bc tsp",
       "notes": ""
     },
     {
@@ -76,7 +76,7 @@
   "instructions": [
     "Heat a small skillet over medium heat and add 1 tsp olive oil.",
     "Place the whole-grain bread slices in the skillet, toasting each side until golden and crisp, about 2 minutes per side.",
-    "In a small bowl, whisk together 2 tbsp unsweetened almond milk, ½ tsp almond extract, 1 tsp fresh lemon juice, ½ tsp lemon zest, 1 tsp maple syrup, ¼ tsp ground cumin, ¼ tsp ground coriander, ¼ tsp smoked paprika, a pinch of salt, and a pinch of black pepper.",
+    "In a small bowl, whisk together 2 tbsp unsweetened almond milk, \u00bd tsp almond extract, 1 tsp fresh lemon juice, \u00bd tsp lemon zest, 1 tsp maple syrup, \u00bc tsp ground cumin, \u00bc tsp ground coriander, \u00bc tsp smoked paprika, a pinch of salt, and a pinch of black pepper.",
     "Spread the almond-lemon mixture evenly over the warm toasted bread slices.",
     "Sprinkle chopped fresh parsley over the top and serve immediately.",
     "Optional: drizzle a few drops of extra virgin olive oil over the final garnish for added depth."
@@ -98,5 +98,20 @@
     "mainIngredient": "almonds",
     "descriptor": "Sour Quick",
     "dishForm": "Toast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "moroccan",
+    "breakfast"
+  ]
 }

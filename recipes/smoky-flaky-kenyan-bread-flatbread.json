@@ -12,12 +12,12 @@
     {
       "name": "bread flour",
       "amount": "250 g",
-      "notes": "high‑protein for better gluten development"
+      "notes": "high\u2011protein for better gluten development"
     },
     {
       "name": "gluten-free oat flour",
       "amount": "50 g",
-      "notes": "helps make the flatbread gluten‑free friendly"
+      "notes": "helps make the flatbread gluten\u2011free friendly"
     },
     {
       "name": "salt",
@@ -51,9 +51,9 @@
     "Add the warm water and 1 tablespoon of olive oil; stir until a sticky dough forms.",
     "Transfer the dough onto a floured surface and knead for about 8 minutes until smooth and elastic.",
     "Place the dough back in the bowl, cover with a damp cloth, and let it rise in a warm place for 1.5 hours or until doubled in size.",
-    "Punch down the dough and divide it into four equal portions. Roll each portion into a 1‑mm thick circle using a rolling pin, dusting lightly with flour as needed.",
-    "Heat a tandoor or a very hot cast‑iron skillet over medium‑high heat. Brush a little olive oil onto the surface.",
-    "Place one flatbread in the tandoor; cook for 2–3 minutes until bubbles form, then flip and cook the other side for another 2–3 minutes, letting the edges blister slightly.",
+    "Punch down the dough and divide it into four equal portions. Roll each portion into a 1\u2011mm thick circle using a rolling pin, dusting lightly with flour as needed.",
+    "Heat a tandoor or a very hot cast\u2011iron skillet over medium\u2011high heat. Brush a little olive oil onto the surface.",
+    "Place one flatbread in the tandoor; cook for 2\u20133 minutes until bubbles form, then flip and cook the other side for another 2\u20133 minutes, letting the edges blister slightly.",
     "Repeat with the remaining flatbreads, brushing each with a thin layer of olive oil before placing in the tandoor.",
     "Remove the flatbreads, let them cool on a wire rack for a minute, then serve hot, optionally dusted with a pinch of smoked paprika for extra flavor."
   ],
@@ -74,5 +74,20 @@
     "mainIngredient": "bread",
     "descriptor": "Smoky Flaky",
     "dishForm": "Flatbread"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "kenyan",
+    "snack"
+  ]
 }

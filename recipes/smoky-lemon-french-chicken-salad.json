@@ -66,9 +66,9 @@
     }
   ],
   "instructions": [
-    "Preheat a grill or grill pan to medium‑high heat.",
+    "Preheat a grill or grill pan to medium\u2011high heat.",
     "In a small bowl mix olive oil, smoked paprika, salt, pepper, and lemon zest; rub onto chicken breasts.",
-    "Place chicken on the grill and cook 6‑7 minutes per side, or until internal temperature reaches 165°F (74°C). Add a splash of lemon juice during the last minute of cooking for extra brightness.",
+    "Place chicken on the grill and cook 6\u20117 minutes per side, or until internal temperature reaches 165\u00b0F (74\u00b0C). Add a splash of lemon juice during the last minute of cooking for extra brightness.",
     "Let the chicken rest for 5 minutes, then slice into strips.",
     "In a large bowl combine salad greens, radishes, red onion, toasted walnuts, and crumbled goat cheese.",
     "Add the sliced chicken on top of the greens.",
@@ -92,5 +92,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Smoky Lemon",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "french-inspired",
+    "lunch"
+  ]
 }

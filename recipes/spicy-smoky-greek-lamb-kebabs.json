@@ -86,5 +86,20 @@
     "mainIngredient": "Lamb",
     "descriptor": "Spicy Smoky",
     "dishForm": "Kebabs"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "dinner"
+  ]
 }

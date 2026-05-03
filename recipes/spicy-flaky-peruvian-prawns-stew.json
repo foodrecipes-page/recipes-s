@@ -1,6 +1,6 @@
 {
   "title": "Spicy Flaky Peruvian Prawns Stew",
-  "description": "A comforting, low‑calorie Peruvian stew that turns raw tiger prawns into silky flakes of flavor, spiced with ají amarillo and cumin, all pressure‑cooked to lock in freshness.",
+  "description": "A comforting, lowcalorie Peruvian stew that turns raw tiger prawns into silky flakes of flavor, spiced with aji amarillo and cumin, all pressurecooked to lock in freshness.",
   "cuisine": "Peruvian",
   "diet": [
     "low-calorie",
@@ -17,7 +17,7 @@
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "garlic, minced",
@@ -25,10 +25,10 @@
     },
     {
       "name": "white onion, diced",
-      "amount": "1 medium (≈150 g)"
+      "amount": "1 medium (\u2248150 g)"
     },
     {
-      "name": "ají amarillo paste",
+      "name": "aj\u00ed amarillo paste",
       "amount": "1 tbsp"
     },
     {
@@ -42,10 +42,10 @@
     {
       "name": "light coconut milk",
       "amount": "1 cup (240 ml)",
-      "notes": "low‑fat"
+      "notes": "low\u2011fat"
     },
     {
-      "name": "low‑sodium fish broth",
+      "name": "low\u2011sodium fish broth",
       "amount": "1 cup (240 ml)",
       "notes": "or vegetable broth"
     },
@@ -62,13 +62,13 @@
   ],
   "instructions": [
     "Rinse the raw tiger prawns and pat them dry; set aside.",
-    "Heat the olive oil in the pressure‑cook pot over medium heat and sauté the onion until translucent, about 3 minutes.",
+    "Heat the olive oil in the pressure\u2011cook pot over medium heat and saut\u00e9 the onion until translucent, about 3 minutes.",
     "Add the garlic and cook for another 30 seconds.",
-    "Stir in the ají amarillo paste, cumin and smoked paprika, cooking for 1 minute until fragrant.",
+    "Stir in the aj\u00ed amarillo paste, cumin and smoked paprika, cooking for 1 minute until fragrant.",
     "Pour in the fish broth and bring the mixture to a simmer.",
     "Add the prawn shells (optional) and cover with the coconut milk; stir well.",
-    "Seal the pressure‑cook pot and cook on high pressure for 10 minutes.",
-    "Quick‑release the pressure, open the pot, and stir in the fresh prawns; cook on sauté mode for 2‑3 minutes until they turn pink and flaky.",
+    "Seal the pressure\u2011cook pot and cook on high pressure for 10 minutes.",
+    "Quick\u2011release the pressure, open the pot, and stir in the fresh prawns; cook on saut\u00e9 mode for 2\u20113 minutes until they turn pink and flaky.",
     "Finish with lime juice, season with salt to taste, and serve hot.",
     "Optionally garnish with chopped cilantro or sliced avocado for extra flavor.",
     ""
@@ -90,5 +90,20 @@
     "mainIngredient": "prawns",
     "descriptor": "Spicy Flaky",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "peruvian",
+    "dinner"
+  ]
 }

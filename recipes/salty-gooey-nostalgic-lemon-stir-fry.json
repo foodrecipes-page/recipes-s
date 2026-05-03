@@ -50,7 +50,7 @@
   ],
   "instructions": [
     "In a wok or large skillet, heat the olive oil over medium-high heat.",
-    "Add minced garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Add minced garlic and saut\u00e9 for about 30 seconds until fragrant but not browned.",
     "Toss in the julienned cucumber and bell peppers; cook for another minute.",
     "Stir in the lemon juice and zest, cumin, and salt. Pour in the dry white wine and let it simmer to reduce slightly.",
     "Once reduced, add a splash of water if needed to prevent burning and continue cooking until most liquid is evaporated.",
@@ -74,5 +74,20 @@
     "mainIngredient": "lemon",
     "descriptor": "Salty-Gooey-Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "egyptian",
+    "lunch"
+  ]
 }

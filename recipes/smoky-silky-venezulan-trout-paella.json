@@ -91,7 +91,7 @@
     "smoky",
     "silky",
     "venezulan",
-    "latin american",
+    "latin-american",
     "mediterranean",
     "paella",
     "fish",
@@ -101,9 +101,9 @@
   ],
   "nutrition": {
     "calories": 540,
-    "protein": "34g",
-    "carbs": "45g",
-    "fat": "24g"
+    "protein": 34,
+    "carbs": 45,
+    "fat": 24
   },
   "slug": "smoky-silky-venezulan-trout-paella",
   "source": "groq-llama-3.1-8b-instant",

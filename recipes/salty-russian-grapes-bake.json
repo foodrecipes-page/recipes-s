@@ -40,7 +40,7 @@
     "In a small bowl, mix honey, cinnamon, and salt until combined.",
     "Toss grapes gently in the honey-cinnamon-salt mixture until evenly coated.",
     "Spread grapes in a single layer on a baking sheet lined with parchment paper.",
-    "Bake at 325°F (163°C) for 12-15 minutes, or until skins are crisp and golden.",
+    "Bake at 325\u00b0F (163\u00b0C) for 12-15 minutes, or until skins are crisp and golden.",
     "Remove from oven and let cool for 5 minutes before serving."
   ],
   "prepTimeMin": 5,
@@ -81,5 +81,6 @@
     "mainIngredient": "grapes",
     "descriptor": "Salty",
     "dishForm": "Bake"
-  }
+  },
+  "cookTimeMin": 25
 }

@@ -67,7 +67,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Cook macaroni according to package instructions. Drain and set aside.",
     "In a large skillet, heat olive oil over medium-high heat. Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
     "Add the onion and garlic to the skillet and cook until the onion is translucent.",
@@ -95,9 +95,9 @@
   ],
   "nutrition": {
     "calories": 550,
-    "protein": "35g",
-    "carbs": "50g",
-    "fat": "30g"
+    "protein": 35,
+    "carbs": 50,
+    "fat": 30
   },
   "slug": "spicy-light-syrian-macaroni-bake",
   "source": "groq-llama-3.1-8b-instant",

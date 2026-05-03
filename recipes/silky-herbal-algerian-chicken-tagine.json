@@ -1,6 +1,6 @@
 {
   "title": "Silky Herbal Algerian Chicken Tagine",
-  "description": "A fragrant, low‑fat chicken tagine with a silky sauce, infused with ground cinnamon and fresh herbs, cooked sous‑vide for a tender, crowd‑pleasing bite.",
+  "description": "A fragrant, lowfat chicken tagine with a silky sauce, infused with ground cinnamon and fresh herbs, cooked sousvide for a tender, crowdpleasing bite.",
   "cuisine": "Algerian",
   "diet": [
     "low-fat",
@@ -49,7 +49,7 @@
       "amount": "2 tbsp"
     },
     {
-      "name": "low‑sodium chicken broth",
+      "name": "low\u2011sodium chicken broth",
       "amount": "250 ml"
     },
     {
@@ -69,23 +69,23 @@
       "amount": "to taste"
     },
     {
-      "name": "vacuum‑seal bag",
+      "name": "vacuum\u2011seal bag",
       "amount": "1",
-      "notes": "for sous‑vide"
+      "notes": "for sous\u2011vide"
     }
   ],
   "instructions": [
-    "Preheat your sous‑vide circulator to 65 °C (149 °F).",
+    "Preheat your sous\u2011vide circulator to 65\u202f\u00b0C (149\u202f\u00b0F).",
     "Season the chicken breasts with salt, pepper, ground cinnamon, cumin, coriander, paprika, and ginger.",
-    "Lay the sliced onion and minced garlic in the bottom of a vacuum‑seal bag, then place the seasoned chicken on top.",
+    "Lay the sliced onion and minced garlic in the bottom of a vacuum\u2011seal bag, then place the seasoned chicken on top.",
     "Add the lemon juice, a splash of chicken broth, and drizzle with olive oil. Seal the bag using a vacuum sealer.",
-    "Submerge the sealed bag into the preheated water bath and cook for 90 minutes.",
-    "After the sous‑vide, remove the bag and pat the chicken dry with paper towels. Heat a non‑stick skillet over medium‑high heat and sear the chicken for 2–3 minutes per side until golden.",
-    "Transfer the seared chicken to a shallow pan, pour a little of the cooking liquid left in the bag, and simmer gently for 5 minutes to develop sauce.",
+    "Submerge the sealed bag into the preheated water bath and cook for 90\u202fminutes.",
+    "After the sous\u2011vide, remove the bag and pat the chicken dry with paper towels. Heat a non\u2011stick skillet over medium\u2011high heat and sear the chicken for 2\u20133\u202fminutes per side until golden.",
+    "Transfer the seared chicken to a shallow pan, pour a little of the cooking liquid left in the bag, and simmer gently for 5\u202fminutes to develop sauce.",
     "Stir in chopped cilantro and parsley, adjust seasoning with extra salt or pepper if needed.",
     "Serve the silky chicken and sauce over a bed of couscous, rice, or flatbread if desired.",
     "Garnish with extra fresh herbs and a squeeze of lemon.",
-    "Enjoy a fragrant, low‑fat tagine that’s perfect for crowd‑pleasing gatherings."
+    "Enjoy a fragrant, low\u2011fat tagine that\u2019s perfect for crowd\u2011pleasing gatherings."
   ],
   "slug": "silky-herbal-algerian-chicken-tagine",
   "source": "ocloud-gpt-oss:20b",
@@ -104,5 +104,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Silky Herbal",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "algerian",
+    "dinner"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Smoky Crumbly Slovakian Pork Casserole",
-  "description": "A heart‑warming casserole that blends smoky Slovakian pork with Jamaican curry powder, pickled cabbage, and a crispy breadcrumb topping for a crumbly finish.",
+  "description": "A heartwarming casserole that blends smoky Slovakian pork with Jamaican curry powder, pickled cabbage, and a crispy breadcrumb topping for a crumbly finish.",
   "cuisine": "Slovakian",
   "diet": null,
   "meal": "dinner",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Breadcrumbs",
@@ -55,15 +55,15 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 180 °C (350 °F).",
-    "Heat olive oil in a large skillet over medium heat and sauté onions until translucent, about 5 minutes.",
+    "Preheat the oven to 180\u202f\u00b0C (350\u202f\u00b0F).",
+    "Heat olive oil in a large skillet over medium heat and saut\u00e9 onions until translucent, about 5 minutes.",
     "Add garlic and cook for 1 more minute until fragrant.",
     "Add diced pork to the skillet and brown on all sides, about 8 minutes.",
     "Stir in smoked paprika, Jamaican curry powder, salt, pepper, and tomato paste; cook for 2 minutes to meld flavors.",
     "Pour in beef broth and add pickled cabbage, stirring well. Reduce heat and simmer uncovered for 10 minutes to thicken the sauce slightly.",
     "Transfer the mixture to a greased baking dish and spread evenly.",
     "Sprinkle breadcrumbs evenly over the top.",
-    "Bake in the preheated oven for 35–40 minutes, or until the breadcrumbs are golden brown and the pork is cooked through.",
+    "Bake in the preheated oven for 35\u201340 minutes, or until the breadcrumbs are golden brown and the pork is cooked through.",
     "Remove from oven and let rest for 5 minutes before serving."
   ],
   "slug": "smoky-crumbly-slovakian-pork-casserole",
@@ -83,5 +83,20 @@
     "mainIngredient": "Pork",
     "descriptor": "Smoky Crumbly",
     "dishForm": "Casserole"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "slovakian",
+    "dinner"
+  ]
 }

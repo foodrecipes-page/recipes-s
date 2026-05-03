@@ -1,6 +1,6 @@
 {
   "title": "Spicy Juicy Egyptian Oatmeal Fritters",
-  "description": "Crispy, flavorful oat fritters with a zesty Egyptian kick, perfect for a low‑calorie, air‑fry breakfast or snack.",
+  "description": "Crispy, flavorful oat fritters with a zesty Egyptian kick, perfect for a lowcalorie, airfry breakfast or snack.",
   "cuisine": "Egyptian",
   "diet": [
     "low-calorie",
@@ -63,11 +63,11 @@
     "In a medium bowl combine the rolled oats, cumin, cayenne, and a pinch of salt.",
     "Add the beaten egg, diced cucumber, chopped tomato, lentils, and lemon juice; mix until the mixture is moist and holds together.",
     "Fold in the chopped parsley.",
-    "Heat the air fryer to 375°F (190°C).",
+    "Heat the air fryer to 375\u00b0F (190\u00b0C).",
     "Lightly brush or spray the basket with olive oil to prevent sticking.",
-    "Drop tablespoon‑sized spoonfuls of the batter into the basket, spacing them about 1.5 inches apart.",
+    "Drop tablespoon\u2011sized spoonfuls of the batter into the basket, spacing them about 1.5 inches apart.",
     "Air fry for 8 minutes, flipping halfway through, until the fritters are golden and crisp.",
-    "Cool for a minute before removing; serve warm with a squeeze of lemon or a dollop of low‑fat yogurt.",
+    "Cool for a minute before removing; serve warm with a squeeze of lemon or a dollop of low\u2011fat yogurt.",
     "Repeat with remaining batter, adding a little oil as needed to maintain spacing."
   ],
   "slug": "spicy-juicy-egyptian-oatmeal-fritters",
@@ -87,5 +87,20 @@
     "mainIngredient": "oatmeal",
     "descriptor": "Spicy Juicy",
     "dishForm": "Fritters"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "egyptian",
+    "breakfast"
+  ]
 }

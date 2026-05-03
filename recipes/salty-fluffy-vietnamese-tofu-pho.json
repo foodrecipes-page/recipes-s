@@ -1,6 +1,6 @@
 {
   "title": "Salty Fluffy Vietnamese Tofu Pho",
-  "description": "A brunch‑friendly, diabetic‑friendly tofu pho that’s salty, fluffy, and packed with bean sprouts, sautéed bhuna tofu, and a light broth.",
+  "description": "A brunchfriendly, diabeticfriendly tofu pho thats salty, fluffy, and packed with bean sprouts, sauteed bhuna tofu, and a light broth.",
   "cuisine": "Vietnamese",
   "diet": [
     "vegetarian",
@@ -64,10 +64,10 @@
   ],
   "instructions": [
     "Press tofu to remove excess moisture, then cut into cubes.",
-    "Heat 1 tbsp sesame oil in a skillet over medium heat. Add tofu cubes and sprinkle the bhuna spice mix; sauté until tofu is golden and coated, about 8–10 minutes. Remove tofu and set aside.",
-    "Bring 4 cups water to a boil and cook rice noodles for 3–4 minutes until al dente. Drain and set aside.",
+    "Heat 1 tbsp sesame oil in a skillet over medium heat. Add tofu cubes and sprinkle the bhuna spice mix; saut\u00e9 until tofu is golden and coated, about 8\u201310 minutes. Remove tofu and set aside.",
+    "Bring 4 cups water to a boil and cook rice noodles for 3\u20134 minutes until al dente. Drain and set aside.",
     "In a pot, combine 4 cups water, soy sauce, salt, and pepper. Bring to a gentle simmer.",
-    "In serving bowls, layer cooked noodles, bean sprouts, sautéed bhuna tofu, sliced scallions, and cilantro.",
+    "In serving bowls, layer cooked noodles, bean sprouts, saut\u00e9ed bhuna tofu, sliced scallions, and cilantro.",
     "Pour the hot broth over the ingredients.",
     "Squeeze lime over the bowl, add extra chili flakes if desired, and serve immediately."
   ],
@@ -88,5 +88,20 @@
     "mainIngredient": "tofu",
     "descriptor": "Salty Fluffy",
     "dishForm": "Pho"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "vietnamese",
+    "breakfast"
+  ]
 }

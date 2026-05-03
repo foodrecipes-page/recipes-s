@@ -3,7 +3,7 @@
   "description": "A kid-friendly Norwegian dish featuring sweet peppadew peppers that are sweet and flaky when cooked.",
   "cuisine": "Norwegian",
   "diet": null,
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Sweet Peppadew Peppers",
@@ -23,7 +23,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375°F (190°C).",
+    "Preheat your oven to 375\u00b0F (190\u00b0C).",
     "Heat the olive oil in a skillet over medium heat.",
     "Add the sweet peppadew peppers and cook for about 2-3 minutes, until they start to soften slightly.",
     "Remove from heat and sprinkle with salt and pepper. Serve hot as an appetizer or snack.",
@@ -62,5 +62,10 @@
     "mainIngredient": "pepper",
     "descriptor": "Sweet Crispy",
     "dishForm": "Crumble"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

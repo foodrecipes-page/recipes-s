@@ -1,6 +1,6 @@
 {
   "title": "Smoky Juicy Russian Salmon Burger",
-  "description": "A kid‑friendly, smoky‑flavored salmon burger served on sesame seed buns, topped with a creamy dill yogurt sauce for a juicy bite.",
+  "description": "A kidfriendly, smokyflavored salmon burger served on sesame seed buns, topped with a creamy dill yogurt sauce for a juicy bite.",
   "cuisine": "Russian",
   "diet": [
     "pescatarian"
@@ -30,7 +30,7 @@
     {
       "name": "Greek yogurt",
       "amount": "50g",
-      "notes": "plain, full‑fat"
+      "notes": "plain, full\u2011fat"
     },
     {
       "name": "dill, fresh or dried",
@@ -74,17 +74,17 @@
     }
   ],
   "instructions": [
-    "Preheat grill or grill pan to medium‑high heat (about 200 °C).",
-    "Pat salmon dry and season with smoked paprika, salt, pepper, and lemon zest; let rest 5 min.",
+    "Preheat grill or grill pan to medium\u2011high heat (about 200\u202f\u00b0C).",
+    "Pat salmon dry and season with smoked paprika, salt, pepper, and lemon zest; let rest 5\u202fmin.",
     "In a bowl whisk together Greek yogurt, dill, garlic, capers, lemon juice, honey, salt, and pepper to make the sauce.",
-    "Brush salmon with olive oil and grill each side 3‑4 min until the internal temp reaches 63 °C and the fish flakes easily.",
+    "Brush salmon with olive oil and grill each side 3\u20114\u202fmin until the internal temp reaches 63\u202f\u00b0C and the fish flakes easily.",
     "While salmon cooks, toast the sesame seed buns lightly on the grill until golden.",
-    "Remove salmon from grill, let rest 2 min, then slice into 4 even portions.",
+    "Remove salmon from grill, let rest 2\u202fmin, then slice into 4 even portions.",
     "Spread dill yogurt sauce on the bottom half of each bun.",
     "Place a salmon patty on top of the sauce and add a thin cucumber slice or a few salad leaves for crunch (optional).",
     "Top with the other half of the bun.",
     "Serve immediately with a side of pickled cucumber or Russian coleslaw.",
-    "Optional: drizzle a little smoked‑paprika‑infused olive oil over the burgers for extra smoky flavor."
+    "Optional: drizzle a little smoked\u2011paprika\u2011infused olive oil over the burgers for extra smoky flavor."
   ],
   "slug": "smoky-juicy-russian-salmon-burger",
   "source": "ocloud-gpt-oss:20b",
@@ -103,5 +103,20 @@
     "mainIngredient": "Salmon",
     "descriptor": "Smoky Juicy",
     "dishForm": "Burger"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "russian",
+    "lunch"
+  ]
 }

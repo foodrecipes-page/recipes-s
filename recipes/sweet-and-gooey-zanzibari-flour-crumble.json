@@ -31,7 +31,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "In a large mixing bowl, combine the Plain Flour and Sugar. Mix well.",
     "Add melted Coconut Oil and beaten Eggs into the Dry mixture. Stir until well combined. Add Vanilla Extract for flavoring.",
     "Gradually add Baking Powder to the mixture while stirring continuously until it forms a dough-like consistency.",
@@ -54,9 +54,9 @@
   ],
   "nutrition": {
     "calories": 523,
-    "protein": 9.7,
-    "carbs": 74.6,
-    "fat": 18.1
+    "protein": 10,
+    "carbs": 75,
+    "fat": 18
   },
   "slug": "sweet-and-gooey-zanzibari-flour-crumble",
   "source": "ollama-qwen2.5:3b",

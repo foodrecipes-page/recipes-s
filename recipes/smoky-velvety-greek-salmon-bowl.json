@@ -54,7 +54,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
+    "Preheat oven to 400\u00b0F (200\u00b0C).",
     "Pat salmon dry and rub with olive oil, smoked paprika, liquid smoke, salt, and pepper.",
     "Place salmon on a baking sheet and bake for 12-15 minutes, until flaky and lightly charred.",
     "While salmon bakes, whisk Greek yogurt with lemon juice, dill, and a pinch of salt until smooth.",
@@ -81,5 +81,20 @@
     "mainIngredient": "salmon",
     "descriptor": "Smoky Velvety",
     "dishForm": "Bowl"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "dinner"
+  ]
 }

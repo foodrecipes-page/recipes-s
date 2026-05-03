@@ -7,81 +7,81 @@
   "ingredients": [
     {
       "name": "Eggplant",
-      "amount": "2 medium (≈500 g)",
+      "amount": "2 medium (\u2248500\u202fg)",
       "notes": ""
     },
     {
       "name": "Coconut oil",
-      "amount": "2 Tbsp (for roasting)",
+      "amount": "2\u202fTbsp (for roasting)",
       "notes": ""
     },
     {
       "name": "Smoked sea salt",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     },
     {
       "name": "Smoked paprika",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": ""
     },
     {
       "name": "Rolled oats",
-      "amount": "¾ cup",
+      "amount": "\u00be\u202fcup",
       "notes": ""
     },
     {
       "name": "Coconut flour",
-      "amount": "½ cup",
+      "amount": "\u00bd\u202fcup",
       "notes": ""
     },
     {
       "name": "Coconut sugar",
-      "amount": "¼ cup",
+      "amount": "\u00bc\u202fcup",
       "notes": ""
     },
     {
       "name": "Macadamia nuts",
-      "amount": "¼ cup, chopped",
+      "amount": "\u00bc\u202fcup, chopped",
       "notes": ""
     },
     {
       "name": "Coconut oil",
-      "amount": "1 Tbsp (melted, for crumble)",
+      "amount": "1\u202fTbsp (melted, for crumble)",
       "notes": ""
     },
     {
       "name": "Vanilla extract",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": ""
     },
     {
       "name": "Lemon zest",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": ""
     },
     {
       "name": "Smoked maple syrup",
-      "amount": "2 Tbsp",
+      "amount": "2\u202fTbsp",
       "notes": "If using regular maple syrup, add a few drops of liquid smoke"
     },
     {
       "name": "Ground cinnamon",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 200 °C (400 °F).",
-    "Cut eggplant into ½‑inch thick slices and drizzle with coconut oil, then sprinkle smoked sea salt and smoked paprika; toss to coat.",
-    "Arrange the slices on a baking sheet and roast for 25–30 min, turning once, until soft and caramelized.",
+    "Preheat oven to 200\u202f\u00b0C (400\u202f\u00b0F).",
+    "Cut eggplant into \u00bd\u2011inch thick slices and drizzle with coconut oil, then sprinkle smoked sea salt and smoked paprika; toss to coat.",
+    "Arrange the slices on a baking sheet and roast for 25\u201330\u202fmin, turning once, until soft and caramelized.",
     "While the eggplant roasts, combine rolled oats, coconut flour, coconut sugar, chopped macadamia nuts, and ground cinnamon in a bowl.",
     "Add melted coconut oil and vanilla extract to the dry mixture; stir until it resembles wet sand.",
-    "Spread the crumble mixture evenly on a parchment‑lined baking sheet.",
-    "Bake the crumble at 180 °C (350 °F) for 12–15 min until golden, removing just before it burns.",
+    "Spread the crumble mixture evenly on a parchment\u2011lined baking sheet.",
+    "Bake the crumble at 180\u202f\u00b0C (350\u202f\u00b0F) for 12\u201315\u202fmin until golden, removing just before it burns.",
     "Remove the roasted eggplant from the oven and let cool slightly.",
     "Whisk smoked maple syrup with a pinch of smoked sea salt (and liquid smoke if using regular maple syrup).",
-    "Slice the roasted eggplant into bite‑sized pieces and arrange on serving plates.",
+    "Slice the roasted eggplant into bite\u2011sized pieces and arrange on serving plates.",
     "Drizzle each plate with the smoky syrup and sprinkle with lemon zest.",
     "Top each plate with a handful of the warm crumble and serve immediately."
   ],
@@ -102,5 +102,20 @@
     "mainIngredient": "eggplant",
     "descriptor": "Smoky Sweet",
     "dishForm": "Crumble"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "dessert"
+  ]
 }

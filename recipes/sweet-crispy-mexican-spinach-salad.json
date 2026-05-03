@@ -1,6 +1,6 @@
 {
   "title": "Sweet Crispy Mexican Spinach Salad",
-  "description": "A light, Whole30-friendly salad featuring blanched spinach, roasted poblano, fresh mango, and a zesty lime‑cilantro dressing.",
+  "description": "A light, Whole30-friendly salad featuring blanched spinach, roasted poblano, fresh mango, and a zesty limecilantro dressing.",
   "cuisine": "Mexican",
   "diet": [
     "whole30"
@@ -20,7 +20,7 @@
     {
       "name": "avocado oil",
       "amount": "1 tbsp",
-      "notes": "for sautéing and dressing"
+      "notes": "for saut\u00e9ing and dressing"
     },
     {
       "name": "fresh lime juice",
@@ -54,13 +54,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 425°F (220°C).",
-    "Blanch spinach: bring a pot of salted water to a boil, add spinach, cook 1‑2 minutes until wilted, drain and immediately transfer to an ice bath to stop cooking.",
-    "Pat spinach dry and transfer to a baking sheet, drizzle with avocado oil, season with a pinch of salt, and roast for 8‑10 minutes until edges are crisp.",
-    "While spinach roasts, heat a small skillet over medium heat, add a splash of avocado oil, and sauté diced poblano until softened and slightly charred, about 5 minutes.",
+    "Preheat oven to 425\u00b0F (220\u00b0C).",
+    "Blanch spinach: bring a pot of salted water to a boil, add spinach, cook 1\u20112 minutes until wilted, drain and immediately transfer to an ice bath to stop cooking.",
+    "Pat spinach dry and transfer to a baking sheet, drizzle with avocado oil, season with a pinch of salt, and roast for 8\u201110 minutes until edges are crisp.",
+    "While spinach roasts, heat a small skillet over medium heat, add a splash of avocado oil, and saut\u00e9 diced poblano until softened and slightly charred, about 5 minutes.",
     "In a small bowl, whisk together lime juice, chopped cilantro, minced garlic, grated ginger, and a pinch of salt to make the dressing.",
     "Once spinach is crisp, toss with the avocado oil, then add roasted poblano, diced mango, and toasted pepitas.",
-    "Drizzle the lime‑cilantro dressing over the mixture, toss gently to combine, and serve immediately."
+    "Drizzle the lime\u2011cilantro dressing over the mixture, toss gently to combine, and serve immediately."
   ],
   "slug": "sweet-crispy-mexican-spinach-salad",
   "source": "ocloud-gpt-oss:20b",
@@ -79,5 +79,20 @@
     "mainIngredient": "Spinach",
     "descriptor": "Sweet Crispy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "lunch"
+  ]
 }

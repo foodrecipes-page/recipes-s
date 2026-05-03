@@ -1,6 +1,6 @@
 {
   "title": "Sweet Light Slovakian Lettuce Salad",
-  "description": "A bright, lightly steamed baby lettuce salad with sweet apple, toasted almonds, and a honey‑mustard dressing that showcases Slovakian flavors in a fresh, dash‑friendly dish.",
+  "description": "A bright, lightly steamed baby lettuce salad with sweet apple, toasted almonds, and a honeymustard dressing that showcases Slovakian flavors in a fresh, dashfriendly dish.",
   "cuisine": "Slovakian",
   "diet": null,
   "meal": "lunch",
@@ -61,7 +61,7 @@
   "instructions": [
     "Rinse baby lettuce leaves under cold water and pat dry.",
     "Steam the lettuce over boiling water for 1 minute, then plunge into ice water to stop cooking and drain well.",
-    "Toast the almonds in a dry skillet over medium heat until fragrant and lightly browned, about 3–4 minutes; set aside to cool.",
+    "Toast the almonds in a dry skillet over medium heat until fragrant and lightly browned, about 3\u20134 minutes; set aside to cool.",
     "In a large bowl, combine the steamed lettuce, diced apple, dried cranberries, toasted almonds, and crumbled feta.",
     "Whisk together honey, apple cider vinegar, Dijon mustard, olive oil, smoked paprika, salt, and pepper until the dressing is smooth and emulsified.",
     "Pour the dressing over the salad and toss gently until all ingredients are evenly coated.",
@@ -84,5 +84,20 @@
     "mainIngredient": "lettuce",
     "descriptor": "Sweet Light",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "slovakian",
+    "lunch"
+  ]
 }

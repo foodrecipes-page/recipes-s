@@ -1,6 +1,6 @@
 {
   "title": "Silky British Cranberry Soup",
-  "description": "A floral, silky, comforting British dish featuring cranberry juice, simmer, sugar‑free‑friendly.",
+  "description": "A floral, silky, comforting British dish featuring cranberry juice, simmer, sugarfreefriendly.",
   "cuisine": "British",
   "diet": [
     "sugar-free",
@@ -61,7 +61,7 @@
   ],
   "instructions": [
     "Heat olive oil in a medium saucepan over medium heat.",
-    "Add onion, celery and apple; sauté until softened, about 5 minutes.",
+    "Add onion, celery and apple; saut\u00e9 until softened, about 5 minutes.",
     "Stir in cranberries and cook until they begin to burst, about 2 minutes.",
     "Pour in cranberry juice and vegetable broth, bring to a gentle simmer.",
     "Reduce heat to low, cover, and simmer for 15 minutes to meld the flavors.",
@@ -87,5 +87,20 @@
     "mainIngredient": "cranberry",
     "descriptor": "Silky",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "british",
+    "lunch"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Smoky German Chicken Grill",
-  "description": "A smoky, spicy German-inspired grilled chicken served with a creamy mustard‑cocoa sauce, perfect for a quick low‑carb weeknight dinner.",
+  "description": "A smoky, spicy German-inspired grilled chicken served with a creamy mustardcocoa sauce, perfect for a quick lowcarb weeknight dinner.",
   "cuisine": "German",
   "diet": [
     "low-carb",
@@ -17,7 +17,7 @@
     {
       "name": "unsweetened cocoa powder",
       "amount": "2 tbsp",
-      "notes": "dark, low‑carb"
+      "notes": "dark, low\u2011carb"
     },
     {
       "name": "smoked paprika",
@@ -63,8 +63,8 @@
   ],
   "instructions": [
     "Season the chicken thighs with salt, pepper, smoked paprika, cumin, and chili powder.",
-    "Heat a grill or grill pan over medium‑high heat and lightly oil the grates with olive oil.",
-    "Grill the chicken for 5–6 minutes per side, or until an instant‑read thermometer reads 165 °F (74 °C).",
+    "Heat a grill or grill pan over medium\u2011high heat and lightly oil the grates with olive oil.",
+    "Grill the chicken for 5\u20136 minutes per side, or until an instant\u2011read thermometer reads 165\u202f\u00b0F (74\u202f\u00b0C).",
     "While the chicken rests, whisk together heavy cream, yogurt, mustard, cocoa powder, and a pinch of salt to make the sauce.",
     "Serve the grilled chicken sliced, topped with the creamy sauce, and garnish with parsley."
   ],
@@ -85,5 +85,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Smoky",
     "dishForm": "Grill"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "german",
+    "dinner"
+  ]
 }

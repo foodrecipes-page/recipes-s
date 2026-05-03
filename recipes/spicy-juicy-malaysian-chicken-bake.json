@@ -1,6 +1,6 @@
 {
   "title": "Spicy Juicy Malaysian Chicken Bake",
-  "description": "A fragrant, savory chicken bake infused with Thai red curry paste, coconut milk, and fresh vegetables, perfect for a date-night dinner that’s both gluten‑free and bursting with flavor.",
+  "description": "A fragrant, savory chicken bake infused with Thai red curry paste, coconut milk, and fresh vegetables, perfect for a date-night dinner thats both glutenfree and bursting with flavor.",
   "cuisine": "Malaysian",
   "diet": [
     "gluten-free"
@@ -8,71 +8,71 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "bone‑in, skin‑on chicken thighs",
-      "amount": "4 pieces (≈1.5 kg)",
+      "name": "bone\u2011in, skin\u2011on chicken thighs",
+      "amount": "4 pieces (\u22481.5\u202fkg)",
       "notes": "provides juiciness and flavor"
     },
     {
       "name": "Thai red curry paste",
-      "amount": "2 tbsp"
+      "amount": "2\u202ftbsp"
     },
     {
-      "name": "coconut milk (full‑fat)",
-      "amount": "1 cup (240 ml)"
+      "name": "coconut milk (full\u2011fat)",
+      "amount": "1\u202fcup (240\u202fml)"
     },
     {
       "name": "fish sauce",
-      "amount": "2 tbsp"
+      "amount": "2\u202ftbsp"
     },
     {
       "name": "palm sugar",
-      "amount": "1 tbsp"
+      "amount": "1\u202ftbsp"
     },
     {
       "name": "lime juice",
-      "amount": "1 tbsp"
+      "amount": "1\u202ftbsp"
     },
     {
       "name": "carrot, sliced",
-      "amount": "1 medium"
+      "amount": "1\u202fmedium"
     },
     {
       "name": "red bell pepper, sliced",
-      "amount": "1 medium"
+      "amount": "1\u202fmedium"
     },
     {
       "name": "red onion, sliced",
-      "amount": "1 small"
+      "amount": "1\u202fsmall"
     },
     {
       "name": "garlic, minced",
-      "amount": "2 cloves"
+      "amount": "2\u202fcloves"
     },
     {
       "name": "ginger, grated",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "crushed red chili flakes",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "optional, adjust to heat preference"
     },
     {
       "name": "fresh cilantro, chopped",
-      "amount": "1 bunch",
+      "amount": "1\u202fbunch",
       "notes": "for garnish"
     }
   ],
   "instructions": [
-    "Preheat the oven to 375 °F (190 °C).",
+    "Preheat the oven to 375\u202f\u00b0F (190\u202f\u00b0C).",
     "In a bowl whisk together the Thai red curry paste, coconut milk, fish sauce, palm sugar, and lime juice until smooth.",
     "Season the chicken thighs with salt and pepper, then place them in a baking dish.",
-    "Pour the curry‑coconut mixture over the chicken, ensuring each piece is coated.",
+    "Pour the curry\u2011coconut mixture over the chicken, ensuring each piece is coated.",
     "Scatter the sliced carrot, bell pepper, and onion around the chicken in the dish.",
     "Toss in the minced garlic, grated ginger, and crushed red chili flakes for an extra kick.",
-    "Cover the dish loosely with foil and bake for 25 minutes.",
-    "Remove the foil and bake for an additional 10–15 minutes, or until the chicken reaches an internal temperature of 165 °F (74 °C) and the sauce has thickened.",
-    "Let the bake rest for 5 minutes, then sprinkle chopped cilantro over the top before serving."
+    "Cover the dish loosely with foil and bake for 25\u202fminutes.",
+    "Remove the foil and bake for an additional 10\u201315\u202fminutes, or until the chicken reaches an internal temperature of 165\u202f\u00b0F (74\u202f\u00b0C) and the sauce has thickened.",
+    "Let the bake rest for 5\u202fminutes, then sprinkle chopped cilantro over the top before serving."
   ],
   "slug": "spicy-juicy-malaysian-chicken-bake",
   "source": "ocloud-gpt-oss:20b",
@@ -91,5 +91,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Spicy Juicy",
     "dishForm": "Bake"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "malaysian",
+    "dinner"
+  ]
 }

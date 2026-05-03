@@ -1,6 +1,6 @@
 {
   "title": "Smoky Slovakian Haricot Beans Stew",
-  "description": "A salty, smoky one‑pot stew featuring tender haricot beans, smoked paprika, and traditional Slovakian flavors, made FODMAP‑friendly with a gentle tandoori touch.",
+  "description": "A salty, smoky onepot stew featuring tender haricot beans, smoked paprika, and traditional Slovakian flavors, made FODMAPfriendly with a gentle tandoori touch.",
   "cuisine": "Slovakian",
   "diet": [
     "gluten-free",
@@ -12,10 +12,10 @@
     {
       "name": "dried haricot beans",
       "amount": "1 cup",
-      "notes": "soaked for 8‑12 h"
+      "notes": "soaked for 8\u201112 h"
     },
     {
-      "name": "low‑FODMAP vegetable stock",
+      "name": "low\u2011FODMAP vegetable stock",
       "amount": "4 cups"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "tomato paste",
       "amount": "1 tablespoon",
-      "notes": "low‑FODMAP"
+      "notes": "low\u2011FODMAP"
     },
     {
       "name": "olive oil",
@@ -72,13 +72,13 @@
     "Soak the haricot beans overnight in plenty of water.",
     "Drain and rinse the beans, then set aside.",
     "Heat olive oil in a large pot over medium heat.",
-    "Add the toasted caraway seeds and sauté for 30 seconds until fragrant.",
-    "Stir in the diced carrots, parsnip, and tomato paste, cooking for 3‑4 minutes.",
+    "Add the toasted caraway seeds and saut\u00e9 for 30 seconds until fragrant.",
+    "Stir in the diced carrots, parsnip, and tomato paste, cooking for 3\u20114 minutes.",
     "Add the smoked paprika, salt, and pepper, stirring to coat the vegetables.",
     "Pour in the soaked beans and vegetable stock, and add the bay leaf.",
     "Bring the mixture to a gentle boil, then reduce heat to low, cover, and simmer for 60 minutes, or until beans are tender.",
     "Remove the bay leaf, taste, adjust seasoning if needed, then stir in lemon juice and fresh parsley before serving.",
-    "Serve hot, ideally with a slice of gluten‑free bread if desired."
+    "Serve hot, ideally with a slice of gluten\u2011free bread if desired."
   ],
   "slug": "smoky-slovakian-haricot-beans-stew",
   "source": "ocloud-gpt-oss:20b",
@@ -97,5 +97,20 @@
     "mainIngredient": "Haricot beans",
     "descriptor": "Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "slovakian",
+    "dinner"
+  ]
 }

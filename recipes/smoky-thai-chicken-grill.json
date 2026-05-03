@@ -1,6 +1,6 @@
 {
   "title": "Smoky Thai Chicken Grill",
-  "description": "A peppery, dense, light Thai-inspired grilled chicken dish infused with white chocolate and finished with a zesty lime drizzle – FODMAP-friendly and broiled to smoky perfection.",
+  "description": "A peppery, dense, light Thai-inspired grilled chicken dish infused with white chocolate and finished with a zesty lime drizzle - FODMAP-friendly and broiled to smoky perfection.",
   "cuisine": "Thai",
   "diet": [
     "low_fodmap"
@@ -37,7 +37,7 @@
     },
     {
       "name": "Sea salt",
-      "amount": "½ teaspoon"
+      "amount": "\u00bd teaspoon"
     },
     {
       "name": "Fresh cilantro, chopped (optional)",
@@ -48,7 +48,7 @@
     "Preheat the grill or broiler to high heat.",
     "In a small bowl, melt the white chocolate in the microwave for 30 seconds, then stir in the red chili flakes, smoked paprika, lime zest, and sea salt until smooth.",
     "Brush each chicken breast with the melted white chocolate mixture, ensuring an even coat, then drizzle with olive oil and let rest for 5 minutes.",
-    "Place the chicken on the grill or under the broiler, cooking 6–8 minutes per side until a caramelized crust forms and the internal temperature reaches 165 °F (75 °C).",
+    "Place the chicken on the grill or under the broiler, cooking 6\u20138 minutes per side until a caramelized crust forms and the internal temperature reaches 165\u202f\u00b0F (75\u202f\u00b0C).",
     "While the chicken cooks, whisk the lime juice into a small sauce.",
     "When cooked, transfer the chicken to a serving plate, drizzle the lime sauce over it, and sprinkle chopped cilantro if desired.",
     "Allow the chicken to rest for 3 minutes before slicing.",
@@ -71,5 +71,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Smoky",
     "dishForm": "Grill"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "thai",
+    "dinner"
+  ]
 }

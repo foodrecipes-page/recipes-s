@@ -79,7 +79,7 @@
   "prepTimeMin": 20,
   "cookTimeMin": 30,
   "totalTimeMin": 50,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "irish",
@@ -91,9 +91,9 @@
   ],
   "nutrition": {
     "calories": 540,
-    "protein": "42g",
-    "carbs": "40g",
-    "fat": "24g"
+    "protein": 42,
+    "carbs": 40,
+    "fat": 24
   },
   "slug": "sweet-tender-irish-lamb-pilaf",
   "source": "groq-llama-3.1-8b-instant",

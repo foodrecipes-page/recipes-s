@@ -38,7 +38,7 @@
     {
       "name": "Olive Oil",
       "amount": "2 tbsp",
-      "notes": "For sautéing vegetables and adding richness to the stir-fry"
+      "notes": "For saut\u00e9ing vegetables and adding richness to the stir-fry"
     },
     {
       "name": "Soy Sauce",
@@ -48,7 +48,7 @@
   ],
   "instructions": [
     "Heat olive oil in a wok or large skillet over medium-high heat.",
-    "Add onion and garlic to the pan. Sauté until onions are translucent.",
+    "Add onion and garlic to the pan. Saut\u00e9 until onions are translucent.",
     "Stir in tomato paste and cook for about 1 minute until it thickens slightly.",
     "Crush dried mint finely and add to the pan, stirring well to release its flavor.",
     "Return chicken to the wok or skillet, ensuring all pieces are coated with the sauce.",
@@ -84,5 +84,16 @@
     "mainIngredient": "Ajiaco",
     "descriptor": "Earthy Silky",
     "dishForm": "Stir-fry"
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
   }
 }

@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a mixing bowl, combine onion and olive oil.",
     "Add sea salt, cumin powder, tandoori paste, and paprika. Mix well until evenly coated.",
     "Transfer mixture onto a baking dish lined with parchment paper or aluminum foil.",
@@ -51,9 +51,9 @@
   ],
   "nutrition": {
     "calories": 195,
-    "protein": 7.8,
-    "carbs": 20.3,
-    "fat": 6.3
+    "protein": 8,
+    "carbs": 20,
+    "fat": 6
   },
   "slug": "savory-brazilian-onion-crumble",
   "source": "ollama-qwen2.5:3b",

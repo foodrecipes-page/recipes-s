@@ -26,7 +26,7 @@
     },
     {
       "name": "coconut milk",
-      "amount": "½ cup"
+      "amount": "\u00bd cup"
     },
     {
       "name": "garlic cloves, minced",
@@ -59,8 +59,8 @@
   ],
   "instructions": [
     "Bring a pot of salted water to a boil and cook the brown rice noodles for 8-10 minutes until al dente; drain and set aside.",
-    "Heat the olive oil in a large skillet over medium heat; add minced garlic and sauté for 30 seconds until fragrant.",
-    "Add the butter to the skillet and let it melt, then pour in the almond milk and coconut milk; stir until fully blended and heated to 90-95°C.",
+    "Heat the olive oil in a large skillet over medium heat; add minced garlic and saut\u00e9 for 30 seconds until fragrant.",
+    "Add the butter to the skillet and let it melt, then pour in the almond milk and coconut milk; stir until fully blended and heated to 90-95\u00b0C.",
     "Season the sauce with smoked paprika, sea salt, and lemon zest; simmer for 3-4 minutes, allowing the flavors to meld.",
     "Fold in the cooked noodles, ensuring they are evenly coated with the silky sauce; remove from heat.",
     "Toast the whole grain bread slices in a dry pan or toaster until golden; spread a thin layer of butter on each slice while warm.",
@@ -85,5 +85,20 @@
     "mainIngredient": "rice",
     "descriptor": "Silky",
     "dishForm": "Bowl"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "croatian",
+    "dinner"
+  ]
 }

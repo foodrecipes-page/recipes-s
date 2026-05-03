@@ -34,7 +34,7 @@
     },
     {
       "name": "white pepper powder",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": "freshly ground if available"
     },
     {
@@ -73,5 +73,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Sour Tender Show-off",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "portuguese",
+    "dinner"
+  ]
 }

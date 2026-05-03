@@ -3,7 +3,7 @@
   "description": "A festive Chinese dish featuring crispy fennel bulbs with a smoky flavor and a nut-free-friendly option.",
   "cuisine": "Chinese",
   "diet": null,
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "1 medium fennel bulb",
@@ -56,9 +56,9 @@
   ],
   "nutrition": {
     "calories": 107,
-    "protein": 3.2,
-    "carbs": 6.5,
-    "fat": 4.8
+    "protein": 3,
+    "carbs": 6,
+    "fat": 5
   },
   "slug": "smoky-crunchy-fennel-bulb-stir-fry",
   "source": "ollama-qwen2.5:3b",

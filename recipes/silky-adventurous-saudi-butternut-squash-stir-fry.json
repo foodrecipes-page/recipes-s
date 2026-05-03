@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C.",
+    "Preheat oven to 200\u00b0C.",
     "Cut butternut squash into thin, wedged slices about half an inch thick. Season with salt and pepper on both sides.",
     "Drizzle sliced butternut squash with olive oil and place in a baking dish. Roast for approximately 35 minutes until tender.",
     "In a large skillet or wok over medium heat, add olive oil and saute garlic until fragrant. Add turmeric, cumin, and red chili flakes (if using) to the pan and stir for about 1 minute.",
@@ -62,9 +62,9 @@
   ],
   "nutrition": {
     "calories": 276,
-    "protein": 4.5,
-    "carbs": 59.8,
-    "fat": 10.6
+    "protein": 4,
+    "carbs": 60,
+    "fat": 11
   },
   "slug": "silky-adventurous-saudi-butternut-squash-stir-fry",
   "source": "ollama-qwen2.5:3b",

@@ -37,7 +37,7 @@
     {
       "name": "Olive oil",
       "amount": "2 tablespoons",
-      "notes": "For tossing and sautéing"
+      "notes": "For tossing and saut\u00e9ing"
     },
     {
       "name": "Paprika powder",
@@ -47,7 +47,7 @@
   ],
   "instructions": [
     "Blanch green beans in boiling water for about 2 minutes. Drain and rinse under cold water.",
-    "In a large skillet or wok, heat olive oil over medium-high heat. Add garlic cloves and sauté until fragrant, approximately 30 seconds to 1 minute.",
+    "In a large skillet or wok, heat olive oil over medium-high heat. Add garlic cloves and saut\u00e9 until fragrant, approximately 30 seconds to 1 minute.",
     "Add red bell pepper and tomatoes, cook for another 5-7 minutes until softened slightly and heated through.",
     "Stir in green beans and basil leaves. Cook for an additional 2-3 minutes mixing well.",
     "Season with paprika powder if using. Serve hot as a side dish or main course.",
@@ -70,5 +70,20 @@
     "mainIngredient": "Garlic",
     "descriptor": "Savory",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "dinner"
+  ]
 }

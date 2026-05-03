@@ -31,7 +31,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C (350°F).",
+    "Preheat oven to 180\u00b0C (350\u00b0F).",
     "In a bowl, mix sweet potatoes with 1 tbsp olive oil and fresh herbs.",
     "Add caramelized sugar sauce to the sweet potatoes and mix well.",
     "Transfer to a baking dish and bake for 25 minutes until tender and caramelized.",
@@ -72,5 +72,7 @@
     "mainIngredient": "Greek",
     "descriptor": "Sweet",
     "dishForm": "Bake"
-  }
+  },
+  "cookTimeMin": 25,
+  "totalTimeMin": 40
 }

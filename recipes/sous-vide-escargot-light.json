@@ -32,7 +32,7 @@
     "Mix soy sauce, mirin, and shrimp stock powder in a bowl.",
     "Add olive oil to the marinade mixture.",
     "Place baby squid in a sous-vide bag with the marinade mixture.",
-    "Cook at 50°C for 2 hours.",
+    "Cook at 50\u00b0C for 2 hours.",
     "Remove from water bath and allow to rest for 10 minutes before serving."
   ],
   "prepTimeMin": 30,
@@ -47,9 +47,9 @@
   ],
   "nutrition": {
     "calories": 83,
-    "protein": 21.7,
-    "carbs": 6.5,
-    "fat": 4.8
+    "protein": 22,
+    "carbs": 6,
+    "fat": 5
   },
   "slug": "sous-vide-escargot-light",
   "source": "ollama-qwen2.5:3b",

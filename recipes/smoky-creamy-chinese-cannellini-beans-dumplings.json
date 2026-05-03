@@ -75,7 +75,7 @@
   "prepTimeMin": 30,
   "cookTimeMin": 20,
   "totalTimeMin": 50,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "chinese",
@@ -90,9 +90,9 @@
   ],
   "nutrition": {
     "calories": 320,
-    "protein": "12g",
-    "carbs": "45g",
-    "fat": "14g"
+    "protein": 12,
+    "carbs": 45,
+    "fat": 14
   },
   "slug": "smoky-creamy-chinese-cannellini-beans-dumplings",
   "source": "groq-llama-3.1-8b-instant",

@@ -34,7 +34,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "In a mixing bowl, combine poppy seeds, olive oil, garlic powder, and salt. If using smoke flavoring, add it now.",
     "Mix well until all ingredients are evenly distributed.",
     "Transfer the mixture into an oven-safe dish or shallow baking pan.",
@@ -48,15 +48,15 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "poppy seeds",
-    "smoke flavoring",
-    "vegan dish"
+    "poppy-seeds",
+    "smoke-flavoring",
+    "vegan-dish"
   ],
   "nutrition": {
     "calories": 92,
-    "protein": 1.7,
-    "carbs": 5.3,
-    "fat": 6.8
+    "protein": 2,
+    "carbs": 5,
+    "fat": 7
   },
   "slug": "smoke-poppy-jain",
   "source": "ollama-qwen2.5:3b",

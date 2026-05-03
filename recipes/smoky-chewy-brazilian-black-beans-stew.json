@@ -12,7 +12,7 @@
     {
       "name": "fermented black beans",
       "amount": "2 cups (cooked)",
-      "notes": "soaked and fermented for 24–48 hours"
+      "notes": "soaked and fermented for 24\u201348 hours"
     },
     {
       "name": "olive oil",
@@ -88,5 +88,20 @@
     "mainIngredient": "black beans",
     "descriptor": "Smoky Chewy",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "brazilian",
+    "dinner"
+  ]
 }

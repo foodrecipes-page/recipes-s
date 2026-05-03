@@ -59,7 +59,7 @@
   "prepTimeMin": 10,
   "cookTimeMin": 20,
   "totalTimeMin": 30,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "easy",
   "tags": [
     "mexican",
@@ -72,9 +72,9 @@
   ],
   "nutrition": {
     "calories": 250,
-    "protein": "10g",
-    "carbs": "20g",
-    "fat": "15g"
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
   },
   "slug": "salty-silky-mexican-cheese-quesadilla",
   "source": "groq-llama-3.1-8b-instant",

@@ -81,7 +81,7 @@
   "prepTimeMin": 30,
   "cookTimeMin": 90,
   "totalTimeMin": 120,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "vietnamese",
@@ -95,9 +95,9 @@
   ],
   "nutrition": {
     "calories": 450,
-    "protein": "30g",
-    "carbs": "60g",
-    "fat": "20g"
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
   },
   "slug": "smoky-dense-festive-vietnamese-rice-noodles-pho",
   "source": "groq-llama-3.1-8b-instant",

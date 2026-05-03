@@ -1,6 +1,6 @@
 {
   "title": "Smoky Light Slovakian Pork Soup",
-  "description": "A fragrant, smoky pork soup enriched with savory romano pepper, tangy pickles, and fresh vegetables—a comforting yet light Slovakian staple.",
+  "description": "A fragrant, smoky pork soup enriched with savory romano pepper, tangy pickles, and fresh vegetables-a comforting yet light Slovakian staple.",
   "cuisine": "Slovakian",
   "diet": [
     "gluten-free"
@@ -64,7 +64,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     }
   ],
   "instructions": [
@@ -73,7 +73,7 @@
     "Add diced onion, carrots, and celery; cook until vegetables soften, about 5 minutes.",
     "Stir in minced garlic, smoked paprika, and romano pepper; cook for 1 minute until aromatic.",
     "Pour in water, add bay leaf, and bring to a gentle boil.",
-    "Reduce heat and simmer, partially covered, for 45 minutes or until pork reaches 63 °C internal temperature and is tender.",
+    "Reduce heat and simmer, partially covered, for 45 minutes or until pork reaches 63\u202f\u00b0C internal temperature and is tender.",
     "Add diced pickles and cook for an additional 5 minutes to warm through.",
     "Remove bay leaf, season the soup with salt and black pepper to taste.",
     "Let the soup sit for a few minutes before serving to allow flavors to meld.",
@@ -96,5 +96,20 @@
     "mainIngredient": "Pork",
     "descriptor": "Smoky Light",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "slovakian",
+    "lunch"
+  ]
 }

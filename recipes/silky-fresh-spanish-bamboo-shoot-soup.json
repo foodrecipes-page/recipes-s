@@ -62,7 +62,7 @@
   ],
   "instructions": [
     "Heat olive oil in a medium pot over medium heat.",
-    "Add chopped onion, minced garlic, sliced celery, and julienned carrot; sauté for 3-4 minutes until vegetables soften.",
+    "Add chopped onion, minced garlic, sliced celery, and julienned carrot; saut\u00e9 for 3-4 minutes until vegetables soften.",
     "Stir in sliced bamboo shoots and diced pickled peppers, cooking for another 2 minutes to release flavors.",
     "Pour in low-sodium vegetable broth, bring to a gentle boil, then reduce heat and let simmer for 15 minutes.",
     "Season with salt and black pepper to taste, and simmer for another 5 minutes for a silky texture.",
@@ -88,5 +88,20 @@
     "mainIngredient": "bamboo shoot",
     "descriptor": "Silky Fresh",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "spanish",
+    "dinner"
+  ]
 }

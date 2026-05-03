@@ -63,7 +63,7 @@
     {
       "name": "lamb broth",
       "amount": "1 cup",
-      "notes": "paleo‑friendly"
+      "notes": "paleo\u2011friendly"
     },
     {
       "name": "olive oil",
@@ -83,12 +83,12 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a heavy‑bottomed pot or Dutch oven over medium‑high heat.",
+    "Heat the olive oil in a heavy\u2011bottomed pot or Dutch oven over medium\u2011high heat.",
     "Add the lamb cubes in batches, browning them on all sides; remove and set aside.",
-    "Reduce heat to medium, add the sliced onion and minced garlic; sauté until the onion is translucent, about 5 minutes.",
+    "Reduce heat to medium, add the sliced onion and minced garlic; saut\u00e9 until the onion is translucent, about 5 minutes.",
     "Stir in the smoked paprika, cumin, coriander, cinnamon, and tomato paste; cook for another minute to bloom the spices.",
     "Return the browned lamb to the pot, pour in the lamb broth, and bring to a gentle simmer.",
-    "Add the sliced carrot and sauerkraut, cover, and reduce heat to low. Braise for 90–120 minutes, or until the lamb is tender and chewy (internal temperature 90–95°C).",
+    "Add the sliced carrot and sauerkraut, cover, and reduce heat to low. Braise for 90\u2013120 minutes, or until the lamb is tender and chewy (internal temperature 90\u201395\u00b0C).",
     "Stir in apple cider vinegar and ground sumac, tasting and adjusting salt and pepper as needed.",
     "Simmer uncovered for an additional 10 minutes to meld flavors.",
     "Serve hot, garnished with fresh parsley.",
@@ -111,5 +111,20 @@
     "mainIngredient": "lamb",
     "descriptor": "Smoky",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "persian",
+    "dinner"
+  ]
 }

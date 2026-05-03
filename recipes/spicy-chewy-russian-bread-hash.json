@@ -8,7 +8,7 @@
     {
       "name": "stale rye bread",
       "amount": "200 g",
-      "notes": "cut into 1‑inch cubes"
+      "notes": "cut into 1\u2011inch cubes"
     },
     {
       "name": "olive oil",
@@ -45,11 +45,11 @@
   ],
   "instructions": [
     "Preheat a large skillet over medium heat and add the olive oil.",
-    "Add the minced garlic and diced onion, cooking until the onion becomes translucent and the garlic is fragrant, about 3‑4 minutes.",
+    "Add the minced garlic and diced onion, cooking until the onion becomes translucent and the garlic is fragrant, about 3\u20114 minutes.",
     "Stir in the cubed rye bread, ensuring each cube is coated with oil, garlic, and onion.",
     "Add the smoked paprika, red chili flakes, salt, and black pepper, tossing gently to distribute the spices evenly.",
-    "Cover the skillet and let the bread toast for 8–10 minutes, stirring occasionally until the edges start to crisp and the interior caramelizes.",
-    "Remove the lid and increase the heat to high, letting the hash fry for an additional 2–3 minutes to achieve a smoky char on the bread pieces.",
+    "Cover the skillet and let the bread toast for 8\u201310 minutes, stirring occasionally until the edges start to crisp and the interior caramelizes.",
+    "Remove the lid and increase the heat to high, letting the hash fry for an additional 2\u20133 minutes to achieve a smoky char on the bread pieces.",
     "Sprinkle the chopped parsley over the hash and give one final gentle stir.",
     "Serve hot, optionally garnishing with a squeeze of lemon juice for a bright Mediterranean finish.",
     "Enjoy the chewy texture and spicy kick that warms you from the inside out."
@@ -71,5 +71,20 @@
     "mainIngredient": "bread",
     "descriptor": "Spicy Chewy",
     "dishForm": "Hash"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "russian",
+    "breakfast"
+  ]
 }

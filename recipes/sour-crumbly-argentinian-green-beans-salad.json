@@ -1,6 +1,6 @@
 {
   "title": "Sour Crumbly Argentinian Green Beans Salad",
-  "description": "A bright, low‑carb Argentinian salad with blanched green beans, crumbled queso fresco, lemon‑vinegar dressing, and a splash of festive flavor.",
+  "description": "A bright, lowcarb Argentinian salad with blanched green beans, crumbled queso fresco, lemonvinegar dressing, and a splash of festive flavor.",
   "cuisine": "Argentinian",
   "diet": [
     "low-carb"
@@ -10,7 +10,7 @@
     {
       "name": "green beans",
       "amount": "200 g",
-      "notes": "trimmed and cut 2–3 cm pieces"
+      "notes": "trimmed and cut 2\u20133 cm pieces"
     },
     {
       "name": "red bell pepper",
@@ -30,12 +30,12 @@
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "extra‑virgin"
+      "notes": "extra\u2011virgin"
     },
     {
       "name": "red wine vinegar",
       "amount": "1 tbsp",
-      "notes": "freshly‑bottled"
+      "notes": "freshly\u2011bottled"
     },
     {
       "name": "lemon",
@@ -93,5 +93,20 @@
     "mainIngredient": "green beans",
     "descriptor": "Sour Crumbly",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "argentinian",
+    "lunch"
+  ]
 }

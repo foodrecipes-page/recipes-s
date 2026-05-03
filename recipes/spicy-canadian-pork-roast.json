@@ -1,12 +1,12 @@
 {
   "title": "Spicy Canadian Pork Roast",
-  "description": "A hearty, smoky pork roast seasoned with minced garlic, cayenne, and maple syrup for a sweet‑spicy Canadian twist, perfect for a comforting dinner.",
+  "description": "A hearty, smoky pork roast seasoned with minced garlic, cayenne, and maple syrup for a sweetspicy Canadian twist, perfect for a comforting dinner.",
   "cuisine": "Canadian",
   "diet": null,
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Pork shoulder, bone‑in",
+      "name": "Pork shoulder, bone\u2011in",
       "amount": "1.5 kg"
     },
     {
@@ -52,13 +52,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 160 °C (320 °F).",
+    "Preheat oven to 160\u202f\u00b0C (320\u202f\u00b0F).",
     "Pat the pork shoulder dry with paper towels. Rub it all over with olive oil, minced garlic, smoked paprika, cayenne, black pepper, and sea salt, leaving a thin coat of salt on the surface.",
     "Place the pork in a roasting pan, fat side up, and tuck the thyme sprigs among the meat.",
-    "Add apple cider vinegar to the pan, then pour in 200 ml water around the edges to keep the surface moist.",
-    "Cover tightly with foil and roast in the preheated oven for 90 min.",
-    "Remove the foil, baste the pork with maple syrup and Dijon mustard, and return to the oven uncovered for an additional 60 min, basting every 15 min, until the internal temperature reaches 70 °C (158 °F) and the meat is tender and caramelized.",
-    "Let the roast rest for 15 min before slicing against the grain.",
+    "Add apple cider vinegar to the pan, then pour in 200\u202fml water around the edges to keep the surface moist.",
+    "Cover tightly with foil and roast in the preheated oven for 90\u202fmin.",
+    "Remove the foil, baste the pork with maple syrup and Dijon mustard, and return to the oven uncovered for an additional 60\u202fmin, basting every 15\u202fmin, until the internal temperature reaches 70\u202f\u00b0C (158\u202f\u00b0F) and the meat is tender and caramelized.",
+    "Let the roast rest for 15\u202fmin before slicing against the grain.",
     "Serve slices with roasted root vegetables or a fresh salad for a balanced Canadian feast."
   ],
   "slug": "spicy-canadian-pork-roast",
@@ -78,5 +78,20 @@
     "mainIngredient": "Pork",
     "descriptor": "Spicy",
     "dishForm": "Roast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "dinner"
+  ]
 }

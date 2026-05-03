@@ -1,15 +1,15 @@
 {
   "title": "Silky Irish Kale Chowder",
-  "description": "A bright, citrus‑infused kale chowder that’s silky smooth and plant‑based, finished with a splash of deglazed wine and lemon zest for a touch of Irish charm.",
+  "description": "A bright, citrusinfused kale chowder thats silky smooth and plantbased, finished with a splash of deglazed wine and lemon zest for a touch of Irish charm.",
   "cuisine": "Irish",
   "diet": [
     "vegan",
-    "gluten‑free"
+    "gluten\u2011free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "extra‑virgin olive oil",
+      "name": "extra\u2011virgin olive oil",
       "amount": "2 tbsp"
     },
     {
@@ -57,7 +57,7 @@
     {
       "name": "white wine",
       "amount": "1/2 cup (deglaze)",
-      "notes": "use a dry, non‑alcoholic option if preferred"
+      "notes": "use a dry, non\u2011alcoholic option if preferred"
     },
     {
       "name": "oat milk",
@@ -91,7 +91,7 @@
   ],
   "instructions": [
     "Heat olive oil and vegan butter in a large pot over medium heat until melted.",
-    "Add diced onion and sauté until translucent, about 3–4 minutes.",
+    "Add diced onion and saut\u00e9 until translucent, about 3\u20134 minutes.",
     "Stir in minced garlic, diced carrot, and chopped celery; cook another 3 minutes until vegetables start to soften.",
     "Add chopped kale, smoked paprika, thyme, bay leaf, and a pinch of salt; stir to coat the greens with the aromatics.",
     "Pour in the white wine, allowing it to simmer for 2 minutes to deglaze the pot and lift the browned bits from the bottom.",
@@ -100,7 +100,7 @@
     "Use an immersion blender or transfer a portion to a blender to puree until silky smooth; return to pot and stir through.",
     "Adjust seasoning with salt and pepper to taste; remove bay leaf.",
     "Serve hot, optionally garnished with a swirl of coconut cream and a sprinkle of lemon zest.",
-    "Enjoy the comforting, citrus‑bright, plant‑based chowder that feels indulgently Irish."
+    "Enjoy the comforting, citrus\u2011bright, plant\u2011based chowder that feels indulgently Irish."
   ],
   "slug": "silky-irish-kale-chowder",
   "source": "ocloud-gpt-oss:20b",
@@ -119,5 +119,20 @@
     "mainIngredient": "kale",
     "descriptor": "Silky",
     "dishForm": "Chowder"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "irish",
+    "dinner"
+  ]
 }

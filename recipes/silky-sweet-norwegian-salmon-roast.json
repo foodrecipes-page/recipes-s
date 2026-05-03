@@ -18,7 +18,7 @@
       "notes": "use raw for richer flavor"
     },
     {
-      "name": "Gluten‑free soy sauce",
+      "name": "Gluten\u2011free soy sauce",
       "amount": "2 tbsp",
       "notes": "adds umami without gluten"
     },
@@ -54,12 +54,12 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 200°C (400°F) and line a baking sheet with parchment paper.",
+    "Preheat the oven to 200\u00b0C (400\u00b0F) and line a baking sheet with parchment paper.",
     "In a small bowl, whisk together honey, soy sauce, minced garlic, lemon zest, and olive oil to create a glaze.",
     "Pat the salmon fillets dry with paper towels, then season each side with salt and pepper.",
-    "Place the fillets skin‑side up on the prepared sheet and brush generously with the glaze.",
-    "Roast in the preheated oven for 12–15 minutes, or until the salmon flakes easily with a fork and the glaze is caramelized.",
-    "During the last 2 minutes, switch the oven to broil and watch for a golden top—do not let the glaze burn.",
+    "Place the fillets skin\u2011side up on the prepared sheet and brush generously with the glaze.",
+    "Roast in the preheated oven for 12\u201315 minutes, or until the salmon flakes easily with a fork and the glaze is caramelized.",
+    "During the last 2 minutes, switch the oven to broil and watch for a golden top\u2014do not let the glaze burn.",
     "Remove from oven, drizzle remaining glaze over the fillets, and sprinkle with chopped dill.",
     "Serve immediately, pairing with a simple green salad or steamed root vegetables for a balanced meal."
   ],
@@ -80,5 +80,20 @@
     "mainIngredient": "Salmon",
     "descriptor": "Silky Sweet",
     "dishForm": "Roast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "norwegian",
+    "dinner"
+  ]
 }

@@ -25,11 +25,11 @@
     }
   ],
   "instructions": [
-    "Preheat the sous-vide machine to 60°C (140°F).",
+    "Preheat the sous-vide machine to 60\u00b0C (140\u00b0F).",
     "Whisk together saugete and salt in a bowl.",
     "Add black pepper and whisk until fully combined.",
     "Brush the egg whites with the oil mixture using a brush.",
-    "Place the egg yolks directly into the sous-vide bag, seal it tightly, and cook for 20 minutes at 60°C (140°F).",
+    "Place the egg yolks directly into the sous-vide bag, seal it tightly, and cook for 20 minutes at 60\u00b0C (140\u00b0F).",
     "Remove from sous-vide, season lightly with salt and black pepper. Garnish with chopped saugete if desired."
   ],
   "prepTimeMin": 5,
@@ -47,9 +47,9 @@
   ],
   "nutrition": {
     "calories": 204,
-    "protein": 17.8,
+    "protein": 18,
     "carbs": 9,
-    "fat": 14.3
+    "fat": 14
   },
   "slug": "savory-emerge",
   "source": "ollama-qwen2.5:3b",

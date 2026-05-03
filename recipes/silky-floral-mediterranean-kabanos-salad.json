@@ -1,6 +1,6 @@
 {
   "title": "Silky Floral Mediterranean Kabanos Salad",
-  "description": "A vibrant, low‑calorie Mediterranean salad that pairs caramelized Polish kabanos with fresh herbs and a silky vinaigrette, perfect for a light lunch or dinner.",
+  "description": "A vibrant, lowcalorie Mediterranean salad that pairs caramelized Polish kabanos with fresh herbs and a silky vinaigrette, perfect for a light lunch or dinner.",
   "cuisine": "Mediterranean",
   "diet": [
     "low-fat",
@@ -34,12 +34,12 @@
       "notes": "pitted and sliced"
     },
     {
-      "name": "Reduced‑fat feta cheese",
+      "name": "Reduced\u2011fat feta cheese",
       "amount": "40 g",
       "notes": "crumbled"
     },
     {
-      "name": "Extra‑virgin olive oil",
+      "name": "Extra\u2011virgin olive oil",
       "amount": "1 tsp",
       "notes": "for dress"
     },
@@ -60,7 +60,7 @@
     }
   ],
   "instructions": [
-    "Heat a skillet over medium heat and sauté the sliced kabanos for 2–3 minutes until lightly browned, then set aside to cool slightly.",
+    "Heat a skillet over medium heat and saut\u00e9 the sliced kabanos for 2\u20133 minutes until lightly browned, then set aside to cool slightly.",
     "In a large bowl combine halved cherry tomatoes, diced cucumber, sliced red onion, Kalamata olives, and crumbled feta.",
     "Whisk together the olive oil, red wine vinegar, chopped oregano, basil, salt, and pepper until emulsified.",
     "Pour the dressing over the salad mixture and toss gently to coat all ingredients.",
@@ -86,5 +86,20 @@
     "mainIngredient": "kabanos",
     "descriptor": "Silky Floral",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "lunch"
+  ]
 }

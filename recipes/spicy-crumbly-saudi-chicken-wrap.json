@@ -1,6 +1,6 @@
 {
   "title": "Spicy Crumbly Saudi Chicken Wrap",
-  "description": "A fiery, low‑calorie wrap featuring grilled chicken breast marinated in bold Saudi spices, topped with a crunchy crumbly topping and wrapped in a thin flatbread.",
+  "description": "A fiery, lowcalorie wrap featuring grilled chicken breast marinated in bold Saudi spices, topped with a crunchy crumbly topping and wrapped in a thin flatbread.",
   "cuisine": "Saudi",
   "diet": [
     "low-calorie"
@@ -13,9 +13,9 @@
       "notes": "cut into thin strips"
     },
     {
-      "name": "low‑calorie flatbread",
+      "name": "low\u2011calorie flatbread",
       "amount": "2 pieces",
-      "notes": "use a pre‑made low‑fat flatbread"
+      "notes": "use a pre\u2011made low\u2011fat flatbread"
     },
     {
       "name": "plain Greek yogurt",
@@ -30,7 +30,7 @@
     {
       "name": "ground cumin",
       "amount": "1 tsp",
-      "notes": "stir‑fried for aroma"
+      "notes": "stir\u2011fried for aroma"
     },
     {
       "name": "smoked paprika",
@@ -39,12 +39,12 @@
     },
     {
       "name": "ground coriander",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": "for subtle citrus"
     },
     {
       "name": "red chili flakes",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": "adjust for heat"
     },
     {
@@ -59,11 +59,11 @@
     }
   ],
   "instructions": [
-    "Preheat a grill or grill pan over medium‑high heat.",
+    "Preheat a grill or grill pan over medium\u2011high heat.",
     "In a bowl, combine yogurt, garlic, cumin, paprika, coriander, chili flakes, lemon juice, salt, and pepper to make a creamy sauce.",
-    "Add the chicken strips to the sauce, ensuring they’re well coated; let marinate for 10 minutes.",
-    "Place the marinated chicken on the grill, cooking 3‑4 minutes per side until the internal temperature reaches 75°C (165°F).",
-    "Remove the chicken, let rest 2 minutes, then slice into bite‑sized pieces.",
+    "Add the chicken strips to the sauce, ensuring they\u2019re well coated; let marinate for 10 minutes.",
+    "Place the marinated chicken on the grill, cooking 3\u20114 minutes per side until the internal temperature reaches 75\u00b0C (165\u00b0F).",
+    "Remove the chicken, let rest 2 minutes, then slice into bite\u2011sized pieces.",
     "Lay out the flatbreads, spread a thin layer of the remaining sauce, and top with grilled chicken strips.",
     "Sprinkle the toasted sesame seeds over the chicken for a crunchy, crumbly finish.",
     "Fold the flatbread into a wrap and serve immediately."
@@ -85,5 +85,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Spicy Crumbly",
     "dishForm": "Wrap"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi",
+    "lunch"
+  ]
 }

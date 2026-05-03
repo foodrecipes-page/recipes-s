@@ -87,7 +87,7 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "north african",
+    "north-african",
     "tagine",
     "spicy",
     "velvety",
@@ -97,9 +97,9 @@
   ],
   "nutrition": {
     "calories": 520,
-    "protein": "44g",
-    "carbs": "24g",
-    "fat": "24g"
+    "protein": 44,
+    "carbs": 24,
+    "fat": 24
   },
   "slug": "spicy-velvety-tunisian-almonds-tagine",
   "source": "groq-llama-3.1-8b-instant",

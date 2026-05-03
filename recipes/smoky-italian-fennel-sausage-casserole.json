@@ -1,6 +1,6 @@
 {
   "title": "Smoky Italian Fennel Sausage Casserole",
-  "description": "A hearty, cloud‑fired casserole that blends Italian fennel sausage with Malaysian spices, baked to a silky finish that feels like a cozy tandoor treat.",
+  "description": "A hearty, cloudfired casserole that blends Italian fennel sausage with Malaysian spices, baked to a silky finish that feels like a cozy tandoor treat.",
   "cuisine": "Malaysian fusion",
   "diet": [
     "gluten-free"
@@ -62,15 +62,15 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 180 °C (356 °F).",
-    "Heat 1 tbsp olive oil in a large skillet over medium‑high heat and brown the sausage slices until caramelized, about 3–4 minutes. Remove from the skillet and set aside.",
-    "In the same skillet, add the remaining olive oil, then sauté the onion and bell pepper until softened, about 5 minutes.",
+    "Preheat the oven to 180\u202f\u00b0C (356\u202f\u00b0F).",
+    "Heat 1 tbsp olive oil in a large skillet over medium\u2011high heat and brown the sausage slices until caramelized, about 3\u20134 minutes. Remove from the skillet and set aside.",
+    "In the same skillet, add the remaining olive oil, then saut\u00e9 the onion and bell pepper until softened, about 5 minutes.",
     "Add minced garlic and smoked paprika, cooking for 30 seconds until fragrant.",
     "Stir in tomato paste, coating the vegetables, and cook for 1 minute.",
     "Pour in tomato sauce and coconut milk, bringing the mixture to a gentle simmer.",
     "Return the browned sausage to the skillet, stir to combine, and season with salt and pepper. Let the mixture cook for 5 minutes to meld flavors.",
     "Transfer the entire mixture to a baking dish, creating an even layer.",
-    "Bake uncovered for 20 minutes, then reduce the heat to 160 °C (320 °F) and bake for an additional 10 minutes, or until the top is slightly crisp and the sauce has thickened. (Internal temperature of sausage should reach 70 °C /158 °F.)",
+    "Bake uncovered for 20 minutes, then reduce the heat to 160\u202f\u00b0C (320\u202f\u00b0F) and bake for an additional 10 minutes, or until the top is slightly crisp and the sauce has thickened. (Internal temperature of sausage should reach 70\u202f\u00b0C /158\u202f\u00b0F.)",
     "Remove from oven, sprinkle chopped coriander over the top, and let rest 5 minutes before serving."
   ],
   "slug": "smoky-italian-fennel-sausage-casserole",
@@ -90,5 +90,20 @@
     "mainIngredient": "fennel sausage",
     "descriptor": "Smoky",
     "dishForm": "casserole"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "malaysian-fusion",
+    "dinner"
+  ]
 }

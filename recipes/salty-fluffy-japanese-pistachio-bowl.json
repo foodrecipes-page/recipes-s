@@ -1,6 +1,6 @@
 {
   "title": "Salty Fluffy Japanese Pistachio Bowl",
-  "description": "A lazy‑Sunday, low‑carb bowl that combines fluffy, savory batter with the crunchy, salty flavor of unsalted pistachios for a quick, satisfying meal.",
+  "description": "A lazySunday, lowcarb bowl that combines fluffy, savory batter with the crunchy, salty flavor of unsalted pistachios for a quick, satisfying meal.",
   "cuisine": "Japanese",
   "diet": [
     "low-carb",
@@ -61,12 +61,12 @@
     }
   ],
   "instructions": [
-    "Preheat a non‑stick skillet over medium heat and add a splash of sesame oil.",
+    "Preheat a non\u2011stick skillet over medium heat and add a splash of sesame oil.",
     "In a bowl whisk the eggs, almond milk, mirin, salt, and baking powder until frothy.",
     "Stir in the coconut flour until the batter is smooth.",
     "Fold in the chopped pistachios.",
-    "Pour the batter into the skillet, forming a thin, round pancake about 1 cm thick.",
-    "Cook 3–4 minutes until the edges set, then flip and cook another 3 minutes until golden brown.",
+    "Pour the batter into the skillet, forming a thin, round pancake about 1\u202fcm thick.",
+    "Cook 3\u20134 minutes until the edges set, then flip and cook another 3 minutes until golden brown.",
     "Transfer the pancake to a plate, top with toasted sesame seeds and sliced scallions.",
     "Serve hot as a bowl, drizzle with a touch of soy sauce if desired."
   ],
@@ -87,5 +87,20 @@
     "mainIngredient": "pistachio",
     "descriptor": "Salty Fluffy",
     "dishForm": "Bowl"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "japanese",
+    "lunch"
+  ]
 }

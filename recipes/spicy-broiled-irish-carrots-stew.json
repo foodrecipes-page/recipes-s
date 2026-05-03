@@ -46,7 +46,7 @@
     {
       "name": "olive oil",
       "amount": "2 tbsp",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "salt",
@@ -71,11 +71,11 @@
   ],
   "instructions": [
     "Preheat the oven to its highest broil setting, placing a rack about 4 inches from the heat source.",
-    "Heat 1 tablespoon of olive oil in a large, oven‑safe pot over medium‑high heat. Add the sliced onions and sauté until translucent, about 3 minutes. Add the minced garlic and cook for another minute until fragrant.",
+    "Heat 1 tablespoon of olive oil in a large, oven\u2011safe pot over medium\u2011high heat. Add the sliced onions and saut\u00e9 until translucent, about 3 minutes. Add the minced garlic and cook for another minute until fragrant.",
     "Pour in the vegetable stock, then stir in the smoked paprika, cayenne pepper, dried thyme, salt, and black pepper. Bring the mixture to a gentle boil.",
     "Add the sliced carrots to the pot, reduce the heat to medium, cover, and simmer for 20 minutes until the carrots are tender but still hold their shape.",
     "Stir in the chopped kale and cook for an additional 5 minutes until the greens wilt. If desired, stir in lemon juice for a touch of acidity.",
-    "Transfer the stew to a shallow baking dish or spread it evenly in the pot if it’s oven‑safe. Place under the broiler for 3–5 minutes, watching closely, until the top is golden and slightly caramelized. Remove from the oven and serve hot."
+    "Transfer the stew to a shallow baking dish or spread it evenly in the pot if it\u2019s oven\u2011safe. Place under the broiler for 3\u20135 minutes, watching closely, until the top is golden and slightly caramelized. Remove from the oven and serve hot."
   ],
   "slug": "spicy-broiled-irish-carrots-stew",
   "source": "ocloud-gpt-oss:20b",
@@ -94,5 +94,20 @@
     "mainIngredient": "Carrots",
     "descriptor": "Spicy Broiled",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "irish",
+    "dinner"
+  ]
 }

@@ -35,7 +35,7 @@
     {
       "name": "Olive Oil",
       "amount": "2 tbsp",
-      "notes": "For sautéing vegetables and tofu"
+      "notes": "For saut\u00e9ing vegetables and tofu"
     },
     {
       "name": "Paprika",
@@ -59,13 +59,13 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F.",
+    "Preheat your oven to 400\u00b0F.",
     "Cook the bowtie pasta in salted boiling water until al dente, then drain and set aside.",
-    "In a large skillet or pan, heat olive oil over medium-high heat. Add chopped green chilis and sauté for about 1 minute until fragrant.",
+    "In a large skillet or pan, heat olive oil over medium-high heat. Add chopped green chilis and saut\u00e9 for about 1 minute until fragrant.",
     "Add minced garlic and cook for another minute to soften slightly.",
     "Fold in crumbled tofu, paprika, cumin, salt, and pepper. Stir well to combine all ingredients thoroughly.",
     "Return the cooked bowtie pasta to the skillet. Toss gently to coat with the spice mixture evenly.",
-    "Transfer the pasta to a baking dish. Bake at 400°F for 15 minutes or until bubbly and golden brown on top.",
+    "Transfer the pasta to a baking dish. Bake at 400\u00b0F for 15 minutes or until bubbly and golden brown on top.",
     "Sprinkle fresh basil leaves over the top if using, before serving.",
     "prepTimeMin"
   ],
@@ -103,5 +103,6 @@
     "mainIngredient": "Bowtie Pasta",
     "descriptor": "Spicy",
     "dishForm": "Pasta"
-  }
+  },
+  "prepTimeMin": 15
 }

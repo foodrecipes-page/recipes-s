@@ -35,23 +35,23 @@
     },
     {
       "name": "Ground turmeric",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Ground cinnamon",
-      "amount": "¼ tsp"
+      "amount": "\u00bc tsp"
     },
     {
       "name": "Garam masala",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Salt (low)",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Black pepper",
-      "amount": "¼ tsp"
+      "amount": "\u00bc tsp"
     },
     {
       "name": "Garlic paste",
@@ -88,9 +88,9 @@
   ],
   "instructions": [
     "Marinate the chicken in yogurt, biryani masala, cumin, coriander, turmeric, cinnamon, garam masala, garlic paste, ginger paste, lemon juice, and low-sodium salt for 10 minutes.",
-    "Preheat the oven to 220 °C (425 °F). Place the marinated chicken on a sheet pan and roast for 15–18 minutes until fully cooked.",
+    "Preheat the oven to 220\u202f\u00b0C (425\u202f\u00b0F). Place the marinated chicken on a sheet pan and roast for 15\u201318 minutes until fully cooked.",
     "While the chicken roasts, rinse the basmati rice and cook it in a pot with a pinch of salt until fluffy.",
-    "In a large skillet, heat olive oil over medium heat. Add the roasted chicken, stir in the remaining spices (black pepper, a splash of broth, and butter), and cook for 3–4 minutes.",
+    "In a large skillet, heat olive oil over medium heat. Add the roasted chicken, stir in the remaining spices (black pepper, a splash of broth, and butter), and cook for 3\u20134 minutes.",
     "Add the heavy cream and a splash of low-sodium broth to the chicken; simmer for 2 minutes until the sauce thickens.",
     "Arrange a layer of cooked rice in a baking dish. Top with the creamy chicken mixture. Add another thin layer of rice on top.",
     "Transfer the dish to the oven and bake for 10 minutes to meld the flavors.",
@@ -113,5 +113,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Salty Creamy",
     "dishForm": "Biryani"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "lunch"
+  ]
 }

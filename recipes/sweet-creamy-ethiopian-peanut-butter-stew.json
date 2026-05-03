@@ -1,6 +1,6 @@
 {
   "title": "Sweet Creamy Ethiopian Peanut Butter Stew",
-  "description": "A comforting, sweet and creamy stew that combines nutty peanut butter with fresh vegetables, a touch of rice vinegar, and aromatic Ethiopian spices, perfect for meal‑prep and Whole30‑friendly.",
+  "description": "A comforting, sweet and creamy stew that combines nutty peanut butter with fresh vegetables, a touch of rice vinegar, and aromatic Ethiopian spices, perfect for mealprep and Whole30friendly.",
   "cuisine": "Ethiopian",
   "diet": [
     "whole30"
@@ -40,7 +40,7 @@
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "unsweetened coconut milk",
@@ -85,7 +85,7 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat.",
-    "Add the chopped onion, minced garlic, and grated ginger; sauté until the onion becomes translucent, about 3-4 minutes.",
+    "Add the chopped onion, minced garlic, and grated ginger; saut\u00e9 until the onion becomes translucent, about 3-4 minutes.",
     "Add the sliced carrot, diced sweet potato, and diced red bell pepper to the pot; stir to combine.",
     "Sprinkle in the cinnamon, cardamom, and cayenne pepper; cook for 1 minute to toast the spices.",
     "Pour in the vegetable broth and bring the mixture to a gentle simmer.",
@@ -94,7 +94,7 @@
     "Gradually pour the peanut butter mixture back into the pot, stirring constantly to avoid lumps.",
     "Simmer the stew for an additional 5-7 minutes, letting the flavors meld and the sauce thicken slightly.",
     "Stir in the rice vinegar and season with salt to taste.",
-    "Serve hot, or let cool completely and refrigerate for meal‑prep. Enjoy over cauliflower rice or as a hearty soup.",
+    "Serve hot, or let cool completely and refrigerate for meal\u2011prep. Enjoy over cauliflower rice or as a hearty soup.",
     "Serve immediately for best flavor and texture."
   ],
   "slug": "sweet-creamy-ethiopian-peanut-butter-stew",
@@ -114,5 +114,20 @@
     "mainIngredient": "Peanut Butter",
     "descriptor": "Sweet Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "dinner"
+  ]
 }

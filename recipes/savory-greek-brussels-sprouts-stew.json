@@ -69,9 +69,9 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a large pot over medium heat. Add diced onion and sauté until translucent, about 4 minutes.",
+    "Heat olive oil in a large pot over medium heat. Add diced onion and saut\u00e9 until translucent, about 4 minutes.",
     "Add minced garlic and cook for 30 seconds until fragrant.",
-    "Add halved Brussels sprouts and sauté until lightly browned, about 4 minutes.",
+    "Add halved Brussels sprouts and saut\u00e9 until lightly browned, about 4 minutes.",
     "Stir in tomato paste and cook for 1 minute to deepen the flavor.",
     "Pour in white wine, deglaze the pan, and let it reduce for 2 minutes.",
     "Add diced tomatoes and vegetable broth, bring to a gentle simmer. Season with oregano & thyme, salt, and pepper to taste. Simmer for 15 minutes until sprouts are tender.",
@@ -97,5 +97,20 @@
     "mainIngredient": "Brussels Sprouts",
     "descriptor": "Savory",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "dinner"
+  ]
 }

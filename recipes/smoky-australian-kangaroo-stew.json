@@ -1,6 +1,6 @@
 {
   "title": "Smoky Australian Kangaroo Stew",
-  "description": "A robust, smoky stew featuring tender kangaroo cubes simmered with tomatoes, carrots, and aromatic spices for a hearty, sugar‑free Australian comfort dish.",
+  "description": "A robust, smoky stew featuring tender kangaroo cubes simmered with tomatoes, carrots, and aromatic spices for a hearty, sugarfree Australian comfort dish.",
   "cuisine": "Australian",
   "diet": [
     "gluten-free",
@@ -39,7 +39,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "carrots",
@@ -59,11 +59,11 @@
     }
   ],
   "instructions": [
-    "Heat the oil in a large pot over medium‑high heat. Add the kangaroo cubes and sear until browned on all sides, about 5 minutes. Remove and set aside.",
-    "Add the diced onion and minced garlic to the same pot. Cook until the onion is translucent, about 3–4 minutes.",
+    "Heat the oil in a large pot over medium\u2011high heat. Add the kangaroo cubes and sear until browned on all sides, about 5 minutes. Remove and set aside.",
+    "Add the diced onion and minced garlic to the same pot. Cook until the onion is translucent, about 3\u20134 minutes.",
     "Sprinkle in the smoked paprika, ground cumin, smoked sea salt, and black pepper. Stir and let the spices toast for 1 minute to release their aroma.",
     "Return the seared kangaroo to the pot. Add the sliced carrots and chopped bell pepper, tossing everything to combine.",
-    "Pour in the crushed tomatoes and beef broth. Bring the mixture to a gentle boil, then reduce the heat to low, cover, and let it simmer for 90 minutes, or until the kangaroo is fork‑tender.",
+    "Pour in the crushed tomatoes and beef broth. Bring the mixture to a gentle boil, then reduce the heat to low, cover, and let it simmer for 90 minutes, or until the kangaroo is fork\u2011tender.",
     "Taste the stew and adjust the seasoning with additional smoked sea salt if needed.",
     "Serve the stew hot, optionally garnished with a sprinkle of fresh parsley for color and freshness. Enjoy the smoky, juicy flavors of the Australian outback in every bite."
   ],
@@ -84,5 +84,20 @@
     "mainIngredient": "Kangaroo",
     "descriptor": "Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "dinner"
+  ]
 }

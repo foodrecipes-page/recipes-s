@@ -44,12 +44,12 @@
     }
   ],
   "instructions": [
-    "Preheat sous-vide machine to 158°F (70°C).",
+    "Preheat sous-vide machine to 158\u00b0F (70\u00b0C).",
     "Mix flour, sugar, baking powder, and salt in a large bowl.",
     "Beat eggs well. Gradually add beaten eggs into the dry ingredients while mixing until smooth.",
     "Heat butter or oil in a non-stick pan over medium heat.",
     "Form small doughnuts with egg mixture and place them in the preheated pan for about 2-3 minutes on each side, using a spatula to prevent sticking.",
-    "Place stuffed eggs into the sous-vide machine at 158°F (70°C) for approximately 4 hours or until fully cooked.",
+    "Place stuffed eggs into the sous-vide machine at 158\u00b0F (70\u00b0C) for approximately 4 hours or until fully cooked.",
     "Remove from sous-vide and serve with desired sauces as an accompaniment."
   ],
   "prepTimeMin": 20,
@@ -64,9 +64,9 @@
   ],
   "nutrition": {
     "calories": 382,
-    "protein": 25.1,
-    "carbs": 46.9,
-    "fat": 9.9
+    "protein": 25,
+    "carbs": 47,
+    "fat": 10
   },
   "slug": "sous-vide-protein-stuffed-pancakes",
   "source": "ollama-qwen2.5:3b",

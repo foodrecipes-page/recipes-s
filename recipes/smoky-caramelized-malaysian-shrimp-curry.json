@@ -1,6 +1,6 @@
 {
   "title": "Smoky Caramelized Malaysian Shrimp Curry",
-  "description": "A savory, low‑carb one‑pot curry that balances sweet, smoky paprika with the bright tang of lime and tamarind. Perfect for a quick dinner that feels gourmet.",
+  "description": "A savory, lowcarb onepot curry that balances sweet, smoky paprika with the bright tang of lime and tamarind. Perfect for a quick dinner that feels gourmet.",
   "cuisine": "Malaysian",
   "diet": [
     "low-carb"
@@ -42,7 +42,7 @@
     {
       "name": "Coconut milk",
       "amount": "150ml",
-      "notes": "full‑fat"
+      "notes": "full\u2011fat"
     },
     {
       "name": "Fish sauce",
@@ -54,7 +54,7 @@
     },
     {
       "name": "Lime",
-      "amount": "juice of ½",
+      "amount": "juice of \u00bd",
       "notes": "fresh"
     },
     {
@@ -65,12 +65,12 @@
   ],
   "instructions": [
     "Rinse the shrimp and pat dry with paper towels.",
-    "Heat the coconut oil in a medium‑sized pot over medium heat until shimmering.",
-    "Add the chopped onion and sauté until translucent, about 3 minutes.",
+    "Heat the coconut oil in a medium\u2011sized pot over medium heat until shimmering.",
+    "Add the chopped onion and saut\u00e9 until translucent, about 3 minutes.",
     "Stir in the minced garlic and ginger, cooking for 30 seconds until fragrant.",
     "Add the sweet smoked paprika and curry powder, stirring constantly for 1 minute to toast the spices.",
     "Pour in the coconut milk, fish sauce, and tamarind paste; bring the mixture to a gentle simmer, letting the flavors meld for 2 minutes.",
-    "Add the shrimp to the pot and cook for 3‑4 minutes, or until they turn pink and opaque, ensuring an internal temperature of at least 140°F (60°C).",
+    "Add the shrimp to the pot and cook for 3\u20114 minutes, or until they turn pink and opaque, ensuring an internal temperature of at least 140\u00b0F (60\u00b0C).",
     "Stir in the lime juice, taste, and adjust seasoning with salt or extra fish sauce if needed.",
     "Remove from heat and let rest for 1 minute to allow the flavors to settle.",
     "Sprinkle chopped cilantro over the curry before serving."
@@ -92,5 +92,20 @@
     "mainIngredient": "shrimp",
     "descriptor": "Smoky Caramelized",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "malaysian",
+    "dinner"
+  ]
 }

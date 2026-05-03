@@ -1,6 +1,6 @@
 {
   "title": "Smoky Korean Mackerel Grill",
-  "description": "Earthy, light, and show‑off Korean dish featuring pepper, smoke, and a pescatarian-friendly glaze.",
+  "description": "Earthy, light, and showoff Korean dish featuring pepper, smoke, and a pescatarian-friendly glaze.",
   "cuisine": "Korean",
   "diet": [
     "pescatarian",
@@ -35,15 +35,15 @@
     },
     {
       "name": "fresh ginger, minced",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "black pepper, freshly ground",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "smoked paprika",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "sesame oil",
@@ -63,8 +63,8 @@
     "In a small bowl, whisk together gochujang, soy sauce, rice vinegar, honey, minced garlic, ginger, black pepper, smoked paprika, and sesame oil to create the glaze.",
     "Pat the mackerel fillets dry with paper towels and season both sides with a pinch of salt and a light dusting of black pepper.",
     "Brush each fillet generously with the glaze, reserving a small amount for glazing during cooking.",
-    "Place the fillets on the grill skin side down and cook for 4–5 minutes, then flip and brush again with the remaining glaze.",
-    "Continue grilling, basting occasionally, until the flesh flakes easily with a fork (about 5–7 minutes total).",
+    "Place the fillets on the grill skin side down and cook for 4\u20135 minutes, then flip and brush again with the remaining glaze.",
+    "Continue grilling, basting occasionally, until the flesh flakes easily with a fork (about 5\u20137 minutes total).",
     "Remove from heat and let rest for 2 minutes.",
     "Transfer to a serving platter, drizzle any remaining glaze, sprinkle with toasted sesame seeds and sliced green onions, and serve immediately with a side of steamed rice or a light salad."
   ],
@@ -85,5 +85,20 @@
     "mainIngredient": "Mackerel",
     "descriptor": "Smoky",
     "dishForm": "Grill"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "korean",
+    "dinner"
+  ]
 }

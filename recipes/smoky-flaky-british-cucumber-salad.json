@@ -1,17 +1,17 @@
 {
   "title": "Smoky Flaky British Cucumber Salad",
-  "description": "A quick, nut-free British salad featuring Persian cucumbers, caramelized onions, shredded smoked cheddar, and a honey‑mustard dressing for a smoky, flaky twist.",
+  "description": "A quick, nut-free British salad featuring Persian cucumbers, caramelized onions, shredded smoked cheddar, and a honeymustard dressing for a smoky, flaky twist.",
   "cuisine": "British",
   "diet": [
     "vegetarian",
-    "nut‑free"
+    "nut\u2011free"
   ],
   "meal": "lunch",
   "ingredients": [
     {
       "name": "Persian cucumber",
       "amount": "2 medium",
-      "notes": "thinly sliced into half‑moons"
+      "notes": "thinly sliced into half\u2011moons"
     },
     {
       "name": "Red onion",
@@ -55,7 +55,7 @@
   ],
   "instructions": [
     "Heat 1 tbsp olive oil in a skillet over medium heat.",
-    "Add sliced red onion and cook, stirring occasionally, until caramelized and golden brown, about 5‑6 minutes.",
+    "Add sliced red onion and cook, stirring occasionally, until caramelized and golden brown, about 5\u20116 minutes.",
     "While the onions caramelize, whisk together 1 tsp Dijon mustard, 1 tsp honey, 1 tsp smoked paprika, salt, and pepper to make the dressing.",
     "In a large bowl, combine the sliced Persian cucumbers, caramelized onions, shredded smoked cheddar, and chopped chives.",
     "Pour the dressing over the salad and toss gently until everything is evenly coated.",
@@ -78,5 +78,20 @@
     "mainIngredient": "cucumber",
     "descriptor": "Smoky Flaky",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "british",
+    "lunch"
+  ]
 }

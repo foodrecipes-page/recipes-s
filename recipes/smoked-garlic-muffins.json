@@ -27,7 +27,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F (205°C).",
+    "Preheat your oven to 400\u00b0F (205\u00b0C).",
     "In a large mixing bowl, cream the softened butter with a whisk until smooth and pale in color.",
     "Gradually add the all-purpose flour while continuing to mix until you have a crumbly dough. Avoid overworking it to keep it light and airy.",
     "Fold in minced garlic evenly throughout the mixture.",
@@ -48,9 +48,9 @@
   ],
   "nutrition": {
     "calories": 190,
-    "protein": 4.6,
-    "carbs": 32.8,
-    "fat": 13.7
+    "protein": 5,
+    "carbs": 33,
+    "fat": 14
   },
   "slug": "smoked-garlic-muffins",
   "source": "ollama-qwen2.5:3b",

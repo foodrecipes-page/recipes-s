@@ -3,7 +3,7 @@
   "description": "This brunch-mood Venezuelan dish features an unconventional sour and velvety raw-friendly salad made with unwaxed limes cooked sous-vide to perfection.",
   "cuisine": "Venezuelan",
   "diet": null,
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Unwaxed limes",
@@ -54,5 +54,20 @@
     "mainIngredient": "lime",
     "descriptor": "Sour Velvety",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "breakfast"
+  ]
 }

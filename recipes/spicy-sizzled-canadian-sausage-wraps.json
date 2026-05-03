@@ -25,7 +25,7 @@
   "instructions": [
     "Preheat a skillet over medium heat.",
     "Slice the Canadian sausages into rounds.",
-    "Sauté the sliced sausages in the heated skillet until browned on both sides.",
+    "Saut\u00e9 the sliced sausages in the heated skillet until browned on both sides.",
     "In a separate bowl, mix together the lime juice with any chosen toppings (e.g., chopped lettuce and tomato).",
     "Warm the avocado slices in the skillet or in the oven until soft.",
     "Assemble the wraps by placing a sausages slice in each wrap. Top with warm avocado and dressing of your choice.",
@@ -63,5 +63,10 @@
     "mainIngredient": "Sausage",
     "descriptor": "Spicy Sizzled",
     "dishForm": "Wraps"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

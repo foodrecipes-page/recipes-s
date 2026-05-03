@@ -1,6 +1,6 @@
 {
   "title": "Spicy Dense Tunisian Jerusalem Artichokes Tagine",
-  "description": "A heart‑warming, spicy and dense tagine featuring tender lamb, caramelized Jerusalem artichokes, and a fragrant harissa spice blend—an ideal romantic dinner for two or more.",
+  "description": "A heartwarming, spicy and dense tagine featuring tender lamb, caramelized Jerusalem artichokes, and a fragrant harissa spice blend-an ideal romantic dinner for two or more.",
   "cuisine": "Tunisian",
   "diet": [
     "paleo"
@@ -59,11 +59,11 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a heavy‑bottomed pot or tagine over medium‑high heat. Add the cubed lamb in batches, searing until browned on all sides; remove and set aside.",
-    "In the same pot, add diced onion, minced garlic, and ginger; sauté until the onion is translucent and fragrant, about 5 minutes.",
+    "Heat the olive oil in a heavy\u2011bottomed pot or tagine over medium\u2011high heat. Add the cubed lamb in batches, searing until browned on all sides; remove and set aside.",
+    "In the same pot, add diced onion, minced garlic, and ginger; saut\u00e9 until the onion is translucent and fragrant, about 5 minutes.",
     "Return the lamb to the pot and stir in the harissa paste and spice blend; cook for 2 minutes to let the spices bloom.",
     "Add the sliced Jerusalem artichokes, pouring in the water or bone broth to almost cover the mixture; stir to combine.",
-    "Reduce the heat to low, cover, and let the tagine simmer gently for 90–100 minutes, stirring occasionally, until the lamb is fork‑tender and the artichokes are soft.",
+    "Reduce the heat to low, cover, and let the tagine simmer gently for 90\u2013100 minutes, stirring occasionally, until the lamb is fork\u2011tender and the artichokes are soft.",
     "Remove the cover, increase heat to medium and reduce the liquid by about half, letting the sauce thicken and become glossy.",
     "Stir in the chopped cilantro, taste and adjust seasoning with additional salt or pepper if needed.",
     "Serve hot straight from the tagine, accompanied by a side of crusty bread or a fresh salad for a complete meal."
@@ -85,5 +85,20 @@
     "mainIngredient": "Jerusalem Artichokes",
     "descriptor": "Spicy Dense",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "tunisian",
+    "dinner"
+  ]
 }

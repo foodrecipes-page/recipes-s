@@ -1,6 +1,6 @@
 {
   "title": "Smoky Indian Bitter Gourd Curry",
-  "description": "A hearty, monsoon‑season curry that balances the bitterness of raw bitter gourd with smoky spices and a tangy finish.",
+  "description": "A hearty, monsoonseason curry that balances the bitterness of raw bitter gourd with smoky spices and a tangy finish.",
   "cuisine": "Indian",
   "diet": [
     "vegetarian",
@@ -11,7 +11,7 @@
     {
       "name": "Raw bitter gourd",
       "amount": "2 medium",
-      "notes": "sliced ½‑inch thick"
+      "notes": "sliced \u00bd\u2011inch thick"
     },
     {
       "name": "Onion",
@@ -25,50 +25,50 @@
     },
     {
       "name": "Ginger",
-      "amount": "1‑inch piece",
+      "amount": "1\u2011inch piece",
       "notes": "grated"
     },
     {
       "name": "Tomato puree",
-      "amount": "200 ml"
+      "amount": "200\u202fml"
     },
     {
       "name": "Mustard and cumin seeds",
-      "amount": "1 tsp each"
+      "amount": "1\u202ftsp each"
     },
     {
       "name": "Turmeric powder",
-      "amount": "½ tsp"
+      "amount": "\u00bd\u202ftsp"
     },
     {
       "name": "Red chili powder",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Garam masala",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Vegetable oil",
-      "amount": "2 tbsp"
+      "amount": "2\u202ftbsp"
     },
     {
       "name": "Salt",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Water",
-      "amount": "1 cup"
+      "amount": "1\u202fcup"
     }
   ],
   "instructions": [
     "Heat the oil in a deep pan over medium heat.",
-    "Add mustard and cumin seeds; let them splutter for 10‑15 seconds.",
-    "Sauté the chopped onion until translucent, about 3 min.",
-    "Add minced garlic and grated ginger; cook for 1 min until fragrant.",
-    "Stir in the tomato puree, turmeric, red chili powder, and garam masala; simmer for 5 min, letting the oil separate from the masala.",
+    "Add mustard and cumin seeds; let them splutter for 10\u201115 seconds.",
+    "Saut\u00e9 the chopped onion until translucent, about 3\u202fmin.",
+    "Add minced garlic and grated ginger; cook for 1\u202fmin until fragrant.",
+    "Stir in the tomato puree, turmeric, red chili powder, and garam masala; simmer for 5\u202fmin, letting the oil separate from the masala.",
     "Add the sliced bitter gourd and pour in 1 cup water; season with salt.",
-    "Cover and cook on low heat for 20 min, stirring occasionally, until the bitter gourd is tender and the flavors meld.",
+    "Cover and cook on low heat for 20\u202fmin, stirring occasionally, until the bitter gourd is tender and the flavors meld.",
     "Serve hot, garnished with fresh cilantro if desired."
   ],
   "slug": "smoky-indian-bitter-gourd-curry",
@@ -88,5 +88,20 @@
     "mainIngredient": "bitter gourd",
     "descriptor": "Smoky",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "dinner"
+  ]
 }

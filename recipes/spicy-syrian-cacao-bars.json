@@ -10,42 +10,42 @@
   "ingredients": [
     {
       "name": "Unsweetened cacao nibs",
-      "amount": "1 cup (120 g)",
+      "amount": "1 cup (120\u202fg)",
       "notes": "crunchy, bitter base"
     },
     {
       "name": "Almond flour",
-      "amount": "1/2 cup (60 g)",
+      "amount": "1/2 cup (60\u202fg)",
       "notes": "binds and adds protein"
     },
     {
       "name": "Coconut oil, melted",
-      "amount": "1/4 cup (60 g)",
+      "amount": "1/4 cup (60\u202fg)",
       "notes": "binding agent, rich texture"
     },
     {
       "name": "Unsweetened coconut milk",
-      "amount": "1/2 cup (120 ml)",
+      "amount": "1/2 cup (120\u202fml)",
       "notes": "moistens and complements cacao"
     },
     {
       "name": "Kosher honey",
-      "amount": "1/4 cup (80 g)",
+      "amount": "1/4 cup (80\u202fg)",
       "notes": "natural sweetener"
     },
     {
       "name": "Thai red curry paste",
-      "amount": "2 Tbsp (30 g)",
+      "amount": "2\u202fTbsp (30\u202fg)",
       "notes": "provides heat and depth"
     },
     {
       "name": "Ground ginger",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "warm spice"
     },
     {
       "name": "Ground turmeric",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "anti-inflammatory color"
     },
     {
@@ -55,26 +55,26 @@
     },
     {
       "name": "Lime zest",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "bright acidity"
     },
     {
       "name": "Lime juice",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "fresh acidity"
     },
     {
       "name": "Vanilla extract",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "subtle sweetness"
     }
   ],
   "instructions": [
-    "Preheat oven to 350 °F (if baking) or simply assemble for a no‑bake version.",
-    "In a heat‑proof bowl, combine melted coconut oil, coconut milk, honey, and vanilla extract; whisk until smooth.",
+    "Preheat oven to 350\u202f\u00b0F (if baking) or simply assemble for a no\u2011bake version.",
+    "In a heat\u2011proof bowl, combine melted coconut oil, coconut milk, honey, and vanilla extract; whisk until smooth.",
     "Stir in Thai red curry paste, ground ginger, turmeric, sea salt, lime zest, and lime juice until fully incorporated.",
-    "Fold in cacao nibs and almond flour, mixing until the mixture is uniformly crumbly and well‑bound.",
-    "Transfer the dough to a greased 8‑inch square pan, pressing firmly to create an even layer. If baking, bake for 15–20 min until set; if no‑bake, chill in refrigerator for 30 min.",
+    "Fold in cacao nibs and almond flour, mixing until the mixture is uniformly crumbly and well\u2011bound.",
+    "Transfer the dough to a greased 8\u2011inch square pan, pressing firmly to create an even layer. If baking, bake for 15\u201320\u202fmin until set; if no\u2011bake, chill in refrigerator for 30\u202fmin.",
     "Remove from pan, cut into 12 bars, and store in an airtight container in the fridge for up to one week."
   ],
   "slug": "spicy-syrian-cacao-bars",
@@ -94,5 +94,20 @@
     "mainIngredient": "cacao",
     "descriptor": "Spicy",
     "dishForm": "Bars"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "syrian",
+    "snack"
+  ]
 }

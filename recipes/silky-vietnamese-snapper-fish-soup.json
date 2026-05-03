@@ -15,12 +15,12 @@
     {
       "name": "fish stock",
       "amount": "4 cups (1 L)",
-      "notes": "homemade or low-sodium store‑bought"
+      "notes": "homemade or low-sodium store\u2011bought"
     },
     {
       "name": "coconut milk",
       "amount": "1 cup (240 ml)",
-      "notes": "full‑fat for silky texture"
+      "notes": "full\u2011fat for silky texture"
     },
     {
       "name": "lemongrass stalk",
@@ -70,9 +70,9 @@
   ],
   "instructions": [
     "Heat a large pot over medium heat and add a splash of coconut oil.",
-    "Add lemongrass, galangal, and kaffir lime leaves; sauté for 2 minutes until fragrant, then deglaze with 1 cup of fish stock, scraping up the browned bits.",
-    "Pour in the remaining fish stock and bring the broth to a gentle simmer. Add snapper pieces and simmer gently for 4–5 minutes, until the fish turns opaque (internal temp 145°F).",
-    "Stir in coconut milk, fish sauce, and lime juice; adjust seasoning if needed. Re‑warm gently, ensuring it does not boil.",
+    "Add lemongrass, galangal, and kaffir lime leaves; saut\u00e9 for 2 minutes until fragrant, then deglaze with 1 cup of fish stock, scraping up the browned bits.",
+    "Pour in the remaining fish stock and bring the broth to a gentle simmer. Add snapper pieces and simmer gently for 4\u20135 minutes, until the fish turns opaque (internal temp 145\u00b0F).",
+    "Stir in coconut milk, fish sauce, and lime juice; adjust seasoning if needed. Re\u2011warm gently, ensuring it does not boil.",
     "Serve hot, garnished with scallions, basil, cilantro, and sliced chili if desired."
   ],
   "slug": "silky-vietnamese-snapper-fish-soup",
@@ -92,5 +92,20 @@
     "mainIngredient": "snapper fish",
     "descriptor": "Silky",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "vietnamese",
+    "dinner"
+  ]
 }

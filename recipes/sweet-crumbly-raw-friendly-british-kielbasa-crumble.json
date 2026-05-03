@@ -38,7 +38,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 180°C (350°F).",
+    "Preheat your oven to 180\u00b0C (350\u00b0F).",
     "Mix kielbasa, dumplings, raw honey, coconut flakes, chopped walnuts, and maple syrup in a bowl until combined.",
     "Divide the mixture into individual portions on a baking sheet lined with parchment paper.",
     "Sprinkle sesame seeds over each portion for extra crunch.",
@@ -59,9 +59,9 @@
   ],
   "nutrition": {
     "calories": 295,
-    "protein": 13.7,
-    "carbs": 14.6,
-    "fat": 10.8
+    "protein": 14,
+    "carbs": 15,
+    "fat": 11
   },
   "slug": "sweet-crumbly-raw-friendly-british-kielbasa-crumble",
   "source": "ollama-qwen2.5:3b",

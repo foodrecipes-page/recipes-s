@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "In a mixing bowl, combine white cornmeal, pickled vegetables, fresh herbs, olive oil, salt, and pepper.",
     "Mix until evenly combined. Transfer the mixture onto a baking sheet lined with parchment paper.",
     "Bake for about 25-30 minutes or until golden brown on top.",
@@ -53,9 +53,9 @@
   ],
   "nutrition": {
     "calories": 187,
-    "protein": 3.2,
-    "carbs": 40.5,
-    "fat": 9.6
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
   },
   "slug": "salty-crusty-white-cornmeal-crumble",
   "source": "ollama-qwen2.5:3b",
