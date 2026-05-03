@@ -1,0 +1,96 @@
+{
+  "title": "Sour Chewy Syrian English Muffin Bake",
+  "description": "A unique Jain-friendly dish that combines the flavors of Syria with the comfort of English muffins, perfect for a energizing breakfast or snack. This sour and chewy bake is made with a blend of spices and ingredients that will leave you wanting more.",
+  "cuisine": "Syrian",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": "6-8",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "za'atar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the English muffins into 1-inch cubes and place them in a large bowl.",
+    "In a small bowl, whisk together the za'atar, sumac, olive oil, lemon juice, and apple cider vinegar.",
+    "Pour the wet ingredients over the English muffin cubes and toss to coat.",
+    "Sprinkle the chopped parsley, scallions, and salt over the top and toss again to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25-30 minutes, or until the English muffins are toasted and the mixture is heated through.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Serve the Sour Chewy Syrian English Muffin Bake warm, garnished with additional parsley and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "syrian-cuisine",
+    "jain-friendly",
+    "vegetarian",
+    "breakfast",
+    "brunch",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "sour-chewy-syrian-english-muffin-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-syrian-english-muffin-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:41:47Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "bake",
+    "primaryIngredient": "english muffins",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "english muffins",
+    "descriptor": "sour chewy",
+    "dishForm": "Bake"
+  }
+}
