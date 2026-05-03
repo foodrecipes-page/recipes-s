@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Velvety Dutch Beef Stew",
+  "description": "A rich and flavorful Dutch stew featuring tender shredded beef in a smoky velvety sauce, perfect for a midnight craving. This halal-friendly dish is made with sautéed onions and a blend of spices.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef brisket or shank",
+      "amount": "1.5 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add beef pieces and cook until browned on all sides, about 5-7 minutes.",
+    "Add smoked paprika, cumin, salt, and pepper, and stir to combine.",
+    "Add beef broth, tomato paste, and browned beef, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 2.5 hours, or until beef is tender.",
+    "Shred beef with two forks and return to pot.",
+    "Stir in flour to thicken sauce, and cook for an additional 10-15 minutes.",
+    "Serve hot, garnished with chopped fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "beef-stew",
+    "smoky",
+    "velvety",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "smoky-velvety-dutch-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-velvety-dutch-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:10:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "shredded meat",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "smoky velvety",
+    "dishForm": "Stew"
+  }
+}
