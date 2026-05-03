@@ -1,0 +1,86 @@
+{
+  "title": "Smoky Roasted French Duck Roast",
+  "description": "A rich, umami-packed duck roast with a smoky crust achieved through a tandoor method, perfect for a low-carb date-night dinner.",
+  "cuisine": "french",
+  "diet": [
+    "low-carb",
+    "umami"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "200g",
+      "notes": "thinly sliced, skin-on"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 tsp",
+      "notes": "for crust texture"
+    },
+    {
+      "name": "tandoor clay oven",
+      "amount": "1",
+      "notes": "preheated to 200°C"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for moisture"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp",
+      "notes": "umami depth"
+    }
+  ],
+  "instructions": [
+    "Preheat tandoor oven to 200°C (400°F) with clay bricks for even heat distribution.",
+    "In a small bowl, mix bicarbonate of soda, smoked paprika, garlic powder, and olive oil for the crust blend.",
+    "Place duck breasts skin-side down on the tandoor oven rack, ensuring even contact with the heat source.",
+    "Brush duck skin with the crust blend and roast for 10-12 minutes until skin is crisp and meat is tender."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "roast",
+    "duck",
+    "low-carb",
+    "umami",
+    "date-night",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 32,
+    "carbs": 1,
+    "fat": 18
+  },
+  "slug": "smoky-roasted-french-duck-roast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-french-duck-roast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:19:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "duck",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Roast"
+  }
+}
