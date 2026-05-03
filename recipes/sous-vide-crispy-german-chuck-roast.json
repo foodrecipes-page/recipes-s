@@ -1,0 +1,83 @@
+{
+  "title": "Sous-vide Crispy German Chuck Roast",
+  "description": "A floral and light German dish featuring a nut-free-friendly sous-vide cooked chuck roast for a brunch-mood meal.",
+  "cuisine": "German",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Sous-vide bag",
+      "amount": "1",
+      "notes": "2L capacity or larger"
+    },
+    {
+      "name": "German Chuck Roast",
+      "amount": "1 (6-8 lbs)",
+      "notes": "Approximately, room temperature"
+    },
+    {
+      "name": "Vegetable Oil spray",
+      "amount": "enough for coating"
+    },
+    {
+      "name": "Flour",
+      "amount": "3 tbsp",
+      "notes": "For dusting the roast and seasoning"
+    },
+    {
+      "name": "Paprika (Spanish)",
+      "amount": "1 tsp",
+      "notes": "For seasoning the roast and adding a touch of floral note"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "For flavoring the sous-vide bag"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 135°F (57°C).",
+    "Spray a sous-vide bag with vegetable oil and place the chuck roast inside, making sure it's coated evenly.",
+    "In another bowl, mix flour and paprika. Toss the roast in the mixture until covered entirely.",
+    "Place the seasoned roast into the preheated sous-vide machine and cook for 12 hours on low (low temp is approximately 135°F or 57°C).",
+    "After cooking, remove the roast from the bag and place it on a cutting board. Allow to rest for at least 10 minutes.",
+    "To serve, slice the roast thinly against the grain over a plate lined with parchment paper, allowing any excess juices to drip off naturally."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1200,
+  "totalTimeMin": 1230,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "german",
+    "roast",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 856,
+    "protein": 49,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "sous-vide-crispy-german-chuck-roast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sous-vide-crispy-german-chuck-roast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:01:56Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "chuck roast",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Sous-vide",
+    "dishForm": "Roast"
+  }
+}
