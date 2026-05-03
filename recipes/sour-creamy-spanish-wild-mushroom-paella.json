@@ -1,0 +1,97 @@
+{
+  "title": "Sour Creamy Spanish Wild Mushroom Paella",
+  "description": "This sour and creamy Spanish wild mushroom paella is perfect for brunch, featuring a sous-vide cooking method to ensure even heat distribution.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "2 cups wild mushrooms",
+      "amount": "pieces or chopped",
+      "notes": "such as shiitake, oyster, or button mushrooms"
+    },
+    {
+      "name": "1 cup sour cream",
+      "amount": "full cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "full cup",
+      "notes": ""
+    },
+    {
+      "name": "6 ounces saffron threads (for coloring the rice)"
+    },
+    {
+      "name": "1 large onion, finely chopped"
+    },
+    {
+      "name": "3 cloves garlic, minced"
+    },
+    {
+      "name": "1/2 cup white wine"
+    },
+    {
+      "name": "4 cups chicken stock or water"
+    },
+    {
+      "name": "1 (16 oz) bag arborio rice"
+    },
+    {
+      "name": "1 teaspoon kosher salt"
+    },
+    {
+      "name": "A few pinches of freshly ground black pepper"
+    },
+    {
+      "name": "Vegetable oil, for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 180°F (or oven to 375°F).",
+    "In a large sauté pan over medium heat, add a drizzle of vegetable oil and the chopped onion. Sauté until translucent.",
+    "Add minced garlic and cook for another minute, stirring frequently to prevent burning.",
+    "Pour in white wine and let reduce by half. Add chicken stock or water and stir well to combine.",
+    "Place saffron threads on top of the liquid mixture. Cook over medium-low heat until it’s hot but not boiling.",
+    "Meanwhile, pre-sous-vide your arborio rice as per your sous-vide instructions (typically 10-15 minutes at 180°F).",
+    "Remove saffroned liquid from heat and stir in sour cream, heavy cream, salt, and pepper. Simmer gently until the sauce is smooth.",
+    "Gently fold in cooked rice to the sauce mixture and continue cooking over low heat for another few minutes to allow flavors to meld together.",
+    "Transfer finished paella to a serving dish and garnish with fresh herbs if desired. Serve hot as an accompaniment to brunch dishes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sour-creamy-spanish-mushroom-paella",
+    "wild-mushrooms",
+    "sous-vide-cooking",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 860,
+    "protein": 34,
+    "carbs": 72,
+    "fat": 22
+  },
+  "slug": "sour-creamy-spanish-wild-mushroom-paella",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-creamy-spanish-wild-mushroom-paella",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:01:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Wild Mushrooms",
+    "descriptor": "Sour Creamy",
+    "dishForm": "Paella"
+  }
+}
