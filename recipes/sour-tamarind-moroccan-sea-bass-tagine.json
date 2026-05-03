@@ -1,0 +1,116 @@
+{
+  "title": "Sour Tamarind Moroccan Sea Bass Tagine",
+  "description": "A bright and sophisticated tagine that balances the sour intensity of tamarind with the delicate sweetness of sea bass and traditional Moroccan aromatics.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass fillets",
+      "amount": "1.5 lbs",
+      "notes": "Skin-on, cut into 4 portions"
+    },
+    {
+      "name": "Tamarind pulp ball",
+      "amount": "2 oz",
+      "notes": "Seedless, softened in 1/2 cup warm water"
+    },
+    {
+      "name": "Preserved lemon",
+      "amount": "1 small",
+      "notes": "Rind only, finely diced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "White fish stock",
+      "amount": "1/2 cup",
+      "notes": "Used to deglaze the pan"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1 pinch",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved"
+    }
+  ],
+  "instructions": [
+    "Strain the softened tamarind through a fine-mesh sieve, discarding the solids and keeping the concentrated liquid paste.",
+    "In a small bowl, whisk together the tamarind paste, ginger, garlic, cumin, saffron, and half of the cilantro to create a chermoula marinade.",
+    "Coat the sea bass fillets with half of the marinade and let sit for 15 minutes.",
+    "Heat olive oil in a tagine or heavy-bottomed skillet over medium heat and sear the sea bass skin-side down for 3 minutes until crisp.",
+    "Remove the fish temporarily and set aside; add the cherry tomatoes to the pan and sauté until they begin to burst.",
+    "Deglaze the pan with the white fish stock, scraping up any browned bits from the bottom.",
+    "Whisk in the remaining marinade and the diced preserved lemon rind to create the poaching liquid.",
+    "Return the fish to the pan, skin-side up, cover with the tagine lid, and simmer on low for 6-8 minutes until the fish is opaque and flakes easily.",
+    "Garnish with the remaining fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "low-sodium",
+    "seafood",
+    "tagine",
+    "tamarind",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 34,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "sour-tamarind-moroccan-sea-bass-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-tamarind-moroccan-sea-bass-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T21:08:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "deglaze",
+    "primaryIngredient": "tamarind ball",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "sea bass",
+    "descriptor": "Sour Tamarind",
+    "dishForm": "Tagine"
+  }
+}
