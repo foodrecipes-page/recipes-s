@@ -1,0 +1,107 @@
+{
+  "title": "Savory Crumbly Peruvian Chicken Casserole",
+  "description": "A hearty and savory Peruvian-inspired casserole featuring chicken, brandy, and pickles, perfect for a cozy dinner. This high-protein dish is made with wholesome ingredients and is suitable for a weeknight meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "brandy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crushed crackers",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a large skillet, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5-7 minutes.",
+    "Add onion, garlic, and aji amarillo pepper to the skillet and cook until the onion is translucent.",
+    "In a large bowl, whisk together brandy, pickle juice, salt, and black pepper. Add the cooked chicken mixture and stir to combine.",
+    "In a separate bowl, mix together shredded cheese and crushed crackers.",
+    "In a 9x13-inch baking dish, arrange half of the chicken mixture in the bottom of the dish. Top with half of the cheese mixture.",
+    "Repeat the layers, starting with the remaining chicken mixture, then the remaining cheese mixture.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian-cuisine",
+    "chicken-casserole",
+    "high-protein",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "savory-crumbly-peruvian-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crumbly-peruvian-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:02:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "brandy",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Savory Crumbly",
+    "dishForm": "Casserole"
+  }
+}

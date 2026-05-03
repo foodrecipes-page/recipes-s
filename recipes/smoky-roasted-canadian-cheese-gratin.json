@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Roasted Canadian Cheese Gratin",
+  "description": "Earthy, light, festive Canadian dish featuring Colby‑Jack cheese, smoky flavor, and keto-friendly ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon Gold potatoes",
+      "amount": "2 medium (≈200 g)",
+      "notes": "Thinly sliced 4‑mm thick"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium (≈100 g)",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Colby‑Jack cheese",
+      "amount": "200 g",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 Tbsp",
+      "notes": "Melted"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Adds smoky depth"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "Leaves, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 Tbsp",
+      "notes": "For drizzling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "50 ml",
+      "notes": "Optional, for extra richness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190 °C (375 °F).",
+    "Wash potatoes and onion, then slice thinly with a mandoline or sharp knife. Toss slices in olive oil, smoked paprika, thyme, salt, and pepper until coated."
+  ],
+  "preTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "smoky",
+    "cheese-dish",
+    "comfort-food",
+    "festive",
+    "pork-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 32
+  },
+  "slug": "smoky-roasted-canadian-cheese-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-canadian-cheese-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:02:16Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Gratin"
+  }
+}
