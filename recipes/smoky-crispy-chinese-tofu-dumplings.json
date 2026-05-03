@@ -1,6 +1,6 @@
 {
   "title": "Smoky Crispy Chinese Tofu Dumplings",
-  "description": "Sour, smoky, and plant‑based dumplings that pack a crunch and a bold flavor punch.",
+  "description": "Sour, smoky, and plantbased dumplings that pack a crunch and a bold flavor punch.",
   "cuisine": "Chinese",
   "diet": [
     "plant-based"
@@ -72,15 +72,15 @@
     }
   ],
   "instructions": [
-    "Press the tofu to remove excess water and cube into 1‑inch pieces.",
+    "Press the tofu to remove excess water and cube into 1\u2011inch pieces.",
     "Whisk tofu with 60g water, 30g cornstarch, 2g liquid smoke, 15g white vinegar, 5g salt and 2g pepper until a sticky batter forms.",
     "In a separate bowl, mix 50g wheat flour with 30g water to create a thin dough; knead until smooth and let rest 10 minutes.",
-    "Divide the dough into 12 small discs (≈4 cm diameter).",
-    "Place a teaspoon of the tofu mixture in the center of each disc, fold over to form a half‑moon, and pleat the edges tightly.",
-    "Heat 15g sesame oil in a non‑stick pan over medium‑high heat; sear 4 dumplings for 2 min until golden.",
-    "Add 10g water to the pan, cover, and steam the dumplings for 3 min until the filling is cooked.",
-    "Remove the lid, increase heat, and fry until the edges are crisp, about 2 min more.",
-    "Heat 30g vegetable oil in a separate pan to 170 °C; fry 2 dumplings at a time until deep brown and crispy, 3 min, then drain on paper towels.",
+    "Divide the dough into 12 small discs (\u22484\u202fcm diameter).",
+    "Place a teaspoon of the tofu mixture in the center of each disc, fold over to form a half\u2011moon, and pleat the edges tightly.",
+    "Heat 15g sesame oil in a non\u2011stick pan over medium\u2011high heat; sear 4 dumplings for 2\u202fmin until golden.",
+    "Add 10g water to the pan, cover, and steam the dumplings for 3\u202fmin until the filling is cooked.",
+    "Remove the lid, increase heat, and fry until the edges are crisp, about 2\u202fmin more.",
+    "Heat 30g vegetable oil in a separate pan to 170\u202f\u00b0C; fry 2 dumplings at a time until deep brown and crispy, 3\u202fmin, then drain on paper towels.",
     "Serve hot with a dipping sauce made from 30g soy sauce, 15g white vinegar, 5g sesame oil, 5g chili oil, and chopped green onions; garnish with a pinch of soy sauce and sesame seeds if desired."
   ],
   "slug": "smoky-crispy-chinese-tofu-dumplings",
@@ -100,5 +100,20 @@
     "mainIngredient": "tofu",
     "descriptor": "Smoky Crispy",
     "dishForm": "dumplings"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "chinese",
+    "snack"
+  ]
 }

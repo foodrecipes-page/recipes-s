@@ -1,6 +1,6 @@
 {
   "title": "Smoky Roasted Italian Chickpeas Stew",
-  "description": "A hearty, dense one‑pot stew featuring roasted chickpeas, smoky paprika, and Italian herbs for a comforting plant‑based lunch or dinner.",
+  "description": "A hearty, dense onepot stew featuring roasted chickpeas, smoky paprika, and Italian herbs for a comforting plantbased lunch or dinner.",
   "cuisine": "Italian",
   "diet": [
     "vegan",
@@ -16,7 +16,7 @@
     {
       "name": "olive oil",
       "amount": "2 tablespoons",
-      "notes": "for roasting and sautéing"
+      "notes": "for roasting and saut\u00e9ing"
     },
     {
       "name": "onion",
@@ -67,12 +67,12 @@
     {
       "name": "tomato sauce",
       "amount": "1 cup (240g)",
-      "notes": "low‑sodium"
+      "notes": "low\u2011sodium"
     },
     {
       "name": "vegetable broth",
       "amount": "2 cups (480ml)",
-      "notes": "low‑sodium"
+      "notes": "low\u2011sodium"
     },
     {
       "name": "lemon zest",
@@ -80,15 +80,15 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 400°F (200°C).",
+    "Preheat the oven to 400\u00b0F (200\u00b0C).",
     "In a large bowl, toss the drained chickpeas with 1 tablespoon olive oil, smoked paprika, cumin, coriander, red pepper flakes, salt, and pepper until evenly coated.",
-    "Spread the chickpeas on a baking sheet in a single layer and roast for 20‑25 minutes, stirring once, until golden and crispy. Remove from the oven and set aside.",
+    "Spread the chickpeas on a baking sheet in a single layer and roast for 20\u201125 minutes, stirring once, until golden and crispy. Remove from the oven and set aside.",
     "In a large pot or Dutch oven, heat the remaining tablespoon of olive oil over medium heat. Add the chopped onion and cook until translucent, about 5 minutes. Add the minced garlic and cook for another 30 seconds until fragrant.",
     "Stir in the tomato sauce and 2 cups of vegetable broth. Bring the mixture to a gentle simmer.",
     "Add the roasted chickpeas, rosemary, thyme, and lemon zest to the pot. Reduce the heat to low and let the stew simmer for 15 minutes, allowing the flavors to meld.",
     "Taste and adjust seasoning with additional salt or pepper if needed.",
     "Serve the stew hot, optionally garnished with a drizzle of olive oil or fresh herbs.",
-    "Enjoy this smoky, earthy Italian chickpea stew as a filling plant‑based meal."
+    "Enjoy this smoky, earthy Italian chickpea stew as a filling plant\u2011based meal."
   ],
   "slug": "smoky-roasted-italian-chickpeas-stew",
   "source": "ocloud-gpt-oss:20b",
@@ -107,5 +107,20 @@
     "mainIngredient": "Chickpeas",
     "descriptor": "Smoky Roasted",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "italian",
+    "dinner"
+  ]
 }

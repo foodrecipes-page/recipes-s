@@ -1,0 +1,104 @@
+{
+  "title": "Savory German Salmon Bake",
+  "description": "A garlicky, light one-pot German-style salmon bake that is halal-friendly and packs fresh dill and yogurt flavors.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked salmon fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F) and lightly grease a 9x9 inch baking dish with olive oil.",
+    "Whisk together Greek yogurt, Dijon mustard, minced garlic, lemon juice, chopped dill, salt, pepper, and capers until smooth.",
+    "Arrange smoked salmon fillets in the baking dish in a single layer.",
+    "Spoon the yogurt mixture evenly over the salmon fillets, ensuring they are fully coated.",
+    "Bake uncovered for 12 minutes or until the salmon flakes easily and the yogurt topping is set.",
+    "Remove from oven and let rest 3 minutes before serving.",
+    "Garnish with freshly chopped parsley and a drizzle of olive oil.",
+    "Serve warm as a light lunch or dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fish-dish",
+    "gastronomy",
+    "halal-friendly",
+    "one-pot",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 52,
+    "carbs": 4,
+    "fat": 38
+  },
+  "slug": "savory-german-salmon-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-german-salmon-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:41:00Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "smoked salmon",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "salmon",
+    "descriptor": "Savory",
+    "dishForm": "Bake"
+  }
+}

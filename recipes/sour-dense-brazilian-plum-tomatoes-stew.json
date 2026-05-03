@@ -1,6 +1,6 @@
 {
   "title": "Sour Dense Brazilian Plum Tomatoes Stew",
-  "description": "A tangy, protein‑rich stew made with plum tomatoes, lean turkey, and low‑FODMAP veggies, perfect for a post‑workout meal.",
+  "description": "A tangy, proteinrich stew made with plum tomatoes, lean turkey, and lowFODMAP veggies, perfect for a postworkout meal.",
   "cuisine": "Brazilian",
   "diet": [
     "fodmap-friendly",
@@ -28,7 +28,7 @@
       "notes": "diced"
     },
     {
-      "name": "low‑FODMAP broth",
+      "name": "low\u2011FODMAP broth",
       "amount": "1 cup"
     },
     {
@@ -74,7 +74,7 @@
     "Heat olive oil in a large pot over medium heat.",
     "Add ground turkey and cook until browned, about 5 minutes.",
     "Stir in carrots, zucchini, cumin, paprika, oregano, salt, and pepper; cook for 3 minutes.",
-    "Add chopped plum tomatoes and pour in the low‑FODMAP broth.",
+    "Add chopped plum tomatoes and pour in the low\u2011FODMAP broth.",
     "Bring to a gentle boil, then reduce heat and let simmer uncovered for 20 minutes, or until vegetables are tender and stew has thickened.",
     "Stir in lemon juice and adjust seasoning if needed.",
     "Remove from heat and sprinkle with fresh parsley and basil before serving."
@@ -96,5 +96,20 @@
     "mainIngredient": "plum tomatoes",
     "descriptor": "Sour Dense",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "brazilian",
+    "dinner"
+  ]
 }

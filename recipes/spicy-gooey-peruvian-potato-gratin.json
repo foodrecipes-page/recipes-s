@@ -1,6 +1,6 @@
 {
   "title": "Spicy Gooey Peruvian Potato Gratin",
-  "description": "A creamy, spicy potato gratin inspired by Peruvian flavors, using charlotte potatoes and vegan cheese for a gooey, egg‑free finish perfect for meal prep.",
+  "description": "A creamy, spicy potato gratin inspired by Peruvian flavors, using charlotte potatoes and vegan cheese for a gooey, eggfree finish perfect for meal prep.",
   "cuisine": "Peruvian",
   "diet": [
     "vegan",
@@ -38,7 +38,7 @@
     },
     {
       "name": "Cayenne pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Coconut milk",
@@ -58,14 +58,14 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 190 °C (375 °F).",
-    "While the oven heats, slice the charlotte potatoes into 6 mm thick rounds.",
-    "In a skillet, heat the olive oil over medium heat and sauté the onion, garlic, and ginger until fragrant and translucent, about 3–4 minutes.",
-    "Add the smoked paprika, cumin, and cayenne pepper to the skillet and stir for 30 seconds until aromatic.",
-    "Pour in the coconut milk, bring the mixture to a gentle simmer, and season with salt and pepper; let it thicken slightly for 2 minutes.",
-    "Arrange a layer of potato slices in a greased baking dish, then pour over a portion of the coconut‑milk sauce. Sprinkle a layer of vegan shredded cheese. Repeat the layers until all ingredients are used, finishing with a cheese layer.",
-    "Cover the dish with aluminum foil and bake for 40 minutes at 190 °C. Remove the foil and bake an additional 10 minutes, or until the top is golden and bubbly.",
-    "Let the gratin rest for 5 minutes before serving. Garnish with fresh cilantro if desired."
+    "Preheat the oven to 190\u202f\u00b0C (375\u202f\u00b0F).",
+    "While the oven heats, slice the charlotte potatoes into 6\u202fmm thick rounds.",
+    "In a skillet, heat the olive oil over medium heat and saut\u00e9 the onion, garlic, and ginger until fragrant and translucent, about 3\u20134\u202fminutes.",
+    "Add the smoked paprika, cumin, and cayenne pepper to the skillet and stir for 30\u202fseconds until aromatic.",
+    "Pour in the coconut milk, bring the mixture to a gentle simmer, and season with salt and pepper; let it thicken slightly for 2\u202fminutes.",
+    "Arrange a layer of potato slices in a greased baking dish, then pour over a portion of the coconut\u2011milk sauce. Sprinkle a layer of vegan shredded cheese. Repeat the layers until all ingredients are used, finishing with a cheese layer.",
+    "Cover the dish with aluminum foil and bake for 40\u202fminutes at 190\u202f\u00b0C. Remove the foil and bake an additional 10\u202fminutes, or until the top is golden and bubbly.",
+    "Let the gratin rest for 5\u202fminutes before serving. Garnish with fresh cilantro if desired."
   ],
   "slug": "spicy-gooey-peruvian-potato-gratin",
   "source": "ocloud-gpt-oss:20b",
@@ -84,5 +84,20 @@
     "mainIngredient": "Potato",
     "descriptor": "Spicy Gooey",
     "dishForm": "Gratin"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "peruvian",
+    "dinner"
+  ]
 }

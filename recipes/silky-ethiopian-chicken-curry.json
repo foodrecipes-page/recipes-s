@@ -1,6 +1,6 @@
 {
   "title": "Silky Ethiopian Chicken Curry",
-  "description": "A quick, nut‑free, silky chicken curry bursting with Berbere spice and fragrant makrut lime leaves, perfect for a comforting dinner.",
+  "description": "A quick, nutfree, silky chicken curry bursting with Berbere spice and fragrant makrut lime leaves, perfect for a comforting dinner.",
   "cuisine": "Ethiopian",
   "diet": [
     "gluten-free",
@@ -11,7 +11,7 @@
     {
       "name": "boneless chicken thighs",
       "amount": "500 g",
-      "notes": "cut into bite‑size pieces"
+      "notes": "cut into bite\u2011size pieces"
     },
     {
       "name": "vegetable oil",
@@ -34,7 +34,7 @@
       "amount": "1 tsp"
     },
     {
-      "name": "nut‑free Berbere spice mix",
+      "name": "nut\u2011free Berbere spice mix",
       "amount": "2 tbsp"
     },
     {
@@ -61,12 +61,12 @@
       "amount": "200 ml"
     },
     {
-      "name": "low‑sodium chicken broth",
+      "name": "low\u2011sodium chicken broth",
       "amount": "1 cup"
     },
     {
       "name": "makrut (kaffir) lime leaves",
-      "amount": "2–3",
+      "amount": "2\u20133",
       "notes": "torn"
     },
     {
@@ -85,11 +85,11 @@
   ],
   "instructions": [
     "Heat 2 tbsp vegetable oil in a large skillet over medium heat.",
-    "Add 1 tsp cumin, 1 tsp coriander, 1 tsp mustard, and 1 tsp fennel seeds; toast until fragrant, about 1–2 minutes.",
-    "Add the finely chopped onion and cook for 3–4 minutes until translucent.",
+    "Add 1 tsp cumin, 1 tsp coriander, 1 tsp mustard, and 1 tsp fennel seeds; toast until fragrant, about 1\u20132 minutes.",
+    "Add the finely chopped onion and cook for 3\u20134 minutes until translucent.",
     "Stir in minced garlic, ginger, and 1 tbsp tomato paste; cook for 1 minute.",
-    "Sprinkle 2 tbsp nut‑free Berbere spice mix over the onions and cook for another minute to bloom the spices.",
-    "Add the chicken pieces and brown on all sides, about 4–5 minutes.",
+    "Sprinkle 2 tbsp nut\u2011free Berbere spice mix over the onions and cook for another minute to bloom the spices.",
+    "Add the chicken pieces and brown on all sides, about 4\u20135 minutes.",
     "Pour in 1 cup chicken broth and 200 ml coconut milk; bring to a gentle simmer, then add torn makrut lime leaves.",
     "Reduce heat to low, cover, and simmer for 15 minutes until the chicken is cooked through and the sauce has thickened.",
     "Stir in 1 tbsp lemon juice, season with salt to taste, and remove from heat. Discard the lime leaves.",
@@ -112,5 +112,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Silky",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "dinner"
+  ]
 }

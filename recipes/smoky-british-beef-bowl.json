@@ -77,5 +77,20 @@
     "mainIngredient": "Beef",
     "descriptor": "Smoky Tender",
     "dishForm": "Bowl"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "british",
+    "dinner"
+  ]
 }
