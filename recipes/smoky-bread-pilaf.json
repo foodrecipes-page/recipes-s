@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Bread Pilaf",
+  "description": "A post-workout Russian dish featuring bread flour slowly cooked with smoky flavors for a keto-friendly meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup bread flour",
+      "amount": "cup",
+      "notes": "All-purpose or bread-specific"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 cup cooked chicken or turkey, shredded",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup grated parmesan cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine bread flour and water. Stir to dissolve the flour.",
+    "Add smoked paprika, salt, and black pepper. Bring to a simmer and cook for about 15-20 minutes or until thickened.",
+    "Stir in shredded chicken and parmesan cheese. Cook for an additional 3-4 minutes.",
+    "Fold in melted butter, stirring well to combine all ingredients.",
+    "Serve warm as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread-flour",
+    "smoky",
+    "fluffy",
+    "post-workout",
+    "russian",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "smoky-bread-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-bread-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:38:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "bread flour",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "bread flour",
+    "descriptor": "Smoky",
+    "dishForm": "Bread Pilaf"
+  }
+}
