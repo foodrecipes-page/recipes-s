@@ -1,0 +1,96 @@
+{
+  "title": "Silky Ukrainian Silky Trout Grill",
+  "description": "A sweet, silky plant-based-friendly dish featuring grilled rainbow trout with a hint of Ukrainian spices for a date-night treat.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "plant-based",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rainbow trout fillet",
+      "amount": "200g",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "raw, local honey"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "2 tbsp",
+      ": ": "",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "quinoa",
+      "amount": "50g",
+      "notes": "cooked"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 small",
+      "notes": "fresh"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat (200°C).",
+    "Soak dried apricots overnight in water.",
+    "Cook quinoa according to package instructions.",
+    "In a small bowl, mix honey, lemon zest, dill, and black pepper.",
+    "Grill trout fillets on both sides until cooked through (6-8 minutes).",
+    "Place quinoa and soaked apricots on a plate, then add grilled trout.",
+    "Serve immediately with a drizzle of honey mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "plant-based",
+    "silky",
+    "trout",
+    "grill",
+    "date-night",
+    "sweet",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 28,
+    "fat": 10
+  },
+  "slug": "silky-ukrainian-silky-trout-grill",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-ukrainian-silky-trout-grill",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:51:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "rainbow trout",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "trout",
+    "descriptor": "Silky",
+    "dishForm": "Grill"
+  }
+}
