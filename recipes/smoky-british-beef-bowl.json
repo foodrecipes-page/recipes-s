@@ -1,0 +1,81 @@
+{
+  "title": "Smoky British Beef Bowl",
+  "description": "A quick, smoky beef bowl that delivers tender, braised flavour with the richness of ghee and a touch of British charm.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "500g",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, crushed"
+    },
+    {
+      "name": "beef stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g, halved"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp ghee in a large skillet over medium-high heat.",
+    "Add the beef strips and sear for 2-3 minutes until browned, then remove and set aside.",
+    "In the same skillet, add the remaining ghee, diced onion and crushed garlic; cook until onion is translucent, about 3 minutes.",
+    "Return the beef to the pan, sprinkle with smoked paprika, salt, and pepper, and stir to coat.",
+    "Pour in beef stock and Worcestershire sauce, bring to a gentle simmer, cover, and let braise for 10-12 minutes until the beef is tender.",
+    "Add cherry tomato halves and cook for an additional 3 minutes until tomatoes are warmed through.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot over a bed of fresh lettuce or enjoy as is for a raw-friendly option."
+  ],
+  "slug": "smoky-british-beef-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-british-beef-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:32:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "braise",
+    "primaryIngredient": "ghee",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Beef",
+    "descriptor": "Smoky Tender",
+    "dishForm": "Bowl"
+  }
+}
