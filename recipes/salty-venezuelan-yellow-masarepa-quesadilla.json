@@ -1,0 +1,67 @@
+{
+  "title": "Salty Venezuelan Yellow Masarepa Quesadilla",
+  "description": "This raw-friendly Venezuelan dish features crispy yellow masarepa wrapped in a salty filling and air-fried for a satisfying solo dinner.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellow Masarepa",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Filling (such as boiled potatoes, peppers, onions)",
+      "amount": "4-6 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 200°C (392°F).",
+    "Mix olive oil and salt in a bowl.",
+    "Sprinkle the masarepa with the oil-salt mixture on both sides until evenly coated, making sure not to overcrowd the bowl.",
+    "Place each piece of masarepa into the air fryer basket and cook for 3-4 minutes or until golden brown. Flip halfway through cooking time.",
+    "Assemble the quesadillas by placing a filling piece in one half of the cooked masarepa, then fold and place on top of another piece coated with oil-salt mixture.",
+    "Cook the assembled quesadilla for an additional 2-3 minutes or until golden brown on both sides. Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "masarepa",
+    "air-fried"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "salty-venezuelan-yellow-masarepa-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-venezuelan-yellow-masarepa-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:57:52Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "air-fry",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "yellow masarepa",
+    "descriptor": "Salty",
+    "dishForm": "Quesadilla"
+  }
+}
