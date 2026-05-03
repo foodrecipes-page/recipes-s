@@ -1,0 +1,91 @@
+{
+  "title": "Silky British Cranberry Soup",
+  "description": "A floral, silky, comforting British dish featuring cranberry juice, simmer, sugar‑free‑friendly.",
+  "cuisine": "British",
+  "diet": [
+    "sugar-free",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh cranberries",
+      "amount": "200 g"
+    },
+    {
+      "name": "Cranberry juice (unsweetened)",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Apple, peeled and diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 small"
+    },
+    {
+      "name": "Celery stalk, diced",
+      "amount": "1"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable broth (low sodium)",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "50 ml",
+      "notes": "For silky texture"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium saucepan over medium heat.",
+    "Add onion, celery and apple; sauté until softened, about 5 minutes.",
+    "Stir in cranberries and cook until they begin to burst, about 2 minutes.",
+    "Pour in cranberry juice and vegetable broth, bring to a gentle simmer.",
+    "Reduce heat to low, cover, and simmer for 15 minutes to meld the flavors.",
+    "Remove from heat, cool slightly, then puree the soup with an immersion blender until silky smooth.",
+    "Return the soup to low heat, stir in heavy cream, and warm through.",
+    "Season with salt, pepper, thyme and lemon zest, adjusting to taste.",
+    "Serve hot, optionally garnishing with a swirl of cream and a sprig of thyme."
+  ],
+  "slug": "silky-british-cranberry-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-british-cranberry-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:50:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "cranberry juice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cranberry",
+    "descriptor": "Silky",
+    "dishForm": "Soup"
+  }
+}
