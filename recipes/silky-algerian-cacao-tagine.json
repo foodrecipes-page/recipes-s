@@ -1,0 +1,101 @@
+{
+  "title": "Silky Algerian Cacao Tagine",
+  "description": "This delicious and silky Algerian cacao tagine is perfect for a solo dinner. It features fresh ingredients that are slow-cooked to perfection, making it both diabetic-friendly and easy to prepare.",
+  "cuisine": "African-Algerian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can of diced tomatoes",
+      "amount": "one can",
+      "notes": "Drained"
+    },
+    {
+      "name": "2 ripe avocados",
+      "amount": "two large",
+      "notes": "Pitted and peeled"
+    },
+    {
+      "name": "1 cup fresh cilantro",
+      "amount": "one cup bunch",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "8 oz boneless chicken thighs",
+      "amount": "eight ounces",
+      "notes": "Bone removed, skin left on for flavor"
+    },
+    {
+      "name": "3 tbsp honey",
+      "amount": "three tablespoons",
+      "notes": "Organic if possible"
+    },
+    {
+      "name": "1 cup unsweetened cacao powder",
+      "amount": "one cup",
+      "notes": "Low fat or dairy-free options available"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "two cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Pinch of saffron threads",
+      "amount": "a pinch",
+      "notes": "Optional for extra flavor"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "quarter cup",
+      "notes": "For cooking the chicken and cacao mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Rinse the diced tomatoes under cold water.",
+    "Season chicken thighs with salt, pepper, and a pinch of saffron. Place in an oven-safe dish. Pour enough olive oil over the chicken so that it is lightly coated on all sides.",
+    "In another pan, heat 2 tablespoons of olive oil over medium-high heat. Add garlic and cacao powder to the pan and cook for about 2 minutes until fragrant.",
+    "Add honey, diced tomatoes, cilantro, and a pinch of salt. Stir well and bring to a simmer. Simmer for about 5-7 minutes or until the sauce thickens slightly.",
+    "Pour the mixture over the chicken thighs in the dish. Pour remaining olive oil evenly around the chickens.",
+    "Bake in preheated oven for 20-25 minutes, or until the juices run clear when pierced with a fork.",
+    "Let it rest for about 10 minutes before serving.",
+    "Serve hot with crusty bread and garnish with additional cilantro leaves."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "cacao",
+    "tagine",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 41,
+    "fat": 16
+  },
+  "slug": "silky-algerian-cacao-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-algerian-cacao-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:00:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "cacao",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "cacao",
+    "descriptor": "Silky",
+    "dishForm": "Tagine"
+  }
+}
