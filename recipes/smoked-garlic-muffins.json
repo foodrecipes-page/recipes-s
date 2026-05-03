@@ -1,0 +1,73 @@
+{
+  "title": "Smoked Garlic Muffins",
+  "description": "These garlic-infused muffins are perfect for hangover mornings and offer a raw-friendly treat that's both flavorful and easy to prepare.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsalted Butter, softened",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Garlic, minced",
+      "amount": "10 cloves"
+    },
+    {
+      "name": "Cold Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "In a large mixing bowl, cream the softened butter with a whisk until smooth and pale in color.",
+    "Gradually add the all-purpose flour while continuing to mix until you have a crumbly dough. Avoid overworking it to keep it light and airy.",
+    "Fold in minced garlic evenly throughout the mixture.",
+    "Add cold water and sugar, one tablespoon at a time, stirring until the dough comes together into a ball. Knead gently just enough to bring all ingredients together.",
+    "Divide the dough into 8-10 equal parts and shape each part into a muffin tin cup. Ensure they are not too puffy for an even cooking outcome.",
+    "Place the muffins in the preheated oven and bake for about 25 minutes, or until golden brown on top. They should be slightly soft on the inside when done but crispy enough to handle.",
+    "Let them cool slightly before removing from the tin. Serve with a side of lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "smoked",
+    "muffins",
+    "hangover"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 4.6,
+    "carbs": 32.8,
+    "fat": 13.7
+  },
+  "slug": "smoked-garlic-muffins",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-garlic-muffins",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:13:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "muffins",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Smoke",
+    "dishForm": "Muffins"
+  }
+}
