@@ -1,0 +1,61 @@
+{
+  "title": "Silky French Graham Cracker Crumbs Crumble",
+  "description": "A light, herbal French-inspired dessert featuring softly crumbled graham crackers with a silky texture, perfect for a dash-friendly snack.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "graham cracker crumbs",
+      "amount": "200g",
+      "notes": "approx. 1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "30g",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine graham cracker crumbs and honey.",
+    "Gently mix until a silky, even texture forms.",
+    "Press the mixture into a small, shallow dish.",
+    "Chill for 15 minutes to set."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "dessert",
+    "silky",
+    "herbal",
+    "grahamcracker"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 1,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "silky-french-graham-cracker-crumbs-crumble",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-french-graham-cracker-crumbs-crumble",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:16:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "graham cracker crumbs",
+    "descriptor": "silky",
+    "dishForm": "Crumble"
+  }
+}
