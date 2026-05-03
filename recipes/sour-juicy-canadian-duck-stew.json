@@ -1,0 +1,105 @@
+{
+  "title": "Sour Juicy Canadian Duck Stew",
+  "description": "A hearty and comforting Canadian dish featuring tender duck, tangy flavors, and a hint of pecorino, perfect for a cozy evening. This stew is nut-free-friendly and showcases the richness of cured ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4 legs, skin removed",
+      "notes": "preferably cured in salt for 24 hours"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large, peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tbsp of oil over medium heat.",
+    "Sear the duck legs until browned on all sides, about 5 minutes per side.",
+    "Remove the duck from the pot and set aside.",
+    "Add the chopped onion, carrots, and celery to the pot, cooking until the vegetables are tender, about 10 minutes.",
+    "Add the grated pecorino cheese, apple cider vinegar, chicken broth, thyme, and bay leaves to the pot, stirring to combine.",
+    "Return the duck legs to the pot, making sure they are mostly submerged in the liquid.",
+    "Cover the pot with a lid and transfer to the preheated oven, cooking for 2 1/2 hours, or until the duck is tender and falling off the bone.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "duck-recipes",
+    "comfort-food",
+    "stew",
+    "winter-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "sour-juicy-canadian-duck-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-juicy-canadian-duck-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T16:53:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "pecorino",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "duck",
+    "descriptor": "sour juicy",
+    "dishForm": "Stew"
+  }
+}
