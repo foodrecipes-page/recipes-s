@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Dense Vietnamese Pork Braise",
+  "description": "A rich and adventurous Vietnamese dish featuring pistachio paste, slow-cooked to perfection in a smoky braise. This paleo-friendly recipe is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pistachio paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a small bowl, mix together pistachio paste, fish sauce, coconut aminos, smoked paprika, and black pepper.",
+    "In a large Dutch oven, heat the coconut oil over medium-high heat. Sear the pork shoulder until browned on all sides, about 5 minutes per side.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute, until fragrant.",
+    "Add the pistachio paste mixture to the pot and stir to coat the pork.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Braise the pork for 2 1/2 hours, or until tender and easily shredded with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the pork with two forks and stir to coat with the smoky sauce.",
+    "Serve the pork hot, garnished with chopped fresh herbs and a side of cauliflower rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "paleo",
+    "braise",
+    "pork",
+    "smoky",
+    "dense"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "smoky-dense-vietnamese-pork-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dense-vietnamese-pork-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:41:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "braise",
+    "primaryIngredient": "pistachio paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "smoky dense",
+    "dishForm": "Braise"
+  }
+}
