@@ -1,0 +1,93 @@
+{
+  "title": "Sweet Fluffy Spanish Rice Paella",
+  "description": "A low-calorie, sweet, and fluffy Spanish dish featuring palm sugar, perfect for a monsoon evening. This paella recipe combines the richness of palm sugar with the fluffiness of cooked rice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably Spanish rice"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add uncooked rice and stir to coat with oil and mix with spices.",
+    "Add palm sugar and stir to combine.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until rice is cooked and fluffy.",
+    "Deglaze the pan with a little water if necessary, to remove any stuck rice.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish-rice",
+    "palm-sugar",
+    "low-calorie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "sweet-fluffy-spanish-rice-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-fluffy-spanish-rice-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:36:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "palm sugar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "rice",
+    "descriptor": "sweet fluffy",
+    "dishForm": "Paella"
+  }
+}

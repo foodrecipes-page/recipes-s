@@ -1,0 +1,107 @@
+{
+  "title": "Spicy Gooey Egyptian Mussels Toast",
+  "description": "A spicy and savory Egyptian-inspired dish featuring mussels, garlic, and spices, served with crispy bread for dipping.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egyptian dukkah (or substitute with a mix of spices)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mussels, scrubbed and debearded",
+      "amount": "1 pound",
+      "notes": "preferably harvested from the Mediterranean"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2"
+    },
+    {
+      "name": "Bread (gluten-free)",
+      "amount": "1 baguette, sliced"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "White wine (or substitute with lemon juice)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together dukkah, garlic, cayenne pepper, and salt.",
+    "Rinse the mussels under cold water and remove any broken shells.",
+    "Heat the avocado oil in a large cast-iron skillet over medium-high heat.",
+    "Add the mussels to the skillet in a single layer, leaving some space between each mussel.",
+    "Pour the white wine (or lemon juice) over the mussels and cover the skillet with a lid.",
+    "Cook for 3-4 minutes, or until the mussels start to open.",
+    "Sprinkle the dukkah mixture evenly over the mussels and continue cooking for another 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for an additional 2-3 minutes, or until the mussels are cooked through.",
+    "Meanwhile, toast the bread slices until crispy.",
+    "Serve the mussels hot with the toasted bread for dipping and garnish with parsley and cilantro. Serve with lemon wedges on the side.",
+    "Drizzle with extra avocado oil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "spicy",
+    "seafood",
+    "bread",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 14
+  },
+  "slug": "spicy-gooey-egyptian-mussels-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-egyptian-mussels-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:36:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "mussels",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "mussels",
+    "descriptor": "spicy gooey",
+    "dishForm": "Toast"
+  }
+}
