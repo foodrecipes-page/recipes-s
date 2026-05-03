@@ -1,0 +1,105 @@
+{
+  "title": "Sour Fluffy Mexican Chicken Tacos",
+  "description": "A flavorful and adventurous Mexican dish featuring ground coriander, steam, and a hint of sourness, perfect for those looking for a halal-friendly meal. The combination of tender chicken, fluffy texture, and bold flavors will leave you wanting more.",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lime juice, olive oil, ground coriander, and a pinch of salt.",
+    "Add the chicken pieces to the bowl and marinate for at least 30 minutes.",
+    "Heat a large skillet over medium-high heat and cook the chicken until browned, about 5-6 minutes.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the chicken broth to the skillet and bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Using a steamer basket, steam the tortillas for 2-3 minutes to make them fluffy and pliable.",
+    "Assemble the tacos by placing a portion of the chicken mixture onto a steamed tortilla, followed by a dollop of sour cream and a sprinkle of chopped cilantro.",
+    "Serve immediately and enjoy!",
+    "Garnish with additional cilantro and lime wedges, if desired.",
+    "For an extra sour kick, serve with a side of pickled onions or a squeeze of fresh lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "sour",
+    "fluffy",
+    "steamed",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "sour-fluffy-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-fluffy-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:15:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "ground coriander",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "sour fluffy",
+    "dishForm": "Tacos"
+  }
+}
