@@ -1,0 +1,85 @@
+{
+  "title": "Salty Russian Grapes Bake",
+  "description": "A nostalgic Russian-inspired dessert featuring crispy grape skins with a salty, sweet glaze. Perfect as a snack or dessert.",
+  "cuisine": "russian",
+  "diet": [
+    "egg-free",
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grapes",
+      "amount": "1 cup (about 150g)",
+      "notes": "Use small red or green grapes for best texture"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "Unprocessed honey for natural sweetness"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "For subtle warmth and balance"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 tsp",
+      "notes": "Essential for the salty flavor"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 tbsp",
+      "notes": "Optional for texture; skip for nut-free"
+    }
+  ],
+  "instructions": [
+    "Wash grapes thoroughly and pat dry with paper towels.",
+    "In a small bowl, mix honey, cinnamon, and salt until combined.",
+    "Toss grapes gently in the honey-cinnamon-salt mixture until evenly coated.",
+    "Spread grapes in a single layer on a baking sheet lined with parchment paper.",
+    "Bake at 325°F (163°C) for 12-15 minutes, or until skins are crisp and golden.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  ": ": "cookTimeMin\": 12",
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "dessert",
+    "snack",
+    "crispy",
+    "salty",
+    "grapes",
+    "egg-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 0
+  },
+  "slug": "salty-russian-grapes-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-russian-grapes-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:11:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "grapes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "grapes",
+    "descriptor": "Salty",
+    "dishForm": "Bake"
+  }
+}
