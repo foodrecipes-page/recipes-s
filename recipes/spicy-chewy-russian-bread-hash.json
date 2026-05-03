@@ -1,0 +1,75 @@
+{
+  "title": "Spicy Chewy Russian Bread Hash",
+  "description": "A hearty breakfast hash that turns stale rye bread into a caramelized, spicy delight with smoky paprika and chili flakes, finished with fresh parsley for a Mediterranean touch.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "stale rye bread",
+      "amount": "200 g",
+      "notes": "cut into 1‑inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and add the olive oil.",
+    "Add the minced garlic and diced onion, cooking until the onion becomes translucent and the garlic is fragrant, about 3‑4 minutes.",
+    "Stir in the cubed rye bread, ensuring each cube is coated with oil, garlic, and onion.",
+    "Add the smoked paprika, red chili flakes, salt, and black pepper, tossing gently to distribute the spices evenly.",
+    "Cover the skillet and let the bread toast for 8–10 minutes, stirring occasionally until the edges start to crisp and the interior caramelizes.",
+    "Remove the lid and increase the heat to high, letting the hash fry for an additional 2–3 minutes to achieve a smoky char on the bread pieces.",
+    "Sprinkle the chopped parsley over the hash and give one final gentle stir.",
+    "Serve hot, optionally garnishing with a squeeze of lemon juice for a bright Mediterranean finish.",
+    "Enjoy the chewy texture and spicy kick that warms you from the inside out."
+  ],
+  "slug": "spicy-chewy-russian-bread-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-chewy-russian-bread-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:47:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "caramelize",
+    "primaryIngredient": "stale bread",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "bread",
+    "descriptor": "Spicy Chewy",
+    "dishForm": "Hash"
+  }
+}

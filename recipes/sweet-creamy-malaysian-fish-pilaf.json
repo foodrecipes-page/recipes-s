@@ -1,0 +1,121 @@
+{
+  "title": "Sweet Creamy Malaysian Fish Pilaf",
+  "description": "A light and flavorful Malaysian dish featuring poached fish, pickle juice, and a creamy sauce. Perfect for a low-fat lunch or dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-fat",
+    "fish-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White fish fillet (e.g., cod or tilapia)",
+      "amount": "2",
+      "notes": "About 120g each"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "Low-fat"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large saucepan over medium heat.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the sliced ginger and cook for another minute.",
+    "Add the minced garlic and cook for 30 seconds.",
+    "Add the rice and stir to coat with oil and mix with onion mixture. Cook for 1-2 minutes.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked.",
+    "While the rice is cooking, poach the fish fillets in a separate saucepan with enough water to cover them. Cook until opaque and flake easily with a fork, about 8-10 minutes.",
+    "In a separate pan, combine coconut milk, pickle juice, sugar, and lime juice. Bring to a simmer over medium heat and cook until the sauce has thickened slightly, about 5 minutes.",
+    "Stir in salt and black pepper to taste.",
+    "To serve, place a portion of the cooked rice on a plate, top with a poached fish fillet, and spoon the creamy sauce over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "fish",
+    "low-fat",
+    "pilaf",
+    "poached"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "sweet-creamy-malaysian-fish-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-creamy-malaysian-fish-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:47:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "pickle juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "fish",
+    "descriptor": "sweet creamy",
+    "dishForm": "pilaf"
+  }
+}
