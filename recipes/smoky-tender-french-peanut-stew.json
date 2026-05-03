@@ -1,0 +1,112 @@
+{
+  "title": "Smoky Tender French Peanut Stew",
+  "description": "A rich and flavorful French-inspired stew featuring tender peanuts and smoky undertones, perfect for satisfying midnight cravings. This slow-cooked dish is egg-free and friendly for various diets.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw, unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add chopped carrots and potatoes, cooking for 5 minutes, stirring occasionally.",
+    "Stir in smoked paprika, dried thyme, salt, and black pepper.",
+    "Add raw peanuts, vegetable broth, and tomato paste. Bring to a boil, then reduce heat to low.",
+    "Simmer, covered, for 1 hour, or until the peanuts and vegetables are tender.",
+    "Remove from heat and let cool slightly before serving.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Refrigerate or freeze leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "peanut-stew",
+    "smoky-flavors",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "smoky-tender-french-peanut-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tender-french-peanut-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T16:54:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "peanuts",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "peanuts",
+    "descriptor": "Smoky Tender",
+    "dishForm": "Stew"
+  }
+}
