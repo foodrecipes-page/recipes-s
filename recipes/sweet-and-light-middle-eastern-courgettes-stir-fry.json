@@ -1,0 +1,86 @@
+{
+  "title": "Sweet And Light Middle Eastern Courgettes Stir-fry",
+  "description": "A delightful twist on a classic stir fry featuring crispy courgettes infused with sweet and aromatic spices, perfect for a light and refreshing meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium-sized"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sweetener of your choice (e.g., honey, maple syrup)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Chop the courgettes into bite-sized pieces and thinly slice the onion.",
+    "Finely chop the garlic cloves. If using, lightly toast the cumin seeds in a dry pan for a few seconds until fragrant.",
+    "Heat olive oil in a wok or large frying pan over medium-high heat. Add the sliced onions and cook till they begin to soften, about 2 minutes.",
+    "Add thinly sliced courgettes along with red pepper flakes (if using). Stir fry for 3-5 minutes until they start to become translucent.",
+    "Stir in finely chopped garlic and cumin seeds into the pan. Cook for another minute or two until fragrant.",
+    "Drizzle in the sweetener of your choice and stir well. Continue cooking, stirring frequently, until most of the liquid has evaporated and the courgettes are slightly crispy on the outside.",
+    "Remove from heat immediately to prevent burning. Serve hot as a side dish or over a bed of greens for a light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "courgette-stir-fry",
+    "middle-eastern-recipe",
+    "sweet-and-light"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "sweet-and-light-middle-eastern-courgettes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-light-middle-eastern-courgettes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:28:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "courgettes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "courgettes",
+    "descriptor": "Sweet And Light",
+    "dishForm": "Stir-fry"
+  }
+}
