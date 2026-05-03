@@ -1,0 +1,96 @@
+{
+  "title": "Savory Spanish Courgettes Bowl",
+  "description": "A quick plant-based Spanish-style bowl with roasted courgettes, garlic, and a tangy lime-cilantro dressing. Perfect for a light lunch.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "2 medium",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime",
+      ": ": ", "
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional for heat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use sea salt for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F) for roasting.",
+    "Toss courgettes with olive oil, garlic, salt, and red pepper flakes in a bowl.",
+    "Roast courgettes on a lined baking sheet for 20-25 minutes until tender and slightly caramelized.",
+    "In a small bowl, mix lime juice with cilantro and a pinch of salt for dressing.",
+    "Serve warm courgettes with lime-cilantro dressing on top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegan",
+    "lunch",
+    "courgette",
+    "roasted",
+    "plant-based",
+    "quick",
+    "savory",
+    "lunch",
+    "lime",
+    "cilantro"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "savory-spanish-courgettes-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spanish-courgettes-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:46:27Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "courgettes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "courgettes",
+    "descriptor": "Savory",
+    "dishForm": "Bowl"
+  }
+}
