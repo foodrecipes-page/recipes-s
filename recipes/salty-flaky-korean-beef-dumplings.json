@@ -1,0 +1,105 @@
+{
+  "title": "Salty Flaky Korean Beef Dumplings",
+  "description": "A savory and spicy Korean dish featuring ras el hanout and fermented ingredients, perfect for a midnight craving. This halal-friendly recipe combines the richness of beef with the depth of Korean chili flakes and the warmth of ras el hanout.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "ground, 80/20 lean to fat ratio"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fermented Korean chili paste (gochujang)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20-24 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground beef, ras el hanout, Korean chili flakes, fermented Korean chili paste, soy sauce, sesame oil, garlic, and ginger. Mix well with your hands or a wooden spoon until just combined.",
+    "Season the mixture with salt and black pepper.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to assemble the dumplings, lay a dumpling wrapper on a clean surface. Place a tablespoon of the beef mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point. Press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "In a large pot, bring 4-6 quarts of water to a boil. Reduce the heat to a simmer.",
+    "Carefully add the dumplings to the pot, being careful not to overcrowd. Cook for 10-12 minutes, or until the dumplings float to the surface.",
+    "Remove the dumplings from the pot with a slotted spoon and serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "beef",
+    "dumplings",
+    "snack",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "salty-flaky-korean-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-flaky-korean-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:23:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "ras el hanout",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "salty flaky",
+    "dishForm": "Dumplings"
+  }
+}
