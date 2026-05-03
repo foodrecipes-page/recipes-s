@@ -1,0 +1,79 @@
+{
+  "title": "Sweet Ukrainian Mint Bowl",
+  "description": "A dense, sweet mint bowl that satisfies midnight cravings with a refreshing Ukrainian twist. Vegan-friendly and perfect for late-night snacking.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh mint leaves",
+      "amount": "30g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "raw, local"
+    },
+    {
+      "name": "soy milk",
+      "amount": "150ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "almond flour",
+      "amount": "30g",
+      "notes": "fine"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tsp",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine mint leaves and honey. Mix until well coated.",
+    "Heat soy milk in a small saucepan over medium heat until warm (about 60°C).",
+    "Whisk in almond flour until smooth, then add coconut sugar.",
+    "Stir in the mint-honey mixture and let cool for 5 minutes.",
+    "Serve chilled in a bowl with a drizzle of honey on top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "uks",
+    "mint",
+    "sweet",
+    "vegan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "sweet-ukrainian-mint-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-ukrainian-mint-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:54:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "mint",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "mint",
+    "descriptor": "Sweet",
+    "dishForm": "Bowl"
+  }
+}
