@@ -1,0 +1,120 @@
+{
+  "title": "Smoky Dense Festive Vietnamese Pho",
+  "description": "A hearty, aromatic Vietnamese Pho with smoky flavors and a rich beef broth, featuring rice noodles and an assortment of colorful toppings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "egg-free-friendly",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Star Anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Beef Brisket or Chuck",
+      "amount": "1 pound",
+      "notes": "thicker slices"
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bean Sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, combine beef broth, smoked paprika, ground cinnamon, ground ginger, star anise, and onion. Bring to a boil over high heat, then reduce heat to low and simmer for 1 hour.",
+    "Add sliced beef brisket or chuck to the pot and simmer for an additional 30 minutes, or until tender.",
+    "Remove the star anise and any excess fat from the pot. Season the broth with salt and pepper to taste.",
+    "Cook the rice noodles according to package instructions and drain.",
+    "To assemble the Pho, place cooked noodles in a bowl and add slices of beef, followed by bean sprouts, a sprinkle of chopped mint and basil, and a squeeze of lime juice. Serve immediately and enjoy!",
+    "If desired, drizzle with bean sauce and garnish with additional herbs and lime wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pho",
+    "rice-noodles",
+    "smoky",
+    "dense",
+    "festive",
+    "beef-broth",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "30g",
+    "carbs": "60g",
+    "fat": "20g"
+  },
+  "slug": "smoky-dense-festive-vietnamese-rice-noodles-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dense-festive-vietnamese-rice-noodles-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:59:21Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "rice noodles",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice noodles",
+    "descriptor": "smoky dense festive",
+    "dishForm": "Pho"
+  }
+}

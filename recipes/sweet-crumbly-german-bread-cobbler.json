@@ -1,0 +1,108 @@
+{
+  "title": "Deutsch Krummelpfannkuchen",
+  "description": "A German-inspired sweet bread cobbler featuring fresh basil leaves and a crispy crumb topping.",
+  "cuisine": "German",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "Warm milk",
+      "amount": "1 cup",
+      "notes": "around 105°F"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Oat flour",
+      "amount": "1 cup",
+      "notes": "for crumb topping"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for crumb topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, combine yeast and warm milk. Let it sit for 5-7 minutes until foamy.",
+    "In a large bowl, whisk together flour, sugar, and salt. Add the melted butter and mix until combined.",
+    "Add the eggs and yeast mixture to the dry ingredients. Mix until a smooth dough forms.",
+    "Knead the dough on a floured surface for 10-12 minutes until elastic.",
+    "Transfer the dough to a greased bowl, cover with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "In a small saucepan, combine 2 tablespoons of unsalted butter, brown sugar, and 2 tablespoons of granulated sugar. Heat over medium heat, stirring occasionally, until the sugar dissolves.",
+    "Pour the sugar mixture into a 9x13-inch baking dish. Arrange the chopped basil leaves on top.",
+    "Punch down the dough and roll it out to a 1/4-inch thickness. Place the dough over the sugar mixture.",
+    "Mix together oat flour, confectioners' sugar, and a pinch of salt for the crumb topping. Sprinkle over the dough.",
+    "Bake for 40-45 minutes or until golden brown.",
+    "Let the cobbler cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sweet-bread",
+    "cobbler",
+    "basil",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "sweet-crumbly-german-bread-cobbler",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crumbly-german-bread-cobbler",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:00:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "basil leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "bread",
+    "descriptor": "sweet crumbly",
+    "dishForm": "Cobbler"
+  }
+}
