@@ -1,0 +1,101 @@
+{
+  "title": "Savory Croatian Cannellini Beans Salad",
+  "description": "A light, salty dish featuring cannellini beans, smoked pork belly, and fresh dill, perfect for a quick lunch.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned cannellini beans",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "smoked pork belly",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "fresh minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the cannellini beans and place them in a bowl.",
+    "Heat a skillet over medium heat and sear the diced pork belly until crisp, about 4 minutes.",
+    "Add the seared pork to the beans and toss to combine.",
+    "Stir in the halved cherry tomatoes, sliced onion, olive oil, and red wine vinegar.",
+    "Season with fish sauce, dill, salt, and black pepper, then mix thoroughly.",
+    "Let the salad sit for 5 minutes to allow flavors to meld.",
+    "Serve immediately as a light lunch dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cannellini-beans",
+    "croatian",
+    "light",
+    "quick",
+    "salad",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 28,
+    "fat": 15
+  },
+  "slug": "savory-croatian-cannellini-beans-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-croatian-cannellini-beans-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:11:21Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "cannellini beans",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Cannellini Beans",
+    "descriptor": "Savory",
+    "dishForm": "Salad"
+  }
+}
