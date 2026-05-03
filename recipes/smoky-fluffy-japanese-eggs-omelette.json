@@ -1,0 +1,98 @@
+{
+  "title": "Smoky Fluffy Japanese Eggs Omelette",
+  "description": "A light, smoky Japanese-style fluffy omelette, perfect as a post-workout snack. The airy texture and subtle smoke flavor pair wonderfully with a protein boost.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "nut-free",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "Yolk and whites separated"
+    },
+    {
+      "name": "milk",
+      "amount": "2 tbsp",
+      "notes": "Whole milk or unsweetened almond milk"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1 tsp",
+      "notes": "adds smoky flavor"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "for a subtle glaze"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp chopped",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Separate the eggs into a bowl: keep yolks in one bowl, whites in another.",
+    "Whisk the yolks with milk, salt, pepper, and liquid smoke until smooth.",
+    "Whisk the whites until soft peaks form, then fold them into the yolk mixture gently to preserve air.",
+    "Heat a non-stick skillet over medium heat and add the vegetable oil, swirling to coat.",
+    "Pour the egg mixture into the skillet, spreading evenly; cook uncovered until the edges set but the top remains slightly runny (~3‑4 minutes).",
+    "Fold the omelette in thirds and continue cooking until the top is fully set but still moist (~2 minutes).",
+    "Slide the omelette onto a plate, drizzle with soy sauce, and sprinkle chopped scallions on top.",
+    "Serve immediately while the omelette is still fluffy and warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "snack",
+    "smoky",
+    "fluffy",
+    "high-protein",
+    "nut-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 245,
+    "protein": 19,
+    "carbs": 2,
+    "fat": 18
+  },
+  "slug": "smoky-fluffy-japanese-eggs-omelette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-japanese-eggs-omelette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:42:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "eggs",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "eggs",
+    "descriptor": "Smoky Fluffy",
+    "dishForm": "Omelette"
+  }
+}
