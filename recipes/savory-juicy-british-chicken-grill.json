@@ -1,0 +1,112 @@
+{
+  "title": "Savory Juicy British Chicken Grill",
+  "description": "A post-workout, high-protein British dish featuring the combination of jerk seasoning and pressure cooking to achieve a juicy and flavorful chicken.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": "1-1.5 pounds total"
+    },
+    {
+      "name": "Jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rinse the chicken breasts and pat them dry with paper towels.",
+    "In a small bowl, mix together the jerk seasoning, brown sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Rub the jerk seasoning mixture all over the chicken breasts, making sure to coat them evenly.",
+    "Heat the pressure cooker to high pressure and add 1 cup of water.",
+    "Add the chicken breasts to the pressure cooker and close the lid.",
+    "Cook for 10-12 minutes at high pressure.",
+    "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
+    "Remove the chicken from the pressure cooker and brush with extra virgin olive oil.",
+    "Heat a grill or grill pan to medium-high heat and cook the chicken for 2-3 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "Let the chicken rest for 5 minutes before slicing and serving.",
+    "Garnish with fresh thyme and serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "grilled",
+    "chicken",
+    "british",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 60,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "savory-juicy-british-chicken-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-british-chicken-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:55:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "jerk",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "savory juicy",
+    "dishForm": "Grill"
+  }
+}
