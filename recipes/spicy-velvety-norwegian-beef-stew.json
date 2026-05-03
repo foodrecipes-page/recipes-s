@@ -1,0 +1,129 @@
+{
+  "title": "Spicy Velvety Norwegian Beef Stew",
+  "description": "A rich, spicy, and romantic Norwegian beef stew made with tender beef, velvety sauce, and aromatic vegetables, perfect for a cozy dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef brisket or chuck, cut into 2-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Choose a cut with good marbling for tenderness"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "Dust the beef with flour to thicken the sauce"
+    },
+    {
+      "name": "Coconut oil or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": "About 2 cups chopped"
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2 medium",
+      "notes": "About 2 cups chopped"
+    },
+    {
+      "name": "Celery, chopped",
+      "amount": "2 stalks",
+      "notes": "About 1 cup chopped"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "About 1 tablespoon minced"
+    },
+    {
+      "name": "Red bell pepper, chopped",
+      "amount": "1 medium",
+      "notes": "About 1 cup chopped"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Add more or less to taste for heat level"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "Fresh or dried, either works"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Heavy cream or half-and-half",
+      "amount": "1 cup",
+      "notes": "For a rich and velvety sauce"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef cubes until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Reduce heat to medium and add the chopped onion, carrots, and celery. Cook until the vegetables are tender, about 8 minutes.",
+    "Add the garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the red bell pepper and cook for an additional 2 minutes.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef broth, whisking continuously to avoid lumps.",
+    "Return the beef to the pot and add the thyme, cayenne pepper, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the beef is tender and the sauce has thickened.",
+    "Remove the pot from the oven and stir in the heavy cream or half-and-half.",
+    "Return the pot to the stovetop and simmer over low heat until the sauce has thickened to your liking.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "norwegian",
+    "romantic",
+    "velvety",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "spicy-velvety-norwegian-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-velvety-norwegian-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:40:58Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "all purpose flour",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "spicy, velvety",
+    "dishForm": "stew"
+  }
+}

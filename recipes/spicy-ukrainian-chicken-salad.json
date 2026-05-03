@@ -1,0 +1,111 @@
+{
+  "title": "Spicy Ukrainian Chicken Salad",
+  "description": "A fresh, light, romantic Ukrainian dish featuring ground coriander, bhuna, and Mediterranean-friendly flavors.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken breast",
+      "amount": "300g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Bhuna masala",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat.",
+    "Season the chicken with salt, pepper, ground coriander, smoked paprika, cayenne pepper, and bhuna masala.",
+    "Add the olive oil to the skillet and sear the chicken for 6-7 minutes on each side until golden brown and cooked through (internal temperature 75°C / 165°F).",
+    "Remove the chicken from the skillet, let it rest for 5 minutes, then slice or shred into bite‑sized pieces.",
+    "In a large bowl, combine the diced cucumber, bell pepper, chopped dill, and mint.",
+    "Add the sliced chicken and drizzle with lemon juice; gently toss to combine.",
+    "Taste and adjust seasoning with additional salt, pepper, or lemon juice if needed.",
+    "Serve the salad chilled or at room temperature for a refreshing, romantic meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "chicken",
+    "salad",
+    "ukrainian",
+    "gluten-free",
+    "meat",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "spicy-ukrainian-chicken-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-ukrainian-chicken-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:40:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "ground coriander",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Spicy",
+    "dishForm": "Salad"
+  }
+}
