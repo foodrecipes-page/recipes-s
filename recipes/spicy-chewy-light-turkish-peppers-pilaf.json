@@ -1,0 +1,87 @@
+{
+  "title": "Spicy Chewy Light Turkish Peppers Pilaf",
+  "description": "A light and spicy twist on traditional pepper pilaf with the addition of coriander seeds to create a chewy texture that's perfect for high-protein diets.",
+  "cuisine": "Turkish",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 medium bell peppers, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon paprika",
+      "amount": "dash"
+    },
+    {
+      "name": "1/2 teaspoon coriander seeds, crushed",
+      "amount": "dash"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup chopped fresh cilantro",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add diced bell peppers, ground cumin, paprika, and coriander seeds to the skillet. Stir well to combine.",
+    "Pour in basmati rice and add salt and pepper to taste. Mix evenly with vegetables and spices.",
+    "Cover the skillet and reduce heat to low. Simmer for about 15 minutes or until rice is tender.",
+    "Remove from heat, stir in chopped fresh cilantro just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "chewy",
+    "light",
+    "turkish",
+    "peppers",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 9
+  },
+  "slug": "spicy-chewy-light-turkish-peppers-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-chewy-light-turkish-peppers-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:53:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "broil",
+    "primaryIngredient": "coriander seeds",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Peppers",
+    "descriptor": "Spicy Chewy Light",
+    "dishForm": "Pilaf"
+  }
+}
