@@ -1,0 +1,108 @@
+{
+  "title": "Show-Off Portuguese Apple Bread",
+  "description": "A low-carb friendly, silky, and bitter Portuguese dough bread recipe topped with applesauce for an extra crunchy twist.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "3",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": 2
+    },
+    {
+      "name": "Salt",
+      "amount": 0.5
+    },
+    {
+      "name": "Xanthan gum",
+      "amount": 0.25
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": 1
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Applesauce",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the almond flour, coconut sugar, and yeast.",
+    "Add the grated cheddar cheese, melted butter, apple cider vinegar, and xanthan gum. Mix well.",
+    "Crack in the eggs and mix until a dough forms.",
+    "Gradually add the warm water and mix until the dough becomes silky and smooth.",
+    "Knead the dough for 10 minutes until it becomes elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C).",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper.",
+    "Brush the top of the loaf with melted butter.",
+    "Bake the bread for 30-35 minutes or until it's golden brown.",
+    "Let the bread cool for 10 minutes before slicing and topping with applesauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "low-carb",
+    "buttery",
+    "cheesy",
+    "bread",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "show-off-portuguese-dough-bread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-portuguese-dough-bread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:46:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "knead",
+    "primaryIngredient": "applesauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "dough",
+    "descriptor": "show-off",
+    "dishForm": "Bread"
+  }
+}

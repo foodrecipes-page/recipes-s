@@ -1,0 +1,107 @@
+{
+  "title": "Sour Flaky Tunisian Chickpea Toast",
+  "description": "A vibrant and energizing Tunisian-inspired dish featuring the bold flavors of chickpeas, English mustard, and a hint of sourness, all on toasted bread. This vegan-friendly recipe is perfect for a quick and satisfying snack or light lunch.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups cooked",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "English mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": "thawed, vegan"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "Cut the dough into long, thin strips, about 1 inch wide.",
+    "Place the strips on a baking sheet lined with parchment paper, leaving about 1 inch of space between each strip.",
+    "Bake the pastry strips in the preheated oven for 15-20 minutes, or until golden brown.",
+    "While the pastry is baking, mix the chickpeas, English mustard, lemon juice, olive oil, garlic, salt, and black pepper in a bowl.",
+    "Toast the whole wheat bread until lightly browned.",
+    "Spread the chickpea mixture on top of the toasted bread.",
+    "Once the pastry strips are ready, place them on top of the chickpea mixture.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "vegan",
+    "gluten-free",
+    "chickpeas",
+    "english-mustard",
+    "flaky-pastry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "sour-flaky-tunisian-chickpea-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-flaky-tunisian-chickpea-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:46:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "english mustard",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "sour flaky",
+    "dishForm": "Toast"
+  }
+}
