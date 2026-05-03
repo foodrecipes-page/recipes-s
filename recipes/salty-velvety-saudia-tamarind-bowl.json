@@ -1,0 +1,117 @@
+{
+  "title": "Salty Velvety Saudia Tamarind Bowl",
+  "description": "A savory and velvety brunch-mood Saudi Arabian dish featuring tamarind balls as a base with a touch of sweetness and saltiness. This delightful bowl is completely plant-based-friendly, perfect for those looking to enjoy a flavorful meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Plant-Based Tofu",
+      "amount": "250g",
+      "notes": "Select extra firm tofu for better texture."
+    },
+    {
+      "name": "Sundried Tomato Puree",
+      "amount": "1 tbsp",
+      "notes": "Optional, add if desired for a richer flavor profile."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tsp",
+      "notes": "Can be substituted with vegan butter or non-dairy margarine."
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1/4 tsp",
+      "notes": "To taste, can be adjusted based on spice preference."
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/8 tsp",
+      "notes": "Used for added depth of flavor."
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/8 tsp",
+      "notes": "Can enhance the earthy and herbaceous notes in the dish."
+    },
+    {
+      "name": "Water or Plant-Based Stock",
+      "amount": "250ml",
+      "notes": "Use filtered water for best results, as well as a plant-based stock to avoid artificial additives."
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "A pinch",
+      "notes": "For added aroma and depth of flavor."
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/2 tsp",
+      "notes": "Use for a slight hint of color and flavor, optional."
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": "Adjust based on personal preference for saltiness level."
+    },
+    {
+      "name": "Fresh Tamarind Paste",
+      "amount": "1 tbsp",
+      "notes": "Use if fresh tamarind is available, otherwise use a jarred paste to save time and effort."
+    },
+    {
+      "name": "Green Chilies (optional)",
+      "amount": "2-3",
+      "notes": "Add for heat; adjust quantity as per your taste preference."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "In a small bowl, mix together the tofu with sundried tomato puree and saffron threads if using.",
+    "Drizzle olive oil over the mixture and sprinkle garam masala, cumin powder, and coriander powder. Mix well to ensure even coating.",
+    "Heat 2 teaspoons of olive oil in a frying pan over medium heat. Place the tofu mixture in the pan and cook for about 5 minutes on each side until golden brown.",
+    "In another small bowl, mix water or plant-based stock with salt. Stir gently to dissolve the salt completely and let it cool slightly.",
+    "Heat up some water or plant-based stock (about half a cup) in a medium saucepan. Once hot, add fresh tamarind paste to the heated liquid and simmer for about 5 minutes until reduced and thickened. Add sundried tomato puree if using and stir gently until fully combined.",
+    "Pour the deglazed tofu mixture into the pan with the tamarind liquid. Continue cooking over medium heat, stirring occasionally, until the sauce has absorbed by half, creating a velvety texture.",
+    "Once done, remove from heat and let it cool for about 5 minutes before serving in individual bowls.",
+    "Garnish with fresh cilantro or parsley leaves, green chilies (if used), and additional sundried tomatoes if desired. Serve hot as a breakfast side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "vegan-friendly",
+    "salty-velvety",
+    "tamarind-bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "salty-velvety-saudia-tamarind-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-velvety-saudia-tamarind-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:41:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "tamarind ball",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "tamarind",
+    "descriptor": "Salty Velvety",
+    "dishForm": "Bowl"
+  }
+}
