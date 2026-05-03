@@ -1,0 +1,105 @@
+{
+  "title": "Sweet Crisp Turkish Napa Cabbage Braise",
+  "description": "A sweet and crunchy Turkish-inspired dish featuring napa cabbage, perfect for a brunch gathering. This plant-based friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "1 medium head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Turkish sweet pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add shredded napa cabbage and cook until it starts to wilt, about 5 minutes.",
+    "Stir in Turkish sweet pepper paste, lemon juice, and pomegranate molasses.",
+    "Season with salt, black pepper, and sumac (if using).",
+    "Reduce heat to low and braise, covered, for 20-25 minutes or until the cabbage is tender and slightly caramelized.",
+    "Serve hot, garnished with additional sumac (if desired).",
+    "Pair with crusty bread or over rice for a satisfying brunch dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "brunch",
+    "plant-based",
+    "napa-cabbage",
+    "sweet",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "sweet-crisp-turkish-napa-cabbage-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crisp-turkish-napa-cabbage-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:55:41Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "napa cabbage",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Napa Cabbage",
+    "descriptor": "Sweet Crisp",
+    "dishForm": "Braise"
+  }
+}

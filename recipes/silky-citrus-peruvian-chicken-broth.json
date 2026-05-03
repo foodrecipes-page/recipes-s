@@ -1,0 +1,109 @@
+{
+  "title": "Silky Citrus Peruvian Chicken Broth",
+  "description": "A fragrant, low‑calorie broth infused with lime, orange, ginger, and cumin, finished sous‑vide for silky texture and nostalgic Peruvian flavor.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skinless boneless chicken breast fillets",
+      "amount": "2 lbs (900 g)",
+      "notes": ""
+    },
+    {
+      "name": "unsalted low‑sodium chicken stock cube",
+      "amount": "1 cube (use 1 cup water)",
+      "notes": ""
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1/4 cup (60 ml)",
+      "notes": ""
+    },
+    {
+      "name": "fresh orange juice",
+      "amount": "1/4 cup (60 ml)",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh ginger, minced",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup (15 g)",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 tsp",
+      "notes": "to taste, keep low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the water to a rolling boil and dissolve the chicken stock cube, stirring until fully dissolved.",
+    "Place the chicken breast fillets in a vacuum‑seal bag along with the lime juice, orange juice, tomato paste, minced ginger, ground cumin, chopped cilantro, salt, and pepper.",
+    "Seal the bag using a vacuum sealer or the displacement method.",
+    "Set the sous‑vide to 165°F (74°C) and immerse the sealed bag. Cook for 90 minutes.",
+    "After cooking, remove the bag from the water bath and let it sit for 5 minutes to cool slightly.",
+    "Open the bag, remove the chicken, and shred it with two forks. Return the shredded chicken to the bag to keep it moist.",
+    "Seal the bag again and strain the broth through a fine mesh sieve into a saucepan, discarding solids. Reheat the broth gently to 180°F (80°C).",
+    "Taste the broth and adjust seasoning if necessary. Serve hot, garnished with extra cilantro if desired. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 90,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "sous-vide",
+    "citrus",
+    "peruvian",
+    "broth",
+    "healthy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "silky-citrus-peruvian-chicken-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-citrus-peruvian-chicken-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:55:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Silky Citrus",
+    "dishForm": "Broth"
+  }
+}
