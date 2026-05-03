@@ -1,0 +1,113 @@
+{
+  "title": "Sweet Juicy Chinese Tiger Prawns Bao",
+  "description": "Indulge in the flavors of China with our sweet and juicy tiger prawns bao, served in a soft and fluffy steamed bun.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tiger Prawns (400g)",
+      "amount": "1 bunch",
+      "notes": "Fresh, head-on, and deveined"
+    },
+    {
+      "name": "Bao Buns (100g)",
+      "amount": "4 pieces",
+      "notes": "Soft and fluffy steamed buns"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the buns"
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinating the prawns"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tbsp",
+      "notes": "For sweetening the prawns"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": "For balancing the flavors"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince and sauté with the prawns"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Mince and sauté with the prawns"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4 stalks",
+      "notes": "Thinly slice and use as garnish"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tbsp",
+      "notes": "For coating the prawns"
+    }
+  ],
+  "instructions": [
+    "Marinate the prawns in light soy sauce, mirin, and brown sugar for at least 30 minutes.",
+    "Mix cornstarch with a pinch of salt and coat the prawns evenly.",
+    "Heat sesame oil in a wok or large skillet over medium-high heat. Add the prawns and cook until pink, about 2-3 minutes per side.",
+    "Remove the prawns from the wok and set aside.",
+    "In the same wok, add minced garlic and ginger and stir-fry until fragrant.",
+    "Add the cooked prawns back into the wok and stir-fry for another minute.",
+    "Steam the bao buns according to the package instructions.",
+    "Assemble the baos by placing a few prawns onto each bun, followed by a drizzle of the stir-fry sauce.",
+    "Garnish with thinly sliced scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "prawns",
+    "bao",
+    "steamed",
+    "sesame oil",
+    "soy sauce",
+    "sweet",
+    "juicy",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "sweet-juicy-chinese-tiger-prawns-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-juicy-chinese-tiger-prawns-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:47:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "tiger prawns",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "sweet juicy",
+    "dishForm": "Bao"
+  }
+}
