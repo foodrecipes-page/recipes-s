@@ -1,0 +1,124 @@
+{
+  "title": "Spicy British Meat Burger",
+  "description": "A juicy and indulgent British burger featuring a beef patty, crispy bacon, melted cheddar, tangy pickle, and creamy mayonnaise, all on a toasted brioche bun.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "dairy",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "8 oz (225g)",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Brioche Buns",
+      "amount": "4",
+      "notes": "split and toasted"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "crispy"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "2 slices",
+      "notes": "melted"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "4 tbsp (60g)",
+      "notes": "creamy"
+    },
+    {
+      "name": "Pickles",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "2 tbsp (30g)",
+      "notes": "spicy"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp (30g)",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the ground beef into 4 patties.",
+    "Season the patties with salt and pepper.",
+    "Brush the grill or grill pan with olive oil.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the brioche buns on the grill or in a toaster.",
+    "Cook the bacon slices in a pan over medium heat until crispy.",
+    "Assemble the burgers by spreading mayonnaise on the bottom bun, followed by a lettuce leaf, a beef patty, a few slices of bacon, a slice of cheese, a few slices of pickle, and finally the top bun.",
+    "Serve immediately and enjoy!",
+    "Cook the onions and garlic in the same pan as the bacon until softened.",
+    "Stir in the Worcestershire sauce and season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "burger",
+    "spicy",
+    "indulgent",
+    "meat",
+    "dairy",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": "54g",
+    "carbs": "40g",
+    "fat": "44g"
+  },
+  "slug": "spicy-juicy-british-meat-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-juicy-british-meat-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:11:40Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "mayonnaise",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "meat",
+    "descriptor": "spicy, juicy",
+    "dishForm": "Burger"
+  }
+}

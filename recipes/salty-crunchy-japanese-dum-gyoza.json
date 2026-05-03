@@ -1,0 +1,102 @@
+{
+  "title": "Salty Crunchy Japanese Gyoza",
+  "description": "Pan-fried Japanese dumplings filled with pork and vegetables, served with a crunchy dill pickle topping.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "use low-sodium"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups",
+      "notes": "for dumpling wrappers"
+    },
+    {
+      "name": "Dill Pickle Slices",
+      "amount": "1 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, shredded cabbage, thinly sliced green onion, grated ginger, soy sauce, and sesame oil. Mix well until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Prepare the dumpling wrappers by cutting the all-purpose flour into small pieces and mixing with a pinch of salt. Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Divide the dough into small balls, about the size of a small egg. Roll out each ball into a thin circle, about 3 inches in diameter.",
+    "Place a tablespoon of the pork mixture in the center of each dough circle. Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the dumpling.",
+    "Heat a large non-stick skillet or wok over medium-high heat. Add a small amount of sesame oil to the pan and swirl to coat.",
+    "Add the dumplings to the pan and cook for 2-3 minutes on each side, until golden brown and crispy. Repeat with the remaining dumplings.",
+    "Serve the gyoza hot with a crunchy dill pickle topping. Garnish with additional green onion and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dumplings",
+    "gyoza",
+    "pork",
+    "vegetables",
+    "dill pickle",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "salty-crunchy-japanese-dum-gyoza",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crunchy-japanese-dum-gyoza",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:10:56Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "dum",
+    "primaryIngredient": "dill pickles",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "dum",
+    "descriptor": "salty crunchy",
+    "dishForm": "Gyoza"
+  }
+}

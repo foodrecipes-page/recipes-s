@@ -1,0 +1,121 @@
+{
+  "title": "Savory Creamy Mexican Corn Chowder",
+  "description": "A rich and comforting chowder featuring sweet corn, poblano peppers, and the subtle flavor of orange blossom water.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, diced",
+      "notes": null
+    },
+    {
+      "name": "Poblano pepper",
+      "amount": "2, diced",
+      "notes": null
+    },
+    {
+      "name": "Sweet corn kernels",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "you may substitute with half-and-half or coconut cream"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "Add poblano pepper and cook for an additional 3 minutes.",
+    "Add flour and cook for 1 minute, stirring constantly.",
+    "Slowly pour in vegetable broth, whisking constantly to avoid lumps.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Stir in heavy cream and cook until heated through.",
+    "Add grated cheddar cheese and stir until melted and smooth.",
+    "Stir in orange blossom water, cumin, and paprika.",
+    "Season with salt and pepper to taste.",
+    "Simmer for an additional 2-3 minutes to allow flavors to meld.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-chowder",
+    "mexican-chowder",
+    "vegetarian-chowder",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 26
+  },
+  "slug": "savory-creamy-mexican-corn-chowder",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-creamy-mexican-corn-chowder",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:11:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "orange blossom water",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "savory creamy",
+    "dishForm": "Chowder"
+  }
+}
