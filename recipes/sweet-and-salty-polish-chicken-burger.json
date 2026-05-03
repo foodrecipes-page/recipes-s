@@ -1,0 +1,109 @@
+{
+  "title": "Sweet and Salty Polish Chicken Burger",
+  "description": "A kid-friendly Polish-inspired chicken burger with a sweet honey‑soy glaze and crunchy dill pickle relish, served on a soft bun for a satisfying, kosher‑friendly meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast fillets",
+      "amount": "4 (180-200g each)",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tbsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "natural"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Dill pickle relish",
+      "amount": "½ cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Whole grain buns",
+      "amount": "4",
+      "notes": "soft"
+    },
+    {
+      "name": "Lettuce leaves",
+      "amount": "4",
+      "notes": "romaine"
+    }
+  ],
+  "instructions": [
+    "Pat the chicken breasts dry and season them lightly with salt and pepper.",
+    "In a bowl, whisk together soy sauce, honey, and Dijon mustard to create the glaze.",
+    "Place the seasoned chicken in a shallow dish, pour the glaze over, and let marinate in the refrigerator for at least 30 minutes.",
+    "Heat a large skillet over medium‑high heat and add olive oil.",
+    "Remove chicken from the marinate, reserving the glaze, and cook for 5–6 minutes per side or until the internal temperature reaches 165°F (74°C).",
+    "While the chicken is cooking, spread dill pickle relish and fresh dill evenly on the inside of each bun.",
+    "When the chicken is done, spoon a bit of the reserved glaze over the patty, then place it on the prepared bun with lettuce.",
+    "Serve immediately, optionally with a side of potato chips or a fresh fruit salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kashrut",
+    "sweet-and-salty",
+    "chicken-burger",
+    "polish-cuisine",
+    "kid-friendly",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 44,
+    "carbs": 54,
+    "fat": 21
+  },
+  "slug": "sweet-and-salty-polish-chicken-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-salty-polish-chicken-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:05:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "marinate",
+    "primaryIngredient": "sugars",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Chicken",
+    "descriptor": "Sweet and Salty",
+    "dishForm": "Burger"
+  }
+}
