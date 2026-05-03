@@ -1,0 +1,102 @@
+{
+  "title": "Salty Chewy Greek Sesame Flatbread",
+  "description": "A savory, chewy flatbread packed with sesame butter and a flavorful temper, perfect for a Greek‑inspired brunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "240 ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "3.5 g"
+    },
+    {
+      "name": "salt (for dough)",
+      "amount": "5 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "20 g",
+      "notes": "to dust"
+    },
+    {
+      "name": "tahini",
+      "amount": "240 g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15 ml"
+    },
+    {
+      "name": "salt (for temper)",
+      "amount": "1 g"
+    }
+  ],
+  "instructions": [
+    "Dissolve yeast in warm water and let sit 5 minutes until frothy.",
+    "In a large bowl whisk flour with salt (for dough). Add yeast mixture, olive oil, sesame oil, and 10 g of sesame seeds. Knead 5–7 minutes until smooth.",
+    "Cover dough and let rise 1 hour, or until doubled in size.",
+    "Punch down, divide into four equal portions, and roll each into a 6″×6″ disc.",
+    "Brush tops lightly with water and sprinkle remaining 10 g sesame seeds. Let rest 10 minutes.",
+    "Preheat oven to 425 °F (220 °C). Place discs on parchment-lined sheet.",
+    "Bake 12–15 minutes until golden‑brown crust forms.",
+    "While flatbreads bake, whisk tahini, olive oil, lemon juice, and salt (for temper) until creamy and glossy.",
+    "Remove flatbreads from oven, brush each with sesame temper.",
+    "Slice into squares and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "flatbread",
+    "vegetarian",
+    "breakfast",
+    "sesame",
+    "chewy",
+    "salty"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 14,
+    "carbs": 52,
+    "fat": 33
+  },
+  "slug": "salty-chewy-greek-sesame-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-chewy-greek-sesame-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:31:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "temper",
+    "primaryIngredient": "sesame butter",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Sesame",
+    "descriptor": "Salty Chewy",
+    "dishForm": "Flatbread"
+  }
+}
