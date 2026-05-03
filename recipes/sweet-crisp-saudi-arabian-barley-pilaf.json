@@ -1,0 +1,108 @@
+{
+  "title": "Sweet Crisp Saudi Arabian Barley Pilaf",
+  "description": "A sweet and crispy barley dish originating from Saudi Arabia, perfect for a sick-day meal. This dairy-free-friendly recipe combines the goodness of barley, onions, and spices to create a delicious and comforting meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pearled barley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, sliced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "4-6, chopped"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 375°F (190°C).",
+    "Rinse the barley and soak it in water for 30 minutes. Drain and set aside.",
+    "Heat the oil in the tandoor and sauté the onion and ginger until the onion is translucent.",
+    "Add the cumin seeds and sauté for 1 minute.",
+    "Add the coriander powder, turmeric powder, and salt. Mix well.",
+    "Add the soaked barley to the tandoor and mix well with the spice mixture.",
+    "Add the chopped dates and mix well.",
+    "Pour in the water and bring to a boil.",
+    "Reduce the heat to low and cover the tandoor. Simmer for 20 minutes or until the barley is cooked.",
+    "Drizzle the pomegranate molasses over the barley and mix well.",
+    "Garnish with chopped toasted almonds and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "barley",
+    "dates",
+    "pomegranate-molasses",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 8
+  },
+  "slug": "sweet-crisp-saudi-arabian-barley-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-crisp-saudi-arabian-barley-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:30:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "starch",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "barley",
+    "descriptor": "sweet crisp",
+    "dishForm": "pilaf"
+  }
+}
