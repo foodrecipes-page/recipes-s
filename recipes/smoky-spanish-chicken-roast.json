@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Spanish Chicken Roast",
+  "description": "A fragrant, smoky roast chicken with citrus zest and fragrant makrut lime leaves, perfect for a romantic dinner that is fodmap-friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange juice",
+      "amount": "100 ml"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "5 leaves",
+      "notes": "leave whole"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "Pat the chicken dry with paper towels and season the cavity with smoked sea salt and black pepper.",
+    "In a small bowl, combine smoked paprika, orange zest, dried rosemary, dried thyme, and a splash of orange juice to form a thick paste.",
+    "Rub the paste all over the chicken, making sure to get it under the skin and inside the cavity.",
+    "Tuck the makrut lime leaves in the cavity and around the chicken.",
+    "Drizzle the olive oil over the chicken and place it breast-side up on a rimmed baking sheet.",
+    "Roast the chicken for 30 minutes, then reduce the oven temperature to 180 degrees Celsius and continue roasting for another 60 minutes.",
+    "Baste the chicken every 20 minutes with pan juices to keep the skin crisp.",
+    "Check that the internal temperature in the thickest part reaches 75 degrees Celsius before removing from the oven.",
+    "Let the chicken rest for 10 minutes before carving and serving with a side of roasted vegetables if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "one-pan",
+    "smoky",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 2400,
+    "protein": 400,
+    "carbs": 5,
+    "fat": 120
+  },
+  "slug": "smoky-spanish-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spanish-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:58:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Smoky",
+    "dishForm": "Roast"
+  }
+}
