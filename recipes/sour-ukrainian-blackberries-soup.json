@@ -1,0 +1,105 @@
+{
+  "title": "Sour Ukrainian Blackberries Soup",
+  "description": "A light, bitter, keto-friendly soup featuring fresh blackberries, lemon, and herbs, perfect for meal prep.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackberries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "4 cups",
+      "notes": "1 liter"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "stevia powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon chopped",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1/4 teaspoon",
+      "notes": "optional for thickening"
+    }
+  ],
+  "instructions": [
+    "Rinse the blackberries gently under cold water and drain.",
+    "In a saucepan, combine the rinsed blackberries and vegetable broth.",
+    "Bring the mixture to a boil over medium-high heat.",
+    "Reduce the heat to low and simmer for 8 minutes, stirring occasionally.",
+    "Remove the pot from heat and let the berries steep for 5 minutes for extra flavor.",
+    "Using an immersion blender, blend the mixture until smooth, or transfer to a blender in batches.",
+    "Stir in the lemon juice, stevia, salt, pepper, dill, and lemon zest until fully incorporated.",
+    "If a thicker consistency is desired, whisk in 1/4 teaspoon xanthan gum and let sit for 2 minutes.",
+    "Transfer the soup to airtight containers for meal prep.",
+    "Refrigerate and serve chilled or warmed to 60°C before consuming."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "quick",
+    "sour",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 1
+  },
+  "slug": "sour-ukrainian-blackberries-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-ukrainian-blackberries-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:00:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "blackberries",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "blackberries",
+    "descriptor": "Sour",
+    "dishForm": "Soup"
+  }
+}
