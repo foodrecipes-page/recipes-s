@@ -1,0 +1,87 @@
+{
+  "title": "Savory Light Papelon Pilaf",
+  "description": "A light and savory Ukrainian dish featuring papelon (a type of root vegetable) without eggs for a weeknight meal option.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "1 medium",
+      "notes": "Choose firm varieties such as kudla or wiesbaden"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 small",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Paprika",
+      "amount": "A pinch",
+      "notes": "For a smoky, spicy flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Vegetable Oil or Butter",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Chop papelon into small pieces and set aside.",
+    "In a pan, heat oil or butter over medium heat. Add onion and garlic, sauté for about 2 minutes until softened.",
+    "Add papelon to the pan with a pinch of salt and pepper, cook for another minute.",
+    "Transfer mixture to an oven-safe dish, add minced garlic and paprika on top.",
+    "Bake in preheated oven for 30-45 minutes or until papelon is tender and lightly browned.",
+    "Serve hot as a side dish or as the main course with your choice of protein."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "light",
+    "papelon",
+    "ukrainian",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "savory-light-papelon-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-light-papelon-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:06:16Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "papelon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "papelon",
+    "descriptor": "Savory Light",
+    "dishForm": "Pilaf"
+  }
+}
