@@ -1,0 +1,105 @@
+{
+  "title": "Sour Creamy Croatian Cheese Pasta",
+  "description": "A rich and tangy Croatian-inspired pasta dish featuring unwaxed lemon, perfect for satisfying midnight cravings. This kosher-friendly recipe combines creamy cheese with a hint of sourness from the lemon and a touch of Croatian tradition.",
+  "cuisine": "Croatian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 oz",
+      "notes": "wide, flat noodles"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "croatian cheese",
+      "amount": "1 cup",
+      "notes": "such as PAŠKI SIR or similar"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions until al dente.",
+    "In a large skillet, melt the butter over medium heat and add the minced garlic. Cook for 1-2 minutes until fragrant.",
+    "Add the olive oil to the skillet and stir to combine with the garlic and butter.",
+    "Zest the unwaxed lemon and add the zest to the skillet. Cook for an additional minute.",
+    "Squeeze the juice of the unwaxed lemon into the skillet, being careful not to add any seeds or pulp.",
+    "In a large bowl, combine the cooked pasta, sour cream, and Croatian cheese. Toss until the cheese is melted and the pasta is well coated.",
+    "Add the garlic and lemon mixture from the skillet to the bowl with the pasta and toss to combine.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pasta",
+    "cheese",
+    "sour-cream",
+    "lemon",
+    "midnight-craving",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "sour-creamy-croatian-cheese-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-creamy-croatian-cheese-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:20:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "sour creamy",
+    "dishForm": "Pasta"
+  }
+}
