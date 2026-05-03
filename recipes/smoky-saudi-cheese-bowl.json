@@ -1,0 +1,74 @@
+{
+  "title": "Smoky Saudi Cheese Bowl",
+  "description": "A nostalgic Saudi Arabian dish featuring silky shredded Monterey Jack cheese with a hint of smokiness, perfect for a quick snack or light meal.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "monterey jack cheese",
+      "amount": "150g",
+      "notes": "shredded, fresh"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "neutral flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a small pan over medium heat.",
+    "Add smoked paprika and toast for 30 seconds until fragrant.",
+    "Add shredded Monterey Jack cheese and stir until melted.",
+    "Mix in lemon juice and remove from heat.",
+    "Serve immediately for a smoky, silky cheese bowl."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 3,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "saudi",
+    "cheese",
+    "smoky",
+    "snack",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 2,
+    "fat": 22
+  },
+  "slug": "smoky-saudi-cheese-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-saudi-cheese-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T05:04:54Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "cheese",
+    "descriptor": "Smoky",
+    "dishForm": "Bowl"
+  }
+}
