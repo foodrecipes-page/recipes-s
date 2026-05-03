@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Silky Turkish Monkfish Pilaf",
+  "description": "A comforting Turkish dish made with monkfish, smoky spices, and low-fat ingredients.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish fillets",
+      "amount": "4",
+      "notes": "1 pound total"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": "14 ounces"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the smoked paprika, salt, and black pepper; cook for 1 minute.",
+    "Add the diced tomatoes and chicken broth; stir to combine.",
+    "Add the monkfish fillets and cook for 2-3 minutes per side, or until cooked through.",
+    "Stir in the chopped parsley.",
+    "Reduce heat to low and cover the saucepan with a lid.",
+    "Simmer for 5-7 minutes, or until the liquid has been absorbed and the fish is cooked through.",
+    "Serve the monkfish and pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "one-pan",
+    "smoky",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "smoky-silky-turkish-monkfish-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-silky-turkish-monkfish-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:14:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "smoke-cold",
+    "primaryIngredient": "monkfish",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "monkfish",
+    "descriptor": "smoky silky",
+    "dishForm": "Pilaf"
+  }
+}
