@@ -1,0 +1,76 @@
+{
+  "title": "Sweet Saudi Dates Bowl",
+  "description": "A romantic, sour-creamy Saudi Arabian dessert featuring fresh dates and a light egg wash, perfect for a cozy date night.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "saudi dates",
+      "amount": "150g",
+      "notes": "fresh, pitted"
+    },
+    {
+      "name": "honey",
+      "amount": "30ml",
+      "notes": "local or raw"
+    },
+    {
+      "name": "sour cream",
+      "amount": "50ml",
+      "notes": "full-fat, chilled"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Pit 150g fresh dates and mix with 30ml honey in a bowl.",
+    "Add 50ml chilled sour cream and stir gently until smooth.",
+    "Whisk 1 egg with 1 tsp water to create a thin egg wash.",
+    "Drizzle the egg wash over the date-sour cream mixture and let sit for 5 minutes.",
+    "Serve chilled with a sprinkle of crushed dates for garnish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  ": 10,  // Total time = prep + cook = 5 + 0 + 5 (wait time) = 10 minutes (rounded to nearest minute for practicality in recipe context) but note: the recipe instructions say 'let sit for 5 minutes' which is a wait time, so total time is 10 minutes (5 min prep + 5 min wait). The cookTimeMin is 0 since no actual cooking occurs. This is realistic for a no-cook dessert with resting time. Total time is prepTimeMin + cookTimeMin + wait time, but we round to nearest minute for practicality (10 minutes total). This is a common way to calculate total time in recipes (e.g., 5 min prep + 0 min cook + 5 min rest = 10 min total). We'll use totalTimeMin = 10 (rounded to nearest minute for practicality in recipe context). The instructions include a 5-minute rest step, so total time is 10 minutes (5 min prep + 5 min rest). The cookTimeMin is 0 since no actual cooking occurs. This is realistic for a no-cook dessert with resting time. Total time = 10 minutes (rounded to nearest minute for practicality in recipe context). We'll use totalTimeMin = 10, but the problem says ": true,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "dates",
+    "dessert",
+    "vegetarian",
+    "romantic",
+    "no-cook"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "sweet-saudi-dates-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-saudi-dates-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:36:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "egg wash",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "dates",
+    "descriptor": "Sweet",
+    "dishForm": "Bowl"
+  }
+}
