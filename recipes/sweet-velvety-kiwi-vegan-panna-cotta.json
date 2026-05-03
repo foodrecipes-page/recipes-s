@@ -1,0 +1,91 @@
+{
+  "title": "Sweet Velvety Kiwi Vegan Panna Cotta",
+  "description": "A sweet and velvety Filipino-inspired dish featuring kiwifruit in a smooth vegan dessert that's perfect for romantic evenings.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "4 ripe kiwi fruits",
+      "amount": "1 per person",
+      "notes": "preferably firm and slightly green"
+    },
+    {
+      "name": "2 cups almond milk",
+      "amount": "per serving",
+      "notes": "ensure it's fully heated before adding other ingredients"
+    },
+    {
+      "name": "2 tablespoons maple syrup or agave nectar",
+      "amount": "per serving",
+      "notes": "adjust sweetness to taste"
+    },
+    {
+      "name": "1/4 cup cornstarch",
+      "amount": "for the thickener, per serving",
+      "notes": "use water-based consistency for easier handling"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "optional, but recommended",
+      "notes": "improves overall taste"
+    },
+    {
+      "name": "1 tablespoon vanilla extract",
+      "amount": "per serving",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Coarse sugar or powdered ginger for decoration (optional)",
+      "amount": "as desired",
+      "notes": "adds a touch of elegance"
+    }
+  ],
+  "instructions": [
+    "Peel the kiwi fruits and cut them into small pieces.",
+    "In a blender, combine the peeled kiwi with almond milk, maple syrup/agave nectar, cornstarch, and salt. Blend until smooth.",
+    "Pour the mixture into individual serving dishes or ramekins.",
+    "Cover with plastic wrap to prevent forming a skin on top. Place in the refrigerator for at least 4 hours or overnight to chill and thicken.",
+    "Just before serving, drizzle some vanilla extract over each panna cotta as desired.",
+    "Decorate with coarse sugar or powdered ginger if using."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "velvety",
+    "romantic",
+    "filipino",
+    "vegan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "sweet-velvety-kiwi-vegan-panna-cotta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvety-kiwi-vegan-panna-cotta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:06:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "kiwifruit",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vegan",
+    "mainIngredient": "kiwi",
+    "descriptor": "Sweet",
+    "dishForm": "Panna Cotta"
+  }
+}
