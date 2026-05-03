@@ -1,0 +1,106 @@
+{
+  "title": "Silky Norwegian Hazelnut Soup",
+  "description": "A fermented, silky soup that cures hangovers with hazelnuts, vegetable stock, and fermented soy milk.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "nut-friendly",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw hazelnuts",
+      "amount": "1/4 cup (30g)",
+      "notes": "toasted for extra flavor"
+    },
+    {
+      "name": "low‑sodium vegetable stock",
+      "amount": "2 cups (480ml)"
+    },
+    {
+      "name": "fermented soy milk",
+      "amount": "1 cup (240ml)",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium (120g)",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small (75g)",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium pot over medium heat.",
+    "Add the diced onion and minced garlic, sautéing until translucent, about 3 minutes.",
+    "Stir in the sliced carrot and toast the hazelnuts for 2‑3 minutes, until fragrant.",
+    "Pour in the vegetable stock and bring to a gentle boil.",
+    "Reduce heat, cover, and simmer for 15 minutes until the carrots are tender.",
+    "Add the fermented soy milk, then season with salt and pepper.",
+    "Blend the soup using an immersion blender until silky and smooth.",
+    "Return to a low simmer for 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "hazelnut",
+    "vegetarian",
+    "gluten-free",
+    "fermented",
+    "egg-free",
+    "silky",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 16,
+    "carbs": 32,
+    "fat": 36
+  },
+  "slug": "silky-norwegian-hazelnuts-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-norwegian-hazelnuts-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:45:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "boil",
+    "primaryIngredient": "hazlenuts",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Silky",
+    "dishForm": "Soup"
+  }
+}

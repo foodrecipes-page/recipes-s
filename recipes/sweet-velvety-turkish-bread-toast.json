@@ -1,0 +1,95 @@
+{
+  "title": "Sweet Velvety Turkish Bread Toast",
+  "description": "A sweet and festive Turkish dish featuring ground allspice, toasted bread, and a dairy-free friendly twist. Perfect for a snack or dessert, this treat is sure to delight.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkish bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Slice the Turkish bread into 1-inch thick slices and toast until lightly browned.",
+    "In a small saucepan, combine the coconut oil, granulated sugar, ground allspice, and rose water. Heat over low heat, stirring until the sugar dissolves.",
+    "In a separate saucepan, whisk together the non-dairy milk and cornstarch. Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Brush the toasted bread slices with the sugar and spice mixture.",
+    "Drizzle the thickened milk mixture over the bread slices.",
+    "If using pine nuts, sprinkle them over the top of the bread.",
+    "Bake the bread slices in the preheated oven for 10-12 minutes, or until lightly golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "sweet",
+    "velvety",
+    "toasted",
+    "bread",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "sweet-velvety-turkish-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-velvety-turkish-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:46:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "ground allspice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bread",
+    "descriptor": "sweet velvety",
+    "dishForm": "Toast"
+  }
+}
