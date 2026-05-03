@@ -1,0 +1,96 @@
+{
+  "title": "Sour Chewy Irish Chinese Cabbage Soup",
+  "description": "This vegan-friendly sour and chewy Irish-style cabbage soup is energizing and perfect for a quick lunch or snack.",
+  "cuisine": "Irish-Chinese fusion cuisine",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 (minced)"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Vegan stock cube or powder",
+      "amount": "1 cube"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spices (cayenne, mustard seeds, fenugreek)",
+      "notes": "For a bit of spice and depth of flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water or vegetable stock",
+      "amount": "600ml"
+    },
+    {
+      "name": "Fresh coriander (cilantro) for garnish",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Clean and thinly slice the Chinese cabbage. Chop the onion into small pieces.",
+    "Heat a pan with some coconut oil over medium heat, add onions and sauté until they are soft and translucent.",
+    "Add minced garlic to the pan and cook for another minute or so until fragrant.",
+    "Stir in tomato puree, spices (cayenne, mustard seeds, fenugreek), salt, vegan stock cube/powder, water/vegetable stock, and coconut milk. Bring to a simmer.",
+    "Add sliced cabbage to the pot, reduce heat to low, cover with a lid, and let it cook for about 20 minutes until cabbage is tender.",
+    "Serve hot, garnished with fresh coriander leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "chewy",
+    "energizing",
+    "irish",
+    "cabbage",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "sour-chewy-irish-chinese-cabbage-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-chewy-irish-chinese-cabbage-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:50:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Chinese cabbage",
+    "descriptor": "Sour, Chewy",
+    "dishForm": "Soup"
+  }
+}
