@@ -1,0 +1,96 @@
+{
+  "title": "Sweet-Savory Saudi Meat Stir-fry",
+  "description": "A delicious and quick weeknight meal featuring a unique blend of spices including Cajun seasoning to create a sweet-savory dish that is both flavorful and comforting.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "150g"
+    },
+    {
+      "name": "bell peppers, red",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "2 large"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sweet soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the beef by trimming excess fat and season with kosher salt and black pepper. Slice into thin strips.",
+    "Dice red bell peppers, onions, and slice garlic thinly.",
+    "Heat oil in a large skillet or wok over medium-high heat. Add cayenne pepper for color and fragrance.",
+    "Add beef and cook until browned on all sides. Remove from pan and set aside.",
+    "In the same pan, add tomato paste and stir to combine with some of the residual fat. Cook until it turns a deep red color.",
+    "Return beef to the pan along with bell peppers, onions, and garlic. Stir in sweet soy sauce.",
+    "Simmer for about 5 minutes or until vegetables are tender and flavors are well combined.",
+    "Serve hot as a main dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudia",
+    "meat",
+    "stir-fry",
+    "sweet-savory",
+    "cajun",
+    "kashmiri-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "sweet-savory-saudia-meat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-savory-saudia-meat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:41:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "cajun",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Meat",
+    "descriptor": "Sweet-Savory",
+    "dishForm": "Stir-fry"
+  }
+}
