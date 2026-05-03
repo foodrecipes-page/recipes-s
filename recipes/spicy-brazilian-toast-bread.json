@@ -1,0 +1,95 @@
+{
+  "title": "Spicy Brazilian Toast Bread",
+  "description": "A juicy, crispy Brazilian-inspired toast with a smoky kick and dairy-free perfection for a brunch boost.",
+  "cuisine": "brazilian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sliced sourdough bread",
+      "amount": "2 slices",
+      "notes": "crusty, sturdy bread for crispiness"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "adds subtle smoke and heat"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "bright, fresh flavor"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 ripe",
+      "notes": "creamy base for juiciness"
+    },
+    {
+      ": ": ", "
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "zest and freshness"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/8 teaspoon",
+      "notes": "for a gentle spicy kick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon",
+      "notes": "for moisture and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat.",
+    "Add 2 slices of sourdough bread to the skillet and cook until golden and crispy on both sides.",
+    "In a small bowl, mix 1/2 ripe avocado with 1 tablespoon lime juice, 1/4 teaspoon smoked paprika, 1/8 teaspoon red pepper flakes, and 1 tablespoon fresh cilantro.",
+    "Top the crispy bread with the avocado mixture.",
+    "Drizzle with 1 teaspoon olive oil for extra richness.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 5,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "brunch",
+    "spicy",
+    "toasted",
+    "dairy-free",
+    "avocado",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "spicy-brazilian-toast-bread",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-brazilian-toast-bread",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:07:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "crusty bread",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "bread",
+    "descriptor": "Spicy",
+    "dishForm": "Toast"
+  }
+}
