@@ -1,0 +1,111 @@
+{
+  "title": "Silky Earthy Thai Oysters Curry",
+  "description": "A refined, romantic curry featuring briny oysters in a velvety coconut-turmeric base with earthy undertones of fermented bean paste. Developed with kosher-friendly swaps to ensure a luxurious, shellfish-focused profile without dairy or non-kosher ferments.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "kosher-style"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Shucked Oysters",
+      "amount": "12-16 pieces",
+      "notes": "Reserve 2 tablespoons of the oyster liquor"
+    },
+    {
+      "name": "Full-fat Coconut Milk",
+      "amount": "14 oz can",
+      "notes": "Do not shake; use the thick cream from the top"
+    },
+    {
+      "name": "Yellow Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "Ensure no shrimp paste is included for kosher-style"
+    },
+    {
+      "name": "Yellow Miso Paste",
+      "amount": "1 tbsp",
+      "notes": "Provides the 'earthy' fermented element in place of shrimp paste"
+    },
+    {
+      "name": "Fresh Turmeric",
+      "amount": "1 tsp",
+      "notes": "Finely grated"
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "1 tbsp",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Fresh Galangal",
+      "amount": "1 inch piece",
+      "notes": "Sliced into thin rounds"
+    },
+    {
+      "name": "Thai Basil Leaves",
+      "amount": "1/2 cup",
+      "notes": "Freshly picked"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 large",
+      "notes": "Thinly sliced and fried until golden"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Spoon 3 tablespoons of the thick coconut cream into a wok or heavy saucepan over medium heat, stirring until it splits and releases its oil.",
+    "Add the yellow curry paste and grated turmeric to the oil, frying for 2 minutes until fragrant and deepened in color.",
+    "Whisk in the yellow miso paste and palm sugar, ensuring the ferment is well incorporated into the aromatic base.",
+    "Pour in the remaining coconut milk and the reserved oyster liquor, then add the galangal slices.",
+    "Simmer the sauce gently for 8-10 minutes on low heat until it reduces slightly and achieves a silky, coating consistency.",
+    "Remove the galangal slices and discard; taste the sauce for a balance of earthy, salty, and sweet.",
+    "Carefully slide the fresh oysters into the simmering sauce, poaching them for exactly 2 minutes until the edges just begin to curl.",
+    "Turn off the heat and fold in the fresh Thai basil leaves and lime juice.",
+    "Serve immediately in shallow bowls, garnished generously with the golden fried shallots."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "oysters",
+    "thai-curry",
+    "seafood",
+    "romantic-dinner",
+    "fermented",
+    "silky-texture"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 18,
+    "fat": 34
+  },
+  "slug": "silky-earthy-thai-oysters-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-earthy-thai-oysters-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T20:08:03Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "oysters",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Oysters",
+    "descriptor": "Silky Earthy",
+    "dishForm": "Curry"
+  }
+}

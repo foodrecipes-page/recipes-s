@@ -1,0 +1,93 @@
+{
+  "title": "Salty Venezuelan Potato Croquettes",
+  "description": "A dense and savory snack inspired by Andean flavors, using mashed baby potatoes and cornmeal for a quick-fix texture. These croquettes are intensely salted and lightly fried for a satisfying bite.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baby new potatoes",
+      "amount": "500g",
+      "notes": "Boiled until tender and peeled"
+    },
+    {
+      "name": "Pre-cooked white cornmeal",
+      "amount": "1/2 cup",
+      "notes": "Harina P.A.N. or similar for binding"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1.5 tsp",
+      "notes": "Adjust to taste for a salty profile"
+    },
+    {
+      "name": "Queso duro or Feta",
+      "amount": "1/4 cup",
+      "notes": "Finely crumbled"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "Dash-friendly seasoning"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "4 tbsp",
+      "notes": "For shallow frying"
+    },
+    {
+      "name": "Warm water",
+      "amount": "3 tbsp",
+      "notes": "As needed for kneading consistency"
+    }
+  ],
+  "instructions": [
+    "Place the boiled baby potatoes in a large mixing bowl and mash them thoroughly until no large lumps remain.",
+    "Add the pre-cooked cornmeal, crumbled cheese, sea salt, and garlic powder to the mashed potatoes.",
+    "Knead the mixture by hand, adding warm water one tablespoon at a time until a dense, pliable dough forms.",
+    "Divide the dough into small portions and roll them into cylinders or oval croquette shapes.",
+    "Heat the vegetable oil in a non-stick skillet over medium-high heat until shimmering.",
+    "Place the croquettes in the skillet, ensuring they do not touch each other.",
+    "Fry for 3-4 minutes per side, turning carefully until a golden-brown salty crust forms on all sides.",
+    "Remove from heat and drain on paper towels for one minute before serving warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan-cuisine",
+    "potato-dish",
+    "salty-snacks",
+    "quick-fix",
+    "gluten-free-snack"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 8
+  },
+  "slug": "salty-venezuelan-potatoes-croquettes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-venezuelan-potatoes-croquettes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T20:07:51Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "potatoes",
+    "descriptor": "Salty Kneaded",
+    "dishForm": "Croquettes"
+  }
+}
