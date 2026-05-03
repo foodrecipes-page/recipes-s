@@ -1,0 +1,106 @@
+{
+  "title": "Smoky Greek Chicken Skewers",
+  "description": "Light, garlicky chicken skewers with a smoky kick and a sweet blackberry jam glaze, perfect for a quick Whole30-friendly Mediterranean meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "1.5 lbs (680g)",
+      "notes": "cut into 1.5\" cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1.5 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "blackcurrant jam (no added sugar)",
+      "amount": "4 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "skewers",
+      "amount": "8",
+      "notes": "soaked in water 30 min before use"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together olive oil, minced garlic, lemon juice, smoked paprika, liquid smoke, oregano, and salt to make the marinara.",
+    "Add the chicken cubes to the bowl, ensuring each piece is coated well. Cover and marinate in the refrigerator for at least 15 minutes.",
+    "Preheat a grill or grill pan to medium-high heat. While the grill heats, soak bamboo skewers in water for 30 minutes to prevent burning.",
+    "Thread the marinated chicken onto the soaked skewers, leaving a small gap between each cube.",
+    "Place the skewers on the grill and cook for 4–5 minutes on each side, or until the chicken is cooked through and has a nice char.",
+    "During the last minute of grilling, brush each skewer with blackcurrant jam, allowing it to caramelize slightly.",
+    "Remove the skewers from the grill and let them rest for 2 minutes before serving.",
+    "Serve hot, optionally garnished with a sprinkle of fresh oregano or a wedge of lemon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "greek",
+    "chicken",
+    "skewers",
+    "quick",
+    "whole30",
+    "garlicky",
+    "light",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 5
+  },
+  "slug": "smoky-greek-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-greek-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:59:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chicken",
+    "descriptor": "Smoky",
+    "dishForm": "Skewers"
+  }
+}
