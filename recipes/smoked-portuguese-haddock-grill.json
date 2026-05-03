@@ -1,0 +1,94 @@
+{
+  "title": "Smoked Portuguese Haddock Grill",
+  "description": "A kid-friendly, earthy-smoky haddock dish with caramelized onions and fresh herbs, perfect for low-fat diets.",
+  "cuisine": "portuguese",
+  "diet": [
+    "low-fat",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked haddock fillets",
+      "amount": "120g",
+      "notes": "pre-cooked, smoked haddock (approx. 2 fillets)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      ": ": ", "
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "extra-light"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "5ml",
+      "notes": "for brightness"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "a pinch",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick pan over medium heat.",
+    "Add sliced onions and sauté until caramelized (about 5 minutes).",
+    "Add smoked haddock fillets, salt, and pepper to the pan.",
+    "Cook for 2-3 minutes per side until golden and cooked through.",
+    "Sear in a hot pan with a splash of red wine vinegar for extra smokiness (1 minute).",
+    "Remove from heat and garnish with fresh parsley."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "haddock",
+    "smoked",
+    "grill",
+    "kid-friendly",
+    "low-fat",
+    "caramelized",
+    "onion"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 25,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "smoked-portuguese-haddock-grill",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-portuguese-haddock-grill",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:06:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "smoked haddock",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "haddock",
+    "descriptor": "Smoked",
+    "dishForm": "Grill"
+  }
+}
