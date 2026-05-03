@@ -1,0 +1,100 @@
+{
+  "title": "Spicy Fluffy Middle Eastern Lamb Flatbread",
+  "description": "A Whole30-friendly, spicy, and fluffy Middle Eastern-inspired dish featuring fresh thyme, perfect for a lazy Sunday. This recipe combines the warmth of lamb with the comfort of a homemade flatbread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a large mixing bowl, combine almond flour, salt, black pepper, and cayenne pepper.",
+    "Add the coconut oil, eggs, and water to the bowl. Mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "In a separate pan, cook the lamb mince over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped fresh thyme to the lamb and stir to combine.",
+    "Place a spoonful of the lamb mixture onto one half of each flatbread circle.",
+    "Fold the flatbread in half to enclose the filling and press the edges to seal.",
+    "Place the flatbreads on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "lamb",
+    "flatbread",
+    "whole30",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "spicy-fluffy-middle-eastern-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-middle-eastern-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:47:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "fresh thyme",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "spicy fluffy",
+    "dishForm": "Flatbread"
+  }
+}
