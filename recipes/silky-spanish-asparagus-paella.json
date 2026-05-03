@@ -1,0 +1,104 @@
+{
+  "title": "Silky Spanish Asparagus Paella",
+  "description": "A rich, silky paella featuring tender asparagus, perfectly cooked in a flavorful broth with a hint of saffron. This egg-free dish is ideal for sick days and light meals.",
+  "cuisine": "spanish",
+  "diet": [
+    "egg-free",
+    "sick-day-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "12 oz (340g)",
+      "notes": "trimmed, tips removed"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 tsp",
+      "notes": "soaked in 1 tbsp warm water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      ": ": "",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a paella pan over medium heat.",
+    "Sauté onion and garlic until translucent, about 3 minutes.",
+    "Add saffron-infused water and chicken broth, then bring to a gentle simmer.",
+    "Add asparagus, stirring gently to coat in the liquid.",
+    "Simmer for 8-10 minutes until asparagus is tender but still crisp-tender.",
+    "Season with salt and pepper to taste.",
+    "Remove bay leaf if using, and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "asparagus",
+    "paella",
+    "egg-free",
+    "sick-day-friendly",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "silky-spanish-asparagus-paella",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-spanish-asparagus-paella",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:36:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "asparagus",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "asparagus",
+    "descriptor": "Silky",
+    "dishForm": "Paella"
+  }
+}
