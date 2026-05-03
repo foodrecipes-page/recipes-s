@@ -1,0 +1,101 @@
+{
+  "title": "Sour Silky Filipino Chicken Roast",
+  "description": "A show-stopping Filipino dish featuring lemongrass and a mediterranean twist, this sour and silky chicken roast is sure to impress. The combination of citrus, herbs, and spices creates a truly unique flavor profile.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1.5 kg",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "4 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a blender or food processor, combine lemongrass, lime juice, olive oil, fish sauce, honey, garlic, black pepper, and salt. Blend until smooth.",
+    "Place the chicken in a large bowl and pour the marinade over it, making sure the chicken is fully coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the chicken from the marinade and place it in a roasting pan.",
+    "Roast the chicken in the preheated oven for about 45-50 minutes, or until the internal temperature reaches 75°C (165°F).",
+    "Baste the chicken with the pan juices every 20 minutes to keep it moist and promote even browning.",
+    "Remove the chicken from the oven and let it rest for 10-15 minutes before slicing.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "chicken-roast",
+    "lemongrass",
+    "mediterranean-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "sour-silky-filipino-chicken-roast",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-silky-filipino-chicken-roast",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:24:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "lemongrass",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "sour silky",
+    "dishForm": "Roast"
+  }
+}

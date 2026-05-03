@@ -1,0 +1,102 @@
+{
+  "title": "Spicy Fluffy Korean Rice Fried Rice",
+  "description": "A fresh, fluffy, and spicy Korean dish perfect for midnight cravings, made with hot chilli powder and bhuna, and is vegan-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked Korean rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "hot chilli powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bhuna masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegan soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cloves of garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for another minute, until fragrant.",
+    "Add hot chilli powder and bhuna masala, and stir for 1 minute.",
+    "Add frozen peas and carrots, and cook until thawed.",
+    "Add cooked Korean rice to the skillet or wok, and stir-fry for about 5 minutes, breaking up any clumps with a spatula.",
+    "Add vegan soy sauce, and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Transfer the fried rice to a serving platter, and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-food",
+    "vegan-recipes",
+    "spicy-dishes",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "spicy-fluffy-korean-rice-fried-rice",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-fluffy-korean-rice-fried-rice",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:23:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "spicy fluffy",
+    "dishForm": "Fried-Rice"
+  }
+}

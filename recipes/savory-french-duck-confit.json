@@ -1,0 +1,107 @@
+{
+  "title": "Savory French Duck Confit",
+  "description": "A classic French dish featuring tender duck leg, fresh parsley, and rich flavors, perfect for a romantic dinner. This sugar-free-friendly recipe is sure to impress your date.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4-6",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "Duck fat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Shallots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Season the duck legs with salt, black pepper, and thyme.",
+    "Heat the duck fat in a large Dutch oven over medium heat.",
+    "Sear the duck legs until browned on all sides, about 5 minutes per side.",
+    "Add the sliced shallots to the pot and cook until they're softened and lightly browned.",
+    "Add the garlic, bay leaves, and lemon juice to the pot, stirring to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the duck for 2 1/2 to 3 hours, or until the meat is tender and falls off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Broil the duck legs for 5-7 minutes, or until the skin is crispy and golden brown.",
+    "Sprinkle the chopped parsley over the top of the duck and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "date-night",
+    "sugar-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 0,
+    "fat": 45
+  },
+  "slug": "savory-french-duck-confit",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-french-duck-confit",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:24:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "broil",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "duck",
+    "descriptor": "Savory Dense",
+    "dishForm": "Confit"
+  }
+}

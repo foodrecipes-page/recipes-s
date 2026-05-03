@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Velvety Irish Pork Stew",
+  "description": "A hearty, smoky Irish stew featuring tender pork, sweet apples, and a hint of bhuna spice, perfect for a cozy sick day. This dish is gluten-free-friendly, making it accessible to those with dietary restrictions.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "apples",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat. Brown the pork cubes, then set aside.",
+    "Add more oil if needed, then sauté the chopped onions until they're translucent. Add the minced garlic and cook for 1 minute.",
+    "Add the smoked paprika, bhuna spice mix, salt, and pepper. Cook for 1 minute, stirring constantly.",
+    "Add the chopped apples, browned pork, chicken broth, and cubed potatoes. Stir to combine, then cover the Dutch oven.",
+    "Transfer the Dutch oven to the preheated oven and braise for 2.5 hours, or until the pork is tender.",
+    "Remove the Dutch oven from the oven and stir in the heavy cream.",
+    "Return the Dutch oven to the stovetop and simmer over low heat for 10-15 minutes, or until the stew has thickened slightly.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 170,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "pork-recipes",
+    "comfort-food",
+    "gluten-free",
+    "smoky",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 32
+  },
+  "slug": "smoky-velvety-irish-pork-stew",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-velvety-irish-pork-stew",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:24:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "apples",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pork",
+    "descriptor": "smoky velvety",
+    "dishForm": "Stew"
+  }
+}
