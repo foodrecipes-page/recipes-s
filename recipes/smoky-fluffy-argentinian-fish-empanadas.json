@@ -1,0 +1,121 @@
+{
+  "title": "Smoky Fluffy Argentinian Fish Empanadas",
+  "description": "A crowd-pleasing Argentinian dish featuring red pepper flakes and deglazed onions, perfect for a pescatarian dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Cod Fillets",
+      "amount": "1 pound, cut into small pieces",
+      "notes": "Look for sustainable, wild-caught cod"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 1/4 cups",
+      "notes": "Use a high-quality, unbleached flour"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher or sea salt for best flavor"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": "Balance the savory flavors"
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 package (2 1/4 teaspoons)",
+      "notes": "Use a high-quality yeast for best rise"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "Add smoky heat"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Use high-quality, salted butter"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "Use a mild, fruity olive oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": "Caramelize for depth of flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Use fresh, high-quality garlic"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "For egg wash and empanada filling"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "For egg wash and empanada dough"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast, sugar, and 1/4 cup warm water. Let sit for 5-10 minutes, until frothy.",
+    "In a large mixing bowl, combine flour, salt, and red pepper flakes.",
+    "Add yeast mixture, butter, olive oil, and egg to dry ingredients. Mix until a shaggy dough forms.",
+    "Knead dough for 5-7 minutes, until smooth and elastic.",
+    "Let dough rise in a warm, draft-free place for 1-2 hours, until doubled in size.",
+    "Meanwhile, caramelize onion in butter until dark golden brown.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add cod pieces and cook for 2-3 minutes, until opaque.",
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Roll out dough to 1/4 inch thickness. Use a cookie cutter or the rim of a glass to cut out circles.",
+    "Place a tablespoon of cod mixture onto one half of each circle. Fold dough in half and press edges to seal.",
+    "Brush tops with egg wash and bake for 15-20 minutes, until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "fish-empanadas",
+    "pescatarian",
+    "smoky",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "smoky-fluffy-argentinian-fish-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-argentinian-fish-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:21:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "fish",
+    "descriptor": "smoky fluffy",
+    "dishForm": "Empanadas"
+  }
+}
