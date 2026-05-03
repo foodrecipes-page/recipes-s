@@ -1,0 +1,86 @@
+{
+  "title": "Smoked Nutty Smokey Norvegian Anchovy Pasta",
+  "description": "A light and cozy Norwegian dish featuring Thai fish sauce, sautéed with smoked nuts for a nutty twist, and served over pasta as a low-fat-friendly option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Thai Fish Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked Almonds",
+      "amount": "50g"
+    },
+    {
+      "name": "Dried Cranberries",
+      "amount": "30g"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 handful fresh, chopped"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). Rinse pasta and cook according to package instructions, set aside.",
+    "In a pan, heat olive oil over medium heat. Add smoked almonds, dried cranberries, and sauté for about 2 minutes until slightly toasted.",
+    "Add Thai fish sauce to the pan and stir well to combine with ingredients, reducing any excess liquid. Stir in chopped parsley and sesame seeds; season with salt as desired.",
+    "Drain cooked pasta and add it to the pan mixture. Toss gently to coat pasta evenly with the nutty-smoky sauce.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-nutty",
+    "cozy-nowegian-dish",
+    "light",
+    "norvegian-anchovy-pasta",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "smoked-nutty-smokey-norvegian-anchovy-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-nutty-smokey-norvegian-anchovy-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:39:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "anchovy",
+    "descriptor": "Smoked",
+    "dishForm": "Pasta"
+  }
+}
