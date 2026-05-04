@@ -1,0 +1,88 @@
+{
+  "title": "Smoothly Silky Irish Oatmeal Oat Porridge",
+  "description": "A malty, silky, and adventurous Irish oat porridge made with pomegranate molasses, perfect for a satvik-friendly breakfast.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "250g"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "30g"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "0.5g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "0.25g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "15g"
+    }
+  ],
+  "instructions": [
+    "Combine oats, water, pomegranate molasses, cinnamon, ginger, and sugar in a large kadhai over low heat.",
+    "Whisk the mixture constantly until the oats are well coated and the mixture thickens.",
+    "Bring the mixture to a simmer, whisking constantly to prevent lumps.",
+    "Reduce heat to low and cook, whisking occasionally, for 5 minutes.",
+    "Add the butter to the mixture and whisk until melted and fully incorporated.",
+    "Cook for an additional 2 minutes, whisking constantly.",
+    "Remove from heat and let cool for 2 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "comfort-food",
+    "high-fiber",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 8
+  },
+  "slug": "smoothly-silky-irish-oatmeal-oat-porridge",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoothly-silky-irish-oatmeal-oat-porridge",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:02:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Oatmeal",
+    "descriptor": "Smoothly Silky",
+    "dishForm": "Oat Porridge"
+  }
+}
