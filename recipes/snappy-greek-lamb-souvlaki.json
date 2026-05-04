@@ -1,0 +1,100 @@
+{
+  "title": "Snappy Greek Lamb Souvlaki",
+  "description": "A vibrant and flavorful Greek dish made with lean lamb, crunchy vegetables, and a hint of dry sherry.",
+  "cuisine": "greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb skewers",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dry sherry",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "chopped",
+      "},{": "-fresh parsley"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice only"
+    }
+  ],
+  "instructions": [
+    "Place lamb skewers in a large bowl and sprinkle with salt, pepper, and oregano. ",
+    "'Tadka' the onion and red pepper in olive oil over medium-high heat.",
+    "Add the red tomato to the pan and cook for 2 minutes.",
+    "Add the sherry to the pan and simmer for 1 minute.",
+    "Thread the lamb, onion, pepper, and tomato onto skewers.",
+    "Grill the skewers over medium-high heat for 4 minutes, turning occasionally.",
+    "Brush the skewers with red wine vinegar and olive oil during the last minute of cooking.",
+    "Sprinkle the skewers with parsley and serve with lemon juice.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Slice the skewers and serve warm.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "snappy",
+    "souvlaki"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "snappy-greek-lamb-souvlaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/snappy-greek-lamb-souvlaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:42Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "dry sherry",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "snappy",
+    "dishForm": "Souvlaki"
+  }
+}
