@@ -1,0 +1,97 @@
+{
+  "title": "Succulent Smoked Australian Cod Skewers",
+  "description": "This dish features smoked Australian cod, marinated in a mixture of fermented ingredients and grilled to perfection, offering a tender and adventurous Australian culinary experience.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian cod",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fermented soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together fermented soy sauce, lemon juice, olive oil, smoked paprika, garlic, thyme, salt, and pepper.",
+    "Add the cod pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated cod pieces onto skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the cod is cooked through.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Serve the skewers hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "gluten-free",
+    "grilled",
+    "nut-free",
+    "seafood",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "succulent-smoked-australian-cod-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/succulent-smoked-australian-cod-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:12:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "cod",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cod",
+    "descriptor": "succulent smoked",
+    "dishForm": "Skewers"
+  }
+}
