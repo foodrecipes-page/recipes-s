@@ -1,0 +1,93 @@
+{
+  "title": "Spicy Pillowy Festive Syrian Napa Cabbage Braise",
+  "description": "A festive Syrian dish featuring spicy pillowy napa cabbage in a flavorful sauce that's perfect for a hearty dinner.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) Napa Cabbage",
+      "amount": "whole"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2"
+    },
+    {
+      "name": "1 small onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "3"
+    },
+    {
+      "name": "1 tsp cumin seeds",
+      "amount": "1"
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1"
+    },
+    {
+      "name": "1 tbsp ground coriander",
+      "amount": "1"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null
+    },
+    {
+      "name": "40 ml (3 tbsp) Harissa Paste",
+      "amount": "40"
+    },
+    {
+      "name": "250 ml (1 cup) vegetable broth",
+      "amount": "250"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened, about 3 minutes.",
+    "Stir in cumin seeds, paprika, coriander, salt, and pepper. Cook for another minute.",
+    "Fold in Napa Cabbage, toss to coat with spices, then add Harissa Paste and vegetable broth.",
+    "Bring to a simmer, cover, reduce heat, and cook until cabbage is tender, about 20 minutes.",
+    "Stir occasionally to prevent sticking, adjust seasoning as needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "halal-friendly",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "spicy-pillowy-festive-syrian-napa-cabbage-braise",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-pillowy-festive-syrian-napa-cabbage-braise",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T22:25:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "braise",
+    "primaryIngredient": "napa cabbage",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Festive Syrian",
+    "mainIngredient": "Napa Cabbage",
+    "descriptor": "Spicy Pillowy",
+    "dishForm": "Braise"
+  }
+}
