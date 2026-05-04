@@ -1,0 +1,91 @@
+{
+  "title": "Sweet Kenyan Rhubarb Tagine",
+  "description": "A nutty and indulgent Kenyan dish featuring forced-rhubarb, lacquer-glaze, and dairy-free-friendly ingredients, cooked to perfection in a traditional tagine pot. This sweet and shattering dessert is a must-try for anyone looking to experience the unique flavors of Kenya.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "forced-rhubarb",
+      "amount": "2 pounds",
+      "notes": "fresh"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the forced-rhubarb, almond oil, lacquer-glaze, maple syrup, chopped almonds, coconut cream, ground cinnamon, and ground ginger.",
+    "Transfer the mixture to a traditional tagine pot.",
+    "Cover the tagine pot with a lid and bake for 45 minutes.",
+    "Remove the lid and continue baking for an additional 15 minutes, or until the rhubarb is tender and the glaze is caramelized.",
+    "Remove the tagine pot from the oven and let it cool for 10 minutes.",
+    "Serve the Sweet Kenyan Rhubarb Tagine warm, garnished with additional chopped almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "dairy-free",
+    "dessert",
+    "nutty",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "sweet-kenyan-rhubarb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-kenyan-rhubarb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:35:57Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rhubarb",
+    "descriptor": "shattering sweet",
+    "dishForm": "Tagine"
+  }
+}
