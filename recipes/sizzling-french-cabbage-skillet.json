@@ -1,0 +1,99 @@
+{
+  "title": "Sizzling French Cabbage Skillet",
+  "description": "A hearty, monsoon-inspired French cabbage skillet with a deep burgundy hue, seasoned with wine, tomato paste, and aromatic herbs, perfect for a quick weeknight dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "1 medium, shredded (about 4 cups)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, thinly sliced (about 1 cup)"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "duck fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the cast-iron skillet over medium-high heat and add the vegetable oil and duck fat until shimmering.",
+    "Add the sliced onion and sauté for 3 minutes until translucent.",
+    "Stir in the minced garlic and cook for another minute until fragrant.",
+    "Add the shredded cabbage, a pinch of salt, and pepper, then sauté for 5 minutes, stirring frequently, until the cabbage starts to wilt.",
+    "Stir in the tomato paste and smoked paprika, coating the vegetables evenly for 1 minute.",
+    "Pour in the white wine, bring to a gentle simmer, and let it reduce by half, about 4 minutes.",
+    "Add the beef broth and dried thyme, cover the skillet with a lid, and simmer for 10 minutes until the cabbage is tender and flavors meld.",
+    "Remove the lid, stir in fresh parsley if using, and adjust seasoning with salt and pepper.",
+    "Serve hot straight from the skillet, optionally with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 11,
+    "fat": 16
+  },
+  "slug": "sizzling-french-cabbage-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sizzling-french-cabbage-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:13:21Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "render-fat",
+    "primaryIngredient": "vegetable oil",
+    "diet": "shojin",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Sizzling",
+    "dishForm": "Skillet"
+  }
+}
