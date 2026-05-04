@@ -1,0 +1,145 @@
+{
+  "title": "Jamaican Beef Stew",
+  "description": "A hearty and flavorful stew made with tender beef, potatoes, and carrots in a smoky Jamaican spice blend. Serve with a side of rice or bread for a filling meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1-2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and red bell pepper and cook until tender, about 5 minutes.",
+    "Add the garlic, smoked paprika, and jerk seasoning and cook for 1 minute.",
+    "Add the potatoes, carrots, green beans, beef broth, tomato paste, cocoa powder, brown sugar, salt, and black pepper. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to medium-low and simmer, covered, for 30 minutes.",
+    "Stir in the coconut milk and hot sauce (if using).",
+    "Simmer for an additional 10-15 minutes, or until the flavors have melded together and the beef is tender.",
+    "Serve hot, garnished with chopped fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "jamaican",
+    "main-course",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "smoke-hot-garlicky-jamaican-beef-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-garlicky-jamaican-beef-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "smoke-hot",
+    "primaryIngredient": "hot beef stock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef",
+    "descriptor": "smoke-hot garlicky",
+    "dishForm": "Stew"
+  }
+}

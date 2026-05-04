@@ -1,0 +1,105 @@
+{
+  "title": "Smoked Ukrainian Hazelnut Skewers",
+  "description": "Crispy, cheesy, and sweetly smoky skewers to cure any hunger, hangover, or evening snack craving.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium heat.",
+    "Thread hazelnuts, cheddar cheese, and a pinch of flour onto skewers, leaving a bit of space between each piece.",
+    "Brush with lemon juice and season with salt, pepper, paprika, and garlic powder.",
+    "Grill for 5-7 minutes or until cheese is melted and hazelnuts are toasted.",
+    "Meanwhile, heat vegetable oil in a small skillet and brush the skewers with it for extra crispiness, if desired.",
+    "If using smoked paprika, sprinkle it over the skewers before serving.",
+    "Serve immediately, garnished with additional cheddar cheese and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "easy-to-make",
+    "smoky",
+    "snack",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 28
+  },
+  "slug": "smoke-hot-ukrainian-hazelnuts-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-ukrainian-hazelnuts-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:47Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "smoke-hot",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "smoke-hot",
+    "dishForm": "Skewers"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Roasted Croatian Lamb Kidney Ramekin",
+  "description": "A pungent, light, and savory Croatian-inspired dish featuring lamb kidney, Binchotan charcoal, and a vegan-friendly twist. Perfect for when you're feeling under the weather.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb kidney",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the lamb kidney in a small ramekin.",
+    "Mix the olive oil, minced garlic, salt, and black pepper in a small bowl.",
+    "Brush the mixture evenly over the lamb kidney.",
+    "Place the Binchotan charcoal in a small metal tray or heat diffuser.",
+    "Place the ramekin over the charcoal, creating a makeshift smoker.",
+    "Close the oven door and smoke the lamb kidney for 20 minutes.",
+    "Remove the ramekin from the oven and sprinkle with chopped parsley and dill.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-smoker",
+    "kidney-friendly",
+    "one-pan",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "smoky-roasted-croatian-lamb-kidney-ramekin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-croatian-lamb-kidney-ramekin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:21Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "lamb kidney",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "lamb kidney",
+    "descriptor": "smoky roasted",
+    "dishForm": "ramekin"
+  }
+}

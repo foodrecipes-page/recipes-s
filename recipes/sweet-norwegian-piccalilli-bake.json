@@ -1,0 +1,92 @@
+{
+  "title": "Sweet Norwegian Piccalilli Bake",
+  "description": "A sweet, fluffy, and cozy Norwegian-inspired dish featuring piccalilli, perfect for a quick dessert or snack",
+  "cuisine": "Norwegian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "piccalilli",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": "make sure to use fine-textured almond flour for the best results"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "raspberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, whichever you have on hand"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Combine almond flour, piccalilli, egg, melted butter, honey, vanilla extract, and salt in a medium bowl, stirring until smooth.",
+    "Stir in the raspberries and mix until they're evenly distributed throughout the mixture.",
+    "Pour the mixture into a greased 6-inch round cake pan or a small ramekin."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "quick-dessert",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "sweet-norwegian-piccalilli-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-norwegian-piccalilli-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "piccalilli",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "piccalilli",
+    "descriptor": "sweet",
+    "dishForm": "Bake"
+  }
+}
