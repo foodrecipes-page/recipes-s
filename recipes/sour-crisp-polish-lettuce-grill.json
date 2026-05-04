@@ -1,0 +1,103 @@
+{
+  "title": "Sour Crisp Polish Lettuce Grill",
+  "description": "A quick sour and crisp grilled lettuce dish with a tangy glaze, perfect for a low-carb lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gem lettuce",
+      "amount": "1 head",
+      "notes": "washed and trimmed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the gem lettuce, then cut it into bite‑size wedges.",
+    "In a small bowl whisk together olive oil, apple cider vinegar, honey, minced garlic, smoked paprika, salt, and pepper.",
+    "Place the lettuce wedges on a preheated grill set to medium heat.",
+    "Brush the glaze generously over both sides of each lettuce wedge.",
+    "Grill the wedges for 3 minutes on each side, until they are slightly charred and crispy.",
+    "While the lettuce is grilling, keep an eye on the grill temperature to avoid flare‑ups.",
+    "Remove the lettuce from the grill and scatter the chopped dill over the hot wedges.",
+    "Serve immediately, optionally adding a light squeeze of lemon juice for extra brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "quick",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 14
+  },
+  "slug": "sour-crisp-polish-lettuce-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crisp-polish-lettuce-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:42:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Sour Crisp",
+    "dishForm": "Grill"
+  }
+}
