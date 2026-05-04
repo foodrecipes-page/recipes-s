@@ -1,0 +1,136 @@
+{
+  "title": "Spicy Crispy Dutch Ssam Wrap",
+  "description": "A spicy, crispy, meal-prep Dutch dish featuring raspberry jam, ssam-wrap, and satvik-friendly ingredients. Perfect for a quick and easy snack or lunch.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ssam wrap",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan mayo",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or skillet over medium heat.",
+    "Add 1 tsp of vegetable oil and swirl to coat the pan.",
+    "Add the bulgur and cook for 2-3 minutes, stirring frequently, until lightly toasted.",
+    "Add the Korean chili flakes, vegan mayo, and 1/4 tsp of salt. Stir to combine.",
+    "Add the cucumber, red bell pepper, carrots, and green onions. Stir to combine.",
+    "Add the ssam wrap and cook for 1-2 minutes, flipping halfway through, until slightly crispy.",
+    "Transfer the wrap to a plate and top with the bulgur mixture, raspberry jam, and cilantro.",
+    "If using cornstarch, sprinkle on top of the bulgur mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "spicy-crispy-dutch-ssam-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crispy-dutch-ssam-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "raspberry jam",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "ssam",
+    "descriptor": "spicy crispy",
+    "dishForm": "Wrap"
+  }
+}

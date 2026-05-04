@@ -1,0 +1,67 @@
+{
+  "title": "silken lazy-sunday algerian tofu tagine",
+  "description": "a comforting, slow-cooked algerian dish featuring silken tofu, served in a banana leaf vessel.",
+  "cuisine": "north african",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "in a large, heavy pot, heat the olive oil over medium heat.",
+    "add the chopped onion and saut\u00159\u00025\u00021\u00026ut until softened, about 5 minutes.",
+    "add the silken tofu, breaking it up with a spoon as it cooks.",
+    "season with salt, pepper, and a pinch of cumin.",
+    "transfer the mixture to a banana leaf vessel, folding the leaf to create a package.",
+    "place the vessel in a large steamer basket, and steam over boiling water for 20-25 minutes, or until the tofu is tender and the flavors have melded together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "north-african",
+    "silken-tofu",
+    "steamer"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "silken-lazy-sunday-algerian-tofu-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/silken-lazy-sunday-algerian-tofu-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:01Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "silken tofu",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Silken, Lazy-Sunday",
+    "dishForm": "Tagine"
+  }
+}

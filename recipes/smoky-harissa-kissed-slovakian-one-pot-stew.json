@@ -1,0 +1,126 @@
+{
+  "title": "Smoky Harissa-Kissed Slovakian One-Pot Stew",
+  "description": "A hearty, diabetic-friendly Slovakian stew infused with smoky flavors of paprika, harissa, and a hint of cumin. Serve hot, garnished with fresh parsley and crusty bread on the side.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "harissa",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 L",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 L",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Heat claypot over medium heat.",
+    "Add beef chuck and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add onion, garlic, carrots, and potatoes, and cook until vegetables are tender.",
+    "Add smoked paprika, harissa, cumin, salt, and black pepper, and stir to combine.",
+    "Pour in red wine vinegar and beef broth, and add water to cover the ingredients.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 1.5 hours, or until beef is tender.",
+    "Season with additional salt and pepper to taste.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "harissa",
+    "high-protein",
+    "one-pot",
+    "slovakian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 22,
+    "fat": 26
+  },
+  "slug": "smoky-harissa-kissed-slovakian-one-pot-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-harissa-kissed-slovakian-one-pot-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:58Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "harissa spice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "one-pot",
+    "descriptor": "smoky harissa-kissed",
+    "dishForm": "Stew"
+  }
+}

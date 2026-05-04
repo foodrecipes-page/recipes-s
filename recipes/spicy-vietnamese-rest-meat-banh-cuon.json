@@ -1,0 +1,149 @@
+{
+  "title": "Spicy Vietnamese Rest-Meat Banh Cuon",
+  "description": "A spicy and comforting Vietnamese dish featuring rest-meat and crunchy rice noodles, suitable for no-onion-no-garlic diet.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "no-onion-no-garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Rest-meat",
+      "amount": "200g",
+      "notes": "Use store-bought rest-meat or substitute with cooked chicken."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying."
+    },
+    {
+      "name": "Spicy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For serving."
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1 tablespoon",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": "For steaming."
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Shredded carrot",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh basil",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Sliced banana pepper",
+      "amount": "50g",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Soak the rice noodles in hot water for 5 minutes, then drain and set aside.",
+    "Cut the rest-meat into thin strips.",
+    "Heat the vegetable oil in a pan over medium-high heat.",
+    "Add the rest-meat and cook until browned, about 3 minutes.",
+    "Add the bean sprouts, shredded carrot, and chopped fresh mint and basil to the pan, and cook for an additional 2 minutes.",
+    "Add the steamed rice noodles to the pan, and toss everything together to combine.",
+    "Season with fish sauce, soy sauce, and grated ginger. ",
+    "Add the ground black pepper and salt to taste.",
+    "Transfer the Banh Cuon to a serving plate, and garnish with chopped cilantro.",
+    "Serve with spicy sauce on the side, if desired.",
+    "For the spicy sauce, combine 2 tablespoons of hot water with 2 tablespoons of spicy sauce in a small bowl, and mix well.",
+    "Heat the mixture over low heat, and stir constantly until the sauce is warm and fragrant.",
+    "Serve the spicy sauce on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "no-fuss",
+    "one-pan",
+    "spicy",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 65,
+    "fat": 22
+  },
+  "slug": "spicy-vietnamese-rest-meat-banh-cuon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-vietnamese-rest-meat-banh-cuon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "rest-meat",
+    "primaryIngredient": "rice noodles",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rest-meat",
+    "descriptor": "Spicy",
+    "dishForm": "Banh-Cuon"
+  }
+}
