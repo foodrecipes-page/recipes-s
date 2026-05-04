@@ -1,0 +1,91 @@
+{
+  "title": "Savory Gooey Croatian Cheese Flatbread",
+  "description": "A tangy and gooey Croatian dish featuring naan bread, perfect for a sick day, with a Mediterranean twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "naan bread",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "kajmak cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the crumbled feta cheese and kajmak cheese until well combined.",
+    "In a separate bowl, whisk together the sour cream, minced garlic, salt, and black pepper until smooth.",
+    "Brush the naan bread pieces with olive oil on both sides.",
+    "Place the naan bread on a baking sheet lined with parchment paper.",
+    "Spread a quarter of the sour cream mixture on each naan bread piece, leaving a small border around the edges.",
+    "Top each naan bread piece with a quarter of the cheese mixture.",
+    "Bake the flatbreads in the preheated oven for 12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the flatbreads from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "croatian-cuisine",
+    "flatbread",
+    "mediterranean-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "savory-gooey-croatian-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-gooey-croatian-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:53:58Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "emulsify",
+    "primaryIngredient": "naan bread",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Savory Gooey",
+    "dishForm": "Flatbread"
+  }
+}
