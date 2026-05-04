@@ -1,0 +1,104 @@
+{
+  "title": "Savory Moroccan Foie Gras Rfissa",
+  "description": "A savory and gooey one-pot Moroccan dish featuring foie gras and stir-fry, FODMAP-friendly and made in the form of rfissa.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "1 pound",
+      "notes": "seared and sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-free spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rfissa bread",
+      "amount": "4 pieces",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the garlic-free spice blend, salt, and black pepper, and stir to combine.",
+    "Add the sliced foie gras and cook for 2-3 minutes on each side, or until it is seared and cooked through.",
+    "Add the chicken broth and lemon juice to the skillet, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until the liquid has reduced slightly.",
+    "Stir in the chopped parsley and cook for an additional minute.",
+    "To serve, place a piece of toasted rfissa bread in the bottom of a bowl, then spoon the foie gras mixture over the top.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "foie-gras",
+    "low-fodmap",
+    "moroccan-cuisine",
+    "one-pot",
+    "rich-dish",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "savory-moroccan-foie-gras-rfissa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-moroccan-foie-gras-rfissa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:20:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "foie-gras",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "foie gras",
+    "descriptor": "Savory Gooey",
+    "dishForm": "Rfissa"
+  }
+}
