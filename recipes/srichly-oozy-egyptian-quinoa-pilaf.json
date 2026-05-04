@@ -1,0 +1,97 @@
+{
+  "title": "Srichly Oozy Egyptian Quinoa Pilaf",
+  "description": "A rich, crisp solo-dinner egyptian dish featuring starch, coconut-cream-crack, ayurvedic-sattvic-friendly quinoa pilaf.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": "cups"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 small onion, chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 can (14 oz) coconut milk",
+      "amount": "can"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 tsp ground coriander",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/3 cup chopped fresh cilantro",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa and drain. Add to pot with water or broth.",
+    "Bring to a boil, then reduce heat to low and simmer until liquid is absorbed (10-12 min).",
+    "Stir in coconut milk, cumin, coriander, salt, and pepper. Simmer for an additional 5 min.",
+    "Add onion and garlic, cook for another 3 min.",
+    "Mix quinoa with the cooked vegetables and coconut mixture until combined.",
+    "Fold in cilantro to serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic-friendly",
+    "coconut-cream-crack",
+    "rich-dish",
+    "solo-dinner",
+    "starch-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 14,
+    "carbs": 42,
+    "fat": 8
+  },
+  "slug": "srichly-oozy-egyptian-quinoa-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/srichly-oozy-egyptian-quinoa-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T23:26:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "starch",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Richly Oozy",
+    "dishForm": "Pilaf"
+  }
+}
