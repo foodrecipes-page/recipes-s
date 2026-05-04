@@ -1,0 +1,107 @@
+{
+  "title": "Savory Korean Peanut Grill",
+  "description": "A midnight craving dish featuring smoky roasted peanuts, a creamy pasta‑water emulsion, and fresh raw toppings.",
+  "cuisine": "korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "roasted peanuts",
+      "amount": "200g",
+      "notes": "salted, whole"
+    },
+    {
+      "name": "whole wheat spaghetti",
+      "amount": "150g"
+    },
+    {
+      "name": "water",
+      "amount": "300ml"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1clove"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "sliced green onion",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the spaghetti in salted boiling water until al dente, then drain and set aside.",
+    "Heat a large skillet over medium heat and toast the peanuts until fragrant, stirring constantly for 3 minutes.",
+    "In the same skillet, add sesame oil and pour in the 300ml water, bringing it to a gentle simmer.",
+    "Stir in gochujang, soy sauce, rice vinegar, minced garlic, and grated ginger, letting the mixture thicken into a thin sauce.",
+    "Add the cooked spaghetti to the skillet, tossing to coat it evenly with the sauce, and cook for another 2 minutes.",
+    "Sprinkle toasted sesame seeds over the pasta and remove from heat.",
+    "Transfer the pasta to a serving plate and scatter sliced green onion on top for a fresh finish.",
+    "Serve immediately while still warm, pairing with a small side of fresh cucumber slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "korean",
+    "low-carb",
+    "one-pot",
+    "quick",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 28
+  },
+  "slug": "savory-korean-peanut-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-korean-peanut-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:16:54Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "roasted peanut",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "peanut",
+    "descriptor": "Savory",
+    "dishForm": "Grill"
+  }
+}
