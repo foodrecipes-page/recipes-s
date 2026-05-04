@@ -1,0 +1,59 @@
+{
+  "title": "Smoky Canadian Sweet Potato Bake",
+  "description": "This malty, shaggy sweet potato bake features a unique blend of amazake and flambe flavors, perfect for a festive Canadian dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Transfer the sweet potato mixture to a greased 9x13-inch baking dish and smooth the top. Sprinkle with additional salt, if desired, and bake for 25-30 minutes, until the top is golden brown and the sweet potatoes are tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "sweet-potatoes",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "smoky-canadian-sweet-potato-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-canadian-sweet-potato-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:47Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "flambe",
+    "primaryIngredient": "amazake",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Sweet Potato",
+    "descriptor": "Smoky",
+    "dishForm": "Bake"
+  }
+}

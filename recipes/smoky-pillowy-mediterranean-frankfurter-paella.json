@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Pillowy Mediterranean Frankfurter Paella",
+  "description": "A cozy mediterranean dish featuring a smoky, pillowy frankfurter paired with a miso-marinate, perfect for a weeknight dinner.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "4",
+      "notes": "preferably smoked or grilled for extra smokiness"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": "helps to add depth and umami flavor"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch, drained and rinsed"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 cup",
+      "notes": "canned, drained and chopped"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated tomato puree"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a mild or neutral-tasting oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the garlic and saut\u000629 for 1 minute, until fragrant.",
+    "Add the chickpeas, artichoke hearts, and green beans. Cook, stirring occasionally, for 5 minutes.",
+    "Add the tomato paste and miso paste. Cook, stirring constantly, for 1 minute.",
+    "Add the frankfurter and cook, stirring occasionally, until heated through.",
+    "Stir in the lemon juice and cook for an additional 1 minute.",
+    "Transfer the paella pan to the oven and cook at 375\u001f for 10-12 minutes, until the ingredients are heated through and the flavors have melded together.",
+    "Remove the pan from the oven and let it rest for 5 minutes before serving.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Slice the sausages and place them on top of the paella before serving for a pop of color and added texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jain-friendly",
+    "mediterranean",
+    "one-pan",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 48,
+    "fat": 24
+  },
+  "slug": "smoky-pillowy-mediterranean-frankfurter-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-pillowy-mediterranean-frankfurter-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "miso-marinate",
+    "primaryIngredient": "frankfurter",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Frankfurter",
+    "descriptor": "Smoky Pillowy",
+    "dishForm": "Paella"
+  }
+}

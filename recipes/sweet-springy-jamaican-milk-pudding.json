@@ -1,0 +1,87 @@
+{
+  "title": "Sweet Springy Jamaican Milk Pudding",
+  "description": "A malty, springy Jamaican dessert featuring milk, pickle, and a touch of allspice. Perfect for special occasions or a springtime treat.",
+  "cuisine": "jamaican",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk or a lactose-free alternative"
+    },
+    {
+      "name": "canned milk",
+      "amount": "1 can",
+      "notes": "full-fat canned milk"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup",
+      "notes": "use a mild pickle juice for best flavor"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground allspice, can be adjusted to taste"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "high-quality vanilla extract"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": "make sure to mix well with milk before adding to pudding"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine milk, canned milk, pickle juice, allspice, and vanilla extract. Whisk until smooth and bring to a simmer over medium heat.",
+    "In a small bowl, mix cornstarch with a splash of milk until smooth. Add the cornstarch mixture to the saucepan and whisk until well combined.",
+    "Continue to cook for 5-7 minutes, or until the pudding thickens and coats the back of a spoon.",
+    "Remove from heat and let cool slightly, then pour into a cataplana or individual ramekins to serve.",
+    "Cover with plastic wrap and refrigerate for at least 30 minutes to allow the pudding to set and develop its springy texture.",
+    "Serve chilled, garnished with a sprinkle of allspice or a few fresh mint leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-based",
+    "dessert",
+    "fodmap-friendly",
+    "jamaican",
+    "special-occasion",
+    "spring",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 25
+  },
+  "slug": "sweet-springy-jamaican-milk-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-springy-jamaican-milk-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "milk",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "milk",
+    "descriptor": "sweet springy",
+    "dishForm": "Pudding"
+  }
+}
