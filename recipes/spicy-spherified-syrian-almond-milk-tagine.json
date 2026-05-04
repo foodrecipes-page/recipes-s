@@ -1,0 +1,112 @@
+{
+  "title": "spicy spherified syrian almond milk tagine",
+  "description": "a spicy syrian tagine made with almond milk, served in a banana leaf cup with a crumbly almond topping.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably day-old couscous"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "banana leaves",
+      "amount": "6-8",
+      "notes": "for serving"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "heat 2 tbsp of oil in a large saucepan over medium heat.",
+    "add the couscous and cook for 2-3 minutes, stirring constantly.",
+    "add the chickpeas, red pepper flakes, cumin, smoked paprika, salt, and black pepper. Cook for an additional 2-3 minutes, stirring frequently.",
+    "add the almond milk and bring to a simmer.",
+    "reduce heat to low and cook for 10-15 minutes, stirring occasionally.",
+    "preheat the spherification bath to 180.9f.",
+    "add the cooked couscous mixture to the bath and spherify the mixture.",
+    "to assemble the tagine, place a banana leaf cup on a work surface and fill with 2-3 spherified couscous balls.",
+    "top with chopped almonds and serve immediately.",
+    "meanwhile, prepare the crumbly almond topping by mixing together the remaining almond milk, chopped almonds, and a pinch of salt. Set aside."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-lunch-dinner",
+    "comfort-food",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "syrian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "spicy-spherified-syrian-almond-milk-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-spherified-syrian-almond-milk-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "spherify",
+    "primaryIngredient": "almond milk",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "almond milk",
+    "descriptor": "spicy spherified",
+    "dishForm": "Tagine"
+  }
+}

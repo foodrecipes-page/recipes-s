@@ -1,0 +1,83 @@
+{
+  "title": "Shattering Savory Jamaican Fish Grill",
+  "description": "A refreshing and energizing Jamaican fusion dish featuring grilled fish, with a satisfying crunch from the onion salt. Perfect for a weeknight dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yakimono-grill seasoning",
+      "amount": "1 tsp",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "gluten-free flour if necessary"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing grill"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat, about 400\u00170F.",
+    "Season the cod fillets with salt, pepper, and yakimono-grill seasoning.Mix together the grated ginger, garlic, lemongrass, and all-purpose flour in a shallow dish.",
+    "Coat the cod fillets with the ginger-garlic flour mixture, pressing gently to adhere.",
+    "Brush the yakimono-grill with coconut oil and cook the cod fillets for 4 minutes per side, or until cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 8
+  },
+  "slug": "shattering-savory-jamaican-fish-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-savory-jamaican-fish-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "onion salt",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "shattering savory",
+    "dishForm": "grill"
+  }
+}

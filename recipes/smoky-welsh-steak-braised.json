@@ -1,0 +1,104 @@
+{
+  "title": "Smoky Welsh Steak Braised",
+  "description": "This traditional Welsh dish features tender beef short ribs in a smoky, glassy-jelly glaze, made with a rich combination of beer, onions, and spices.",
+  "cuisine": "Welsh",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300\u001867F (150\u001867C)."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 240,
+  "totalTimeMin": 285,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1236,
+    "protein": 94,
+    "carbs": 57,
+    "fat": 59
+  },
+  "slug": "smoky-welsh-steak-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-welsh-steak-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:32Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "skirty steak",
+    "diet": "paleo",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "steak",
+    "descriptor": "Smoky",
+    "dishForm": "Braised"
+  }
+}

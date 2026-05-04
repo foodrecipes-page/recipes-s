@@ -1,0 +1,74 @@
+{
+  "title": "Snappy Ethiopian Buckwheat Flour Kitfo",
+  "description": "A rich and satisfying Ethiopian dish featuring buckwheat flour, ideal for a date-night dinner. The tagine cooking method infuses the meat with deep flavors.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio recommended"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (garnish)",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a clay pot over medium heat.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the ginger and cook for an additional 2 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the thyme and cook until fragrant, about 1 minute.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the buckwheat flour and cook for 1 minute, stirring constantly.",
+    "Add the salt, black pepper, and kibbeh spice or cumin, and stir to combine.",
+    "Transfer the pot to the oven and cook at 300\u00000176F for 20-25 minutes, or until the meat is cooked through.",
+    "Remove the pot from the oven and garnish with parsley and chopped onions if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "ethiopian",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 37
+  },
+  "slug": "snappy-ethiopian-buckwheat-flour-kitfo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/snappy-ethiopian-buckwheat-flour-kitfo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "tagine-cook",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Buckwheat flour",
+    "descriptor": "Snappy",
+    "dishForm": "Kitfo"
+  }
+}

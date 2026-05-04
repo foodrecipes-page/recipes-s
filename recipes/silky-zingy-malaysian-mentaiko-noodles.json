@@ -1,0 +1,97 @@
+{
+  "title": "Silky Zingy Malaysian Mentaiko Noodles",
+  "description": "A keto-friendly, silky, and winey Malaysian dish featuring mentaiko, shio-koji-cure, and a light, refreshing taste.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mentaiko",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji-brined salmon",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "green chili sambal",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions. Rinse the noodles with cold water and set aside.",
+    "Slice the shio-koji-brined salmon into thin strips.",
+    "Heat the toasted sesame oil in a pan over medium heat and sauté the green chili sambal for 1-2 minutes.",
+    "Add the sliced salmon to the pan and cook for 2-3 minutes, until cooked through.",
+    "Add the cooked noodles, fish sauce, and lime juice to the pan and toss to combine.",
+    "Stir in the mentaiko and cook for an additional 1-2 minutes, until heated through.",
+    "Garnish with chopped green onions and serve immediately.",
+    "Garnish with toasted sesame seeds and serve immediately, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto",
+    "malaysian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "silky-zingy-malaysian-mentaiko-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-zingy-malaysian-mentaiko-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:51Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mentaiko",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "mentaiko",
+    "descriptor": "silky zingy",
+    "dishForm": "Noodles"
+  }
+}

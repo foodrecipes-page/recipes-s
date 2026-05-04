@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Roasted Welsh Lamb Roast",
+  "description": "Charred and delicious, this traditional Welsh lamb roast is perfect for a special occasion. Serve with roasted root vegetables for a hearty meal.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2.5kg",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh rosemary",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "glaze (see below)",
+      "amount": "see below",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "In a large bowl, combine lamb shoulder, chopped onion, chopped thyme, chopped rosemary, garlic powder, smoked paprika, salt, and black pepper. Mix well to combine.",
+    "Place the lamb shoulder in a large roasting pan and put in the oven.",
+    "Roast the lamb for 20 minutes, then reduce the oven temperature to 180°C (350°F) and continue roasting for a further 2 hours and 20 minutes, or until the lamb is tender and the internal temperature reaches 63°C (145°F).",
+    "While the lamb is roasting, prepare the glaze by combining 2 tablespoons of honey, 1 tablespoon of Dijon mustard, and 1 tablespoon of olive oil in a small bowl.",
+    "After the lamb has roasted for 2 hours, brush the glaze all over the lamb and continue roasting for a further 20 minutes.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Serve the lamb with the juices from the roasting pan spooned over the top.",
+    "Optional: serve with roasted root vegetables such as carrots, parsnips, and Brussels sprouts."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 2,
+  "totalTimeMin": 2,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "british-cuisine",
+    "high-protein",
+    "lamb-roast",
+    "smoky-flavor",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 120,
+    "carbs": 20,
+    "fat": 80
+  },
+  "slug": "smoky-roasted-welsh-lamb-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-welsh-lamb-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:28Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "chopped onion",
+    "diet": "fodmap",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "lamb",
+    "descriptor": "smoky roasted",
+    "dishForm": "Roast"
+  }
+}
