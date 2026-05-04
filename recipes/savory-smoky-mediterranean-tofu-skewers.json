@@ -1,0 +1,107 @@
+{
+  "title": "Savory Smoky Mediterranean Tofu Skewers",
+  "description": "A festive Mediterranean dish featuring barbeque sauce and nuka-pickle, perfect for a plant-based friendly gathering",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "barbeque sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper",
+    "Add the chopped nuka-pickle to the bowl and stir to combine",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade",
+    "Thread the marinated tofu onto the soaked bamboo skewers, leaving a small space between each piece",
+    "Brush the grill with oil to prevent sticking, then grill the skewers for 10-12 minutes, turning occasionally",
+    "After 5 minutes of grilling, brush the skewers with barbeque sauce",
+    "Continue grilling for an additional 5-7 minutes, or until the tofu is golden brown and crispy on the outside",
+    "Remove the skewers from the grill and serve hot on a lazy-susan-spinner"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbeque",
+    "grilled",
+    "lazy-susan",
+    "mediterranean",
+    "nuka-pickle",
+    "plant-based",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "savory-smoky-mediterranean-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-smoky-mediterranean-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:43:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tofu",
+    "descriptor": "Savory Smoky",
+    "dishForm": "Skewers"
+  }
+}
