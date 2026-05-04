@@ -1,0 +1,97 @@
+{
+  "title": "Smoky Sweet American Cheese Grill",
+  "description": "A funky, cheese-pull, adventurous American dish featuring a vegetable stock cube and caramelized flavors, grilled to perfection on a cedar plank.",
+  "cuisine": "American",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": "sharp or extra sharp work best"
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "1 cube",
+      "notes": "dissolved in 1 tablespoon hot water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 plank",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a small bowl, mix together dissolved vegetable stock cube, smoked paprika, and garlic powder.",
+    "Brush the cedar plank with olive oil on both sides.",
+    "Place the plank on the grill and let it heat up for 2 minutes.",
+    "Add the sliced onion and bell pepper to the plank and caramelize for 5 minutes per side.",
+    "In a separate bowl, mix the shredded cheddar cheese with the stock cube mixture until well combined.",
+    "Place the cheese mixture on top of the caramelized onions and peppers.",
+    "Close the grill lid and let it cook for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove the plank from the grill and let it cool for 2 minutes before serving.",
+    "Serve hot and enjoy the smoky sweet flavors."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "cheesy",
+    "grilled",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "smoky-sweet-american-cheese-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-sweet-american-cheese-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:21:56Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cheese",
+    "descriptor": "Smoky Sweet",
+    "dishForm": "Grill"
+  }
+}
