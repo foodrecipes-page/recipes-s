@@ -1,0 +1,105 @@
+{
+  "title": "Savory Venezuelan Mincemeat Empanadas",
+  "description": "Buttery and pillowy empanadas filled with mincemeat, perfect for an adventurous meal, served in a terracotta dish",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "Brine",
+      "amount": "1 cup",
+      "notes": "for wetting the dough"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Stir in the mincemeat and cook for an additional 2 minutes.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Brush the edges of each dough circle with the brine.",
+    "Place a tablespoon of the beef and mincemeat mixture in the center of each dough circle.",
+    "Fold the dough in half over the filling, pressing the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the egg wash and sprinkle with salt and pepper.",
+    "Place the empanadas in a terracotta dish and brush with melted butter."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "empanadas",
+    "high-protein",
+    "mincemeat",
+    "pillowy",
+    "terraccotta",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "savory-venezuelan-mincemeat-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-venezuelan-mincemeat-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:25:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "brine-wet",
+    "primaryIngredient": "mincemeat",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "mincemeat",
+    "descriptor": "savory buttery",
+    "dishForm": "Empanadas"
+  }
+}
