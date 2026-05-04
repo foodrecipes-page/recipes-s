@@ -1,0 +1,123 @@
+{
+  "title": "Sour Soft Japanese Tofu Shoyu Ramen",
+  "description": "Mustardy, fluffy ramen with soft tofu and blanched namul that soothes hangovers and satisfies shojin-friendly diners.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "dry ramen noodles",
+      "amount": "200 g"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "800 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "10 ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "5 ml"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "50 g"
+    },
+    {
+      "name": "carrot",
+      "amount": "50 g"
+    },
+    {
+      "name": "spinach",
+      "amount": "100 g"
+    },
+    {
+      "name": "soybean sprouts",
+      "amount": "50 g"
+    },
+    {
+      "name": "green onion",
+      "amount": "1"
+    },
+    {
+      "name": "ginger",
+      "amount": "5 g"
+    },
+    {
+      "name": "garlic",
+      "amount": "5 g"
+    },
+    {
+      "name": "salt",
+      "amount": "2 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 g"
+    },
+    {
+      "name": "nori sheet",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Cube the tofu and set aside.",
+    "Blanch the bamboo shoots, carrot, spinach, and soybean sprouts in boiling water for 2 minutes then plunge into ice water.",
+    "Heat the lazy-susan-spinner with vegetable stock and bring to a simmer.",
+    "Add soy sauce, mustard, sesame oil, salt, and pepper, then stir to combine.",
+    "Add the ramen noodles and cook for 4 minutes until al dente.",
+    "Fold in the blanched vegetables and tofu, cooking for an additional 2 minutes.",
+    "Slice the green onion and sprinkle over the ramen.",
+    "Garnish with a sheet of nori before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "lazy-susan-spinner",
+    "ramen",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 870,
+    "protein": 45,
+    "carbs": 160,
+    "fat": 15
+  },
+  "slug": "sour-soft-japanese-tofu-shoyu-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-soft-japanese-tofu-shoyu-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:39:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "vegetable stock",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Sour Soft",
+    "dishForm": "Shoyu Ramen"
+  }
+}
