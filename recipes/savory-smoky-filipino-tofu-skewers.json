@@ -1,0 +1,94 @@
+{
+  "title": "Savory Smoky Filipino Tofu Skewers",
+  "description": "A solo dinner dish featuring earthy and flaky Filipino flavors, cooked to perfection on a yakimono grill with peanut oil, served on an iron teppan, this dish is jain friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "In a large bowl, whisk together peanut oil, soy sauce, vinegar, brown sugar, garlic, and ginger.",
+    "Add the tofu cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated tofu cubes onto the bamboo skewers.",
+    "Place the skewers on the preheated yakimono grill and cook for 10 minutes per side.",
+    "Heat the iron teppan over medium heat and brush with a small amount of peanut oil.",
+    "Place the cooked skewers on the iron teppan and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "filipino-food",
+    "grilled-vegetarian",
+    "jain-friendly",
+    "one-pan",
+    "tofu-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "savory-smoky-filipino-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-smoky-filipino-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:12:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "peanut oil",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tofu",
+    "descriptor": "Savory Smoky",
+    "dishForm": "Skewers"
+  }
+}
