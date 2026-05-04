@@ -1,0 +1,95 @@
+{
+  "title": "Sticky Savory Italian Cheese Lasagna",
+  "description": "A fermented, gooey, midnight-craving Italian dish featuring vegan white wine vinegar and ferment-jang, jain-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "jain-friendly"
+    },
+    {
+      "name": "vegan ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegan mozzarella shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions.",
+    "In a large bowl, combine the vegan ricotta cheese, vegan white wine vinegar, and ferment-jang.",
+    "Spread a layer of marinara sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Sprinkle with half of the vegan mozzarella shreds.",
+    "Repeat the layers, starting with the noodles, then the sauce, then the remaining ricotta cheese mixture, and finally the remaining mozzarella shreds.",
+    "Top with chopped fresh basil and drizzle with olive oil.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "jain-friendly",
+    "one-pan",
+    "vegan-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "sticky-savory-italian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sticky-savory-italian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:58:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "ferment-jang",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cheese",
+    "descriptor": "sticky savory",
+    "dishForm": "Lasagna"
+  }
+}
