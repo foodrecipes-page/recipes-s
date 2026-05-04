@@ -1,0 +1,105 @@
+{
+  "title": "Smoky Irish Bean Chowder",
+  "description": "A smoky, crispy one-pot Irish bean chowder with a touch of white chocolate for depth, low-fat and vibrant.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "6 cups"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "celery, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white chocolate",
+      "amount": "50g",
+      "notes": "low-fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the soaked navy beans and set aside.",
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion, carrot, celery, and minced garlic; cook until softened.",
+    "Stir in the smoked paprika and black pepper and cook for 1 minute.",
+    "Add the beans and vegetable broth, bring to a boil, then reduce heat.",
+    "Simmer uncovered for 45 minutes, stirring occasionally, until the beans are tender.",
+    "Stir in the chopped parsley and white chocolate; let the chocolate melt completely.",
+    "Serve the chowder hot, optionally topping with toasted breadcrumbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 55,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bean-chowder",
+    "irish",
+    "low-fat",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 123,
+    "protein": 3,
+    "carbs": 17,
+    "fat": 5
+  },
+  "slug": "smoky-irish-bean-chowder",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-irish-bean-chowder",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:01:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "white chocolate",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Bean",
+    "descriptor": "Smoky",
+    "dishForm": "Chowder"
+  }
+}
