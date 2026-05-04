@@ -1,0 +1,95 @@
+{
+  "title": "Sweet Succulent Japanese Braeburn Apple Salad",
+  "description": "A light and refreshing Japanese salad featuring Braeburn apples, kombu cold extract, and a floral touch, perfect for a satvik friendly meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "shiso leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together kombu cold extract, rice vinegar, and honey until well combined.",
+    "Add the diced Braeburn apples to the bowl and toss to coat with the dressing.",
+    "In a small pan, toast the sesame seeds over medium heat until fragrant and lightly browned.",
+    "Sprinkle the toasted sesame seeds over the apple mixture and toss to combine.",
+    "Add the chopped shiso leaves and pickled ginger to the bowl and toss gently.",
+    "Top the salad with chopped toasted almonds and serve immediately.",
+    "Garnish with additional shiso leaves and pickled ginger if desired.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "fruit-salad",
+    "healthy-eating",
+    "japanese-inspired",
+    "quick-snack",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "sweet-succulent-japanese-braeburn-apple-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-succulent-japanese-braeburn-apple-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:14:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "braeburn apples",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Braeburn apples",
+    "descriptor": "Sweet succulent",
+    "dishForm": "Salad"
+  }
+}
