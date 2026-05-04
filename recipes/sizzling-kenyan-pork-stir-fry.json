@@ -1,0 +1,112 @@
+{
+  "title": "Sizzling Kenyan Pork Stir-fry",
+  "description": "A fresh, pillowy stir-fry with halal-certified pork, vibrant bell peppers, and a sweet-savory glaze that feeds a crowd.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "400g",
+      "notes": "halal-certified, sliced into thin strips"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "use local Kenyan honey"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large wok over high heat until shimmering.",
+    "Add the minced garlic and ginger, stir-frying for 30 seconds until fragrant.",
+    "Add the sliced pork and stir-fry until the edges start to brown, about 3 minutes.",
+    "Add the sliced onions and bell peppers, continuing to stir-fry for another 4 minutes or until vegetables are crisp-tender.",
+    "Pour in the soy sauce and honey, tossing the mixture so everything is evenly coated.",
+    "Reduce the heat to medium and let the stir-fry simmer for 2 minutes to meld flavors.",
+    "Check the internal temperature of the pork; it should reach 145°F (63°C) and no longer be pink.",
+    "Season with salt and pepper to taste, stirring to combine.",
+    "Remove from heat and transfer the sizzling pork stir-fry to a serving dish.",
+    "Garnish with chopped cilantro before serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "halal-friendly",
+    "kenyan",
+    "one-pan",
+    "quick",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 105,
+    "carbs": 50,
+    "fat": 34
+  },
+  "slug": "sizzling-kenyan-pork-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sizzling-kenyan-pork-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:01:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "stir-fry",
+    "primaryIngredient": "pork",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pork",
+    "descriptor": "Sizzling",
+    "dishForm": "Stir-fry"
+  }
+}
