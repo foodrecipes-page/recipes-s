@@ -1,0 +1,103 @@
+{
+  "title": "Sour Crunchy Russian Bread Flatbread",
+  "description": "A quick, crunchy flatbread with a tangy sourdough base and a fragrant bhuna spice blend, perfect for a post-workout snack.",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Strong white bread flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Active sourdough starter (100% hydration)",
+      "amount": "60g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "180g"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "5g"
+    },
+    {
+      "name": "Vegetable oil for bhuna",
+      "amount": "5g"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "5g"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "5g"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "5g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour and kosher salt.",
+    "In a separate container, mix the sourdough starter, warm water, and extra virgin olive oil until smooth.",
+    "Pour the wet mixture into the dry ingredients and stir until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface for 8 minutes until it becomes elastic and smooth.",
+    "Place the dough in a lightly oiled bowl, cover, and let it rise at room temperature for 30 minutes.",
+    "While the dough rises, heat the vegetable oil in a small pan over medium heat and add ground cumin, coriander, and black pepper, stirring until fragrant, about 1 minute; remove from heat.",
+    "Gently fold the bhuna spice mixture into the risen dough, then shape the dough into a flatbread about 4cm thick.",
+    "Preheat the oven to 220°C (428°F) and place a baking stone or sheet inside to heat.",
+    "Bake the flatbread on the preheated stone for 10 minutes until the crust is golden and crisp.",
+    "Brush the hot flatbread with a little fresh dill if using, slice, and serve immediately."
+  ],
+  "prepTimeMin": 13,
+  "cookTimeMin": 12,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bhuna",
+    "crunchy",
+    "flatbread",
+    "high-protein",
+    "kosher",
+    "post-workout",
+    "quick",
+    "sour-dough"
+  ],
+  "nutrition": {
+    "calories": 475,
+    "protein": 14,
+    "carbs": 93,
+    "fat": 5
+  },
+  "slug": "sour-crunchy-russian-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crunchy-russian-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:16:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Bread",
+    "descriptor": "Sour Crunchy",
+    "dishForm": "Flatbread"
+  }
+}
