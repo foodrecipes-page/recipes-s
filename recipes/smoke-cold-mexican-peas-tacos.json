@@ -1,0 +1,116 @@
+{
+  "title": "smoke-cold mexican peas tacos",
+  "description": "grassy, silky, midnight-craving mexican dish featuring petit pois, smoke-cold, dash-friendly, jalisco-style",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "queso fresco or feta",
+      "amount": "crumbled",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat lard or oil in a large skillet over medium-high heat.",
+    "add onion and cook until translucent, about 5 minutes.",
+    "add garlic and cook for 1 minute, until fragrant.",
+    "add smoked paprika, cumin, and chili powder, cook for 1 minute, until fragrant.",
+    "add petit pois and cook, stirring occasionally, until tender, about 5 minutes.",
+    "season with salt to taste.",
+    "warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "assemble tacos by spooning peas onto tortillas, topping with queso fresco or feta, and garnishing with cilantro.",
+    "squeeze lemon juice over peas before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "smoke-cold-mexican-peas-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-cold-mexican-peas-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:13Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "smoke-cold",
+    "primaryIngredient": "petit pois",
+    "diet": "dash",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "peas",
+    "descriptor": "smoke-cold",
+    "dishForm": "Tacos"
+  }
+}

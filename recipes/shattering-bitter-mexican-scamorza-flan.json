@@ -1,0 +1,100 @@
+{
+  "title": "Shattering Bitter Mexican Scamorza Flan",
+  "description": "A festive Mexican dessert from the Yucatecan region featuring scamorza cheese, perfect for a crowd. The combination of bitter and sweet flavors will leave you wanting more.",
+  "cuisine": "Mexican",
+  "diet": [
+    "Paleo",
+    "Dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Scamorza Cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "400ml",
+      "notes": "full-fat, canned"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "40g",
+      "notes": "at least 70% cocoa"
+    }
+  ],
+  "instructions": [
+    "Knead 250g scamorza cheese into a fine crumb using a stand mixer or by hand for 5 minutes, until well combined.",
+    "Transfer the cheese crumb to a stand mixer and add 150g coconut sugar, 400ml coconut milk, 2 tablespoons lime juice, 1/2 teaspoon salt, and 1/4 teaspoon cinnamon. Mix well until combined.",
+    "Add 3 egg yolks and continue mixing until smooth and free of lumps.",
+    "Pour the mixture into 6 ramekins or small cups and bake at 375F (190C) for 25-30 minutes, or until the edges are set and the centers are slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Once cooled, refrigerate for at least 4 hours or overnight.",
+    "To serve, dip each flan into hot water for 10-15 seconds, then invert onto plates. The cheese should shatter and the center should be set.",
+    "Top with dark chocolate chips, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy",
+    "dessert",
+    "flan",
+    "mexican",
+    "paleo-friendly",
+    "yucatecan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "shattering-bitter-mexican-scamorza-flan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-bitter-mexican-scamorza-flan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "knead",
+    "primaryIngredient": "scamorza",
+    "diet": "paleo",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "scamorza",
+    "descriptor": "Shattering Bitter",
+    "dishForm": "Flan"
+  }
+}

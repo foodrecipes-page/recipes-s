@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Crunchy Canadian Sevaiiya Agemono",
+  "description": "A smoky, crunchy, low-sodium-friendly midnight craving dish featuring sevaiiya and agemono-deep-fry.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sevaiiya",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "low-sodium option"
+    }
+  ],
+  "instructions": [
+    "Dust sevaiiya with flour and cornstarch to prevent sticking.",
+    "In a bowl, whisk together eggs and buttermilk.",
+    "Heat 2-3 inches of oil in a deep frying pan to 375°F (190°C).",
+    "Dip sevaiiya into the egg mixture and then coat with the flour-cornstarch mixture, shaking off excess.",
+    "Carefully place the sevaiiya in the hot oil and cook for 3-4 minutes or until golden brown.",
+    "Using a slotted spoon, remove the sevaiiya from the oil and place on paper towels to drain excess oil.",
+    "Sprinkle smoked paprika and garlic powder over the sevaiiya and toss to combine.",
+    "Repeat the process with the remaining sevaiiya, cooking in batches as needed.",
+    "Increase oil temperature to 400°F (200°C) and deep-fry the sevaiiya until crispy and golden brown.",
+    "Using a slotted spoon, remove the sevaiiya from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "low-sodium",
+    "midnight-craving",
+    "one-pan",
+    "sevaiiya",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "smoky-crunchy-canadian-sevaiiya-agemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crunchy-canadian-sevaiiya-agemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "sevaiiya",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "smoky crunchy",
+    "dishForm": "agemono"
+  }
+}
