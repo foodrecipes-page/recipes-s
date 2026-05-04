@@ -1,0 +1,105 @@
+{
+  "title": "Savory Smoky Moroccan Eggplant Zaalouk",
+  "description": "A traditional Moroccan dish featuring eggplant, dry sherry, and a blend of aromatic spices, perfect for a cozy dinner",
+  "cuisine": "Moroccan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "preferably firm and heavy"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "crushed, 14 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Cut the eggplant into 1 inch cubes and place them on a baking sheet lined with parchment paper",
+    "Drizzle the olive oil over the eggplant and sprinkle with salt and black pepper",
+    "Roast the eggplant in the oven for 30 minutes, or until it is tender and lightly browned",
+    "In a large skillet, heat the dry sherry over medium heat and add the chopped onion",
+    "Cook the onion for 5 minutes, or until it is translucent and starting to caramelize",
+    "Add the minced garlic, ground cumin, and smoked paprika to the skillet and cook for 1 minute",
+    "Stir in the crushed tomatoes and bring the mixture to a simmer",
+    "Add the roasted eggplant to the skillet and stir to combine",
+    "Reduce the heat to low and let the zaalouk simmer for 10 minutes, stirring occasionally"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "flexitarian",
+    "moroccan",
+    "one-pan",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "savory-smoky-moroccan-eggplant-zaalouk",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-smoky-moroccan-eggplant-zaalouk",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:17:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "dry sherry",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "eggplant",
+    "descriptor": "Savory Smoky",
+    "dishForm": "Zaalouk"
+  }
+}
