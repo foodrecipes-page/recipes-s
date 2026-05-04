@@ -1,0 +1,108 @@
+{
+  "title": "Sweet Canadian Lamb Poutine",
+  "description": "A rich and savory twist on the classic Canadian dish, featuring lamb stock, shio-koji-cured lamb, and a hint of sweetness.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "see notes for preparation"
+    },
+    {
+      "name": "Lamb stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Beef suet",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper, then coat in flour and brown in a skillet with melted suet.",
+    "Transfer the lamb to a large Dutch oven and cover with lamb stock, then add browned beef suet and bring to a boil.",
+    "Transfer the pot to the preheated oven and cook for 2 hours, or until the lamb is tender.",
+    "While the lamb cooks, prepare the shio-koji cure by mixing shio-koji with brown sugar and caster sugar in a small bowl.",
+    "After 2 hours, remove the lamb from the oven and let cool slightly.",
+    "Slice the lamb into thin strips, then coat in the shio-koji cure and refrigerate for at least 30 minutes.",
+    "Melt 2 tablespoons of beef suet in a skillet over medium heat and add sliced lamb, cooking until browned.",
+    "Add bamboo shoots, cornstarch, and brown sugar to the skillet and cook for 2-3 minutes, or until the mixture thickens.",
+    "Stir in chopped parsley and cook for 1 minute.",
+    "Transfer the poutine to a serving dish and top with crispy onions or chopped parsley, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "lamb",
+    "poutine",
+    "sweet",
+    "tamasic"
+  ],
+  "nutrition": {
+    "calories": 940,
+    "protein": 56,
+    "carbs": 60,
+    "fat": 44
+  },
+  "slug": "sweet-canadian-lamb-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-canadian-lamb-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "lamb stock",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Sweet",
+    "dishForm": "Poutine"
+  }
+}
