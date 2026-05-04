@@ -1,0 +1,92 @@
+{
+  "title": "Smoky Roasted Polish Pork Skillet",
+  "description": "A hearty and flavorful Polish dish featuring roasted pork, cilantro leaves, and a hint of smokiness, all cooked to perfection in a traditional ttukbaegi earthenware pot.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork shoulder with smoked paprika, garlic powder, salt, and black pepper.",
+    "Heat the olive oil in a large ttukbaegi earthenware pot over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes per side.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Roast the pork for 20 minutes per pound, or until tender and flaky.",
+    "Stir in the chopped cilantro leaves and serve hot.",
+    "Let the pork rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "one-pot",
+    "polish-cuisine",
+    "pork-recipe",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "smoky-roasted-polish-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-polish-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:51:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Skillet"
+  }
+}
