@@ -1,0 +1,99 @@
+{
+  "title": "smoke-hot slovakian oranges confit",
+  "description": "A bitter, dense, and comforting Slovakian dish featuring smoky oranges, perfect for a sick day. This recipe is FODMAP-friendly and uses ingredients that are easily digestible.",
+  "cuisine": "slovakian",
+  "diet": [
+    "fodmap-friendly",
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "freshly squeezed orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 225°F (110°C).",
+    "In a small saucepan, combine the smoked paprika, orange marmalade, honey, salt, and black pepper. Heat over low heat, stirring occasionally, until the honey has dissolved.",
+    "Add the freshly squeezed orange juice to the saucepan and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and drizzle with olive oil.",
+    "Arrange the orange slices on top of the mixture, leaving a 1 inch border around the edges.",
+    "Cover the dish with aluminum foil and bake for 1 hour.",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the oranges are tender and caramelized.",
+    "Remove the dish from the oven and let it cool slightly.",
+    "Use a slotted spoon to transfer the oranges to a serving dish, leaving the juices behind.",
+    "Garnish with fresh parsley, if desired.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "one-pan",
+    "sick-day",
+    "slovakian",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 1,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "smoke-hot-slovakian-oranges-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-slovakian-oranges-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:47:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "smoke-hot",
+    "primaryIngredient": "oranges",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "oranges",
+    "descriptor": "smoke-hot",
+    "dishForm": "Confit"
+  }
+}
