@@ -1,0 +1,120 @@
+{
+  "title": "Smoky Zesty American Celeriac Hash",
+  "description": "A hearty, smoky American dish featuring tender celeriac, crispy lardons, and crumbled bacon.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Celeriac (2 large bulbs)",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "Bacon (4 slices)",
+      "amount": "2 oz",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lardons (4 oz)",
+      "amount": "4 oz",
+      "notes": "pan-fried"
+    },
+    {
+      "name": "Onion (1 large)",
+      "amount": "1 cup",
+      "notes": "small-diced"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika (1 tsp)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown Sugar (1 tsp)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked Paprika (1 tsp)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper (to taste)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lamination-puff pastry (1 sheet)",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Cheddar Cheese (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Dice the celeriac and sauté in a pan with a little oil until tender.",
+    "In a separate pan, cook the lardons until crispy.",
+    "Add the onion and garlic to the pan with the lardons and cook until softened.",
+    "Add the paprika, brown sugar, and smoked paprika to the pan and stir to combine.",
+    "Add the cooked celeriac to the pan and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Roll out the lamination-puff pastry to a thickness of 1/8 inch.",
+    "Cut the pastry into 1-inch squares.",
+    "Place a spoonful of the celeriac mixture onto one half of each pastry square.",
+    "Fold the other half of the pastry square over the filling to form a square shape.",
+    "Press the edges of the pastry together to seal the filling inside.",
+    "Brush the tops of the pastry squares with a little bit of water.",
+    "Place the pastry squares on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Remove from oven and sprinkle with shredded cheddar cheese.",
+    "Return to oven for 2-3 minutes, or until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "casserole",
+    "one-pan",
+    "smoky",
+    "weekend",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "smoky-zesty-american-celeriac-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-zesty-american-celeriac-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T03:19:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "celeriac",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Celeriac",
+    "descriptor": "Smoky Zesty",
+    "dishForm": "Hash"
+  }
+}
