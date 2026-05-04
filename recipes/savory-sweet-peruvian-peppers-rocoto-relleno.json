@@ -1,0 +1,104 @@
+{
+  "title": "Savory Sweet Peruvian Peppers Rocoto Relleno",
+  "description": "A fresh and juicy Peruvian dish featuring Thai chilli jam, fried to perfection in a cataplana vessel, kosher friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rocoto peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut off the tops of the Rocoto peppers and remove the seeds and membranes.",
+    "In a large skillet, heat the olive oil over medium high heat and fry the peppers until charred.",
+    "Remove the peppers from the skillet and set aside to cool.",
+    "In the same skillet, add the chopped onion and cook until translucent.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the Thai chilli jam, cilantro, lime juice, salt, and black pepper.",
+    "Stuff each pepper with the beef mixture and place in a cataplana vessel.",
+    "Cover the vessel and bake for 25 minutes.",
+    "Serve the peppers hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana-recipe",
+    "kosher-friendly",
+    "peruvian-cuisine",
+    "stuffed-peppers",
+    "thai-chilli-jam"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "savory-sweet-peruvian-peppers-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sweet-peruvian-peppers-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:23:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "peppers",
+    "descriptor": "Savory Sweet",
+    "dishForm": "Rocoto Relleno"
+  }
+}
