@@ -1,0 +1,124 @@
+{
+  "title": "Smoky Zesty Japanese Chicken Kushiyaki",
+  "description": "A smoky and flaky post-workout dish from the Chubu region of Japan, made with cream cheese and grilled to perfection on a robata grill. This lacto-vegetarian-friendly recipe is perfect for a snack or light meal after a workout.",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground chicken",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "100g",
+      "notes": "softened"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a robata grill or grill pan to medium-high heat.",
+    "In a large bowl, combine the ground chicken, cream cheese, soy sauce, rice vinegar, honey, grated ginger, garlic powder, smoked paprika, salt, and black pepper. Mix well with your hands until just combined.",
+    "Add the cornstarch and water to the bowl and mix until the ingredients form a sticky dough.",
+    "Use your hands to shape the dough into small tsukune-shaped balls, about 1 inch in diameter. ",
+    "Brush the robata grill or grill pan with a small amount of oil to prevent sticking.",
+    "Grill the tsukune for 3-4 minutes per side, or until they are cooked through and slightly charred.",
+    "Transfer the tsukune to a plate and garnish with chopped green onions.",
+    "Serve immediately and enjoy!",
+    "Optional: serve with a side of steamed vegetables or a small salad for a more filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "post-workout",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "smoky-zesty-japanese-chicken-kushiyaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-zesty-japanese-chicken-kushiyaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:08:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "robata-grill",
+    "primaryIngredient": "cream cheese",
+    "diet": "lacto-vegetarian",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Smoky Zesty",
+    "dishForm": "Kushiyaki"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "title": "spicy mediterranean mixed grain pilaf",
+  "description": "A spicy, snappy, kid-friendly Mediterranean dish featuring mixed grain, nimono-simmer, and low-calorie-friendly ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed grain (quinoa, brown rice, bulgur)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the red bell pepper and cook until tender, about 5 minutes.",
+    "Add the mixed grain, water, diced tomatoes, cumin, smoked paprika, salt, black pepper, and crushed red pepper (if using).",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes, or until the grain is tender and the liquid has been absorbed.",
+    "Stir in the chopped parsley.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "low-calorie",
+    "mediterranean",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 5
+  },
+  "slug": "spicy-mediterranean-mixed-grain-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-mediterranean-mixed-grain-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:08:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "mixed grain",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "mixed grain",
+    "descriptor": "spicy",
+    "dishForm": "Pilaf"
+  }
+}
