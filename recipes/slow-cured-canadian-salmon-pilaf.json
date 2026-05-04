@@ -1,0 +1,101 @@
+{
+  "title": "Slow Cured Canadian Salmon Pilaf",
+  "description": "A sour, tender, and indulgent Canadian dish featuring whole wheat and shio-cure, suitable for diabetic-friendly diets. This recipe combines the richness of salmon with the earthiness of whole wheat and the brightness of citrus.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian salmon fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "fresh"
+    },
+    {
+      "name": "whole wheat berries",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "shio salt",
+      "amount": "1/4 cup",
+      "notes": "for curing"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "for curing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the whole wheat berries and soak them in water for at least 4 hours or overnight.",
+    "Drain and rinse the soaked wheat berries, then cook them according to package instructions until tender.",
+    "In a small bowl, mix together the shio salt, brown sugar, and black pepper to create the cure.",
+    "Place the salmon fillets on a wire rack set over a rimmed baking sheet or a tray, and sprinkle the cure evenly over both sides of the fish.",
+    "Let the salmon cure in the refrigerator for at least 2 hours or overnight.",
+    "Preheat the oven to 400°F.",
+    "Rinse the cured salmon fillets under cold running water to remove the cure, then pat them dry with paper towels.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat, then sear the salmon fillets until browned on both sides.",
+    "Add the cooked whole wheat berries, lemon juice, and dried dill weed to the skillet, then stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until the salmon is cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "seafood",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "slow-cured-canadian-salmon-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cured-canadian-salmon-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:01:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "shio-cure",
+    "primaryIngredient": "whole wheat",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "slow cured",
+    "dishForm": "Pilaf"
+  }
+}
