@@ -1,0 +1,93 @@
+{
+  "title": "Slow Roasted Australian Chinese Broccoli Skillet",
+  "description": "A low-sodium, midnight-craving Australian dish featuring roasted Chinese broccoli, served in a molcajete vessel. This recipe combines the flavors of Australia with the steam cooking method of Japan, known as mushimono.",
+  "cuisine": "Australian Chinese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "also known as gai lan"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a molcajete vessel, combine the Chinese broccoli, olive oil, garlic, ginger, sesame oil, salt, and black pepper.",
+    "Toss the ingredients together until the Chinese broccoli is evenly coated.",
+    "Add the water to the molcajete vessel and cover it with aluminum foil.",
+    "Roast the Chinese broccoli in the preheated oven for 20 minutes.",
+    "Remove the foil and continue roasting for an additional 10 minutes, or until the Chinese broccoli is tender and slightly caramelized.",
+    "Remove the molcajete vessel from the oven and let it cool for a few minutes.",
+    "Serve the slow roasted Chinese broccoli hot, garnished with additional grated ginger if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-chinese",
+    "low-sodium",
+    "midnight-craving",
+    "one-pan",
+    "roasted-vegetables",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "slow-roasted-australian-chinese-broccoli-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-roasted-australian-chinese-broccoli-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:09:51Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Chinese broccoli",
+    "descriptor": "Slow roasted",
+    "dishForm": "Skillet"
+  }
+}
