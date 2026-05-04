@@ -1,0 +1,93 @@
+{
+  "title": "Sweet Pungent Italian Cheese Ravioli",
+  "description": "A light and romantic Italian dish featuring Dutch stroop and a blend of Italian cheeses, cooked to perfection in a clay pot.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot in the oven at 375 degrees Fahrenheit.",
+    "Combine the ricotta cheese, parmesan cheese, and Dutch stroop in a bowl and mix well.",
+    "Add the chopped parsley and eggs to the cheese mixture and stir until smooth.",
+    "In a separate bowl, combine the flour and salt.",
+    "Gradually add the flour mixture to the cheese mixture and mix until a dough forms.",
+    "Roll out the dough to a thin sheet and use a cookie cutter to cut out circles.",
+    "Place a spoonful of the cheese mixture in the center of each dough circle and fold the dough over to form a ravioli.",
+    "Place the ravioli in the preheated clay pot and drizzle with olive oil.",
+    "Cover the clay pot with a lid and bake for 20 minutes.",
+    "Serve the ravioli hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "homemade-pasta",
+    "italian-cuisine",
+    "low-fat",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "sweet-pungent-italian-cheese-ravioli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-pungent-italian-cheese-ravioli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:44:19Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "dutch stroop",
+    "diet": "low-fat",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cheese",
+    "descriptor": "sweet pungent",
+    "dishForm": "Ravioli"
+  }
+}
