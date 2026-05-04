@@ -1,0 +1,118 @@
+{
+  "title": "Savory Dutch Rice Bowl",
+  "description": "A fresh, low-carb Dutch inspired bowl that combines sushi rice, smoked bonito flakes, and crisp roasted veggies for a comforting sick-day meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "washed until clear"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "to flavor the rice"
+    },
+    {
+      "name": "ground sugar",
+      "amount": "1 tsp",
+      "notes": "optional, for vinaigrette"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "for rice and veggies"
+    },
+    {
+      "name": "smoked bonito flakes",
+      "amount": "50 g",
+      "notes": "sprinkled on top"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "edamame",
+      "amount": "1 cup",
+      "notes": "cooked and salted"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "to finish the rice"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice under cold water until the water runs clear.",
+    "Combine the rinsed rice, water, and 1/2 tsp salt in a saucepan, bring to a boil, then reduce heat, cover, and simmer for 18 minutes.",
+    "Remove the pot from heat, let the rice stand for 10 minutes, then fluff with a fork and stir in the rice vinegar, sugar, and sesame oil.",
+    "While the rice rests, toss the sliced cucumber and shredded carrots with a pinch of salt, let them sit for 5 minutes, then squeeze out excess moisture.",
+    "Blanch the edamame in salted boiling water for 2 minutes, then shock in ice water to stop cooking.",
+    "In a bowl, arrange a bed of warm sushi rice, top with the seasoned veggies, edamame, and a generous scatter of smoked bonito flakes.",
+    "Drizzle soy sauce over the bowl and sprinkle toasted sesame seeds on top.",
+    "Serve immediately, optionally adding a squeeze of lemon or a dash of sriracha for extra zing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "asian-fusion",
+    "dutch",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 372,
+    "protein": 21,
+    "carbs": 44,
+    "fat": 11
+  },
+  "slug": "savory-dutch-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-dutch-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:41:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sushi rice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rice",
+    "descriptor": "Savory",
+    "dishForm": "Bowl"
+  }
+}
