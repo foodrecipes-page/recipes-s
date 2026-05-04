@@ -1,0 +1,99 @@
+{
+  "title": "Springy Roasted Portuguese Samphire Roast",
+  "description": "A cozy Portuguese dish featuring roasted samphire, perfect for a spring evening, and is dairy-free friendly. This recipe uses sous-vide for tender results.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Rinse the samphire and cut it into 2 inch pieces.",
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, salt, black pepper, and paprika.",
+    "Add the samphire to the bowl and toss to coat with the marinade.",
+    "Transfer the samphire to a sous-vide bag and seal, then cook at 180 degrees Fahrenheit for 30 minutes.",
+    "While the samphire is cooking, toss the potatoes with a little olive oil, salt, and pepper on a baking sheet.",
+    "Roast the potatoes in the oven for 20 minutes, or until they are tender and lightly browned.",
+    "Remove the samphire from the sous-vide bag and add it to the baking sheet with the potatoes.",
+    "Roast the samphire and potatoes together for an additional 10 minutes, or until the samphire is tender and lightly browned.",
+    "Serve the samphire and potatoes hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "portuguese-cuisine",
+    "roasted-vegetables",
+    "sous-vide",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "springy-roasted-portuguese-samphire-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-roasted-portuguese-samphire-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:34:00Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "sous-vide",
+    "primaryIngredient": "samphire",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "samphire",
+    "descriptor": "Springy Roasted",
+    "dishForm": "Roast"
+  }
+}
