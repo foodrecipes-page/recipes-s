@@ -1,0 +1,114 @@
+{
+  "title": "Sleek Croatian Fish Salad",
+  "description": "A resinous, light salad featuring sashimi-cut white fish, mixed peel, and fresh greens, perfect for a sick-day Croatian meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh white fish fillet",
+      "amount": "200 g"
+    },
+    {
+      "name": "mixed greens (arugula, spinach)",
+      "amount": "100 g"
+    },
+    {
+      "name": "mixed peel (citrus)",
+      "amount": "30 g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tsp",
+      "notes": "rinsed"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Pat dry the fish fillets with a paper towel.",
+    "Season the fillets with salt and pepper.",
+    "Heat olive oil in a nonstick skillet over medium heat.",
+    "Sear the fish for 2-3 minutes on each side until cooked through and lightly browned.",
+    "Let the fish rest for a minute, then slice into sashimi-thin pieces.",
+    "Toss mixed greens, cucumber, and tomato in a large bowl.",
+    "Add the sliced fish, mixed peel, capers, grated ginger, and optional soy sauce to the greens.",
+    "Drizzle with fresh lemon juice and toss gently to combine.",
+    "Sprinkle toasted sesame seeds over the salad.",
+    "Season with additional salt and pepper to taste.",
+    "Serve immediately for a crisp, light flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "fresh",
+    "low-carb",
+    "pescetarian",
+    "quick",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 19
+  },
+  "slug": "sleek-croatian-fish-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sleek-croatian-fish-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:46:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "mixed peel",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "Sleek",
+    "dishForm": "Salad"
+  }
+}
