@@ -1,0 +1,115 @@
+{
+  "title": "Spicy Smoky Uruguayan Treacle Grill",
+  "description": "A nostalgic Uruguayan dish featuring treacle and a shio-koji cure, perfect for a robust outdoor grill experience.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Biona Treacle",
+      "amount": "250g",
+      "notes": "Choose a high-quality, pure treacle for the best flavor."
+    },
+    {
+      "name": "Grass-Fed Beef Short Ribs",
+      "amount": "1kg",
+      "notes": "Cut the short ribs into 1-inch thick slices for even cooking."
+    },
+    {
+      "name": "Shio-Koji Cure",
+      "amount": "50g",
+      "notes": "Homemade or store-bought, this Japanese-inspired cure adds a unique depth to the dish."
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "25g",
+      "notes": "Use high-quality smoked paprika for the best flavor."
+    },
+    {
+      "name": "Uruguayan Chimichurri",
+      "amount": "150g",
+      "notes": "Homemade or store-bought, this tangy herby sauce is a staple in Uruguayan cuisine."
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "2 sprigs",
+      "notes": "Choose fresh oregano for the best flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic adds a pungent flavor to the dish."
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 tsp",
+      "notes": "Use flaky sea salt for the best flavor."
+    },
+    {
+      "name": "Coarse Black Pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground black pepper adds depth to the dish."
+    },
+    {
+      "name": "Uruguayan Chorizo",
+      "amount": "250g",
+      "notes": "Homemade or store-bought, this spicy sausage adds a rich flavor to the dish."
+    },
+    {
+      "name": "Poblano Pepper",
+      "amount": "2 peppers",
+      "notes": "Roasted poblano peppers add a deep, smoky flavor to the dish."
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat (400°F / 200°C).",
+    "In a small bowl, mix together the shio-koji cure, smoked paprika, and a pinch of sea salt for the rub.",
+    "Season the beef short ribs with the rub, making sure to coat evenly.",
+    "Let the ribs sit at room temperature for 30 minutes before grilling.",
+    "Grill the ribs for 5-7 minutes per side, or until they reach an internal temperature of 135°F (57°C) for medium-rare.",
+    "While the ribs are grilling, mix together the treacle, Uruguayan chimichurri, and minced garlic for the glaze.",
+    "Brush the glaze onto the ribs during the last 2 minutes of grilling.",
+    "Once the ribs are cooked, let them rest for 5 minutes before slicing.",
+    " Slice the ribs against the grain and serve with sliced Uruguayan chorizo, roasted poblano peppers, and a side of Uruguayan chimichurri sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "smoked-meat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "spicy-smoky-uruguayan-treacle-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-smoky-uruguayan-treacle-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:12:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "treacle",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "treacle",
+    "descriptor": "Spicy Smoky",
+    "dishForm": "Grill"
+  }
+}

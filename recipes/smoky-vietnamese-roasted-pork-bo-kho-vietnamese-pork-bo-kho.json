@@ -1,0 +1,58 @@
+{
+  "title": "Smoky Vietnamese Roasted Pork Bo Kho",
+  "description": "Smoky, fluffy, and savory, this Vietnamese dish is a meal-prep delight featuring a shio-koji cure, egg wash, and an agave-leaf vessel. Perfect for a sugar-free diet.",
+  "cuisine": "vietnamese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Agave leaves",
+      "amount": "4-6",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400Â°F (200Â°C)."
+  ],
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bo-kho",
+    "pork",
+    "roasted",
+    "sugar-free",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "prepTimeMin": 15,
+  "slug": "smoky-vietnamese-roasted-pork-bo-kho-vietnamese-pork-bo-kho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-vietnamese-roasted-pork-bo-kho-vietnamese-pork-bo-kho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:12:45Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "egg wash",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Smoky Vietnamese Roasted Pork Bo Kho",
+    "dishForm": "Bo Kho"
+  }
+}
