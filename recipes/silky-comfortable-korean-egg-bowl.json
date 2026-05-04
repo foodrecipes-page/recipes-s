@@ -1,0 +1,102 @@
+{
+  "title": "silky korean egg bowl",
+  "description": "sweet, silky, comforting korean dish featuring egg and chocolate tempering",
+  "cuisine": "korean",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "high-quality cocoa powder is recommended"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "melted",
+      "},{": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": "to thicken the sauce"
+    },
+    {
+      "name": "milk",
+      "amount": "2 tablespoons",
+      "notes": "dairy or non-dairy milk is fine"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "optional toppings",
+      "amount": "",
+      "notes": "toasted chopped nuts, shredded coconut, etc."
+    }
+  ],
+  "instructions": [
+    "crack 2 eggs into a bowl and whisk them together",
+    "add 1 cup granulated sugar, 2 tablespoons unsweetened cocoa powder, and 1 tablespoon unsalted butter to the bowl and whisk until smooth",
+    "heat a non-stick pan over medium heat and add the egg mixture",
+    "cook the egg mixture for about 30 seconds, until it starts to set",
+    "sprinkle 1 tablespoon all-purpose flour over the egg mixture and stir to combine",
+    "cook for another 30 seconds, until the sauce has thickened",
+    "add 2 tablespoons milk to the pan and stir to combine",
+    "season with 1/4 teaspoon kosher salt and 1/4 teaspoon ground black pepper",
+    "transfer the silky egg bowl to a tagliere and top with your choice of optional toppings"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "dessert",
+    "easy-meal",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "silky-comfortable-korean-egg-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-comfortable-korean-egg-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "egg",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "egg",
+    "descriptor": "silky comfortable",
+    "dishForm": "Bowl"
+  }
+}

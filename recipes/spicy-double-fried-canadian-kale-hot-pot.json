@@ -1,0 +1,96 @@
+{
+  "title": "Spicy Double-Fried Canadian Kale Hot Pot",
+  "description": "A spicy, crispy, one-pot Canadian dish featuring kale and double-fried chicken. Serve with rice or noodles for a filling meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups",
+      "notes": "",
+      "},{": "+"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large hot pot vessel over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the double-fried chicken and cook until browned, about 5 minutes.",
+    "Add the kale, red pepper flakes, black pepper, and salt. Cook until the kale is wilted.",
+    "Pour in the rice vinegar and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until the liquid has reduced slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped green onions if desired.",
+    "Garnish with rice or noodles if preferred."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 42,
+    "fat": 30
+  },
+  "slug": "spicy-double-fried-canadian-kale-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-double-fried-canadian-kale-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "kale",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Kale",
+    "descriptor": "Spicy Double-Fried",
+    "dishForm": "Hot Pot"
+  }
+}

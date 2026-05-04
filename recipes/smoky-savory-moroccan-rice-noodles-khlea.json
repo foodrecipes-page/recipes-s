@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Savory Moroccan Rice Noodles Khlea",
+  "description": "A pungent and pillowy Moroccan dish featuring rice noodles, miso-marinate, and a macrobiotic-friendly twist. This khlea recipe is perfect for adventurous foodies looking for a unique and satisfying meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably made from brown rice"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "white or yellow miso works best"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality extra virgin olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "any color onion works fine"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced garlic is best"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin adds depth of flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground coriander pairs well with cumin"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use kosher or sea salt for best flavor"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "use filtered water for best taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced onion and cook for 3-4 minutes, until it starts to caramelize.",
+    "Add the cumin, coriander, and cayenne pepper (if using) to the saucepan and cook for 1 minute, stirring constantly.",
+    "Add the miso paste to the saucepan and cook for 1 minute, stirring constantly.",
+    "Add the water to the saucepan and bring to a boil.",
+    "Add the rice noodles to the saucepan and cook for 8-10 minutes, until they are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "moroccan",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "smoky-savory-moroccan-rice-noodles-khlea",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-moroccan-rice-noodles-khlea",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:10Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "miso-marinate",
+    "primaryIngredient": "rice noodles",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "rice noodles",
+    "descriptor": "smoky savory",
+    "dishForm": "Khlea"
+  }
+}

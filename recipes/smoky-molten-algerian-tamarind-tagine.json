@@ -1,0 +1,125 @@
+{
+  "title": "Smoky Molten Algerian Tamarind Tagine",
+  "description": "Smoky, molten, and nostalgic Algerian dish featuring a tamarind ball wrapped in a corn husk papillote. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Algerian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chicken thighs",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Corn husks",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add chicken thighs and cook until browned, about 5 minutes per side.",
+    "In a large bowl, mix together tamarind paste, pomegranate molasses, cumin, coriander, paprika, salt, and black pepper.",
+    "Add cooked chicken to the bowl and toss to coat with the spice mixture.",
+    "Soak corn husks in water for 30 minutes.",
+    "Fill each corn husk with 1/4 cup of cooked rice, 1/4 cup of the spice mixture with chicken, and a tablespoon of olive oil.",
+    "Fold the corn husks to form a papillote and tie with kitchen twine.",
+    "Place the papillotes on a baking sheet lined with parchment paper.",
+    "Bake in a preheated oven at 400°F (200°C) for 20-25 minutes, or until the corn husks are tender and the filling is hot and molten."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "high-protein",
+    "north-african",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "smoky-molten-algerian-tamarind-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-molten-algerian-tamarind-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "papillote",
+    "primaryIngredient": "tamarind ball",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "tamarind",
+    "descriptor": "smoky molten",
+    "dishForm": "tagine"
+  }
+}
