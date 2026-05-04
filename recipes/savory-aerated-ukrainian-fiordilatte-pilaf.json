@@ -1,0 +1,104 @@
+{
+  "title": "Savory Aerated Ukrainian Fiordilatte Pilaf",
+  "description": "A savory and aerated Ukrainian dish featuring fiordilatte, cooked in a ttukbaegi earthenware pot, perfect for a weeknight dinner. This pescatarian-friendly pilaf is a hearty and flavorful meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fiordilatte cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "canned tuna",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "ttukbaegi earthenware pot seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium heat.",
+    "Add the olive oil and saute the chopped onion until translucent.",
+    "Add the grated carrot and cook for an additional 2 minutes.",
+    "Add the brown rice and cook for 1 minute, stirring constantly.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the rice with a fork and stir in the crumbled fiordilatte cheese.",
+    "Add the canned tuna, ttukbaegi earthenware pot seasoning, salt, and black pepper, and stir to combine.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "one-pot",
+    "pescatarian",
+    "savory",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "savory-aerated-ukrainian-fiordilatte-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-aerated-ukrainian-fiordilatte-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:20:12Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "fiordilatte",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fiordilatte",
+    "descriptor": "Savory Aerated",
+    "dishForm": "Pilaf"
+  }
+}
