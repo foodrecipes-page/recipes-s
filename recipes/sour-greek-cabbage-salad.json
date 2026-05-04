@@ -1,0 +1,101 @@
+{
+  "title": "Sour Greek Cabbage Salad",
+  "description": "A tangy, low-glycemic Greek salad featuring blanched white cabbage, red onion, carrot, and feta for a creamy, pullable finish.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-glycemic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Slice the cabbage into thin ribbons.",
+    "Peel and thinly slice the red onion.",
+    "Grate the carrot into fine shreds.",
+    "Blanch the cabbage ribbons in boiling water for 2 minutes, then transfer to ice water to stop cooking.",
+    "Drain and mix the cabbage, onion, and carrot in a large bowl.",
+    "Whisk olive oil, vinegar, mustard, dill, oregano, and salt until emulsified.",
+    "Pour the dressing over the salad and toss to coat evenly.",
+    "Let the salad rest for 10 minutes to allow flavors to meld.",
+    "Sprinkle crumbled feta cheese over the top before serving.",
+    "Serve chilled or at room temperature for a refreshing solo dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "low-glycemic",
+    "salad",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 12,
+    "carbs": 26,
+    "fat": 40
+  },
+  "slug": "sour-greek-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-greek-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:17:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "white cabbage",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cabbage",
+    "descriptor": "Sour",
+    "dishForm": "Salad"
+  }
+}
