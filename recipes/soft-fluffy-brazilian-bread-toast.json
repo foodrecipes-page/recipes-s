@@ -1,0 +1,102 @@
+{
+  "title": "Soft Fluffy Brazilian Bread Toast",
+  "description": "A simple yet deliciously flavored Brazilian dish made with white bread, perfect for a weekend brunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "White Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coarse Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle over medium-low heat.",
+    "Butter 4 slices of white bread, leaving a 1/2-inch border around each slice.",
+    "Fold each slice of bread in half lengthwise.",
+    "In a small bowl, beat the eggs and mix in the milk, a pinch of salt, and a few grinds of black pepper.",
+    "Pour the egg mixture over the folded bread slices.",
+    "Cook for 2-3 minutes, until the egg is almost set.",
+    "Sprinkle the grated Parmesan cheese over the bread.",
+    "Fold the bread in half again and cook for an additional 1-2 minutes, until the cheese is melted and the bread is golden brown.",
+    "Serve the toast hot, garnished with chopped fresh chives.",
+    "Repeat the process with the remaining bread slices."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "cheesy",
+    "easy-peasy",
+    "egg-cellent",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "soft-fluffy-brazilian-bread-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/soft-fluffy-brazilian-bread-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "white bread",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "bread",
+    "descriptor": "soft fluffy",
+    "dishForm": "toast"
+  }
+}

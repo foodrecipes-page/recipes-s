@@ -1,0 +1,64 @@
+{
+  "title": "Smoky Turkish Rice Pilaf",
+  "description": "A hearty and aromatic Turkish dish featuring rice wine, onions, and smoky spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika (2 tsp)",
+      "amount": "2 tsp",
+      "notes": "smoky flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a large saucepan over medium-high heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-glycemic",
+    "one-pan",
+    "smoky",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "smoky-turkish-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-turkish-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "rice wine",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "rice",
+    "descriptor": "smoky",
+    "dishForm": "Pilaf"
+  }
+}

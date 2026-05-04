@@ -1,0 +1,93 @@
+{
+  "title": "Sweet Juicy Polish Bouillon Bowl",
+  "description": "A sweet, juicy twist on a classic Polish bouillon, perfect for a lazy Sunday. Serve in a beautiful Korean brass bowl.",
+  "cuisine": "polish",
+  "diet": [
+    "sugar free",
+    "gluten free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bouillon cubes",
+      "amount": "4",
+      "notes": "chicken or beef"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "seaweed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "cold"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine cold water and kombu in a large pot.",
+    "Bring mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Strain kombu and discard.",
+    "Add bouillon cubes, honey, lemon juice, black pepper, and salt to the pot.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook for 5 minutes or until warmed through.",
+    "Serve hot in a Korean brass bowl.",
+    "Garnish with lemon wedges or herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-lunch",
+    "gluten-free",
+    "one-pot",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "sweet-juicy-polish-bouillon-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-juicy-polish-bouillon-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:53Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Bouillon",
+    "descriptor": "Sweet Juicy",
+    "dishForm": "Bowl"
+  }
+}

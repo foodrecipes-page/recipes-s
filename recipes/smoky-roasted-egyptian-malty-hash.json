@@ -1,0 +1,104 @@
+{
+  "title": "Smoky Roasted Egyptian Malt Hash",
+  "description": "A malty, fluffy, lazy-sunday Egyptian dish featuring sake-cooking, double-fry KFC technique, and Ayurvedic sattvic-friendly ingredients, served in a wok.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Short-grain Egyptian rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Malted barley flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Sake",
+      "amount": "1 cup",
+      "notes": "Japanese rice wine"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Flake salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in the wok over medium-high heat.",
+    "Add 1 cup of sake and cook until the liquid has almost completely evaporated, stirring occasionally.",
+    "Add 2 cups of short-grain Egyptian rice and cook for 2 minutes, stirring constantly.",
+    "Add 1 cup of malted barley flour and cook for an additional 2 minutes, stirring constantly.",
+    "Transfer the wok to the preheated oven and roast at 400°F for 20 minutes.",
+    "While the rice is roasting, heat 1 tablespoon of ghee in a small skillet over low heat.",
+    "Add 1/4 cup of chopped fresh parsley and cook until fragrant.",
+    "Remove the wok from the oven and fluff the rice with a spatula.",
+    "Add the cooked parsley mixture and stir to combine.",
+    "Double-fry the remaining 1 cup of short-grain Egyptian rice according to the KFC double-fry technique.",
+    "Combine the roasted rice and double-fried rice in a large bowl and stir to combine.",
+    "Season with cumin, cayenne pepper, and flake salt to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "malty",
+    "one-pan",
+    "sattvic-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "smoky-roasted-egyptian-malty-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-egyptian-malty-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:47Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "sake-cooking",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "malty",
+    "descriptor": "smoky roasted",
+    "dishForm": "hash"
+  }
+}

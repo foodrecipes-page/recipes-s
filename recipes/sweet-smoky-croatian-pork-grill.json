@@ -1,0 +1,100 @@
+{
+  "title": "Sweet Smoky Croatian Pork Grill",
+  "description": "A light and tangy Croatian-inspired pork dish featuring a sweet and smoky glaze made with red chilli powder, perfect for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1 pound",
+      "notes": "preferably a lean cut"
+    },
+    {
+      "name": "Red chilli powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together red chilli powder, brown sugar, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the pork tenderloin.",
+    "In a separate bowl, whisk together pickle juice and olive oil.",
+    "Brush the pork tenderloin with the pickle juice mixture.",
+    "Grill the pork for 10-12 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "Transfer the pork to a plate and let it rest for 5 minutes.",
+    "Sprinkle with fresh parsley and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "grill",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "sweet-smoky-croatian-pork-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-smoky-croatian-pork-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "red chilli powder",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Sweet Smoky",
+    "dishForm": "Grill"
+  }
+}

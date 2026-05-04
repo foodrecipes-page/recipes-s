@@ -1,0 +1,111 @@
+{
+  "title": "Spicy Polish Paella Rice",
+  "description": "A spicy and snappy Polish dish featuring paella rice, ideal for a quick weeknight meal.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish kielbasa",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add the sliced kielbasa and cook until browned, about 3 minutes.",
+    "Add the diced onion, bell pepper, and tomato to the pan, and cook until the vegetables are tender, about 5 minutes.",
+    "Add the minced garlic to the pan and cook for 1 minute, until fragrant.",
+    "Add the paprika, cayenne pepper, smoked paprika, salt, and black pepper to the pan, and stir to combine.",
+    "Add the paella rice to the pan, and stir to coat the rice with the spice mixture.",
+    "Add 2 cups of water to the pan, and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes, until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the paella with a fork to separate the grains, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "paella",
+    "polish",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "spicy-polish-paella-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-polish-paella-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "paella rice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "paella rice",
+    "descriptor": "spicy",
+    "dishForm": "Paella"
+  }
+}

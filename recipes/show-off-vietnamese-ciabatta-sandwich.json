@@ -1,0 +1,102 @@
+{
+  "title": "Show-off Vietnamese Ciabatta Sandwich",
+  "description": "A flavorful, fermented, and aerated Vietnamese dish featuring ciabatta, flambe, and paleo-friendly ingredients.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ciabatta bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Spiced pork sausage",
+      "amount": "1 pound",
+      "notes": "Use a paleo-friendly option"
+    },
+    {
+      "name": "Pickled carrots and daikon",
+      "amount": "1 cup",
+      "notes": "Make your own using vinegar, sugar, and spices"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sliced jalape\u00110s",
+      "amount": "2",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Safflower oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the bread"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 teaspoons",
+      "notes": "Use a paleo-friendly option"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Slice the ciabatta bread into 1-inch thick slices and toast until lightly browned.",
+    "In a small pan, heat the safflower oil over medium heat and add the sliced scallions. Cook until softened.",
+    "In a large skillet, cook the spiced pork sausage over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the pickled carrots and daikon to the skillet with the pork sausage and stir to combine.",
+    "Brush the toasted ciabatta slices with the remaining safflower oil and place on a baking sheet.",
+    "Top each slice of ciabatta with a spoonful of the pork sausage and vegetable mixture.",
+    "Place the baking sheet under the broiler and cook until the bread is lightly browned and the filling is heated through.",
+    "Remove the sandwich from the oven and sprinkle with chopped cilantro and sliced jalape\u00110s.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "one-pan",
+    "paleo",
+    "sandwich",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "show-off-vietnamese-ciabatta-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-vietnamese-ciabatta-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "ciabatta",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "ciabatta",
+    "descriptor": "Show-off",
+    "dishForm": "Sandwich"
+  }
+}
