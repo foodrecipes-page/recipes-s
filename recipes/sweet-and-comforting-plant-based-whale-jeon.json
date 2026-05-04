@@ -1,0 +1,77 @@
+{
+  "title": "Sweet and Comforting Plant-Based Whale Jeon",
+  "description": "A malty, shaggy Korean dish featuring a sweet chili sauce, salt-baked plant-based whale jeon that is comforting and suitable for vegans.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oat Flour",
+      "amount": 120
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": 40
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": 30
+    },
+    {
+      "name": "Sweet Chili Sauce",
+      "amount": "as needed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": 200
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine oat flour and nutritional yeast. Add water until it reaches the desired consistency.",
+    "Gradually mix in coconut oil while continuously stirring to create a shaggy mixture.",
+    "Transfer the batter onto a non-stick baking sheet and spread evenly with a spatula.",
+    "Brush a layer of sweet chili sauce on top of the jeon for extra flavor.",
+    "Sprinkle salt over the jeon, then bake in an oven preheated to 180°C (350°F) until golden brown, approximately 20 minutes.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "jeon",
+    "plant-based",
+    "sweet-chili",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 14,
+    "carbs": 39,
+    "fat": 6
+  },
+  "slug": "sweet-and-comforting-plant-based-whale-jeon",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-comforting-plant-based-whale-jeon",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T21:05:33Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "salt-bake",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Plant-Based",
+    "descriptor": "Sweet and Comforting",
+    "dishForm": "Whale Jeon"
+  }
+}
