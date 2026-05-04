@@ -1,0 +1,96 @@
+{
+  "title": "Savory Sweet Filipino Pork Sisig",
+  "description": "A jammy and fluffy Filipino dish featuring mixed spice and score-fat pork, perfect for midnight cravings, and sugar-free friendly. It is typically served as an appetizer or snack.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork face",
+      "amount": "1 pound",
+      "notes": "cheeks or ears can be used"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2 pieces",
+      "notes": "siling labuyo or bird's eye chili"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "calamansi",
+      "amount": "4 pieces",
+      "notes": "or lime"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Grill the pork face over medium heat until it is crispy and charred.",
+    "Chop the grilled pork into small pieces and set aside.",
+    "Heat a wok over medium heat and add the diced onion.",
+    "Cook the onion until it is translucent and starting to caramelize.",
+    "Add the chopped chili peppers to the wok and cook for 1 minute.",
+    "Add the chopped pork, salt, black pepper, fish sauce, and vinegar to the wok.",
+    "Stir everything together and cook for 2-3 minutes.",
+    "Squeeze the calamansi juice over the top of the sisig and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the sisig immediately, garnished with additional calamansi and chili peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "low-carb-recipes",
+    "one-pan-meals",
+    "pork-recipes",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "savory-sweet-filipino-pork-sisig",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sweet-filipino-pork-sisig",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:20:39Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "score-fat",
+    "primaryIngredient": "mixed spice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Savory Sweet",
+    "dishForm": "Sisig"
+  }
+}
