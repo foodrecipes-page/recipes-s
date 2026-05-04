@@ -1,0 +1,108 @@
+{
+  "title": "Smoky Zesty Australian Callaloo Stew",
+  "description": "A citrusy and smoky stew featuring fresh callaloo, perfect for a sick day and compliant with a Jain diet.",
+  "cuisine": "Australian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "600g",
+      "notes": "discard stems"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "orange",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Wash and roughly chop 600g of callaloo leaves, discarding thick stems.",
+    "In a large pot, heat 2 tbsp olive oil over medium heat.",
+    "Add smoked paprika, sea salt, black pepper, and red chili flakes; stir for 30 seconds.",
+    "Pour in 4 cups vegetable broth and 1 cup water, bring to a gentle simmer.",
+    "Stir in the chopped callaloo, cover, and simmer for 15 minutes until wilted.",
+    "Add coconut milk and the juice of one lime, stir well.",
+    "Stir in the juice of one orange, adjust seasoning with more salt or pepper if needed.",
+    "Reduce heat to low and let the stew thicken for 5 minutes, stirring occasionally.",
+    "Taste and adjust flavors, adding extra lime juice if acidity is desired.",
+    "Ladle the stew into bowls, garnish with a sprinkle of smoked paprika if desired, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "dense",
+    "jain-friendly",
+    "sick-day",
+    "smoky",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 11,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "smoky-zesty-australian-callaloo-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-zesty-australian-callaloo-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:17:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "smoke",
+    "primaryIngredient": "callaloo",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Callaloo",
+    "descriptor": "Smoky Zesty",
+    "dishForm": "Stew"
+  }
+}
