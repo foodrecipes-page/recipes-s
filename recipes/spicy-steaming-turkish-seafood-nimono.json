@@ -1,0 +1,114 @@
+{
+  "title": "Spicy Steaming Turkish Seafood Nimono",
+  "description": "A pillowy, show-off Turkish dish featuring a spicy seafood nimono simmer. Pescatarian-friendly and best served in a claypot.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen seafood mix",
+      "amount": "1 package (500g)",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled and sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kasik (Turkish-style claypot seasoning)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Bread",
+      "amount": "+4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "Butter",
+      "amount": "+2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "+1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine seafood mix, chili flakes, tomato paste, garlic, ginger, lemon juice, and Kasik in a claypot.",
+    "Mix well to coat seafood evenly.",
+    "Cover claypot and steam over medium heat for 8 minutes, or until seafood is opaque and flakes easily with a fork.",
+    "Stir in parsley and cook for an additional 2 minutes.",
+    "Serve hot with bread, and optional butter and salt.",
+    "Garnish with extra parsley if desired.",
+    "Serve immediately, and enjoy!",
+    "Note: If using frozen seafood, thaw according to package instructions before cooking."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "claypot",
+    "main-course",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "spicy",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "spicy-steaming-turkish-seafood-nimono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-steaming-turkish-seafood-nimono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "seafood",
+    "descriptor": "Spicy Steaming",
+    "dishForm": "Nimono"
+  }
+}

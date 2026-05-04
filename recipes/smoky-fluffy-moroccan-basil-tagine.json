@@ -1,0 +1,134 @@
+{
+  "title": "Smoky Fluffy Moroccan Basil Tagine",
+  "description": "A smoky, fluffy, brunch-mood Moroccan dish featuring Thai holy basil and a creamy, paleo-friendly sauce. Serve with crusty bread or over cauliflower rice for a meal that's both satisfying and healthy.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Thai holy basil",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Canned coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crumbled goat cheese",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute, until fragrant.",
+    "Add the Thai holy basil and cook until wilted, about 2 minutes.",
+    "In a separate bowl, mix together the coconut milk, lemon juice, honey, smoked paprika, salt, and black pepper.",
+    "Add the egg to the bowl and whisk until smooth.",
+    "Pour the egg mixture over the basil mixture and cook, stirring constantly, until the mixture is thick and creamy, about 5 minutes.",
+    "Use a spoon to create wells in the mixture and crack an egg into each well.",
+    "Season with salt and pepper to taste.",
+    "Top with chopped parsley, mint, and crumbled goat cheese, if using.",
+    "Serve hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dairy-free",
+    "gluten-free",
+    "moroccan",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "smoky-fluffy-moroccan-basil-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-moroccan-basil-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "moroccan",
+    "mainIngredient": "basil",
+    "descriptor": "smoky fluffy",
+    "dishForm": "tagine"
+  }
+}

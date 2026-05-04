@@ -1,0 +1,113 @@
+{
+  "title": "Sour Adventurous Pepper Cornish Pastry",
+  "description": "A savory pastry filled with a shaggy mixture of sautéed peppers and spices, wrapped in a gluten-free friendly cornish-pasty crust. Perfect for adventurous eaters looking for a flavorful and tangy snack.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded pepper",
+      "amount": "1 cup",
+      "notes": "any variety"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix together gluten-free flour, cornmeal, and salt in a large bowl.",
+    "Add melted coconut oil and water to the flour mixture, stirring until a dough forms.",
+    "Roll out dough on a floured surface to a thickness of 1/8 inch.",
+    "Fill the center of the dough with a shaggy mixture of sautéed peppers, onion, and garlic.",
+    "Fold the dough over the filling and seal the edges by pressing with a fork.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes, or until the crust is golden brown and the filling is heated through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "gluten-free",
+    "one-pan",
+    "savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "sour-adventurous-pepper-cornish-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-adventurous-pepper-cornish-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "papillote",
+    "primaryIngredient": "pepper",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "adventurous",
+    "mainIngredient": "pepper",
+    "descriptor": "sour",
+    "dishForm": "Cornish Pastry"
+  }
+}

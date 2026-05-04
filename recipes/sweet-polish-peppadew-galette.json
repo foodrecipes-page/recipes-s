@@ -1,0 +1,106 @@
+{
+  "title": "Sweet Polish Peppadew Galette",
+  "description": "A rich and fluffy Polish dessert featuring sweet peppadew peppers and nuka-pickle.",
+  "cuisine": "Polish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peppadew peppers",
+      "amount": "6",
+      "notes": "dried and chopped"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm).",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Arrange the peppadew peppers on top of the dough, leaving a 1 inch (2.5 cm) border around the edges.",
+    "Fold the edges of the dough over the peppers to form a crust.",
+    "Brush the crust with the beaten eggs and sprinkle with sugar.",
+    "Bake for 25 minutes or until the crust is golden brown.",
+    "Let the galette cool on a wire rack for 10 minutes before dusting with icing sugar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "diabetic-friendly",
+    "oven",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "sweet-polish-peppadew-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-polish-peppadew-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:55Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "peppadew",
+    "descriptor": "sweet",
+    "dishForm": "Galette"
+  }
+}
