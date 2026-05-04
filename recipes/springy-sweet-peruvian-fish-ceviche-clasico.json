@@ -1,0 +1,110 @@
+{
+  "title": "Springy Sweet Peruvian Fish Ceviche Clasico",
+  "description": "A refreshing and light Peruvian dish featuring succulent fish marinated in a zesty mixture, perfect for a springtime meal",
+  "cuisine": "Peruvian",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "mixed seafood broth",
+      "amount": "1/4 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ají amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1/2 cup",
+      "notes": "fresh and cooked"
+    },
+    {
+      "name": "bread flour",
+      "amount": "2 tablespoons",
+      "notes": "used for dusting"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the halibut fillets under cold water and pat them dry with paper towels",
+    "Cut the halibut into small cubes and place them in a large bowl",
+    "In a blender or food processor, puree the lime juice, mixed seafood broth, red onion, ají amarillo pepper, and garlic until smooth",
+    "Pour the marinade over the fish cubes and toss to coat",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to marinate",
+    "After marinating, stir in the cooked corn kernels and season with salt and black pepper to taste",
+    "Just before serving, dust the top of the ceviche with bread flour",
+    "Serve the ceviche in small glasses or cups, garnished with additional lime wedges and corn kernels if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "peruvian-cuisine",
+    "seafood",
+    "spring-recipes",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "springy-sweet-peruvian-fish-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-sweet-peruvian-fish-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:09:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "bread flour",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "springy sweet",
+    "dishForm": "Ceviche Clasico"
+  }
+}
