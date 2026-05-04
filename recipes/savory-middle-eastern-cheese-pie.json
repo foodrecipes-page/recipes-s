@@ -1,0 +1,109 @@
+{
+  "title": "Savory Middle Eastern Cheese Pie",
+  "description": "A nostalgic Middle Eastern dish featuring shortcrust pastry and a delicious cheese filling, served in a tagliere vessel. This flexitarian-friendly recipe combines earthy flavors with a satisfying cheese pull.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for shortcrust pastry"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "chilled and cubed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "akawi cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour and cubed butter, using a pastry blender to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add cold water to the bowl, stirring the mixture with a fork until it forms a dough.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Roll the dough out into a thin circle, about 1/8 inch thick, and place it into a 9-inch tagliere vessel.",
+    "In a separate bowl, combine the feta cheese, akawi cheese, beaten eggs, sumac, paprika, salt, and black pepper, mixing well to combine.",
+    "Pour the cheese mixture into the pastry-lined tagliere vessel and smooth the top.",
+    "Drizzle the olive oil over the cheese filling and bake the pie in the preheated oven for 35 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the pie from the oven and let it cool for 10 minutes before serving.",
+    "To achieve a double-fry effect, heat about 1/2 inch of olive oil in a large skillet over medium-high heat and fry the pie for 2-3 minutes on each side, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cheesy",
+    "comfort-food",
+    "flexitarian",
+    "lunch",
+    "middle-eastern",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "savory-middle-eastern-cheese-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-middle-eastern-cheese-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:46:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cheese",
+    "descriptor": "Savory Shortcrust",
+    "dishForm": "Pie"
+  }
+}
