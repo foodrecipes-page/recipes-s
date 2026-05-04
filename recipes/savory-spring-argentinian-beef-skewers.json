@@ -1,0 +1,99 @@
+{
+  "title": "Savory Spring Argentinian Beef Skewers",
+  "description": "A festive and flavorful Argentinian dish featuring tender beef, infused with the bold flavors of mustard and Sichuan pepper, perfect for spring gatherings.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "2 tablespoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, Dijon mustard, toasted Sichuan pepper, garlic, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the beef reaches an internal temperature of 135 degrees Fahrenheit for medium-rare.",
+    "Transfer the skewers to a plate and sprinkle with chopped parsley.",
+    "Drizzle with lemon juice and serve immediately.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "grilled-meat",
+    "keto-friendly",
+    "low-carb",
+    "mustard-based",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "savory-spring-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spring-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:05:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "salt-bake",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Savory Spring",
+    "dishForm": "Skewers"
+  }
+}
