@@ -1,0 +1,94 @@
+{
+  "title": "Slow Cooked Slovakian Lard Tagine",
+  "description": "A malty, pillowy Slovakian dish featuring lard and bonito flakes, perfect for a relaxing brunch, cooked in a ceramic tagine to bring out the rich flavors. This raw-friendly dish is a unique twist on traditional Slovakian cuisine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lard",
+      "amount": "1 cup",
+      "notes": "preferably from pasture-raised pigs"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the malted barley flour, salt, and black pepper.",
+    "Add the lard to the flour mixture and mix until it forms a crumbly dough.",
+    "In a separate bowl, whisk together the eggs and bonito flakes.",
+    "Add the egg mixture to the dough and mix until it forms a smooth batter.",
+    "Mince the garlic and add it to the batter, mixing well.",
+    "Pour the batter into a ceramic tagine and cover it with a lid.",
+    "Place the tagine in the oven and cook for 2 hours.",
+    "Remove the tagine from the oven and sprinkle the chopped parsley on top.",
+    "Let the dish rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "ceramic-tagine",
+    "lard-based",
+    "raw-friendly",
+    "slovakian-cuisine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "slow-cooked-slovakian-lard-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-slovakian-lard-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:08:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "bonito-shave",
+    "primaryIngredient": "lard",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lard",
+    "descriptor": "slow cooked",
+    "dishForm": "Tagine"
+  }
+}
