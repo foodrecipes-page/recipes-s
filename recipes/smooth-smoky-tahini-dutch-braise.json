@@ -1,0 +1,95 @@
+{
+  "title": "Smooth Smoky Tahini Dutch Braise",
+  "description": "A creamy, post-workout Dutch braise featuring rest-meat, tahini, and aromatic spices, cooked in a tandoor clay pot.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Rest-meat (pork or beef)",
+      "amount": "1 pound",
+      "notes": "pre-cooked, sliced into thin strips"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor clay pot over medium-high heat.",
+    "Add the sliced onion and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the rest-meat, garam masala, cumin powder, and paprika. Cook for 2-3 minutes, stirring occasionally.",
+    "Add the tahini and ghee. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-braise",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 33,
+    "carbs": 24,
+    "fat": 42
+  },
+  "slug": "smooth-smoky-tahini-dutch-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smooth-smoky-tahini-dutch-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "rest-meat",
+    "primaryIngredient": "tahini",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Tahini",
+    "descriptor": "Smooth Smoky",
+    "dishForm": "Braise"
+  }
+}

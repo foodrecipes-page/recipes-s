@@ -1,0 +1,108 @@
+{
+  "title": "smoke-hot vietnamese mussels bao",
+  "description": "Jammy and flaky, these smoke-hot mussels bao make for a satisfying solo dinner. This shojin-friendly dish is easily made in a banh-mi form.",
+  "cuisine": "vietnamese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "mussels",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tsp",
+      "notes": "smoky flavor enhancer"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted baguette",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "smoked chili flakes",
+      "amount": "1 tsp",
+      "notes": "smoke-hot flavor"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine miso paste, rice vinegar, fish sauce, sugar, and sesame oil. Heat over medium heat, whisking until the mixture is smooth and slightly thickened.",
+    "Add the mussels to the saucepan and cook, stirring occasionally, until they're heated through and starting to open, about 5 minutes.",
+    "Meanwhile, toast the baguette slices until crispy.",
+    "To assemble the bao, place a few mussels on each toasted baguette slice, followed by a spoonful of the miso sauce, some cilantro, and pickled carrots.",
+    "Sprinkle with smoked chili flakes and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "mussels",
+    "one-pan",
+    "shojin-friendly",
+    "smoke-hot",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "smoke-hot-vietnamese-mussels-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-vietnamese-mussels-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:58Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "smoke-hot",
+    "primaryIngredient": "mussels",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "mussels",
+    "descriptor": "smoke-hot",
+    "dishForm": "Bao"
+  }
+}

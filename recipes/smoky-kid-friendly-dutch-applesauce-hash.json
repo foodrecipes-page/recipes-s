@@ -1,0 +1,78 @@
+{
+  "title": "smoky kid-friendly dutch applesauce hash",
+  "description": "a smoky, light, and kid-friendly dutch dish featuring applesauce and crispy hash browns in a molcajete.",
+  "cuisine": "dutch",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "applesauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded potato",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat a skillet over medium-high heat.",
+    "add the shredded potato and cook until golden brown.",
+    "mix in the applesauce, smoked paprika, garlic powder, and salt.",
+    "transfer the hash to a molcajete and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hash",
+    "kid-friendly",
+    "one-dish",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "smoky-kid-friendly-dutch-applesauce-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-kid-friendly-dutch-applesauce-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "smoke-cold",
+    "primaryIngredient": "applesauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "applesauce",
+    "descriptor": "Smoky Kid-Friendly",
+    "dishForm": "Hash"
+  }
+}

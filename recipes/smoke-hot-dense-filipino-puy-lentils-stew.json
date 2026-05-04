@@ -1,0 +1,115 @@
+{
+  "title": "Smoke-Hot Dense Filipino Puy-Lentils Stew",
+  "description": "A briny, dense hangover-cure Filipino dish featuring puy-lentils and a smoke-hot flavor profile, suitable for those who can't handle onions or garlic.",
+  "cuisine": "Filipino",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "puy lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pork belly",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crushed black peppercorns",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "black vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Place the lentils in a large pot and cover with 4 cups of water.",
+    "Bring the water to a boil, then reduce heat to a simmer and cook the lentils for 20 minutes.",
+    "Meanwhile, in a separate pan, cook the pork belly over medium heat until crispy, then chop into small pieces.",
+    "Add the cooked pork belly, fish sauce, black peppercorns, coriander, smoked paprika, and salt to the pot with the lentils.",
+    "Stir to combine and cook for an additional 5 minutes.",
+    "Add the water and chili flakes to the pot and stir to combine.",
+    "Bring the stew to a boil, then reduce heat to a simmer and cook for 30 minutes, or until the lentils are tender.",
+    "Garnish with chopped cilantro before serving.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 55,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "puy-lentils",
+    "smoke-hot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 100,
+    "fat": 40
+  },
+  "slug": "smoke-hot-dense-filipino-puy-lentils-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-dense-filipino-puy-lentils-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:37Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "smoke-hot",
+    "primaryIngredient": "puy-lentils",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "puy-lentils",
+    "descriptor": "smoke-hot dense",
+    "dishForm": "stew"
+  }
+}
