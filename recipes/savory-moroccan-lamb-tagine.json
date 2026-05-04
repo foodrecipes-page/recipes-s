@@ -1,0 +1,108 @@
+{
+  "title": "Savory Moroccan Lamb Tagine",
+  "description": "A rich and flavorful Moroccan dish featuring lamb, cardamom, and a blend of spices, resulting in a fatty and molten texture. This recipe is perfect for special occasions and is sure to impress your guests.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless and cut into 2 inch pieces"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the lamb pieces and cook until they are browned on all sides, about 5 minutes.",
+    "Add the crushed cardamom pods, cumin, coriander, and cayenne pepper, and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, honey, and salt and pepper to taste, and bring the mixture to a boil.",
+    "Cover the tagine or Dutch oven and transfer it to the oven, where it will cook for 2.5 hours, or until the lamb is very tender.",
+    "Remove the tagine or Dutch oven from the oven and let it cool slightly before serving.",
+    "Serve the lamb and sauce over couscous or rice, garnished with chopped fresh herbs and a dollop of yogurt if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "north-african-food",
+    "one-pot-meals",
+    "special-occasions"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "savory-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:32:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "emulsify",
+    "primaryIngredient": "cardamom",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Savory",
+    "dishForm": "Tagine"
+  }
+}
