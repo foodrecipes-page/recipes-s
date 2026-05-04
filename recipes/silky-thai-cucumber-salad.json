@@ -1,0 +1,100 @@
+{
+  "title": "Silky Thai Cucumber Salad",
+  "description": "A light, glassy Thai cucumber salad with creamy Greek yogurt, zesty lime, and a hint of chili, finished with toasted peanut crunch.",
+  "cuisine": "Thai",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "400 g"
+    },
+    {
+      "name": "carrot",
+      "amount": "50 g"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200 g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "15 ml"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "5 ml"
+    },
+    {
+      "name": "crushed chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "10 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "5 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "30 g"
+    }
+  ],
+  "instructions": [
+    "Thinly slice cucumber into matchsticks with a mandoline or knife.",
+    "Julienne the carrot into fine ribbons.",
+    "In a bowl, combine Greek yogurt, lime juice, fish sauce, maple syrup, and chili flakes; whisk until smooth.",
+    "Toss cucumber and carrot ribbons into the yogurt dressing, coating evenly.",
+    "Fold in chopped cilantro and mint, reserving a handful for garnish.",
+    "Transfer the salad to a serving dish and sprinkle the crushed peanuts on top.",
+    "Chill the salad in the refrigerator for 5 minutes before serving.",
+    "Serve immediately with a garnish of extra cilantro and mint, and a light drizzle of lime if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "no-cook",
+    "quick",
+    "salad",
+    "thai",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 15
+  },
+  "slug": "silky-thai-cucumber-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-thai-cucumber-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:23:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "score-fat",
+    "primaryIngredient": "greek yogurt",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Cucumber",
+    "descriptor": "Silky",
+    "dishForm": "Salad"
+  }
+}
