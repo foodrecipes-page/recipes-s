@@ -1,0 +1,115 @@
+{
+  "title": "Sour Ethiopian Brie Stew",
+  "description": "A tangy, cheese-pull stew that marries creamy Brie with dashi, berbere, and fresh acidity for a lazy Sunday Ethiopian dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brie cheese",
+      "amount": "200g",
+      "notes": "cut into cubes, soft and meltable"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "200ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "300g",
+      "notes": "no added sugar"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "1 tbsp",
+      "notes": "dry"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for acidity"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a bamboo tray over medium heat and drizzle with olive oil.",
+    "Add onions and sauté until translucent.",
+    "Stir in garlic, ginger, and berbere spice until fragrant, about 1 minute.",
+    "Pour in tomato sauce and vegetable broth, and bring to a gentle simmer.",
+    "Add dashi extract and lemon juice, season with salt and pepper, and simmer for 10 minutes to develop acidity.",
+    "Gently fold in Brie cubes, allowing them to melt into the stew while keeping some chunks for pull.",
+    "Transfer the warm stew onto the bamboo tray, cover loosely with foil, and let rest for 5 minutes for the cheese to set.",
+    "Serve hot with a drizzle of extra olive oil, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "ethiopian",
+    "lazy-sunday",
+    "low-glycemic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 12
+  },
+  "slug": "sour-ethiopian-brie-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-ethiopian-brie-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:13:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "dashi-extract",
+    "primaryIngredient": "brie",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Brie",
+    "descriptor": "Sour",
+    "dishForm": "Stew"
+  }
+}
