@@ -1,0 +1,108 @@
+{
+  "title": "Savory Shattering Mexican Almonds Tacos Al Pastor",
+  "description": "A vegan-friendly, umami-rich Mexican dish featuring almond milk and shattering textures, perfect for a hangover cure. This tacos al pastor recipe combines the flavors of Mexico with the creaminess of almond milk.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the almond milk in a bain-marie to 160 degrees Fahrenheit.",
+    "Add the pineapple juice, onion, garlic, mushrooms, chipotle peppers, cumin, and paprika to the almond milk and simmer for 10 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the almond milk mixture onto a tortilla and topping with sliced almonds.",
+    "Shatter the almonds by placing them in a plastic bag and hitting them with a rolling pin.",
+    "Sprinkle the shattered almonds over the top of the tacos.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional sliced almonds and chipotle peppers if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almonds",
+    "hangover-cure",
+    "mexican",
+    "shattering",
+    "tacos",
+    "umami",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "savory-shattering-mexican-almonds-tacos-al-pastor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-shattering-mexican-almonds-tacos-al-pastor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:29:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "bain-marie",
+    "primaryIngredient": "almond milk",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "almonds",
+    "descriptor": "Savory Shattering",
+    "dishForm": "Tacos Al Pastor"
+  }
+}
