@@ -1,0 +1,116 @@
+{
+  "title": "Smoky Argentinian Skewers Kebabs",
+  "description": "Crispy and flavorful, these skewers are a kid-friendly twist on traditional Argentinian asado.",
+  "cuisine": "argentinian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chimichurri",
+      "amount": "4 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread pork, chicken, red bell pepper, onion, and garlic onto skewers, leaving space between each piece.",
+    "Brush olive oil on both sides of the meat and vegetables.",
+    "Season with oregano, salt, pepper, and paprika.",
+    "Grill skewers for 8-10 minutes on each side, or until cooked through.",
+    "Meanwhile, mix Worcestershire sauce with chimichurri in a small bowl.",
+    "Brush the sauce mixture onto the skewers during the last 2 minutes of cooking.",
+    "Remove skewers from grill and let rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "grilled",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 384,
+    "protein": 46,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "smoky-argentinian-skewers-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-argentinian-skewers-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:54:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "skewers",
+    "descriptor": "smoky",
+    "dishForm": "kebabs"
+  }
+}
