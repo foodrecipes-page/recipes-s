@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Creamy Brazilian Fish Stew",
+  "description": "A comforting, smoky and creamy fish stew that is sugar‑free and perfect for a sick day, served in scallop shells for an elegant touch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "400 g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fish sauce nam pla",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 inch",
+      "notes": "minced"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "12 shells",
+      "notes": "cleaned, used as vessel"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat and lightly oil it to prevent sticking.",
+    "Season cod fillets with salt and pepper, then sear them in the skillet until golden brown on both sides, about 2 minutes per side.",
+    "Reduce heat to low, pour coconut milk over the fillets, and let it simmer gently for 5 minutes.",
+    "Stir in fish sauce nam pla, lime juice, minced garlic, minced ginger, and smoked paprika, allowing the flavors to meld for another 3 minutes.",
+    "Transfer the fillets and broth into cleaned scallop shells, filling each shell almost to the top.",
+    "Garnish each shell with a drizzle of the glaze mixture, made by simmering the remaining sauce with an extra pinch of smoked paprika until slightly thickened.",
+    "Cover the scallop shells with foil and steam them on low heat for 5 minutes to finish cooking the fish.",
+    "Remove from heat, let rest for 2 minutes, then serve the smoky creamy stew in the scallop shells with fresh lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "fish",
+    "gluten-free",
+    "one-pot",
+    "sick-day",
+    "smoky",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 98,
+    "carbs": 11,
+    "fat": 44
+  },
+  "slug": "smoky-creamy-brazilian-fish-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-creamy-brazilian-fish-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:09:56Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Fish",
+    "descriptor": "Smoky Creamy",
+    "dishForm": "Stew"
+  }
+}
