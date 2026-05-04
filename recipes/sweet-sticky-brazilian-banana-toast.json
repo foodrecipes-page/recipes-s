@@ -1,0 +1,89 @@
+{
+  "title": "Sweet Sticky Brazilian Banana Toast",
+  "description": "A sweet and nostalgic Brazilian dish featuring caramelized banana and toast, perfect for a delicious snack or dessert. This egg-free friendly recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4 large",
+      "notes": "ripe"
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Butter one side of each bread slice.",
+    "Place two slices of bread, buttered side down, in the skillet.",
+    "Top each bread slice with a sliced banana.",
+    "Sprinkle granulated sugar over the banana slices.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the sugar is caramelized.",
+    "Flip the bread slices over and cook for an additional 1-2 minutes.",
+    "In a small bowl, mix together water, lemon juice, and cinnamon.",
+    "Brush the mixture over the banana slices.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "quick-snack",
+    "sweet-tooth",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "sweet-sticky-brazilian-banana-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-sticky-brazilian-banana-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:40:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "banana",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "banana",
+    "descriptor": "sweet sticky",
+    "dishForm": "Toast"
+  }
+}
