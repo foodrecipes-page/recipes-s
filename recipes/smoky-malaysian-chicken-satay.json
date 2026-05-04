@@ -1,0 +1,94 @@
+{
+  "title": "Smoky Malaysian Chicken Satay",
+  "description": "A low sodium and wine infused Malaysian dish featuring char grilled chicken and fries, served on a talavera plate.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into satay strips"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium high heat.",
+    "In a large bowl, whisk together coconut milk, red wine, soy sauce, brown sugar, coriander, and cumin.",
+    "Add the chicken to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "While the chicken is cooking, heat the peanut oil in a large pot to 350 degrees.",
+    "Fry the fries in the peanut oil until crispy and golden brown.",
+    "Serve the grilled chicken on a talavera plate with the fried fries and your choice of dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "low-sodium",
+    "malaysian-cuisine",
+    "talavera-plate",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "smoky-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:18:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "fries",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "smoky savory",
+    "dishForm": "Satay"
+  }
+}
