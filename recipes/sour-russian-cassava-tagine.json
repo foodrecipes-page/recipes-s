@@ -1,0 +1,115 @@
+{
+  "title": "Sour Russian Cassava Tagine",
+  "description": "A tangy, gooey monsoon-inspired Russian dish featuring cassava and a manteca-emulsify sauce cooked in a traditional tajine clay vessel.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassava",
+      "amount": "1 kg",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "200 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "100 g",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200 ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tbsp",
+      "notes": "white or apple cider"
+    }
+  ],
+  "instructions": [
+    "Preheat the tajine clay to a medium heat.",
+    "Heat olive oil in the tajine until shimmering and add diced onion, cooking until softened.",
+    "Stir in minced garlic, grated ginger, and tomato paste, sautéing until fragrant.",
+    "Add diced cassava, sliced carrots, smoked paprika, and thyme, tossing to coat the vegetables.",
+    "Pour in vegetable broth, soy sauce, and vinegar, then stir in tomato paste again for thickness.",
+    "Cover the tajine with its lid, reduce heat to low, and let the tagine simmer for 45 minutes, stirring occasionally.",
+    "Check the cassava for tenderness; if tender, remove the lid and increase heat for 5 minutes to thicken the sauce.",
+    "Taste and adjust seasoning with salt, pepper, and additional vinegar if desired.",
+    "Transfer the tagine to a serving dish and drizzle with a splash of olive oil for shine.",
+    "Garnish with chopped fresh parsley or dill before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory-friendly",
+    "gluten-free",
+    "monsoon-flavor",
+    "one-pot",
+    "sour",
+    "traditional",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "sour-russian-cassava-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-russian-cassava-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:29:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "cassaba",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cassava",
+    "descriptor": "Sour",
+    "dishForm": "Tagine"
+  }
+}
