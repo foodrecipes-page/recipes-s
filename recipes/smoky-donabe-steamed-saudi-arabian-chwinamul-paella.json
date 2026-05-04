@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Donabe Steamed Saudi Arabian Chwinamul Paella",
+  "description": "A smoky, springy, and show-off dish from Saudi Arabia featuring chwinamul and shio-cure, all cooked in a donabe.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "200g",
+      "notes": "fresh or frozen, cut into 1-inch pieces"
+    },
+    {
+      "name": "shio-cure carrots",
+      "amount": "3",
+      "notes": "peeled and sliced into 1/4-inch thick rounds"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "donabe with lid",
+      "amount": "1",
+      "notes": "preferably Japanese ceramic donabe"
+    },
+    {
+      "name": "rice",
+      "amount": "100g",
+      "notes": "short-grain rice, rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "peeled and sliced into 1/4-inch thick rings"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe over medium heat.",
+    "Add olive oil and sauté the onion and garlic until softened, about 3 minutes.",
+    "Add the rice and stir-fry for 2-3 minutes.",
+    "Add the smoked paprika and stir to combine.",
+    "Add the chwinamul and shio-cure carrots, stir-fry for another 2 minutes.",
+    "Pour in 400ml of water and bring to a boil.",
+    "Cover the donabe with the lid and transfer to the oven.",
+    "Bake at 375°F (190°C) for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from the oven and stir in the lemon juice and salt.",
+    "Serve hot and garnish with fresh herbs if desired.",
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe",
+    "high-protein",
+    "one-pan",
+    "saudi-arabian",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "smoky-donabe-steamed-saudi-arabian-chwinamul-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-donabe-steamed-saudi-arabian-chwinamul-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T06:23:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "shio-cure",
+    "primaryIngredient": "chwinamul",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "saudi arabian",
+    "mainIngredient": "chwinamul",
+    "descriptor": "smoky donabe steamed",
+    "dishForm": "paella"
+  }
+}
