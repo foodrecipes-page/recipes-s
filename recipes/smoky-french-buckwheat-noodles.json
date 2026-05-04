@@ -1,0 +1,98 @@
+{
+  "title": "Smoky French Buckwheat Noodles",
+  "description": "A cultured and chewy French dish featuring strong wholemeal flour, this macrobiotic-friendly recipe is a great hangover cure. It is cooked to perfection in a bamboo steamer.",
+  "cuisine": "French",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups",
+      "notes": "wholemeal"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Reduce the heat to a simmer and add the smoked paprika, garlic, onion, and mushrooms.",
+    "In a large bowl, whisk together the buckwheat flour and a pinch of salt.",
+    "Gradually add the hot broth to the flour mixture, stirring with a fork until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a long rope.",
+    "Cut the rope into 1/4 inch thick slices to form the noodles.",
+    "Place the noodles in a bamboo steamer lined with parchment paper.",
+    "Steam the noodles over boiling water for 10 minutes.",
+    "Drizzle the noodles with olive oil and season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "french",
+    "macrobiotic",
+    "noodles",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "smoky-french-buckwheat-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-french-buckwheat-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:18:51Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "smoke-hot",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "buckwheat",
+    "descriptor": "smoke hot",
+    "dishForm": "Noodles"
+  }
+}
