@@ -1,0 +1,96 @@
+{
+  "title": "Silky Smooth Indian Lentil Curry",
+  "description": "A herbal and fluffy Indian dish featuring ground clove and confit-tomato, perfect for a date-night dinner, served in a scallop shell.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "ground clove",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add ground clove and cook for 1 minute.",
+    "Add red lentils, confit-tomato, and salt, and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes, or until the lentils are tender.",
+    "Use an immersion blender to puree the curry until smooth.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the curry in scallop shells, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "indian-cuisine",
+    "lentil-recipes",
+    "shojin-friendly",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "silky-smooth-indian-lentil-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-indian-lentil-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:06:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "confit-tomato",
+    "primaryIngredient": "ground clove",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "silky smooth",
+    "dishForm": "Curry"
+  }
+}
