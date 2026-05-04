@@ -1,0 +1,109 @@
+{
+  "title": "Savory Korean Tofu Stew with Vanilla",
+  "description": "A creamy, umami-packed Korean tofu stew that balances savory flavors with a hint of vanilla for depth, braised to perfection and suitable for Ayurvedic‑Rajasic diets.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "200 g",
+      "notes": "cut into 1.5 cm cubes"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "adds subtle sweetness"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium sliced"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Scallion",
+      "amount": "2 sliced",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a heavy pot over medium heat.",
+    "Add minced garlic and ginger, sauté until fragrant.",
+    "Add sliced carrot and mushrooms, cook until softened.",
+    "Pour in vegetable broth and bring to a gentle simmer.",
+    "Stir in soy sauce and vanilla extract, letting the flavors meld.",
+    "Add tofu cubes to the pot and simmer for 10 minutes.",
+    "Toss in spinach and cook until wilted.",
+    "Remove from heat, sprinkle toasted sesame seeds, and garnish with sliced scallion.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "high-protein",
+    "korean",
+    "one-pot",
+    "savory",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "savory-korean-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-korean-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:14:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "vanilla",
+    "diet": "ayurvedic-rajasic",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Savory",
+    "dishForm": "Stew"
+  }
+}
