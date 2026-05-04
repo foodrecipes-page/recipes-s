@@ -1,0 +1,89 @@
+{
+  "title": "Savory Sweet French Almond Wrap",
+  "description": "A garlicky and chewy French dish featuring almond essence, inspired by the cuisine of Brittany, wrapped in a gluten-free friendly ssam-wrap.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 large wraps",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, garlic, egg, and almond extract.",
+    "Add the butter and salt to the bowl and mix until a dough forms.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a large ssam-wrap on a flat surface and place a dough circle in the center of the wrap.",
+    "Fold the bottom half of the wrap up over the dough, then fold in the sides and roll the wrap up to form a tight cylinder.",
+    "Repeat with the remaining dough and wraps.",
+    "Place the wraps on a baking sheet and bake for 15 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "french-cuisine",
+    "gluten-free",
+    "lunch-ideas",
+    "wrap-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "savory-sweet-french-almond-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sweet-french-almond-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:59:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "almond essence",
+    "diet": "gluten-free",
+    "region": "brittany",
+    "cuisineAdjective": "french",
+    "mainIngredient": "almonds",
+    "descriptor": "savory sweet",
+    "dishForm": "Wrap"
+  }
+}
