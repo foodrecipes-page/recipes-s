@@ -1,0 +1,107 @@
+{
+  "title": "Slow Cooked Algerian Lamb Tagine",
+  "description": "A hearty and comforting Algerian dish featuring tender lamb in a rich caramel sauce, slow cooked to perfection in a tandoor style clay pot. This dish is perfect for a cold winter night.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay pot or slow cooker over medium heat.",
+    "Add the chopped onion and cook until it is lightly browned.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the cumin, coriander, salt, and pepper, and stir to combine.",
+    "Add the caramel sauce and chicken broth, and stir to combine.",
+    "Cover the clay pot or slow cooker and transfer it to the oven or cook on low for 8 hours.",
+    "After 8 hours, remove the pot from the oven or turn off the slow cooker and let it cool slightly.",
+    "Serve the lamb and sauce over couscous or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 480,
+  "totalTimeMin": 510,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "north-african",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "slow-cooked-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:38:50Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "caramel sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "slow cooked",
+    "dishForm": "Tagine"
+  }
+}
