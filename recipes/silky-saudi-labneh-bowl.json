@@ -1,0 +1,91 @@
+{
+  "title": "Silky Saudi Labneh Bowl",
+  "description": "A creamy, briny labneh bowl infused with cardamom and drizzled with olive oil, topped with fresh herbs, toasted pine nuts, and a sprinkling of pistachios for a fragrant brunch treat.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Labneh yogurt",
+      "amount": "250g"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted pine nuts",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pistachios, shelled",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Whisk the labneh until silky smooth.",
+    "Fold in the chopped mint, cardamom, black pepper, and a pinch of sea salt.",
+    "Squeeze the lemon juice over the mixture and stir gently."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "cardamom",
+    "lacto-vegetarian",
+    "no-cook",
+    "quick",
+    "saudi",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 22,
+    "carbs": 18,
+    "fat": 38
+  },
+  "slug": "silky-saudi-labneh-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-saudi-labneh-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:23:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "cardamom",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "labneh",
+    "descriptor": "Silky",
+    "dishForm": "Bowl"
+  }
+}
