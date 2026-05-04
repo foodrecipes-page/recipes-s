@@ -1,0 +1,104 @@
+{
+  "title": "Smoky German Runner Bean Stew",
+  "description": "A hearty and nostalgic German dish featuring charred runner beans in a smoky stew, cooked to perfection in a donabe vessel, low in calories and rich in flavor.",
+  "cuisine": "German",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe vessel over medium heat and char the runner beans for 5 minutes on each side.",
+    "Remove the charred runner beans from the donabe and set aside.",
+    "Add the chopped onion to the donabe and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the donabe and cook for 1 minute, until fragrant.",
+    "Stir in the smoked paprika and caraway seeds and cook for 1 minute.",
+    "Add the vegetable broth, tomato paste, salt, and black pepper to the donabe and bring to a boil.",
+    "Reduce the heat to low and add the charred runner beans back to the donabe.",
+    "Simmer the stew for 20 minutes, or until the runner beans are tender.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "hearty",
+    "low-calorie",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "smoky-german-runner-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-german-runner-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:57:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "smoke-cold",
+    "primaryIngredient": "runner beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "runner beans",
+    "descriptor": "smoke cold",
+    "dishForm": "Stew"
+  }
+}
