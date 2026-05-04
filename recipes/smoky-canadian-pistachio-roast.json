@@ -1,0 +1,105 @@
+{
+  "title": "Smoky Canadian Pistachio Roast",
+  "description": "A smoky, crisp roast infused with a creamy pistachio paste, recalling Canadian forest flavors, perfect for an anti-inflammatory diet.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g",
+      "notes": "slice into 2cm thick pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pistachios",
+      "amount": "50g",
+      "notes": "unsalted, shelled"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Trim and pat dry chicken breast, then slice into 2cm thick pieces.",
+    "Whisk together olive oil, maple syrup, smoked paprika, cumin, salt, pepper, and lemon juice to create a glaze.",
+    "Coat chicken pieces evenly with glaze and let marinate for 15 minutes.",
+    "Blend pistachios with oat flour until a fine paste forms.",
+    "Heat bamboo steamer over medium heat and arrange chicken flat on parchment lined tray.",
+    "Steam chicken for 12 minutes until cooked through and juices run clear.",
+    "Remove from steamer and brush pistachio paste over the hot chicken to coat the surface.",
+    "Return to steamer for an additional 3 minutes to set the paste and create a smoky crust.",
+    "Serve immediately, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "bamboo-steamer",
+    "canadian",
+    "gluten-free",
+    "low-carb",
+    "quick",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 54,
+    "carbs": 30,
+    "fat": 53
+  },
+  "slug": "smoky-canadian-pistachio-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-canadian-pistachio-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:16:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "roast",
+    "primaryIngredient": "pistachio paste",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pistachio",
+    "descriptor": "Smoky",
+    "dishForm": "Roast"
+  }
+}
