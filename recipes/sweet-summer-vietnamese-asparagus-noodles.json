@@ -1,0 +1,97 @@
+{
+  "title": "Sweet Summer Vietnamese Asparagus Noodles",
+  "description": "A tangy and refreshing Vietnamese dish featuring asparagus, perfect for a lazy Sunday, and friendly to sugar-free diets.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "asparagus",
+      "amount": "1 lb",
+      "notes": "trimmed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "Drain and rinse the noodles with cold water to stop the cooking process.",
+    "Cut the asparagus into 1-inch pieces and set aside.",
+    "In a large bowl, whisk together the fish sauce, lime juice, grated ginger, and garlic.",
+    "Add the cooked noodles to the bowl and toss to combine with the sauce.",
+    "Add the asparagus to the bowl and toss to combine.",
+    "Season with salt to taste.",
+    "Sprinkle the chopped peanuts over the top of the noodles and serve in a tagliere.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "lazy-sunday",
+    "noodle-dish",
+    "sugar-free",
+    "tagliere",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "sweet-summer-vietnamese-asparagus-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-summer-vietnamese-asparagus-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:09:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "asparagus",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "asparagus",
+    "descriptor": "sweet summer",
+    "dishForm": "Noodles"
+  }
+}
