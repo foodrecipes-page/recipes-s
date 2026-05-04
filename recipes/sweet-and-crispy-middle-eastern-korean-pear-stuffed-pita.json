@@ -1,0 +1,95 @@
+{
+  "title": "sweet and crispy middle-eastern korean-pear stuffed pita",
+  "description": "a savory, creamy middle-eastern dish featuring korean pear, perfect for a solo dinner.",
+  "cuisine": "middle eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "korean pear",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "minced lamb",
+      "amount": "250",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "warm pita bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°f.",
+    "cut the pita bread in half and hollow out the insides, leaving a 1-inch border around the edges.",
+    "in a pan, heat 1 tablespoon of oil over medium heat and cook the minced lamb until browned, breaking it up with a spoon as it cooks.",
+    "add the chopped onion to the pan and cook until translucent."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "sweet-and-crispy-middle-eastern-korean-pear-stuffed-pita",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-crispy-middle-eastern-korean-pear-stuffed-pita",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "korean-pear",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Korean-Pear",
+    "descriptor": "Sweet and Crispy",
+    "dishForm": "Stuffed-Pita"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Floral Fiordilatte Delight",
+  "description": "A creamy Chinese-inspired dish featuring fiordilatte, double-rise bread, and edible flowers. Perfect for a solo dinner",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fiordilatte cheese (150g)",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Double-rise bread (4 slices)",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "Ginger (1 inch piece)",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions (2 stalks)",
+      "amount": "1 stalk",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Water (for breading)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the double-rise bread into 1-inch cubes.",
+    "In a bowl, whisk together honey, soy sauce, and grated ginger.",
+    "Dip each bread cube into the honey mixture, then coat with toasted sesame seeds.",
+    "Place the coated bread cubes on a baking sheet lined with parchment paper.",
+    "Bake for 12 minutes, or until golden brown.",
+    "Meanwhile, slice the fiordilatte cheese into 1/2-inch thick slices.",
+    "In a small saucepan, melt the cheese over low heat, stirring constantly.",
+    "Add the chopped fresh mint leaves and chives to the melted cheese and stir to combine.",
+    "To assemble the dish, place a toasted bread cube on each plate, followed by a slice of the cheese mixture, and finish with a sprinkle of toasted sesame seeds and thinly sliced scallions.",
+    "Garnish with additional fresh mint leaves, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "cheese",
+    "chinese",
+    "dinner",
+    "solo",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "silky-floral-chinese-fiordilatte-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-floral-chinese-fiordilatte-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:34Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "fiordilatte",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "fiordilatte",
+    "descriptor": "silky floral",
+    "dishForm": "dinner"
+  }
+}

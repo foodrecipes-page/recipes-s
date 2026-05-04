@@ -1,0 +1,124 @@
+{
+  "title": "Spicy Vietnamese Parmesan Bun Rieu",
+  "description": "A spicy twist on traditional Bun Rieu, featuring crispy pork rinds and melted parmesan cheese. This comforting Vietnamese dish is perfect for a weeknight dinner.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork rinds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bean paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish balls",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat. Thread the pork rinds onto skewers. Grill the pork rinds for 2-3 minutes per side, or until crispy. In a large pot, combine the ground pork, bean paste, palm sugar, fish sauce, lime juice, ginger, garlic, and red pepper flakes. Cook over medium heat, breaking up the pork with a spoon, until no longer pink. Add the parmesan cheese and stir until melted. Cook the rice noodles according to package instructions. Add the cooked noodles and fish balls to the pot and stir to combine. Taste and adjust the seasoning as needed. To assemble the bowls, place a portion of the noodle mixture into the bottom of a bowl. Top with cilantro, scallions, and crushed peanuts. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "spicy-vietnamese-parmesan-bun-rieu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-vietnamese-parmesan-bun-rieu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "parmesan",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "parmesan",
+    "descriptor": "spicy",
+    "dishForm": "Bun Rieu"
+  }
+}
