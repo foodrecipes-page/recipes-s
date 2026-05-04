@@ -1,0 +1,109 @@
+{
+  "title": "sick-day salty brazilian mung bean sprouts bowl",
+  "description": "a comforting and healthy bowl featuring caramelized mung bean sprouts, crispy yuca, and creamy avocado, perfect for a sick day.",
+  "cuisine": "brazilian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yuca",
+      "amount": "1 large",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "2 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large skillet over medium heat.",
+    "add sliced onion and cook until caramelized, about 8 minutes.",
+    "add minced garlic and cook for 1 minute, until fragrant.",
+    "add yuca and cook until golden brown, about 5 minutes.",
+    "add cumin and cook for 1 minute, until fragrant.",
+    "add mung bean sprouts and cook until tender, about 3-4 minutes.",
+    "season with salt and black pepper to taste.",
+    "serve over rice or enjoy on its own, topped with diced avocado, chopped cilantro, and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "sick-day-salty-brazilian-mung-bean-sprouts-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-salty-brazilian-mung-bean-sprouts-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "sick-day salty",
+    "dishForm": "Bowl"
+  }
+}

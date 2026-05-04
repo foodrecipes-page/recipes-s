@@ -1,0 +1,108 @@
+{
+  "title": "Spicy Ethiopian Cheese Wrap",
+  "description": "A spicy, cheese-pull Ethiopian dish that is kid-friendly and features cream of tartar, beurre-monte, and is raw-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Injera flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cream of tartar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Berbere spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add 1 tablespoon of vegetable oil to the skillet and swirl to coat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the berbere spice blend and cook for 1 minute, stirring constantly.",
+    "Add the crumbly cottage cheese and cook, stirring occasionally, until melted and smooth.",
+    "Add the softened butter and stir until combined.",
+    "Meanwhile, prepare the beurre-monte by whipping 1 cup of heavy cream until stiff peaks form.",
+    "Add 1 tablespoon of cream of tartar to the whipped cream and whip until stiff peaks form again.",
+    "To assemble the wraps, place a large piece of injera flatbread on a work surface.",
+    "Spread a portion of the cheese mixture onto the center of the injera, leaving a 1-inch border around the edges.",
+    "Top the cheese with a dollop of beurre-monte and fold the edges of the injera over the filling to enclose."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "spicy-ethiopian-cheese-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-ethiopian-cheese-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "cream of tartar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cheese",
+    "descriptor": "spicy",
+    "dishForm": "Wrap"
+  }
+}
