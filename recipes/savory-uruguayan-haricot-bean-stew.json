@@ -1,0 +1,101 @@
+{
+  "title": "Savory Uruguayan Haricot Bean Stew",
+  "description": "A traditional Uruguayan dish featuring haricot beans, this stew is a fatty and springy nostalgic treat, made with fry grind rice khuao khuah and is gluten free friendly, cooked to perfection in a Dutch oven.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "fry grind rice khuao khuah",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the haricot beans according to package instructions and set aside.",
+    "Heat the olive oil in the Dutch oven over medium heat.",
+    "Add the sliced pork sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the cooked haricot beans, cooked fry grind rice khuao khuah, salt, and black pepper to the Dutch oven.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bean-stew",
+    "comfort-food",
+    "gluten-free",
+    "homestyle",
+    "one-pot",
+    "pork-sausage",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "savory-uruguayan-haricot-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-uruguayan-haricot-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:05:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "haricot beans",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "haricot beans",
+    "descriptor": "springy savory",
+    "dishForm": "Stew"
+  }
+}
