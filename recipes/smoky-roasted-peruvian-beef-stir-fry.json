@@ -1,0 +1,123 @@
+{
+  "title": "Smoky Roasted Peruvian Beef Stir-fry",
+  "description": "Tender roasted beef served in a smoky tamarind sauce and wrapped in fragrant pandan leaves, a romantic lomo saltado that is both Buddhist temple friendly and full of flavor.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "400g",
+      "notes": "sliced into 1cm thick strips for lomo saltado"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "2",
+      "notes": "washed and trimmed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and place 400g beef slices on a rack to roast.",
+    "Roast beef for 8 minutes until browned, then remove and set aside to rest.",
+    "Heat 2 tbsp oil in a pan, add sliced onion, bell pepper and carrot, and stir for 3 minutes until tender.",
+    "Add diced tomato, cumin, smoked paprika, and stir for another 2 minutes.",
+    "Pour in tamarind paste, soy sauce, lime juice, salt, and black pepper; cook for 3 minutes until sauce reduces.",
+    "Slice rested beef into thin strips and add to the pan, sauté for 2 minutes to combine flavors.",
+    "Lay pandan leaves on a flat surface, spoon the beef mixture onto each leaf, roll tightly, and secure with kitchen twine.",
+    "Steam the wrapped parcels for 5 minutes, then serve hot beside a fresh cilantro garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "lomo-saltado",
+    "pandan-wrap",
+    "peruvian",
+    "romantic",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "smoky-roasted-peruvian-beef-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-peruvian-beef-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:32:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "tamarind paste",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
