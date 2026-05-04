@@ -1,0 +1,97 @@
+{
+  "title": "Sweet Sticky Malaysian Chicken Bao",
+  "description": "A kid-friendly Malaysian dish featuring caramelized chicken and long-fermentation-dough, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, honey, ginger, and garlic to make the marinade.",
+    "Add the chicken to the marinade and mix well to coat.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Roll out the long fermentation dough to a thickness of about 1/4 inch.",
+    "Spoon about 1 tablespoon of caramel sauce onto the center of each dough circle.",
+    "Place a few pieces of the marinated chicken onto the caramel sauce.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges to seal.",
+    "Brush the tops of the bao with sesame oil.",
+    "Bake the bao for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "caramelized-chicken",
+    "dinner-ideas",
+    "gluten-free",
+    "kid-friendly",
+    "long-fermentation-dough",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "sweet-sticky-malaysian-chicken-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-sticky-malaysian-chicken-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:51:36Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "caramel",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "sweet sticky",
+    "dishForm": "Bao"
+  }
+}
