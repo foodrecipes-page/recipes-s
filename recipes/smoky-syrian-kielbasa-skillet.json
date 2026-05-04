@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Syrian Kielbasa Skillet",
+  "description": "A flavorful Syrian dish featuring charred kielbasa and fluffy double-fry potatoes, perfect for a brunch mood. This recipe is low-fat friendly and serves as a great option for a weeknight meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced kielbasa and cook until browned, about 5 minutes.",
+    "Remove the kielbasa from the skillet and set aside.",
+    "Add the diced potatoes to the skillet and cook until they start to brown, about 5 minutes.",
+    "Add the chopped onion and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the minced garlic, smoked paprika, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the cooked kielbasa back to the skillet and stir to combine with the vegetables and spices.",
+    "Reduce heat to medium-low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Serve the smoky Syrian kielbasa skillet hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "kielbasa-recipes",
+    "low-fat-meals",
+    "one-pan-meals",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "smoky-syrian-kielbasa-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-syrian-kielbasa-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:29:01Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "kielbasa",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Smoky",
+    "dishForm": "Skillet"
+  }
+}
