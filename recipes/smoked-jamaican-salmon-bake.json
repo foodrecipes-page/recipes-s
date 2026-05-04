@@ -1,0 +1,56 @@
+{
+  "title": "Smoked Jamaican Salmon Bake",
+  "description": "A sweet and savory Jamaican-inspired dish featuring smoked salmon, perfect for a date-night dinner. The combination of flavors and textures will leave you wanting more.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "1 pound",
+      "notes": "Look for salmon that has been smoked with a sweet and spicy flavor profile"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400\u000098F (200\u0000dC).",
+    "Line a baking sheet with parchment paper and arrange the smoked salmon in a single layer.",
+    "Mix together the brown sugar, allspice, thyme, and lime juice to create a Jamaican-inspired glaze.",
+    "Brush the glaze evenly over the top of the salmon, making sure to cover the entire surface."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-end",
+    "one-pan",
+    "pescatarian",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "smoked-jamaican-salmon-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-jamaican-salmon-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:25:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "smoked salmon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "salmon",
+    "descriptor": "Smoked",
+    "dishForm": "Bake"
+  }
+}
