@@ -1,0 +1,102 @@
+{
+  "title": "sweet gooey australian tomato confit",
+  "description": "a sweet, gooey, hangover-cure australian dish featuring sweetened condensed milk and confit-tomatoes",
+  "cuisine": "australian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ripe tomatoes (2 kg)",
+      "amount": "2 kilos",
+      "notes": "halved"
+    },
+    {
+      "name": "sugar (200g)",
+      "amount": "200 grams",
+      "notes": "brown sugar"
+    },
+    {
+      "name": "salt (10g)",
+      "amount": "10 grams",
+      "notes": "coarse salt"
+    },
+    {
+      "name": "sweetened condensed milk (1L)",
+      "amount": "1 liter",
+      "notes": "full-fat"
+    },
+    {
+      "name": "balsamic vinegar (100ml)",
+      "amount": "100 milliliters",
+      "notes": "high-quality"
+    },
+    {
+      "name": "olive oil (50ml)",
+      "amount": "50 milliliters",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion (1 small)",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 140c (284f)",
+    "in a large bowl, combine tomatoes, sugar, salt, and minced garlic",
+    "mix until the tomatoes release their juices and the mixture is well combined",
+    "transfer the mixture to a large, oven-safe pot or Dutch oven",
+    "add the sweetened condensed milk, balsamic vinegar, and olive oil to the pot",
+    "stir until the sweetened condensed milk is well combined with the tomato mixture",
+    "cover the pot with a lid and transfer to the preheated oven",
+    "bake for 2 hours, stirring every 30 minutes",
+    "remove the pot from the oven and let it cool slightly",
+    "serve the sweet, gooey tomato confit warm, garnished with chopped fresh herbs if desired",
+    "note: this dish can be made ahead and refrigerated or frozen for later use"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "breakfast",
+    "hangover-cure",
+    "one-pan",
+    "sweet",
+    "tomato-confit",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "sweet-gooey-australian-tomato-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-gooey-australian-tomato-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T16:50:25Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "confit-tomato",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "tomato",
+    "descriptor": "sweet gooey",
+    "dishForm": "confit"
+  }
+}
