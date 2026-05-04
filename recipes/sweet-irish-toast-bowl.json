@@ -1,0 +1,106 @@
+{
+  "title": "Sweet Irish Toast Bowl",
+  "description": "A crumbly, sweet breakfast bowl featuring toasted sourdough, fermented oat yogurt, and a medley of nuts, seeds, and berries. It is a perfect meal-prep option for a quick, macrobiotic-friendly start to the day.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sourdough bread",
+      "amount": "3 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "for toasting"
+    },
+    {
+      "name": "fermented oat yogurt",
+      "amount": "1 cup",
+      "notes": "smooth"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": "for crunch"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "2 tbsp",
+      "notes": "for nutrition"
+    },
+    {
+      "name": "toasted rolled oats",
+      "amount": "1/2 cup",
+      "notes": "for texture"
+    },
+    {
+      "name": "fresh berries",
+      "amount": "1 cup",
+      "notes": "strawberries and blueberries"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "sweet drizzle"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": "seasoning"
+    }
+  ],
+  "instructions": [
+    "Slice the sourdough bread into thick pieces and set aside.",
+    "Heat a non-stick skillet over medium heat and add the butter.",
+    "Place the bread slices in the skillet and toast until golden brown on both sides, about 2 minutes per side.",
+    "Transfer the toasted bread to a cutting board and slice each slice into bite‑sized cubes.",
+    "In a bowl, stir the fermented oat yogurt with a pinch of sea salt until smooth.",
+    "Spread a generous spoonful of the yogurt onto the center of each toasted bread cube.",
+    "Sprinkle the toasted rolled oats, chopped walnuts, and chia seeds evenly over the yogurt.",
+    "Top each toast cube with a handful of fresh berries and a drizzle of maple syrup.",
+    "Garnish with a fresh mint leaf and a light dusting of sea salt.",
+    "Serve immediately or store the components separately in the fridge to assemble before eating."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "irish",
+    "macrobiotic-friendly",
+    "meal-prep",
+    "sweet",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 307,
+    "protein": 7,
+    "carbs": 85,
+    "fat": 18
+  },
+  "slug": "sweet-irish-toast-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-irish-toast-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:42:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "toast",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "toast",
+    "descriptor": "Sweet",
+    "dishForm": "Bowl"
+  }
+}
