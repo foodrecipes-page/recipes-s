@@ -1,0 +1,121 @@
+{
+  "title": "Smoky Oven-Roasted Tunisian Chicken Tagine",
+  "description": "A smoky, crispy, and flavorful Tunisian dish featuring the unique spices of shichimi togarashi, slow-cooked to perfection for a date-night dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 8 pieces"
+    },
+    {
+      "name": "shichimi togarashi",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dates",
+      "amount": "4",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the chicken pieces with salt, black pepper, cumin, and paprika.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the chicken pieces until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the pitted dates, chicken broth, honey, and apricot jam to the pot.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Return the chicken to the pot and transfer to the preheated oven.",
+    "Roast the chicken for 25-30 minutes, or until cooked through.",
+    "Garnish with chopped cilantro and sprinkle with shichimi togarashi before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 27
+  },
+  "slug": "smoky-oven-roasted-tunisian-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-oven-roasted-tunisian-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:04:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Smoky Oven-Roasted",
+    "dishForm": "Tagine"
+  }
+}
