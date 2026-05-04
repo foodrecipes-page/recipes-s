@@ -1,0 +1,102 @@
+{
+  "title": "Sour Polish Potato Stew",
+  "description": "A one-pot, mustardy stew with grapefruit juice and toasted rye crumbs that delivers a bright, sour flavor and a crumbly texture in a low‑calorie package.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 medium, peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "toasted rye crumbs",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in the donabe over medium heat.",
+    "Add onion, celery, and carrot, sauté until onions are translucent.",
+    "Stir in potatoes and cook for 2 minutes.",
+    "Add mustard and stir to coat vegetables evenly.",
+    "Pour in vegetable broth and grapefruit juice, bring to a gentle simmer.",
+    "Cover the donabe and simmer for 20 minutes, stirring occasionally.",
+    "Season with salt, pepper, and fresh dill, then simmer for an additional 5 minutes.",
+    "Sprinkle toasted rye crumbs over the stew and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "mustard",
+    "one-pot",
+    "polish",
+    "sour",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 28,
+    "fat": 11
+  },
+  "slug": "sour-polish-potato-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-polish-potato-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:23:51Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Potato",
+    "descriptor": "Sour",
+    "dishForm": "Stew"
+  }
+}
