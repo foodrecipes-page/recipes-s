@@ -1,0 +1,97 @@
+{
+  "title": "Sweet and Flaky Uruguayan Blueberries Empanadas",
+  "description": "Uruguayan empanadas filled with sweet blueberries, wrapped in a buttery and crispy pastry. Perfect for a cozy afternoon treat.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "chilled, cut into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "blueberries",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, sugar, and yeast in a large mixing bowl.",
+    "Add the cold butter and use a pastry blender or your fingertips to work it into the flour mixture.",
+    "Gradually add the water and mix until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk using a rolling pin.",
+    "Place a tablespoon of blueberries in the center of each disk.",
+    "Brush the edges with the beaten egg and fold the dough over the filling, pressing the edges to seal.",
+    "Use a fork to crimp the edges and cut a few slits in the top to allow steam to escape.",
+    "Brush the tops with the beaten egg and bake in a preheated oven at 375° for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "blueberries",
+    "cozy",
+    "dessert",
+    "flaky-pastry",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "sweet-and-flaky-uruguayan-blueberries-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-flaky-uruguayan-blueberries-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:55:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "blueberries",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "blueberries",
+    "descriptor": "sweet and flaky",
+    "dishForm": "Empanadas"
+  }
+}
