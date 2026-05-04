@@ -1,0 +1,66 @@
+{
+  "title": "Silky Grassy Indian Perilla Leaf Biryani",
+  "description": "A midnight-craving, low-glycemic-friendly Indian dish featuring perilla-leaf-kkaennip, knead, and silky grassy flavors, inspired by Tamil cuisine.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Perilla leaves (Kkaennip)",
+      "amount": "2 cups",
+      "notes": "Fresh, stems removed and discarded, leaves chopped into small pieces"
+    },
+    {
+      "name": "Brown Basmati rice",
+      "amount": "1 cup",
+      "notes": "Long-grain rice, soaked and drained"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large saucepan over medium heat.",
+    "Add 1 small onion, finely chopped, and sauté until translucent.",
+    "Add 2 cloves of garlic, minced, and sauté for another minute.",
+    "Add the chopped perilla leaves, salt, and 1 teaspoon of garam masala. Stir-fry for 2-3 minutes, until the leaves are wilted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grassy",
+    "indian",
+    "low-glycemic",
+    "midnight-craving",
+    "silky",
+    "tamil",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "silky-grassy-indian-perilla-leaf-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-grassy-indian-perilla-leaf-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:29Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "low-glycemic",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "perilla leaf",
+    "descriptor": "Silky Grassy",
+    "dishForm": "Biryani"
+  }
+}
