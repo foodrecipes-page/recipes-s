@@ -1,0 +1,110 @@
+{
+  "title": "Slow Cooked Indian Lamb Rogan Josh",
+  "description": "A buttery and juicy Indian dish featuring lamb and bacon lardon, slow cooked to perfection in a scallop shell, macrobiotic friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bacon lardon",
+      "amount": "6 slices",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium high heat and cook the bacon lardon until crispy.",
+    "Remove the bacon from the skillet and set aside, leaving the grease in the skillet.",
+    "Add the lamb to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, ginger, and garlic to the skillet and cook until the onion is translucent.",
+    "Add the tomato puree, yogurt, garam masala, cumin, cayenne pepper, salt, and black pepper to the skillet and stir to combine.",
+    "Add the cooked bacon back into the skillet and stir to combine.",
+    "Transfer the mixture to a scallop shell and cook on low in a slow cooker for 8 hours.",
+    "Serve the lamb rogan josh hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 480,
+  "totalTimeMin": 510,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "lamb-recipes",
+    "macrobiotic-friendly",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "slow-cooked-indian-lamb-rogan-josh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-indian-lamb-rogan-josh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:47:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "slow-cook",
+    "primaryIngredient": "bacon lardon",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "slow cooked",
+    "dishForm": "Rogan Josh"
+  }
+}
