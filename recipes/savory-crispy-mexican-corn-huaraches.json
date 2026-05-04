@@ -1,0 +1,93 @@
+{
+  "title": "Savory Crispy Mexican Corn Huaraches",
+  "description": "A crispy and flavorful Mexican dish made with corn dough, cumin seeds, and dairy-free friendly ingredients, perfect for a snack or lunch. This meal-prep friendly recipe can be made ahead of time and reheated when needed.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn masa harina",
+      "amount": "2 cups",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Non-dairy cheese shreds",
+      "amount": "1 cup",
+      "notes": "such as soy cheese or vegan mozzarella"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the corn masa harina, cumin seeds, and salt.",
+    "Gradually add the water to the bowl, stirring with a fork until the dough comes together.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Divide the dough into 4-6 equal pieces, depending on the desired size of the huaraches.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Fry the huaraches for 2-3 minutes on each side, until crispy and golden brown.",
+    "Drain the huaraches on paper towels and top with non-dairy cheese shreds, chopped onion, and chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "dairy-free",
+    "lunch",
+    "mexican-food",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "savory-crispy-mexican-corn-huaraches",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crispy-mexican-corn-huaraches",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:31:02Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "cumin seeds",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Savory Crispy",
+    "dishForm": "Huaraches"
+  }
+}
