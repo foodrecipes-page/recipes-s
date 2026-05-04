@@ -1,0 +1,106 @@
+{
+  "title": "Slow Cooked Slovakian Walnut Skillet",
+  "description": "A rich and crumbly one-pot dish featuring walnuts, this Slovakian skillet is low in glycemic index and perfect for a hearty dinner. It combines the flavors of walnuts, meat, and spices in a delicious emulsified sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons",
+      "notes": "smoked"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat a large oven-safe skillet over medium-high heat.",
+    "Add the ground pork and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the smoked paprika, ground caraway seeds, salt, and black pepper.",
+    "Add the chopped walnuts and cook for 2 minutes, until they are lightly toasted.",
+    "Pour in the low-sodium chicken broth and bring the mixture to a simmer.",
+    "Transfer the skillet to the preheated oven and cook for 20 minutes, until the sauce has thickened and the flavors have melded together.",
+    "Remove the skillet from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hearty-dinner",
+    "low-glycemic",
+    "one-pot",
+    "oven-cooked",
+    "slovakian",
+    "walnut-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "slow-cooked-slovakian-walnut-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-slovakian-walnut-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:54:16Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "emulsify",
+    "primaryIngredient": "walnuts",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "walnuts",
+    "descriptor": "slow cooked",
+    "dishForm": "Skillet"
+  }
+}
