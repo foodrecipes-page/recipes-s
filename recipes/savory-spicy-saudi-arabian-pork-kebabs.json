@@ -1,0 +1,103 @@
+{
+  "title": "Savory Spicy Saudi Arabian Pork Kebabs",
+  "description": "A funky and molten Saudi Arabian dish featuring minced pork, perfect for a date night, with a blend of spices and a dash of excitement, however please note that in Saudi Arabia pork is not commonly consumed due to dietary restrictions, this recipe is an adaptation for those who do consume pork.",
+  "cuisine": "Saudi Arabian inspired",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, combine the minced pork, olive oil, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Mix everything together with your hands or a wooden spoon until just combined.",
+    "Thread the pork mixture onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until they are cooked through.",
+    "While the kebabs are cooking, heat a little oil in a pan over medium heat and cook the dates until they are caramelized.",
+    "Serve the kebabs hot with the caramelized dates on top.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "savory",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "savory-spicy-saudi-arabian-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spicy-saudi-arabian-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:36:24Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "brine-wet",
+    "primaryIngredient": "minced pork",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "pork",
+    "descriptor": "Savory Spicy",
+    "dishForm": "Kebabs"
+  }
+}
