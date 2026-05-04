@@ -1,0 +1,96 @@
+{
+  "title": "Sour Crispy Kenyan Scamorza Skewers",
+  "description": "A sour and crispy post-workout Kenyan dish featuring scamorza, served en-croute and vegan-friendly, grilled to perfection in a raclette-grill.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "200g",
+      "notes": "vegan alternative"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegan breadcrumbs",
+      "amount": "100g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 180 degrees Celsius.",
+    "Cut the scamorza cheese into 1-inch cubes.",
+    "In a bowl, mix together lemon juice, olive oil, garlic powder, onion powder, salt, and black pepper.",
+    "Add the scamorza cheese cubes to the bowl and marinate for 10 minutes.",
+    "Roll the marinated scamorza cheese cubes in vegan breadcrumbs to coat.",
+    "Thread the coated scamorza cheese cubes onto skewers.",
+    "Place the skewers in the raclette-grill and cook for 5 minutes on each side.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-food",
+    "grilled-cheese",
+    "kenyan-cuisine",
+    "post-workout",
+    "snack-ideas",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "sour-crispy-kenyan-scamorza-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-crispy-kenyan-scamorza-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:30:27Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "en-croute",
+    "primaryIngredient": "scamorza",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "scamorza",
+    "descriptor": "Sour crispy",
+    "dishForm": "Skewers"
+  }
+}
