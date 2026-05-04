@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Crunchy Argentinian Tomatoes Empanadas",
+  "description": "A lazy Sunday dish featuring plum tomatoes, beurre-monte, and a crispy empanada crust. This dairy-free friendly empanada is perfect for a weekend brunch.",
+  "cuisine": "argentinian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "1 egg",
+      "amount": "-or egg replacer"
+    },
+    {
+      "name": "1 tablespoon apple cider vinegar"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine flour, garlic powder, onion powder, salt, and black pepper. Mix well.",
+    "Gradually add in the vegetable oil and egg replacer (or egg), mixing until dough forms. Divide dough into 8 equal pieces.",
+    "Roll out each piece into a circle, about 1/8 inch thick.",
+    "In a separate bowl, mix together plum tomatoes, beurre-monte, apple cider vinegar, and chopped cilantro (if using).",
+    "Spoon about 1 tablespoon of the tomato mixture onto one half of the dough circle. Fold the other half over the filling, pressing edges to seal.",
+    "Use a fork to crimp the edges of the empanada. Brush with a little bit of water.",
+    "Place empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-lunch",
+    "empanada",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "smoky-crunchy-argentinian-tomatoes-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crunchy-argentinian-tomatoes-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T12:39:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "beurre-monte",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Smoky Crunchy",
+    "dishForm": "Empanadas"
+  }
+}
