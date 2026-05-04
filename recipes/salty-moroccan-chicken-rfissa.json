@@ -1,0 +1,107 @@
+{
+  "title": "Salty Moroccan Chicken Rfissa",
+  "description": "A juicy, adventurous Moroccan chicken dish with a salty twist using onion salt, pickled cucumber, and shredded flatbread.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, boneless skinless",
+      "amount": "800g"
+    },
+    {
+      "name": "Onion salt",
+      "amount": "2 tbsp",
+      "notes": "blend 1 tsp onion powder + 1/2 tsp sea salt"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Carrot, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Zucchini, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "Pickled cucumber, diced",
+      "amount": "1/2 cup",
+      "notes": "drained from jar"
+    },
+    {
+      "name": "Chickpeas, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded flatbread",
+      "amount": "2 cups",
+      "notes": "pre-cooked couscous is a suitable substitute"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Season the chicken thighs with onion salt, cumin, coriander, and paprika; set aside.",
+    "Heat the olive oil in a large pot over medium-high heat until shimmering.",
+    "Brown the chicken thighs on all sides until golden, about 5-6 minutes per side; remove and set aside.",
+    "In the same pot, add diced carrot, zucchini, and pickled cucumber, sautéing until softened, about 4 minutes.",
+    "Return the chicken to the pot, pour in the chicken broth, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 25 minutes or until the chicken is tender.",
+    "Stir in the cooked chickpeas and shredded flatbread, cooking until the bread absorbs liquid and thickens, about 5 minutes.",
+    "Taste and adjust seasoning with additional salt or pepper if needed; serve hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "chicken",
+    "moroccan",
+    "nut-free",
+    "rfissa",
+    "salty"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "salty-moroccan-chicken-rfissa",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-moroccan-chicken-rfissa",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:29:00Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "onion salt",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Salty",
+    "dishForm": "Rfissa"
+  }
+}
