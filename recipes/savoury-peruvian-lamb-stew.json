@@ -1,0 +1,109 @@
+{
+  "title": "Savoury Peruvian Lamb Stew",
+  "description": "A rich, dense one-pot stew featuring lamb, challots, and fried rice, seasoned with Peruvian spices for a hearty dinner.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 kg",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "challots",
+      "amount": "4 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oregano dried",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 l"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "300 g"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the lamb cubes and brown them on all sides.",
+    "Stir in the sliced challots and red bell pepper and cook until softened.",
+    "Sprinkle in cumin, smoked paprika, oregano, chili powder, salt, and black pepper, and stir to coat the meat and vegetables.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Reduce heat to low, cover, and simmer for 60 minutes until the lamb is tender.",
+    "Add the cooked white rice to the pot and stir to combine.",
+    "Simmer for an additional 10 minutes to allow the flavors to meld.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot, spooning some stew over each plate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 70,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "lamb",
+    "one-pot",
+    "peruvian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 32,
+    "carbs": 19,
+    "fat": 28
+  },
+  "slug": "savoury-peruvian-lamb-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/savoury-peruvian-lamb-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:35:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "challots",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Savoury",
+    "dishForm": "Stew"
+  }
+}
