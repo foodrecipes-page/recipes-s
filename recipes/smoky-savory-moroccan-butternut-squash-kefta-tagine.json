@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Savory Moroccan Butternut Squash Kefta Tagine",
+  "description": "A garlicky and gooey Moroccan dish featuring butternut squash, made in a tandoor style with Mediterranean friendly flavors, in a kefta tagine form.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "or ground beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, chopped onion, minced garlic, smoked paprika, cumin, cayenne pepper, salt, and black pepper, and mix well with your hands until just combined.",
+    "Thread the lamb mixture onto skewers, if using, or shape into small balls or patties.",
+    "In a large Dutch oven or heavy pot, heat the olive oil over medium high heat.",
+    "Add the lamb keftas to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the cubed butternut squash to the pot, and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the chicken broth to the pot, and bring to a boil.",
+    "Cover the pot, and transfer to the preheated oven.",
+    "Bake for 25 minutes, or until the squash is tender and the keftas are cooked through.",
+    "Serve the keftas and squash hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mediterranean",
+    "moroccan",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "smoky-savory-moroccan-butternut-squash-kefta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-moroccan-butternut-squash-kefta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:31:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "butternut squash",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Smoky Savory",
+    "dishForm": "Kefta Tagine"
+  }
+}
