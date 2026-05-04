@@ -1,0 +1,95 @@
+{
+  "title": "Silky Smooth Ukrainian Cheese Pasta",
+  "description": "A cultured and pillowy Ukrainian dish featuring lemon zest and tempering chocolate, this ovo-vegetarian friendly recipe is perfect for adventurous eaters. It combines the richness of cheese and chocolate with the brightness of lemon zest.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 oz"
+    },
+    {
+      "name": "Ukrainian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until it is al dente.",
+    "In a medium saucepan, melt the unsalted butter over medium heat and add the lemon zest, cooking for 1 minute until fragrant.",
+    "Add the tempering chocolate to the saucepan and stir until melted and smooth.",
+    "In a large bowl, whisk together the Ukrainian cheese, heavy cream, eggs, salt, and black pepper until well combined.",
+    "Add the cooked pasta to the bowl and toss until the pasta is well coated with the cheese mixture.",
+    "Add the chocolate and lemon zest mixture to the bowl and toss until the pasta is well coated.",
+    "Serve the pasta hot, garnished with additional lemon zest if desired.",
+    "Let the pasta cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-treats",
+    "comfort-food",
+    "ovo-vegetarian",
+    "pasta-lovers",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "silky-smooth-ukrainian-cheese-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-ukrainian-cheese-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:45:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "lemon zest",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "silky smooth",
+    "dishForm": "Pasta"
+  }
+}
