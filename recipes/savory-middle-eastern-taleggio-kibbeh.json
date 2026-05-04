@@ -1,0 +1,101 @@
+{
+  "title": "Savory Middle Eastern Taleggio Kibbeh",
+  "description": "A briny and creamy Middle Eastern dish featuring taleggio cheese, served as kibbeh to cure hangovers, with a soffritto base and low glycemic index friendly ingredients.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 tsp",
+      "notes": "including cumin and coriander"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion until translucent.",
+    "Add the garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "In a large bowl, combine the ground beef, cooked onion and garlic, bulgur, spices, salt, and pepper, and mix well with your hands or a wooden spoon until just combined.",
+    "Crumble the softened taleggio cheese into the bowl and mix until the cheese is evenly distributed throughout the meat mixture.",
+    "Using your hands, shape the mixture into small football shapes, about 1 1/2 inches long and 1 inch wide.",
+    "Place the kibbeh on a baking sheet lined with parchment paper, leaving about 1 inch of space between each kibbeh.",
+    "Bake the kibbeh in the preheated oven for 18 minutes, or until cooked through and lightly browned on the bottom.",
+    "Serve the kibbeh hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "kibbeh",
+    "low-glycemic",
+    "middle-eastern",
+    "taleggio"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "savory-middle-eastern-taleggio-kibbeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-middle-eastern-taleggio-kibbeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:15:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "soffritto-base",
+    "primaryIngredient": "taleggio",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "taleggio",
+    "descriptor": "Savory Creamy",
+    "dishForm": "Kibbeh"
+  }
+}
