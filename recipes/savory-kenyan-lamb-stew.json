@@ -1,0 +1,104 @@
+{
+  "title": "Savory Kenyan Lamb Stew",
+  "description": "A tangy and springy Kenyan dish featuring makrut lime leaves and long-fermentation-dough, perfect for meal prep. This dash-friendly recipe is cooked in a wok.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the makrut lime leaves, crumbled long-fermentation-dough, tomato paste, beef broth, salt, and black pepper.",
+    "Stir well and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 1 1/2 hours.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kenyan-cuisine",
+    "lamb-recipes",
+    "meal-prep",
+    "one-pot",
+    "stew-recipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "savory-kenyan-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-kenyan-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:18:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Springy Savory",
+    "dishForm": "Stew"
+  }
+}
