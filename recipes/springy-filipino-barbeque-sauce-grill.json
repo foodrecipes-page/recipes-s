@@ -1,0 +1,114 @@
+{
+  "title": "springy filipino barbeque sauce grill",
+  "description": "umami, springy, and nostalgic filipino dish featuring barbeque sauce and tadka, perfect for a diabetic-friendly meal. Serve with steamed rice or your favorite sides.",
+  "cuisine": "filipino",
+  "diet": [
+    "diabetic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "barbeque sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "tadka spice mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large skillet over medium-high heat.",
+    "add chicken to the skillet and cook until browned, about 5 minutes.",
+    "add onion, garlic, and ginger to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "add barbeque sauce to the skillet and stir to combine.",
+    "bring the sauce to a simmer and cook for 2-3 minutes or until thickened.",
+    "add tadka spice mix, salt, and black pepper to the skillet and stir to combine.",
+    "reduce heat to low and let the chicken cook in the sauce for an additional 5-7 minutes or until cooked through.",
+    "garnish with green onions and fresh cilantro.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "filipino",
+    "grilled",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "springy-filipino-barbeque-sauce-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-filipino-barbeque-sauce-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "barbeque sauce",
+    "descriptor": "springy",
+    "dishForm": "Grill"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "title": "Shattering Middle-Eastern Tagine",
+  "description": "A sour, shattering, lazy-sunday middle-eastern dish featuring caramel sauce, char-grill-yang, and raw-friendly flavors. Perfect for a relaxing Sunday evening with friends and family.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cherries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 (15 ounce) can",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Combine pomegranate molasses, dried apricots, pistachios, caramel sauce, sour cherries, honey, water, rose water, ground cinnamon, and ground ginger in a large saucepan.",
+    "Heat the mixture over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "Add the chickpeas and cook for an additional 5 minutes, stirring occasionally.",
+    "Transfer the mixture to a serving dish and drizzle with lemon juice and olive oil.",
+    "Refrigerate for at least 2 hours to allow the flavors to meld together.",
+    "Serve chilled, garnished with additional pistachios and rose petals if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "middle-eastern",
+    "one-pan",
+    "raw-friendly",
+    "shattering",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 90,
+    "fat": 18
+  },
+  "slug": "shattering-middle-eastern-dishes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-middle-eastern-dishes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:15Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "caramel sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "dishes",
+    "descriptor": "shattering",
+    "dishForm": "Tagine"
+  }
+}

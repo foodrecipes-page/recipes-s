@@ -1,0 +1,99 @@
+{
+  "title": "springy briny ethiopian little gem lettuce tagine",
+  "description": "a one-pot ethiopian dish featuring little gem lettuce, dashi-extract, and a hint of berbere spice. perfect for a spring evening.",
+  "cuisine": "ethiopian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "little gem lettuce",
+      "amount": "2 heads",
+      "notes": ""
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dashi powder",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in the lazy susan spinner over medium heat.",
+    "add the ginger and garlic and cook for 2 minutes, stirring occasionally.",
+    "add the berbere spice and cook for 1 minute, stirring constantly.",
+    "add the dashi powder and stir for 1 minute.",
+    "add the chicken broth, paprika, and salt. stir to combine.",
+    "add the little gem lettuce and cook until wilted, about 3-4 minutes.",
+    "serve hot, garnished with a sprinkle of paprika, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "low-carb",
+    "one-pan",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "springy-briny-ethiopian-little-gem-lettuce-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-briny-ethiopian-little-gem-lettuce-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:28Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "dashi-extract",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "little gem lettuce",
+    "descriptor": "springy briny",
+    "dishForm": "Tagine"
+  }
+}

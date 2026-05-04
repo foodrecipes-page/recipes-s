@@ -1,0 +1,90 @@
+{
+  "title": "smoky pillowy portuguese cheese curds paella",
+  "description": "a hearty portuguese solo-dinner featuring smoky cheese curds, perfect for a weeknight meal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked portuguese cheese curds",
+      "amount": "250g"
+    },
+    {
+      "name": "chorizo",
+      "amount": "120g"
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "120g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large paella pan over medium-high heat.",
+    "add the chorizo and cook until lightly browned, about 2 minutes.",
+    "add the mushrooms and bell pepper and cook until tender, about 5 minutes.",
+    "add the smoked paprika and cook for 1 minute.",
+    "add the smoked portuguese cheese curds and chicken broth, and bring to a simmer.",
+    "reduce heat to low and steam for 10 minutes, or until the cheese curds are melted and the liquid has been absorbed.",
+    "season with lemon juice to taste, and serve hot.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "smoky-pillowy-portuguese-cheese-curds-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-pillowy-portuguese-cheese-curds-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "cheese curds",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "cheese curds",
+    "descriptor": "smoky pillowy",
+    "dishForm": "paella"
+  }
+}
