@@ -1,0 +1,107 @@
+{
+  "title": "Smoky Roasted Croatian Vermicelli Pasta",
+  "description": "A hearty, earthy, and crunchy Croatian dish featuring smoky roasted vegetables over vermicelli pasta.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400°F (200°C).",
+    "Cook the vermicelli pasta according to package instructions.",
+    "Peel and chop the onions, carrots, bell peppers, and potatoes into bite-sized pieces.",
+    "Place the vegetables on the robata grill and roast for 20-25 minutes, or until tender.",
+    "Mince the garlic and add it to the roasted vegetables.",
+    "Cook the vermicelli pasta and toss it with the roasted vegetable mixture.",
+    "Season with smoked paprika, salt, and black pepper to taste.",
+    "Garnish with chopped parsley and a dollop of Greek yogurt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-roasted-croatian-vermicelli-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-croatian-vermicelli-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:39:16Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "robata-grill",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "vermicelli",
+    "descriptor": "smoky roasted",
+    "dishForm": "Pasta"
+  }
+}
