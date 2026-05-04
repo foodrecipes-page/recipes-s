@@ -1,0 +1,90 @@
+{
+  "title": "Smoked-Hot Kenyan Stilton Cheese Gratin",
+  "description": "A garlicky, gooey, and romantic Kenyan dish featuring Stilton cheese, with a smoky twist.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stilton cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sodium-free seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter a 9x13-inch baking dish.",
+    "Arrange half of the Stilton cheese slices in the baking dish.",
+    "Sprinkle the smoked paprika, garlic powder, and sodium-free seasoning over the cheese.",
+    "Pour in the heavy cream, then sprinkle with black pepper to taste.",
+    "Top with the remaining Stilton cheese slices.",
+    "Dot the top with the unsalted butter and sprinkle with chopped parsley.",
+    "Bake for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "smoked-paprika",
+    "stilton-cheese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "smoke-hot-kenyan-stilton-cheese-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-kenyan-stilton-cheese-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T07:08:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "stilton cheese",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Stilton cheese",
+    "descriptor": "smoke-hot",
+    "dishForm": "Gratin"
+  }
+}
