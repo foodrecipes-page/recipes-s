@@ -1,0 +1,105 @@
+{
+  "title": "Slow Cooked Slovakian Ground Beef Stew",
+  "description": "A hearty and comforting Slovakian dish featuring ground beef, perfect for a hangover cure, made keto-friendly and cooked to perfection in a Korean brass bowl using sous-vide techniques.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a skillet over medium-high heat, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Stir in the beef broth, tomato paste, paprika, salt, and black pepper, and bring the mixture to a simmer.",
+    "Transfer the mixture to a Korean brass bowl and cook in a sous-vide water bath at 130 degrees Fahrenheit for 8 hours.",
+    "Stir in the chopped fresh parsley and serve the stew hot, garnished with additional parsley if desired.",
+    "Serve the stew in the Korean brass bowl, making sure to handle the hot bowl with care."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 480,
+  "totalTimeMin": 510,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ground-beef",
+    "keto-friendly",
+    "one-pot",
+    "slovakian-cuisine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "slow-cooked-slovakian-ground-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-slovakian-ground-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:51:28Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "ground beef",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ground beef",
+    "descriptor": "slow cooked",
+    "dishForm": "Stew"
+  }
+}
