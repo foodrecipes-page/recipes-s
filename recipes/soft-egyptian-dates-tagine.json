@@ -1,0 +1,85 @@
+{
+  "title": "Soft Egyptian Dates Tagine",
+  "description": "A traditional Egyptian dessert made with sweet and gooey dates, perfect for a solo dinner. This dish is no-onion-no-garlic-friendly, making it ideal for those who want to avoid these ingredients.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Muscovado sugar",
+      "amount": "3 cups",
+      "notes": "preferably dark or black muscovado sugar for the best flavor"
+    },
+    {
+      "name": "Soft dates",
+      "amount": "1 pound",
+      "notes": "such as Medjool or Barhi dates, pitted and chopped"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "adjust to achieve the desired consistency"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed, optional but recommended for brightness"
+    },
+    {
+      "name": "Cardamom ground",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste, traditional Egyptian flavoring"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter or oil for frying, such as canola or grapeseed"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large saucepan over medium heat.",
+    "Add the chopped dates and cook, stirring occasionally, until they start to soften and release their liquid, about 5 minutes.",
+    "Add the muscovado sugar, water, lemon juice, and ground cardamom. Stir to combine and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, stirring occasionally, until the mixture has thickened and the dates are coated in a gooey syrup, about 15 minutes.",
+    "Use a wooden spoon or spatula to stir the mixture frequently, especially towards the end of cooking, to prevent the dates from sticking to the pan.",
+    "Transfer the tagine to a serving dish and serve warm or at room temperature, garnished with a sprinkle of muscovado sugar if desired.",
+    "Note: Traditionally, this dish is cooked in a clay pot called a tagine, but a saucepan or Dutch oven works well too.",
+    "If using a clay pot, cook over low heat and adjust the cooking time as needed.",
+    "Be patient and don't rush the cooking process, as the flavors and textures will develop more slowly and evenly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cardamom",
+    "dates",
+    "dessert",
+    "muscovado-sugar"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 3,
+    "carbs": 85,
+    "fat": 10
+  },
+  "slug": "soft-egyptian-dates-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/soft-egyptian-dates-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dates",
+    "descriptor": "soft",
+    "dishForm": "Tagine"
+  }
+}

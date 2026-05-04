@@ -1,0 +1,107 @@
+{
+  "title": "Savory Tunisian Prosciutto Pilaf",
+  "description": "A hearty and flavorful pilaf featuring crispy prosciutto, tender duxelles, and a hint of Tunisian spices.",
+  "cuisine": "Tunisian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Duxelles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the prosciutto and cook until crispy, about 2 minutes.",
+    "Add the duxelles and cook until it starts to brown, about 2 minutes.",
+    "Add the rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "main-course",
+    "north-african",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "savoury-tunisian-prosciutto-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/savoury-tunisian-prosciutto-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:32Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "dum",
+    "primaryIngredient": "prosciutto",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "prosciutto",
+    "descriptor": "savoury",
+    "dishForm": "Pilaf"
+  }
+}

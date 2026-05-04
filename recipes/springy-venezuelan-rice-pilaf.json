@@ -1,0 +1,103 @@
+{
+  "title": "springy venezuelan rice pilaf",
+  "description": "A winey, spring-inspired venezuelan dish featuring brown rice and a savory miso marinate, perfect for no-onion-no-garlic diets.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "white or yellow miso works best"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a mild, light olive oil"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium or homemade broth",
+      "},{": {},
+      ",": ")"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tbsp",
+      "notes": "apple cider or balsamic vinegar"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground pepper"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 tsp",
+      "notes": "optional, but adds a bright, sunny flavor"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium saucepan over medium heat.",
+    "Add the miso paste and stir until dissolved.",
+    "Pour in the chicken broth and bring to a simmer.",
+    "Add the brown rice and stir to coat the rice with the miso marinade.",
+    "Reduce the heat to low, cover, and cook for 20 minutes, or until the rice is tender and fluffy.",
+    "Stir in the vinegar and black pepper to taste.",
+    "If using saffron threads, stir them in for an additional minute to let the flavor infuse.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the springy rice pilaf hot, garnished with chopped cilantro if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 5 days or freeze for up to 2 months"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "spring-recipes",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "springy-venezuelan-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-venezuelan-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "miso-marinate",
+    "primaryIngredient": "brown rice",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "rice",
+    "descriptor": "springy",
+    "dishForm": "pilaf"
+  }
+}

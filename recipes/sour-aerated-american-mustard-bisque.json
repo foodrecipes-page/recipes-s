@@ -1,0 +1,96 @@
+{
+  "title": "Sour Aerated American Mustard Bisque",
+  "description": "A refreshing twist on the classic American mustard, featuring a sour and aerated texture.",
+  "cuisine": "american",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholegrain Mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Nimono Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Sauté the onion and garlic in butter until softened.",
+    "Add the white wine vinegar and cook until reduced.",
+    "Add the nimono broth and bring to a simmer.",
+    "Stir in the wholegrain mustard.",
+    "Reduce heat and let simmer for 10 minutes.",
+    "Strain the mixture through a fine-mesh sieve into a clean pot.",
+    "Whisk in the heavy cream and season with salt and black pepper.",
+    "Use an immersion blender to aerate the bisque to desired consistency.",
+    "Serve immediately.",
+    "Garnish with chopped chives or paprika, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "sour-aerated-american-mustard-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-aerated-american-mustard-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "mustard",
+    "descriptor": "sour aerated",
+    "dishForm": "bisque"
+  }
+}
