@@ -1,0 +1,92 @@
+{
+  "title": "Slow Roasted American Chicken Grill",
+  "description": "A tender and herbal American dish featuring roasted chicken, served with a baguette and grilled to perfection, all in a low-calorie friendly agave-leaf vessel.",
+  "cuisine": "American",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "baguette",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, thyme, garlic powder, salt, and black pepper.",
+    "Place the chicken breast in a large bowl and brush the herbal mixture evenly over both sides of the chicken.",
+    "Wrap each chicken breast in an agave leaf, making sure to seal the leaf tightly around the chicken.",
+    "Place the wrapped chicken on the grill and cook for 30 minutes per side, or until the internal temperature reaches 165 degrees Fahrenheit.",
+    "While the chicken is cooking, slice the baguette into 1-inch thick slices and grill until lightly toasted.",
+    "Once the chicken is cooked, remove it from the grill and let it rest for 10 minutes before slicing.",
+    "Serve the sliced chicken with the grilled baguette slices and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "grilled",
+    "herbal",
+    "lazy-sunday",
+    "low-calorie",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "slow-roasted-american-chicken-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-roasted-american-chicken-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:25:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "baguette",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "slow roasted",
+    "dishForm": "Grill"
+  }
+}
