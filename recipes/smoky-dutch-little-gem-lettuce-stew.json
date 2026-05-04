@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Dutch Little Gem Lettuce Stew",
+  "description": "A hearty and comforting Dutch stew made with little gem lettuce, cooked to perfection in a clay pot with smoky flavors, perfect for a cozy evening meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "little gem lettuce",
+      "amount": "4 heads",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Chop the little gem lettuce into small pieces and set aside.",
+    "Cook the diced smoked bacon in a large skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside, leaving the grease in the skillet.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the chicken broth, heavy cream, dried thyme, salt, and black pepper to the skillet and stir to combine.",
+    "Add the chopped little gem lettuce and cooked bacon to the skillet and stir to combine.",
+    "Transfer the mixture to a clay pot and cover with a lid.",
+    "Place the clay pot in the preheated oven and cook for 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "low-carb",
+    "one-pot",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "smoky-dutch-little-gem-lettuce-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dutch-little-gem-lettuce-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:35:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "little gem lettuce",
+    "descriptor": "smoky fluffy",
+    "dishForm": "Stew"
+  }
+}
