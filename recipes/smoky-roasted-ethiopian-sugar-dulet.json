@@ -1,0 +1,78 @@
+{
+  "title": "Smoky Roasted Ethiopian Sugar Dulet",
+  "description": "Winey, velvety, weeknight Ethiopian dish featuring sugar, smoke, and satvik-friendly ingredients in the form of dulet. Pair with injera or rice for a filling meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it starts to brown, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the chopped cilantro, if using, and cook for 1 minute, until wilted.",
+    "In a small bowl, mix together the berbere spice mix, sugar, salt, black pepper, and cayenne pepper, if using.",
+    "Add the spice mixture to the skillet and cook for 1 minute, until fragrant.",
+    "Add the chopped sorrel leaves, if using, and cook until wilted.",
+    "Add the browned butter, if using, and stir to combine.",
+    "Stir in the honey, vinegar, lemon juice, and oregano, if using.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the mixture to a serving dish and garnish with cilantro leaves, if using.",
+    "Serve hot, garnished with sorrel leaves, if desired.",
+    "Serve with injera or rice for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dulet",
+    "easy-to-make",
+    "ethiopian",
+    "gluten-free",
+    "one-pan",
+    "smoky",
+    "sugar",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "smoky-roasted-ethiopian-sugar-dulet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-ethiopian-sugar-dulet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:46Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "sugar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "sugar",
+    "descriptor": "smoky roasted",
+    "dishForm": "Dulet"
+  }
+}

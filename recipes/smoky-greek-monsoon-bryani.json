@@ -1,0 +1,85 @@
+{
+  "title": "smoky Greek monsoon bryani",
+  "description": "A smoky twist on the classic Greek bryani, featuring sautéed onions and beurre monte for a rich and satisfying flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carnitas",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beurre monte",
+      "amount": "2 tbsp",
+      "notes": "see notes for recipe link"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the carnitas and cook until browned, breaking up with a spoon as needed.",
+    "Add the sliced onions and cook until softened, about 5 minutes.",
+    "Stir in cumin, coriander, and smoked paprika, and cook for 1 minute.",
+    "Stir in beurre monte and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley.",
+    "Cook the carnitas in a separate pan before starting the recipe for best flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 42,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "smoky-greek-monsoon-bryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-greek-monsoon-bryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "beurre-monte",
+    "primaryIngredient": "cumin",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "monsoon",
+    "descriptor": "smoky",
+    "dishForm": "Bryani"
+  }
+}

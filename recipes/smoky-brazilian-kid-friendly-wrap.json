@@ -1,0 +1,109 @@
+{
+  "title": "smoky brazillian kid-friendly wrap",
+  "description": "charred, fluffy, kid-friendly brazillian dish featuring cloves, grill, mediterranean-friendly, vessel=lotus-leaf-wrap",
+  "cuisine": "brazilian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian sausage",
+      "amount": "4 oz",
+      "notes": "such as linguiça or chorizo"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "2 oz",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat grill to medium-high heat.",
+    "season Brazilian sausage with salt, black pepper, cumin, and paprika.",
+    "grill sausage for 3-4 minutes per side, or until nicely charred.",
+    "slice grilled sausage into thin strips.",
+    "slice onion and grill for 2-3 minutes per side, or until slightly charred.",
+    "mince garlic and set aside.",
+    "warm flour tortillas on grill for 30 seconds on each side.",
+    "assemble wraps by spreading mince garlic on tortilla, followed by grilled onion, sausage, and cheddar cheese.",
+    "top with chopped cilantro and fold wraps in half."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "breakfast-for-lunch",
+    "easy-meals",
+    "grilled-sausage",
+    "kid-friendly",
+    "latin-inspired",
+    "sausage-wraps",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "smoky-brazilian-kid-friendly-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-brazilian-kid-friendly-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:55Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "cloves",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "kid-friendly",
+    "descriptor": "smoky",
+    "dishForm": "Wrap"
+  }
+}

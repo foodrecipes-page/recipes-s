@@ -1,0 +1,93 @@
+{
+  "title": "Shaggy Over Grilled Romantic Herbal Pilaf",
+  "description": "A Canadian dish featuring seasoned rice vinegar, flambe, and herbal flavors, served in a bamboo tray. This keto-friendly pilaf is perfect for a romantic dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Portobello Mushrooms",
+      "amount": "4",
+      "notes": "Shaggy, sliced, and marinated in balsamic vinegar"
+    },
+    {
+      "name": "Rapini",
+      "amount": "1 bunch",
+      "notes": "Trimmed and chopped"
+    },
+    {
+      "name": "Bamboo Tray",
+      "amount": "",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, heat 1 tablespoon of almond oil over medium-high heat. Add the rapini and cook until tender, about 5 minutes.",
+    "Remove the rapini and set aside. In the same skillet, add the remaining 1 tablespoon of almond oil. Add the sliced portobello mushrooms and cook until browned, about 3-4 minutes per side.",
+    "Remove the mushrooms and set aside with the rapini. In the same skillet, add the dried thyme and fresh rosemary. Cook for 1 minute.",
+    "In a separate saucepan, combine the wild rice, coconut sugar, coconut oil, flour, eggs, mozzarella cheese, balsamic vinegar, lemongrass, shallots, salt, and black pepper. Cook over medium heat, stirring constantly, until the mixture is lightly toasted and fragrant.",
+    "Transfer the rice mixture to the preheated oven and bake for 20-25 minutes, or until cooked through.",
+    "Meanwhile, grill the bamboo skewers over medium heat until lightly charred.",
+    "To assemble the pilaf, place a scoop of the wild rice mixture onto a bamboo tray. Top with the grilled portobello mushrooms, rapini, and a sprinkle of dried parsley.",
+    "Drizzle the top with seasoned rice vinegar and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "shaggy-over-grilled-romantic-herbal-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shaggy-over-grilled-romantic-herbal-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "flambe",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "romantic",
+    "mainIngredient": "herbal",
+    "descriptor": "shaggy over grilled",
+    "dishForm": "Pilaf"
+  }
+}
