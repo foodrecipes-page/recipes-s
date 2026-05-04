@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Silky Italian Wagyu Roast",
+  "description": "A tender Wagyu roast infused with Italian herbs, grilled to smoky perfection on a cedar plank, finishing silky with a buttery glaze.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu roast",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp, melted"
+    },
+    {
+      "name": "Cedar plank",
+      "amount": "1, soaked 30 min"
+    }
+  ],
+  "instructions": [
+    "Soak the cedar plank in water for 30 minutes to prevent burning.",
+    "Preheat a grill to medium-high heat, about 375°F.",
+    "Season the Wagyu roast with salt, pepper, rosemary, thyme, garlic, and lemon zest.",
+    "Sear the roast on the grill for 2 minutes per side until a crust forms.",
+    "Transfer the seared roast onto the soaked cedar plank and close the grill lid.",
+    "Cook for 10-12 minutes, turning once, until the internal temperature reaches 135°F for medium-rare.",
+    "Remove the roast from the grill and let it rest for 10 minutes to redistribute juices.",
+    "Brush the rested roast with melted butter and pour the white wine over it for a glossy finish.",
+    "Slice the roast thinly and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "high-protein",
+    "one-pan",
+    "silky",
+    "smoky",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 98,
+    "carbs": 7,
+    "fat": 196
+  },
+  "slug": "smoky-silky-italian-wagyu-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-silky-italian-wagyu-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:44:30Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "wagyu",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Smoky Silky",
+    "dishForm": "Roast"
+  }
+}
