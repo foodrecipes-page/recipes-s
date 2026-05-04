@@ -1,0 +1,107 @@
+{
+  "title": "Sour German Cabbage Stew",
+  "description": "A hearty, tangy stew of sauerkraut and root vegetables, enriched with soy milk and spices, perfect for calming a hangover. It keeps kosher and is vegan-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "kosher",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium, cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "soy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large pot over medium heat.",
+    "Add diced onion and sliced celery; sauté until softened, about 5 minutes.",
+    "Stir in diced carrots and potatoes and cook for another 3 minutes.",
+    "Mix in 2 cups sauerkraut, tomato paste, ground cumin, and coriander; cook for 2 minutes.",
+    "Pour in 2 cups vegetable stock and 1 cup soy milk, bring to a simmer.",
+    "Cover and let the stew gently simmer for 25 minutes, or until the vegetables are tender.",
+    "Season with salt to taste; stir well.",
+    "Serve hot, optionally garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "kosher-friendly",
+    "one-pot",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "sour-german-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-german-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:49:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "soy milk",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cabbage",
+    "descriptor": "Sour",
+    "dishForm": "Stew"
+  }
+}
