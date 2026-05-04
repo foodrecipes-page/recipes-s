@@ -1,0 +1,117 @@
+{
+  "title": "Sweet and Vibrant Venezuelan Peppers Wrap",
+  "description": "A rich and springy Venezuelan dish featuring sweet red peppers, perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "4",
+      "notes": "any sweet red pepper variety works"
+    },
+    {
+      "name": "plantain leaves",
+      "amount": "4",
+      "notes": "fresh or frozen, thawed and patted dry"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky sea salt or kosher salt"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1 tbsp",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer basket over boiling water.",
+    "Rinse the plantain leaves and pat them dry with paper towels.",
+    "In a small bowl, mix together the cooked quinoa, black beans, onion, garlic, tomato paste, cumin, paprika, and salt.",
+    "Place a plantain leaf on a flat surface and spoon some of the quinoa mixture onto the center of the leaf.",
+    "Add some diced red peppers on top of the quinoa mixture.",
+    "Fold the bottom half of the plantain leaf up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients and leaves.",
+    "Steam the wraps for 5-7 minutes, or until the leaves are tender and the filling is heated through.",
+    "Serve the wraps hot, garnished with chopped cilantro and a drizzle of peanut oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "latin-american",
+    "quick-dinner",
+    "stuffed-peppers",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "sweet-and-vibrant-venezuelan-peppers-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-vibrant-venezuelan-peppers-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:51:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "peppers",
+    "descriptor": "Sweet and Vibrant",
+    "dishForm": "Wrap"
+  }
+}
