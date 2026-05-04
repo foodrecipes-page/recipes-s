@@ -1,0 +1,106 @@
+{
+  "title": "Smooth Brazilian Rice Bowl",
+  "description": "A roasted, creamy low-fat bowl that blends muscovado sugar, wok-hei soy sauce, and fresh veggies into a light Brazilian-inspired meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "wok-hei soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "low-fat plain Greek yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup jasmine rice until water runs clear and add 1.5 cups water to a saucepan; bring to a boil, then reduce heat, cover, and simmer 15 minutes until water is absorbed, fluff with a fork.",
+    "While the rice cooks, preheat oven to 200°C and season 200g diced chicken breast with salt, pepper, 1 tbsp muscovado sugar, 1 tbsp wok-hei soy sauce, and 1 tsp grated ginger; roast for 20 minutes until the internal temperature reaches 74°C.",
+    "Steam 1 cup broccoli florets for 5 minutes until bright green and tender.",
+    "In a small bowl whisk together 1 tbsp wok-hei soy sauce, 1 tbsp muscovado sugar, 1 tbsp lime juice, 1 tsp grated ginger, and 2 tbsp low-fat plain Greek yogurt until smooth.",
+    "Dice 1/2 cup avocado and set aside.",
+    "When the chicken is done, allow it to rest for 5 minutes, then shred it with two forks.",
+    "Assemble the bowl by placing fluffy rice at the bottom, topping with shredded roasted chicken, steamed broccoli, diced avocado, and a drizzle of the creamy sauce.",
+    "Sprinkle toasted sesame seeds and a pinch of chili flakes over the bowl for crunch and heat.",
+    "Serve immediately and enjoy the smooth, creamy, low-fat Brazilian rice bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bowl",
+    "brazilian",
+    "gluten-free",
+    "low-fat",
+    "main"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 39,
+    "carbs": 94,
+    "fat": 22
+  },
+  "slug": "smooth-brazilian-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/smooth-brazilian-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:02:07Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rice",
+    "descriptor": "Smooth",
+    "dishForm": "Bowl"
+  }
+}
