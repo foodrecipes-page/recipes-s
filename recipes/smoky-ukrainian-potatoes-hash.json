@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Ukrainian Potatoes Hash",
+  "description": "A smoky and crunchy Ukrainian dish featuring small potatoes, yuzu-cure, and ayurvedic-tamasic-friendly ingredients. Perfect for a romantic dinner or a weeknight meal.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "small potatoes",
+      "amount": "1.5 lbs",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "yuzu-cure",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds smoky flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and sauté for 3 minutes, until translucent.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the halved potatoes and cook for 5 minutes, until they start to brown.",
+    "Add the yuzu-cure and smoked paprika, and stir to combine.",
+    "Cook for another 5 minutes, until the potatoes are golden brown and crispy.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Note: if the potatoes start to stick to the pan, add a little bit of water to deglaze the pan."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "romantic",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "smoky-ukrainian-potatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-ukrainian-potatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:04Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "small potatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Smoky",
+    "dishForm": "Hash"
+  }
+}

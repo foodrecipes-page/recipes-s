@@ -1,0 +1,101 @@
+{
+  "title": "Shattering Zesty Dutch Cassaba Stamppot",
+  "description": "A hearty, comforting Dutch dish featuring cassaba, fermented kimchi, and a hint of malty sweetness. Perfect for a cozy evening meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassaba",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rye flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chives",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine 2 cups of water and 1 cup of diced cassaba and bring to a boil over high heat.",
+    "Reduce heat to medium-low and simmer for 15 minutes, or until the cassaba is tender.",
+    "In a separate pan, heat 2 tablespoons of oil over medium heat and sauté 1 cup of kimchi for 5 minutes, or until slightly caramelized.",
+    "Add 1 tablespoon of butter to the pan and stir until melted, then stir in 1 cup of rye flour and cook for 1 minute.",
+    "Gradually add 2 cups of grated potatoes, stirring constantly, and cook for 5 minutes, or until the potatoes are slightly tender.",
+    "Add the cooked cassaba, kimchi mixture, and 1 cup of grated Gruyère cheese to the pan, stirring until the cheese is melted and the mixture is well combined.",
+    "Transfer the mixture to a serving dish and serve hot, garnished with chopped chives if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy",
+    "dutch-cuisine",
+    "malty",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "shattering-zesty-dutch-cassaba-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-zesty-dutch-cassaba-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:23Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cassaba",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cassaba",
+    "descriptor": "Shattering Zesty",
+    "dishForm": "Stamppot"
+  }
+}
