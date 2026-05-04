@@ -1,0 +1,101 @@
+{
+  "title": "Salty Crisp Canadian Pear Pilaf",
+  "description": "A simple, one-pot dish featuring crispy rice, pan-fried Canadian pears, and a savory blend of spices. This ovo-vegetarian-friendly pilaf is perfect for a quick weeknight dinner.",
+  "cuisine": "canadian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian pears",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Khao Khua (Thai sticky rice flour)",
+      "amount": "1 cup",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat until melted. Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add Khao Khua and cook for 1-2 minutes, stirring constantly, until lightly toasted.",
+    "Add pears and cook for 2-3 minutes, until starting to brown.",
+    "Pour in olive oil and stir to combine. Season with salt and black pepper to taste.",
+    "Bring to a simmer, then reduce heat to low and cook, covered, for 10-12 minutes, or until liquid is mostly absorbed and pears are tender.",
+    "Fluff pilaf with a fork and garnish with chopped parsley. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "one-pan",
+    "pear",
+    "pilaf",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "salty-crisp-canadian-pear-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crisp-canadian-pear-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "pears",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "pear",
+    "descriptor": "salty crisp",
+    "dishForm": "pilaf"
+  }
+}
