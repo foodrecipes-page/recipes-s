@@ -1,0 +1,111 @@
+{
+  "title": "Spicy Greek Nduja Pastries",
+  "description": "A twist on traditional baklava, featuring the spicy, spreadable nduja and a hint of mustard. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "greek",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "feta cheese",
+      "amount": "12 ounces",
+      "notes": null
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Unroll the phyllo dough and cut into 2-inch squares.",
+    "Place a sheet of phyllo on a flat surface and brush with butter.",
+    "Place a tablespoon of nduja mixture on the phyllo and fold to form a triangle."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "nduja",
+    "one-pan",
+    "pastries",
+    "savory",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "spicy-greek-nduja-pastries",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-greek-nduja-pastries",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "whisk",
+    "primaryIngredient": "nduja",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "nduja",
+    "descriptor": "Spicy",
+    "dishForm": "Pastries"
+  }
+}

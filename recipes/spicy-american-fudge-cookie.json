@@ -1,0 +1,72 @@
+{
+  "title": "Spicy American Fudge Cookie",
+  "description": "A crumbly, spicy cookie perfect for the holiday season. Made with air-fryer for a healthier twist.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together flour, baking soda, and salt.",
+    "In a large bowl, use an electric mixer to beat the butter until creamy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "ayurvedic-friendly",
+    "cookies",
+    "holiday",
+    "quick-bake",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "spicy-american-fudge-cookie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-american-fudge-cookie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "red food colouring",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "fudge",
+    "descriptor": "spicy",
+    "dishForm": " cookie"
+  }
+}
