@@ -1,0 +1,105 @@
+{
+  "title": "Savoury Mediterranean Herring Salad",
+  "description": "A quick, earthy Mediterranean salad featuring smoked herring, crisp veggies, and aromatic herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked herring",
+      "amount": "200g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "50g"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine diced cucumber, tomatoes, sliced olives, onion, and capers.",
+    "Add the drained herring pieces to the bowl and gently mix.",
+    "Sprinkle chopped parsley and dill over the salad and toss to combine.",
+    "Drizzle olive oil and lemon juice evenly, then season with salt and pepper.",
+    "Let the salad rest for 5 minutes to allow flavors to meld.",
+    "Serve chilled or at room temperature over a bed of mixed greens if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "balanced",
+    "healthy",
+    "mediterranean",
+    "no-cook",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 54,
+    "carbs": 19,
+    "fat": 55
+  },
+  "slug": "savoury-mediterranean-herring-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/savoury-mediterranean-herring-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:20:16Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "herring",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Herring",
+    "descriptor": "Savoury",
+    "dishForm": "Salad"
+  }
+}
