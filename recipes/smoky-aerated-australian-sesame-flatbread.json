@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Aerated Australian Sesame Flatbread",
+  "description": "A light, airy flatbread infused with smoky flavors and nut-free friendly, perfect for a quick snack or lunch.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "60g"
+    },
+    {
+      "name": "water",
+      "amount": "170ml"
+    },
+    {
+      "name": "yeast",
+      "amount": "7g"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "30g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Combine warm water and yeast in a large mixing bowl, let it sit for 5 minutes.",
+    "Add flour, salt, and sesame butter to the bowl, mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 220°C (425°F).",
+    "Divide the dough into 4 equal pieces, roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place the flatbreads on a baking sheet lined with parchment paper, brush with olive oil and garlic-infused oil.",
+    "Bake the flatbreads in the preheated oven for 12-15 minutes, or until they are golden brown and crispy.",
+    "Brush the flatbreads with smoked paprika and black sesame seeds immediately after baking.",
+    "Let the flatbreads cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "flatbread",
+    "gluten-free-option",
+    "one-pan",
+    "sesame",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "smoky-aerated-australian-sesame-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-aerated-australian-sesame-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:21Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "infuse-oil",
+    "primaryIngredient": "sesame butter",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "sesame",
+    "descriptor": "smoky aerated",
+    "dishForm": "flatbread"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "sweet Peruvian glace cherry torta",
+  "description": "A tangy, bouncy dessert featuring a sweet and sour combination of glace cherries and a creamy temper, inspired by Peruvian cuisine. Perfect for adventurous foodies with a sweet tooth.",
+  "cuisine": "peruvian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "glace cherries",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "temper",
+      "amount": "8 oz",
+      "notes": "unsalted and softened"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1/2 cup",
+      "notes": "plus extra for dusting"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2",
+      "notes": "fresh, at room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": "for egg whites"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "pinch",
+      "notes": "for egg whites"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Dust a surface with flour and roll out the temper to a thickness of 1/4 inch (6 mm).",
+    "Cut out circles of temper to fit a 12-cup muffin tin, pressing them into the corners and edges to form a crust.",
+    "Brush the melted butter onto the pastry, then sprinkle with granulated sugar and chopped glace cherries."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "glace-cherries",
+    "peruvian",
+    "sweet",
+    "temper",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "sweet-peruvian-glace-cherry-torta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-peruvian-glace-cherry-torta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "glace cherry",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "glace cherry",
+    "descriptor": "sweet",
+    "dishForm": "Torta"
+  }
+}

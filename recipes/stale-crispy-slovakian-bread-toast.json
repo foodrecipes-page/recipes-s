@@ -1,0 +1,84 @@
+{
+  "title": "Stale Crispy Slovakian Bread Toast",
+  "description": "A weeknight Slovakian dish featuring stale bread that is nutty and glassy-jelly in texture. Whisk not necessary for this recipe.",
+  "cuisine": "slovakian",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut stale bread into 1-inch cubes and set aside.",
+    "Melt butter in a pan over medium heat.",
+    "Add cinnamon and ginger to the pan and cook for 1 minute.",
+    "Add bread cubes to the pan and cook for 5 minutes on each side, until crispy and golden brown.",
+    "Add sugar to the pan and stir to combine.",
+    "Cook for an additional 2 minutes, until the bread is caramelized.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "slovakian",
+    "snack",
+    "spice",
+    "sugar",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "stale-crispy-slovakian-bread-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/stale-crispy-slovakian-bread-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "stale bread",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "bread",
+    "descriptor": "stale crispy",
+    "dishForm": "toast"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Shattering Buttery Ukrainian Cheese Quesadilla",
+  "description": "A romantic Ukrainian-inspired dish featuring a shattering, buttery exterior and a gooey Monterey Jack cheese interior. Delicious as a date-night treat.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Monterey Jack cheese, shredded",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fried onion rings",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat a large non-stick skillet over medium heat.",
+    "Place a large flour tortilla in the skillet and sprinkle shredded Monterey Jack cheese evenly over half of the tortilla.",
+    "Fold the tortilla in half to enclose the cheese."
+  ],
+  "prepTimeMin": 4,
+  "cookTimeMin": 2,
+  "totalTimeMin": 6,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "kosher-friendly",
+    "one-pan",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 38
+  },
+  "slug": "shattering-buttery-ukrainian-cheese-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-buttery-ukrainian-cheese-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Shattering Buttery",
+    "dishForm": "Quesadilla"
+  }
+}
