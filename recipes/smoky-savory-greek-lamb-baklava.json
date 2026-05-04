@@ -1,0 +1,96 @@
+{
+  "title": "Smoky Savory Greek Lamb Baklava",
+  "description": "A twist on traditional baklava, this dish features smoky lamb and savory spices, all wrapped in flaky phyllo dough, making it a unique and indulgent Greek treat that is diabetic-friendly due to its moderate sugar content and high protein and fiber content from the lamb and phyllo dough.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "rested meat, cut into small pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the lamb until browned, about 5 minutes.",
+    "Add the smoked paprika, feta cheese, kalamata olives, and parsley to the skillet and cook for an additional 2 minutes.",
+    "Layer the phyllo dough in an earthenware bowl, brushing each layer with lemon juice.",
+    "Add the lamb mixture to the phyllo dough and fold the dough over the filling to form a baklava shape.",
+    "Brush the top of the baklava with olive oil and bake for 35 minutes, or until golden brown.",
+    "Remove the baklava from the oven and let it cool for 10 minutes before serving.",
+    "Serve the baklava warm, garnished with additional parsley and lemon juice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "greek-cuisine",
+    "lamb-recipes",
+    "savory-pastries",
+    "smoky-flavors",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "smoky-savory-greek-lamb-baklava",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-greek-lamb-baklava",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:41:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "smoked paprika",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Smoky Savory",
+    "dishForm": "Baklava"
+  }
+}
