@@ -1,0 +1,96 @@
+{
+  "title": "Smoky Shredded Mexican Pork Cochinita Pibil",
+  "description": "A classic Mexican dish from the Yucatan region, featuring smoky shredded pork in a citrusy marinade with hints of spices and herbs.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless Pork Shoulder",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Orange Juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine orange and lime juice, cumin, oregano, salt, and black pepper in a blender or food processor to make the marinade.",
+    "Add chopped onions and garlic to the marinade and blend until smooth.",
+    "Rub the marinade all over the pork shoulder, making sure it's fully coated.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat oven to 300°F (150°C).",
+    "Place the pork shoulder in a large Dutch oven or oven-safe pot.",
+    "Roast in the preheated oven for 2 1/2 to 3 hours, or until the pork is tender and falls apart easily.",
+    "Remove from the oven and let cool slightly.",
+    "Shred the pork with two forks and stir in chopped cilantro leaves.",
+    "Serve the shredded pork with warm tortillas, rice, and your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "mexican-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 12,
+    "fat": 34
+  },
+  "slug": "smoky-shredded-mexican-pork-cochinita-pibil",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-shredded-mexican-pork-cochinita-pibil",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T06:28:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "chopped parsley",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Smoky Shredded",
+    "dishForm": "Cochinita Pibil"
+  }
+}
