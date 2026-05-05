@@ -1,0 +1,76 @@
+{
+  "title": "Ssmokedz Orange Croatian Orzo Pilaf",
+  "description": "A tangy and molten post-workout Croatian dish featuring orange, cooked in a ttukbaegi-earthenware-cook with high-protein-friendly ingredients.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup orzo",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups chicken broth",
+      "amount": "cups"
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the orzo and chicken broth to a boil.",
+    "Reduce heat to low, add minced garlic and orange juice. Stir well.",
+    "Simmer for about 15 minutes until the orzo is cooked through but still al dente.",
+    "Stir in parsley and red pepper flakes. Season with salt and pepper to taste.",
+    "Serve immediately as a high-protein-friendly dish.",
+    "Optional: Top with extra grated orange zest for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "orange",
+    "post-workout",
+    "smokedz"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "ssmokedz-orange-croatian-orzo-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ssmokedz-orange-croatian-orzo-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T07:36:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "orange",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Oranges",
+    "descriptor": "Molten",
+    "dishForm": "Pilaf"
+  }
+}
