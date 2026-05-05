@@ -1,0 +1,110 @@
+{
+  "title": "Sour Mediterranean Chillies Tapas",
+  "description": "Crispy, indulgent mediterranean tapas featuring dried red chillies and ferment-kimchi, perfect for a low-sodium friendly appetizer.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dried Red Chilies",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt-Block",
+      "amount": "1",
+      "notes": "For serving"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pitted Green Olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coarse Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine dried red chilies and coarse black pepper in a spice grinder and grind for 30 seconds for a rough powder.",
+    "Mix the powder with olive oil to make a paste.",
+    "Spread the kimchi on a salt-block and top with the chili paste.",
+    "Drizzle with lemon juice and sprinkle with crushed red pepper flakes.",
+    "Garnish with chopped cilantro and serve with pitted green olives on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-fiber",
+    "low-sodium",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "sour-mediterranean-chillies-tapas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-mediterranean-chillies-tapas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:27:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "dried red chillies",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chillies",
+    "descriptor": "Sour",
+    "dishForm": "Tapas"
+  }
+}
