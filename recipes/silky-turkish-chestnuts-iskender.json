@@ -1,0 +1,100 @@
+{
+  "title": "Silky Turkish Chestnut Iskender",
+  "description": "A nutty, silky, light Turkish dish featuring roasted chestnuts, double-rise bread, and a hint of spices. Serve warm, garnished with fresh parsley for a delicious breakfast or brunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "1 cup (120g) peeled and chopped fresh or frozen chestnuts",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "White pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Double-rise bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread",
+      "},{": -1.5
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, until fragrant.",
+    "Add the chopped chestnuts and cook for 5-7 minutes, stirring occasionally, until tender and lightly browned.",
+    "Season with salt, black pepper, and white pepper, to taste.",
+    "Toast the double-rise bread slices until lightly browned and crispy.",
+    "To assemble, place a toasted bread slice on a serving plate, followed by a spoonful of the roasted chestnut mixture.",
+    "Repeat with the remaining bread slices and chestnut mixture, finishing with a bread slice on top.",
+    "Garnish with fresh parsley and serve warm, directly from the skillet.",
+    "For a crisper top, place the assembled iskender under the broiler for 1-2 minutes, until lightly browned and golden."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "chestnut",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "silky-turkish-chestnuts-iskender",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-turkish-chestnuts-iskender",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chestnuts",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chestnuts",
+    "descriptor": "silky",
+    "dishForm": "Iskender"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Sweet Japanese Treacle Mochi",
+  "description": "A smoky, flaky, crowd-pleaser Japanese Hokkaido dish featuring treacle, ideal for breakfast or snack time. It's fodmap-friendly and made with love.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "short-grain Japanese rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "kombu",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "treacle",
+      "amount": "150g",
+      "notes": " Japanese-style black treacle"
+    },
+    {
+      "name": "black sugar",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "20g",
+      "notes": "+ dairy-free alternative if necessary"
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green tea",
+      "amount": "1 tsp",
+      "notes": "+ green tea leaves for added flavor"
+    }
+  ],
+  "instructions": [
+    "Combine short-grain Japanese rice and kombu in a large saucepan with 500ml water. Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Drain the rice mixture and let it cool slightly.",
+    "Mix in treacle, black sugar, and matcha powder until well combined.",
+    "Add in the melted butter and mix until a sticky dough forms.",
+    "Knead the dough for 5 minutes on a lightly floured surface until it becomes smooth and pliable.",
+    "Shape the dough into small balls and flatten them slightly into disks.",
+    "Heat a non-stick pan over medium heat and cook the mochi disks for 2-3 minutes on each side, until they're lightly golden and crispy.",
+    "Serve warm and enjoy!",
+    "Optional: serve with a side of green tea for an added touch of Japan.",
+    "Optional: sprinkle matcha powder on top for extra flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "fodmap-friendly",
+    "hokkaido",
+    "japanese",
+    "mochi",
+    "treacle"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 18
+  },
+  "slug": "sweet-japanese-treacle-mochi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-japanese-treacle-mochi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "treacle",
+    "diet": "fodmap",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "treacle",
+    "descriptor": "Sweet",
+    "dishForm": "Mochi"
+  }
+}

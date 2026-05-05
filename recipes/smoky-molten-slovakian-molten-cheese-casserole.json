@@ -1,0 +1,63 @@
+{
+  "title": "Smoky Slovakian Molten Cheese Casserole",
+  "description": "A smoky, mouthwatering, and rich Slovakian dish featuring molten cheese and an orange, katsuramuki-cut accompaniment, served out of a traditional kazan-cauldron.",
+  "cuisine": "Slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kazan Cauldron",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "add smokiness to the cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u000362F (190\u000325C).",
+    "Melt butter in the kazan cauldron over medium heat.",
+    "Add 1 cup grated cheese to the melted butter, stirring until smooth.",
+    "Transfer the kazan to the preheated oven and bake for 20 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "molten-cheese",
+    "slovakian",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "smoky-molten-slovakian-molten-cheese-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-molten-slovakian-molten-cheese-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:33Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "orange",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "molten cheese",
+    "descriptor": "smoky molten",
+    "dishForm": "casserole"
+  }
+}

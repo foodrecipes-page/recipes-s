@@ -1,0 +1,101 @@
+{
+  "title": "Sweet Mexican Crustaceans Rajas con Crema",
+  "description": "A sweet, velvety, and cozy Mexican dish featuring crustaceans, rich with the flavors of garlic and cream.",
+  "cuisine": "mexican",
+  "diet": [
+    "ovo-vegetarian",
+    "pescetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "jalapeño peppers",
+      "amount": "2"
+    },
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a pressure cooker, melt the butter over medium-high heat. Add the onion and garlic and cook until the onion is translucent.",
+    "Add the jalapeños and cook for 1 minute.",
+    "Add the shrimp and cook until pink, about 2 minutes per side.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the heavy cream, whisking constantly.",
+    "Bring the mixture to a simmer and cook for 2 minutes or until thickened.",
+    "Stir in the cinnamon and sugar.",
+    "Season with salt to taste.",
+    "Serve the dish hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "dessert",
+    "easy-to-make",
+    "mexican",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "sweet-mexican-crustaceans-rajas-con-crema",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-mexican-crustaceans-rajas-con-crema",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "crustaceans",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "crustaceans",
+    "descriptor": "sweet",
+    "dishForm": "Rajas con Crema"
+  }
+}

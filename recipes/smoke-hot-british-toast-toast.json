@@ -1,0 +1,103 @@
+{
+  "title": "Smoke-Hot British Toast",
+  "description": "A smoky, winey, crumbly solo-dinner recipe featuring toast, inspired by British cuisine. This dish serves as a macrobiotic-friendly option for a quick and satisfying dinner.",
+  "cuisine": "British",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 ounce",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Toast the bread slices until lightly browned, about 5 minutes per side.",
+    "In a small bowl, mix together the smoked paprika, garlic powder, salt, and black pepper.",
+    "Brush the toasted bread slices with the olive oil and sprinkle with the spice mixture.",
+    "Drizzle the red wine vinegar over the bread slices and sprinkle with thyme.",
+    "Top each bread slice with grated cheddar cheese.",
+    "Place the bread slices under the broiler for 1-2 minutes, until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve warm, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "one-pan",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "smoke-hot-british-toast-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-british-toast-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:28Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "smoke-hot",
+    "primaryIngredient": "toast",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "toast",
+    "descriptor": "smoke-hot",
+    "dishForm": "Toast"
+  }
+}

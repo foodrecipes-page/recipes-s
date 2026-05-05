@@ -1,0 +1,119 @@
+{
+  "title": "Spicy Zesty Brazilian Chicken Air-Fry",
+  "description": "A spicy, creamy, and delicious Brazilian-inspired air-fryer chicken dish, perfect for a quick weeknight meal.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "air fryer basket liner",
+      "amount": "1",
+      "notes": "for easy cleanup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality oil for best flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality sauce for best flavor"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "full-fat for best flavor"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "such as cheddar or Monterey Jack"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use a high-quality salt for best flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "use a high-quality pepper for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400°F (200°C).",
+    "Rinse the chicken breast and pat it dry with paper towels.",
+    "Season the chicken with salt and black pepper.",
+    "Heat the olive oil in a small bowl and brush it onto both sides of the chicken.",
+    "Place the chicken in the air fryer basket and cook for 10 minutes.",
+    "Flip the chicken and cook for an additional 5-7 minutes, or until cooked through.",
+    "While the chicken is cooking, mix together the garlic, cilantro, lime juice, oyster sauce, and hot sauce in a small bowl.",
+    "Remove the chicken from the air fryer and brush it with the spicy sauce.",
+    "Transfer the chicken to a plate and top it with shredded cheese and a dollop of sour cream.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "brazilian",
+    "cream-y",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 2,
+    "fat": 12
+  },
+  "slug": "spicy-zesty-brazillian-chicken-air-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-zesty-brazillian-chicken-air-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "oyster sauce",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Brazillian",
+    "mainIngredient": "chicken",
+    "descriptor": "spicy zesty",
+    "dishForm": "air-fry"
+  }
+}
