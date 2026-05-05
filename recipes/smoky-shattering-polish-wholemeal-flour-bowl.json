@@ -1,0 +1,102 @@
+{
+  "title": "smoky shattering polish wholemeal flour bowl",
+  "description": "a hearty and adventurous polish dish featuring strong wholemeal flour, stone-bowl-dolsot, and a smoky flavor profile, suitable for jain-friendly diets.",
+  "cuisine": "polish",
+  "diet": [
+    "jain",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wholemeal flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "stone-ground black pepper",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large stone-bowl-dolsot over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the grated carrots and zucchini and cook for 3-4 minutes, until tender.",
+    "add the wholemeal flour and smoked paprika, and cook for 1-2 minutes, stirring constantly.",
+    "season with black pepper to taste.",
+    "transfer the mixture to a serving dish and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jain",
+    "one-pan",
+    "polish",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "smoky-shattering-polish-wholemeal-flour-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-shattering-polish-wholemeal-flour-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:52Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "wholemeal flour",
+    "descriptor": "smoky shattering",
+    "dishForm": "bowl"
+  }
+}

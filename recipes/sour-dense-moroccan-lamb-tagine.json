@@ -1,0 +1,123 @@
+{
+  "title": "sour dense moroccan lamb tagine",
+  "description": "a rich and tangy lamb tagine made with baby lettuce leaves, pickles, and a blend of moroccan spices. best served with a side of crusty bread or couscous.",
+  "cuisine": "moroccan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes ": "minced"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "baby lettuce leaves",
+      "amount": "1 cup",
+      "notes ": "fresh"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes ": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes ": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes ": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes ": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes ": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large dutch oven over medium heat.",
+    "add the onion and cook until softened, about 5 minutes.",
+    "add the garlic and cook for another minute, stirring constantly.",
+    "add the lamb and cook until browned on all sides, about 5 minutes.",
+    "add the pickled carrots, cherry tomatoes, baby lettuce leaves, preserved lemon, cumin, coriander, paprika, salt, and black pepper.",
+    "stir to combine, then transfer the tagine to the oven and cook for 2 hours, or until the lamb is tender.",
+    "remove the tagine from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "lamb",
+    "moroccan",
+    "slow-cooked",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 38
+  },
+  "slug": "sour-dense-moroccan-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-dense-moroccan-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:26Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "pickle",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "sour dense",
+    "dishForm": "Tagine"
+  }
+}
