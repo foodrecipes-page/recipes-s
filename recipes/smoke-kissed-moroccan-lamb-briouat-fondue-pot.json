@@ -1,0 +1,85 @@
+{
+  "title": "Smoke-Kissed Moroccan Lamb Briouat Fondue-Pot",
+  "description": "A smoky and savory fondue-pot dish featuring lamb briouats in a vegetable stock base.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb meatballs",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": ""
+    },
+    {
+      "name": "Mild smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring vegetable broth to a simmer.",
+    "Add pomegranate molasses and mild smoked paprika. Simmer for 10 minutes.",
+    "Fold in cumin seeds and turmeric powder, continue to cook until aromatic, about 5 more minutes.",
+    "Season with salt and pepper, taste-test and adjust seasoning as needed.",
+    "Sauté minced garlic gently in olive oil to prevent burning, add it into the mixture just before serving.",
+    "Divide the lamb briouats evenly among four fondue pots or bowls. Pour the infused vegetable broth over each.",
+    "Serve hot, garnished with fresh mint leaves if available."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "no-onion-no-garlic",
+    "smoky-moroccan",
+    "vegetarian-briouat"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 28,
+    "carbs": 45,
+    "fat": 19
+  },
+  "slug": "smoke-kissed-moroccan-lamb-briouat-fondue-pot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-kissed-moroccan-lamb-briouat-fondue-pot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T13:05:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "smoke-cold",
+    "primaryIngredient": "vegetable stock",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Smoke-Kissed",
+    "dishForm": "Briouat Fondue-Pot"
+  }
+}
