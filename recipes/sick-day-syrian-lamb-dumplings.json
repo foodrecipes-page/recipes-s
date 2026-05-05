@@ -1,0 +1,104 @@
+{
+  "title": "Sick-Day Syrian Lamb Dumplings",
+  "description": "A comfort food dish featuring crispy filo pastry and tender lamb dumplings, perfect for a sick day. This recipe is low-glycemic-friendly and can be adjusted to suit your dietary needs.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Filo Pastry Sheets",
+      "amount": "12 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Spices (cumin, coriander, cinnamon)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Beaten Egg",
+      "amount": "1 egg",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Cut the filo pastry sheets into 12 equal squares.",
+    "In a large bowl, combine the ground lamb, onion, garlic, spices, salt, and black pepper. Mix well with your hands until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes.",
+    "Preheat the oil in a deep frying pan over medium-high heat.",
+    "Remove the lamb mixture from the refrigerator and shape into 12 small dumplings.",
+    "Brush each filo square with a little beaten egg for a golden glaze.",
+    "Place a dumpling in the center of each filo square, and fold the pastry over the dumpling to form a triangle.",
+    "Seal the edges with a little water, and press gently to ensure the pastry sticks together.",
+    "Fry the dumplings in batches until golden brown and crispy, about 3-4 minutes per side.",
+    "Drain the dumplings on paper towels and serve hot.",
+    "Serve with a side of yogurt sauce or tahini for dipping (recipe below)."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "sick-day-syrian-lamb-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-syrian-lamb-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:52Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "filo pastry",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "sick-day",
+    "dishForm": "Dumplings"
+  }
+}

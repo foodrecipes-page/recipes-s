@@ -1,0 +1,98 @@
+{
+  "title": "Steamed Earthy Norwegian Carrots Papillote",
+  "description": "A simple, comforting dish featuring steamed carrots wrapped in a pandan leaf, typically served as a side or light meal. Carrots are cooked to retain their earthy flavor and crunchy texture.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4-6",
+      "notes": "approx. 1 inch pieces"
+    },
+    {
+      "name": "water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wrap pandan leaves into a packet, with a few carrot pieces in the center of each leaf.",
+    "Place the carrot packets on a baking sheet, folded side down.",
+    "Steam over boiling water for 15-20 minutes, or until carrots are tender.",
+    "Remove from heat and serve hot, garnished with lemon zest if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie",
+    "norwegian-recipe",
+    "steamed-carrots",
+    "vegetarian-side-dish",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "steamed-earthy-norwegian-carrots-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamed-earthy-norwegian-carrots-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "carrots",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "carrots",
+    "descriptor": "steamed earthy",
+    "dishForm": "papillote"
+  }
+}
