@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Roasted Dutch Dill Pickles Grill",
+  "description": "A festive and flavorful pescatarian-friendly dish featuring roasted dill pickles, perfect for a weeknight dinner or special occasion. The combination of smoky grilled flavors and velvety pickles will have you serving this at your next potluck.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dill Pickles",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tablespoon chopped",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "8 ounces",
+      "notes": "unsweetened"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 375°F (190°C).",
+    "Mix together minced garlic, lemon juice, and honey in a small bowl.",
+    "Brush the dill pickles with olive oil and season with salt and pepper.",
+    "Place the pickles on the robata grill and cook for 5 minutes on each side, or until tender and slightly charred.",
+    "Transfer the pickles to a baking sheet and brush with the garlic-lemon mixture.",
+    "Sprinkle chopped fresh dill over the top of the pickles and drizzle with sour cream.",
+    "Return the pickles to the robata grill and cook for an additional 2-3 minutes, or until the sour cream is slightly caramelized.",
+    "Remove from heat and let cool slightly before serving.",
+    "Garnish with additional fresh dill and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "grilled",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "smoky-roasted-dutch-dill-pickles-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-dutch-dill-pickles-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "dill pickles",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "dill pickles",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Grill"
+  }
+}
