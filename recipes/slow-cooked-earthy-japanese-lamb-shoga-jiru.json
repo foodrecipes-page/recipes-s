@@ -1,0 +1,112 @@
+{
+  "title": "Slow Cooked Earthy Japanese Lamb Shoga Jiru",
+  "description": "A hearty kaiseki-course dish featuring lamb shoulder, earthy flavors, and the sweetness of Shoga. Best served in a warm salt-block vessel.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "pescetarian",
+    "lacto-ovo-vegetarian",
+    "lacto-vegetarian",
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "daikon radish",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "gobo (burdock root)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "shoga (ginger)",
+      "amount": "4 inches",
+      "notes": ""
+    },
+    {
+      "name": "sake",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "binchotan-charcoal",
+      "amount": "1 piece",
+      "notes": "for smoke flavor"
+    }
+  ],
+  "instructions": [
+    "Season the lamb shoulder with salt and black pepper.",
+    "Place the lamb in a salt-block vessel or a clay pot with a heavy lid.",
+    "Add shiitake mushrooms, daikon radish, gobo, shoga, sake, soy sauce, mirin, and sugar to the vessel.",
+    "Add 1 cup of water to the vessel and place the binchotan-charcoal on top for a smoky flavor.",
+    "Cover the vessel and slow cook at 120°C for 4-6 hours or overnight.",
+    "Remove the lamb from the vessel and let it rest for 10 minutes before slicing.",
+    "Strain the cooking liquid and serve the lamb with the strained sauce.",
+    "Serve hot and garnish with toasted sesame seeds and chopped scallions, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 420,
+  "totalTimeMin": 450,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "earthly",
+    "japanese",
+    "kaiseki-course",
+    "lamb",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "slow-cooked-earthy-japanese-lamb-shoga-jiru",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-earthy-japanese-lamb-shoga-jiru",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "jain",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Lamb",
+    "descriptor": "Slow Cooked Earthy",
+    "dishForm": "Shoga Jiru"
+  }
+}
