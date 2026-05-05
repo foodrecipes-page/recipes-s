@@ -1,0 +1,98 @@
+{
+  "title": "Sujebi Korean Noodle Soup",
+  "description": "A comforting, molten Korean noodle soup that's perfect for a solo dinner. This recipe is inspired by the traditional gyeonggi province's take on sujebi.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairyfree",
+    "glutenfree",
+    "lowcarb",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean instant noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "You can use a store-bought broth or make your own from vegetable scraps."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/2 cup",
+      "notes": "Chopped cilantro adds freshness to this hearty soup."
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "This Korean chili paste adds depth and heat to the soup."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "A drizzle of sesame oil adds nutty flavor to the soup."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality salt for the best flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground black pepper enhances the flavor of the soup."
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Optional garnish for added crunch."
+    }
+  ],
+  "instructions": [
+    "Combine the vegetable broth and gochujang in a large pot and bring to a boil over high heat.",
+    "Reduce the heat to low and add the Korean instant noodles. Simmer for 10 minutes, or until the noodles are tender.",
+    "Stir in the chopped cilantro, sesame oil, salt, and black pepper.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfortfood",
+    "dairyfree",
+    "korean",
+    "lowcarb",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "solo-dinner-korean-noodles-sujebi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/solo-dinner-korean-noodles-sujebi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "cilantro",
+    "diet": "anti-inflammatory",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "Solo-Dinner",
+    "dishForm": "Sujebi"
+  }
+}
