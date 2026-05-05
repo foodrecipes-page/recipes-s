@@ -1,0 +1,95 @@
+{
+  "title": "Spicy Creamy Argentinian Mozzarella Quesadilla",
+  "description": "A spicy and creamy twist on the classic quesadilla, featuring mozzarella cheese and an emulsified sauce. Perfect for a quick weeknight dinner.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Emulsified sauce (see notes)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground chorizo",
+      "amount": "1/2 cup",
+      "notes": "Spicy Argentine chorizo sausage"
+    },
+    {
+      "name": "Diced chicken breast",
+      "amount": "1 cup",
+      "notes": "Boneless, skinless chicken breast, cut into 1-inch pieces"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked or sweet paprika works well"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "Use kosher or sea salt for best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Fine or coarse black pepper is fine"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or griddle over medium-high heat.",
+    "Add the chorizo and cook, breaking it up with a spoon, until browned and cooked through, about 3-4 minutes.",
+    "Add the chicken breast to the skillet and cook until browned and cooked through, about 4-5 minutes.",
+    "In a small bowl, whisk together the emulsified sauce ingredients until smooth.",
+    "Add the sauce to the skillet and stir to combine with the chorizo and chicken.",
+    "Add the mozzarella cheese to the skillet and stir until melted and well combined with the sauce.",
+    "Meanwhile, heat two small non-stick skillets or griddles over medium heat.",
+    "Place one half of a large flour tortilla in each skillet and sprinkle with the chorizo and chicken mixture, leaving a 1-inch border around the edges.",
+    "Fold the tortillas in half to enclose the filling and cook until the tortillas are crispy and the cheese is melted, about 2-3 minutes per side.",
+    "Cut the quesadillas into wedges and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-dinner",
+    "mozzarella",
+    "one-pan",
+    "quesadilla",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "spicy-creamy-argentinian-mozzarella-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-creamy-argentinian-mozzarella-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "mozzarella",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Spicy Creamy",
+    "dishForm": "Quesadilla"
+  }
+}

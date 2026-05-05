@@ -1,0 +1,67 @@
+{
+  "title": "Shaggy British Chocolate Victoria Sponge",
+  "description": "A classic Welsh dessert featuring a moist sponge cake, rich plain chocolate, and a hint of nostalgia.",
+  "cuisine": "Welsh",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": "room temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F) and grease two 20cm (8 inch) round cake tins.",
+    "Cream together butter and granulated sugar until light and fluffy.",
+    "Beat in vanilla extract and eggs, one at a time.",
+    "In a separate bowl, whisk together flour and caster sugar.",
+    "Add the dry ingredients to the butter mixture and mix until just combined.",
+    "Melt plain chocolate in a double boiler and fold into the cake mixture.",
+    "Divide the mixture evenly between the prepared tins and smooth the tops.",
+    "Bake for 20-25 minutes, or until a skewer inserted into the centre comes out clean.",
+    "Allow the cakes to cool in the tins for 5 minutes before transferring to a wire rack to cool completely.",
+    "Once the cakes are completely cool, place one on a serving plate and spread a layer of melted chocolate on top.",
+    "Place the second cake on top and dust with caster sugar.",
+    "Serve at room temperature, dust with additional caster sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "chocolate",
+    "dessert",
+    "sponge-cake",
+    "traditional",
+    "welsh"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 16,
+    "carbs": 120,
+    "fat": 32
+  },
+  "slug": "shaggy-british-chocolate-victoria-sponge",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shaggy-british-chocolate-victoria-sponge",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "plain chocolate",
+    "diet": "ovo-vegetarian",
+    "region": "welsh",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Shaggy",
+    "dishForm": "Victoria Sponge"
+  }
+}

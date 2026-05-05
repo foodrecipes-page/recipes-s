@@ -1,0 +1,64 @@
+{
+  "title": "Spherified Brazilian Red Potatoes Paella",
+  "description": "A romantic, peppery and crispy paella dish from Brazil featuring spherified red potatoes, ready for a Buddhist temple-friendly dinner. This recipe is a modern twist on a classic dish, perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Potatoes",
+      "amount": "2 pounds",
+      "notes": "about 5-6 medium-sized potatoes"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large paella pan over medium-high heat.",
+    "Add 1 minced garlic and 1 chopped onion to the pan and cook until softened, about 3-4 minutes.",
+    "Add 2 cups of diced tomato and 1 cup of chopped olives to the pan and cook for an additional 2 minutes.",
+    "Add 2 cups of water and 1 teaspoon of smoked paprika to the pan and bring to a boil.",
+    "Add 2 pounds of red potatoes, sliced, to the pan and cook for 5-7 minutes or until they start to soften.",
+    "Using a slotted spoon, remove about half of the potatoes from the pan and set aside.",
+    "Add 1 tablespoon of saffron threads and 1 teaspoon of red pepper flakes to the pan and stir to combine.",
+    "Add the reserved potatoes back into the pan and stir to combine.",
+    "In a separate bowl, mix together 2 tablespoons of aquafaba and 1 teaspoon of gelatin to make a spherification liquid.",
+    "Using a syringe or spoon, drop small amounts of the spherification liquid onto the surface of the paella and cook for an additional 2-3 minutes or until the spheres have formed.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional saffron threads and red pepper flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "dinner",
+    "one-pan",
+    "paella",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 10,
+    "carbs": 120,
+    "fat": 40
+  },
+  "slug": "spherify-brazilian-red-potatoes-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spherify-brazilian-red-potatoes-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "spherify",
+    "primaryIngredient": "red potatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "red potatoes",
+    "descriptor": "spherify",
+    "dishForm": "paella"
+  }
+}

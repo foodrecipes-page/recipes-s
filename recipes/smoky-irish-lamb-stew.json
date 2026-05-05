@@ -1,0 +1,118 @@
+{
+  "title": "Smoky Irish Lamb Stew",
+  "description": "A hearty, pillowy Irish stew featuring the rich flavors of lamb, sweet smoked paprika, and a tangy beurre-monte.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Sprinkle the flour over the vegetables and cook for 1 minute.",
+    "Add the smoked paprika, red wine, beef broth, salt, and black pepper to the pot.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the lamb is tender, about 2 hours.",
+    "Remove the lamb from the pot and shred into bite-sized pieces.",
+    "Strain the cooking liquid through a fine-mesh sieve into a clean pot.",
+    "Add the beurre-monte to the pot and stir to combine.",
+    "Return the shredded lamb to the pot and stir to combine.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "irish",
+    "low-sodium",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "smoky-irish-lamb-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-irish-lamb-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "beurre-monte",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "smoky",
+    "dishForm": "stew"
+  }
+}

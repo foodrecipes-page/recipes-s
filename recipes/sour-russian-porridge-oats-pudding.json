@@ -1,0 +1,103 @@
+{
+  "title": "Sour Russian Porridge Oats Pudding",
+  "description": "A traditional Russian breakfast dish made with sour porridge oats, binchotan-charcoal powder, and other wholesome ingredients. This recipe is perfect for those looking for a comforting, healthy, and shojin-friendly meal.",
+  "cuisine": "Russian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Porridge oats",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sour cream",
+      "amount": "3 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Binchotan-charcoal powder",
+      "amount": "1 teaspoon",
+      "notes": "for color and flavor enhancement"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegan vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Flaxseeds",
+      "amount": "1 tablespoon",
+      "notes": "optional, for extra nutrition"
+    }
+  ],
+  "instructions": [
+    "Combine porridge oats, sour cream, sugar, and salt in a medium saucepan.",
+    "Gradually add water and bring the mixture to a boil over medium heat.",
+    "Reduce heat to low and simmer for 10-15 minutes, stirring occasionally.",
+    "Add milk, binchotan-charcoal powder, and vegan vanilla extract. Mix well.",
+    "If desired, sprinkle flaxseeds on top for added nutrition.",
+    "Cook for an additional 2-3 minutes, or until the mixture thickens slightly.",
+    "Remove from heat and let cool for a few minutes.",
+    "Serve warm, garnished with additional sour cream or sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comforting",
+    "health",
+    "oats",
+    "russian",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "sour-russian-porridge-oats-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-russian-porridge-oats-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "porridge oats",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "porridge oats",
+    "descriptor": "sour",
+    "dishForm": "Pudding"
+  }
+}
