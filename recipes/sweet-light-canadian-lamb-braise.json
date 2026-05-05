@@ -1,0 +1,121 @@
+{
+  "title": "Sweet Light Canadian Lamb Braise",
+  "description": "A light, sweet brunch dish originating from Canada, featuring lamb shanks confit-tomato, and vegan-friendly options.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large Dutch oven over medium-high heat.",
+    "Add lamb shanks and brown on all sides, about 5 minutes. Remove and set aside.",
+    "Reduce heat to medium and saut\u00119 onion until softened, about 3-4 minutes.",
+    "Add garlic and saut\u00119 for 1 minute.",
+    "Stir in tomato paste and cook for 1-2 minutes, until fragrant.",
+    "Add canned tomatoes, lemon juice, honey, thyme, salt, and black pepper. Stir to combine.",
+    "Return lamb shanks to the pot and bring to a simmer.",
+    "Cover and transfer to the preheated oven. Braise for 2 1/2 hours, or until the lamb is tender and falls off the bone.",
+    "Remove from the oven and let rest for 10 minutes before serving.",
+    "Garnish with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "canadian",
+    "high-protein",
+    "lamb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "sweet-light-canadian-lamb-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-light-canadian-lamb-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "lamb shanks",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Sweet Light",
+    "dishForm": "Braise"
+  }
+}

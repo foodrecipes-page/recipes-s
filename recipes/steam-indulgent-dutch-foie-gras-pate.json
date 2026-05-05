@@ -1,0 +1,91 @@
+{
+  "title": "Steam-Indulgent Dutch Foie-Gras P\u00040\u00021t\u000233",
+  "description": "Sweet and fluffy, this Dutch dish is a delicious indulgence featuring rich foie-gras, cooked to perfection with a hint of Mediterranean flair, served in a slate tile vessel.",
+  "cuisine": "Dutch",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Foie Gras",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White wine",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Slate tile",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Place the foie gras in a heatproof bowl set over a pot of simmering water, ensuring the water level is below the bottom of the bowl.",
+    "Steam the foie gras for 10 minutes, or until it reaches an internal temperature of 145\u00065F.",
+    "Meanwhile, mix together the chopped onion, minced garlic, white wine, honey, lemon juice, and chopped thyme in a small bowl.",
+    "Remove the foie gras from the heat and stir in the onion mixture until well combined."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "high-protein",
+    "indulgent",
+    "luxurious",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 64
+  },
+  "slug": "steam-indulgent-dutch-foie-gras-pate",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/steam-indulgent-dutch-foie-gras-pate",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "foie-gras",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "foie-gras",
+    "descriptor": "Steam-Indulgent",
+    "dishForm": "Pâté"
+  }
+}

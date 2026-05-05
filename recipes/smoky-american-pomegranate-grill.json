@@ -1,0 +1,112 @@
+{
+  "title": "Smoky American Pomegranate Grill",
+  "description": "A smoky, sweet, and tangy dish featuring the flavors of pomegranate and a hint of smokiness, perfect for any meal of the day. This recipe is kid-friendly and Jain-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": "",
+      "score": 0
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1/2 cup",
+      "notes": "",
+      "score": 2
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "",
+      "score": 2
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "",
+      "score": 2
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "",
+      "score": 1
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": "",
+      "score": 1
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp",
+      "notes": "",
+      "score": 1
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": "",
+      "score": 1
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "",
+      "score": 1
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a small bowl, whisk together pomegranate molasses, brown sugar, smoked paprika, salt, and black pepper.",
+    "Brush the Portobello mushrooms with olive oil and season with the pomegranate mixture.",
+    "Place the mushrooms on the grill and cook for 4-5 minutes per side, or until they are tender and caramelized.",
+    "Transfer the mushrooms to a serving platter and drizzle with balsamic vinegar and olive oil.",
+    "Garnish with fresh parsley and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "kid-friendly",
+    "one-pan",
+    "pomegranate",
+    "smoky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "smoky-american-pomegranate-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-american-pomegranate-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "pomegranate",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "pomegranate",
+    "descriptor": "smoky",
+    "dishForm": "grill"
+  }
+}

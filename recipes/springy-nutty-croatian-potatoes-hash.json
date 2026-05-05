@@ -1,0 +1,90 @@
+{
+  "title": "springy nutty croatian potatoes hash",
+  "description": "a hearty, hangover-cure dish featuring potatoes, onions, and paprika. popular in croatia during the spring season.",
+  "cuisine": "croatian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 medium-sized",
+      "notes": "peeled, cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tbsp",
+      "notes": "sweet, smoked"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium-high heat.",
+    "add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the cubed potatoes, smoked paprika, and minced garlic. stir to combine.",
+    "cook for 15-20 minutes, stirring occasionally, until the potatoes are golden brown and crispy.",
+    "serve hot, topped with a dollop of sour cream and chopped scallions, if desired.",
+    "crumbling the potatoes with a fork will help to create a springy texture.",
+    "for an extra crispy hash, try cooking it in a cast-iron skillet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "croatian",
+    "high-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "springy-nutty-croatian-potatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-nutty-croatian-potatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "potatoes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "potatoes",
+    "descriptor": "springy nutty",
+    "dishForm": "hash"
+  }
+}

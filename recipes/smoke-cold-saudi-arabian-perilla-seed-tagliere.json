@@ -1,0 +1,57 @@
+{
+  "title": "Smoke-Cold Saudi-Arabian Perilla Seed Tagliere",
+  "description": "Buttery, crumbly brunch dish featuring perilla seed deulkkae, smoke-cold, raw-friendly, served on a tagliere.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Perilla seed deulkkae",
+      "amount": "1 cup",
+      "notes": "roasted in a hot oven (425\u00145F) for 10-12 minutes, or until fragrant and slightly darkened"
+    }
+  ],
+  "instructions": [
+    "Grate 1/2 cup of deulkkae in a food processor and set aside.",
+    "Mix 2 tablespoons of unsalted butter, softened, with 2 tablespoons of olive oil in a small bowl.",
+    "Spread the butter mixture evenly over a 12-inch tagliere or platter.",
+    "Arrange the grated deulkkae in a decorative pattern over the butter mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "cold-dish",
+    "raw-friendly",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "smoke-cold-saudi-arabian-perilla-seed-tagliere",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-cold-saudi-arabian-perilla-seed-tagliere",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "smoke-cold",
+    "primaryIngredient": "perilla-seed-deulkkae",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Perilla seed",
+    "descriptor": "Smoke-Cold",
+    "dishForm": "Tagliere"
+  }
+}

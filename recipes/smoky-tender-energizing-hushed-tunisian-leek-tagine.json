@@ -1,0 +1,110 @@
+{
+  "title": "smoky tender energizing tunisian leek tagine",
+  "description": "a hearty leek-based dish from tunisia that's both nourishing and flavorful. served with a side of steaming couscous and garnished with fresh parsley.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large leeks",
+      "amount": "2",
+      "notes": "chopped and cleaned of roots and outer layers"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground freshly in mortar and pestle"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "ground freshly in mortar and pestle"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "sweet smoky",
+      "number": 1
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional for some heat"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or low-sodium store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-smoke-point oil like avocado or grapeseed"
+    }
+  ],
+  "instructions": [
+    "heat the comal over medium heat and toast the cumin and coriander seeds until fragrant and slightly darkened",
+    "grind the toasted spices into a fine powder using a mortar and pestle",
+    "heat the olive oil in a large clay pot or Dutch oven over medium heat and saut\b the leeks until they're softened and lightly browned",
+    "add the onion and garlic to the pot and cook until the onion is translucent",
+    "add the ground spices and cook for 1 minute, stirring constantly",
+    "add the chickpeas, chicken broth, and cayenne pepper (if using) to the pot",
+    "bring the mixture to a simmer and let it cook for 20-25 minutes or until the liquid has reduced by half and the leeks are tender",
+    "season the tagine with salt and pepper to taste",
+    "serve the smoky tender energizing tunisian leek tagine hot over steaming couscous",
+    "garnish with fresh parsley and a dollop of yogurt (optional)"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "leek",
+    "one-pan",
+    "tagine",
+    "tunisian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-tender-energizing-hushed-tunisian-leek-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tender-energizing-hushed-tunisian-leek-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "leek",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "leek",
+    "descriptor": "smoky tender energizing hushed",
+    "dishForm": "tagine"
+  }
+}
