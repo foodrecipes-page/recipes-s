@@ -1,0 +1,131 @@
+{
+  "title": "smoky adventurous tunisian lentils tagine",
+  "description": "a hearty, slow-cooked stew originating from tunisia, featuring charred vegetables and a rich, smoky flavor.",
+  "cuisine": "north african",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "french green lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rest-meat (such as beef or lamb)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "charred red bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large clay or ceramic pot over medium heat.",
+    "add the chopped onions-free aromatics (such as chopped celery and carrot) and cook for 5 minutes, or until they begin to soften.",
+    "add the rest-meat and cook for an additional 5 minutes, or until browned on all sides.",
+    "add the smoked paprika, cumin, coriander, cayenne pepper (if using), salt, and black pepper, and stir to combine.",
+    "add the charred red bell peppers, chopped tomatoes, chicken broth, and lemon juice.",
+    "stir to combine, then add the lentils and bring the mixture to a boil.",
+    "reduce the heat to low and simmer, covered, for 30 minutes, or until the lentils are tender.",
+    "stir in the chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "lentil-based",
+    "meat-based",
+    "north-african",
+    "one-pot",
+    "slow-cooked",
+    "smoky",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-adventurous-tunisian-lentils-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-adventurous-tunisian-lentils-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:09Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "rest-meat",
+    "primaryIngredient": "french lentils",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lentils",
+    "descriptor": "smoky adventurous",
+    "dishForm": "Tagine"
+  }
+}

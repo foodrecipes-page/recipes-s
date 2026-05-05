@@ -1,0 +1,90 @@
+{
+  "title": "Smoky Grilled Argentinian Beef Kebabs",
+  "description": "A savory and festive Argentinian dish featuring chewy grilled beef, perfect for special occasions or weeknight meals.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank steak",
+      "amount": "500g",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Garlic granules",
+      "amount": "1 tsp",
+      "notes": "or 2-3 minced cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Thread the flank steak onto metal or bamboo skewers, leaving a small space between each piece.",
+    "Brush the kebabs with olive oil and sprinkle with garlic granules, salt, and black pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until they reach your desired level of doneness.",
+    "Transfer the kebabs to a cutting board and let them rest for 5 minutes.",
+    "Slice the kebabs into thin strips and garnish with chopped parsley.",
+    "Serve the kebabs hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "grilled",
+    "kebabs",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 67,
+    "carbs": 0,
+    "fat": 18
+  },
+  "slug": "smoky-grilled-argentinian-beef-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-grilled-argentinian-beef-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "garlic granules",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "smoky grilled",
+    "dishForm": "Kebabs"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Smoky Roasted Chinese Pork Bao",
+  "description": "Smoky, spicy, and chewy, this dish is perfect for a midnight craving.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "preferably with a layer of fat"
+    },
+    {
+      "name": "sweet smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "mirepoix (onions, carrots, celery)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped",
+      "extra": false
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish",
+      "extra": false
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a small bowl, mix together brown sugar, smoked paprika, garlic, ginger, soy sauce, rice vinegar, and oyster sauce.",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat the sesame oil in a large Dutch oven over medium-high heat and sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and add the mirepoix, cooking until the vegetables are tender, about 5 minutes.",
+    "Return the pork to the pot and transfer it to the preheated oven.",
+    "Bake the pork for 30 minutes, then reduce the oven temperature to 300°F (150°C) and continue cooking for another 2 hours, or until the pork is tender and falls apart easily.",
+    "Shred the pork with two forks and return it to the Dutch oven.",
+    "Serve the pork on a bao bun with green onions, sliced scallions, and a drizzle of sesame oil.",
+    "Garnish with additional green onions and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 230,
+  "totalTimeMin": 245,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bacon-free",
+    "chinese",
+    "mediterranean",
+    "oven-roasted",
+    "smoky",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 55,
+    "carbs": 35,
+    "fat": 45
+  },
+  "slug": "smoky-roasted-chinese-pork-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-chinese-pork-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "smoky roasted",
+    "dishForm": "Bao"
+  }
+}

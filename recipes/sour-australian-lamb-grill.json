@@ -1,0 +1,74 @@
+{
+  "title": "Sour Australian Lamb Grill",
+  "description": "A bold and tangy lamb dish featuring bay leaves, served with a velvety sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "lacto-vegetarian",
+    "pescetarian",
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": "1.8 kg"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "6",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 180°C.",
+    "Season the lamb shoulder with salt and pepper.",
+    "Place the lamb on the grill and cook for 45 minutes.",
+    "Remove the lamb from the grill and set aside to rest.",
+    "In a large pan, combine 2 tablespoons of olive oil and 2 cloves of minced garlic.",
+    "Add 1 cup of red wine vinegar to the pan and bring to a simmer.",
+    "Add 1 cup of lamb stock to the pan and continue to simmer for 10 minutes.",
+    "Stir in 2 tablespoons of honey and 1 tablespoon of Dijon mustard.",
+    "Remove the pan from the heat and let it cool slightly.",
+    "Use an immersion blender to puree the sauce until smooth.",
+    "Strain the sauce through a fine-mesh sieve into a clean bowl.",
+    "Discard the solids and let the sauce cool to room temperature.",
+    "To serve, slice the lamb into thin strips and serve with the cooled sauce.",
+    "Garnish with fresh bay leaves and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "bay-leaf",
+    "flambe",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "sour-australian-lamb-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-australian-lamb-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "flambe",
+    "primaryIngredient": "bay leaves",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "sour",
+    "dishForm": "Grill"
+  }
+}

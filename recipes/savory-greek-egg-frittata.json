@@ -1,0 +1,121 @@
+{
+  "title": "Savory Greek Egg Frittata",
+  "description": "A salty, molten, brunch-mood Greek dish featuring red chilli powder and crispy feta. This shojin-friendly recipe serves a crowd and is perfect for a quick and easy breakfast or lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2",
+      "notes": "crumbled"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "zest of 1 lemon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "feta-studded olives",
+      "amount": "6-8",
+      "notes": "pitted and sliced (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a 10-inch oven-safe skillet over medium-high heat.",
+    "Add diced red onion and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add crumbled feta cheese and cook until melted, about 2-3 minutes.",
+    "Add fresh thyme and cook for 1 minute, until wilted.",
+    "Crack in the eggs and season with salt and black pepper to taste.",
+    "Cook the eggs until the edges start to set, about 2-3 minutes.",
+    "Add red chilli powder and cook for an additional 30 seconds.",
+    "Transfer the skillet to the preheated oven and cook until the eggs are set and puffed, about 8-10 minutes.",
+    "Remove from the oven and garnish with chopped parsley and feta-studded olives, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy",
+    "greek",
+    "high-protein",
+    "one-pan",
+    "weekday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "savory-greek-egg-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-greek-egg-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "red chilli powder",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "egg",
+    "descriptor": "Savory",
+    "dishForm": "Frittata"
+  }
+}

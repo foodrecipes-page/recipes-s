@@ -1,0 +1,63 @@
+{
+  "title": "Salty Canadian Roast Grill",
+  "description": "A hearty and savory dish featuring a roast, salt, and a variety of aromatics, perfect for meal prep.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "4 lb beef roast",
+      "amount": "1",
+      "notes": "chuck or round work well"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325\u00190F.",
+    "Season the beef roast with kosher salt, brown sugar, and olive oil.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef roast on all sides until browned, about 5 minutes per side.",
+    "Add the onion, garlic, carrots, potatoes, and celery to the pot and cook until the vegetables are slightly tender, about 5 minutes.",
+    "Transfer the pot to the preheated oven and roast the beef and vegetables for 2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly before slicing the beef and serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "gluten-free",
+    "grill",
+    "low-carb",
+    "meal-prep",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 80,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "salty-canadian-roast-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-canadian-roast-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "kosher salt",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "roast",
+    "descriptor": "salty",
+    "dishForm": "grill"
+  }
+}
