@@ -1,0 +1,72 @@
+{
+  "title": "Salty Snappy Middle-Eastern Flatbread Pita",
+  "description": "Classic pita recipe with a crispy crust and fluffy interior, flavored with fresh cilantro and a hint of cumin. Perfect for snacking or serving alongside your favorite dips.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a large mixing bowl.",
+    "Gradually add water, mixing with a wooden spoon until dough comes together.",
+    "Turn dough out onto a floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Place dough in a lightly oiled bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Preheat oven to 450°F (230°C).",
+    "Divide dough into 4-6 equal pieces, depending on desired pita size.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Heat a large non-stick skillet or griddle over medium-high heat.",
+    "Cook pita for 1-2 minutes on each side, until golden and slightly puffed.",
+    "Brush with olive oil and garnish with fresh cilantro leaves.",
+    "Repeat with remaining dough pieces, cooking in batches as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "quick-bread",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "salty-snappy-middle-eastern-flatbread-pita",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-snappy-middle-eastern-flatbread-pita",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "temper",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "flatbread",
+    "descriptor": "salty snappy",
+    "dishForm": "Pita"
+  }
+}

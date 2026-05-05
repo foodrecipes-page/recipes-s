@@ -1,0 +1,76 @@
+{
+  "title": "Shattering Roasted Norwegian Mozzarella Balls Bowl",
+  "description": "A quick-fix, Ayurvedic-tamasic-friendly dish featuring roasted mozzarella balls, perfect for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Mozzarella Balls",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Earthenware Bowl",
+      "amount": "1 bowl"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Place the Norwegian Mozzarella Balls in a single layer on a baking sheet.",
+    "Bake for 12-15 minutes, or until the mozzarella is golden brown and slightly shattery.",
+    "Meanwhile, place the earthenware bowl in the oven to warm up for 5-7 minutes.",
+    "Remove the bowl from the oven and place the baked mozzarella balls inside.",
+    "Garnish with fresh thyme and season with salt and black pepper.",
+    "Serve immediately, while the mozzarella is still warm and shattery."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mozzarella",
+    "norwegian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "shattering-roasted-norwegian-mozzarella-balls-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-roasted-norwegian-mozzarella-balls-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "fold",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "mozzarella balls",
+    "descriptor": "shattering roasted",
+    "dishForm": "Bowl"
+  }
+}

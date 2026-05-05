@@ -1,0 +1,118 @@
+{
+  "title": "Smoky Crispy Thai Chicken Bowl",
+  "description": "A flavorful and refreshing post-workout dish featuring smoky chicken, crispy tempeh, and a tangy pico de gallo sauce.",
+  "cuisine": "thai",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "tempeh",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "pico de gallo sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken with smoked paprika, cumin, garlic powder, salt, and black pepper.",
+    "Heat coconut oil in a skillet over medium-high heat and sear the chicken for 2-3 minutes per side.",
+    "Transfer chicken to a baking sheet and bake for 12-15 minutes or until cooked through.",
+    "Meanwhile, crumble tempeh into small pieces and pan-fry until crispy.",
+    "Mix together pico de gallo sauce, sriracha, and rice vinegar in a bowl.",
+    "To assemble the bowls, place cooked chicken and crispy tempeh on a bed of greens, drizzle with pico de gallo sauce, and garnish with fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "smoky-crispy-thai-chicken-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crispy-thai-chicken-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Smoky Crispy",
+    "dishForm": "Bowl"
+  }
+}

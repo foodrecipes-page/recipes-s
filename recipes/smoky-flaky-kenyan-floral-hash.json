@@ -1,0 +1,107 @@
+{
+  "title": "Smoky Flaky Kenyan Floral Hash",
+  "description": "A lacto-vegetarian-friendly Kenyan dish featuring a smoky, flaky texture and a floral aroma, perfect for a brunch gathering. The liquid cheese adds a rich and creamy element to the dish.",
+  "cuisine": "kenyan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "liquid cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a ttukbaegi earthenware cook to 400°F (200°C).",
+    "Prepare the ingredients by peeling and chopping the sweet potatoes into 1-inch pieces, and mincing the onion and garlic.",
+    "In a large mixing bowl, combine the chopped sweet potatoes, onion, garlic, dried rose petals, and liquid cheese. Mix well to combine.",
+    "Heat 1 tablespoon of oil in the preheated earthenware cook over medium heat. Add the sweet potato mixture and cook for 20 minutes, stirring occasionally.",
+    "Add the remaining 1 tablespoon of oil, salt, and black pepper to the earthenware cook. Stir well to combine.",
+    "Transfer the earthenware cook to a hot stone plate and garnish with fresh parsley. Serve immediately, with hot sauce on the side if desired.",
+    "Serve the Smoky Flaky Kenyan Floral Hash hot, garnished with additional fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "floral",
+    "kenyan",
+    "lacto-friendly",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "smoky-flaky-kenyan-floral-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-flaky-kenyan-floral-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "liquid cheese",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "floral",
+    "descriptor": "smoky flaky",
+    "dishForm": "hash"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Smoky Lazy Portuguese Pork Roast",
+  "description": "A hearty, smoky Portuguese-inspired pork roast made with a sweet and savory brine, perfect for a lazy Sunday dinner.",
+  "cuisine": "Portuguese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": "use the dark version for a deeper flavor"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for the brine"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 275°F (135°C).",
+    "In a large bowl, whisk together the apple cider vinegar, brown sugar, Worcestershire sauce, garlic, onion, cumin, coriander, paprika, salt, and black pepper to make the brine.",
+    "Add the pork shoulder to the brine and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the brine and place it in a large Dutch oven or oven-safe pot with a lid.",
+    "Add the water to the pot and cover it with a lid.",
+    "Transfer the pot to the preheated oven and cook for 6 hours, or until the pork is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "If desired, garnish with fresh thyme and serve with your choice of sides."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "one-pan",
+    "pork",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 90,
+    "carbs": 60,
+    "fat": 60
+  },
+  "slug": "smoky-lazy-portuguese-pork-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-lazy-portuguese-pork-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "Smoky Lazy",
+    "dishForm": "Roast"
+  }
+}

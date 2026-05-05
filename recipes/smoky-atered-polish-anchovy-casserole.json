@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Atered Polish Anchovy Casserole",
+  "description": "A hearty, smoky Polish casserole featuring al dente pasta, crispy anchovy fillets, and a crunchy breadcrumb topping. Serve hot with a side of steamed vegetables.",
+  "cuisine": "Polish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "anchovy fillets",
+      "amount": "6",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": "plain, unseasoned"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook linguine according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, sauté chopped onion until softened. Add chopped anchovy fillets and cook for 2-3 minutes. Stir in caraway seeds, flour, and smoked paprika. Cook for 1 minute, then set aside.",
+    "In a large mixing bowl, combine cooked linguine, anchovy mixture, and 2 tablespoons of butter. Mix well to combine.",
+    "Transfer linguine mixture to a 9x13 inch baking dish and top with bread crumbs and parmesan cheese.",
+    "Dot top of casserole with remaining 2 tablespoons of butter.",
+    "Bake in preheated oven for 20-25 minutes, or until golden brown and crispy on top.",
+    "Remove from oven and let cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "smoky-atered-polish-anchovy-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-atered-polish-anchovy-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "anchovy",
+    "descriptor": "smoky atered",
+    "dishForm": "Casserole"
+  }
+}
