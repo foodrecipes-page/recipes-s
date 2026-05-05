@@ -1,0 +1,93 @@
+{
+  "title": "Show-off Syrian Kippers Bake",
+  "description": "A sweet and chewy Syrian dish featuring kippers, perfect for a special occasion.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kippers",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Rest-meat",
+      "amount": "250g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "200g"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cloves",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "Butter",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "Rinse the kippers and pat them dry with paper towels.",
+    "Mix the rest-meat with sugar, cinnamon, cloves, and cardamom.",
+    "Add the egg and mix until just combined.",
+    "Stir in the breadcrumbs and butter until well coated.",
+    "Place the kippers on a baking sheet lined with parchment paper.",
+    "Spoon the rest-meat mixture over the kippers.",
+    "Bake for 25 minutes, or until the kippers are cooked through and the topping is golden brown.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-for-dinner",
+    "high-protein",
+    "middle-eastern",
+    "special-occasion",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "show-off-syrian-kippers-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-syrian-kippers-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "rest-meat",
+    "primaryIngredient": "kippers",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "kippers",
+    "descriptor": "show-off",
+    "dishForm": "bake"
+  }
+}
