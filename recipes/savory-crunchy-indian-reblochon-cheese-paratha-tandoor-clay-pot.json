@@ -1,0 +1,83 @@
+{
+  "title": "Savory Crunchy Indian Reblochon Cheese Paratha Tandoor Clay-Pot",
+  "description": "A macrobiotic-friendly savory dish featuring reblochon cheese and pickles, perfect for a hangover cure. This quick recipe combines paratha with tandoor clay-pot cooking method for an authentic Bengali taste.",
+  "cuisine": "Indian (Bengali)",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "reblochon cheese",
+      "amount": 200
+    },
+    {
+      "name": "pickled daikon radish",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": 450
+    },
+    {
+      "name": "almond meal",
+      "amount": 30
+    },
+    {
+      "name": "olive oil",
+      "amount": 2
+    },
+    {
+      "name": "salt",
+      "amount": 6
+    },
+    {
+      "name": "garam masala powder",
+      "amount": 1
+    },
+    {
+      "name": "honey syrup",
+      "amount": 4
+    }
+  ],
+  "instructions": [
+    "Mix all ingredients to form a dough.",
+    "Roll the dough into paratha-sized circles and place them in tandoor clay-pot.",
+    "Cook on medium heat for 30 minutes, turning once.",
+    "Garnish with pickled daikon radish before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 60,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-paratha",
+    "hangover-cure",
+    "indian-bengali",
+    "macrobiotic",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 15
+  },
+  "slug": "savory-crunchy-indian-reblochon-cheese-paratha-tandoor-clay-pot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-indian-reblochon-cheese-paratha-tandoor-clay-pot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T17:41:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "reblochon",
+    "diet": "macrobiotic",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Reblochon Cheese",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Paratha Tandoor Clay-Pot"
+  }
+}
