@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Roasted Padron Pilaf in Comal",
+  "description": "A tangy, dense, adventurous Mediterranean dish featuring padron peppers roasted to perfection and served in a comal for an authentic smoky flavor.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "12"
+    },
+    {
+      "name": "celery root",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "4 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoke seasoning (like hickory or mesquite)",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar-free lemon zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 450 degrees F.",
+    "Peel and finely chop the celery root, onions, and garlic. Rinse the padron peppers thoroughly.",
+    "In a large bowl, mix together olive oil, paprika, smoke seasoning, salt, and lemon zest. Add the chopped vegetables and padron peppers into the mixture.",
+    "Gently toss until all ingredients are coated evenly with the dressing.",
+    "Transfer the mixture to a lightly oiled comal or cast iron skillet and roast for about 20 minutes on medium heat, stirring occasionally to prevent burning.",
+    "Serve warm as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "pilaf",
+    "smoky",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 34,
+    "fat": 12
+  },
+  "slug": "smoky-roasted-padron-pilaf-in-comal",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-padron-pilaf-in-comal",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T12:55:38Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "smoke-hot",
+    "primaryIngredient": "padron peppers",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Pilaf"
+  }
+}
