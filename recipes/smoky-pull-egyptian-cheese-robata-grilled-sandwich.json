@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Pull Egyptian Cheese Robata-Grilled Sandwich",
+  "description": "A delicious weeknight Egyptian dish featuring smoky cheese and a sweet hint of Dutch stroop, all grilled to perfection on a robata grill. Perfect for a quick and satisfying lunch or dinner.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sourdough bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds smoky flavor"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Robata-grill oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400\u00145F (200\u001aC).",
+    "Brush the sourdough bread slices with a small amount of robata-grill oil on both sides.",
+    "Grill the bread slices for 2-3 minutes per side, or until lightly toasted.",
+    "Meanwhile, mix the mozzarella cheese with smoked paprika and a pinch of salt and pepper.",
+    "Once the bread is toasted, top one slice with a mixture of mozzarella cheese and Dutch stroop.",
+    "Place the second slice of bread on top of the cheese mixture, creating a sandwich.",
+    "Grill the sandwich for an additional 2-3 minutes, or until the cheese is melted and the bread is crispy.",
+    "Remove the sandwich from the grill and let it cool for a minute or two before slicing.",
+    "Slice the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lover",
+    "egyptian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "smoky-pull-egyptian-cheese-robata-grilled-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-pull-egyptian-cheese-robata-grilled-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:20Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "robata-grill",
+    "primaryIngredient": "dutch stroop",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "cheese",
+    "descriptor": "smoky pull",
+    "dishForm": "Robata-grilled sandwich"
+  }
+}

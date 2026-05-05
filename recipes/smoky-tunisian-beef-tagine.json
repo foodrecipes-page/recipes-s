@@ -1,0 +1,157 @@
+{
+  "title": "Smoky Tunisian Beef Tagine",
+  "description": "A hearty, flavorful stew originating from Tunisia, made with tender beef, aromatic spices, and smoky chickpeas.",
+  "cuisine": "tunisian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried chickpeas",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Chickpeas liquid",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a ti-leaf-wrapped ttukbaegi earthenware-cook over medium heat.",
+    "Sear beef cubes until browned, about 5 minutes.",
+    "Remove beef and set aside.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, ginger, cumin, coriander, cumin powder, turmeric, cayenne pepper, smoked paprika, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add chickpeas, chickpeas liquid, tomato paste, and chicken broth. Stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until beef is tender.",
+    "Stir in diced tomatoes and cook for an additional 10 minutes.",
+    "Serve hot, garnished with chopped parsley.",
+    "Let tagine rest for 10 minutes before serving.",
+    "Serve with crusty bread or couscous, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hearty",
+    "low-fat",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "smoky-tunisian-beef-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tunisian-beef-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:29Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "beef",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Beef",
+    "descriptor": "Slow-cooked Smoky",
+    "dishForm": "Tagine"
+  }
+}
