@@ -1,0 +1,106 @@
+{
+  "title": "Savory Coated Turkish Lamb Dolsot Kebap",
+  "description": "A resinous, crumbly Turkish dish featuring casabe and coconut cream, perfect for post-workout. This dish is a lacto-vegetarian-friendly take on the traditional Adana kebap, served in a dolsot stone bowl.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Casabe",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "120g",
+      "notes": "cracked to separate cream and coconut oil"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "100g",
+      "notes": "to make coating mixture"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "100g",
+      "notes": "plain, to make coating mixture"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "In a bowl, mix together the flour, breadcrumbs, red pepper flakes, salt, and black pepper.",
+    "Cut the lamb shoulder into thin strips and season with salt and black pepper.",
+    "Coat the lamb strips with the flour mixture, shaking off excess.",
+    "Heat the olive oil in a large pan over medium-high heat and cook the coated lamb strips until browned, about 3 minutes per side.",
+    "Transfer the cooked lamb to a baking dish and bake in the preheated oven for 10 minutes.",
+    "While the lamb is cooking, heat the coconut cream in a small saucepan over low heat until warmed through, stirring occasionally.",
+    "To assemble the dolsot kebap, place a portion of the cooked lamb in the bottom of a dolsot stone bowl, followed by a spoonful of the warmed coconut cream, and finally a sprinkle of casabe.",
+    "Serve immediately and enjoy!",
+    "Cook the lamb in two batches if necessary to prevent overcrowding the pan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "kebap",
+    "lamb",
+    "one-pan",
+    "post-workout",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "savory-coated-turkish-lamb-dolsot-kebap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-coated-turkish-lamb-dolsot-kebap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:08:15Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "casabe",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Savory Coated",
+    "dishForm": "Dolsot Kebap"
+  }
+}
