@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Dutch Cracker Bake",
+  "description": "A resinous, springy Dutch dish featuring graham cracker crumbs and smoke, perfect for a satvik-friendly brunch.",
+  "cuisine": "Dutch",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Graham cracker crumbs",
+      "amount": "1 1/2 cups",
+      "notes": "Gluten-free option: use gluten-free graham cracker crumbs."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large bowl, mix together the graham cracker crumbs, coconut oil, maple syrup, smoked paprika, salt, and black pepper until well combined.",
+    "In a separate bowl, whisk together the eggs, milk, and vanilla extract until smooth.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined. Be careful not to overmix.",
+    "Pour the mixture into a greased 9x13 inch baking dish.",
+    "Bake for 35 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Cut into squares and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy-dutch",
+    "gluten-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 16,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-dutch-cracker-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dutch-cracker-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cracker",
+    "descriptor": "smoky",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Gooey Moroccan Dulce De Leche Pastry",
+  "description": "A romantic Moroccan dessert featuring smoky spices, gooey dulce de leche, and flaky pastry. Perfect for a special occasion or dinner party.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 package (1 1/2 pounds)",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Dulce De Leche",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Almond Milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Roll out the puff pastry and cut it into a large square.",
+    "Transfer the puff pastry to a greased air fryer basket.",
+    "Mix the dulce de leche, cinnamon, ginger, smoked paprika, and sugar (if using) in a bowl.",
+    "Pour the dulce de leche mixture over the center of the puff pastry, leaving a 1-inch border.",
+    "Fold the puff pastry over the filling, pressing the edges to seal.",
+    "Brush the egg over the pastry and sprinkle with sugar (if using).",
+    "Air fry for 12-15 minutes, or until the pastry is golden brown and the filling is bubbly.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "dessert",
+    "moroccan",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "smoky-gooey-moroccan-dulce-de-leche-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-gooey-moroccan-dulce-de-leche-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:40Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "dulce de leche",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "dulce de leche",
+    "descriptor": "smoky gooey",
+    "dishForm": null
+  }
+}

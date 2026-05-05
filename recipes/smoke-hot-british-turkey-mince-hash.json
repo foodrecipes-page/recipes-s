@@ -1,0 +1,105 @@
+{
+  "title": "Smoke-Hot British Turkey Mince Hash",
+  "description": "A resinous, gooey, lazy Sunday British dish featuring smoke-hot turkey mince, perfect for a satisfying cold-weather breakfast or brunch.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Turkey mince",
+      "amount": "500g",
+      "notes": "High-quality, 5-10% fat content"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "",
+      "optional": false
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "",
+      "optional": false
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "",
+      "optional": false
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "preferably stale, crusty loaf"
+    },
+    {
+      "name": "Egg-free-friendly cheese shreds",
+      "amount": "120g",
+      "notes": "such as vegan mozzarella or soy feta"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add the butter and let it melt.",
+    "Add the sliced onions and cook until they're translucent and starting to caramelize.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "comfort-food",
+    "lazy-sunday",
+    "one-pan",
+    "smoke-hot",
+    "turkey-mince"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "smoke-hot-british-turkey-mince-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-british-turkey-mince-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:32Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "smoke-hot",
+    "primaryIngredient": "turkey mince",
+    "diet": "egg-free",
+    "region": "yorkshire",
+    "cuisineAdjective": "british",
+    "mainIngredient": "turkey mince",
+    "descriptor": "smoke-hot",
+    "dishForm": "hash"
+  }
+}
