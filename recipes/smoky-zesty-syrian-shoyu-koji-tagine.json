@@ -1,0 +1,94 @@
+{
+  "title": "Smoky Zesty Syrian Shoyu-koji Tagine",
+  "description": "Charred, glassy-jelly, crowd-pleaser Syrian dish featuring shoyu-koji and tempering-chocolate, with a dash of ayurvedic tamasic-friendly flavors, cooked in a cataplana vessel.",
+  "cuisine": "Syrian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Short-grain rice",
+      "amount": "400g"
+    },
+    {
+      "name": "Shoyu-koji",
+      "amount": "50g",
+      "notes": "fermented soybean paste from Japan"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "100g",
+      "notes": "white chocolate from Belgium for the smooth flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "20mL"
+    }
+  ],
+  "instructions": [
+    "Heat the cataplana vessel over medium heat.",
+    "Add 10mL of olive oil and swirl to coat the bottom.",
+    "Add 400g of short-grain rice and stir until it's slightly toasted.",
+    "Add 50g of shoyu-koji, 100g of tempering chocolate, 2 tsp of paprika, 1 tsp of cumin, 1 tsp of turmeric, 1 tsp of salt, and 0.5 tsp of black pepper; stir to combine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "cataplana",
+    "main-course",
+    "shoyu-koji",
+    "syrian",
+    "tamasic",
+    "tempering-chocolate",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 25,
+    "carbs": 200,
+    "fat": 50
+  },
+  "slug": "smoky-zesty-syrian-shoyu-koji-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-zesty-syrian-shoyu-koji-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:45:06Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Shoyu-koji",
+    "descriptor": "Smoky Zesty",
+    "dishForm": "Tagine"
+  }
+}

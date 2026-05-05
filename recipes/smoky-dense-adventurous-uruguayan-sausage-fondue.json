@@ -1,0 +1,119 @@
+{
+  "title": "Smoky Dense Adventurous Uruguayan Sausage Fondue",
+  "description": "A smoky and dense fondue dish featuring Uruguayan sausage, perfect for adventurous foodies. This dairy-free friendly dish is sure to impress.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan Sausages",
+      "amount": "1 pound",
+      "notes": "Smoked and spicy sausages, preferably choripan or similar."
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Or substitute with apple cider vinegar."
+    },
+    {
+      "name": "Olive Tapenade",
+      "amount": "2 tablespoons",
+      "notes": "For added depth of flavor."
+    },
+    {
+      "name": "Hot Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for added heat."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Salt",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large fondue pot over medium-high heat.",
+    "Add the sliced onions and cook until they start to caramelize, about 5 minutes.",
+    "Add the sliced bell peppers and cook for an additional 3-4 minutes, until they start to soften.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Uruguayan sausages and cook for 2-3 minutes, until browned on all sides.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the red wine vinegar and olive tapenade, and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro and a side of crusty bread for dipping.",
+    "For an added kick, serve with hot sauce on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "smoky-dense-adventurous-uruguayan-sausage-fondue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dense-adventurous-uruguayan-sausage-fondue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "smoke-hot",
+    "primaryIngredient": "sausage",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Sausage",
+    "descriptor": "Smoky Dense Adventurous",
+    "dishForm": "Fondue"
+  }
+}
