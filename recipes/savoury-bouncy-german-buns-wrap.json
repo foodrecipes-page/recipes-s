@@ -1,0 +1,92 @@
+{
+  "title": "Savory Bouncy German Buns Wrap",
+  "description": "A malty, bouncy, and tasty German-inspired dish featuring buns, a mother-sauce-base, and a macrobiotic-friendly twist served in a ti-leaf wrap for a perfect brunch mood. This dish is easy to make and packed with wholesome ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "macrobiotic",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "German buns",
+      "amount": "4",
+      "notes": "preferably day-old buns"
+    },
+    {
+      "name": "Mother Sauce Base (vegan mayonnaise, apple cider vinegar, and olive oil)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Macrobiotic-friendly German mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Shredded kale",
+      "amount": "1 cup",
+      "notes": "curly leaf variety"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sliced vegan sausage",
+      "amount": "4 oz",
+      "notes": "such as tofu-based or tempeh-based sausage"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Split the German buns in half horizontally.",
+    "Spread the Mother Sauce Base on the bottom bun.",
+    "Top the sauce with shredded kale, sliced red onion, and sliced vegan sausage.",
+    "Place the top bun on and wrap the ti-leaf wrap around the sandwich.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "savoury-bouncy-german-buns-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/savoury-bouncy-german-buns-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "buns",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "buns",
+    "descriptor": "savoury bouncy",
+    "dishForm": "wrap"
+  }
+}
