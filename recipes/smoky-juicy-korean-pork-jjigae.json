@@ -1,0 +1,120 @@
+{
+  "title": "Smoky Juicy Korean Pork Jjigae",
+  "description": "A hearty, smoky Korean dish featuring pork, gochujang, and cream of tartar, ready in under 30 minutes. Best served with a side of rice and kimchi.",
+  "cuisine": "Korean",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "lardons",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the lardons in a large skillet over medium-high heat until browned, about 5 minutes. ",
+    "Add the pork shoulder to the skillet and cook until browned on all sides, about 5-7 minutes. ",
+    "Add the gochujang, soy sauce, rice vinegar, garlic, and ginger to the skillet and stir to combine. ",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the sauce has thickened and the pork is cooked through. ",
+    "Stir in the cream of tartar, sugar, and black pepper. ",
+    "Reduce heat to medium-low and cook for an additional 2-3 minutes. ",
+    "Season with sesame oil and serve hot, garnished with green onions. ",
+    "Serve with a side of rice and kimchi, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "busan",
+    "high-protein",
+    "jjigae",
+    "korean",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 36
+  },
+  "slug": "smoky-juicy-korean-pork-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-juicy-korean-pork-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:34Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "cream of tartar",
+    "diet": "fodmap",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Smoky Juicy",
+    "dishForm": "Jjigae"
+  }
+}

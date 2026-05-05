@@ -1,0 +1,106 @@
+{
+  "title": "soft portuguese flaxseed paella",
+  "description": "resinous, fluffy, hangover-cure portuguese dish featuring flaxseed, deglaze-fond, anti-inflammatory-friendly.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaxseeds",
+      "amount": "2 cups",
+      "notes": "ground flaxseed for added omega-3s and fiber"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought, low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for saut\u00169ing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced for added flavor and crunch"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced for added depth"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed for brightness"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "for deglazing and tenderness"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to bring out flavors"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to add depth and warmth"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for added smokiness and depth"
+    }
+  ],
+  "instructions": [
+    "saute onion and garlic in olive oil until translucent, 5 minutes",
+    "add flaxseed and stir to combine, 1 minute",
+    "add chicken broth, lemon juice, apple cider vinegar, salt, black pepper, and smoked paprika, stirring to combine",
+    "bring mixture to a simmer and cook, covered, 20 minutes",
+    "stir in deglaze-fond and cook for an additional 5 minutes",
+    "fluff paella with a fork and serve hot",
+    "serve with a side of sliced lemon, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "flaxseed",
+    "portuguese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "soft-portuguese-flaxseed-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/soft-portuguese-flaxseed-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "flaxseed",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "flaxseed",
+    "descriptor": "soft",
+    "dishForm": "Paella"
+  }
+}

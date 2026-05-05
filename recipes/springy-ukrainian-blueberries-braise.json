@@ -1,0 +1,133 @@
+{
+  "title": "springy ukrainian blueberries braise",
+  "description": "springy winey solo-dinner featuring blueberries braise and diabetic-friendly ingredients",
+  "cuisine": "ukrainian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh blueberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium-high heat",
+    "add chicken breast and cook until browned on both sides",
+    "remove chicken from skillet and set aside",
+    "add onion and garlic to skillet and cook until softened",
+    "add white wine and lemon juice to skillet and cook until almost completely evaporated",
+    "add honey and stir to combine",
+    "add blueberries and stir to combine",
+    "add chicken back to skillet and stir to combine",
+    "add bay leaves and water to skillet and stir to combine",
+    "bring mixture to a simmer and cook until chicken is cooked through",
+    "remove bay leaves and serve hot",
+    "garnish with fresh parsley and dill",
+    "season with salt and pepper to taste"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "one-pan",
+    "spring",
+    "ukrainian",
+    "weeknight",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "springy-ukrainian-blueberries-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-ukrainian-blueberries-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "blueberries",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "blueberries",
+    "descriptor": "springy",
+    "dishForm": "Braise"
+  }
+}
