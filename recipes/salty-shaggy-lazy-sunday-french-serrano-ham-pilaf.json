@@ -1,0 +1,84 @@
+{
+  "title": "Salty Shaggy Lazy-Sunday French Serrano Ham Pilaf",
+  "description": "A fresh and shaggy french brigtany dish featuring a slow-cooked pilaf of rice with salty serrano ham. Perfect for lazy Sundays.",
+  "cuisine": "French (Brittany)",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups basmati rice",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup dried cranberries",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion, diced",
+      "amount": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp unsalted butter",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp salted soy sauce (optional)",
+      "amount": ""
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": ""
+    },
+    {
+      "name": "6 oz serrano ham, diced",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Combine rice, cranberries, onion, garlic, and soy sauce in a large bowl.",
+    "Add butter and mix well. Spread evenly on a baking sheet.",
+    "Bake for 25 minutes or until the rice is tender and golden brown.",
+    "Stir in diced serrano ham and broth. Return to oven and bake for an additional 10-15 minutes or until heated through.",
+    "Serve warm as a side dish or over crusty bread."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 48,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brigtany",
+    "lazy-sunday",
+    "pilaf",
+    "serrano-ham"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 37,
+    "fat": 8
+  },
+  "slug": "salty-shaggy-lazy-sunday-french-serrano-ham-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-shaggy-lazy-sunday-french-serrano-ham-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:17:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "serrano ham",
+    "diet": "raw",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Serrano Ham",
+    "descriptor": "Shaggy Lazy-Sunday",
+    "dishForm": "Pilaf"
+  }
+}
