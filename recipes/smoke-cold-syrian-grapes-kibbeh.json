@@ -1,0 +1,61 @@
+{
+  "title": "Smoke-Cold Syrian Grapes Kibbeh",
+  "description": "A refreshing, post-workout dish featuring crisp, smoky flavors of smoked lamb and sweet Syrian grapes. Perfect for warm days when a cold snack is desired. No onions or garlic involved.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 lb smoked lamb",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup Syrian red grapes",
+      "amount": "1",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Combine lamb, grapes, 1 tablespoon olive oil, 1 tablespoon lemon juice, 1/2 teaspoon salt, and 1/8 teaspoon black pepper in a large bowl until well mixed.",
+    "Add 1/4 cup chopped fresh parsley and 1/4 cup chopped fresh mint to the bowl and stir to combine.",
+    "Transfer the mixture to a serving dish and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Cover the dish with plastic wrap and refrigerate for an additional 30 minutes to chill thoroughly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cold-snack",
+    "easy-to-make",
+    "grape-based",
+    "post-workout",
+    "smoked-meat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "smoke-cold-syrian-grapes-kibbeh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-cold-syrian-grapes-kibbeh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "smoke-cold",
+    "primaryIngredient": "grapes",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "grapes",
+    "descriptor": "smoke-cold",
+    "dishForm": "kibbeh"
+  }
+}

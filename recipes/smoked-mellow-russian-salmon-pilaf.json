@@ -1,0 +1,111 @@
+{
+  "title": "Smoked Mellow Russian Salmon Pilaf",
+  "description": "A classic Russian dish featuring smoked salmon, flavored with mustard and served over a bed of crispy fried rice.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "fried rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp",
+      "notes": "adds a tangy flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "balances out the mustard flavor"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "adds a fresh flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "adds a bright flavor"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 small",
+      "notes": "cooks down into the pilaf"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "3 cloves",
+      "notes": "cooks down into the pilaf"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a wok over medium-high heat.",
+    "Add 1 tsp of oil and swirl to coat the pan.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the mustard, dijon mustard, sugar, and dill. Cook for 1 minute, until the sugar dissolves.",
+    "Add the lemon juice and cook for another minute, until the mixture is slightly thickened.",
+    "Add the smoked salmon and break it up with a spatula.",
+    "Add the fried rice and stir-fry until the rice is well combined with the other ingredients.",
+    "Season with black pepper to taste.",
+    "Transfer the pilaf to a serving dish and serve immediately.",
+    "Serve hot, garnished with chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "rusian-dish",
+    "salmon",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "smoked-mellow-russian-salmon-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-mellow-russian-salmon-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:38Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "smoked salmon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "salmon",
+    "descriptor": "Smoked Mellow",
+    "dishForm": "Pilaf"
+  }
+}

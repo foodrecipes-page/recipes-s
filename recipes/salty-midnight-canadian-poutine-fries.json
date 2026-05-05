@@ -1,0 +1,93 @@
+{
+  "title": "Salty Midnight Canadian Poutine Fries",
+  "description": "A Canadian dish that will satisfy your midnight cravings with a mix of salty, snappy, and melty goodness. Vegetarian-friendly and perfect for a quick snack.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fries",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Colby Jack Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Manteca",
+      "amount": "2 tablespoons",
+      "notes": "Vegetarian manteca or other emulsified lard substitute"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1 tablespoon chopped",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Worcestershire Sauce",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your deep fryer to 375°F (190°C).",
+    "Cut the fries to your desired thickness and soak them in cold water for at least 30 minutes to remove excess starch.",
+    "Heat the manteca in a deep frying pan to 350°F (175°C).",
+    "Fry the potatoes in batches until golden brown, about 3-4 minutes per batch.",
+    "Drain the fries on paper towels and season with salt and pepper to taste.",
+    "In a separate saucepan, melt 1/2 cup of Colby Jack cheese over low heat.",
+    "Stir in the Worcestershire sauce, if using.",
+    "Assemble the poutine by placing the fries in a bowl, topping with cheese sauce, and sprinkling with chopped chives and additional salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-classics",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "snack-attack",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "salty-midnight-canadian-poutine-fries",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-midnight-canadian-poutine-fries",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "poutine",
+    "descriptor": "salty midnight",
+    "dishForm": "fries"
+  }
+}

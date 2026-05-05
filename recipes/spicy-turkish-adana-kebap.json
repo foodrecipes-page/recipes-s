@@ -1,0 +1,120 @@
+{
+  "title": "Spicy Turkish Adana Kebap",
+  "description": "A flavorful Turkish kebap dish made with crispy hard taco shells, rice, and spiced lamb, perfect for a quick and delicious meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Hard taco shells",
+      "amount": "12 shells",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine ground lamb, onion, garlic, paprika, cumin, cayenne pepper, salt, and black pepper in a large bowl and mix well.",
+    "Heat olive oil in a large pan over medium-high heat.",
+    "Add the lamb mixture to the pan and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the rice to the pan and stir to combine with the lamb mixture.",
+    "Cook for 2-3 minutes, stirring constantly, until the rice is lightly toasted.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the water is absorbed and the rice is tender.",
+    "While the rice is cooking, preheat a grill or grill pan to medium-high heat.",
+    "Cook the hard taco shells according to the package instructions.",
+    "To assemble the kebaps, place a portion of the lamb and rice mixture onto the bottom of each taco shell, followed by a sprinkle of fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kebap",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "spicy-turkish-adana-kebap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-turkish-adana-kebap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:43Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "hard taco shells",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Spicy Skewered",
+    "dishForm": "Kebap"
+  }
+}

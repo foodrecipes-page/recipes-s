@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Greek Oat Cakes",
+  "description": "Shattering and comforting greek dish featuring ground oats and a smoky flavor profile, perfect for a low-calorie-friendly snack or breakfast option.",
+  "cuisine": "greek",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "old-fashioned rolled oats",
+      "amount": "1 cup",
+      "notes": "ground in a food processor until slightly chunky"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, low-fat variety"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten",
+      "difficulty": "easy"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "adds smoky flavor without heat"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "dehydrated, adds depth"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground",
+      "difficulty": "easy"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "grated, from 1 lemon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat, until it reaches 350°F.",
+    "Add the ground oats to the skillet and fry, stirring constantly, until they are lightly browned and crispy, about 5 minutes.",
+    "Remove the oats from the skillet and transfer them to a plate.",
+    "In a bowl, mix together the beaten egg, crumbled feta, smoked paprika, garlic powder, salt, and black pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "greek",
+    "low-calorie",
+    "oatmeal",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "smoky-greek-oat-cakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-greek-oat-cakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:59Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "ground oats",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "oats",
+    "descriptor": "Shattering",
+    "dishForm": "Cakes"
+  }
+}

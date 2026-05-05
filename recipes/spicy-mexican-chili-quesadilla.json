@@ -1,0 +1,123 @@
+{
+  "title": "Spicy Mexican Chili Quesadilla",
+  "description": "A pungent, chewy, one-pot mexican dish featuring a mother sauce base and double cream, perfect for a weeknight dinner. This egg-free-friendly recipe is a twist on the classic chili quesadilla.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ancho chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Poblano peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Spicy Korean chili paste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Double cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the diced onion and cook, stirring occasionally, until softened and lightly browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the ancho chilies, poblanos, cumin, coriander, and gochujang to the pot, stirring to combine.",
+    "Cook for 2 minutes, stirring occasionally, until the spices are fragrant.",
+    "Add the diced onion mixture to the pot, stirring to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 10 minutes.",
+    "Stir in the double cream and cook for an additional 2 minutes, or until heated through.",
+    "Tear the shredded cheese into 4 equal pieces and place one piece in the center of each tortilla.",
+    "Place a spoonful of the chili mixture on top of the cheese, then fold the tortilla in half to enclose.",
+    "Cook the quesadillas in a large skillet over medium heat for 2-3 minutes on each side, or until the cheese is melted and the tortillas are crispy.",
+    "Cut the quesadillas into wedges and serve hot, garnished with chopped fresh cilantro.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chili",
+    "eggs-free",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "spicy-mexican-chili-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-mexican-chili-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "double cream",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chili",
+    "descriptor": "spicy",
+    "dishForm": "Quesadilla"
+  }
+}

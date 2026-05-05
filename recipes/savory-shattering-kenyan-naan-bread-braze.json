@@ -1,0 +1,95 @@
+{
+  "title": "Savory Shattering Kenyan Naan Bread Braze",
+  "description": "A hearty, plant-based Kenyan dish featuring naan bread, braised in a flavorful mixture of herbs and spices. Perfect for a lazy Sunday meal.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Naan bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece (about 2 inches)",
+      "notes": "grated"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a dolset stone bowl or a large Dutch oven over medium heat.",
+    "Add coconut oil, once hot, add chopped lemongrass, grated ginger and sauté for 2 minutes.",
+    "Add onion and garlic, sauté until the onion is translucent.",
+    "Add thyme and rosemary, stir for 1 minute.",
+    "Add naan bread, braise for 5 minutes on each side.",
+    "Serve warm, garnished with fresh herbs.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "kenyan-cuisine",
+    "lazy-sunday",
+    "naan-bread",
+    "one-pot",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "savory-shattering-kenyan-naan-bread-braze",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-shattering-kenyan-naan-bread-braze",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "naan bread",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "naan bread",
+    "descriptor": "Savory Shattering",
+    "dishForm": "Braze"
+  }
+}

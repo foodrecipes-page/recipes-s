@@ -1,0 +1,64 @@
+{
+  "title": "smoke-cold american baby squid bake",
+  "description": "A citrusy, juicy, lazy Sunday American dish featuring baby squid, smoked to perfection and served cold. Perfect for a casual get-together with friends.",
+  "cuisine": "american",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat your smoker to 225°F (110°C).",
+    "Add the baby squid to the smoker and smoke for 1 hour.",
+    "Remove the squid from the smoker and let it cool to room temperature.",
+    "Cut the squid into bite-sized pieces and place them on a plate.",
+    "Squeeze the lemon juice over the squid and sprinkle with chopped parsley.",
+    "Cover the plate with plastic wrap and refrigerate for at least 30 minutes.",
+    "Serve the smoked baby squid cold, garnished with lemon wedges and additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-appetizer",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 15,
+    "carbs": 5,
+    "fat": 8
+  },
+  "slug": "smoke-cold-american-baby-squid-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-cold-american-baby-squid-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "smoke-cold",
+    "primaryIngredient": "baby squid",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "baby squid",
+    "descriptor": "smoke-cold",
+    "dishForm": "bake"
+  }
+}
