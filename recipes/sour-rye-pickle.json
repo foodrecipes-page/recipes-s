@@ -1,0 +1,69 @@
+{
+  "title": "Sour Rye Pickle",
+  "description": "A comforting Canadian dish with a tangy and crunchy texture, made with sour rye bread and a hint of yeast. Perfect for a quick snack or side dish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sour rye bread",
+      "amount": "1 medium loaf",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Let the yeast dissolve in 1 cup of warm water for 5 minutes.",
+    "In a large bowl, combine the cubed bread, yeast mixture, caraway seeds, sea salt, and sugar. Let it sit for 30 minutes, allowing the bread to soak and the flavors to meld.",
+    "Add in the apple cider vinegar, black pepper, and grated ginger. Mix well to combine.",
+    "Pack the mixture into a clean 1-quart mason jar, pressing down on the bread to remove any air pockets.",
+    "Combine the fry ground rice, rice vinegar, and water in a small bowl. Pour the mixture over the bread in the mason jar.",
+    "Seal the jar and let it sit at room temperature for 24-48 hours, allowing the flavors to develop and the bread to become tangy and crunchy.",
+    "Store the pickles in the refrigerator to slow down the fermentation process.",
+    "Let the pickles sit for at least 4 hours before serving, allowing the flavors to meld and the bread to become even more tender.",
+    "To serve, scoop out a portion of the pickles and enjoy as a snack or side dish.",
+    "Note: The longer the pickles sit, the tangier and more sour they will become.",
+    "You can adjust the level of sourness to your liking by letting the pickles sit for a shorter or longer period of time.",
+    "You can also add other ingredients such as garlic, onions, or bell peppers to the pickles for added flavor.",
+    "Experiment with different seasonings and spices to create unique variations of the Sour Rye Pickle recipe."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "easy-to-make",
+    "gluten-free",
+    "keto",
+    "quick-meal",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "sour-rye-pickle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-rye-pickle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:50:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "yeast",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "rye",
+    "descriptor": "sour and zesty",
+    "dishForm": "Pickle"
+  }
+}
