@@ -1,0 +1,111 @@
+{
+  "title": "Sick-Day Spicy Venezuelan Bamboo Shoot Toast",
+  "description": "A spicy, snappy pescatarian-friendly dish featuring bamboo shoots, perfect for a sick day.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "Canned or fresh, sliced into 1-inch pieces."
+    },
+    {
+      "name": "Whole wheat bread",
+      "amount": "2 slices",
+      "notes": " Toasted or untoasted, as preferred."
+    },
+    {
+      "name": "Spicy harissa mayo",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought, adjust to taste."
+    },
+    {
+      "name": "Grated queso fresco",
+      "amount": "1/4 cup",
+      "notes": "Venezuelan-style cheese, crumbled or grated."
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh or dried, as preferred."
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "1 clove",
+      "notes": "Mince fresh or use pre-minced from jar."
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed or bottled, adjust to taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "Adjust to desired heat level."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "For toasting bread or saut\u00054ing garlic."
+    }
+  ],
+  "instructions": [
+    "Toast the bread slices until lightly browned, or use untoasted if preferred.",
+    "In a small bowl, mix together harissa mayo, grated queso fresco, chopped cilantro, minced garlic, lime juice, salt, black pepper, and red pepper flakes until smooth.",
+    "Arrange toasted bread slices on a plate, and top each slice with a spoonful of the spicy harissa mayo mixture.",
+    "Top with sliced bamboo shoots and drizzle with olive oil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "pescatarian",
+    "snack",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "sick-day-spicy-venezuelan-bamboo-shoot-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-spicy-venezuelan-bamboo-shoot-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:33Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "bamboo shoot",
+    "descriptor": "sick-day spicy",
+    "dishForm": "Toast"
+  }
+}

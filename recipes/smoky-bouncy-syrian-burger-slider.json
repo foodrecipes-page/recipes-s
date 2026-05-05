@@ -1,0 +1,123 @@
+{
+  "title": "Smoky Bouncy Syrian Burger Slider",
+  "description": "Smoky, air-fried, and nostalgic Syrian dish featuring sesame seed burger buns and a satvik-friendly twist.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seed burger buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Air-fryer basket liners",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "In a large bowl, combine the ground lamb, chopped onion, minced garlic, chopped fresh parsley, lemon juice, olive oil, ground cumin, ground coriander, salt, and black pepper. Mix well with your hands until just combined.",
+    "Form the lamb mixture into 4-6 small patties, depending on the size you prefer.",
+    "Place the air-fryer basket liners in the air fryer basket and spray with cooking spray.",
+    "Place 2-3 patties in each air-fryer basket liner, depending on the size.",
+    "Cook the patties in the air fryer for 8-10 minutes, or until they reach an internal temperature of 160°F (71°C).",
+    "While the patties are cooking, toast the sesame seed burger buns in the air fryer or under the broiler for 1-2 minutes, or until lightly toasted.",
+    "Assemble the sliders by spreading a dollop of your favorite sauce or topping on the bottom bun, followed by a cooked patty, some additional sauce or topping (if using), and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "burgers",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "smoky-bouncy-syrian-burger-slider",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-bouncy-syrian-burger-slider",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "burger",
+    "descriptor": "Smoky Bouncy",
+    "dishForm": "Slider"
+  }
+}

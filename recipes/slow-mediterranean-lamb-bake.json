@@ -1,0 +1,123 @@
+{
+  "title": "Slow Mediterranean Lamb Bake",
+  "description": "A hearty, comforting slow-cooked lamb dish inspired by Mediterranean flavors, perfect for a sick day or a cozy evening in.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shanks with salt and black pepper.",
+    "In a large Dutch oven, heat the olive oil over medium heat. Sear the lamb shanks until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic, oregano, and rosemary to the pot and cook for 1 minute.",
+    "Add the red wine, chicken broth, tomato paste, salt, and pepper to the pot. Stir to combine.",
+    "Return the lamb to the pot, cover with a lid, and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and falling off the bone.",
+    "Remove the pot from the oven and brush the lamb with lemon juice.",
+    "Let the lamb rest for 10-15 minutes before serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "high-protein",
+    "lamb",
+    "mediterranean",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 64,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "slow-mediterranean-lamb-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-mediterranean-lamb-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "salt-bake",
+    "primaryIngredient": "lamb shanks",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Lamb",
+    "descriptor": "Slow",
+    "dishForm": "Bake"
+  }
+}

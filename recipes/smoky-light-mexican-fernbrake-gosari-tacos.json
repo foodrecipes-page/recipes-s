@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Light Mexican Fernbrake-Gosari Tacos",
+  "description": "A vegetarian, smoky, and light Mexican dish featuring Fernbrake-Gosari, perfect for meal prep and Shojin-friendly options.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fernbrake-Gosari",
+      "amount": "1 bunch",
+      "notes": "cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "Chipotle pepper in adobo sauce",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Shredded Monterey Jack cheese",
+      "amount": "1 cup",
+      "notes": "optional (vegetarian)"
+    }
+  ],
+  "instructions": [
+    "In a large tagine or Dutch oven, heat the olive oil over medium heat.",
+    "Add the chipotle peppers and cook for 1-2 minutes until fragrant.",
+    "Add the Fernbrake-Gosari, cumin, coriander, salt, and garlic powder. Cook for 5 minutes, stirring occasionally.",
+    "Add the lime juice and stir to combine.",
+    "Continue to cook for an additional 10-12 minutes, or until the Fernbrake-Gosari is tender.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a portion of the Fernbrake-Gosari mixture onto a tortilla, followed by a sprinkle of cilantro and a sprinkle of cheese (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "smoky-light-mexican-fernbrake-gosari-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-light-mexican-fernbrake-gosari-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "tagine-cook",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "fernbrake-gosari",
+    "descriptor": "smoky light",
+    "dishForm": "tacos"
+  }
+}
