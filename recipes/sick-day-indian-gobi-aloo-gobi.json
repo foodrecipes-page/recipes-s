@@ -1,0 +1,114 @@
+{
+  "title": "sick-day indian gobi aloo gobi",
+  "description": "a comforting, mustardy indian dish featuring the pillowy goodness of potatoes and cauliflower in a chicken-based broth. perfect for a sick day when you need a gentle, easy-to-swallow meal.",
+  "cuisine": "indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "candy",
+      "amount": "1 tsp",
+      "notes": "sugar to balance the heat of the mustard"
+    }
+  ],
+  "instructions": [
+    "heat 1 tbsp of ghee in a large pan over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for another minute, until fragrant.",
+    "add the cauliflower and potatoes, and cook for 5 minutes, stirring occasionally.",
+    "add the chicken stock cube, garam masala, cumin, coriander, and turmeric. stir to combine.",
+    "add 2 cups of water, and bring the mixture to a boil.",
+    "reduce the heat to low, cover, and simmer for 15 minutes, or until the vegetables are tender.",
+    "stir in the sugar from the candy to balance the heat and flavor.",
+    "season with salt to taste, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "homestyle",
+    "indian-vegetarian",
+    "one-pan",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "sick-day-indian-gobi-aloo-gobi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-indian-gobi-aloo-gobi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:38:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "candy",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "gobi",
+    "descriptor": "Sick-Day",
+    "dishForm": "Aloo Gobi"
+  }
+}
