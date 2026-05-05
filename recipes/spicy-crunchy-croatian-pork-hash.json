@@ -1,0 +1,120 @@
+{
+  "title": "Spicy Crunchy Croatian Pork Hash",
+  "description": "A hearty, spicy, and crunchy Croatian-inspired dish made with ground pork, onions, garlic, and bell peppers, perfect for a sick day.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until caramelized, about 10 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped bell pepper and cook until tender, about 5 minutes.",
+    "Add the ground pork and cook, breaking it up with a spoon, until no longer pink, about 5 minutes.",
+    "Add the caraway seeds, paprika, salt, and black pepper, and stir to combine.",
+    "Deglaze the pan with red wine vinegar and water, scraping up any browned bits from the bottom of the pan.",
+    "Simmer the mixture, stirring occasionally, until the liquid has reduced and the pork is crispy and golden brown, about 10 minutes.",
+    "Stir in chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "croatian",
+    "gluten-free",
+    "hash",
+    "low-sodium",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "spicy-crunchy-croatian-pork-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crunchy-croatian-pork-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "ground pork",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "pork",
+    "descriptor": "spicy crunchy",
+    "dishForm": "hash"
+  }
+}

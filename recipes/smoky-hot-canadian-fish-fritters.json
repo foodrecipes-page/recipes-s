@@ -1,0 +1,106 @@
+{
+  "title": "Smoky Hot Canadian Fish Fritters",
+  "description": "A pescatarian-friendly dish featuring smoky, glassy-jelly, festive Canadian flavors, perfect for a quick snack or meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "flake the fish before using"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "2 teaspoons",
+      "notes": "smoked paprika for smokiness"
+    },
+    {
+      "name": "Pecorino Romano cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "+1 egg white for breading"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup",
+      "notes": "panko breadcrumbs for crunch"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, flake the cod fish into small pieces.",
+    "Add the flour, smoked paprika, Pecorino Romano cheese, egg, onion, celery, and carrots to the bowl and mix until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes to allow the flavors to meld.",
+    "Heat about 1 inch of vegetable oil in a large skillet over medium-high heat until it reaches 375°F.",
+    "Using a spoon, scoop small amounts of the fish mixture into the hot oil and flatten slightly with a spatula.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Drain the fritters on paper towels and serve hot with your favorite dipping sauce.",
+    "For an extra crispy coating, mix the breadcrumbs and hot sauce in a shallow dish and toss the fritters in the mixture to coat before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 12,
+  "totalTimeMin": 57,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 384,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "smoky-hot-canadian-fish-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-hot-canadian-fish-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "smoke-hot",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fish",
+    "descriptor": "smoky-hot",
+    "dishForm": "Fritters"
+  }
+}
