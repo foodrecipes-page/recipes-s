@@ -1,0 +1,67 @@
+{
+  "title": "Salty-Snappy Portuguese White Fish Fillets Lacquerware-Bowl",
+  "description": "A low-calorie-friendly, post-workout dish featuring white fish fillets in a candy-inspired lacquerware-bowl, perfect for a quick snack or light meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "White Fish Fillets",
+      "amount": 200
+    },
+    {
+      "name": "Candy (coconut, chocolate, or any similar low-calorie sweetener of choice)",
+      "amount": "30g"
+    },
+    {
+      "name": "Lacquerware-Bowl",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Gently heat fish fillets in a pan with a bit of oil for about 5 minutes on each side, until cooked through.",
+    "Remove from heat and place in lacquerware-bowl.",
+    "Drizzle the candy over the fish fillets evenly.",
+    "Bake in oven at 180°C for 7 minutes.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 22,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie",
+    "portuguese",
+    "post-workout",
+    "snack",
+    "white-fish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 14,
+    "carbs": 5,
+    "fat": 2
+  },
+  "slug": "salty-snappy-portuguese-white-fish-fillets-lacquerware-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-snappy-portuguese-white-fish-fillets-lacquerware-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T01:30:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "candy",
+    "primaryIngredient": "white fish fillets",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "white fish fillets",
+    "descriptor": "Salty-Snappy",
+    "dishForm": "Bowl"
+  }
+}
