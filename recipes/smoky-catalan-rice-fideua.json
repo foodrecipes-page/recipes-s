@@ -1,0 +1,110 @@
+{
+  "title": "Smoky Catalan Rice Fideua",
+  "description": "A smoky and tender Spanish dish made with fideua, ideal for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Diced chorizo",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Smoked chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Uncooked fideua rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the chopped garlic and cook for an additional 1 minute.",
+    "Add the diced chorizo and cook until browned, about 2 minutes.",
+    "Add the smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the smoked chicken broth, bring to a boil, and then reduce the heat to low and simmer for 10 minutes.",
+    "Add the uncooked fideua rice and cook, stirring constantly, for 2 minutes.",
+    "Add the white wine vinegar and stir to combine.",
+    "Cook, covered, for 5 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the fideua with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "catalan",
+    "one-pan",
+    "rice",
+    "smoky",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "smoky-catalan-rice-fideua",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-catalan-rice-fideua",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:23Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "caramelize",
+    "primaryIngredient": "chilli",
+    "diet": "sugar-free",
+    "region": "catalan",
+    "cuisineAdjective": "Catalan",
+    "mainIngredient": "rice",
+    "descriptor": "Smoky",
+    "dishForm": "Fideua"
+  }
+}

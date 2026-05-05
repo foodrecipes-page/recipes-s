@@ -1,0 +1,114 @@
+{
+  "title": "smoke-cold filipino dish skillet",
+  "description": "grassy, shattering, monsoon filipino dish featuring minced garlic, smoke-cold, keto-friendly. this dish is perfect for a weeknight dinner.",
+  "cuisine": "filipino",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "frozen spinach",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 lb",
+      "notes": "use 80/20 lean to fat ratio for keto-friendliness"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large skillet over medium-high heat.",
+    "add minced garlic and cook until fragrant, about 1 minute.",
+    "add ground pork and cook, breaking up with a spoon, until browned and cooked through.",
+    "add smoked salmon, frozen peas, and frozen spinach to the skillet.",
+    "stir in fish sauce, lime juice, salt, and pepper.",
+    "cook for an additional 2 minutes, until peas and spinach are tender.",
+    "taste and adjust seasoning as needed.",
+    "garnish with chopped cilantro and serve hot.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "high-protein",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "smoke-cold-filipino-dish-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-cold-filipino-dish-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "smoke-cold",
+    "primaryIngredient": "minced garlic",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "dish",
+    "descriptor": "smoke-cold",
+    "dishForm": null
+  }
+}

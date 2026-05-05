@@ -1,0 +1,93 @@
+{
+  "title": "Shattering Peppery Australian Tomato Pie",
+  "description": "This classic Australian dish combines the sweetness of San Marzano tomatoes with a peppery kick and a hint of tempered chocolate for a truly unique flavor experience. Perfect for a comforting dinner or satisfying snack.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "1 can",
+      "notes": "28 oz"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tempered dark chocolate",
+      "amount": "2 oz",
+      "notes": "at least 60% cocoa"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Roll out the dough to a thickness of 1/8 inch and place it in a 9-inch pie dish.",
+    "In a separate pan, combine the San Marzano tomatoes, black pepper, and salt. Cook over medium heat until the mixture is warm and fragrant.",
+    "Pour the tomato mixture into the pie crust, leaving a 1-inch border around the edges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "dinner",
+    "easy-to-make",
+    "homemade",
+    "snack",
+    "tomato-pie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "shattering-peppery-australian-tomato-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-peppery-australian-tomato-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "tomato",
+    "descriptor": "shattering peppery",
+    "dishForm": "pie"
+  }
+}

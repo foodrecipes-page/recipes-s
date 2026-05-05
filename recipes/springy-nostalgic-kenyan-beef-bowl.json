@@ -1,0 +1,110 @@
+{
+  "title": "Springy Nostalgic Kenyan Beef Bowl",
+  "description": "A hearty, comforting dish made with tender beef and a rich, savory broth. Served in a rustic earthenware bowl.",
+  "cuisine": "kenyan",
+  "diet": [
+    "macrobioitic",
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "500g",
+      "notes": "unsalted, cured for at least 7 days"
+    },
+    {
+      "name": "beef stock",
+      "amount": "1L",
+      "notes": "unsalted, reduced from 2L to concentrate flavors"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Cut the beef brisket into katsuramuki-cut strips, about 1cm thick.",
+    "In a large pan, heat 2 tablespoons of oil over medium heat.",
+    "Add the sliced onions and cook until they start to caramelize, stirring occasionally.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the beef stock, turmeric, cumin, coriander, and salt-free seasoning. Bring to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Add the kaffir lime leaves and cook for a further 30 minutes.",
+    "Add the katsuramuki-cut beef and cook for 10-15 minutes, or until it is tender and springy.",
+    "Season with salt-free seasoning to taste.",
+    "Serve hot in earthenware bowls, garnished with additional kaffir lime leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef-based",
+    "comfort-food",
+    "high-protein",
+    "kenyan-cuisine",
+    "soul-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 26,
+    "fat": 24
+  },
+  "slug": "springy-nostalgic-kenyan-beef-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-nostalgic-kenyan-beef-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "springy nostalgic",
+    "dishForm": "Bowl"
+  }
+}
