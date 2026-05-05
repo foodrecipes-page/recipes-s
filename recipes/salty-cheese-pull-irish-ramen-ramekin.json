@@ -1,0 +1,83 @@
+{
+  "title": "Salty Cheese-Pull Irish Ramen Ramekin",
+  "description": "A quick-fix Irish ramen dish featuring cheese and other ingredients for a tasty snack or meal.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chili powder",
+      "amount": 1
+    },
+    {
+      "name": "salt",
+      "amount": 1
+    },
+    {
+      "name": "black pepper",
+      "amount": 1
+    },
+    {
+      "name": "corn starch",
+      "amount": 1
+    },
+    {
+      "name": "bone broth (diced)",
+      "amount": 400
+    },
+    {
+      "name": "instant ramen noodles (diced)",
+      "amount": 300
+    },
+    {
+      "name": "cheddar cheese, sliced and melted",
+      "amount": 250
+    },
+    {
+      "name": "milk",
+      "amount": 100
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together chili powder, salt, black pepper, corn starch, and bone broth until well combined.",
+    "Pour the mixture over diced instant ramen noodles in a ramekin dish.",
+    "Add sliced and melted cheddar cheese to the mixture.",
+    "Drizzle with milk and place in a pressure cooker for 10 minutes.",
+    "Let sit for 2 minutes after pressure release, then serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "irish-ramen",
+    "no-onion-no-garlic",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "salty-cheese-pull-irish-ramen-ramekin",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-cheese-pull-irish-ramen-ramekin",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:58:50Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "cheese",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Cheese",
+    "descriptor": "Salty",
+    "dishForm": "Ramen"
+  }
+}
