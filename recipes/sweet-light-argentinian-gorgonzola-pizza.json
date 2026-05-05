@@ -1,0 +1,99 @@
+{
+  "title": "Sweet Light Argentinian Gorgonzola Pizza",
+  "description": "A light and energizing pizza featuring the sweetness of gorgonzola dolce and the savory flavor of bonito, perfect for a quick breakfast or snack.",
+  "cuisine": "argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Homemade pizza dough",
+      "amount": "1 1/2 cups",
+      "notes": "store-bought dough is fine too, but homemade is better!"
+    },
+    {
+      "name": "Gorgonzola dolce",
+      "amount": "3 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh arugula",
+      "amount": "1/2 cup",
+      "notes": "peppery and perfect for this pizza!"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1 tablespoon",
+      "notes": "use the good stuff!"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "1 large egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the pizza dough to a thickness of about 1/4 inch.",
+    "Transfer the dough to a baking sheet or pizza stone.",
+    "Spread the gorgonzola dolce over the dough, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the bonito flakes and arugula over the gorgonzola.",
+    "Drizzle the olive oil over the top and sprinkle with salt and black pepper.",
+    "Crack the egg into a small bowl and whisk it lightly. Brush the egg wash over the edges of the crust to give it a golden brown finish.",
+    "Bake the pizza in the preheated oven for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove the pizza from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "easy",
+    "pescatarian",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "sweet-light-argentinian-gorgonzola-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-light-argentinian-gorgonzola-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "bonito-shave",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Gorgonzola",
+    "descriptor": "Sweet Light",
+    "dishForm": "Pizza"
+  }
+}

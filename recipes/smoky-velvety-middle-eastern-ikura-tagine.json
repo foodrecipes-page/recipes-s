@@ -1,0 +1,120 @@
+{
+  "title": "Smoky Velvety Middle-Eastern Ikura Tagine",
+  "description": "A hearty, comforting dish featuring ikura in a rich, smoky mother sauce, perfect for a weeknight dinner. Serve with couscous or pita bread.",
+  "cuisine": "middle-eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ikura (salmon roe)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay tagine or a heavy pot over medium heat.",
+    "Chop the onion and add it to the pot, cooking until softened, about 5 minutes.",
+    "Mince the garlic and ginger, and add them to the pot, cooking for another minute.",
+    "Add the cumin, coriander, paprika, cayenne pepper, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the ikura, olives, and apricots to the pot, and stir to combine.",
+    "Reduce heat to low and simmer, uncovered, for 10-15 minutes, or until the sauce has thickened slightly.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the tagine over couscous or pita bread, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "smoky-velvety-middle-eastern-ikura-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-velvety-middle-eastern-ikura-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "ikura",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Ikura",
+    "descriptor": "Smoky Velvety",
+    "dishForm": "Tagine"
+  }
+}

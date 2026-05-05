@@ -1,0 +1,108 @@
+{
+  "title": "Spicy Glassy-Jelly Russian Sherry Bake",
+  "description": "A cozy, egg-free-friendly Russian dish featuring sherry and a spicy glassy-jelly topping.",
+  "cuisine": "Russian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown sugar",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried cranberries",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Orange marmalade",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sherry",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cloves",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour, granulated sugar, brown sugar, and ground spices.",
+    "Add in the chopped cranberries and mix until combined.",
+    "Add in the unsalted butter and mix until a dough forms.",
+    "Press the dough evenly into a 9x13 inch baking dish.",
+    "Bake for 20 minutes, or until the edges are lightly golden.",
+    "While the crust is baking, prepare the glassy-jelly topping by whisking together the orange marmalade and sherry in a bowl.",
+    "After the crust has baked for 20 minutes, remove it from the oven and spread the glassy-jelly topping evenly over the top.",
+    "Return the dish to the oven and bake for an additional 15-20 minutes, or until the jelly is set and the crust is golden brown."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "one-pan",
+    "russian",
+    "sherry",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "spicy-glassy-jelly-russian-sherry-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-glassy-jelly-russian-sherry-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "sherry",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sherry",
+    "descriptor": "spicy glassy-jelly",
+    "dishForm": "Bake"
+  }
+}

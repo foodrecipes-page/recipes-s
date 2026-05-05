@@ -1,0 +1,98 @@
+{
+  "title": "Silky Japanese Gelatin Jelly",
+  "description": "A soothing, cultured Okinawan-inspired dish to comfort a sick day, using unflavored gelatin and a shio-koji cure that is vegan-friendly and silky smooth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unflavored gelatin",
+      "amount": "2 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Kombu seaweed",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Katsuo dashi powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Combine shio-koji and 2 cups of water in a saucepan and bring to a simmer over low heat.",
+    "Remove from heat and let steep for 30 minutes.",
+    "Combine the soaked shio-koji mixture with the remaining 2 cups of water, gelatin, agar agar powder, kombu seaweed, katsuo dashi powder, and salt in a blender or food processor and blend until smooth.",
+    "Strain the mixture through a fine-mesh sieve into a large bowl.",
+    "Add sugar if using and stir until dissolved.",
+    "Pour the mixture into a 9x13 inch baking dish or a silicone jelly mold and refrigerate until set, about 4 hours.",
+    "Unmold the jelly and cut into small cubes or slices before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 10,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "oklahaw-recipe",
+    "sick-day",
+    "silky-gelatin",
+    "vegan-japanese"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 44,
+    "fat": 2
+  },
+  "slug": "silky-japanese-gelatin-jelly",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-japanese-gelatin-jelly",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:51Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "vegan",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "gelatin",
+    "descriptor": "Silky",
+    "dishForm": "Jelly"
+  }
+}
