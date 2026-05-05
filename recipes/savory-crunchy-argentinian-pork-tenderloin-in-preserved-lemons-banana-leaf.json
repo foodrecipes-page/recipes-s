@@ -1,0 +1,77 @@
+{
+  "title": "Savory Crunchy Argentinian Pork Tenderloin in Preserved Lemons Banana-Leaf",
+  "description": "This savory and crunchy meal is perfect for a quick lunch or dinner. The pork tenderloin is cooked using fast-action yeast to keep it low-glycemic-friendly, then sashimi-cut for easy portioning.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Preserved lemons",
+      "amount": "2 cans (4 oz each)"
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cut the pork into sashimi slices, about 1/4 inch thick.",
+    "Mix preserved lemons with olive oil and seasonings. Place sliced pork in a single layer on banana leaves lined baking sheet.",
+    "Place mixture over top of pork slices, ensuring they are fully covered. Arrange lemon halves on top for extra flavoring.",
+    "Place baking sheet in preheated oven and bake for 20 minutes. Rotate the sheet halfway through cooking time to ensure even browning.",
+    "Remove from oven, let cool slightly before serving. Serve with a side of sweet potato mash or quinoa salad.",
+    "Dust slices with additional kosher salt and pepper just before serving if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fast-action-yeast",
+    "low-glycemic-friendly",
+    "preserved-lemon",
+    "sashimi-cut"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "savory-crunchy-argentinian-pork-tenderloin-in-preserved-lemons-banana-leaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-argentinian-pork-tenderloin-in-preserved-lemons-banana-leaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T05:20:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fast action yeast",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Beef",
+    "descriptor": "Savory Crunchy",
+    "dishForm": "Pork Tenderloin in Preserved Lemons"
+  }
+}
