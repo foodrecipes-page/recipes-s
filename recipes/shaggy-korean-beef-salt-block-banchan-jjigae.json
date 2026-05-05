@@ -1,0 +1,91 @@
+{
+  "title": "Shaggy Korean Beef Salt-Block Banchan Jjigae",
+  "description": "A fresh, shaggy korean dish featuring beef braised in a salt block one-pot meal that is ayurvedic-tamasic-friendly.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": 500,
+      "notes": "should be cut into bite-sized pieces"
+    },
+    {
+      "name": "green onion",
+      "amount": "a few stalks",
+      "notes": "for garnish"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice wine vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "salt",
+      "amount": 500,
+      "notes": "enough to cover the salt block completely"
+    }
+  ],
+  "instructions": [
+    "Season the beef with soy sauce and rice wine vinegar. Set aside.",
+    "Mince the garlic and ginger finely.",
+    "Heat the salt block over medium-high heat until hot enough that a few drops of water sizzle immediately when placed on top, indicating it's ready for cooking at high temperature.",
+    "Add minced garlic and ginger to the salt block, stir-fry for about 1 minute.",
+    "Add seasoned beef to the salt block. Cook until meat is browned and cooked through, approximately 5 minutes.",
+    "Drizzle sesame oil over the beef and mix well with a spoon or spatula to coat evenly.",
+    "Stir in minced garlic and ginger with sesame oil again for about 1 minute more to combine flavors.",
+    "Sprinkle salt on top of the beef mixture until fully covered. Let sit under high heat for 3-5 minutes, stirring occasionally to ensure even cooking.",
+    "Garnish with green onion slices before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bbq-style",
+    "beef",
+    "korean-recipe",
+    "one-pot-meal",
+    "salt-block-cooking"
+  ],
+  "nutrition": {
+    "calories": 598,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 27
+  },
+  "slug": "shaggy-korean-beef-salt-block-banchan-jjigae",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/shaggy-korean-beef-salt-block-banchan-jjigae",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T23:16:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "beef",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Beef",
+    "descriptor": "Shaggy",
+    "dishForm": "Salt-Block Banchan Jjigae"
+  }
+}
