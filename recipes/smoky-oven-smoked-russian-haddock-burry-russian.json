@@ -1,0 +1,119 @@
+{
+  "title": "Smoky Oven-Smoked Russian Haddock Burry",
+  "description": "A rich and indulgent Russian dish featuring smoked haddock, a crumbly pastry crust, and a hint of char-grilled flavor.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked haddock fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Self-raising flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dairy yogurt",
+      "amount": "1/2 cup",
+      "notes": "Plain, unflavored"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 whole",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": "Black mustard seeds"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pastry dough",
+      "amount": "homemade or store-bought",
+      "notes": ""
+    },
+    {
+      "name": "Kadhai or heavy skillet",
+      "amount": "",
+      "notes": "For char-grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Place the dough in a 9-inch kadhai or heavy skillet.",
+    "In a separate bowl, mix together the yogurt, chopped onion, parsley, egg, mustard seeds, salt, and black pepper.",
+    "Add the smoked haddock fillets to the bowl and mix gently to combine.",
+    "Spoon the haddock mixture into the pastry-lined kadhai.",
+    "Brush the edges of the pastry with unsalted butter.",
+    "Fold the pastry over the filling to form a burry shape.",
+    "Cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the kadhai in the oven and bake for 25 minutes.",
+    "Remove the kadhai from the oven and let it cool for 5 minutes.",
+    "Serve the burry warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "pastry",
+    "russian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "smoky-oven-smoked-russian-haddock-burry-russian",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-oven-smoked-russian-haddock-burry-russian",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "smoked haddock",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "haddock",
+    "descriptor": "smoky oven-smoked",
+    "dishForm": "Burry (Russian: Пирог)"
+  }
+}

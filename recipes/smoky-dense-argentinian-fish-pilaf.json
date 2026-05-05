@@ -1,0 +1,109 @@
+{
+  "title": "Smoky Argentinian Fish Pilaf",
+  "description": "A savory, dense pilaf from Argentina featuring smoky paprika and tender fish, perfect for a date-night dinner in a tandoor clay pot.",
+  "cuisine": "argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "1 pound (450g)",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "use high-quality, smoky paprika for authentic flavor"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup (180g)",
+      "notes": "short-grain rice works best for pilafs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped medium onion"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "+1/2 teaspoon black pepper"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup (15g)",
+      "notes": "chopped fresh parsley for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor clay pot over medium-high heat. ",
+    "Add the olive oil and swirl to coat the bottom of the pot.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the cumin and cook for 1 minute, stirring constantly.",
+    "Add the rice and cook for 1-2 minutes, stirring constantly, until the rice is lightly toasted.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Add the smoked paprika, salt, and black pepper to the pot.",
+    "Add the cod fillets to the pot, skin side up (if they have skin).",
+    "Cover the pot and transfer it to the preheated tandoor clay oven or a conventional oven at 400°F (200°C).",
+    "Bake for 20-25 minutes, or until the fish is cooked through and the rice is tender.",
+    "Fluff the pilaf with a fork and garnish with chopped fresh parsley.",
+    "Serve hot, directly from the clay pot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "date-night",
+    "fish",
+    "one-pan",
+    "pescatarian",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "smoky-dense-argentinian-fish-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dense-argentinian-fish-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "dum",
+    "primaryIngredient": "smoky paprika",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "fish",
+    "descriptor": "smoky, dense",
+    "dishForm": "Pilaf"
+  }
+}

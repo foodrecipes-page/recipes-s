@@ -1,0 +1,87 @@
+{
+  "title": "Spicy Zesty Canadian Pistachio Wrap",
+  "description": "A pescatarian-friendly, comforting Canadian dish featuring pistachio paste and namul-blanch-season in a lotus-leaf-wrap.",
+  "cuisine": "canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "pistachio paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked salmon fillet",
+      "amount": "4 oz"
+    },
+    {
+      "name": "sliced avocado",
+      "amount": "1"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Blanch 8 ounces of water for 4 minutes, then season with namul-blanch-season.",
+    "Sear the smoked salmon fillet in a pan for 2 minutes per side.",
+    "Wrap each lotus leaf with a portion of the salmon, pistachio paste, avocado, scallions, and red pepper flakes.",
+    "Roll up the wraps tightly, trimming excess leaf with scissors if necessary.",
+    "Fry the rolls in oil for 2-3 minutes, until crispy and golden.",
+    "Bake the rolls in the oven for an additional 5 minutes to melt the pistachio paste.",
+    "Cut and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "gluten-free",
+    "pescatarian",
+    "snack",
+    "spicy",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "spicy-zesty-canadian-pistachio-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-zesty-canadian-pistachio-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "pistachio paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pistachio",
+    "descriptor": "spicy zesty",
+    "dishForm": "wrap"
+  }
+}

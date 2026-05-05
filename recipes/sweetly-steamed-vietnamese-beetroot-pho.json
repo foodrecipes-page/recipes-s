@@ -1,0 +1,103 @@
+{
+  "title": "sweetly steamed vietnamese beetroot pho",
+  "description": "pungent, silky, nostalgic vietnamese dish featuring cooked beetroot, kombu-cold-extract, plant-based-friendly, served in a fondue-pot",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced into 1-inch thick rounds"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried and cut into 2-inch pieces"
+    },
+    {
+      "name": "veggie broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought, low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for aroma"
+    },
+    {
+      "name": "slaw mix",
+      "amount": "1 cup",
+      "notes": "shredded cabbage, carrots, and cilantro"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "in a fondue-pot or a large saucepan, combine kombu and veggie broth over low heat.",
+    "bring the broth to a gentle simmer and cook for 20 minutes, or until the kombu is rehydrated.",
+    "add sliced beetroot to the broth and cook for an additional 30 minutes, or until the beetroot is tender.",
+    "strain the broth through a fine-mesh sieve into a clean pot, discarding the kombu and beetroot.",
+    "add rice vinegar, maple syrup, and sesame oil to the broth and stir to combine.",
+    "cook rice noodles according to package instructions and divide among bowls.",
+    "ladle the steaming hot broth over the noodles and top with slaw mix, toasted sesame seeds, and a sprinkle of rice vinegar.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "sweetly-steamed-vietnamese-beetroot-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweetly-steamed-vietnamese-beetroot-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:03Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Beetroot",
+    "descriptor": "Sweetly Steamed",
+    "dishForm": "Pho"
+  }
+}

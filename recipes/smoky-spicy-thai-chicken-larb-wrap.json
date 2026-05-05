@@ -1,0 +1,119 @@
+{
+  "title": "Smoky Spicy Thai Chicken Larb Wrap",
+  "description": "A sour, snappy Thai dish made with savoiardi ladyfingers, smoked chicken, and a spicy kick, all wrapped in a corn husk. This jain-friendly larb recipe is perfect for a quick and easy meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked chicken breast",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "savoiardi ladyfingers",
+      "amount": "6-8 pieces",
+      "notes": "soaked in water for 5 minutes and then drained"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "corn husk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine smoked chicken, fish sauce, palm sugar, lime juice, chili flakes, and cumin. Blend until smooth.",
+    "Add the sliced red onion and red bell pepper to the blender and blend until coarsely chopped.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the chicken mixture to the skillet and cook for 2-3 minutes, breaking it up with a spoon as it cooks.",
+    "Soak the savoiardi ladyfingers in water for 5 minutes and then drain.",
+    "Add the ladyfingers to the skillet and cook for 1-2 minutes, until they start to brown.",
+    "Cut the corn husk in half and place it on a flat surface.",
+    "Spoon the chicken mixture into the center of the corn husk, leaving a 1-inch border around the edges.",
+    "Top with chopped fresh cilantro.",
+    "Fold the sides of the corn husk over the filling and then fold the top down to create a tight wrap.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "larb",
+    "one-pan",
+    "thaifood",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "smoky-spicy-thai-chicken-larb-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spicy-thai-chicken-larb-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Smoky Spicy",
+    "dishForm": "Larb Wrap"
+  }
+}
