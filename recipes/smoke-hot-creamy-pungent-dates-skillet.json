@@ -1,0 +1,85 @@
+{
+  "title": "Smoke-Hot Creamy Pungent Dates Skillet",
+  "description": "A savory and flavorful Syrian dish perfect for date night, featuring beer-infused dates in a sugar-free-friendly skillet.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": 12
+    },
+    {
+      "name": "beer",
+      "amount": "4 oz"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 3
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": 20
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar-free cream cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoke flavoring blend",
+      "amount": "4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your tava-griddle to medium-high heat.",
+    "In a small bowl, mix the dates with beer, garlic, cilantro leaves, and smoke flavoring blend. Set aside for about 10 minutes.",
+    "Melt the sugar-free cream cheese in a saucepan over low heat, stirring continuously until smooth.",
+    "Add the smoked date mixture to the melted cream cheese and stir well until incorporated.",
+    "Pour the creamy date mixture into your preheated tava-griddle. Cook for about 10 minutes or until golden brown on both sides.",
+    "Season with salt to taste before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beer-infused",
+    "date-night",
+    "smoke-hot",
+    "sugar-free-friendly",
+    "syrian-dish"
+  ],
+  "nutrition": {
+    "calories": 525,
+    "protein": 28,
+    "carbs": 34,
+    "fat": 16
+  },
+  "slug": "smoke-hot-creamy-pungent-dates-skillet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-creamy-pungent-dates-skillet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:51:06Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "smoke-hot",
+    "primaryIngredient": "beer",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Dates",
+    "descriptor": "Smoke-Hot Creamy Pungent",
+    "dishForm": "Skillet"
+  }
+}
