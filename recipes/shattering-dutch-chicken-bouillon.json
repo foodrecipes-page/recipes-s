@@ -1,0 +1,118 @@
+{
+  "title": "shattering dutch chicken bouillon",
+  "description": "sweet, shattering, and cozy dutch dish featuring chicken stock concentrate and kombu-cold-extract, low-carb-friendly",
+  "cuisine": "dutch",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken stock concentrate",
+      "amount": "1 envelope",
+      "notes": ""
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a medium saucepan combine kombu seaweed and water and bring to a boil then reduce heat and simmer for 10 minutes",
+    "remove kombu from the saucepan and discard",
+    "add chicken stock concentrate ghee onion garlic carrot celery and thyme to the saucepan and cook until the vegetables are tender",
+    "add xanthan gum and season with salt and black pepper",
+    "strain the mixture through a fine-mesh sieve into a clean bowl and discard the solids",
+    "return the mixture to the saucepan and cook until it has reduced slightly",
+    "shatter the mixture by mashing it with a potato masher or whisk",
+    "adjust the seasoning as needed"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "shattering-dutch-chicken-bouillon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-dutch-chicken-bouillon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:38:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Chicken",
+    "descriptor": "Shattering",
+    "dishForm": "Bouillon"
+  }
+}
