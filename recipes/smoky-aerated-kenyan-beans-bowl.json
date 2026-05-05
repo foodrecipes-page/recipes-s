@@ -1,0 +1,102 @@
+{
+  "title": "Smoky Aerated Kenyan Beans Bowl",
+  "description": "A lazy Sunday dish featuring smoky beans, steamed with aromatics and served in a bowl.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cannellini beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine cannellini beans, smoked paprika, garlic, and ginger in a large bowl.",
+    "Steam the mixture using a mushroom steam basket for 20 minutes, until the beans are tender.",
+    "In a small pan, heat the coconut oil over medium heat.",
+    "Add the chopped green onions to the pan and saut\u00147 and cook for 2 minutes, until fragrant.",
+    "Add the lime juice and stir to combine, then season with salt and black pepper to taste.",
+    "Pour the bean mixture into a serving bowl and top with the saut\u00147 and onions.",
+    "Garnish with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "macrobiotic-friendly",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "smoky-aerated-kenyan-beans-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-aerated-kenyan-beans-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "beans",
+    "descriptor": "smoky aerated",
+    "dishForm": "bowl"
+  }
+}

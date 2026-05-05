@@ -1,0 +1,129 @@
+{
+  "title": "Spicy Thai Rice Bowl",
+  "description": "A flavorful and nutritious Thai dish featuring spicy and sour flavors, served over a bed of al-dente jasmine rice.",
+  "cuisine": "thai",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Enchilada sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced red chilies",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook jasmine rice according to package instructions.",
+    "Grill or saut\u00059 the chicken breast until cooked through, then chop into bite-sized pieces.",
+    "In a pan, heat coconut oil over medium heat.",
+    "Add red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add enchilada sauce, fish sauce, lime juice, and grated ginger. Stir to combine.",
+    "Add chopped chicken and sliced red chilies to the sauce and stir to combine.",
+    "Cook for 2-3 minutes, until the sauce has thickened slightly.",
+    "Fluff cooked jasmine rice with a fork and divide among bowls.",
+    "Top with the spicy chicken mixture, sliced green onions, and a sprinkle of chili flakes if desired.",
+    " Garnish with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "spicy-thai-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-thai-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:42Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "paleo",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rice",
+    "descriptor": "spicy",
+    "dishForm": "Bowl"
+  }
+}
