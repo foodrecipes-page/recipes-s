@@ -1,0 +1,72 @@
+{
+  "title": "shattering earthy uruguayan phyllo empanadas",
+  "description": "a flavorful and crispy empanada featuring earthy mushrooms and cheese, perfect for a lazy sunday",
+  "cuisine": "uruguayan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package (usually 20-24 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "thaw the phyllo dough according to the package instructions",
+    "preheat the oven to 375 degrees fahrenheit",
+    "in a pan, sauté the onion and porcini mushrooms until they are soft and fragrant",
+    "stack the phyllo sheets and cut them into squares, about 4 inches per side",
+    "place a spoonful of the mushroom mixture onto the center of each square, leaving a 1-inch border around the edges",
+    "brush the edges with water and fold the dough over the filling, pressing the edges to seal the empanada",
+    "brush the tops of the empanadas with oil and place them on a baking sheet",
+    "bake the empanadas in the preheated oven for 20-25 minutes, or until they are golden brown and crispy",
+    "remove the empanadas from the oven and let them cool for a few minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "shattering-earthy-uruguayan-phyllo-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-earthy-uruguayan-phyllo-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:11Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "smoke-cold",
+    "primaryIngredient": "phyllo dough",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "phyllo",
+    "descriptor": "shattering earthy",
+    "dishForm": "Empanadas"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Sweet Tender Australian Mushimono-steam Bake",
+  "description": "A sweet and tender Australian-inspired dessert featuring a flaky crust and a hint of appleton rum, steamed to perfection in a mason jar.",
+  "cuisine": "australian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond cake mix",
+      "amount": "1 packet",
+      "notes": "store-bought"
+    },
+    {
+      "name": "cubed pineapple",
+      "amount": "250g",
+      "notes": "fresh"
+    },
+    {
+      "name": "diced apple",
+      "amount": "250g",
+      "notes": "fresh"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "softened"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "sugar",
+      "amount": "250g",
+      "notes": "granulated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g",
+      "notes": "sifted"
+    },
+    {
+      "name": "mason jar",
+      "amount": "",
+      "notes": "1x (clean, sterilized)"
+    },
+    {
+      "name": "appleton rum",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "flaky pastry strips",
+      "amount": "10-12",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "250ml",
+      "notes": "for steaming"
+    },
+    {
+      "name": "grated nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer basket over boiling water.",
+    "Combine the almond cake mix, cubed pineapple, diced apple, unsalted butter, egg, sugar, and all-purpose flour in a large bowl.",
+    "Mix well until the batter is smooth.",
+    "Pour the batter into the mason jar.",
+    "Add the flaky pastry strips on top of the batter.",
+    "Drizzle the appleton rum over the pastry strips (if using).",
+    "Cover the mason jar with a lid and place it in the steamer basket.",
+    "Steam for 25 minutes, or until the crust is golden brown and the center is set.",
+    "Remove the mason jar from the steamer basket and let it cool for 10 minutes.",
+    "Sprinkle the grated nutmeg and salt over the top (if using).",
+    "Serve warm, topped with a pat of butter if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "easy-serves-many",
+    "mason-jar",
+    "rum-infused",
+    "steam-baking",
+    "sweet",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 5,
+    "carbs": 120,
+    "fat": 20
+  },
+  "slug": "sweet-tender-australian-mushimono-steam-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-tender-australian-mushimono-steam-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "appleton rum",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "mushimono-steam",
+    "descriptor": "sweet tender nostalgic",
+    "dishForm": "bake"
+  }
+}

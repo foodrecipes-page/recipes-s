@@ -1,0 +1,113 @@
+{
+  "title": "smoky light slovakian milk bake",
+  "description": "a unique slovakian dish featuring semi-skimmed milk and a smoky flavor, ideal for those who dislike onions or garlic.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semi-skimmed milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/16 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked salmon fillet",
+      "amount": "6 ounces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a medium bowl, whisk together flour, smoked paprika, salt, black pepper, and cayenne pepper.",
+    "in a large bowl, whisk together semi-skimmed milk, eggs, and grated cheddar cheese.",
+    "add the dry ingredients to the wet ingredients and stir until just combined.",
+    "add the softened butter and stir until the batter is smooth.",
+    "fold in the chopped fresh parsley.",
+    "pour the batter into a greased 9x13-inch baking dish.",
+    "place the smoked salmon fillet on top of the batter.",
+    "bake in a preheated oven at 375 degrees fahrenheit for 25 minutes, or until a toothpick inserted into the center of the dish comes out clean.",
+    "remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "easy-to-make",
+    "fish",
+    "milk",
+    "slovakian",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "smoky-light-slovakian-milk-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-light-slovakian-milk-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "milk",
+    "descriptor": "smoky light",
+    "dishForm": "Bake"
+  }
+}

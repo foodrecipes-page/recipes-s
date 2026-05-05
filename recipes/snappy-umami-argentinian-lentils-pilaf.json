@@ -1,0 +1,156 @@
+{
+  "title": "snappy umami argentinian lentils pilaf",
+  "description": "a hearty and flavorful argentinian-inspired dish featuring snappy lentils and a rich umami flavor profile.",
+  "cuisine": "argentinian",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green or brown lentils",
+      "amount": "1 cup",
+      "notes": "any variety of lentil works, but green or brown hold their shape best during cooking."
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "",
+      "},{": [
+        1,
+        "name",
+        "amount",
+        "notes",
+        "servings",
+        "calories",
+        "protein",
+        "carbs",
+        "fat",
+        "tags",
+        "cookTimeMin",
+        "prepTimeMin",
+        "totalTimeMin",
+        "instructions",
+        "difficulty"
+      ],
+      "instructions": "heat the oil in a large skillet over medium-high heat. Add the diced onion and cook, stirring occasionally, until it starts to caramelize and develop a deep brown color, about 8 minutes.",
+      "cookTimeMin": 20,
+      "totalTimeMin": 30,
+      "servings": 4,
+      "difficulty": "medium",
+      "prepTimeMin": 10,
+      "tags": [
+        "one-pan",
+        "weeknight",
+        "wok-hei",
+        "snappy",
+        "umami"
+      ],
+      "nutrition": {
+        "calories": 400,
+        "carbs": 60,
+        "fat": 10,
+        "protein": 20
+      },
+      "diet": [
+        "halal",
+        "vegetarian",
+        "vegan"
+      ],
+      "cuisine": "argentinian",
+      "description": "a hearty and flavorful argentinian-inspired dish featuring snappy lentils and a rich umami flavor profile.",
+      "title": "snappy umami argentinian lentils pilaf",
+      "meal": "lunch",
+      "ingredients": [
+        {
+          "name": "green or brown lentils",
+          "amount": "1 cup",
+          "notes": "any variety of lentil works, but green or brown hold their shape best during cooking."
+        },
+        {
+          "name": "onion",
+          "amount": "1 large",
+          "notes": ""
+        },
+        {
+          "name": "garlic",
+          "amount": "3 cloves",
+          "notes": ""
+        },
+        {
+          "name": "smoked paprika",
+          "amount": "1 teaspoon",
+          "notes": "this ingredient contributes to the dish's umami flavor profile"
+        },
+        {
+          "name": "ground cumin",
+          "amount": "1 teaspoon",
+          "notes": ""
+        },
+        {
+          "name": "chili powder",
+          "amount": "1/2 teaspoon",
+          "notes": ""
+        },
+        {
+          "name": "salt",
+          "amount": "1/2 teaspoon",
+          "notes": ""
+        },
+        {
+          "name": "black pepper",
+          "amount": "1/4 teaspoon",
+          "notes": ""
+        },
+        {
+          "name": "olive oil",
+          "amount": "2 tablespoons",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "cook the lentils according to package instructions until they reach a texture your bite.",
+    "heat the oil in a large skillet over medium-high heat. Add the diced onion and cook, stirring occasionally, until it starts to caramelize and develop a deep brown color, about 8 minutes.",
+    "add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "add the smoked paprika, cumin, chili powder, salt, and black pepper to the skillet and stir to combine.",
+    "add the cooked lentils to the skillet and stir to combine with the spice mixture.",
+    "cook for an additional 2-3 minutes, until the lentils are heated through and the flavors have melded together."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "argentinian",
+    "lunch"
+  ],
+  "slug": "snappy-umami-argentinian-lentils-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/snappy-umami-argentinian-lentils-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:49Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "wok-hei",
+    "primaryIngredient": "lentils",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "lentils",
+    "descriptor": "snappy umami",
+    "dishForm": "pilaf"
+  }
+}
