@@ -1,0 +1,121 @@
+{
+  "title": "salty, gooey, whisked saudi-arabian hojicha bowl",
+  "description": "a nostalgic saudi-arabian dish featuring hojicha and crispy deep-fried potatoes, perfect for breakfast or brunch.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hojicha",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "deep-fried potatoes",
+      "amount": "2 large",
+      "notes": "crispy on the outside, fluffy on the inside."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced."
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish."
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "chopped."
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "1/4 cup",
+      "notes": "for garnish."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of coconut oil in a deep frying pan over medium-high heat.",
+    "Add the chopped garlic and sauté for 1 minute until fragrant.",
+    "Add the diced potatoes and cook for 5-7 minutes until they start to brown.",
+    "In a separate bowl, whisk together the hojicha, water, lemon juice, honey, and cornstarch until smooth.",
+    "Add the mixture to the pan with the potatoes and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5-7 minutes until the sauce has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve the hojicha bowl hot, garnished with chopped cilantro, crushed almonds, and chopped dates."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "salty-gooey-whisked-saudi-arabian-hojicha-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-gooey-whisked-saudi-arabian-hojicha-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "hojicha",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Hojicha",
+    "descriptor": "Salty, gooey, whisked",
+    "dishForm": "Bowl"
+  }
+}

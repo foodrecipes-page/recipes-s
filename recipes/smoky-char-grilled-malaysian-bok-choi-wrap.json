@@ -1,0 +1,65 @@
+{
+  "title": "Smoky Char-Grilled Malaysian Bok Choi Wrap",
+  "description": "A date-night twist on classic Malaysian cuisine featuring char-grilled bok choi and velvety peanut sauce wrapped in a pandan leaf.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bok choi",
+      "amount": "2",
+      "notes": "heavily char-grilled"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush bok choi with peanut oil and grill until charred, about 2-3 minutes per side.",
+    "In a blender or food processor, combine peanut butter, coconut milk, garlic, ginger, lime juice, salt, pepper, cumin, coriander, and brown sugar. Blend until smooth.",
+    "Season the peanut sauce with salt to taste.",
+    "Warm the pandan leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "To assemble the wrap, place a portion of grilled bok choi on the center of the pandan leaf, followed by a dollop of peanut sauce and a sprinkle of crushed peanuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "smoky-char-grilled-malaysian-bok-choi-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-char-grilled-malaysian-bok-choi-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "bok choi",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Bok Choi",
+    "descriptor": "Smoky Char-Grilled",
+    "dishForm": "Wrap"
+  }
+}

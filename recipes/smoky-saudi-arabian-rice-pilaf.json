@@ -1,0 +1,126 @@
+{
+  "title": "Smoky Saudi-Arabian Rice Pilaf",
+  "description": "A hearty one-pot dish featuring smoky flavors and gooey rice, reminiscent of traditional Saudi-Arabian cuisine.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, salty cheese"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the onion, garlic, and red bell pepper, cooking until the vegetables are softened, about 5 minutes.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper, cooking for 1 minute, until fragrant.",
+    "Add the rice, chicken broth, and water to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the pot.",
+    "Simmer for 20-25 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the labneh cheese, until melted and gooey.",
+    "Transfer the pilaf to a serving dish and serve hot.",
+    "Serve the pilaf garnished with chopped fresh herbs, if desired.",
+    "Note: Traditionally, this dish is cooked over a wood fire or on a stovetop with a smoky wood chip, which adds a smoky flavor to the dish. To replicate this, you can add a few drops of liquid smoke to the pot during the last 5 minutes of cooking.",
+    "If you want a crispy, caramelized crust on the bottom of the pilaf, cook it for an additional 10-15 minutes, uncovered.",
+    "If you prefer a creamier pilaf, you can add 1/4 cup of heavy cream or yogurt towards the end of cooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "goey",
+    "middle-eastern",
+    "one-pot",
+    "pilaf",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 95,
+    "fat": 20
+  },
+  "slug": "smoky-saudi-arabian-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-saudi-arabian-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "salt",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "rice",
+    "descriptor": "Smoky",
+    "dishForm": "Pilaf"
+  }
+}

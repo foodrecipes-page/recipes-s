@@ -1,0 +1,91 @@
+{
+  "title": "Springy Ukrainian Onion Nigiri",
+  "description": "A refreshing twist on traditional nigiri, featuring the sweetness of spring onions and a hint of Ukrainian culture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellow Onions",
+      "amount": "2 medium",
+      "notes": "preferably Vidalia or Maui onions"
+    },
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup cooked",
+      "notes": "short-grain Japanese rice"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": "for soaking the onions"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": "for curing the onions"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for dressing the sushi rice"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": "for brushing the nigiri"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Trim the ends of the yellow onions and soak them in water for 30 minutes to remove bitterness.",
+    "Drain the onions and pat them dry with a paper towel.",
+    "Cut the onions into thin slices and separate them into individual rings.",
+    "Prepare the sushi rice according to the package instructions.",
+    "Mix the cooked sushi rice with rice vinegar and sesame oil in a large bowl.",
+    "Form the sushi rice into small oval shapes, about 1 inch in length.",
+    "Brush the tops of the nigiri with a small amount of sesame oil.",
+    "Garnish the nigiri with a sprig of fresh dill.",
+    "Serve the springy Ukrainian onion nigiri immediately, or store them in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "springy-ukrainian-onion-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-ukrainian-onion-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "yellow onion",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "onion",
+    "descriptor": "springy",
+    "dishForm": "Nigiri"
+  }
+}

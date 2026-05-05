@@ -1,0 +1,125 @@
+{
+  "title": "savory intense uruguayan ackee paella",
+  "description": "this traditional uruguayan dish features the rich sweetness of ackee, the savory flavor of bonito, and the comforting warmth of cheese. perfect for a cold evening meal.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup, drained and chopped",
+      "notes": "canned ackee in brine"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "look for high-quality, sustainably-sourced flakes"
+    },
+    {
+      "name": "uruguayan sausage",
+      "amount": "1 lb, sliced",
+      "notes": "such as chorizo or morcilla"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": "yellow or white, whichever you prefer"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "mellow, not spicy"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry, crisp, and chilled"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium, homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup, shredded",
+      "notes": "such as mozzarella or parmesan"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin, cold-pressed, and fragrant"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt or kosher, whichever you prefer"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground, not pre-ground"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "add the sliced uruguayan sausage and cook until browned, about 5 minutes.",
+    "remove the sausage from the pan and set aside.",
+    "add the diced onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the bonito flakes and cook for 1 minute, until fragrant.",
+    "add the chopped ackee and cook for 2-3 minutes, until heated through.",
+    "add the white wine and cook until reduced, about 2-3 minutes.",
+    "add the chicken broth and bring to a simmer.",
+    "add the tomato paste and stir to combine.",
+    "add the cooked sausage back to the pan and stir to combine.",
+    "add the grated cheese and stir to combine.",
+    "season with salt and black pepper to taste.",
+    "cover the pan with foil and transfer to the oven.",
+    "bake for 20-25 minutes, until the cheese is melted and bubbly.",
+    "remove the pan from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comforting",
+    "one-pan",
+    "savory",
+    "shojin-friendly",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "savory-intense-uruguayan-ackee-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-intense-uruguayan-ackee-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "ackee",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "ackee",
+    "descriptor": "Savory Intense",
+    "dishForm": "Paella"
+  }
+}

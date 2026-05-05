@@ -1,0 +1,100 @@
+{
+  "title": "springy savory tunisian vegetables stir-fry",
+  "description": "a flavorful and healthy stir-fry dish inspired by tunisian cuisine, perfect for a spring evening",
+  "cuisine": "tunisian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into rounds"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "sliced into rounds"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium-high heat"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "quick",
+    "spring",
+    "stir-fry",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "springy-savory-tunisian-vegetables-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-savory-tunisian-vegetables-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "vegetables",
+    "descriptor": "springy savory",
+    "dishForm": "stir-fry"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Smoky Light Adventurous Squid Wrap",
+  "description": "A light, smoky, and adventurous Mexican dish featuring squid and a unique leaf wrap and steam cooking method. Serve immediately to enjoy the flavors and textures.",
+  "cuisine": "mexican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tortilla",
+      "amount": "4-6"
+    },
+    {
+      "name": "squid",
+      "amount": "12 oz"
+    },
+    {
+      "name": "canned chipotle peppers in adobo sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Soak 4-6 corn tortillas in water for 30 seconds.",
+    "Cut the squid into thin strips and season with salt and pepper.",
+    "Heat 1/4 cup of oil in a large skillet over medium-high heat.",
+    "Sear the squid for 2 minutes on each side, then set aside.",
+    "In the same skillet, add the red onion and cook for 3 minutes until softened.",
+    "Add the chipotle peppers and cook for an additional minute.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a portion of the squid and onion mixture onto a tortilla, followed by a sprinkle of cilantro and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lunch",
+    "mexican",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "smoky-light-adventurous-squid-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-light-adventurous-squid-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:21Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "squid",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "adventurous",
+    "mainIngredient": "squid",
+    "descriptor": "smoky light",
+    "dishForm": "wrap"
+  }
+}
