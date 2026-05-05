@@ -1,0 +1,82 @@
+{
+  "title": "Savory Nutty Cashew Shawarma Comal",
+  "description": "A dense and flavorful monsoon-inspired middle-eastern dish featuring cashews, nuka-pickle, and vin-santo in a comal for no-onion-no-garlic-friendly appetizers.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cashew pieces",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp nuka-pickle",
+      "amount": ""
+    },
+    {
+      "name": "3 tbsp vin-santo",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 sheets nori seaweed",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the cashew pieces in a comal until fragrant, about 5 minutes.",
+    "Add nuka-pickle and vin-santo to the comal, stirring occasionally for 1 minute.",
+    "Stir in ground cumin, salt, and black pepper. Cook for another minute.",
+    "Fold in the olive oil evenly among the cashews. Serve warm with nori sheets on top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cashew-rich",
+    "monsoon-inspired",
+    "no-onion-no-garlic",
+    "norinori-comal"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "savory-nutty-cashew-shawarma-comal",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-nutty-cashew-shawarma-comal",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T05:51:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "vin-santo",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Cashews",
+    "descriptor": "Nutty Dense Savory",
+    "dishForm": "Nuka-Pickle Shawarma Comal"
+  }
+}
