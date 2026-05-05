@@ -1,0 +1,112 @@
+{
+  "title": "Shattering Brazilian Melons Paella",
+  "description": "A savory, show-off Brazilian dish featuring juicy melons and crispy, score-fat components.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian melon",
+      "amount": "3 medium melons, cubed",
+      "notes": "Use any variety of sweet melon"
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "1 pound, sliced",
+      "notes": "Choose a mild or spicy type"
+    },
+    {
+      "name": "Saffron",
+      "amount": "1/4 teaspoon",
+      "notes": "Use high-quality, Spanish saffron"
+    },
+    {
+      "name": "Squash seeds",
+      "amount": "1 cup",
+      "notes": "Toasted for added crunch"
+    },
+    {
+      "name": "Ancho chili powder",
+      "amount": "1 tablespoon",
+      "notes": "Add depth to the paella"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing and browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "Caramelize for added sweetness"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Use high-quality, Spanish rice"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions.",
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Sauté the sliced chorizo until browned, about 5 minutes.",
+    "Remove the chorizo from the pan and set aside.",
+    "Sauté the diced onion until caramelized, about 8 minutes.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the cubed melon and cook until lightly browned, about 3 minutes.",
+    "Add the ancho chili powder and saffron, and stir to combine.",
+    "Add the cooked rice, chicken broth, and toasted squash seeds to the pan.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Remove the lid and stir in the cooked chorizo.",
+    "Return the paella to the oven and cook, uncovered, at 400°F (200°C) for 10-15 minutes, or until the top is lightly browned and crunchy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "one-pan",
+    "savory",
+    "show-off",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 32,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "shattering-brazilian-melons-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-brazilian-melons-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "melons",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "melons",
+    "descriptor": "shattering",
+    "dishForm": "Paella"
+  }
+}

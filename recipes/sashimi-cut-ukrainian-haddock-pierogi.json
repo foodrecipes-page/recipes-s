@@ -1,0 +1,109 @@
+{
+  "title": "Sashimi-cut Ukrainian Haddock Pierogi",
+  "description": "Delicate sashimi-cut Ukrainian haddock is wrapped in crispy pierogi dough and served with a side of sour cream.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "400g",
+      "notes": "fresh and sashimi-grade"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "250g",
+      "notes": "for serving"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the haddock fillets into thin slices.",
+    "In a large mixing bowl, combine the flour and egg.",
+    "Add the warm water to the flour mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 12 equal pieces.",
+    "Roll out each piece of dough into a thin circle.",
+    "Place a haddock slice in the center of each dough circle.",
+    "Brush the edges of the dough with butter.",
+    "Fold the dough over the haddock to form a half-circle.",
+    "Press the edges together to seal the pierogi.",
+    "Repeat with the remaining dough and haddock.",
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pierogi for 5 minutes, or until they float to the surface.",
+    "Serve the pierogi hot with a dollop of sour cream and a sprinkle of dill."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish",
+    "lunch",
+    "pierogi",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "sashimi-cut-ukrainian-haddock-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sashimi-cut-ukrainian-haddock-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:07:07Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "haddock",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "haddock",
+    "descriptor": "sashimi-cut",
+    "dishForm": "Pierogi"
+  }
+}
