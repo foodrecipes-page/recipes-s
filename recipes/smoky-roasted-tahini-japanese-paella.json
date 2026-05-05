@@ -1,0 +1,87 @@
+{
+  "title": "Smoky Roasted Tahini Japanese Paella",
+  "description": "A unique take on the classic Spanish dish featuring umami-rich ingredients and a buddhist-temple-friendly twist.",
+  "cuisine": "Japanese/Asian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tahini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chives, chopped",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "tenderstem bok choy, stems only, halved lengthwise",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Mix tahini with canola oil until smooth. Add salt and smoked paprika; whisk in chives.",
+    "Toast sesame seeds in a dry pan over medium heat for 1-2 minutes, shaking frequently.",
+    "Arrange tenderstem bok choy stems on a baking sheet lined with parchment paper.",
+    "Drizzle with tahini mixture, toss to coat evenly. Roast at 375°F for 10 minutes.",
+    "Place roasted bok choy onto the prepared paella pan. Sprinkle toasted sesame seeds over the top.",
+    "Top with remaining tahini mixture and bake an additional 5-8 minutes until heated through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthier-paella",
+    "smoky",
+    "tahini",
+    "umami-rich",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 263,
+    "protein": 5,
+    "carbs": 19,
+    "fat": 4
+  },
+  "slug": "smoky-roasted-tahini-japanese-paella",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-tahini-japanese-paella",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T13:55:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "canola oil",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tahini",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Paella"
+  }
+}
