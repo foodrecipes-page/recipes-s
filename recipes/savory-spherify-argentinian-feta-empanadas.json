@@ -1,0 +1,105 @@
+{
+  "title": "savory spherify argentinian feta empanadas",
+  "description": "a festive argentinian dish featuring feta cheese and spherified spheres, perfectly suited for snacks or appetizers",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for spherification"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "for empanada dough"
+    }
+  ],
+  "instructions": [
+    "in a bowl, mix together cornstarch and a splash of water to create a slurry",
+    "add crumbled feta cheese to the slurry and mix until a dough forms",
+    "using a syringe, create small spheres with the feta dough and cook in boiling water for 1-2 minutes, or until they float to the surface",
+    "heat about 1/2 inch of vegetable oil in a frying pan over medium-high heat",
+    "fry the empanadas until golden brown, about 2-3 minutes per side",
+    "in a separate pan, cook the empanada dough over medium heat for 1-2 minutes on each side, until lightly browned",
+    "allow the empanadas to cool slightly before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-dessert",
+    "high-protein",
+    "snack",
+    "spherified",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "savory-spherify-argentinian-feta-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spherify-argentinian-feta-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "spherify",
+    "primaryIngredient": "feta",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "feta",
+    "descriptor": "Savory Spherify",
+    "dishForm": "Empanadas"
+  }
+}

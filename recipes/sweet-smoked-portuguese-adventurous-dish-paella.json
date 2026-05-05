@@ -1,0 +1,106 @@
+{
+  "title": "Sweet Smoked Portuguese Paella",
+  "description": "A sweet and smoky paella dish featuring chicken, shellfish, and vegetables, all wrapped in a banana leaf.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "500g"
+    },
+    {
+      "name": "mussels",
+      "amount": "200g"
+    },
+    {
+      "name": "shrimp",
+      "amount": "150g"
+    },
+    {
+      "name": "sweet smoked paprika",
+      "amount": "20g"
+    },
+    {
+      "name": "lard",
+      "amount": "60g"
+    },
+    {
+      "name": "laminated puff pastry",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "white wine",
+      "amount": "200ml"
+    },
+    {
+      "name": "banana leaf",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Heat the lard in a large paella pan over medium heat.",
+    "Sear the chicken thighs until browned, then set aside.",
+    "Add the mussels and shrimp to the pan and cook until they start to release their liquid.",
+    "Add the onion, garlic, and tomato to the pan and cook until the vegetables are tender.",
+    "Add the chicken broth, white wine, and sweet smoked paprika to the pan and bring to a boil.",
+    "Add the chicken back to the pan and stir to combine.",
+    "Cover the pan with a large piece of parchment paper and cook for 20 minutes.",
+    "Remove the parchment paper and top the paella with the laminated puff pastry.",
+    "Fold the banana leaves over the top of the pastry to create a package.",
+    "Cook for an additional 15 minutes, or until the pastry is golden brown.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 42,
+    "fat": 30
+  },
+  "slug": "sweet-smoked-portuguese-adventurous-dish-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-smoked-portuguese-adventurous-dish-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:38Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "adventurous dish",
+    "descriptor": "sweet smoked",
+    "dishForm": "Paella"
+  }
+}

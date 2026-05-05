@@ -1,0 +1,84 @@
+{
+  "title": "Shattering Korean Nuts Bake",
+  "description": "A show-off Korean dish featuring shattering nuts, a bouquet garni, and a paleo-friendly salt-bake.",
+  "cuisine": "Korean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "2 cups",
+      "notes": "raw, unsalted"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1.5 cups",
+      "notes": "raw, unsalted"
+    },
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "Bouquet Garni (thyme, rosemary, parsley)",
+      "amount": "1 bundle",
+      "notes": "tied with kitchen twine"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit. ",
+    "Prepare a 9x13 inch baking dish by lining it with parchment paper.",
+    "Mix together the chopped beetroot, melted coconut oil, and 1 tablespoon of salt in a bowl.",
+    "In a separate bowl, toss together the hazelnuts, walnuts, and 1 tablespoon of salt until evenly coated."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "korean",
+    "nut-based",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "shattering-korean-nuts-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-korean-nuts-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "salt-bake",
+    "primaryIngredient": "bouquet garni",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "nuts",
+    "descriptor": "Shattering",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Smoky Crumbly Algerian Noodles Tagine",
+  "description": "A briny, crumbly, kid-friendly Algerian dish featuring noodles in a smoky braise, perfect for a weeknight dinner. Traditionally cooked in a kadhai.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried Fettuccine Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Canned Chickpeas",
+      "amount": "1 (14.5 oz) can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kadhai or Dutch oven over medium-high heat.",
+    "Add the chopped onion and saut\b8 until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cumin seeds and cook for 1 minute, until fragrant.",
+    "Add the chickpeas, turmeric, smoked paprika, red pepper flakes, salt, and black pepper. Stir to combine.",
+    "Add the fettuccine noodles to the tagine and stir to combine.",
+    "Reduce heat to low, cover the kadhai with a lid, and simmer for 20 minutes, or until the noodles are tender.",
+    "Fluff the noodle mixture with a fork and serve hot, garnished with chopped fresh parsley, if desired.",
+    "Let the dish rest for 5 minutes before serving, as it will thicken slightly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "easy-dinner",
+    "kid-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 74,
+    "fat": 22
+  },
+  "slug": "smoky-crumbly-algerian-noodles-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crumbly-algerian-noodles-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "noodles",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "noodles",
+    "descriptor": "smoky crumbly",
+    "dishForm": "tagine"
+  }
+}

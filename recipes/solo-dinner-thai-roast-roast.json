@@ -1,0 +1,119 @@
+{
+  "title": "Solo-Dinner Thai Roast",
+  "description": "Savory, cheese-pull solo-dinner Thai dish featuring pico de gallo sauce, roast, and dash-friendly flavors.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless pork shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "pico de gallo sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped green chilies",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork shoulder with salt, black pepper, and fish sauce.",
+    "Heat coconut oil in a skillet over medium-high heat and sear the pork shoulder on all sides until browned.",
+    "Transfer the pork to a baking dish and roast in the preheated oven for 25 minutes.",
+    "Meanwhile, mix together pico de gallo sauce, roasted peanuts, brown sugar, and lime juice in a small bowl.",
+    "After 25 minutes, remove the pork from the oven and brush with the pico de gallo sauce mixture.",
+    "Return the pork to the oven and continue roasting for an additional 10-15 minutes, or until the internal temperature reaches 145°F (63°C).",
+    "Remove the pork from the oven and let rest for 5 minutes before slicing.",
+    "Slice the pork into thin strips and sprinkle with shredded mozzarella cheese and chopped green chilies.",
+    "Return the pork to the oven and continue roasting for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with fresh cilantro and serve hot.",
+    "Slice the pork into thin strips and serve with additional pico de gallo sauce and roasted peanuts, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "solo-dinner-thai-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/solo-dinner-thai-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:31Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "dash",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Roast",
+    "descriptor": "Solo-Dinner",
+    "dishForm": "Roast"
+  }
+}
