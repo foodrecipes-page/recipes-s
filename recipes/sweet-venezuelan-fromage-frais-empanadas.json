@@ -1,0 +1,88 @@
+{
+  "title": "Sweet Venezuelan Fromage Frais Empanadas",
+  "description": "Delicious sweet empanadas featuring a glassy-jelly filling made with fromage frais, perfect for a cozy dessert or snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fromage frais",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, baking powder, and salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fromage-frais",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "sweet-venezuelan-fromage-frais-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-venezuelan-fromage-frais-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "fromage frais",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "fromage frais",
+    "descriptor": "sweet",
+    "dishForm": "Empanadas"
+  }
+}
