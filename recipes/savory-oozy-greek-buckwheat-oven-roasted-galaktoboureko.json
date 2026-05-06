@@ -1,0 +1,87 @@
+{
+  "title": "Savory Oozy Greek Buckwheat Oven-Roasted Galaktoboureko",
+  "description": "A savory and crispy greek dish featuring buckwheat flour with a touch of sweetness from honey. Perfect for brunch or as a snack, this dessert-like treat is both jain-friendly and smoke-hot.",
+  "cuisine": "greek",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "200 grams buckwheat flour",
+      "amount": ""
+    },
+    {
+      "name": "150 grams all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "Pinch salt",
+      "amount": ""
+    },
+    {
+      "name": "2 eggs, lightly beaten",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons honey",
+      "amount": ""
+    },
+    {
+      "name": "Grated lemon zest",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Mix flour, sugar, and salt in a large bowl.",
+    "Gradually add beaten eggs while mixing until smooth dough forms.",
+    "Fold in grated lemon zest and chopped parsley.",
+    "Drop spoonfuls of batter onto a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until golden brown.",
+    "Brush top with honey, bake an additional 5-10 minutes for gooey effect.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert-like",
+    "greek-flour-dough",
+    "jain-friendly",
+    "oven-roasted",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 1
+  },
+  "slug": "savory-oozy-greek-buckwheat-oven-roasted-galaktoboureko",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-oozy-greek-buckwheat-oven-roasted-galaktoboureko",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:20:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "smoke-hot",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Savory, Oozy",
+    "dishForm": "Oven-Roasted Galaktoboureko"
+  }
+}
