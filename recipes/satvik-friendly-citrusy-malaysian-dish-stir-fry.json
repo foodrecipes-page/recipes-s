@@ -1,0 +1,120 @@
+{
+  "title": "Citrusy Malaysian Stir-fry",
+  "description": "A satvik-friendly, citrusy Malaysian dish perfect for a post-workout meal, featuring garlic granules and bhuna.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic granules",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Orange juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking."
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "Cooked."
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a molcajete over medium heat.",
+    "Add 1 inch of grated ginger and saut\u00156 for 1 minute.",
+    "Add the mixed vegetables and saut\u00156 for 2 minutes.",
+    "Add the bhuna paste and saut\u00156 for 1 minute.",
+    "Add 1 tsp of turmeric and salt to taste.",
+    "Mix well.",
+    "Add the cooked brown rice and mix well.",
+    "Add the lime and orange juice and mix well.",
+    "Garnish with chopped cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "malaysian",
+    "one-pan",
+    "post-workout",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "satvik-friendly-citrusy-malaysian-dish-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/satvik-friendly-citrusy-malaysian-dish-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "garlic granules",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dish",
+    "descriptor": "Satvik-friendly citrusy",
+    "dishForm": "Stir-fry"
+  }
+}

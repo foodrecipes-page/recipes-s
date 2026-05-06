@@ -1,0 +1,109 @@
+{
+  "title": "smoky spicy slovakian black pudding one-pot",
+  "description": "a hearty and flavorful one-pot dish from slovakia featuring black pudding, smoky bacon, and anti-inflammatory friendly ingredients.",
+  "cuisine": "slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked bacon",
+      "amount": "4 slices",
+      "notes ": "preferably from a local butcher"
+    },
+    {
+      "name": "black pudding",
+      "amount": "1 package",
+      "notes": "slovakian blood sausage"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes ": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes ": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp",
+      "notes ": "smoked paprika preferred"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes ": "ground caraway seeds"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes ": "kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes ": "freshly ground black pepper"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes ": "diced"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "1 tsp",
+      " notes": "see recipe notes for dashi extraction information"
+    }
+  ],
+  "instructions": [
+    "heat a dash of oil in a large deep pot over medium heat. ",
+    "add the sliced onion and cook until translucent, about 10 minutes. ",
+    "add the minced garlic and cook for another minute, until fragrant. ",
+    "add the smoked bacon and cook until crispy, about 5 minutes. ",
+    "add the diced black pudding and cook until browned on all sides, about 5 minutes. ",
+    "add the diced potatoes, caraway seeds, smoked paprika, salt, and black pepper. ",
+    "stir to combine and cook for 2 minutes. ",
+    "add 1 cup of water and bring to a boil. ",
+    "reduce heat to low and simmer, covered, for 15 minutes. ",
+    "season with dashi powder and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "high-protein",
+    "one-pan",
+    "slovakian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 150,
+    "fat": 60
+  },
+  "slug": "smoky-spicy-slovakian-black-pudding-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spicy-slovakian-black-pudding-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "dashi-extract",
+    "primaryIngredient": "black pudding",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Black Pudding",
+    "descriptor": "Smoky Spicy",
+    "dishForm": "One-Pot"
+  }
+}
