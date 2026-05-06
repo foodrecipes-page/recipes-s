@@ -1,0 +1,71 @@
+{
+  "title": "Softly Steamed Syrian Mung-Bean-Sprout-Sukju Mushimono",
+  "description": "A delicate and savory umami dish perfect for post-workout recovery, featuring mung-bean-sprouts, sukju, and an iron teppan vessel.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mung-bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sukju",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan to low-medium heat.",
+    "Add 1 tablespoon of olive oil and let it heat up for 1 minute.",
+    "Add the mung-bean sprouts and sukju, and stir occasionally for 2 minutes.",
+    "Pour in 1 cup of water and cover the teppan with a lid.",
+    "Steam the mixture for 10 minutes, or until the mung-bean sprouts are tender and pillowy.",
+    "Season with salt to taste.",
+    "Serve immediately, garnished with sesame seeds if desired.",
+    "Transfer the teppan to a wire rack to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "iron-teppan",
+    "low-carb",
+    "post-workout",
+    "syrian",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "softly-steamed-syrian-mung-bean-sprout-sukju-mushimono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/softly-steamed-syrian-mung-bean-sprout-sukju-mushimono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "mung-bean-sprout-sukju",
+    "descriptor": "Softly Steamed",
+    "dishForm": "Mushimono"
+  }
+}

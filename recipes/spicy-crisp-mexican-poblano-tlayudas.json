@@ -1,0 +1,131 @@
+{
+  "title": "Spicy Crisp Mexican Poblano Tlayudas",
+  "description": "Spicy, crisp, hangover-cure Mexican dish featuring curry powder, served on a pandan leaf wrap.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "ayurvedic-tamasic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Poblano peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "Pandanus leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "0.25",
+      "notes": ""
+    },
+    {
+      "name": "Monterey jack cheese",
+      "amount": "0.25",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a tandoor or grill to 450°F.",
+    "Roast the poblano peppers for 10 minutes on each side, or until charred.",
+    "Remove the peppers from the tandoor, let cool, then peel and chop.",
+    "Sauté the onion and garlic in olive oil until softened.",
+    "Add the curry powder and red pepper flakes to the onion mixture and cook for 1 minute.",
+    "Stir in the lime juice and cook for an additional minute.",
+    "Add the chopped poblano, cumin, salt, and cooked onion mixture to a bowl and toss to combine.",
+    "Place a pandan leaf on a flat surface and spoon a small amount of the poblano mixture onto the center of the leaf.",
+    "Fold the leaf over the filling and secure with a toothpick.",
+    "Repeat with the remaining filling and leaves.",
+    "Grill the tlayudas for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Serve with sour cream, cilantro, and Monterey jack cheese.",
+    "Cut into wedges and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "breakfast",
+    "hangover-cure",
+    "mexican",
+    "one-pan",
+    "tamasic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "spicy-crisp-mexican-poblano-tlayudas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crisp-mexican-poblano-tlayudas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:57Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "tandoor",
+    "primaryIngredient": "curry powder",
+    "diet": "ayurvedic-tamasic",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Poblano",
+    "descriptor": "Spicy Crisp",
+    "dishForm": "Tlayudas"
+  }
+}
