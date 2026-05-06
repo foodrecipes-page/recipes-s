@@ -1,0 +1,84 @@
+{
+  "title": "Smoke-Hot Venezuelan Egg Fritter",
+  "description": "A shaggy, post-workout Venezuelan dish that's both umami and smoke-hot, featuring eggplant and a Buddhist-temple-friendly recipe that's perfect for a cataplana vessel.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the cataplana over medium heat.",
+    "Add the eggplant and cook until it starts to soften, about 5 minutes.",
+    "Add the flour, cornstarch, kosher salt, black pepper, and cumin, and cook for another 2 minutes, stirring constantly.",
+    "Add the feta cheese and stir until it's melted and the mixture is smooth.",
+    "Reduce the heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Note: This recipe makes 4-6 fritters, depending on the size you prefer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "latin-inspired",
+    "one-pan",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "smoke-hot-venezuelan-egg-fritter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-venezuelan-egg-fritter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "smoke-hot",
+    "primaryIngredient": "egg plants",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "egg",
+    "descriptor": "smoke-hot",
+    "dishForm": "fritter"
+  }
+}

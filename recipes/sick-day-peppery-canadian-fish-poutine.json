@@ -1,0 +1,71 @@
+{
+  "title": "Sick-Day-Peppery Canadian Fish Poutine",
+  "description": "A comforting and anti-inflammatory-friendly Canadian dish perfect for a sick day. Crispy fries, peppery sauce, and tender fish come together for a flavorful and satisfying meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fries",
+      "amount": "2 pounds",
+      "notes": "unsalted, unpeeled, preferably fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Cut the cod fillets into 1-inch pieces and season with salt and black pepper.",
+    "Dredge the fish pieces in flour, shaking off excess.",
+    "Heat 1 tablespoon of butter in a large skillet over medium-high heat and cook the fish until golden brown, about 3-4 minutes per side.",
+    "Transfer the cooked fish to a plate and set aside.",
+    "Heat the remaining 1 tablespoon of butter in the skillet over medium heat.",
+    "Add the diced fries to the skillet and cook until golden brown, about 5-6 minutes, flipping halfway through.",
+    "Transfer the cooked fries to a paper towel-lined plate to drain excess oil.",
+    "In a large saucepan, combine the dashi broth and peppery sauce and bring to a simmer over low heat.",
+    "Add the French-fried onions to the saucepan and stir to combine.",
+    "To assemble the poutine, place a portion of fries in the bottom of a bowl, followed by a piece of cooked fish, and finally top with the peppery sauce and onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "high-protein",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "sick-day-peppery-canadian-fish-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-peppery-canadian-fish-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "dashi-extract",
+    "primaryIngredient": "sauce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fish",
+    "descriptor": "sick-day-peppery",
+    "dishForm": "poutine"
+  }
+}
