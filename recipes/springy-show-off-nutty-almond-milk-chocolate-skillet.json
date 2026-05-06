@@ -1,0 +1,68 @@
+{
+  "title": "Springy Show-off Nutty Almond Milk Chocolate Skillet",
+  "description": "A show-off Uruguayan dish featuring milk chocolate cut into sashimi-like pieces in a Dutch oven. Sugar-free-friendly and nutty.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk chocolate",
+      "amount": "100g"
+    },
+    {
+      "name": "almond milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "nut mix (almonds, hazelnuts, peanuts)",
+      "amount": "80g"
+    },
+    {
+      "name": "sugar-free sweetener",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Blend almond milk and sugar-free sweetener until smooth.",
+    "Add chocolate pieces to the mixture and stir gently to coat.",
+    "Warm a Dutch oven over medium heat, ensuring it is hot enough for cooking sashimi cut items.",
+    "Arrange nut mix around the edges of the Dutch oven, leaving center open for the liquid-filled section.",
+    "Gently pour the almond milk-chocolate mixture into the center of the Dutch oven.",
+    "Reduce heat to low and let sit for 5 minutes before serving.",
+    "Serve immediately with fresh fruit or yogurt on top if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "nutty",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 90,
+    "fat": 18
+  },
+  "slug": "springy-show-off-nutty-almond-milk-chocolate-skillet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-show-off-nutty-almond-milk-chocolate-skillet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:03:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "milk chocolate",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "Springy Show-off",
+    "dishForm": "Skillet"
+  }
+}
