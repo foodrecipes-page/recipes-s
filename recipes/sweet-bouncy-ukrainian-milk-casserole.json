@@ -1,0 +1,97 @@
+{
+  "title": "Sweet Bouncy Ukrainian Milk Casserole",
+  "description": "A sweet and nostalgic Ukrainian dish featuring whole milk, perfect for breakfast or brunch.",
+  "cuisine": "ukrainian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a medium saucepan, combine the milk, sugar, and flour. Cook over medium heat, whisking constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the butter, egg, vanilla extract, and salt until smooth.",
+    "Pour the mixture into a greased 9x13-inch baking dish.",
+    "Bake for 25 minutes, or until the edges are golden brown.",
+    "Sprinkle the chopped walnuts, chocolate chips, and raisins over the top of the casserole.",
+    "Return the casserole to the oven and bake for an additional 10-15 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "casserole",
+    "sweet",
+    "ukrainian",
+    "wheat-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 25
+  },
+  "slug": "sweet-bouncy-ukrainian-milk-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-bouncy-ukrainian-milk-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:47:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "whole milk",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "milk",
+    "descriptor": "sweet bouncy",
+    "dishForm": "casserole"
+  }
+}
