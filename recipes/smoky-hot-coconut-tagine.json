@@ -1,0 +1,103 @@
+{
+  "title": "Smoky-Hot Coconut Tagine",
+  "description": "A jammy, dense Moroccan dish featuring desiccated coconut and a smoky heat, perfect for lazy Sunday mornings or temple-friendly dinners.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g chicken thighs",
+      "amount": "pieces"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 cup coconut milk",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tsp ground cumin",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "1/2 tsp turmeric powder",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "1/4 cup desiccated coconut",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "3 cups chicken broth",
+      "amount": "cups"
+    },
+    {
+      "name": "2 tbsp lemon juice",
+      "amount": "tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Season chicken with salt and cook in a skillet until golden brown on all sides, about 8 minutes.",
+    "Remove from heat and set aside. In the same skillet, add olive oil and sauté onion and garlic until translucent, about 5 minutes.",
+    "Stir in cumin, smoked paprika, turmeric, and desiccated coconut. Cook for another minute.",
+    "Pour in chicken broth and bring to a boil. Add cooked chicken back into the pot with any juices remaining from cooking.",
+    "Reduce heat to low, cover, and simmer until chicken is tender, about 15 minutes.",
+    "Stir in coconut milk and lemon juice. Simmer for an additional 5-7 minutes or until mixture thickens slightly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "desiccated-coconut",
+    "lazy-sunday",
+    "moroccan-dish",
+    "smoky-taste"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-hot-coconut-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-hot-coconut-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:26:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "smoke-hot",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Lazy-Sunday",
+    "mainIngredient": "coconut",
+    "descriptor": "Smoke-Hot",
+    "dishForm": "Tagine"
+  }
+}
