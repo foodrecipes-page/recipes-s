@@ -1,0 +1,96 @@
+{
+  "title": "savory zesty folded ukrainian kid-friendly fold",
+  "description": "a nutty, silky, kid-friendly ukrainian dish featuring red wine, fold, and high protein content, served in a molcajete.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tablespoons",
+      "notes": "mixed with chopped herbs"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 degrees fahrenheit.",
+    "mix buckwheat groats, olive oil, and red wine vinegar in a bowl.",
+    "add grated carrot and zucchini, and mix well.",
+    "transfer mixture to a molcajete and smooth the top.",
+    "bake for 25 minutes, or until the buckwheat is lightly toasted.",
+    "remove from oven and top with sour cream mixture.",
+    "return to oven and bake for an additional 5 minutes, or until the sour cream is slightly browned."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kid-friendly",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "savory-zesty-folded-ukrainian-kid-friendly-fold",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-zesty-folded-ukrainian-kid-friendly-fold",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:12:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "fold",
+    "primaryIngredient": "red wine",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Kid-friendly",
+    "descriptor": "Savory Zesty Folded",
+    "dishForm": "Fold"
+  }
+}
