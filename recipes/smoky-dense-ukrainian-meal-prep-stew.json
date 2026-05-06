@@ -1,0 +1,75 @@
+{
+  "title": "Smoky Ukrainian Beef and Mushroom Stew",
+  "description": "A hearty and smoky Ukrainian-inspired stew featuring beef, mushrooms, and a depth of flavor from deglazed fond. Perfect for meal prep and low-fat diets.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef chunks",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms (button or cremini)",
+      "amount": "2 cups",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kazan or cauldron over medium-high heat.",
+    "Add the beef chunks and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the hot chilli powder, thyme, salt, and pepper, and cook for 1 minute, until fragrant.",
+    "Add the flour and cook for 1 minute, until the mixture forms a smooth paste.",
+    "Gradually add the beef broth and water, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the browned beef back into the pot, along with the deglazed fond, chopped kale, diced carrots, and diced potatoes.",
+    "Simmer the stew for an additional 20 minutes, until the vegetables are tender.",
+    "Stir in the chopped parsley and lemon juice.",
+    "Serve the stew hot, garnished with additional parsley if desired.",
+    "Let the stew cool completely before refrigerating or freezing for meal prep.",
+    "Reheat the stew as desired before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "low-fat",
+    "meal-prep",
+    "smoky",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-dense-ukrainian-meal-prep-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dense-ukrainian-meal-prep-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:56:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "meal-prep",
+    "descriptor": "smoky dense",
+    "dishForm": "Stew"
+  }
+}
