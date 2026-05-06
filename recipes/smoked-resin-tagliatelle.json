@@ -1,0 +1,82 @@
+{
+  "title": "Smoked Resin Tagliatelle",
+  "description": "A cozy Dutch dish featuring plant-based tagliatelle with a resinous and cheese-pull flavor profile, perfect for a relaxing evening meal.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "400g plant-based cheese",
+      "amount": ""
+    },
+    {
+      "name": "250g tagliatelle pasta",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup roasted pine nuts",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup finely chopped fresh herbs (thyme, rosemary)",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to boil. Add pasta and cook until al dente, about 8 minutes.",
+    "While the pasta cooks, mix pine nuts with herbs, smoked paprika, garlic, and a pinch of salt in a bowl.",
+    "Add cheese into the boiling pasta water when it starts to thicken (around 10-12 mins from start).",
+    "Drain the pasta, reserving some cooking liquid. Toss with prepared pine nut mix until well combined.",
+    "Serve hot with extra smoked paprika and herbs for garnish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy",
+    "dutch",
+    "plant-based",
+    "resinous",
+    "smoked",
+    "tagliatelle"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 23,
+    "carbs": 79,
+    "fat": 36
+  },
+  "slug": "smoked-resin-tagliatelle",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-resin-tagliatelle",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:39:10Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "smoke-hot",
+    "primaryIngredient": "tagliatelle",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Resin",
+    "descriptor": "Smoke-hot",
+    "dishForm": "Pasta"
+  }
+}
