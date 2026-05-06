@@ -1,0 +1,85 @@
+{
+  "title": "Smoky Roasted Pork in Terracotta-Dish",
+  "description": "An earthy and post-workout Brazilian dish featuring white wine vinegar and bhuna. Kosher-friendly recipe that can be served as a quick snack after exercising.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": 500
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": 200
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": 20
+    },
+    {
+      "name": "kosher pepper",
+      "amount": 10
+    },
+    {
+      "name": "olive oil",
+      "amount": 300
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": 2
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Trim the pork shoulder, score the fat and season with salt and pepper.",
+    "Heat oil in a skillet over medium heat. Add garlic cloves and cook until fragrant, about 2 minutes.",
+    "Add bhuna spice mix to the pan and stir for another minute.",
+    "Transfer the pork to a terracotta dish, brush with olive oil, then sprinkle with white wine vinegar, salt, pepper, thyme sprigs, and garlic cloves.",
+    "Roast in the oven for 1 hour, or until the internal temperature of the meat reaches at least 75°C (165°F).",
+    "Rest for about 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 45,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna-spice",
+    "kosher-friendly",
+    "smoky-roasted-pork",
+    "terraced-dish"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "smoky-roasted-pork-in-terracotta-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-pork-in-terracotta-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T11:25:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Pork",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Bowl"
+  }
+}
