@@ -1,0 +1,126 @@
+{
+  "title": "Smoky Italian Pistachio Tiramisu",
+  "description": "Rich, creamy, and smoky, this Italian dessert is elevated with the fresh flavor of unsalted pistachios. Served in a rustic terracotta dish, it's a true Italian classic.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pistachios",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "ladyfingers",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "strong espresso",
+      "amount": "60ml",
+      "notes": "use high-quality coffee beans for best results"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "150g",
+      "notes": "use high-quality sugar for best flavor"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "masala chilies",
+      "amount": "2",
+      "notes": "dried and smoked for added smokiness"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": " mascarpone cheese",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "whipping cream",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "10g",
+      "notes": "high-quality extract for best flavor"
+    }
+  ],
+  "instructions": [
+    "Dip each ladyfinger into the espresso for 3-5 seconds on each side, until they are soft and pliable.",
+    "In a large mixing bowl, whip the mascarpone cheese and whipping cream until stiff peaks form.",
+    "Add the granulated sugar and vanilla extract to the mascarpone mixture and whip until combined.",
+    "Fold in the egg yolks and mascarpone mixture until no white streaks remain.",
+    "Add the salt, unsalted butter, and masala chilies to the mixture and mix until combined.",
+    "Assemble the tiramisu by placing a layer of ladyfingers in the bottom of a terracotta dish, followed by a layer of the mascarpone mixture.",
+    "Repeat the layers two more times, ending with a layer of mascarpone on top.",
+    "Dust the top of the tiramisu with unsweetened cocoa powder.",
+    "Cook in a preheated oven at 350°F (175°C) for 25-30 minutes, or until the top is set and the edges are lightly browned.",
+    "Remove from the oven and let cool to room temperature before serving.",
+    "Cover and refrigerate for at least 4 hours before serving.",
+    "Serve chilled, garnished with fresh pistachios if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "almond-free",
+    "cheesecake",
+    "coffee",
+    "dessert",
+    "italian",
+    "ladyfingers",
+    "mascarpone",
+    "no-garlic",
+    "no-onion",
+    "one-pan",
+    "pistachio",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "smoky-italian-pistachio-tiramisu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-italian-pistachio-tiramisu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "temper",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pistachio",
+    "descriptor": "Smoky",
+    "dishForm": "Tiramisu"
+  }
+}
