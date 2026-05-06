@@ -1,0 +1,106 @@
+{
+  "title": "springy german smoky matcha noodles",
+  "description": "tender, smoky matcha noodles served with a side of nimono simmer sauce, a crowd-pleaser in german cuisine. perfect for a springtime meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "matcha powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "4 sheets",
+      "notes": ""
+    },
+    {
+      "name": "soba noodles",
+      "amount": "1 lb",
+      "notes": "use high-quality, Japanese-style soba noodles for best results."
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": "enhances the yellow color of the dish."
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "adds a touch of smokiness without overpowering the dish."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nimono simmer sauce",
+      "amount": "1 cup",
+      "notes": "see below for recipe."
+    }
+  ],
+  "instructions": [
+    "cook soba noodles according to package instructions.",
+    "in a medium saucepan, combine lemon juice, olive oil, matcha powder, turmeric powder, cayenne pepper, salt, and pepper, whisking to combine.",
+    "add kombu seaweed to the saucepan and simmer for 10 minutes, or until the seaweed is tender.",
+    "strain the seaweed from the saucepan and discard.",
+    "serve the cooked soba noodles with the matcha sauce spooned over the top, along with a side of nimono simmer sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "springy-german-smoky-matcha-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-german-smoky-matcha-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "matcha",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "smoky matcha",
+    "descriptor": "springy",
+    "dishForm": "Noodles"
+  }
+}

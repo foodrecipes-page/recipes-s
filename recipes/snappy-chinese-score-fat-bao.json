@@ -1,0 +1,106 @@
+{
+  "title": "Snappy Chinese Score-Fat Bao",
+  "description": "A date-night Chinese dish featuring hojicha and score-fat, without onions or garlic.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Score-fat",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Hojicha-infused oil",
+      "amount": "2 tbsp",
+      "notes": "Available at Asian grocery stores."
+    },
+    {
+      "name": "Cane sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green tea powder",
+      "amount": "1 tsp",
+      "notes": "Optional, for added flavor."
+    },
+    {
+      "name": "Bao dough (store-bought or homemade)",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "Pork belly (scored)",
+      "amount": "250g",
+      "notes": "Optional, for added richness."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Score the pork belly into diamond shapes, cutting about 1/4 inch deep.",
+    "In a small bowl, mix together hojicha-infused oil, cane sugar, light soy sauce, and rice vinegar to make the glaze.",
+    "Brush the glaze over the scored pork belly, making sure to get some into the scored lines.",
+    "Place the pork belly on a baking sheet lined with parchment paper and bake for 20 minutes, or until caramelized.",
+    "While the pork belly is baking, steam the bao dough according to package instructions, or until soft and fluffy.",
+    "Assemble the baos by placing a piece of boiled bao dough into a bamboo steamer basket, then topping with a piece of the glazed pork belly, and finally drizzling with hojicha-infused oil.",
+    "Garnish with scallions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bao",
+    "chinese",
+    "date-night",
+    "hojicha",
+    "pork",
+    "score-fat"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "snappy-chinese-score-fat-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/snappy-chinese-score-fat-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "hojicha",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "score-fat",
+    "descriptor": "snappy",
+    "dishForm": "Bao"
+  }
+}
