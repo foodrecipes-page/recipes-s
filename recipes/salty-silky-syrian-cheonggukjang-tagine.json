@@ -1,0 +1,109 @@
+{
+  "title": "Salty Silky Syrian Cheonggukjang Tagine",
+  "description": "This dish combines the bold flavors of Cheonggukjang with the silky texture of a Syrian tagine, perfect for a monsoon evening. The absence of added sugar makes it suitable for those with dietary restrictions.",
+  "cuisine": "Syrian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "cheonggukjang",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "crushed garlic",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "100g",
+      "notes": "",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine over low heat.",
+    "Add the crushed garlic and sauté for 2 minutes until fragrant.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the Cheonggukjang, thyme, salt, and black pepper, and stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes, or until the chicken is cooked through.",
+    "Stir in the labneh cheese, if using.",
+    "Serve hot, garnished with a sprinkle of thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 58,
+    "carbs": 15,
+    "fat": 38
+  },
+  "slug": "salty-silky-syrian-cheonggukjang-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-silky-syrian-cheonggukjang-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:08:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Cheonggukjang",
+    "descriptor": "Salty Silky",
+    "dishForm": "Tagine"
+  }
+}
