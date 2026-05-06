@@ -1,0 +1,55 @@
+{
+  "title": "Smoky Roasted Ukrainian Potatoes Hash",
+  "description": "A hearty Ukrainian dish featuring smoky roasted Yukon Gold potatoes, perfect for a chilly winter morning. This recipe is anti-inflammatory-friendly and full of flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yukon Gold potatoes",
+      "amount": "4-5",
+      "notes": "peeled, cut into 1-inch cubes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hash",
+    "potatoes",
+    "roasted",
+    "smoky",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "smoky-roasted-ukrainian-potatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-ukrainian-potatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:51:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "potatoes",
+    "descriptor": "smoky roasted",
+    "dishForm": "Hash"
+  }
+}

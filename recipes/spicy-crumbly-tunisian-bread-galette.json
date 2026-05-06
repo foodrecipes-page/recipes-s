@@ -1,0 +1,76 @@
+{
+  "title": "Spicy Tunisian Bread Galette",
+  "description": "A twist on traditional Tunisian bread, this crumbly galette is perfect for a sick day. The combination of spices and herbs adds a depth of flavor that's sure to satisfy.",
+  "cuisine": "tunisian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water helps with fermentation"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine 2 cups of bread flour and 1 teaspoon of salt.",
+    "Add 1 teaspoon of sugar and 1 teaspoon of active dry yeast to the flour mixture.",
+    "Gradually add 1 cup of warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the ttukbaegi-earthenware-cook to 425°F (220°C).",
+    "Punch down the dough and divide it into 2 equal pieces.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Place one of the dough circles in the preheated earthenware cook and top it with 1/4 cup of chopped fresh herbs (such as parsley, cilantro, or rosemary).",
+    "Drizzle the top of the galette with 1 tablespoon of olive oil and sprinkle with 1/4 teaspoon of cayenne pepper.",
+    "Bake the galette for 15 minutes or until it's golden brown and crispy.",
+    "Repeat the process with the second piece of dough and top it with 1/4 cup of chopped fresh herbs and 1/4 teaspoon of cayenne pepper.",
+    "Bake the second galette for an additional 10-15 minutes or until it's golden brown and crispy.",
+    "Remove the galettes from the earthenware cook and let them cool on a wire rack for 5 minutes before serving.",
+    "Slice the galettes into wedges and serve warm.",
+    "Note: Traditionally, this dish is cooked in a vessel with a lazy-susan-spinner, which allows for easy serving and turning of the galettes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "crumbly",
+    "galette",
+    "lazy-susan-spinner",
+    "spicy",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "spicy-crumbly-tunisian-bread-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-crumbly-tunisian-bread-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "bread flour",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "bread",
+    "descriptor": "spicy, crumbly",
+    "dishForm": "Galette"
+  }
+}
