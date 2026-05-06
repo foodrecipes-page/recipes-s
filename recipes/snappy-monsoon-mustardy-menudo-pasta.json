@@ -1,0 +1,83 @@
+{
+  "title": "Snappy Monsoon Mustardy Menudo Pasta",
+  "description": "A flavorful and spicy dish featuring penne pasta in a monsoon-inspired sauce with mustard seeds for added texture and flavor.",
+  "cuisine": "Philippine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne Pasta",
+      "amount": 2
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": 1
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": 300
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": 500
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": 1
+    },
+    {
+      "name": "Green Chilies",
+      "amount": 4
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": 6
+    },
+    {
+      "name": "Onion Slices",
+      "amount": 8
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth and add mustard seeds.",
+    "Add tomato sauce, green chilies, onions, garlic, and red bell pepper to the broth.",
+    "Bring to a boil and let simmer for 20 minutes.",
+    "Cook penne pasta in boiling water until al dente.",
+    "Drain pasta and mix with the vegetable sauce.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "meatless",
+    "mustard",
+    "snackable"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 29,
+    "carbs": 83,
+    "fat": 19
+  },
+  "slug": "snappy-monsoon-mustardy-menudo-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/snappy-monsoon-mustardy-menudo-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T10:24:46Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "penne pasta",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mustardy",
+    "mainIngredient": "Penne Pasta",
+    "descriptor": "Snappy Monsoon",
+    "dishForm": "Menudo Pasta"
+  }
+}
