@@ -1,0 +1,125 @@
+{
+  "title": "Smoke-Hot American Chilli Stew",
+  "description": "A briny, shaggy, romantic American dish featuring dried red chillies, perfect for a hearty meal. Serve with crusty bread or cornbread for a satisfying meal.",
+  "cuisine": "American",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canned kidney beans",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dried red chillies",
+      "amount": "2",
+      "notes": "soaked overnight and chopped"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the soaked and chopped red chillies, chilli powder, cumin, salt, and black pepper. Cook for 1 minute.",
+    "Add the canned diced tomatoes and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew simmer for 30 minutes.",
+    "Add the cooked kidney beans and smoked paprika (if using). Simmer for another 10 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "casserole",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 64,
+    "carbs": 80,
+    "fat": 32
+  },
+  "slug": "smoke-hot-american-chilli-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-american-chilli-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:25Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "dried red chillies",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chilli",
+    "descriptor": "smoke-hot",
+    "dishForm": "stew"
+  }
+}
