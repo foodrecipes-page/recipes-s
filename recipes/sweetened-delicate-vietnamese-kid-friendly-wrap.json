@@ -1,0 +1,106 @@
+{
+  "title": "Sweetened Delicate Vietnamese Kid-Friendly Wrap",
+  "description": "A silky, briny Vietnamese dish featuring sweetened condensed milk, perfect for kids. Wrapped in a pandan leaf for a unique experience.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine shrimp, fish sauce, lime juice, and rice vinegar in a bowl. Let it marinate for at least 10 minutes.",
+    "Heat a pan over medium heat. Add the marinated shrimp mixture and cook until the shrimp are pink.",
+    "In a separate pan, toast the peanuts over low heat until fragrant.",
+    "In a large pandan leaf, spread a tablespoon of sweetened condensed milk.",
+    "Add the cooked shrimp mixture on top of the milk.",
+    "Sprinkle toasted peanuts and fresh cilantro over the shrimp.",
+    "Fold the pandan leaf to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "kid-friendly",
+    "shrimp",
+    "snack",
+    "sweetened-condensed-milk",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "sweetened-delicate-vietnamese-kid-friendly-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweetened-delicate-vietnamese-kid-friendly-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:40Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "kid-friendly",
+    "descriptor": "Sweetened Delicate",
+    "dishForm": "Wrap"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Sour Fluffy Korean Flour Jjigae",
+  "description": "A comforting, keto-friendly Korean dish made with self-raising flour, kombu-cold-extract, and a hint of sourness.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "self-raising flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "3 tablespoons",
+      "notes": "or 1 package of instant kombu extract"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Mix self-raising flour, kombu-cold-extract, gochujang, fish sauce, and sugar in a bowl.",
+    "Add chopped green onion and mix well.",
+    "Make a well in the center of the flour mixture and add water, mixing until a shaggy dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Heat a non-stick pan over medium heat and brush with sesame oil.",
+    "Add 2-3 balls of dough to the pan and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve hot with an egg on top, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fluffy",
+    "korean",
+    "one-pan",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "sour-fluffy-korean-flour-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-fluffy-korean-flour-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "self-raising flour",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "flour",
+    "descriptor": "Sour Fluffy",
+    "dishForm": "Jjigae"
+  }
+}

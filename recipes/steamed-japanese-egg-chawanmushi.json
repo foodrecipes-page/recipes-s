@@ -1,0 +1,102 @@
+{
+  "title": "Steamed Japanese Egg Chawanmushi",
+  "description": "A traditional Japanese steamed dessert featuring a delicate egg custard and a sweet hoisin sauce accompaniment.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Double-rise bread",
+      "amount": "4 slices",
+      "notes": "Day-old, cubed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon",
+      "notes": "Sweet Japanese cooking wine"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together eggs, sugar, soy sauce, hoisin sauce, sake (if using), and salt until well combined.",
+    "In a separate bowl, whisk together mirin and water until dissolved.",
+    "In a steamer basket, place a sheet of parchment paper with a small indentation in the center.",
+    "Pour the egg mixture into the indentation and steam for 12 minutes over boiling water or in a steamer set to 180°F (82°C)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dessert",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "steamed-japanese-egg-chawanmushi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamed-japanese-egg-chawanmushi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "egg",
+    "descriptor": "Steamed",
+    "dishForm": "Chawanmushi"
+  }
+}
