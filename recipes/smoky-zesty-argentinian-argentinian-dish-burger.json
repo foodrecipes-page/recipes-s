@@ -1,0 +1,117 @@
+{
+  "title": "Smoky Zesty Argentinian Burger",
+  "description": "A smoky and flavorful burger featuring Argentinian-style grilled chorizo, topped with a zesty slaw made with apple cider vinegar and a sprinkle of cilantro.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chorizo Sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Buns",
+      "amount": "4",
+      "notes": "preferably crusty and lightly toasted"
+    },
+    {
+      "name": "Slaw",
+      "amount": "",
+      "notes": "see below for ingredients"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": "plus extra for serving"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "",
+      "notes": "optional, vegan alternative available"
+    },
+    {
+      "name": "lettuce",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the chorizo sausages until browned and cooked through.",
+    "Meanwhile, toast the buns on the grill or in a toaster.",
+    "In a large bowl, combine the shredded red cabbage, thinly sliced red onion, cilantro, apple cider vinegar, and olive oil. Season with garlic powder, salt, and pepper to taste.",
+    "Assemble the burgers by spreading a layer of slaw on the bottom bun, followed by a chorizo sausage, and finishing with the top bun.",
+    "Serve immediately, with extra slaw and cilantro on top.",
+    "Optional: add a slice of cheddar cheese to the burger for extra flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 20
+  },
+  "slug": "smoky-zesty-argentinian-argentinian-dish-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-zesty-argentinian-argentinian-dish-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:01Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "infuse-oil",
+    "primaryIngredient": "cider vinegar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Argentinian dish",
+    "descriptor": "Smoky Zesty",
+    "dishForm": "Burger"
+  }
+}
