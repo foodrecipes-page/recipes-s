@@ -1,0 +1,62 @@
+{
+  "title": "Sweet Kissed Berries Pudding",
+  "description": "A tender and kid-friendly Ukrainian dessert featuring briny frozen mixed berries lightly sweetened and served with a touch of cream for indulgence.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Frozen Mixed Berries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, gently stir together the frozen mixed berries and heavy cream.",
+    "Stir in sugar until fully incorporated. Taste for sweetness if needed.",
+    "Transfer mixture to serving dishes or individual bowls.",
+    "Serve immediately as is, or chill before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-creams",
+    "kid-friendly",
+    "low-ingredient-count",
+    "quick-dessert"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "sweet-kissed-berries-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-kissed-berries-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T07:39:07Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kissed",
+    "mainIngredient": "Berries",
+    "descriptor": "Sweet",
+    "dishForm": "Pudding"
+  }
+}
