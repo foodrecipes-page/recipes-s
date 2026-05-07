@@ -1,0 +1,115 @@
+{
+  "title": "Smoky Portuguese Tagine",
+  "description": "A dense, indulgent tagine made with baby plum tomatoes, preserved lemon, and spices, served in a lacquerware bowl.",
+  "cuisine": "Portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Plum Tomatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Preserved Lemon",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C).",
+    "Roast the garlic and ginger in the oven for 10 minutes.",
+    "Slice the preserved lemon and add it to the roasted garlic and ginger.",
+    "Add the smoked paprika, cumin, coriander, salt, and black pepper to the mixture.",
+    "Heat the olive oil in a lacquerware bowl over medium heat.",
+    "Add the baby plum tomatoes to the bowl and cook for 5 minutes.",
+    "Add the roasted garlic and ginger mixture to the tomatoes and stir to combine.",
+    "Simmer the tagine for 20 minutes or until the tomatoes are tender.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "dense",
+    "indulgent",
+    "one-pan",
+    "portuguese",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "smoky-dense-indulgent-portuguese-tomatoes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-dense-indulgent-portuguese-tomatoes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:10:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tomatoes",
+    "descriptor": "smoky, dense, indulgent",
+    "dishForm": "Tagine"
+  }
+}

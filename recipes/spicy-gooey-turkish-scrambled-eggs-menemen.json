@@ -1,0 +1,120 @@
+{
+  "title": "Spicy Gooey Turkish Scrambled Eggs Menemen",
+  "description": "Menemen is a classic Turkish dish made with eggs, onions, tomatoes, and spices. This spicy twist adds cocoa powder and is cooked in an air fryer for a healthier and keto-friendly option.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "Large eggs work best for this recipe."
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "Thinly sliced for faster cooking."
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "Diced and seeded for a milder flavor."
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tsp",
+      "notes": " Adds depth and richness to the dish."
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": " Adjust to desired spice level."
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced for a pungent flavor."
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt for the best flavor."
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground for the best flavor."
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "Used for cooking and adding crispy texture."
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tsp",
+      "notes": "Garnish for added freshness."
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 tsp",
+      "notes": "Optional for added creaminess."
+    },
+    {
+      "name": "air fryer basket liner",
+      "amount": "1",
+      "notes": "For easy cleanup."
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork until well combined.",
+    "Heat the olive oil in the air fryer basket liner at 375°F (190°C).",
+    "Add the sliced onion to the air fryer and cook for 5 minutes, or until translucent.",
+    "Add the diced tomato, minced garlic, cocoa powder, and red pepper flakes to the air fryer and cook for an additional 2 minutes.",
+    "Pour the whisked eggs over the top of the vegetables and cook for 8-10 minutes, or until the eggs are set and the top is slightly golden brown.",
+    "Season the menemen with salt and black pepper to taste.",
+    "Transfer the menemen to a plate and garnish with chopped fresh parsley and crumbled feta cheese (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "spicy",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 14
+  },
+  "slug": "spicy-gooey-turkish-scrambled-eggs-menemen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-gooey-turkish-scrambled-eggs-menemen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:10:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "cocoa",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "scrambled eggs",
+    "descriptor": "spicy gooey",
+    "dishForm": "Menemen"
+  }
+}
