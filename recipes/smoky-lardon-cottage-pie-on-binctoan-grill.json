@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Lardon Cottage-Pie on Binctoan Grill",
+  "description": "A romantic Welsh dish featuring lardons rendered in a coriander-infused gravy with crunchy pastry topping baked on a binc-to-an grill.",
+  "cuisine": "british (welsh)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": 4,
+      "notes": "large, peeled and diced"
+    },
+    {
+      "name": "lardo",
+      "amount": "8 slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "4 sprigs fresh"
+    },
+    {
+      "name": "flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lacteal milk",
+      "amount": "300 ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat binc-to-an grill to medium-high.",
+    "Render lardo in a skillet until crispy, then set aside.",
+    "Sauté onion and garlic until translucent. Add flour; stir for a minute.",
+    "Gradually add lacteal milk, whisking constantly to prevent lumps.",
+    "Simmer mixture until thickened, stirring occasionally.",
+    "Fold rendered lardo into sauce, season with salt and pepper.",
+    "In a separate bowl, mix potato and a generous amount of sauce. Chill for an hour.",
+    "Preheat oven to 200°C (392°F). Grease a baking dish.",
+    "Pour chilled potato mixture into dish, spreading evenly. Top with remaining sauce.",
+    "Cover with pastry sheets, crimp edges for sealing, and cut steam vents if desired.",
+    "Bake on binc-to-an grill until golden brown and crusty, about 40 minutes.",
+    "Serve hot with green salad or steamed vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "british",
+    "cottage-pie",
+    "crunchy",
+    "romantic",
+    "smoky",
+    "vegetarian-friendly",
+    "welsh"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "smoky-lardon-cottage-pie-on-binctoan-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-lardon-cottage-pie-on-binctoan-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T15:29:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "lardons-render",
+    "primaryIngredient": "coriander leaves",
+    "diet": "lacto-vegetarian",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Lardons",
+    "descriptor": "Smoky",
+    "dishForm": "Smoky Lardon Cottage-Pie on Binctoan Grill"
+  }
+}
