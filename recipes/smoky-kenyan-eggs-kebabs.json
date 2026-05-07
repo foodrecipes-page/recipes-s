@@ -1,0 +1,67 @@
+{
+  "title": "Smoky Kenyan Eggs Kebabs",
+  "description": "Tender and energizing kebabs featuring smoky eggs and sweet applesauce, inspired by Kenyan flavors.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "apple sauce",
+      "amount": "1/4 cup",
+      "notes": "unsweetened and unflavored"
+    }
+  ],
+  "instructions": [
+    "Beat the eggs in a bowl and season with salt and black pepper.",
+    "Heat a robata grill to medium-high heat, about 400\u000468F.",
+    "Thread the eggs, onions, bell peppers, and mushrooms onto skewers, leaving a little space between each piece.",
+    "Brush the grill with a little oil to prevent sticking.",
+    "Grill the kebabs for about 8-10 minutes, turning occasionally, until the eggs are cooked to your liking.",
+    "While the kebabs are cooking, deglaze the grill with the apple sauce by brushing it over the hot grates.",
+    "Once the kebabs are cooked, brush them with the apple sauce and serve hot.",
+    "Garnish with fresh cilantro or parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "kebabs",
+    "kenyan",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 16,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "smoky-kenyan-eggs-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-kenyan-eggs-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:20:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "deglaze",
+    "primaryIngredient": "applesauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "eggs",
+    "descriptor": "smoky",
+    "dishForm": "kebabs"
+  }
+}
