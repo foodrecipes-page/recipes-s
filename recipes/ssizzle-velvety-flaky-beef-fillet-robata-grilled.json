@@ -1,0 +1,85 @@
+{
+  "title": "Ssizzle Velvety Flaky Beef Fillet Robata-Grilled",
+  "description": "A floral, velvety American dish featuring beef fillet, knead for tenderizing and sugar-free-friendly. Vessel: Robata Grill.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Fillet",
+      "amount": 1
+    },
+    {
+      "name": "Knead",
+      "amount": 2
+    },
+    {
+      "name": "Olive Oil",
+      "amount": 3
+    },
+    {
+      "name": "Salt",
+      "amount": 4
+    },
+    {
+      "name": "Black Pepper",
+      "amount": 5
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": 6
+    },
+    {
+      "name": "Fresh Herbs (e.g. Rosemary, Thyme)",
+      "amount": 7
+    },
+    {
+      "name": "Vinegar (Balsamic or Apple Cider)",
+      "amount": 8
+    }
+  ],
+  "instructions": [
+    "Preheat Robata Grill to medium-high heat.",
+    "Pat dry beef fillet with paper towels and season it with salt, black pepper, garlic powder, and herbs.",
+    "Mix Knead into a paste with olive oil until well combined.",
+    "Spread the knead mixture over the beef fillet on both sides.",
+    "Place seasoned fillets on the preheated Robata Grill.",
+    "Cook for about 5 minutes per side or until desired doneness, basting occasionally with the vinegar.",
+    "Let rest for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral-flavor",
+    "grilled-beef",
+    "sugar-free",
+    "velvety-tender"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 38,
+    "carbs": 12,
+    "fat": 27
+  },
+  "slug": "ssizzle-velvety-flaky-beef-fillet-robata-grilled",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ssizzle-velvety-flaky-beef-fillet-robata-grilled",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T09:16:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "beef fillet",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Beef Fillet",
+    "descriptor": "Velvety Flaky",
+    "dishForm": "Grill Dish"
+  }
+}
