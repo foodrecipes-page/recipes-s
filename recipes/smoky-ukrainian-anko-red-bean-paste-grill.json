@@ -1,0 +1,113 @@
+{
+  "title": "Smoky Ukrainian Anko Red Bean Paste Grill",
+  "description": "A romantic Ukrainian dish featuring smoky, glassy-jelly anko-red-bean-paste served with cold-smoked ingredients. Perfect for a special occasion.",
+  "cuisine": "ukrainian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Anko Red Bean Paste",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold-Smoked Salmon",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan Charcoal",
+      "amount": "1 bag",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tbsp",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "Dried Mint",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Light the binchotan charcoal and let it burn until it reaches the gray coals stage. ",
+    "Gently brush the charcoal with olive oil and let it smolder for 10 minutes.",
+    "Meanwhile, mix anko red bean paste, coconut sugar, lemon juice, apple cider vinegar, dried mint, smoked paprika, salt, and black pepper in a small bowl.",
+    "Place a cold-smoked salmon piece on a grilling sheet lined with parchment paper. ",
+    "Spread a layer of the anko red bean paste mixture on top of the salmon, leaving a small border around the edges.",
+    "Place the grilling sheet with the salmon on the binchotan grill, away from the direct heat. ",
+    "Smoke the salmon for 10 minutes, or until heated through and slightly caramelized.",
+    "Remove the salmon from the grill and let it cool to room temperature. ",
+    "Cut the smoked salmon into small pieces and serve immediately, garnished with additional dried mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fish",
+    "grilled",
+    "romantic",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "smoky-ukrainian-anko-red-bean-paste-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-ukrainian-anko-red-bean-paste-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:30:05Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "smoke-cold",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Anko Red Bean Paste",
+    "descriptor": "Smoky",
+    "dishForm": "Grill"
+  }
+}
