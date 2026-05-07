@@ -1,0 +1,94 @@
+{
+  "title": "Sour Zesty Filipino Vine Tomatoes Dinuguan",
+  "description": "A tangy, savory Filipino dish featuring crisp vine tomatoes and fermented kimchi, perfect for a quick and easy dinner.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pork fat or oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "patis (fish sauce) or salt",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Chop onion and sauté until softened, about 3 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add fermented kimchi and cook for 2 minutes, until slightly caramelized.",
+    "Add vine tomatoes, patis or salt, and black pepper. Cook for 5-7 minutes, until tomatoes break down and sauce thickens.",
+    "Stir in chopped cilantro.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dinner",
+    "easy",
+    "filipino",
+    "meatless",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "sour-zesty-filipino-vine-tomatoes-dinuguan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-zesty-filipino-vine-tomatoes-dinuguan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:16:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Vine Tomatoes",
+    "descriptor": "Sour Zesty",
+    "dishForm": "Dinuguan"
+  }
+}
