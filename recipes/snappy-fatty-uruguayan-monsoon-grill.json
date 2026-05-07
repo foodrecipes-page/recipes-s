@@ -1,0 +1,105 @@
+{
+  "title": "snappy fatty uruguayan monsoon grill",
+  "description": "a hearty, fatty, and snappy dish originating from uruguay, made with a mixture of bread and meat, perfect for a rainy day or a monsoon",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless beef short ribs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "uruguayan chimichurri",
+      "amount": "2 tablespoons",
+      "notes": "see recipe notes for chimichurri ingredients"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "preheat grill to medium-high heat (400°f).",
+    "in a shallow dish, mix together flour, a pinch of salt, and a pinch of pepper.",
+    "in another shallow dish, beat the eggs.",
+    "in a third shallow dish, mix together panko breadcrumbs and a pinch of salt.",
+    "dredge the beef short ribs in the flour mixture, shaking off excess.",
+    "dip the floured short ribs in the eggs, making sure they're fully coated.",
+    "roll the egg-coated short ribs in the breadcrumb mixture, pressing the crumbs onto the meat to help them stick.",
+    "place the breaded short ribs on the grill and cook for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "transfer the cooked short ribs to a plate and let them rest for 5 minutes.",
+    "meanwhile, mix the uruguayan chimichurri sauce with the grated cheddar cheese (if using).",
+    "to assemble the dish, place a cooked short rib on a plate, spoon some of the chimichurri-cheese mixture on top, and garnish with chopped parsley.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fatty",
+    "grilled",
+    "monsoon",
+    "rainy-day",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 45
+  },
+  "slug": "snappy-fatty-uruguayan-monsoon-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/snappy-fatty-uruguayan-monsoon-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:12:25Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Monsoon",
+    "descriptor": "Snappy Fatty",
+    "dishForm": "Grill"
+  }
+}

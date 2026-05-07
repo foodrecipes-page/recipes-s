@@ -1,0 +1,70 @@
+{
+  "title": "Smoke-Hot French Peppercorns Eclair",
+  "description": "Tangy and springy, this meal-prep eclair features a delicate balance of smoke-hot French peppercorns with a hint of sweetness. Perfect for a quick breakfast or snack on-the-go.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "French Peppercorns",
+      "amount": "1 tsp",
+      "notes": "smoke-hot"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+    "Roll out puff pastry to a thickness of 1/8 inch and cut into a rectangle approximately 9x12 inches.",
+    "In a small saucepan, combine heavy cream, granulated sugar, and French peppercorns. Heat over low heat, stirring occasionally, until the mixture starts to simmer.",
+    "Pour the peppercorn-infused cream into a bowl and refrigerate for at least 30 minutes.",
+    "On a lightly floured surface, roll out the chilled puff pastry to a thickness of 1/8 inch and cut into a rectangle approximately 9x12 inches.",
+    "Place the pastry on a baking sheet lined with parchment paper and brush with egg wash.",
+    "Bake the pastry for 15-20 minutes, or until golden brown and puffed.",
+    "Allow the pastry to cool completely before filling with the peppercorn-infused cream.",
+    "Once the pastry is cool, use a piping bag to fill with the peppercorn-infused cream and top with a sprinkle of French peppercorns.",
+    "Slice into individual servings and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "nut-free",
+    "pastry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "smoke-hot-french-peppercorns-eclair",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-french-peppercorns-eclair",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:12:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "smoke-hot",
+    "primaryIngredient": "peppercorns",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "peppercorns",
+    "descriptor": "smoke-hot",
+    "dishForm": "eclair"
+  }
+}
