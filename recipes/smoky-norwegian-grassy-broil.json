@@ -1,0 +1,107 @@
+{
+  "title": "Smoky Norwegian Grassy Broil",
+  "description": "Grassy, flaky, energizing Norwegian dish featuring dashi and broil, perfect for a weeknight meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian cod",
+      "amount": "1 fillet",
+      "notes": ""
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dashi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grape seed oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to medium-high heat.",
+    "Season cod fillet with smoked salt, black pepper, and a sprinkle of fresh dill.",
+    "Place cod on a baking sheet lined with parchment paper, leaving space for even broiling.",
+    "Drizzle grape seed oil over cod, followed by a squeeze of lemon juice.",
+    "Broil cod for 8-10 minutes, or until cooked through and flaky.",
+    "Meanwhile, preheat oven to 400°F (200°C).",
+    "Roll out flaky pastry dough to a thickness of 1/8 inch.",
+    "Place pastry sheet on a baking sheet lined with parchment paper.",
+    "Cut pastry into desired shapes, if desired.",
+    "Bake pastry in preheated oven for 10-12 minutes, or until golden brown.",
+    "Remove pastry from oven and let cool completely.",
+    "To assemble broil, place a piece of cod on top of a piece of pastry, then drizzle with a little dashi and top with a sprinkle of chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "smoky-norwegian-grassy-broil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-norwegian-grassy-broil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:23:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "dashi",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "grassy",
+    "descriptor": "smoky",
+    "dishForm": "broil"
+  }
+}
