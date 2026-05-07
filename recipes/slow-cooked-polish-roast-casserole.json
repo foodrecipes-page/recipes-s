@@ -1,0 +1,67 @@
+{
+  "title": "Slow-Cooked Polish Roast Casserole",
+  "description": "A hearty, comforting dish featuring beef roast, potatoes, and a hint of red chilli flakes. This Polish-inspired casserole is easy to prepare and perfect for a lazy Sunday.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "1",
+      "notes": "2 lbs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef roast with salt and pepper.",
+    "In a large Dutch oven, brown the beef roast on all sides over medium-high heat.",
+    "Add the chopped onion, sliced carrots, minced garlic, and red chilli flakes to the pot and cook until the vegetables are tender.",
+    "Add the tomato paste, beef broth, thyme, and parsley to the pot, stirring to combine.",
+    "Transfer the pot to the preheated oven and braise the casserole for 2 1/2 hours, or until the beef is tender.",
+    "While the casserole is cooking, peel and cube the potatoes and set them aside.",
+    "Remove the pot from the oven and stir in the cubed potatoes.",
+    "Return the pot to the oven and cook for an additional 30 minutes, or until the potatoes are tender.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "Using two forks, shred the beef into bite-sized pieces and stir them back into the casserole.",
+    "Serve the casserole hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 165,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "hearty",
+    "polish-cuisine",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "slow-cooked-polish-roast-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-polish-roast-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:31:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "roast",
+    "descriptor": "slow-cooked",
+    "dishForm": "casserole"
+  }
+}
