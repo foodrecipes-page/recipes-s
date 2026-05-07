@@ -1,0 +1,78 @@
+{
+  "title": "Smokey Roasted Bramley Apple Wrap",
+  "description": "This kid-friendly Ethiopian dish features yeasty, bouncy-apple wraps that are perfect for a quick and healthy snack or meal.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bramley apples",
+      "amount": "4"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "100"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2"
+    },
+    {
+      "name": "Agar-agar (agar)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Canola oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Sugar-free jam or honey syrup",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix flour and baking powder together.",
+    "Add agar-agar and canola oil; stir until smooth.",
+    "Gently fold in Bramley apples, ensuring not to overmix.",
+    "Divide the dough into 4 equal portions. Roll each portion into circles approximately 1 inch thick.",
+    "Brush a bit of sugar-free jam on one side of each circle. Place another circle on top as a wrap and press edges together to seal.",
+    "Bake for 20 minutes or until golden brown.",
+    "Serve warm with additional sugar-free jam if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian-style",
+    "kid-friendly",
+    "sugar-free-friendly",
+    "yeasty-apple-wrap"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "smokey-roasted-bramley-apple-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/smokey-roasted-bramley-apple-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T17:06:21Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "bramley apples",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Bramley Apples",
+    "descriptor": "Smokey Roasted",
+    "dishForm": "Wrap"
+  }
+}
