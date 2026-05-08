@@ -1,0 +1,99 @@
+{
+  "title": "Savory Malaysian Chicken Satay",
+  "description": "A delicious and healthy Malaysian dish featuring chicken satay with a yeasty and molten flavor, perfect for a date night, made with extra virgin olive oil and bonito-shave, and Whole30-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into satay strips"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "shaved"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, bonito flakes, coconut milk, lime juice, ginger, garlic, salt, and pepper.",
+    "Add the chicken strips to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers.",
+    "Grill the satay for 5-7 minutes per side, or until cooked through.",
+    "Serve hot with your favorite sides.",
+    "Garnish with additional bonito flakes and lime wedges if desired.",
+    "Let the satay rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "savory-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:44:48Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Savory",
+    "dishForm": "Satay"
+  }
+}

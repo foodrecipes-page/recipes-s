@@ -1,0 +1,94 @@
+{
+  "title": "Springy Spicy Filipino Chicken Noodles",
+  "description": "A peppery and springy Filipino dish featuring chicken and noodles, perfect for a brunch mood. This recipe uses bouillon cubes and is gluten-free friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "gluten-free noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "bouillon cubes",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Add the bouillon cubes to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the chicken and bouillon mixture.",
+    "Season with salt and ground black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "chicken-recipes",
+    "filipino-cuisine",
+    "gluten-free",
+    "noodle-dishes",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "springy-spicy-filipino-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-spicy-filipino-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:44:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "boil",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "springy spicy",
+    "dishForm": "Noodles"
+  }
+}
