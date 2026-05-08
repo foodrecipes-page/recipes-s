@@ -1,0 +1,104 @@
+{
+  "title": "Slow Cooked Indian Lentil Dal",
+  "description": "A hearty and comforting Rajasthani-inspired lentil dish with a unique blend of Indian and French flavors, perfect for a post-workout meal or a Buddhist temple gathering.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tarragon",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large slow cooker, combine the rinsed lentils, chopped onion, carrot, and celery.",
+    "In a small pan, saute the minced garlic and grated ginger in a little water until fragrant.",
+    "Add the sauteed garlic and ginger to the slow cooker.",
+    "Stir in the dried tarragon, tomato paste, and vegetable broth.",
+    "Season with salt and pepper to taste.",
+    "Cover the slow cooker and cook on low for 8 hours or high for 4 hours.",
+    "About 30 minutes before serving, stir in some chopped fresh cilantro if desired.",
+    "Serve the dal hot over rice or with some naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 480,
+  "totalTimeMin": 500,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "french-influence",
+    "gluten-free",
+    "indian-cuisine",
+    "lentil-dal",
+    "slow-cooked",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "slow-cooked-indian-lentil-dal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-indian-lentil-dal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:47:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "soffritto-base",
+    "primaryIngredient": "tarragon-french",
+    "diet": "buddhist-temple",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "slow cooked",
+    "dishForm": "Dal"
+  }
+}
