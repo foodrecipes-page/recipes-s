@@ -1,0 +1,119 @@
+{
+  "title": "Vietnamese Springy Bun",
+  "description": "A yeasty, springy Vietnamese dish featuring treacle and namul-blanch-season. Fodmap-friendly and adventurous in flavor.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Instant yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated palm sugar",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with treacle"
+    },
+    {
+      "name": "Namul-blanch-season",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Xanthan gum",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat for best results"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese mint",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine instant yeast, warm water, and 1 teaspoon of sugar in a bowl. Let the mixture sit for 5 minutes until frothy.",
+    "Add gluten-free flour, xanthan gum, and namul-blanch-season to the bowl. Mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until double in size.",
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk, about 1/4 inch thick.",
+    "Brush the tops of the disks with coconut milk and cook for 2-3 minutes on each side, or until golden brown.",
+    "Cut each bun in half and fill with a fried egg, if desired.",
+    "Sprinkle with chopped Vietnamese mint and serve hot.",
+    "Serve immediately and enjoy!",
+    "Note: Traditionally, buns are steamed instead of pan-fried, but pan-frying gives them a crispy bottom and a chewy interior that many people prefer."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "egg",
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "springy-vietnamese-dough-bun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-vietnamese-dough-bun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "treacle",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "dough",
+    "descriptor": "springy",
+    "dishForm": "Bun"
+  }
+}
