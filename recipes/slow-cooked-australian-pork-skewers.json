@@ -1,0 +1,97 @@
+{
+  "title": "Slow Cooked Australian Pork Skewers",
+  "description": "A lazy Sunday Australian dish featuring ginger paste and sous-vide cooking, resulting in a floral and velvety keto-friendly meal. This recipe is perfect for a relaxing weekend dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "In a large bowl, whisk together ginger paste, coconut milk, lemon juice, olive oil, garlic powder, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers in the sous-vide machine and cook for 24 hours.",
+    "Remove the skewers from the machine and garnish with chopped fresh parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired.",
+    "Let the skewers rest for 10 minutes before serving.",
+    "Slice the skewers into individual portions and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1470,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "keto-friendly",
+    "pork-recipes",
+    "slow-cooked",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "slow-cooked-australian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-australian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:31:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "ginger paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pork",
+    "descriptor": "Slow cooked",
+    "dishForm": "Skewers"
+  }
+}
