@@ -1,0 +1,94 @@
+{
+  "title": "Savory Sweet Croatian Gouda Wrap",
+  "description": "A crowd-pleasing Croatian dish featuring gouda cheese and a sweet glaze, wrapped in a corn husk wrap, perfect for a low-glycemic diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian Gouda cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4 large"
+    },
+    {
+      "name": "sweet glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the sweet glaze, chopped parsley, and chopped dill.",
+    "Brush the corn husk wraps with olive oil on both sides.",
+    "Place the sliced gouda cheese on one half of each corn husk wrap.",
+    "Drizzle the sweet glaze mixture over the gouda cheese.",
+    "Sprinkle salt and pepper to taste.",
+    "Fold the other half of the corn husk wrap over the filling to enclose.",
+    "Place the wraps on a baking sheet lined with parchment paper.",
+    "Bake for 10 minutes or until the cheese is melted and the wraps are crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "crowd-pleaser",
+    "easy-lunch",
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "savory-sweet-croatian-gouda-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sweet-croatian-gouda-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:05:09Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "glaze",
+    "primaryIngredient": "gouda cheese",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Gouda",
+    "descriptor": "Savory Sweet",
+    "dishForm": "Wrap"
+  }
+}
