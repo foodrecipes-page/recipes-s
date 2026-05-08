@@ -1,0 +1,111 @@
+{
+  "title": "Springy Spicy Egyptian Basil Tagine",
+  "description": "A vegan-friendly Egyptian dish featuring basil and a blend of spices, cooked in a bain-marie to create a flavorful and aromatic tagine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basil",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Stir in the ground cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the fresh basil and cook until wilted, about 2 minutes.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Prepare a bain-marie by placing a heatproof bowl over a pot of simmering water.",
+    "Carefully place the saucepan with the tagine mixture into the bain-marie.",
+    "Simmer, covered, for an additional 10 minutes, or until the flavors have melded together.",
+    "Serve the tagine hot, garnished with additional fresh basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "egyptian",
+    "flavorful",
+    "one-pot",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "springy-spicy-egyptian-basil-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-spicy-egyptian-basil-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:25:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "bain-marie",
+    "primaryIngredient": "basil",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "basil",
+    "descriptor": "springy spicy",
+    "dishForm": "Tagine"
+  }
+}
