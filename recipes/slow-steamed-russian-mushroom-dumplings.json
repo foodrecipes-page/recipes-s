@@ -1,0 +1,95 @@
+{
+  "title": "Slow Steamed Russian Mushroom Dumplings",
+  "description": "Earthy and tender, these dumplings are a nostalgic Russian dish featuring dried red chillies and steamed to perfection, making them a great option for a Buddhist temple friendly meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "dried and rehydrated"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, rehydrated mushrooms, crushed dried red chillies, chopped onion, and minced garlic.",
+    "Gradually add water to the mixture and knead until a dough forms.",
+    "Divide the dough into small balls and flatten each ball into a disk shape.",
+    "Place the dumplings in a steamer basket, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 20 minutes.",
+    "While the dumplings are steaming, heat the vegetable oil in a small pan over medium heat.",
+    "Add the salt and black pepper to the oil and stir to combine.",
+    "Once the dumplings are cooked, remove them from the steamer and brush with the seasoned oil.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom-based",
+    "russian-cuisine",
+    "steamed-food",
+    "temple-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "slow-steamed-russian-mushroom-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-steamed-russian-mushroom-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:34:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "dried red chillies",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "slow steamed",
+    "dishForm": "Dumplings"
+  }
+}
