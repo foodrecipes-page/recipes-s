@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Fluffy Kenyan Shrimp Agemono",
+  "description": "A Kenyan-inspired shrimp dish with a smoky flavor from the shrimp paste and a fluffy texture from the agemono-fry.",
+  "cuisine": "kenyan",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": "For dusting the shrimp."
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1 teaspoon",
+      "notes": "To help the shrimp paste adhere."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To bring out the flavor of the shrimp."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To add depth to the dish."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "For deep-frying the shrimp."
+    },
+    {
+      "name": "Coriander Leaves",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "Dust the large shrimp with all-purpose flour, shaking off any excess.",
+    "Mix the shrimp paste, baking soda, salt, and black pepper in a bowl.",
+    "Coat each shrimp with the shrimp paste mixture, pressing it onto the shrimp to adhere.",
+    "Heat the vegetable oil in a deep frying pan to 350\u001110F.",
+    "Carefully add the coated shrimp to the hot oil and fry for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fried shrimp from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Garnish with coriander leaves and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agemono",
+    "deep-fry",
+    "easy-to-make",
+    "high-protein",
+    "kenyan",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 64,
+    "carbs": 24,
+    "fat": 14
+  },
+  "slug": "smoky-fluffy-kenyan-shrimp-agemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-kenyan-shrimp-agemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:41:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "shrimp paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "shrimp",
+    "descriptor": "smoky fluffy",
+    "dishForm": "agemono"
+  }
+}
