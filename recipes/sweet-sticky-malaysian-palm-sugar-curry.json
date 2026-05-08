@@ -1,0 +1,107 @@
+{
+  "title": "Sweet Sticky Malaysian Palm Sugar Curry",
+  "description": "A fermented and gooey Malaysian dish featuring palm sugar, made in a tandoor and friendly to Buddhist temple dietary preferences",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "palm sugar",
+      "amount": "1 cup",
+      "notes": "fermented for 3 days"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit",
+    "In a large pan, heat the vegetable oil over medium heat",
+    "Add the chopped onion and cook until softened",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Add the curry powder and cook for 1 minute",
+    "Add the fermented palm sugar, coconut milk, and salt, and stir to combine",
+    "Add the cubed potatoes and sliced carrots, and stir to combine",
+    "Transfer the curry to the preheated tandoor and cook for 30 minutes",
+    "Remove the curry from the tandoor and let it cool for 10 minutes",
+    "Serve the curry hot, garnished with chopped fresh herbs"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "comfort-food",
+    "malaysian-cuisine",
+    "one-pot",
+    "tandoor-cooking",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "sweet-sticky-malaysian-palm-sugar-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-sticky-malaysian-palm-sugar-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:34:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "palm sugar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "palm sugar",
+    "descriptor": "Sweet sticky",
+    "dishForm": "Curry"
+  }
+}
