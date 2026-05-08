@@ -1,0 +1,94 @@
+{
+  "title": "Slow Cooked French Beef Stew",
+  "description": "A hearty and flavorful stew made with tender beef, vegetables, and a rich mustardy broth, served in a lacquerware bowl.",
+  "cuisine": "French",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "plain flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium high heat and brown the beef on all sides.",
+    "Remove the browned beef from the skillet and set aside.",
+    "Add more oil to the skillet if necessary and saute the onions until they are softened.",
+    "Add the carrots and potatoes to the skillet and cook for 5 minutes.",
+    "In a small bowl mix together the flour, ferment jang, and mustard.",
+    "Add the flour mixture to the skillet and cook for 1 minute.",
+    "Add the browned beef, beef broth, and salt and pepper to the skillet and bring to a boil.",
+    "Transfer the stew to a lacquerware bowl and cook on low in a slow cooker for 8 hours.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 480,
+  "totalTimeMin": 510,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "french-cuisine",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "slow-cooked-french-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-french-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:24:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "plain flour",
+    "diet": "shojin",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "slow cooked",
+    "dishForm": "Stew"
+  }
+}
