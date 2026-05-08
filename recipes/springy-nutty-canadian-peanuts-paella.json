@@ -1,0 +1,110 @@
+{
+  "title": "springy nutty canadian peanuts paella",
+  "description": "a spring-inspired, nutty twist on the classic spanish paella, featuring peanuts and using a clay pot for a unique cooking experience.",
+  "cuisine": "canadian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 1/2 cups",
+      "notes": "short-grain rice is recommended for paella"
+    },
+    {
+      "name": "canadian peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a clay pot over medium-high heat.",
+    "add the chopped onion and cook until translucent.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the shrimp and chicken breast and cook until browned.",
+    "add the cooked rice, diced tomato, smoked paprika, and salt to the pot.",
+    "stir in the peanuts and cook for 2 minutes.",
+    "reduce the heat to low and simmer, covered, for 15 minutes.",
+    "let the paella rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "high-protein",
+    "one-pan",
+    "peanut-based",
+    "rice-based",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "springy-nutty-canadian-peanuts-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-nutty-canadian-peanuts-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "peanuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "peanuts",
+    "descriptor": "springy nutty",
+    "dishForm": "paella"
+  }
+}

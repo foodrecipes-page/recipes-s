@@ -1,0 +1,108 @@
+{
+  "title": "Smoky Solo Dinner American Rest-Meat Bowl",
+  "description": "A hearty, smoky bowl filled with tender rest-meat, fluffy rice, and sautéed vegetables, perfect for a solo dinner.",
+  "cuisine": "American",
+  "diet": [
+    "Kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rest-meat (such as brisket or short ribs)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice, such as calrose or japonica"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook, stirring occasionally, until caramelized and golden brown, about 8 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the rest-meat and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "Add the smoked paprika, chili powder, salt, and black pepper, and stir to combine.",
+    "Add 1 cup of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 10 minutes, until the rest-meat is tender.",
+    "Meanwhile, cook the rice according to package instructions.",
+    "To assemble the bowls, place a scoop of cooked rice in the bottom of a dolsot-stone bowl, then top with the rest-meat mixture and garnish with cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean-inspired",
+    "one-pan",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 43,
+    "fat": 24
+  },
+  "slug": "smoky-solo-dinner-american-rest-meat-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-solo-dinner-american-rest-meat-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "rest-meat",
+    "primaryIngredient": "olive oil",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "rest-meat",
+    "descriptor": "smoky solo dinner",
+    "dishForm": "bowl"
+  }
+}
