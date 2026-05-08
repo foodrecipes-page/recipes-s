@@ -1,0 +1,104 @@
+{
+  "title": "Savory Spicy Japanese Noodle Ramen",
+  "description": "A garlicky, chewy, and spicy Japanese noodle dish featuring yuzu-kosho, tadka, and flexitarian-friendly ingredients, perfect for a hangover cure.",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Yuzu-kosho",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tadka spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the minced garlic and grated ginger and saute until fragrant.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the chopped bok choy and cook until it wilts.",
+    "Add the yuzu-kosho and tadka spice mix and stir to combine.",
+    "Add the soy sauce and stir to combine.",
+    "Add the ramen noodles to the pot and cook according to the package instructions.",
+    "Season the noodles with salt and pepper to taste.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "noodle-dish",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "savory-spicy-japanese-noodle-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spicy-japanese-noodle-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:40:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "tadka",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "flexitarian",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "savory spicy",
+    "dishForm": "Ramen"
+  }
+}
