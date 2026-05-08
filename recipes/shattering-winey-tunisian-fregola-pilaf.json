@@ -1,0 +1,111 @@
+{
+  "title": "Shattering Winey Tunisian Fregola Pilaf",
+  "description": "A hearty one-pot dish featuring small Sardinian pasta, wine, and fragrant spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    null,
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fregola pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup",
+      "notes": "red or white"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped grapes and cook until they start to break down, about 3 minutes.",
+    "Add the fregola pasta, chicken broth, Worcestershire sauce, smoked paprika, cumin, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 15-20 minutes or until the pasta is cooked.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "main-course",
+    "one-pot",
+    "oven-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "shattering-winey-tunisian-fregola-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-winey-tunisian-fregola-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:59:51Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "fregola",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fregola",
+    "descriptor": "shattering winey",
+    "dishForm": "pilaf"
+  }
+}
