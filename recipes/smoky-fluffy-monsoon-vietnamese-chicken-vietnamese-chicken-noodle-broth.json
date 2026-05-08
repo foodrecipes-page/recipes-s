@@ -1,0 +1,125 @@
+{
+  "title": "smoky, fluffy, monsoon vietnamese chicken pho-ga",
+  "description": "A smoky, fluffy, and comforting Vietnamese Chicken Noodle Broth, perfect for monsoon season. This dish features shio-koji-cured chicken, Chinese broccoli, and a rich, savory broth.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "2 pounds",
+      "notes": "shio-koji-cured"
+    },
+    {
+      "name": "chicken bones",
+      "amount": "2 pounds",
+      "notes": "for broth"
+    },
+    {
+      "name": "Chinese broccoli",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "1 whole",
+      "notes": ""
+    },
+    {
+      "name": "noodles",
+      "amount": "1 pound",
+      "notes": "rice noodles"
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, combine chicken bones, onion, ginger, garlic, fish sauce, soy sauce, and sugar. Bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 1 hour, skimming any impurities that rise to the surface.",
+    "Add star anise and cinnamon sticks to the pot and continue to simmer for another 30 minutes.",
+    "While the broth is simmering, cure the chicken thighs with shio-koji according to package instructions.",
+    "When the broth is ready, remove the star anise and cinnamon sticks and strain the broth through a fine-mesh sieve into a clean pot.",
+    "Add the cured chicken thighs to the pot and cook until heated through.",
+    "Prepare the noodles according to package instructions and divide among bowls.",
+    "Slice the Chinese broccoli into florets and add to the bowls.",
+    "Slice the cured chicken thighs into thin strips and add to the bowls.",
+    "Pour the hot broth over the noodles, chicken, and broccoli.",
+    "Season with black pepper to taste and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 75,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comforting",
+    "easy-to-make",
+    "monsoon",
+    "noodle",
+    "soup",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-fluffy-monsoon-vietnamese-chicken-vietnamese-chicken-noodle-broth",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-fluffy-monsoon-vietnamese-chicken-vietnamese-chicken-noodle-broth",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:57:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "smoky, fluffy, monsoon",
+    "dishForm": "Vietnamese Chicken Noodle Broth"
+  }
+}
