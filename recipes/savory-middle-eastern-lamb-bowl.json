@@ -1,0 +1,104 @@
+{
+  "title": "Savory Middle Eastern Lamb Bowl",
+  "description": "A savory and crumbly Middle Eastern dish featuring lamb, lemon zest, and a lacquer glaze, served in a lacquerware bowl. This ayurvedic-rajasic-friendly recipe is perfect for a brunch mood.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and cut into small pieces"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the lacquer glaze, olive oil, lemon zest, sumac, cumin, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the glaze mixture.",
+    "Spread the lamb pieces out in a single layer on a baking sheet.",
+    "Roast the lamb in the preheated oven for 20 minutes.",
+    "While the lamb is cooking, heat a large skillet over medium heat and add the chopped onion.",
+    "Cook the onion for 5 minutes, or until it is softened and lightly browned.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute.",
+    "To assemble the bowls, divide the cooked lamb among four lacquerware bowls.",
+    "Top the lamb with the cooked onion and garlic mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "dairy-free",
+    "gluten-free",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "savory-middle-eastern-lamb-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-middle-eastern-lamb-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:44:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "lemon zest",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Savory Crumbly",
+    "dishForm": "Bowl"
+  }
+}
