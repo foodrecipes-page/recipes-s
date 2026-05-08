@@ -1,0 +1,96 @@
+{
+  "title": "Slow Roasted Algerian Plum Tomatoes Tagine",
+  "description": "A resinous and gooey meal prep Algerian dish featuring plum tomatoes, yakimono grill, and shojin friendly ingredients, perfect for a hearty dinner",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 300 degrees Fahrenheit",
+    "Cut the plum tomatoes in half and place them on a baking sheet",
+    "Drizzle the olive oil over the tomatoes and sprinkle with garlic, ginger, cumin, paprika, salt, and black pepper",
+    "Roast the tomatoes in the preheated grill for 2 hours",
+    "Stir the tomatoes every 30 minutes to ensure even cooking",
+    "After 2 hours, remove the tomatoes from the grill and let them cool",
+    "Once cooled, transfer the tomatoes to a serving dish and garnish with chopped fresh parsley",
+    "Serve the tagine hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "meal-prep",
+    "one-pan",
+    "shojin-friendly",
+    "slow-cooked",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "slow-roasted-algerian-plum-tomatoes-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-roasted-algerian-plum-tomatoes-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:46:42Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "Slow roasted",
+    "dishForm": "Tagine"
+  }
+}
