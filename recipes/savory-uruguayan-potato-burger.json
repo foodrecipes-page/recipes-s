@@ -1,0 +1,94 @@
+{
+  "title": "Savory Uruguayan Potato Burger",
+  "description": "A pungent and shattering crowd-pleaser featuring potato buns and confit tomato, this Uruguayan dish is a satvik-friendly delight. It combines the flavors of South America with a unique twist.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "for buns"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "for confit"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Boil the potatoes until they are tender, then mash and shape into buns.",
+    "Confit the tomatoes by cooking them in olive oil over low heat for 2 hours.",
+    "Caramelize the onions by cooking them in olive oil over medium heat for 30 minutes.",
+    "Mix the garlic, salt, black pepper, and paprika into the mashed potatoes.",
+    "Assemble the burgers by placing a spoonful of confit tomato onto a potato bun.",
+    "Top with caramelized onions and serve immediately.",
+    "Let the burgers cool for a few minutes before serving.",
+    "Serve with your favorite toppings, such as avocado or salsa."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "confit-tomato",
+    "lunch",
+    "potato-bun",
+    "south-american",
+    "unique-twist",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "savory-uruguayan-potato-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-uruguayan-potato-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:00:37Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "confit-tomato",
+    "primaryIngredient": "potatoe buns",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "potatoes",
+    "descriptor": "Savory",
+    "dishForm": "Burger"
+  }
+}
