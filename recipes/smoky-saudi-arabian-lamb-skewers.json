@@ -1,0 +1,104 @@
+{
+  "title": "Smoky Saudi Arabian Lamb Skewers",
+  "description": "A peppery and crispy Saudi Arabian dish featuring cherries, perfect for a hangover cure, made by broiling on a robata grill, and low in glycemic index.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "dried cherries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together black pepper, coriander, cumin, paprika, and salt.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Brush the lamb skewers with olive oil and minced garlic.",
+    "Broil the lamb skewers on the robata grill for 10 minutes, turning occasionally.",
+    "In a small bowl, mix together dried cherries and lemon juice.",
+    "After the lamb skewers have cooked for 10 minutes, brush them with the cherry and lemon juice mixture.",
+    "Continue to broil the lamb skewers for an additional 5 minutes, or until they are cooked to desired doneness.",
+    "Remove the lamb skewers from the grill and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb-based",
+    "low-glycemic",
+    "middle-eastern",
+    "robata-grill",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "smoky-saudi-arabian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-saudi-arabian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:11:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "cherries",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Spicy Smoky",
+    "dishForm": "Skewers"
+  }
+}
