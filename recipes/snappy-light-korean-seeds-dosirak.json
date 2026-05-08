@@ -1,0 +1,95 @@
+{
+  "title": "Snappy Light Korean Seeds Dosirak",
+  "description": "A resinous and snappy Korean dish featuring seeds, served in an earthenware bowl, perfect for a light lunch",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "toasted"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Toast the sesame seeds in a dry pan over medium heat until fragrant",
+    "Roast the pumpkin seeds in a 350 degree oven for 10 minutes",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and honey",
+    "In a large earthenware bowl, combine the toasted sesame seeds, roasted pumpkin seeds, and minced garlic",
+    "Add the grated ginger to the bowl and stir to combine",
+    "Pour the soy sauce mixture over the seed mixture and stir to coat",
+    "Add the water to the bowl and stir to combine",
+    "Simmer the mixture over low heat for 10 minutes",
+    "Serve the Snappy Light Korean Seeds Dosirak hot in the earthenware bowl"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy-lunch",
+    "korean-food",
+    "one-bowl",
+    "seed-based",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "snappy-light-korean-seeds-dosirak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/snappy-light-korean-seeds-dosirak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:37:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "seeds",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "seeds",
+    "descriptor": "snappy light",
+    "dishForm": "Dosirak"
+  }
+}
