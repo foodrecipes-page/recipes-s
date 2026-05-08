@@ -1,0 +1,99 @@
+{
+  "title": "Silky Smooth Italian Prawns Pasta",
+  "description": "A fresh and light Italian dish featuring sashimi-cut prawns, perfect for a flexitarian meal",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 large",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant",
+    "Add the prawns to the skillet and cook for 2-3 minutes per side, until pink and cooked through",
+    "Remove the prawns from the skillet and set aside",
+    "Add the lemon juice and white wine to the skillet and cook until the liquid is reduced by half",
+    "Stir in the cherry tomatoes and cook for an additional 2 minutes",
+    "Drain the spaghetti and add it to the skillet, tossing to combine with the tomato mixture",
+    "Return the prawns to the skillet and toss to combine with the spaghetti and tomato mixture",
+    "Season with salt and pepper to taste, then stir in the chopped parsley and grated cheese"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "italian-food",
+    "pasta-dishes",
+    "prawn-recipes",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "silky-smooth-italian-prawns-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-italian-prawns-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:48:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "prawns",
+    "diet": "flexitarian",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "prawns",
+    "descriptor": "silky smooth",
+    "dishForm": "Pasta"
+  }
+}
