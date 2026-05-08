@@ -1,0 +1,88 @@
+{
+  "title": "Sweet Sultana Australian Oats Bowl",
+  "description": "A quick and easy Australian dish featuring sultanas and oats, perfect for a healthy breakfast or snack. This recipe is low in glycemic index and can be prepared in under 10 minutes.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-glycemic",
+    "brine-dry"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "preferably Australian grown"
+    },
+    {
+      "name": "sultanas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the low-fat milk to a simmer over medium heat.",
+    "Add the rolled oats to the saucepan and cook, stirring occasionally, until the oats have absorbed most of the milk and have a creamy consistency.",
+    "Stir in the honey, lemon juice, and sea salt until well combined.",
+    "Add the sultanas to the saucepan and cook for an additional 2 minutes, until they are plump and tender.",
+    "Transfer the oat mixture to an earthenware bowl.",
+    "Sprinkle the chopped almonds over the top of the oat mixture.",
+    "Serve the Sweet Sultana Australian Oats Bowl hot, garnished with additional sultanas if desired.",
+    "Let the dish cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "brine-dry",
+    "easy-recipe",
+    "healthy-breakfast",
+    "low-glycemic",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "sweet-sultana-australian-oats-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-sultana-australian-oats-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:09:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "sultanas",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "oats",
+    "descriptor": "sweet sultana",
+    "dishForm": "Bowl"
+  }
+}
