@@ -1,0 +1,95 @@
+{
+  "title": "Silky Smooth Korean Beef Brisket Kalguksu",
+  "description": "A nutty and silky Korean dish featuring beef brisket, perfect for a date night, this ayurvedic-sattvic-friendly kalguksu is a must try. It is made with lardons-render for added flavor.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "kalguksu noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat and add the rendered lardons.",
+    "Add the sliced beef brisket and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, until fragrant.",
+    "Add the soy sauce and cook for 1 minute, until the beef is coated.",
+    "Add the kalguksu noodles and cook according to the package instructions.",
+    "Stir in the chopped green onions and cook for 1 minute, until wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve the beef and noodles in a bowl and garnish with additional green onions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "beef-recipes",
+    "date-night",
+    "korean-cuisine",
+    "noodle-dishes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "silky-smooth-korean-beef-brisket-kalguksu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-korean-beef-brisket-kalguksu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:51:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "lardons-render",
+    "primaryIngredient": "beef brisket",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef brisket",
+    "descriptor": "Silky Smooth",
+    "dishForm": "Kalguksu"
+  }
+}
