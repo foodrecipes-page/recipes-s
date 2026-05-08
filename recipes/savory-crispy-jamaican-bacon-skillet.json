@@ -1,0 +1,105 @@
+{
+  "title": "Savory Crispy Jamaican Bacon Skillet",
+  "description": "A festive and crispy Jamaican dish featuring bacon and poached eggs, perfect for a low-carb breakfast. This recipe is cooked to perfection in an iron teppan skillet.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "thick-cut bacon",
+      "amount": "6 slices",
+      "notes": "preferably applewood-smoked"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "poached"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2 medium",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced scotch bonnet peppers and cook for 2 minutes.",
+    "Add the thick-cut bacon and cook until crispy, about 5 minutes per side.",
+    "Remove the bacon from the skillet and set aside.",
+    "Crack the eggs into the skillet and poach until the whites are set and the yolks are cooked to desired doneness.",
+    "Season the eggs with salt, black pepper, allspice, and thyme.",
+    "Serve the poached eggs on top of the crispy bacon and scotch bonnet peppers.",
+    "Garnish with additional thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-skillet",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "savory-crispy-jamaican-bacon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crispy-jamaican-bacon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:02:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "poach",
+    "primaryIngredient": "bacon",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "bacon",
+    "descriptor": "Savory Crispy",
+    "dishForm": "Skillet"
+  }
+}
