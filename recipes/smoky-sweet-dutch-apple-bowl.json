@@ -1,0 +1,88 @@
+{
+  "title": "Smoky Sweet Dutch Apple Bowl",
+  "description": "A malty, crunchy, lazy-sunday Dutch dish featuring apple juice and char-grill-yang flavors, served in a dolsot-stone-bowl.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apple juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "char-grilled yang powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the rolled oats, malted milk powder, and brown sugar.",
+    "Add the apple juice and char-grilled yang powder to the bowl and stir until well combined.",
+    "Arrange the sliced apples in the bottom of a dolsot-stone-bowl.",
+    "Top the apples with the oat mixture and dot with unsalted butter.",
+    "Bake the apple bowl in the preheated oven for 25 minutes.",
+    "Remove the bowl from the oven and let it cool for a few minutes.",
+    "Serve the smoky sweet Dutch apple bowl warm, straight from the stone bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "apple-juice",
+    "dutch-dish",
+    "lazy-sunday",
+    "malty-flavors",
+    "stone-bowl",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "smoky-sweet-dutch-apple-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-sweet-dutch-apple-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:39:06Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "apple juice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "apples",
+    "descriptor": "Smoky Sweet",
+    "dishForm": "Bowl"
+  }
+}
