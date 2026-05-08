@@ -1,0 +1,102 @@
+{
+  "title": "Silky Thai Masarepa Curry",
+  "description": "A salty, silky, and comforting Thai dish featuring white masarepa, simmered to perfection in a flavorful and paleo-friendly curry sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white masarepa",
+      "amount": "2 cups",
+      "notes": "also known as cornmeal"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grilled chicken",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the Thai red curry paste and cook, stirring constantly, for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the white masarepa and stir to combine, cooking for 2 minutes.",
+    "Add the fish sauce, lime juice, salt, and black pepper, and stir to combine.",
+    "Add the diced grilled chicken and sliced bell peppers, and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the chopped Thai basil and cook for an additional 2 minutes.",
+    "Serve the curry hot, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "paleo-friendly",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "silky-thai-masarepa-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-thai-masarepa-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:30:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "white masarepa",
+    "diet": "paleo",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "masarepa",
+    "descriptor": "silky smooth",
+    "dishForm": "Curry"
+  }
+}
