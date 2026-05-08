@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Spiced Turkish Lamb Adana Kebap",
+  "description": "A nutty and aerated Turkish dish featuring garam masala, this Adana Kebap is perfect for a weeknight dinner, and its use of pressure cooking and ayurvedic-tamasic-friendly ingredients makes it a great option for a quick and healthy meal",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Soak the banana leaves in water for 30 minutes to make them pliable",
+    "In a large bowl, combine the ground lamb, garam masala, smoked paprika, cumin, coriander, cayenne pepper, salt, and black pepper, and mix well with your hands until just combined",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld",
+    "Cut the banana leaves into 6-8 inch pieces and place a small amount of the lamb mixture onto the center of each leaf",
+    "Fold the leaves over the filling to form a tight cylinder and secure with a toothpick if necessary",
+    "Place the Adana Kebap into a pressure cooker and cook for 10 minutes",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure",
+    "Serve the Adana Kebap hot with a squeeze of lemon juice",
+    "Garnish with fresh parsley or cilantro, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "pressure-cooker",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "smoky-spiced-turkish-lamb-adana-kebap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spiced-turkish-lamb-adana-kebap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:58:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "garam masala",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Smoky Spiced",
+    "dishForm": "Adana Kebap"
+  }
+}
