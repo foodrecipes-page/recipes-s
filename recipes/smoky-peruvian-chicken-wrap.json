@@ -1,0 +1,104 @@
+{
+  "title": "Smoky Peruvian Chicken Wrap",
+  "description": "A smoky and cheesy Peruvian chicken dish featuring stracciatella cheese, shio cure, and anti inflammatory friendly ingredients, all wrapped in a lotus leaf wrap.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "stracciatella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 1 tablespoon water"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, garlic powder, turmeric, salt, and black pepper.",
+    "Add the chicken strips to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat the olive oil in a large skillet over medium high heat and cook the chicken for 5-6 minutes per side, or until cooked through.",
+    "In a small bowl, mix together the shio cure and water.",
+    "Brush the shio cure mixture onto the cooked chicken.",
+    "Warm the lotus leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a portion of the chicken onto a lotus leaf wrap, topping with shredded stracciatella cheese.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "cheesy",
+    "gluten-free",
+    "meal-prep",
+    "peruvian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "smoky-peruvian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-peruvian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:27:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "shio-cure",
+    "primaryIngredient": "stracciatella-cheese",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Smoky Savory",
+    "dishForm": "Wrap"
+  }
+}
