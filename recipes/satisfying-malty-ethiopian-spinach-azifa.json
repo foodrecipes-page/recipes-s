@@ -1,0 +1,105 @@
+{
+  "title": "Satisfying Malty Ethiopian Spinach Azifa",
+  "description": "A low-calorie, malty Ethiopian dish featuring spinach, this azifa is perfect for a solo dinner, with a bouncy qq texture from the spinach and a savory flavor from the malt and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh spinach",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "malt powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat and add the chopped onion, cooking until it is translucent.",
+    "Add the minced garlic and grated ginger to the pan and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the chopped spinach to the pan, cooking until it is wilted, about 3-4 minutes.",
+    "In a small bowl, whisk together the malt powder, berbere spice, salt, and black pepper.",
+    "Add the malt mixture to the pan with the spinach and stir to combine.",
+    "Squeeze the lemon juice over the top of the spinach mixture and stir to combine.",
+    "Add the water to the pan and bring the mixture to a simmer, cooking for an additional 2-3 minutes, until the liquid has reduced slightly.",
+    "Remove the pan from the heat and let the azifa cool to room temperature, serving as a solo dinner.",
+    "Garnish with additional lemon wedges, if desired, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "ethiopian",
+    "healthy",
+    "low-calorie",
+    "one-pan",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "satisfying-malty-ethiopian-spinach-azifa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/satisfying-malty-ethiopian-spinach-azifa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:53:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "brine-dry",
+    "primaryIngredient": "spinach",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "spinach",
+    "descriptor": "satisfying malty",
+    "dishForm": "Azifa"
+  }
+}
