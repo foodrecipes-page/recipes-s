@@ -1,0 +1,94 @@
+{
+  "title": "silky jammy uruguayan tofu dumplings",
+  "description": "cozy dish featuring tofu dumplings with a sweet and tangy sauce, free from refined sugar",
+  "cuisine": "uruguayan",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "0.5g"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1g"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "0.5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "5ml"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "10g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15g"
+    }
+  ],
+  "instructions": [
+    "mix tofu with flour, baking powder, cinnamon, and nutmeg in a bowl",
+    "knead dough for 5 minutes until smooth",
+    "cover dough with plastic wrap and rest for 10 minutes",
+    "divide dough into 6 equal pieces and roll each into a ball",
+    "heat olive oil in a non-stick pan over medium heat",
+    "fry dumplings for 2-3 minutes on each side until golden brown",
+    "transfer dumplings to a baking sheet and bake at 180c for 10 minutes",
+    "mix brown sugar, apple cider vinegar, and lemon juice in a saucepan over low heat",
+    "cook sauce for 5 minutes, stirring constantly, until thickened",
+    "serve dumplings with warm sauce drizzled on top"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "silky-jammy-uruguayan-tofu-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-jammy-uruguayan-tofu-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:59:26Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "dum",
+    "primaryIngredient": "tofu",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tofu",
+    "descriptor": "silky jammy",
+    "dishForm": "Dumplings"
+  }
+}

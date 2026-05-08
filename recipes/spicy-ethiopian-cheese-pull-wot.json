@@ -1,0 +1,113 @@
+{
+  "title": "Spicy Ethiopian Cheese-Pull Wot",
+  "description": "A spicy, cheese-filled Ethiopian dish made with a mixture of cheese, onions, and spices, served over injera bread. This low-fat-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "16 oz",
+      "notes": ""
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "injera bread",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, ginger, cumin, and smoked paprika; cook 1 minute, stirring constantly.",
+    "Add cottage cheese and stir to combine.",
+    "Add soy sauce, red pepper flakes, and beef broth; bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 15 minutes, stirring occasionally.",
+    "Stir in black pepper and cook for 1 minute.",
+    "Warm injera bread according to package instructions.",
+    "Spoon cheese-pull over injera and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "spicy-ethiopian-cheese-pull-wot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-ethiopian-cheese-pull-wot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:59:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cheese-pull",
+    "descriptor": "spicy",
+    "dishForm": "wot"
+  }
+}
