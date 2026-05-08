@@ -1,0 +1,115 @@
+{
+  "title": "Salty Crunchy Ukrainian Tofu Fried",
+  "description": "A indulgent Ukrainian dish featuring silken tofu, lamination puff, and Jain-friendly ingredients. This dish is perfect for a weeknight meal or a special occasion.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Silken Tofu",
+      "amount": "1 block 14 oz",
+      "notes": ""
+    },
+    {
+      "name": "Lamination Puff",
+      "amount": "1 package 10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dried Parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Worcestershire Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and place them on a paper towel-lined plate to drain excess moisture.",
+    "In a shallow dish, mix together the lamination puff, salt, and black pepper.",
+    "In a separate dish, mix together the chopped onion, garlic, dried parsley, and lemon juice.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Dredge the tofu cubes in the lamination puff mixture, coating them evenly.",
+    "Add the tofu cubes to the skillet and fry until golden brown, about 3-4 minutes on each side.",
+    "Remove the tofu from the skillet and place it on a paper towel-lined plate to drain excess oil.",
+    "Add the chopped onion mixture to the skillet and sauté until fragrant, about 1-2 minutes.",
+    "Add the vegan Worcestershire sauce to the skillet and stir to combine.",
+    "Return the tofu to the skillet and toss with the onion mixture to coat.",
+    "Season with additional salt and pepper to taste.",
+    "Garnish with chopped fresh dill and serve hot.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "ukrainian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "salty-crunchy-ukrainian-tofu-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-crunchy-ukrainian-tofu-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:47:12Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "silken tofu",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "tofu",
+    "descriptor": "salty crunchy",
+    "dishForm": "fried"
+  }
+}
