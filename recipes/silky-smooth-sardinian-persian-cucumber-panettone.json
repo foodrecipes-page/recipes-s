@@ -1,0 +1,111 @@
+{
+  "title": "Silky Smooth Sardinian Persian Cucumber Panettone",
+  "description": "This dish is a unique combination of Sardinian and Mediterranean flavors, featuring Persian cucumber in a velvety panettone, perfect for a solo dinner. The umami flavor comes from the braise and Mediterranean-friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "panettone bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Braise the sliced Persian cucumber in olive oil over medium heat until it is tender and lightly browned.",
+    "Add the minced garlic and chopped onion to the pan and cook until the onion is translucent.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the vegetable broth to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes.",
+    "Stir in the shaved grana padano cheese until it is melted and smooth.",
+    "Add the cubed panettone bread to the pan and toss until it is well coated with the cheese mixture.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and top with chopped fresh parsley.",
+    "Serve the Silky Smooth Sardinian Persian Cucumber Panettone hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mediterranean",
+    "one-pan",
+    "sardinian",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "silky-smooth-sardinian-persian-cucumber-panettone",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-sardinian-persian-cucumber-panettone",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:40:54Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "persian cucumber",
+    "diet": "mediterranean",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "Persian Cucumber",
+    "descriptor": "Silky Smooth",
+    "dishForm": "Panettone"
+  }
+}
