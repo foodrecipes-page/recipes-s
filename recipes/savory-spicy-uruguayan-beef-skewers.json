@@ -1,0 +1,95 @@
+{
+  "title": "Savory Spicy Uruguayan Beef Skewers",
+  "description": "A briny and juicy Uruguayan dish featuring Sichuan pepper and nuka-pickle, perfect for adventurous eaters looking for a high-protein meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "2 tablespoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Sichuan pepper, nuka-pickle, garlic, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the beef cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and grill for 8-10 minutes, turning occasionally.",
+    "Transfer the skewers to a plate and garnish with chopped parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "gluten-free",
+    "grilled-meats",
+    "high-protein",
+    "spicy-food",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "savory-spicy-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spicy-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:52:25Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Savory Spicy",
+    "dishForm": "Skewers"
+  }
+}
