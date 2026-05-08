@@ -1,0 +1,92 @@
+{
+  "title": "Spicy Dense Italian Duck Legs Confit",
+  "description": "A spicy and dense Italian dish featuring duck legs, perfect for midnight cravings. This recipe uses render-fat for a rich flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4 pieces",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "rendered duck fat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the duck legs with salt, black pepper, and thyme.",
+    "Heat the rendered duck fat in a large Dutch oven over medium heat.",
+    "Sear the duck legs until browned on all sides, then remove from heat.",
+    "Add garlic, red pepper flakes, and lemon juice to the Dutch oven.",
+    "Return the duck legs to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 hours.",
+    "Remove the pot from the oven and let the duck legs cool in the fat.",
+    "Strain the fat and serve the duck legs with the spicy garlic sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "duck-legs",
+    "italian-food",
+    "one-pot",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 90
+  },
+  "slug": "spicy-dense-italian-duck-legs-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-dense-italian-duck-legs-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:23:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "render-fat",
+    "primaryIngredient": "duck legs",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "duck legs",
+    "descriptor": "Spicy Dense",
+    "dishForm": "Confit"
+  }
+}
