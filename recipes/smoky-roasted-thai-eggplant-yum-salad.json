@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Roasted Thai Eggplant Yum Salad",
+  "description": "A smoky and refreshing Thai salad featuring roasted Thai eggplant, perfect for a hangover cure or a light lunch. This dish is shojin-friendly and served in a lacquerware bowl.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai eggplant",
+      "amount": "2 large",
+      "notes": "also known as makhua"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish-free sauce",
+      "amount": "1 tablespoon",
+      "notes": "such as nam pla or tamari"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the Thai eggplant into 1-inch pieces and place on a baking sheet lined with parchment paper.",
+    "Drizzle the vegetable oil over the eggplant and sprinkle with smoked paprika, salt, and pepper.",
+    "Roast the eggplant in the oven for 20 minutes, or until tender and lightly browned.",
+    "Remove the eggplant from the oven and let cool to room temperature.",
+    "In a large bowl, whisk together the lime juice and fish-free sauce.",
+    "Add the cooled eggplant, chopped cilantro, crushed peanuts, and diced red onion to the bowl and toss to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the salad in a lacquerware bowl and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lacquerware-bowl",
+    "refreshing-salads",
+    "smoky-flavors",
+    "thai-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "smoky-roasted-thai-eggplant-yum-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-thai-eggplant-yum-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:31:27Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "smoke-cold",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "shojin",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Thai eggplant",
+    "descriptor": "Smoky roasted",
+    "dishForm": "Yum Salad"
+  }
+}
