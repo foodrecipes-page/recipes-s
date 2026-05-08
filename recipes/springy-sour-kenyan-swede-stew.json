@@ -1,0 +1,104 @@
+{
+  "title": "Springy Sour Kenyan Swede Stew",
+  "description": "A sour and springy Kenyan dish featuring swede, this stew is perfect for a cold evening, with a unique spherified twist and low glycemic index.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced swede and cook for 5 minutes, stirring occasionally.",
+    "Add the lamb broth, sour cream, lemon juice, and chili flakes, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "In a small bowl, mix the sodium alginate with the water to create a spherification bath.",
+    "Using a spoon, drop small amounts of the stew into the spherification bath to create spherified bites.",
+    "Remove the spherified bites from the bath with a slotted spoon and add to the stew.",
+    "Season the stew with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "kenyan-cuisine",
+    "low-glycemic",
+    "one-pot",
+    "spherified-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "springy-sour-kenyan-swede-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-sour-kenyan-swede-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:57:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "spherify",
+    "primaryIngredient": "swede",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "swede",
+    "descriptor": "springy sour",
+    "dishForm": "Stew"
+  }
+}
