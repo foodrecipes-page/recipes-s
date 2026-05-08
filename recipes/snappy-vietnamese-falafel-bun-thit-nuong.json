@@ -1,0 +1,108 @@
+{
+  "title": "Snappy Vietnamese Falafel Bun Thit Nuong",
+  "description": "A plant-based Vietnamese dish featuring crispy falafel, bitter greens, and spicy sauce, perfect for a hangover cure.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "falafel mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "marinated and baked"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vermicelli noodles",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the falafel according to the package instructions and bake for 20 minutes.",
+    "In a pan, saute the sliced bitter melon with a little oil until it is tender.",
+    "In a large bowl, combine the cooked vermicelli noodles, grated carrots, sliced cucumber, and pickled ginger.",
+    "In a small bowl, whisk together the sriracha sauce and rice vinegar.",
+    "Add the cooked falafel, sauteed bitter melon, and marinated tofu to the bowl with the noodles and vegetables.",
+    "Pour the sriracha sauce mixture over the top and toss to combine.",
+    "Garnish with chopped mint leaves and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meals",
+    "hangover-cure",
+    "lunch-ideas",
+    "plant-based",
+    "spicy-food",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "snappy-vietnamese-falafel-bun-thit-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/snappy-vietnamese-falafel-bun-thit-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:54:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "falafel",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "falafel",
+    "descriptor": "Snappy Spicy",
+    "dishForm": "Bun Thit Nuong"
+  }
+}
