@@ -1,0 +1,105 @@
+{
+  "title": "Savory Sweet Malaysian Vegetable Stir Fry",
+  "description": "A buttery and crumbly Malaysian dish featuring star anise, this stir fry is a festive and shojin-friendly option for any meal, with a blend of sweet and savory flavors that will delight your taste buds.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "for flavor"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the star anise and cook for 1 minute, until fragrant.",
+    "Add the chopped carrots and bell peppers, and cook until they are tender.",
+    "Add the chopped snow peas and cook until they are tender.",
+    "Season with soy sauce and stir fry for 1 minute.",
+    "Add the butter and stir fry until it is melted and the vegetables are well coated.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "malaysian",
+    "one-pan",
+    "shojin",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "savory-sweet-malaysian-vegetable-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sweet-malaysian-vegetable-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:18:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "star anise",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetables",
+    "descriptor": "savory sweet",
+    "dishForm": "Stir-fry"
+  }
+}
