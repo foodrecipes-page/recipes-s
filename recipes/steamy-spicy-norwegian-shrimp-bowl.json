@@ -1,0 +1,60 @@
+{
+  "title": "Steamy Spicy Norwegian Shrimp Bowl",
+  "description": "Peppery, springy, and comforting, this Norwegian-inspired dish is perfect for a sick day. Featuring saeujeot and shrimp paste, it's a flavorful and healthy option.",
+  "cuisine": "norwegian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "saeujeot",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine saeujeot, shrimp paste, cooking sake, and 1 cup of water in a saucepan. Bring to a boil, then reduce heat to a simmer and cook for 5 minutes.",
+    "Add shrimp and cook until pink, about 3-4 minutes per side. Drain and set aside.",
+    "In a separate pot, steam ginger and garlic for 2-3 minutes, or until fragrant.",
+    "Add cooked shrimp, green onions, salt, and black pepper to the steamer basket. Steam for an additional 2-3 minutes, or until heated through.",
+    "To serve, place cooked shrimp mixture onto a bed of steamed rice or noodles.",
+    "Garnish with additional green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "steamy-spicy-norwegian-shrimp-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/steamy-spicy-norwegian-shrimp-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:34:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "saeujeot-shrimp-paste",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Steamy Spicy",
+    "dishForm": "Bowl"
+  }
+}
