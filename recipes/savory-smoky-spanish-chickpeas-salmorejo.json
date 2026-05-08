@@ -1,0 +1,106 @@
+{
+  "title": "Savory Smoky Spanish Chickpeas Salmorejo",
+  "description": "A festive Spanish dish featuring chickpeas, lardons, and cheese, perfect for a special occasion. This herbal and cheesy salmorejo is keto-friendly and full of flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Render the lardons in a skillet over medium heat until crispy.",
+    "Remove the lardons from the skillet and set aside.",
+    "Add the garlic to the skillet and cook for 1 minute until fragrant.",
+    "Add the chickpeas, smoked paprika, salt, and black pepper to the skillet and cook for 2 minutes.",
+    "Stir in the chicken broth and bring to a simmer.",
+    "Reduce the heat to low and let cook for 10 minutes until the liquid has reduced slightly.",
+    "Stir in the shredded manchego cheese until melted and well combined.",
+    "Transfer the mixture to a serving dish and top with the crispy lardons, chopped parsley, and a drizzle of olive oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "festive",
+    "gluten-free",
+    "herbal",
+    "keto-friendly",
+    "one-pan",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "savory-smoky-spanish-chickpeas-salmorejo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-smoky-spanish-chickpeas-salmorejo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:41:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "chickpeas (garbanzo beans",
+    "diet": "keto",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Savory Smoky",
+    "dishForm": "Salmorejo"
+  }
+}
