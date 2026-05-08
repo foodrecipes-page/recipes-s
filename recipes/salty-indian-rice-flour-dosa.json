@@ -1,0 +1,83 @@
+{
+  "title": "Salty Indian Rice Flour Dosa",
+  "description": "A salty and tender Indian dish featuring rice flour pancakes, perfect for a post-workout meal. This recipe is Whole30-friendly and made in a copper mug.",
+  "cuisine": "Indian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ghee or coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the rice flour and salt.",
+    "Gradually add the water to the bowl and mix until a smooth batter forms.",
+    "Heat a non-stick skillet or copper mug over medium heat.",
+    "Brush the skillet or mug with ghee or coconut oil.",
+    "Pour a small amount of the batter into the skillet or mug and spread it evenly.",
+    "Cook the dosa for 2 minutes, until the bottom is lightly browned.",
+    "Loosen the dosa with a spatula and flip it over.",
+    "Cook the other side for another 1-2 minutes, until lightly browned.",
+    "Repeat the process with the remaining batter.",
+    "Serve the dosas hot with chopped cilantro on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "copper-mug",
+    "gluten-free",
+    "high-protein",
+    "indian-food",
+    "post-workout",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "salty-indian-rice-flour-dosa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-indian-rice-flour-dosa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:39:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice flour",
+    "descriptor": "Savory Salty",
+    "dishForm": "Dosa"
+  }
+}
