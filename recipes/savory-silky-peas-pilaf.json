@@ -1,0 +1,90 @@
+{
+  "title": "Savory Silky Peas Pilaf",
+  "description": "A rich and creamy post-workout dish from Croatian cuisine, using frozen peas and pickle juice to achieve a silky texture. Suitable for those with FODMAP sensitivities.",
+  "cuisine": "croatian",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "250g"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "rice",
+      "amount": "150g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "diced onion",
+      "amount": "75g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "6g"
+    },
+    {
+      "name": "salt",
+      "amount": "3g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a scallop shell over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the rice and cook for 1-2 minutes, until lightly toasted.",
+    "Pour in the pickle juice and bring to a simmer.",
+    "Add the frozen peas and cook until thawed and tender, about 3-4 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with additional pickles if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "savory-silky-peas-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-silky-peas-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:00:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "frozen peas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "peas",
+    "descriptor": "Savory Silky",
+    "dishForm": "Pilaf"
+  }
+}

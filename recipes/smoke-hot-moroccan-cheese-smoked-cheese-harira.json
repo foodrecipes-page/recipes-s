@@ -1,0 +1,106 @@
+{
+  "title": "Smoked Cheese Harira",
+  "description": "A hearty, comforting Moroccan stew featuring smoked cheese and a variety of vegetables. Perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the oil over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the cumin and cayenne pepper, and cook for 1 minute.",
+    "Add the tomato paste and cook for 2 minutes.",
+    "Add the carrots, chickpeas, water, salt, and black pepper.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Stir in the smoked cheese until melted and well combined.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "high-protein",
+    "moroccan-cuisine",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "smoke-hot-moroccan-cheese-smoked-cheese-harira",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-moroccan-cheese-smoked-cheese-harira",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:00:09Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "smoke-hot",
+    "primaryIngredient": "carrots",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cheese",
+    "descriptor": "smoke-hot",
+    "dishForm": "Smoked Cheese Harira"
+  }
+}
