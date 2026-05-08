@@ -1,0 +1,93 @@
+{
+  "title": "Sweet Sticky Thai Chinese Cabbage Khanom Thai",
+  "description": "A floral and chewy Thai dish featuring Chinese cabbage and a sweet glaze, perfect for a hangover cure. This no-onion-no-garlic-friendly recipe is served in a khanom Thai form on a lazy Susan spinner.",
+  "cuisine": "Thai Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "2 heads",
+      "notes": "cored and separated into leaves"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the sugar, water, rice vinegar, and salt, and bring to a boil over high heat.",
+    "Reduce the heat to medium and simmer for 10 minutes, or until the glaze has thickened.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the Chinese cabbage leaves to the skillet and cook for 2-3 minutes, or until they are slightly wilted.",
+    "In a small bowl, whisk together the cornstarch and sesame oil.",
+    "Add the cornstarch mixture to the glaze and stir to combine.",
+    "Pour the glaze over the Chinese cabbage and toss to coat.",
+    "Arrange the cabbage leaves in a khanom Thai form on a lazy Susan spinner.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "khanom-thai",
+    "lazy-susan",
+    "thai-chinese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "sweet-sticky-thai-chinese-cabbage-khanom-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-sticky-thai-chinese-cabbage-khanom-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:21:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "glaze",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Chinese Cabbage",
+    "descriptor": "Sweet Sticky",
+    "dishForm": "Khanom Thai"
+  }
+}
