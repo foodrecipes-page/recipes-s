@@ -1,0 +1,104 @@
+{
+  "title": "Smoky Peruvian Cassaba Lomo Saltado",
+  "description": "A peppery and velvety Peruvian dish featuring cassaba, grilled to perfection and served in a dolsot stone bowl, perfect for a lazy Sunday, this ayurvedic rajasic friendly lomo saltado variation combines the best of Peruvian cuisine with the warmth of smoky flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassaba",
+      "amount": "2 medium",
+      "notes": "peeled and cut into bite sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, soy sauce, vinegar, salt, and black pepper.",
+    "Add the cassaba pieces to the bowl and toss to coat with the marinade.",
+    "Grill the cassaba for 10 minutes, turning occasionally, until slightly charred.",
+    "Add the sliced aji amarillo peppers to the grill and cook for an additional 2 minutes.",
+    "Transfer the grilled cassaba and peppers to a dolsot stone bowl.",
+    "Top with chopped scallions and serve immediately.",
+    "Serve with steamed rice or vegetables for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "peruvian-cuisine",
+    "smoky-flavors",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-peruvian-cassaba-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-peruvian-cassaba-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:43:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "cassaba",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cassaba",
+    "descriptor": "Smoky Savory",
+    "dishForm": "Lomo Saltado"
+  }
+}
