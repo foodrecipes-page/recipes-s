@@ -1,0 +1,105 @@
+{
+  "title": "Savory Sweet Ukrainian Grape Juice Confit Tomato Pilaf",
+  "description": "A dense and flavorful Ukrainian dish featuring grape juice and confit tomatoes, perfect for a weeknight dinner. This ovo-vegetarian friendly meal is made with simple ingredients and can be prepared in advance.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape juice",
+      "amount": "2 cups",
+      "notes": "preferably homemade or 100% juice"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "long grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, heat the oil over medium heat and saute the onions until they are translucent.",
+    "Add the grated carrots to the saucepan and cook for an additional 5 minutes.",
+    "In a large bowl, combine the cooked rice, confit tomatoes, grape juice, salt, and pepper, and stir until the rice is well coated.",
+    "In a separate bowl, beat the eggs and set them aside.",
+    "Add the egg mixture to the rice mixture and stir until everything is well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with chopped parsley.",
+    "Bake the pilaf in the preheated oven for 30 minutes, or until the eggs are set and the top is lightly browned.",
+    "Remove the pilaf from the oven and let it cool for a few minutes before serving.",
+    "Serve the pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dense",
+    "floral",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "savory-sweet-ukrainian-grape-juice-confit-tomato-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sweet-ukrainian-grape-juice-confit-tomato-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:06:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "confit-tomato",
+    "primaryIngredient": "grape juice",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "grape juice confit tomatoes",
+    "descriptor": "sweet savory",
+    "dishForm": "Pilaf"
+  }
+}
