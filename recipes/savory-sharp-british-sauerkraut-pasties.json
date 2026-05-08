@@ -1,0 +1,105 @@
+{
+  "title": "Savory Sharp British Sauerkraut Pasties",
+  "description": "A savory, cheese-pull, quick-fix British dish featuring sauerkraut, perfect for a satisfying snack or light meal. This ovo-vegetarian-friendly recipe is a twist on traditional Cornish pasties.",
+  "cuisine": "British",
+  "diet": [
+    "ovo-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the sauerkraut, onion, potato, and cheddar cheese.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the sauerkraut mixture onto one half of each pastry circle.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the other half of the pastry circle over the filling to form a half-moon shape, pressing the edges to seal.",
+    "Brush the tops of the pasties with the olive oil and sprinkle with salt and pepper.",
+    "Place the pasties on a baking sheet lined with parchment paper and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cheesy",
+    "pastries",
+    "savory",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "savory-sharp-british-sauerkraut-pasties",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sharp-british-sauerkraut-pasties",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:35:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "marinate",
+    "primaryIngredient": "sauerkraut",
+    "diet": "ovo-vegetarian",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Savory Sharp",
+    "dishForm": "Pasties"
+  }
+}
