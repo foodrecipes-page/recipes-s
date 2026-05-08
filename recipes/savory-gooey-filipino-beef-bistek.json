@@ -1,0 +1,104 @@
+{
+  "title": "Savory Gooey Filipino Beef Bistek",
+  "description": "A Filipino dish featuring tender beef, gooey liquid cheese, and a savory sauce, all steamed to perfection in a Buddhist-temple-friendly recipe. This fermented beef bistek is a unique twist on traditional Filipino cuisine.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "liquid cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, calamansi juice, black pepper, and salt to make the marinade.",
+    "Add the beef strips to the marinade and mix well to coat, then cover and refrigerate for at least 30 minutes.",
+    "Heat a large skillet over medium heat and add the beef strips, cooking until browned on all sides.",
+    "Remove the beef from the skillet and set aside, then add the sliced onion and cook until softened.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the liquid cheese to the skillet and stir until melted and smooth.",
+    "Return the beef strips to the skillet and stir to coat with the cheese sauce.",
+    "Add the dried bay leaves and water to the skillet, then bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes, until the sauce has thickened and the beef is tender.",
+    "Serve the bistek hot, garnished with additional calamansi juice and black pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "cheesy-dishes",
+    "comfort-food",
+    "filipino-food",
+    "steamed-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "savory-gooey-filipino-beef-bistek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-gooey-filipino-beef-bistek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:49:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "liquid cheese",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "savory gooey",
+    "dishForm": "Bistek"
+  }
+}
