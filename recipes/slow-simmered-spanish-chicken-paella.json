@@ -1,0 +1,100 @@
+{
+  "title": "Slow Simmered Spanish Chicken Paella",
+  "description": "This earthy and indulgent Spanish dish features chicken, rice, and vegetables in a rich and flavorful broth, made with plain flour and low-fat ingredients, and is low-fat-friendly as it uses minimal oil and no heavy sauces.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "plain flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Blanch the green beans in boiling water for 3 minutes, then set aside.",
+    "Heat 1 tablespoon of oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken to the pan and cook until browned, about 5 minutes.",
+    "Add the smoked paprika and saffron to the pan and cook for 1 minute.",
+    "Add the flour to the pan and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, diced tomatoes, and artichoke hearts to the pan, and stir to combine.",
+    "Add the rice to the pan, stirring to combine, and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes.",
+    "Add the blanched green beans and lemon juice to the pan, and stir to combine.",
+    "Continue to simmer, covered, for an additional 10 minutes, or until the rice is tender and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "comfort-food",
+    "low-fat",
+    "one-pan",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "slow-simmered-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-simmered-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:13:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "plain flour",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "slow simmered",
+    "dishForm": "Paella"
+  }
+}
