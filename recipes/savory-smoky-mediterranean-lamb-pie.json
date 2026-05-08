@@ -1,0 +1,104 @@
+{
+  "title": "Savory Smoky Mediterranean Lamb Pie",
+  "description": "A pungent and juicy Mediterranean dish featuring shortcrust pastry and lamb, cooked to perfection on a raclette grill with binchotan charcoal, this paleo friendly recipe is perfect for a romantic dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and diced"
+    },
+    {
+      "name": "shortcrust pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400 degrees Fahrenheit",
+    "In a large bowl, combine the diced lamb, olive oil, garlic, onion, tomato paste, dried oregano, salt, and black pepper, and mix well",
+    "Roll out the shortcrust pastry on a floured surface to a thickness of about 1/8 inch",
+    "Spoon the lamb mixture onto one half of the pastry, leaving a 1/2 inch border around the edges",
+    "Fold the other half of the pastry over the filling, and press the edges to seal",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape",
+    "Place the pie on the raclette grill, and cook for 25 minutes",
+    "After 25 minutes, add the binchotan charcoal to the grill, and continue cooking for an additional 10 minutes, or until the pastry is golden brown and the lamb is cooked through"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "mediterranean-cuisine",
+    "paleo-friendly",
+    "romantic-dinner",
+    "smoky-flavors",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "savory-smoky-mediterranean-lamb-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-smoky-mediterranean-lamb-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:22:33Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Savory Smoky",
+    "dishForm": "Pie"
+  }
+}
