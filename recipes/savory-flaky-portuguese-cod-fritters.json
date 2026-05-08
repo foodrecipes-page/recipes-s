@@ -1,0 +1,98 @@
+{
+  "title": "Savory Flaky Portuguese Cod Fritters",
+  "description": "A briny and comforting Portuguese dish featuring cod, stilton cheese, and a flaky texture, made paleo-friendly by using paleo-friendly ingredients and deep-frying to a crispy golden brown.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paleo-friendly seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Cut the cod fillets into small pieces and set aside.",
+    "In a large bowl, combine the almond flour, eggs, coconut milk, paleo-friendly seasoning blend, salt, and black pepper, and mix well.",
+    "Add the crumbled stilton cheese to the bowl and mix until just combined.",
+    "Add the cod pieces to the bowl and mix until they are fully coated with the cheese and flour mixture.",
+    "Heat the coconut oil in a deep frying pan to 350 degrees.",
+    "Using a spoon, drop small balls of the cod mixture into the hot oil and fry until golden brown, about 3-4 minutes.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "crunchy",
+    "fish-based",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "savory-flaky-portuguese-cod-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-flaky-portuguese-cod-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:28:41Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "stilton cheese",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "Savory Flaky",
+    "dishForm": "Fritters"
+  }
+}
