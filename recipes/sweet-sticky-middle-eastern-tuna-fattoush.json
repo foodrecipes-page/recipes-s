@@ -1,0 +1,101 @@
+{
+  "title": "Sweet Sticky Middle Eastern Tuna Fattoush",
+  "description": "A sweet and gooey Middle Eastern dish featuring tuna, perfect for meal prep, made with ayurvedic-sattvic-friendly ingredients in a fattoush form",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned tuna",
+      "amount": "12 oz",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 cups",
+      "notes": "torn into bite-sized pieces"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit",
+    "Toss the pita bread pieces with 1/2 tbsp of olive oil and cook in the air fryer for 5 minutes",
+    "In a large bowl, combine the mixed greens, cherry tomatoes, cucumber, and red onion",
+    "In a small bowl, whisk together the date syrup and lemon juice",
+    "Add the cooked pita bread pieces to the bowl with the mixed greens and toss to combine",
+    "Add the flaked tuna to the bowl and toss to combine",
+    "Drizzle the date syrup and lemon juice mixture over the top of the salad and toss to combine",
+    "Season with salt and pepper to taste",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "healthy-lunch",
+    "meal-prep",
+    "middle-eastern",
+    "sattvic-diet",
+    "tuna-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "sweet-sticky-middle-eastern-tuna-fattoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-sticky-middle-eastern-tuna-fattoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:53:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "tuna",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "tuna",
+    "descriptor": "Sweet Sticky",
+    "dishForm": "Fattoush"
+  }
+}
