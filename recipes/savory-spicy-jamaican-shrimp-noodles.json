@@ -1,0 +1,101 @@
+{
+  "title": "Savory Spicy Jamaican Shrimp Noodles",
+  "description": "A briny and juicy Jamaican dish featuring rice noodles and bhuna, perfect for a lazy Sunday, and is onion and garlic free.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian",
+    "spicy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large tava griddle over medium heat.",
+    "Add the diced scotch bonnet peppers and cook for 2 minutes.",
+    "Add the shrimp and cook until they are pink and fully cooked, about 4 minutes.",
+    "Remove the shrimp from the tava griddle and set aside.",
+    "In the same tava griddle, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the bhuna sauce, soy sauce, thyme, salt, and black pepper, and stir to combine.",
+    "Bring the sauce to a simmer and cook for 2 minutes.",
+    "Add the cooked rice noodles to the tava griddle and stir to combine with the sauce.",
+    "Return the cooked shrimp to the tava griddle and stir to combine with the noodles and sauce.",
+    "Cook for an additional 1 minute to heat the shrimp through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "noodle-dish",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 28,
+    "fat": 20
+  },
+  "slug": "savory-spicy-jamaican-shrimp-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spicy-jamaican-shrimp-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:40:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "rice noodles",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "shrimp",
+    "descriptor": "savory spicy",
+    "dishForm": "Noodles"
+  }
+}

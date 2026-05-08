@@ -1,0 +1,95 @@
+{
+  "title": "Sour Indulgent Spanish Provola Pa Amb Tomaquet",
+  "description": "A sour and indulgent Spanish dish featuring provola cheese, served with toasted bread and fresh tomato, originating from the Basque region.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "provola cheese",
+      "amount": "8 oz",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "4",
+      "notes": "fresh and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of 1/8 inch.",
+    "Place the sliced provola cheese on one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the cheese and press the edges to seal.",
+    "Brush the pastry with olive oil and sprinkle with salt and black pepper.",
+    "Place the pastry on a baking sheet and bake for 20 minutes, or until golden brown.",
+    "While the pastry is baking, mix the diced tomatoes, minced garlic, and lemon juice in a bowl.",
+    "Remove the pastry from the oven and let it cool for 5 minutes.",
+    "Serve the pastry with the tomato mixture spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basque-cuisine",
+    "cheese-lovers",
+    "indulgent-dishes",
+    "sour-flavors",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "sour-indulgent-spanish-provola-pa-amb-tomaquet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-indulgent-spanish-provola-pa-amb-tomaquet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:39:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "provola",
+    "diet": "nut-free",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "provola",
+    "descriptor": "sour indulgent",
+    "dishForm": "Pa Amb Tomaquet"
+  }
+}
