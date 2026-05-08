@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Brazilian Chicken Pilaf",
+  "description": "A pungent and flaky Brazilian dish featuring jasmine rice and chicken, perfect for a flexitarian diet",
+  "cuisine": "Brazilian",
+  "diet": [
+    "flexitarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent",
+    "Add the smoked paprika, salt, and black pepper to the skillet and stir to combine",
+    "Add the jasmine rice to the skillet and cook for 1-2 minutes, stirring constantly",
+    "Add the diced tomatoes and chicken broth to the skillet and bring to a boil",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the rice is tender",
+    "Fluff the pilaf with a fork and serve hot on a talavera plate"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "flexitarian-friendly",
+    "one-pot-meals",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "smoky-brazilian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-brazilian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:21:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "jasmine rice",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "spicy smoked",
+    "dishForm": "Pilaf"
+  }
+}
