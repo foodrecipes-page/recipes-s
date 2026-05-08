@@ -1,0 +1,93 @@
+{
+  "title": "Smoky Savory Filipino Potato Dumplings",
+  "description": "A yeasty and chewy Filipino dish featuring potato starch, with a smoky flavor, gluten-free friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato starch",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine potato starch, yeast, smoked paprika, and salt.",
+    "Gradually add in the vegetable oil and water, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Flatten each ball into a disk shape, and place a small amount of minced garlic and chopped onion in the center.",
+    "Fold the dough over the filling, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining dough and filling.",
+    "Steam the dumplings over boiling water for 15 minutes, or until they are cooked through.",
+    "Serve the dumplings hot, garnished with chopped green onions and a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino-food",
+    "gluten-free",
+    "smoky-flavors",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "smoky-savory-filipino-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-filipino-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:55:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "smoke-cold",
+    "primaryIngredient": "potato starch",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "potato",
+    "descriptor": "smoky savory",
+    "dishForm": "Dumplings"
+  }
+}
