@@ -1,0 +1,102 @@
+{
+  "title": "Smoky Savory German Cauliflower Skillet",
+  "description": "A vegan-friendly German dish featuring smoky cauliflower, this recipe is a one-pot wonder that is both flaky and umami-rich. It utilizes a bamboo tray for serving and an ice bath to shock the cauliflower.",
+  "cuisine": "German",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch the cauliflower florets for 5 minutes.",
+    "Immediately transfer the blanched cauliflower to an ice bath to shock it.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Stir in the smoked paprika, caraway seeds, and nutritional yeast, and cook for 1 minute.",
+    "Add the vegetable broth to the skillet and bring to a simmer.",
+    "Add the shocked cauliflower to the skillet and stir to combine with the smoky broth.",
+    "Season with salt and black pepper to taste.",
+    "Serve the smoky savory German cauliflower skillet in a bamboo tray, garnished with additional caraway seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower-recipes",
+    "german-cuisine",
+    "one-pot",
+    "plant-based",
+    "smoky-flavors",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "smoky-savory-german-cauliflower-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-german-cauliflower-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:12:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "cauliflower",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cauliflower",
+    "descriptor": "smoky savory",
+    "dishForm": "Skillet"
+  }
+}
