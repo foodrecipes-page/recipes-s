@@ -1,0 +1,106 @@
+{
+  "title": "Spicy Shattering French Kale Mille Feuille",
+  "description": "A spicy and crispy French dish featuring kale, shio-cure, and a flaky mille-feuille pastry, served on a wooden board, perfect for a sick day pick me up.",
+  "cuisine": "French",
+  "diet": [
+    "Fodmap Friendly",
+    "Gluten Free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups",
+      "notes": "curly leaf"
+    },
+    {
+      "name": "Shio Cure",
+      "amount": "1/4 cup",
+      "notes": "Japanese salt cure"
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Spicy Mayo",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Garlic Infused Oil",
+      "amount": "1/4 cup",
+      "notes": "Fodmap friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a lightly floured surface to a large rectangle.",
+    "In a small bowl, mix together the shio cure, salt, and black pepper.",
+    "Sprinkle the shio cure mixture evenly over the center of the pastry, leaving a 1 inch border on either side.",
+    "Arrange the kale leaves on top of the shio cure mixture in a decorative pattern.",
+    "Drizzle the spicy mayo over the kale leaves.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the pastry over the filling, pressing the edges to seal.",
+    "Use a sharp knife to cut the pastry into a decorative mille-feuille pattern.",
+    "Place the mille-feuille on a wooden board and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-food",
+    "kale-recipes",
+    "mille-feuille",
+    "sick-day-meals",
+    "spicy-food",
+    "wooden-board-presentation"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 28
+  },
+  "slug": "spicy-shattering-french-kale-mille-feuille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-shattering-french-kale-mille-feuille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:25:48Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "shio-cure",
+    "primaryIngredient": "kale",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "kale",
+    "descriptor": "Spicy Shattering",
+    "dishForm": "Mille Feuille"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Steamed Savory Tunisian Beef Fillet Tagine",
+  "description": "A romantic Tunisian dish featuring beef fillet, steam, and halal-friendly ingredients, cooked to perfection in a copper pot. This funky and aerated dish is sure to impress your guests.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the copper pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the beef fillet pieces and cook until they are browned on all sides.",
+    "Add the cumin, coriander, paprika, salt, and black pepper, and stir to combine.",
+    "Pour in 1 cup of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Steam the mixture for an additional 10 minutes, or until the beef is cooked to an internal temperature of 145 degrees.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "copper-pot-recipes",
+    "halal-friendly",
+    "romantic-dinners",
+    "steamed-dishes",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "steamed-savory-tunisian-beef-fillet-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/steamed-savory-tunisian-beef-fillet-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:25:44Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "beef fillet",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "beef fillet",
+    "descriptor": "steamed savory",
+    "dishForm": "Tagine"
+  }
+}
