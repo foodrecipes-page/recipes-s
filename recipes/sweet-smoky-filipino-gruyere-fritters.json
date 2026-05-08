@@ -1,0 +1,93 @@
+{
+  "title": "Sweet Smoky Filipino Gruyere Fritters",
+  "description": "A fermented and fluffy Filipino dish featuring Gruyere cheese, deep-fried to perfection, and suitable for diabetic-friendly diets.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, sugar, and smoked paprika.",
+    "In a separate bowl, whisk together the eggs and shredded Gruyere cheese.",
+    "Add the egg mixture to the dry ingredients and mix until a smooth batter forms.",
+    "Knead the batter for 5 minutes until it becomes elastic and fluffy.",
+    "Let the batter rest in a warm place for 1 hour, or until it has doubled in size.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the batter into the hot oil, about 1/4 cup each.",
+    "Fry the fritters for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the Sweet Smoky Filipino Gruyere Fritters warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "filipino-food",
+    "gruyere-cheese",
+    "snack-ideas",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "sweet-smoky-filipino-gruyere-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-smoky-filipino-gruyere-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:38:12Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "gruy re",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Gruyere",
+    "descriptor": "Sweet Smoky",
+    "dishForm": "Fritters"
+  }
+}
