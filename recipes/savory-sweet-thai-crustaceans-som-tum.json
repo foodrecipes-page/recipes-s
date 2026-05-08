@@ -1,0 +1,104 @@
+{
+  "title": "Savory Sweet Thai Crustaceans Som Tum",
+  "description": "A yeasty, fluffy, and savory Thai dish featuring crustaceans, ssam-wrap, and flexitarian-friendly ingredients, perfect for a midnight craving. This central-Thai inspired recipe combines the freshness of som tum with the richness of crustaceans.",
+  "cuisine": "Thai",
+  "diet": [
+    "flexitarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast, flour, and a pinch of salt, then gradually add coconut milk and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rest in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Cook the dough circles for 2 minutes on each side, or until they are lightly browned and crispy.",
+    "In a separate pan, heat fish sauce, lime juice, chili flakes, and palm sugar over low heat, stirring until the sugar has dissolved.",
+    "Add the shrimp to the pan and cook for 2-3 minutes, or until they are pink and fully cooked.",
+    "To assemble the som tum, place a cooked dough circle on a lettuce leaf, top with a shrimp, and spoon some of the sauce over the top.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "seafood",
+    "snack",
+    "street-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "savory-sweet-thai-crustaceans-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sweet-thai-crustaceans-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:35:25Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "crustaceans",
+    "diet": "flexitarian",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "crustaceans",
+    "descriptor": "Savory Sweet",
+    "dishForm": "Som Tum"
+  }
+}
