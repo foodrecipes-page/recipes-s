@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Polish Potato Casserole",
+  "description": "A charred, gooey, festive Polish dish featuring white chocolate chips, perfect for the holidays.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4"
+    },
+    {
+      "name": "White Chocolate Chips",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1/4 cup",
+      "notes": "grade B"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Pierce the potatoes with a fork several times and bake for 45 minutes, or until tender.",
+    "Let the potatoes cool slightly before scooping out the flesh.",
+    "In a large skillet, heat the coconut oil over medium heat.",
+    "Add the smoked paprika, garlic powder, salt, and black pepper, cooking for 1 minute, stirring constantly.",
+    "Stir in the maple syrup and white chocolate chips until melted and smooth.",
+    "Spoon the potato flesh into a 9x13 inch baking dish.",
+    "Pour the sauce over the potatoes and top with chopped chives.",
+    "Bake for 20 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Serve hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "holiday",
+    "one-pan",
+    "polish-cuisine",
+    "satisfying",
+    "smoky",
+    "vegan-dessert",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "smoky-polish-potato-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-polish-potato-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T17:17:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "smoke-hot",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Smoky",
+    "dishForm": "Casserole"
+  }
+}
