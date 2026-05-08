@@ -1,0 +1,105 @@
+{
+  "title": "Silky Smooth Middle Eastern Chestnut Mushroom Labneh",
+  "description": "A fresh and creamy Middle Eastern dish featuring chestnut mushroom, served in a cazuela, this labneh is a perfect blend of flavors and textures, gluten-free-friendly and indulgent.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chestnut mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "leaf wraps",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the labneh cheese, lemon juice, salt, and black pepper.",
+    "In a large skillet, heat the olive oil over medium heat and saute the sliced chestnut mushrooms until they are tender.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Stir the cooked mushroom mixture into the labneh cheese mixture.",
+    "Arrange the leaf wraps in a large cazuela, overlapping them to cover the bottom.",
+    "Spoon the labneh and mushroom mixture into the center of the leaf wraps.",
+    "Fold the leaf wraps over the filling to create a tight packet.",
+    "Steam the packet over boiling water for 10 minutes.",
+    "Garnish with chopped fresh parsley and mint."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela-recipes",
+    "gluten-free",
+    "labneh-recipes",
+    "middle-eastern",
+    "mushroom-lovers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "silky-smooth-middle-eastern-chestnut-mushroom-labneh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-middle-eastern-chestnut-mushroom-labneh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:38:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "Silky Smooth",
+    "dishForm": "Labneh"
+  }
+}
