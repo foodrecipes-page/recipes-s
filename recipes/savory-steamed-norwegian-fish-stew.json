@@ -1,0 +1,100 @@
+{
+  "title": "Savory Steamed Norwegian Fish Stew",
+  "description": "A low-fat Norwegian dish featuring fish, pickle juice, and steamed to perfection in a banana leaf, this stew is a briny and juicy meal prep option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fish",
+      "amount": "1 pound",
+      "notes": "fresh, cut into 1-inch pieces"
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fish pieces under cold water and pat them dry with paper towels.",
+    "In a large bowl, whisk together pickle juice, water, salt, and black pepper.",
+    "Add the cod fish pieces to the bowl and marinate for 10 minutes.",
+    "Prepare the banana leaves by cutting them into 12-inch squares and washing them under cold water.",
+    "In the center of each banana leaf square, place a piece of cod fish, some sliced carrots, cubed potatoes, and chopped onion.",
+    "Pour some of the marinade over the fish and vegetables, making sure everything is well coated.",
+    "Fold the banana leaves over the filling to form a tight package and secure with a toothpick if needed.",
+    "Place the packages in a large steamer basket and steam over boiling water for 15 minutes.",
+    "Serve the stew hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "fish-stew",
+    "low-fat",
+    "meal-prep",
+    "norwegian",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "savory-steamed-norwegian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-steamed-norwegian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:33:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "pickle juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Savory Steamed",
+    "dishForm": "Stew"
+  }
+}
