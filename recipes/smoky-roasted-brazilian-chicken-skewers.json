@@ -1,0 +1,94 @@
+{
+  "title": "Smoky Roasted Brazilian Chicken Skewers",
+  "description": "A light and juicy Brazilian dish featuring chicken skewers roasted to perfection with a smoky sugar syrup, perfect for a low-glycemic diet",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, coconut sugar, lime juice, olive oil, garlic, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 20-25 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the smoky sugar syrup by heating 2 tablespoons of coconut sugar over low heat until caramelized.",
+    "Brush the smoky sugar syrup onto the chicken skewers during the last 5 minutes of cooking.",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "grilled-chicken",
+    "healthy-dinner",
+    "low-glycemic",
+    "roasted-vegetables",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "smoky-roasted-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:29:37Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "sugar syrup",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "smoky roasted",
+    "dishForm": "Skewers"
+  }
+}

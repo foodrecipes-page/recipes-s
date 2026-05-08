@@ -1,0 +1,97 @@
+{
+  "title": "Savoury Brazilian Cherry Skewers",
+  "description": "A peppery and crumbly Brazilian-inspired dish featuring cherry tomatoes, perfect for a date night.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint (about 40 cherry tomatoes)"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "add to taste"
+    },
+    {
+      "name": "Crumbly Queso Fresco",
+      "amount": "1/4 cup",
+      "notes": "crumbly cheese"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your yakimono grill to 400°F (200°C).",
+    "Thread cherry tomatoes, cilantro, garlic, and red pepper flakes onto skewers.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Top each skewer with crumbly queso fresco and a squeeze of lime juice.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "date-night",
+    "easy-to-make",
+    "grilled",
+    "kosher-friendly",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "savoury-brazilian-cherry-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/savoury-brazilian-cherry-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "cherry",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cherry",
+    "descriptor": "savoury",
+    "dishForm": "skewers"
+  }
+}

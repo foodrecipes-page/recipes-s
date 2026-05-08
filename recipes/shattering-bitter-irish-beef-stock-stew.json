@@ -1,0 +1,130 @@
+{
+  "title": "shattering bitter irish beef stock stew",
+  "description": "a hearty, comforting stew perfect for the holiday season. its bitter flavors and tender beef will leave you wanting more.",
+  "cuisine": "irish",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "brined beef short ribs",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "mirepoix (onion, carrot, celery)",
+      "amount": "1 large each",
+      "notes": ""
+    },
+    {
+      "name": "turnips",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "parsnips",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "browning sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "in a large pot or Dutch oven, brown the short ribs over medium-high heat until browned on all sides.",
+    "remove the browned ribs from the pot and set aside.",
+    "add the mirepoix to the pot and cook until the vegetables are softened, about 5 minutes.",
+    "add the turnips, parsnips, salt, and pepper to the pot and cook for an additional 5 minutes.",
+    "add the water to the pot and bring to a boil.",
+    "return the short ribs to the pot and reduce the heat to low.",
+    "simmer the stew for 2 hours, or until the meat is tender and falling off the bone.",
+    "remove the pot from the heat and stir in the black treacle, browning sauce, allspice, and cinnamon.",
+    "stir in the butter until melted.",
+    "serve the stew hot, garnished with chopped parsley.",
+    "if desired, serve with crusty bread or over mashed potatoes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "holiday",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 50,
+    "carbs": 50,
+    "fat": 40
+  },
+  "slug": "shattering-bitter-irish-beef-stock-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-bitter-irish-beef-stock-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:28:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "beef stock",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef stock",
+    "descriptor": "shattering bitter",
+    "dishForm": "Stew"
+  }
+}
