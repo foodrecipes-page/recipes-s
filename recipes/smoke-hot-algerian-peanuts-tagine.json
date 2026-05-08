@@ -1,0 +1,93 @@
+{
+  "title": "smoke-hot algerian peanuts tagine",
+  "description": "nutty, glassy-jelly, sick-day algerian dish featuring peanut oil and a hint of smokiness. a perfect buddhist-temple-friendly comfort food.",
+  "cuisine": "algerian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "250",
+      "notes": "raw"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "heat the peanut oil in a large saucepan over medium heat.",
+    "add the cumin seeds and let them sizzle for 1 minute.",
+    "add the peanuts and cook, stirring frequently, until they are lightly toasted, about 8 minutes.",
+    "add the coriander powder, paprika, salt, and black pepper, and stir to combine.",
+    "cook for an additional 2 minutes, stirring frequently.",
+    "reduce heat to low and simmer, stirring occasionally, for 15 minutes, or until the peanuts are glassy and the mixture is fragrant.",
+    "stir in the smoked paprika and cook for 1 minute.",
+    "transfer the tagine to a serving dish and let it cool slightly.",
+    "serve warm, garnished with chopped cilantro or parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "snack-ideas",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "smoke-hot-algerian-peanuts-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-algerian-peanuts-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:55:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "smoke-hot",
+    "primaryIngredient": "peanut oil",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "peanuts",
+    "descriptor": "smoke-hot",
+    "dishForm": "Tagine"
+  }
+}
