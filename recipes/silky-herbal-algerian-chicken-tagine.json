@@ -49,7 +49,7 @@
       "amount": "2 tbsp"
     },
     {
-      "name": "low\u2011sodium chicken broth",
+      "name": "low‑sodium chicken broth",
       "amount": "250 ml"
     },
     {
@@ -69,23 +69,24 @@
       "amount": "to taste"
     },
     {
-      "name": "vacuum\u2011seal bag",
+      "name": "vacuum‑seal bag",
       "amount": "1",
-      "notes": "for sous\u2011vide"
+      "notes": "for sous‑vide"
     }
   ],
   "instructions": [
-    "Preheat your sous\u2011vide circulator to 65\u202f\u00b0C (149\u202f\u00b0F).",
+    "Preheat your sous‑vide circulator to 65 °C (149 °F).",
     "Season the chicken breasts with salt, pepper, ground cinnamon, cumin, coriander, paprika, and ginger.",
-    "Lay the sliced onion and minced garlic in the bottom of a vacuum\u2011seal bag, then place the seasoned chicken on top.",
+    "Lay the sliced onion and minced garlic in the bottom of a vacuum‑seal bag, then place the seasoned chicken on top.",
     "Add the lemon juice, a splash of chicken broth, and drizzle with olive oil. Seal the bag using a vacuum sealer.",
-    "Submerge the sealed bag into the preheated water bath and cook for 90\u202fminutes.",
-    "After the sous\u2011vide, remove the bag and pat the chicken dry with paper towels. Heat a non\u2011stick skillet over medium\u2011high heat and sear the chicken for 2\u20133\u202fminutes per side until golden.",
-    "Transfer the seared chicken to a shallow pan, pour a little of the cooking liquid left in the bag, and simmer gently for 5\u202fminutes to develop sauce.",
+    "Submerge the sealed bag into the preheated water bath and cook for 90 minutes.",
+    "After the sous‑vide, remove the bag and pat the chicken dry with paper towels. Heat a non‑stick skillet over medium‑high heat and sear the chicken for 2–3 minutes per side until golden.",
+    "Transfer the seared chicken to a shallow pan, pour a little of the cooking liquid left in the bag, and simmer gently for 5 minutes to develop sauce.",
     "Stir in chopped cilantro and parsley, adjust seasoning with extra salt or pepper if needed.",
     "Serve the silky chicken and sauce over a bed of couscous, rice, or flatbread if desired.",
     "Garnish with extra fresh herbs and a squeeze of lemon.",
-    "Enjoy a fragrant, low\u2011fat tagine that\u2019s perfect for crowd\u2011pleasing gatherings."
+    "Enjoy a fragrant, low‑fat tagine that’s perfect for crowd‑pleasing gatherings.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "slug": "silky-herbal-algerian-chicken-tagine",
   "source": "ocloud-gpt-oss:20b",
@@ -119,5 +120,9 @@
   "tags": [
     "algerian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
   ]
 }

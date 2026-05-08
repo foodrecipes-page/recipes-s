@@ -47,7 +47,7 @@
     },
     {
       "name": "Black pepper",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "Breadcrumbs",
@@ -55,16 +55,17 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 180\u202f\u00b0C (350\u202f\u00b0F).",
-    "Heat olive oil in a large skillet over medium heat and saut\u00e9 onions until translucent, about 5 minutes.",
+    "Preheat the oven to 180 °C (350 °F).",
+    "Heat olive oil in a large skillet over medium heat and sauté onions until translucent, about 5 minutes.",
     "Add garlic and cook for 1 more minute until fragrant.",
     "Add diced pork to the skillet and brown on all sides, about 8 minutes.",
     "Stir in smoked paprika, Jamaican curry powder, salt, pepper, and tomato paste; cook for 2 minutes to meld flavors.",
     "Pour in beef broth and add pickled cabbage, stirring well. Reduce heat and simmer uncovered for 10 minutes to thicken the sauce slightly.",
     "Transfer the mixture to a greased baking dish and spread evenly.",
     "Sprinkle breadcrumbs evenly over the top.",
-    "Bake in the preheated oven for 35\u201340 minutes, or until the breadcrumbs are golden brown and the pork is cooked through.",
-    "Remove from oven and let rest for 5 minutes before serving."
+    "Bake in the preheated oven for 35–40 minutes, or until the breadcrumbs are golden brown and the pork is cooked through.",
+    "Remove from oven and let rest for 5 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "slug": "smoky-crumbly-slovakian-pork-casserole",
   "source": "ocloud-gpt-oss:20b",
@@ -98,5 +99,9 @@
   "tags": [
     "slovakian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
   ]
 }

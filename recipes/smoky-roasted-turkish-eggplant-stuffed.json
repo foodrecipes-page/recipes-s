@@ -3,8 +3,7 @@
   "description": "Imam Bayildi, a classic Turkish dish featuring roasted eggplants stuffed with a tangy pasta-water emulsion, black pepper, and herbs. Perfect for hangover cures or as a side dish.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
   "difficulty": "hard",
   "tags": [
     "easy-side-dish",
-    "gluten-free",
     "hangover-cure",
     "one-pan",
     "turkish",
@@ -101,5 +99,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Smoky Roasted",
     "dishForm": "Stuffed"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

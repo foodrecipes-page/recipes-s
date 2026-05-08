@@ -2,9 +2,7 @@
   "title": "sour flaky indulgent filipino caraway seed bisque",
   "description": "a rich and creamy bisque with a sour kick and crispy, flaky crust, inspired by traditional filipino flavors and ingredients.",
   "cuisine": "filipino",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -90,8 +88,7 @@
     "creamy",
     "fall",
     "filipino",
-    "soup",
-    "vegan"
+    "soup"
   ],
   "nutrition": {
     "calories": 420,
@@ -116,5 +113,9 @@
     "mainIngredient": "Caraway seed",
     "descriptor": "Sour flaky indulgent",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

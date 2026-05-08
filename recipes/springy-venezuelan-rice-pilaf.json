@@ -3,7 +3,6 @@
   "description": "A winey, spring-inspired venezuelan dish featuring brown rice and a savory miso marinate, perfect for no-onion-no-garlic diets.",
   "cuisine": "venezuelan",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -61,7 +60,8 @@
     "If using saffron threads, stir them in for an additional minute to let the flavor infuse.",
     "Taste and adjust the seasoning as needed.",
     "Serve the springy rice pilaf hot, garnished with chopped cilantro if desired.",
-    "Store leftovers in an airtight container in the refrigerator for up to 5 days or freeze for up to 2 months"
+    "Store leftovers in an airtight container in the refrigerator for up to 5 days or freeze for up to 2 months",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -99,5 +99,10 @@
     "mainIngredient": "rice",
     "descriptor": "springy",
     "dishForm": "pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

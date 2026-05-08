@@ -80,11 +80,15 @@
     "mood": "light",
     "technique": "knead",
     "primaryIngredient": "gochujang",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "Algerian",
     "mainIngredient": "Chickpeas",
     "descriptor": "Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -78,11 +78,15 @@
     "mood": "meal-prep",
     "technique": "ferment",
     "primaryIngredient": "ground cinnamon",
-    "diet": "pescatarian",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Filipino",
     "mainIngredient": "Tofu",
     "descriptor": "Spicy Dense Fermented",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -68,7 +68,8 @@
     "Add the uncooked fideua rice and cook, stirring constantly, for 2 minutes.",
     "Add the white wine vinegar and stir to combine.",
     "Cook, covered, for 5 minutes, or until the rice is tender and the liquid has been absorbed.",
-    "Fluff the fideua with a fork and serve hot."
+    "Fluff the fideua with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -106,5 +107,9 @@
     "mainIngredient": "rice",
     "descriptor": "Smoky",
     "dishForm": "Fideua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

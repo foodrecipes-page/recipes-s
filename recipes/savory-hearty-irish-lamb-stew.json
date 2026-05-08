@@ -3,7 +3,6 @@
   "description": "A rich and cozy Irish dish featuring fresh thyme and tender lamb, perfect for a cold winter's night, with anti-inflammatory properties from the thyme and other ingredients.",
   "cuisine": "Irish",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -113,5 +112,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Savory Hearty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

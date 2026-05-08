@@ -40,7 +40,8 @@
     "Stir in sage leaves and blend with a fork or immersion blender.",
     "Gradually add low-sodium chicken broth while blending.",
     "Simmer for about 10 minutes until thickened slightly.",
-    "Season with salt and pepper to taste."
+    "Season with salt and pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -71,5 +72,9 @@
     "primaryIngredient": "sage",
     "diet": "low-sodium",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

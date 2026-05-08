@@ -70,7 +70,8 @@
     "Add the prunes, chicken broth, and honey to the pot, stirring to combine.",
     "Transfer the pot to the preheated oven and cook for 1 1/2 hours, or until the chicken is tender and the sauce has thickened.",
     "Stir in the freshly chopped parsley and cook for an additional 10 minutes.",
-    "Serve the tagine hot, garnished with additional parsley if desired."
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -108,5 +109,9 @@
     "mainIngredient": "speculaas spice mix",
     "descriptor": "Smoky Zesty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -56,7 +56,8 @@
     "Heat a large pot over medium heat. Add olive oil and sauté diced onion and minced garlic until translucent.",
     "Add sliced beef, crumbled black olives, salt, cayenne pepper, flour, and tomato puree to the pot. Stir well.",
     "Pour in chicken broth and bring to a boil. Reduce heat to low and let it simmer for about 45 minutes or until the beef is tender.",
-    "Add sliced carrots and potatoes after 30 minutes of cooking. Continue to cook until the vegetables are soft and the stew has thickened slightly."
+    "Add sliced carrots and potatoes after 30 minutes of cooking. Continue to cook until the vegetables are soft and the stew has thickened slightly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -87,5 +88,9 @@
     "primaryIngredient": "beef fillet",
     "diet": "high-protein",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

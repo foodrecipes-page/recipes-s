@@ -65,7 +65,9 @@
     "Return the chicken to the pot, pour in the chicken broth, and bring to a boil.",
     "Reduce heat to low, cover, and simmer for 25 minutes or until the chicken is tender.",
     "Stir in the cooked chickpeas and shredded flatbread, cooking until the bread absorbs liquid and thickens, about 5 minutes.",
-    "Taste and adjust seasoning with additional salt or pepper if needed; serve hot with lemon wedges on the side."
+    "Taste and adjust seasoning with additional salt or pepper if needed; serve hot with lemon wedges on the side.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -103,5 +105,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Salty",
     "dishForm": "Rfissa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A rich, slow-cooked stew featuring tender dried white navy beans with a hint of smokiness from dried chili flakes and aromatic spices. High-protein and perfect for a hearty dinner.",
   "cuisine": "chinese",
   "diet": [
-    "high-protein",
-    "vegetarian"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Add soaked beans and coconut milk. Bring to a boil, then reduce heat to low.",
     "Cover and cook for 1 hour, stirring occasionally to prevent sticking.",
     "Add remaining 1 cup water and simmer for another 20 minutes until beans are tender.",
-    "Adjust seasoning with a pinch of salt and a splash of water if needed."
+    "Adjust seasoning with a pinch of salt and a splash of water if needed.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 60,
@@ -79,7 +79,6 @@
     "highprotein",
     "driedbeans",
     "smoky",
-    "vegetarian",
     "hearty"
   ],
   "nutrition": {
@@ -105,5 +104,10 @@
     "mainIngredient": "dried white navy beans",
     "descriptor": "smoky",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-pork_no_temp"
+  ]
 }

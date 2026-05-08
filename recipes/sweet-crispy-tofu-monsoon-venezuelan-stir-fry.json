@@ -2,9 +2,7 @@
   "title": "Sweet Crispy Tofu Monsoon Venezuelan Stir-fry",
   "description": "A savory and sweet monsoon-inspired dish featuring crispy tofu with a tangy BBQ sauce, pickled vegetables, and dairy-free cheese for a unique twist on traditional cuisine.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -50,13 +48,14 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400\u00b0F (200\u00b0C). Line a baking sheet with parchment paper.",
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
     "Chop the tofu into cubes and season lightly with salt and pepper. Pat dry with paper towels.",
     "Arrange tofu cubes on the prepared baking sheet, drizzle with oil, and bake for about 15 minutes until golden brown.",
     "In a medium pan over medium heat, combine tomato sauce, barbecue sauce, pickled vegetables, chopped onion, minced garlic, and salt and pepper. Simmer for about 5-7 minutes to let flavors meld together.",
     "Remove the tofu from the oven and slice into smaller pieces if needed. Add sliced tofu to the simmering mixture. Stir well until fully combined with the sauce.",
     "Add finely grated dairy-free cheese to the pan, stirring continuously until cheese melts and sauce thickens slightly, about 1-2 minutes more.",
-    "Serve warm as a snack or side dish."
+    "Serve warm as a snack or side dish.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 15,
@@ -92,5 +91,10 @@
     "mainIngredient": "Tofu",
     "descriptor": "Sweet Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

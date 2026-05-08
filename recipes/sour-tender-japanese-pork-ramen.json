@@ -59,7 +59,8 @@
     "Remove the pork from the pot and shred it into bite-sized pieces. Return the shredded pork to the pot and stir to combine.",
     "Cook the ramen noodles according to the package instructions. Drain and set aside.",
     "To assemble the ramen, place some noodles in a bowl, then add sliced pork, chopped scallions, and a ladle of the hot broth.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -98,5 +99,9 @@
     "mainIngredient": "pork",
     "descriptor": "sour tender",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

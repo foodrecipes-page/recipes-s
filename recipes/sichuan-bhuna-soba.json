@@ -64,7 +64,8 @@
     "Next, add the ground meat (bhuna) to the wok, cooking until it turns brown. Season with ground fennel seeds and cook for an additional 2 minutes.",
     "Pour in the beef broth or water, soy sauce, and sichuan peppercorns into the wok. Bring to a simmer and let the flavors meld together.",
     "Finally, add cooked soba noodles to the wok, tossing them well to coat with the flavorful sauce. Let everything heat through for about 2 minutes before serving.",
-    "Garnish with more spring onions if desired."
+    "Garnish with more spring onions if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 15,
@@ -97,5 +98,9 @@
     "primaryIngredient": "sichuan pepper",
     "diet": "fodmap",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -89,7 +89,6 @@
   "tags": [
     "chocolate-free",
     "german",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vegetarian",
@@ -118,5 +117,9 @@
     "mainIngredient": "cheddar cheese",
     "descriptor": "smoky",
     "dishForm": "Fried"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

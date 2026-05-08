@@ -86,7 +86,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "mexican",
     "one-pan",
     "weeknight"
@@ -114,5 +113,9 @@
     "mainIngredient": "Totopos",
     "descriptor": "Smoke-hot Crispy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "Thai",
   "diet": [
     "gluten-free",
-    "dairy-free",
     "kosher-style"
   ],
   "meal": "dinner",
@@ -101,11 +100,16 @@
     "mood": "romantic",
     "technique": "ferment",
     "primaryIngredient": "oysters",
-    "diet": "kosher",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Thai",
     "mainIngredient": "Oysters",
     "descriptor": "Silky Earthy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "aligned-axes-diet"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A creative twist on traditional bao, featuring the tender callaloo greens, perfect for a kid-friendly Canadian meal. This halal-friendly dish is easy to make and fun to eat.",
   "cuisine": "Canadian",
   "diet": [
-    "halal",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -67,7 +66,7 @@
     "Gradually add buttermilk, mixing until a dough forms.",
     "Knead the dough for 10 minutes, until smooth.",
     "Place the dough in a greased bowl, cover, and let rise in a warm place for 1 hour.",
-    "Preheat oven to 375\u00b0F (190\u00b0C). Line a baking sheet with parchment paper.",
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
     "Divide the dough into 8 equal pieces. Roll out each piece into a ball and flatten slightly into a disk.",
     "In a pan, heat 1 tablespoon of vegetable oil over medium heat. Add minced garlic and grated ginger. Cook for 1 minute.",
     "Add callaloo greens to the pan, cooking until wilted. Season with soy sauce and sesame oil.",
@@ -86,7 +85,6 @@
     "canadian-cuisine",
     "callaloo",
     "bao",
-    "halal",
     "kid-friendly",
     "vegetarian",
     "easy-to-make"
@@ -114,5 +112,9 @@
     "mainIngredient": "Callaloo",
     "descriptor": "Silky",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A light and spicy post-workout meal featuring tenderized feather blade beef cooked sous-vide for an unparalleled raw-friendly experience.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegetarian",
     "raw-friendly"
   ],
   "meal": "dinner",
@@ -63,5 +62,9 @@
     "primaryIngredient": "feather blade beef",
     "diet": "raw",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

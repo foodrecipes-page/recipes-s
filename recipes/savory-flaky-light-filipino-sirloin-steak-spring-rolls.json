@@ -3,7 +3,6 @@
   "description": "A Filipino-inspired dish featuring tender sirloin steak wrapped in a flaky and light spring roll pastry, perfect for a snack or appetizer. This recipe combines the richness of steak with the freshness of Filipino flavors.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "snack",
@@ -100,5 +99,9 @@
     "mainIngredient": "sirloin steak",
     "descriptor": "savory flaky light",
     "dishForm": "Spring Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -37,7 +37,8 @@
     "Pour in chicken broth or water, increase heat to bring the mixture to a simmer.",
     "Reduce heat to low and let it thicken into a sauce. Stir occasionally until desired consistency is reached (about 15 minutes).",
     "Season with salt to taste.",
-    "Serve hot over steamed vegetables if desired."
+    "Serve hot over steamed vegetables if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -72,5 +73,9 @@
     "mainIngredient": "Butter",
     "descriptor": "salty-dense",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

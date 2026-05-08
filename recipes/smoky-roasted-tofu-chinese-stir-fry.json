@@ -60,7 +60,8 @@
     "Add ginger to the skillet and cook for an additional minute.",
     "Stir-fry shredded spring onions, lemongrass (chopped), and roasted tofu together in the skillet. Pour in sauce mixture and broth. Stir well to combine.",
     "Simmer for another 3-4 minutes until slightly thickened.",
-    "Serve hot with steamed rice or noodles."
+    "Serve hot with steamed rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -95,5 +96,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Smoky Roasted",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

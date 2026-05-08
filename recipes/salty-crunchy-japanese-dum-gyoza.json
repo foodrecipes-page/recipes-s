@@ -59,7 +59,9 @@
     "Place a tablespoon of the pork mixture in the center of each dough circle. Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the dumpling.",
     "Heat a large non-stick skillet or wok over medium-high heat. Add a small amount of sesame oil to the pan and swirl to coat.",
     "Add the dumplings to the pan and cook for 2-3 minutes on each side, until golden brown and crispy. Repeat with the remaining dumplings.",
-    "Serve the gyoza hot with a crunchy dill pickle topping. Garnish with additional green onion and sesame seeds, if desired."
+    "Serve the gyoza hot with a crunchy dill pickle topping. Garnish with additional green onion and sesame seeds, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 15,
@@ -98,5 +100,10 @@
     "mainIngredient": "dum",
     "descriptor": "salty crunchy",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

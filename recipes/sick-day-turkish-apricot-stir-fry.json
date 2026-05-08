@@ -33,7 +33,8 @@
     "Add the prosciutto slices and cook for about 2 minutes per side until golden brown. Remove from pan and set aside.",
     "In the same pan, add minced garlic and sauté for 30 seconds to soften slightly.",
     "Fold in chopped apricots with a drizzle of honey or maple syrup; let it warm through for 2-3 minutes.",
-    "Garnish with finely chopped parsley just before serving."
+    "Garnish with finely chopped parsley just before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 5,
@@ -68,5 +69,9 @@
     "mainIngredient": "Apricot",
     "descriptor": "Sick-day",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

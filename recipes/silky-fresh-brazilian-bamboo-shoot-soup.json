@@ -3,8 +3,7 @@
   "description": "A silky, crowd-pleasing Brazilian soup featuring tender bamboo shoots, coconut milk, and fermented fish sauce, all gluten-free and packed with fresh herbs.",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -99,7 +98,6 @@
   "tags": [
     "brazilian-soup",
     "gluten-free",
-    "vegan",
     "silky-soup"
   ],
   "nutrition": {
@@ -125,5 +123,9 @@
     "mainIngredient": "Bamboo Shoot",
     "descriptor": "Silky Fresh",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

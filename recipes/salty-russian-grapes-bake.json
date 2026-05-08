@@ -3,9 +3,7 @@
   "description": "A nostalgic Russian-inspired dessert featuring crispy grape skins with a salty, sweet glaze. Perfect as a snack or dessert.",
   "cuisine": "russian",
   "diet": [
-    "egg-free",
-    "gluten-free",
-    "nut-free"
+    "egg-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -40,7 +38,7 @@
     "In a small bowl, mix honey, cinnamon, and salt until combined.",
     "Toss grapes gently in the honey-cinnamon-salt mixture until evenly coated.",
     "Spread grapes in a single layer on a baking sheet lined with parchment paper.",
-    "Bake at 325\u00b0F (163\u00b0C) for 12-15 minutes, or until skins are crisp and golden.",
+    "Bake at 325°F (163°C) for 12-15 minutes, or until skins are crisp and golden.",
     "Remove from oven and let cool for 5 minutes before serving."
   ],
   "prepTimeMin": 5,
@@ -55,8 +53,7 @@
     "crispy",
     "salty",
     "grapes",
-    "egg-free",
-    "gluten-free"
+    "egg-free"
   ],
   "nutrition": {
     "calories": 120,
@@ -82,5 +79,10 @@
     "descriptor": "Salty",
     "dishForm": "Bake"
   },
-  "cookTimeMin": 25
+  "cookTimeMin": 25,
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-nut-free"
+  ]
 }

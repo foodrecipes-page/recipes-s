@@ -47,7 +47,8 @@
     "Add sliced potatoes, onions, and ginger to the wok. Stir-fry until they start to brown, about 5 minutes.",
     "Mix together hoisin sauce, soy sauce, cornstarch, and water or broth into a slurry. Pour this mixture into the wok with the vegetables.",
     "Stir continuously for an additional 2-3 minutes until the potatoes are tender and coated with a sweet hoisin glaze.",
-    "Season with salt to taste if needed. Serve hot."
+    "Season with salt to taste if needed. Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -84,5 +85,9 @@
     "mainIngredient": "Potato",
     "descriptor": "Comfortable Sweet",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

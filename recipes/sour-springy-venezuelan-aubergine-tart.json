@@ -4,9 +4,7 @@
   "cuisine": "venezuelan",
   "diet": [
     "low-glycemic",
-    "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -91,14 +89,11 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "dessert",
-    "gluten-free",
     "low-glycemic",
     "one-pan",
     "spring",
     "tart",
-    "vegan",
     "venezuelan",
     "weeknight"
   ],
@@ -125,5 +120,11 @@
     "mainIngredient": "aubergine",
     "descriptor": "sour springy",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

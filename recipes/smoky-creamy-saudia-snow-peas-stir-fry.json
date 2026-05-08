@@ -2,9 +2,7 @@
   "title": "Smoky Creamy Saudia Snow Peas Stir-fry",
   "description": "This quick-fix smoky and creamy saudi arabian dish features snow peas in a dairy-free sauce that is both satisfying and comforting.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -70,8 +68,7 @@
     "smoky",
     "creamy",
     "snow-peas",
-    "stir-fry",
-    "dairy-free"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 250,
@@ -96,5 +93,9 @@
     "mainIngredient": "Snow Peas",
     "descriptor": "Smoky Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

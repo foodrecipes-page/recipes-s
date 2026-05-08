@@ -63,7 +63,9 @@
     "Add the chopped walnuts and cook for 2 minutes, until they are lightly toasted.",
     "Pour in the low-sodium chicken broth and bring the mixture to a simmer.",
     "Transfer the skillet to the preheated oven and cook for 20 minutes, until the sauce has thickened and the flavors have melded together.",
-    "Remove the skillet from the oven and let it cool slightly before serving."
+    "Remove the skillet from the oven and let it cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -102,5 +104,10 @@
     "mainIngredient": "walnuts",
     "descriptor": "slow cooked",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

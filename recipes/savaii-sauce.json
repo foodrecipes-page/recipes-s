@@ -3,7 +3,6 @@
   "description": "A tangy, gooey Ethiopian dish featuring sevaiiya that's perfect for sick days and is raw-friendly.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -72,5 +71,9 @@
     "primaryIngredient": "sevaiiya",
     "diet": "raw",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

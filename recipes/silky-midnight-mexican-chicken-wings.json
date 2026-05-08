@@ -53,11 +53,12 @@
     "Carefully slice the cooled marinade into small cubes and add them along with the cooled oil, sesame seeds, chopped cilantro, diced poblano peppers, a pinch of cayenne pepper, and a drizzle of Mexican crema. Stir well to combine all ingredients into a savory sauce.",
     "After removing chicken wings from sous-vide, pat off excess marinade. Preheat your oven to 180°C (350°F) and place the chicken wings on a wire rack lined with parchment paper or aluminum foil in an oven-safe dish.",
     "Brush both sides of the chicken wings with cooled sauce mixture and bake for about 25 minutes, flipping them once midway through cooking time. Keep an eye on browning; if needed, brush more sauce until golden brown.",
-    "Serve immediately with Oaxaca cheese and freshly squeezed lemon wedges."
+    "Serve immediately with Oaxaca cheese and freshly squeezed lemon wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 1,
   "cookTimeMin": 3,
-  "totalTimeMin": 28,
+  "totalTimeMin": 4,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -88,5 +89,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Silky Midnight",
     "dishForm": "Wings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "recomputed-totalTime"
+  ]
 }

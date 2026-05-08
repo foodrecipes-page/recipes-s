@@ -46,7 +46,8 @@
     "Mix ground beef or turkey, minced garlic, paprika, and date purée in a large bowl. Season with salt and pepper as desired.",
     "Divide the filling evenly among the prepared taco shells. Place them on a baking sheet lined with parchment paper.",
     "Bake for 15-20 minutes until cooked through. Let rest for 5 minutes before serving.",
-    "Serve with your favorite toppings such as avocado crema or fresh cilantro."
+    "Serve with your favorite toppings such as avocado crema or fresh cilantro.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -79,5 +80,9 @@
     "primaryIngredient": "hard taco shells",
     "diet": "low-fat",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -83,7 +83,8 @@
     "Reduce the heat to low and let the stew simmer for 30 minutes.",
     "Add the cooked kidney beans and smoked paprika (if using). Simmer for another 10 minutes.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the stew hot, garnished with chopped fresh cilantro."
+    "Serve the stew hot, garnished with chopped fresh cilantro.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -121,5 +122,9 @@
     "mainIngredient": "chilli",
     "descriptor": "smoke-hot",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

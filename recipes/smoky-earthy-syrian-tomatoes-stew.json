@@ -3,8 +3,7 @@
   "description": "A comforting stew of smoky roasted tomatoes and subtle herbs, delivering an earthy, chewy texture that warms the soul.",
   "cuisine": "Syrian",
   "diet": [
-    "fodmap-friendly",
-    "vegetarian"
+    "fodmap-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,8 +73,7 @@
     "fodmap-friendly",
     "one-pot",
     "slow-cook",
-    "smoky",
-    "vegan"
+    "smoky"
   ],
   "nutrition": {
     "calories": 430,
@@ -100,5 +98,10 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Smoky Earthy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

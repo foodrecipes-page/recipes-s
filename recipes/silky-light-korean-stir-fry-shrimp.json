@@ -2,9 +2,7 @@
   "title": "Silky Light Korean Stir-fry Shrimp",
   "description": "A gluten-free-friendly umami and silky light korean dish featuring shrimp stock, sauteed with fresh vegetables for a quick and satisfying meal.",
   "cuisine": "Korean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,8 +70,7 @@
   "tags": [
     "silky-light",
     "umami",
-    "korean-stir-fry",
-    "gluten-free"
+    "korean-stir-fry"
   ],
   "nutrition": {
     "calories": 308,
@@ -98,5 +95,9 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Silky Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

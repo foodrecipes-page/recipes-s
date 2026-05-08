@@ -3,8 +3,7 @@
   "description": "A hearty, smoky Korean dish featuring pork, gochujang, and cream of tartar, ready in under 30 minutes. Best served with a side of rice and kimchi.",
   "cuisine": "Korean",
   "diet": [
-    "fodmap-friendly",
-    "gluten-free"
+    "fodmap-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -116,5 +115,9 @@
     "mainIngredient": "pork",
     "descriptor": "Smoky Juicy",
     "dishForm": "Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

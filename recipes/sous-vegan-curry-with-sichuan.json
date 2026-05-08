@@ -61,7 +61,6 @@
   "difficulty": "easy",
   "tags": [
     "sous-vide",
-    "vegan",
     "british",
     "tangy",
     "creamy"
@@ -85,5 +84,9 @@
     "primaryIngredient": "szechuan peppercorns",
     "diet": "low-calorie",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

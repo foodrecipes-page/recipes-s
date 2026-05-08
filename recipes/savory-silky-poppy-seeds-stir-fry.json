@@ -46,7 +46,8 @@
     "Add carrots and bell peppers to the skillet. Cook for another 3-4 minutes until slightly softened.",
     "Deglaze the pan with lemon juice, scraping any browned bits on the bottom of the skillet. Let it reduce a little bit.",
     "Stir in the poppy seeds, salt, and pepper. Cook for about 5 more minutes, tossing occasionally to prevent burning.",
-    "Transfer the stir-fry to a serving plate or bowl. Serve hot as a side dish with grilled chicken or fish."
+    "Transfer the stir-fry to a serving plate or bowl. Serve hot as a side dish with grilled chicken or fish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "Poppy Seeds",
     "descriptor": "Savory Silky Lazy-Sunday",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

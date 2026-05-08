@@ -60,7 +60,8 @@
     "Add the jasmine rice to the skillet and cook for 1-2 minutes, stirring constantly",
     "Add the diced tomatoes and chicken broth to the skillet and bring to a boil",
     "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the rice is tender",
-    "Fluff the pilaf with a fork and serve hot on a talavera plate"
+    "Fluff the pilaf with a fork and serve hot on a talavera plate",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "spicy smoked",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

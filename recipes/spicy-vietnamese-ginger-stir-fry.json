@@ -59,7 +59,8 @@
     "Add garlic and ginger to the pan, cooking for an additional minute. Stir in smoked paprika, white pepper, soy sauce, and lime juice. Bring to a simmer.",
     "Return the chicken to the pan with its juices. Add carrots and scallions, tossing well until everything is heated through.",
     "Stir in baby spinach leaves and cook just until wilted, about 1 minute.",
-    "Serve hot."
+    "Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -96,5 +97,9 @@
     "mainIngredient": "ginger",
     "descriptor": "Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

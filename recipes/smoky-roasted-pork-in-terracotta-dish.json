@@ -49,7 +49,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
-  "totalTimeMin": 45,
+  "totalTimeMin": 65,
   "servings": 3,
   "difficulty": "medium",
   "tags": [
@@ -81,5 +81,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Smoky Roasted",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

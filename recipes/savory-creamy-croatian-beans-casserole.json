@@ -3,7 +3,6 @@
   "description": "A nostalgic, dairyfree Croatian bean casserole that balances salty, creamy textures with a savory tomatobased sauce, perfect for a comforting dinner.",
   "cuisine": "Croatian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -41,7 +40,7 @@
     },
     {
       "name": "crushed tomatoes",
-      "amount": "1 14\u2011oz can"
+      "amount": "1 14‑oz can"
     },
     {
       "name": "vegetable broth",
@@ -58,10 +57,10 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
-    "Heat 1 tbsp olive oil in a large skillet over medium heat and saut\u00e9 onion until translucent, about 5 minutes. Add garlic, smoked paprika, cumin, and red pepper flakes; cook for 1 minute until fragrant.",
+    "Preheat oven to 350°F (175°C).",
+    "Heat 1 tbsp olive oil in a large skillet over medium heat and sauté onion until translucent, about 5 minutes. Add garlic, smoked paprika, cumin, and red pepper flakes; cook for 1 minute until fragrant.",
     "Stir in crushed tomatoes and vegetable broth, bring to a simmer, then add the cooked beans and chopped dill. Season with salt and pepper to taste. Let the mixture cook for 5 minutes to blend flavors.",
-    "Transfer the bean mixture to a greased 9\u2011inch baking dish, spooning it evenly. Drizzle the remaining 1 tbsp olive oil over the top, then pour the almond milk into the dish so it pools slightly around the beans. Cover with foil.",
+    "Transfer the bean mixture to a greased 9‑inch baking dish, spooning it evenly. Drizzle the remaining 1 tbsp olive oil over the top, then pour the almond milk into the dish so it pools slightly around the beans. Cover with foil.",
     "Bake uncovered for 30 minutes, then remove the foil, stir the casserole gently, and bake for an additional 15 minutes until the top is lightly browned and the liquid has thickened.",
     "Remove from oven and let rest 5 minutes before serving. Garnish with extra dill if desired."
   ],
@@ -97,5 +96,9 @@
   "tags": [
     "croatian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
   ]
 }

@@ -42,7 +42,8 @@
     "Season the grilled chicken with salt and pepper, then brush it lightly with olive oil.",
     "While the chicken is cooking, prepare the glaze by mixing the minced garlic, sugar, lemon juice, and a pinch of salt together in a small bowl.",
     "As the chicken is almost done grilling (to your desired doneness), spoon some of the prepared glaze over each piece to cook for about 1-2 minutes until glazed evenly.",
-    "Serve immediately with sliced strawberries on top as garnish."
+    "Serve immediately with sliced strawberries on top as garnish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -75,5 +76,9 @@
     "primaryIngredient": "strawberries",
     "diet": "diabetic-friendly",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

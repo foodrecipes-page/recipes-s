@@ -2,9 +2,7 @@
   "title": "soft portuguese flaxseed paella",
   "description": "resinous, fluffy, hangover-cure portuguese dish featuring flaxseed, deglaze-fond, anti-inflammatory-friendly.",
   "cuisine": "portuguese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -65,7 +63,8 @@
     "bring mixture to a simmer and cook, covered, 20 minutes",
     "stir in deglaze-fond and cook for an additional 5 minutes",
     "fluff paella with a fork and serve hot",
-    "serve with a side of sliced lemon, if desired"
+    "serve with a side of sliced lemon, if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -76,8 +75,7 @@
     "breakfast",
     "easy-to-make",
     "flaxseed",
-    "portuguese",
-    "vegetarian"
+    "portuguese"
   ],
   "nutrition": {
     "calories": 320,
@@ -102,5 +100,10 @@
     "mainIngredient": "flaxseed",
     "descriptor": "soft",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

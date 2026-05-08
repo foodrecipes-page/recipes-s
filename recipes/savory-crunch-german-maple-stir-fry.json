@@ -2,9 +2,7 @@
   "title": "Savory Crunch German Maple Stir-fry",
   "description": "A savory and silky German dish featuring maple syrup as the main ingredient to help cure a hangover, this vegetarian-friendly stir-fry is both comforting and delicious.",
   "cuisine": "German",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "Maple",
     "descriptor": "Savory Crunch",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -79,11 +79,15 @@
     "mood": "midnight-craving",
     "technique": "temper",
     "primaryIngredient": "lemongrass stalks",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Dutch",
     "mainIngredient": "Lemongrass",
     "descriptor": "Salty",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

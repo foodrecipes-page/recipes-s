@@ -4,8 +4,7 @@
   "cuisine": "Chinese",
   "diet": [
     "vegetarian",
-    "vegan-friendly",
-    "gluten-free"
+    "vegan-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -89,7 +88,6 @@
   "difficulty": "medium",
   "tags": [
     "chilled",
-    "gluten-free",
     "high-fiber",
     "low-calorie",
     "post-workout",
@@ -119,5 +117,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "smoky chilled",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

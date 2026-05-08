@@ -3,7 +3,6 @@
   "description": "A sour and indulgent Spanish dish featuring provola cheese, served with toasted bread and fresh tomato, originating from the Basque region.",
   "cuisine": "Spanish",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -91,5 +90,9 @@
     "mainIngredient": "provola",
     "descriptor": "sour indulgent",
     "dishForm": "Pa Amb Tomaquet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

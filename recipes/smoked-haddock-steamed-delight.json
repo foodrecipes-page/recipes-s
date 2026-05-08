@@ -3,7 +3,6 @@
   "description": "A comforting German dish featuring smoked haddock that is both bitter and crunchy, suitable for Jain followers.",
   "cuisine": "German",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "lunch",
@@ -66,5 +65,9 @@
     "primaryIngredient": "smoked haddock",
     "diet": "jain",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

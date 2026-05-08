@@ -2,9 +2,7 @@
   "title": "Sweet Salmon Pasta",
   "description": "A sweet and indulgent pasta dish featuring salmon and fermented flavors, dairy-free friendly for a healthy twist on an American classic.",
   "cuisine": "American",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -85,5 +83,9 @@
     "mainIngredient": "salmon",
     "descriptor": "sweet",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

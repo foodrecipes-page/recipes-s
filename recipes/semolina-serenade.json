@@ -3,7 +3,6 @@
   "description": "A sweet and silky Indian dessert featuring semolina that is perfect for a romantic dinner or as a treat.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -51,7 +50,7 @@
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 25,
-  "totalTimeMin": 25,
+  "totalTimeMin": 50,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -79,5 +78,10 @@
     "primaryIngredient": "semolina",
     "diet": "plant-based",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

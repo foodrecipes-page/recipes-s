@@ -24,7 +24,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 0,
-  "totalTimeMin": 60,
+  "totalTimeMin": 30,
   "servings": 8,
   "difficulty": "easy",
   "tags": [
@@ -57,5 +57,9 @@
     "mainIngredient": "grapes",
     "descriptor": "smoke-cold",
     "dishForm": "kibbeh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

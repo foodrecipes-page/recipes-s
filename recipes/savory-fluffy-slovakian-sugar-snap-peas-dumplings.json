@@ -3,8 +3,7 @@
   "description": "A traditional Slovakian dish with a twist, featuring sugar snap peas and a dairy-free friendly option, perfect for a midnight craving. These fluffy dumplings are cooked to perfection in a tandoor oven.",
   "cuisine": "Slovakian",
   "diet": [
-    "vegetarian",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -70,7 +69,6 @@
   "tags": [
     "slovakian-cuisine",
     "vegetarian",
-    "dairy-free",
     "tandoor-oven",
     "midnight-craving"
   ],
@@ -97,5 +95,9 @@
     "mainIngredient": "sugar snap peas",
     "descriptor": "savory fluffy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

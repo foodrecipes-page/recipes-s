@@ -3,9 +3,7 @@
   "description": "A tangy and refreshing Vietnamese dish featuring asparagus, perfect for a lazy Sunday, and friendly to sugar-free diets.",
   "cuisine": "Vietnamese",
   "diet": [
-    "sugar-free",
-    "gluten-free",
-    "vegetarian"
+    "sugar-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -93,5 +91,10 @@
     "mainIngredient": "asparagus",
     "descriptor": "sweet summer",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

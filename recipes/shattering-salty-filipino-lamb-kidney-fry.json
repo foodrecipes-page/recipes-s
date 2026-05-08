@@ -3,8 +3,6 @@
   "description": "A hearty and savory brunch dish featuring lamb kidney, onions, and garlic, all crispy-fried to perfection. This dish is a unique and exciting twist on traditional Filipino cuisine.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
-    "pescatarian",
     "ovo-lacto"
   ],
   "meal": "breakfast",
@@ -108,5 +106,10 @@
     "mainIngredient": "lamb kidney",
     "descriptor": "shattering salty",
     "dishForm": "fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian"
+  ]
 }

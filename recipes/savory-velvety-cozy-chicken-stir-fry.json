@@ -86,11 +86,15 @@
     "mood": "cozy",
     "technique": "air-fry",
     "primaryIngredient": "red wine",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Filipino",
     "mainIngredient": "chicken",
     "descriptor": "Savory Velvety Cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

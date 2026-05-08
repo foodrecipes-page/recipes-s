@@ -8,7 +8,7 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Bone\u2011in, skin\u2011on chicken thighs",
+      "name": "Bone‑in, skin‑on chicken thighs",
       "amount": "4 (680 g)",
       "notes": "for extra flavor"
     },
@@ -41,7 +41,7 @@
       "amount": "1 cup (200 g)"
     },
     {
-      "name": "Low\u2011sodium chicken broth",
+      "name": "Low‑sodium chicken broth",
       "amount": "4 cups (950 ml)"
     },
     {
@@ -78,17 +78,18 @@
     }
   ],
   "instructions": [
-    "Heat 1 tbsp olive oil in a large paella pan over medium heat. Add the chicken thighs skin\u2011side down and sear until golden, about 4 minutes per side. Remove and set aside.",
-    "Add the remaining tbsp of olive oil to the pan, then saut\u00e9 onion, garlic, and red bell pepper until softened, about 5 minutes.",
-    "Stir in smoked paprika and the saffron\u2011infused water, cooking for 1 minute to release the flavors.",
+    "Heat 1 tbsp olive oil in a large paella pan over medium heat. Add the chicken thighs skin‑side down and sear until golden, about 4 minutes per side. Remove and set aside.",
+    "Add the remaining tbsp of olive oil to the pan, then sauté onion, garlic, and red bell pepper until softened, about 5 minutes.",
+    "Stir in smoked paprika and the saffron‑infused water, cooking for 1 minute to release the flavors.",
     "Add the rice, coating it well with the oil and spices. Stir for 2 minutes.",
     "Pour in the white wine and let it reduce until almost evaporated, about 3 minutes.",
-    "Return the chicken to the pan, nestling it into the rice. Add the low\u2011sodium broth and bring to a gentle boil.",
+    "Return the chicken to the pan, nestling it into the rice. Add the low‑sodium broth and bring to a gentle boil.",
     "Reduce heat to low, cover loosely, and simmer for 15 minutes.",
     "Stir in the frozen peas and let the paella finish cooking until the rice is al dente and the liquid is absorbed, about 5 more minutes. Remove the lid.",
     "In a small bowl, whisk tahini with lime juice, a splash of the paella liquid, and a pinch of salt to create a creamy sauce.",
     "Drizzle the tahini sauce over the paella, sprinkle chopped parsley, and serve with lemon wedges for squeezing.",
-    "Enjoy a smoky, fluffy, date\u2011night paella that\u2019s both low\u2011sodium and irresistibly comforting."
+    "Enjoy a smoky, fluffy, date‑night paella that’s both low‑sodium and irresistibly comforting.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -127,5 +128,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Smoky Fluffy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

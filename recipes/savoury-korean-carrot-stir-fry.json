@@ -49,7 +49,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400\u00b0F (200\u00b0C). Place the sliced carrots in a single layer on a baking sheet and roast for about 25 minutes, or until tender.",
+    "Preheat your oven to 400°F (200°C). Place the sliced carrots in a single layer on a baking sheet and roast for about 25 minutes, or until tender.",
     "Meanwhile, heat 1 tablespoon of sesame oil in a wok over medium-high heat. Add thinly sliced onions and minced garlic, stir-fry for about 3-4 minutes until softened.",
     "Add roasted carrots to the wok, along with grated ginger, soy sauce, chili flakes, and salt. Stir well and continue cooking for an additional 2-3 minutes until flavors are fully integrated and the vegetables are tender.",
     "Serve hot as a side dish or over rice."
@@ -82,11 +82,15 @@
     "mood": "energizing",
     "technique": "blanch",
     "primaryIngredient": "chilli flakes",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "Korean",
     "mainIngredient": "carrot",
     "descriptor": "Savoury",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

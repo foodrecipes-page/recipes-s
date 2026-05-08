@@ -78,7 +78,8 @@
     "Serve the Smoky Tender Brazilian Braise in a bamboo steamer, if desired.",
     "Adjust the seasoning with salt and pepper to taste.",
     "Garnish with additional Castelvetrano olives and cilantro, if desired.",
-    "Serve with your favorite side dishes or enjoy on its own as a hearty, comforting meal."
+    "Serve with your favorite side dishes or enjoy on its own as a hearty, comforting meal.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -115,5 +116,9 @@
     "mainIngredient": "dishes",
     "descriptor": "smoky tender",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

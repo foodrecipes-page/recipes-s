@@ -3,7 +3,6 @@
   "description": "A flavorful and aromatic Jamaican dish featuring succulent shrimp, nutty sesame seeds, and a rich curry sauce, all cooked to perfection in a cataplana vessel, perfect for a romantic date night, this dairy-free friendly recipe is sure to impress",
   "cuisine": "Jamaican",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "curry",
-    "dairy-free",
     "date-night",
     "gluten-free",
     "jamaican-cuisine",
@@ -100,5 +98,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Savory Sesame",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

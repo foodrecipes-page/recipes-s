@@ -67,7 +67,8 @@
     "Stir in the heavy cream and cook for an additional 2 minutes, until the sauce has thickened.",
     "Serve the smoky velvety Dutch rice noodles hot, garnished with chopped parsley.",
     "Cook the flat rice noodles according to the package instructions and set aside.",
-    "Add the cooked noodles to the skillet and toss to combine with the smoky sauce."
+    "Add the cooked noodles to the skillet and toss to combine with the smoky sauce.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -106,5 +107,9 @@
     "mainIngredient": "rice",
     "descriptor": "Smoky velvety",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

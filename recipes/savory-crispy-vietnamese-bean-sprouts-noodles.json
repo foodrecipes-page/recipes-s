@@ -3,8 +3,7 @@
   "description": "Buttery and crispy Vietnamese dish featuring bean sprouts and tadka, whole30-friendly and perfect for a weeknight dinner",
   "cuisine": "Vietnamese",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "tags": [
     "bean-sprouts",
     "crispy",
-    "gluten-free",
     "noodles",
     "vietnamese",
     "weeknight",
@@ -102,5 +100,9 @@
     "mainIngredient": "bean sprouts",
     "descriptor": "savory crispy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Sour American Cheese Curd Crumble",
   "description": "A tender and adventurous cheese crumble made from sour cheese curds, featuring a perfect balance of tanginess and texture for an irresistible breakfast or snack.",
   "cuisine": "American",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -43,8 +41,7 @@
   "tags": [
     "sour-cheese",
     "crumble",
-    "tangy",
-    "dairy-free"
+    "tangy"
   ],
   "nutrition": {
     "calories": 271,
@@ -69,5 +66,9 @@
     "mainIngredient": "Cheese Curds",
     "descriptor": "Sour",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

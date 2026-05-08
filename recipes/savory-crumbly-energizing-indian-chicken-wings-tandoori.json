@@ -101,11 +101,15 @@
     "mood": "energizing",
     "technique": "caramelize",
     "primaryIngredient": "chicken wings",
-    "diet": "vegetarian",
+    "diet": "vegetarian-friendly",
     "region": "punjabi",
     "cuisineAdjective": "Indian",
     "mainIngredient": "chicken wings",
     "descriptor": "savory, crumbly, energizing",
     "dishForm": "Tandoori"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

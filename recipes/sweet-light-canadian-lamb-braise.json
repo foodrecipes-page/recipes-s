@@ -3,8 +3,6 @@
   "description": "A light, sweet brunch dish originating from Canada, featuring lamb shanks confit-tomato, and vegan-friendly options.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -117,5 +115,10 @@
     "mainIngredient": "Lamb",
     "descriptor": "Sweet Light",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

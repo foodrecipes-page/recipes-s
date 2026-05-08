@@ -4,7 +4,6 @@
   "cuisine": "Korean",
   "diet": [
     "vegan",
-    "gluten-free",
     "nut-free"
   ],
   "meal": "lunch",
@@ -15,7 +14,7 @@
       "notes": "trim stems"
     },
     {
-      "name": "short\u2011grain rice, cooked",
+      "name": "short‑grain rice, cooked",
       "amount": "1 cup (200g)",
       "notes": "white or brown, at room temperature"
     },
@@ -49,7 +48,7 @@
     {
       "name": "soy sauce",
       "amount": "1 tsp",
-      "notes": "low\u2011sodium, optional"
+      "notes": "low‑sodium, optional"
     },
     {
       "name": "toasted sesame seeds",
@@ -60,7 +59,7 @@
   "instructions": [
     "Rinse the wild garlic leaves and discard the stems. Blanch them in boiling water for 1 minute, then transfer to ice water to stop cooking. Drain and set aside.",
     "In a small bowl, whisk together doenjang, sesame oil, water, grated ginger, minced garlic, and soy sauce until the mixture is silky smooth and free of lumps.",
-    "Heat 1 teaspoon of sesame oil in a dry pan over medium heat. Add a pinch of ground cumin and a pinch of red chili flakes, saut\u00e9ing for 15\u201120 seconds until fragrant. Remove from heat and stir into the sauce to create a subtle tadka.",
+    "Heat 1 teaspoon of sesame oil in a dry pan over medium heat. Add a pinch of ground cumin and a pinch of red chili flakes, sautéing for 15‑20 seconds until fragrant. Remove from heat and stir into the sauce to create a subtle tadka.",
     "Toss the blanched wild garlic leaves with the sauce, ensuring each leaf is evenly coated and warmed through. Keep the mixture warm while preparing the rest of the dish.",
     "Place a bed of cooked rice into each bowl. Spoon the silky garlic leaf mixture over the rice.",
     "Sprinkle sliced scallions and toasted sesame seeds on top for extra flavor and texture. Optionally drizzle a few drops of extra sesame oil for shine.",
@@ -75,7 +74,6 @@
   "tags": [
     "korean",
     "vegan",
-    "gluten-free",
     "nut-free",
     "fermented",
     "silky",
@@ -105,5 +103,9 @@
     "mainIngredient": "wild garlic leaves",
     "descriptor": "Silky",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

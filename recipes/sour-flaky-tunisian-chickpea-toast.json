@@ -3,8 +3,7 @@
   "description": "A vibrant and energizing Tunisian-inspired dish featuring the bold flavors of chickpeas, English mustard, and a hint of sourness, all on toasted bread. This vegan-friendly recipe is perfect for a quick and satisfying snack or light lunch.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "snack",
   "ingredients": [
@@ -75,7 +74,6 @@
   "tags": [
     "tunisian",
     "vegan",
-    "gluten-free",
     "chickpeas",
     "english-mustard",
     "flaky-pastry"
@@ -103,5 +101,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "sour flaky",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

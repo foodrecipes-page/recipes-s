@@ -65,7 +65,8 @@
     "Stir in tomato paste and cook for another minute. Gradually add water/broth while continuously stirring to prevent sticking.",
     "Reduce heat to medium-low and add lamb mince. Cook until browned on all sides, breaking up lumps with a wooden spoon as it cooks.",
     "Season the stew with salt, lemon juice, and red pepper flakes according to taste.",
-    "Garnish with chopped parsley and torn cilantro leaves if desired before serving hot."
+    "Garnish with chopped parsley and torn cilantro leaves if desired before serving hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -103,5 +104,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Savory Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

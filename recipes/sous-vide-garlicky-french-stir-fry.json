@@ -42,7 +42,9 @@
     "Add lemon zest and chopped parsley to the pan. Stir gently to combine with the garlic mixture.",
     "Remove meat from the sous-vide pouches and let them come to room temperature.",
     "Place the cooked meat on a plate and pour the sauce over it.",
-    "Drizzle soy sauce evenly over both meats, serve hot."
+    "Drizzle soy sauce evenly over both meats, serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -79,5 +81,10 @@
     "mainIngredient": "Garlic",
     "descriptor": "Sous-vide",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

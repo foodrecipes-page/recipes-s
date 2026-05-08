@@ -3,8 +3,7 @@
   "description": "A quick-fix sour and crunchy dish featuring smoky flavors and a blend of smooth peas with hints of spices in a plant-based friendly recipe.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "Pea",
     "descriptor": "Smoky Spicy",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

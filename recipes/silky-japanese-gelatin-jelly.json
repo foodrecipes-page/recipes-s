@@ -3,7 +3,6 @@
   "description": "A soothing, cultured Okinawan-inspired dish to comfort a sick day, using unflavored gelatin and a shio-koji cure that is vegan-friendly and silky smooth.",
   "cuisine": "Japanese",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -94,5 +93,9 @@
     "mainIngredient": "gelatin",
     "descriptor": "Silky",
     "dishForm": "Jelly"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

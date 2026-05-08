@@ -58,7 +58,8 @@
     "Fold in ground chicken or turkey along with salt, red chili powder, and optional fish sauce. Stir until fully incorporated and heated through.",
     "Gently submerge dumplings into the cooking mixture using a spoon, adding water as needed to prevent sticking.",
     "Simmer gently for about 5 minutes until the ingredients are well combined and the dumplings are cooked but still tender.",
-    "Remove from heat and serve hot."
+    "Remove from heat and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -93,5 +94,9 @@
     "mainIngredient": "dumplings",
     "descriptor": "Spicy Tender Midnight Craving",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

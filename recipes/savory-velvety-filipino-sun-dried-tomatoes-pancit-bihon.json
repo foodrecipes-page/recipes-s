@@ -2,9 +2,7 @@
   "title": "Savory Velvety Filipino Sun Dried Tomatoes Pancit Bihon",
   "description": "A savory and velvety Filipino dish featuring sun-dried tomatoes, perfect for a weeknight dinner. This gluten-free friendly pancit bihon recipe is made with double-rise bread and has a bitter flavor profile.",
   "cuisine": "Filipino",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "filipino-food",
-    "gluten-free",
     "one-pan",
     "savory",
     "weeknight"
@@ -91,5 +88,9 @@
     "mainIngredient": "sun-dried tomatoes",
     "descriptor": "savory velvety",
     "dishForm": "Pancit Bihon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

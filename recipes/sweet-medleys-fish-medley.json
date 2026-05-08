@@ -2,10 +2,7 @@
   "title": "Sweet Medleys Fish Medley",
   "description": "A sweet and creamy mediterranean dish featuring fish seasoned with herbs and spices, served as a light dinner.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -87,5 +84,10 @@
     "primaryIngredient": "fish seasoning",
     "diet": "mediterranean",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

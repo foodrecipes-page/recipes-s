@@ -45,7 +45,8 @@
     "Shape the mixture into small, bite-sized crumbles using your hands or spoon.",
     "Arrange the crumbles on a baking sheet lined with parchment paper.",
     "Bake at 350°F (175°C) for about 20 minutes or until golden brown and crisp.",
-    "Garnish with sesame seeds if desired, then serve."
+    "Garnish with sesame seeds if desired, then serve.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -82,5 +83,9 @@
     "mainIngredient": "pork",
     "descriptor": "Sour Dense",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

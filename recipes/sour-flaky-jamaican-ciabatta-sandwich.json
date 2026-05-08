@@ -3,8 +3,7 @@
   "description": "A plantbased sandwich that blends tangy pickled cabbage, smoky jerk spices, and flaky ciabatta, finished under a broiler for a crispy, satisfying lunch.",
   "cuisine": "Jamaican",
   "diet": [
-    "plant-based",
-    "vegan"
+    "plant-based"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -50,12 +49,12 @@
     },
     {
       "name": "salt",
-      "amount": "\u00bd tsp",
+      "amount": "½ tsp",
       "notes": "optional"
     },
     {
       "name": "black pepper",
-      "amount": "\u00bc tsp",
+      "amount": "¼ tsp",
       "notes": "optional"
     }
   ],
@@ -67,7 +66,7 @@
     "Layer vegan cheddar slices, avocado, and pickled cabbage on the top half.",
     "Top with the second ciabatta half and press gently to align the fillings.",
     "Brush the outer surfaces of the sandwich with olive oil.",
-    "Place sandwich on an oven\u2011proof baking sheet and slide under broiler for 3\u20114 minutes, turning once, until cheese melts and ciabatta edges turn golden\u2011brown.",
+    "Place sandwich on an oven‑proof baking sheet and slide under broiler for 3‑4 minutes, turning once, until cheese melts and ciabatta edges turn golden‑brown.",
     "Remove from oven, let rest 1 minute, then slice into individual servings.",
     "Serve immediately, optionally with a side of fresh mango salsa."
   ],
@@ -78,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "plant-based",
-    "vegan",
     "jamaican",
     "sandwich",
     "broil",
@@ -109,5 +107,9 @@
     "mainIngredient": "ciabatta",
     "descriptor": "Sour Flaky",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Salty Flaky Korean Beef Dumplings",
   "description": "A savory and spicy Korean dish featuring ras el hanout and fermented ingredients, perfect for a midnight craving. This halal-friendly recipe combines the richness of beef with the depth of Korean chili flakes and the warmth of ras el hanout.",
   "cuisine": "Korean",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -64,7 +62,8 @@
     "Repeat with the remaining wrappers and filling.",
     "In a large pot, bring 4-6 quarts of water to a boil. Reduce the heat to a simmer.",
     "Carefully add the dumplings to the pot, being careful not to overcrowd. Cook for 10-12 minutes, or until the dumplings float to the surface.",
-    "Remove the dumplings from the pot with a slotted spoon and serve hot with your favorite dipping sauce."
+    "Remove the dumplings from the pot with a slotted spoon and serve hot with your favorite dipping sauce.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 12,
@@ -75,8 +74,7 @@
     "korean",
     "beef",
     "dumplings",
-    "snack",
-    "halal"
+    "snack"
   ],
   "nutrition": {
     "calories": 320,
@@ -101,5 +99,10 @@
     "mainIngredient": "beef",
     "descriptor": "salty flaky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

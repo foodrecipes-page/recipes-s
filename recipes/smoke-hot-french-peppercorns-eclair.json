@@ -3,7 +3,6 @@
   "description": "Tangy and springy, this meal-prep eclair features a delicate balance of smoke-hot French peppercorns with a hint of sweetness. Perfect for a quick breakfast or snack on-the-go.",
   "cuisine": "French",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "breakfast",
@@ -38,7 +37,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "gluten-free",
     "nut-free",
     "pastry",
     "weeknight"
@@ -66,5 +64,9 @@
     "mainIngredient": "peppercorns",
     "descriptor": "smoke-hot",
     "dishForm": "eclair"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

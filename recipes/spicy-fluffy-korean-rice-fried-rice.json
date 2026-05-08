@@ -3,8 +3,7 @@
   "description": "A fresh, fluffy, and spicy Korean dish perfect for midnight cravings, made with hot chilli powder and bhuna, and is vegan-friendly.",
   "cuisine": "Korean",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "snack",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "rice",
     "descriptor": "spicy fluffy",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

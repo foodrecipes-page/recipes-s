@@ -2,10 +2,7 @@
   "title": "smoky jowly german cobnuts bake",
   "description": "A hearty, smoky German-inspired dish featuring cobnuts, perfect for a solo dinner. The combination of malty flavors and molten texture makes this a satisfying meal.",
   "cuisine": "german",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,9 +74,7 @@
   "difficulty": "medium",
   "tags": [
     "german",
-    "gluten-free",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 550,
@@ -104,5 +99,10 @@
     "mainIngredient": "cobnuts",
     "descriptor": "smoky jowly",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

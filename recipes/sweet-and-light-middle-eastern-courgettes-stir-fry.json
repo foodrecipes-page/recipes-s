@@ -76,11 +76,15 @@
     "mood": "light",
     "technique": "stir-fry",
     "primaryIngredient": "courgettes",
-    "diet": "low-carb",
+    "diet": "low-carb-friendly",
     "region": null,
     "cuisineAdjective": "Middle Eastern",
     "mainIngredient": "courgettes",
     "descriptor": "Sweet And Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

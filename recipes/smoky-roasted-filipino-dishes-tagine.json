@@ -2,9 +2,7 @@
   "title": "Smoky Roasted Filipino Tagine",
   "description": "A savory and chewy Filipino-inspired dish with smoky aromas and a rich, flavorful broth, perfect for a date night. Serve over steamed jasmine rice for a complete meal.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -112,5 +110,9 @@
     "mainIngredient": "dishes",
     "descriptor": "Smoky Roasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

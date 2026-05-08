@@ -3,8 +3,7 @@
   "description": "A sour, crumbly, festive Ethiopian pita bread flatbread perfect for serving with injera or just on its own. This dish features a fermented dough made with jang, a traditional Ethiopian spice blend.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "snack",
   "ingredients": [
@@ -50,7 +49,6 @@
     "ethiopian",
     "festival",
     "flatbread",
-    "gluten-free",
     "sourdough",
     "vegan"
   ],
@@ -77,5 +75,9 @@
     "mainIngredient": "pita bread",
     "descriptor": "sour, crumbly, festive",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Spicy Smoky Greek Lamb Kebabs",
   "description": "A quick, spicy and smoky lamb kebab packed with Mediterranean flavors, finished with a crunchy peanut cookie crumble for a unique twist.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
   "tags": [
     "mediterranean",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
   ]
 }

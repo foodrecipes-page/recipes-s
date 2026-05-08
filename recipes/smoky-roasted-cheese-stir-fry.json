@@ -45,7 +45,8 @@
     "Heat Chicken Broth in a pan over medium heat until it starts boiling.",
     "Add Bell Peppers and Red Onion to the pan with the boiling broth. Let cook for about 5 minutes or until the vegetables start to soften.",
     "Reduce heat to low, add Cheese mixture to the vegetable mixture. Stir well to combine. Continue cooking for another 3-4 minutes until cheese is melted and bubbly.",
-    "Serve immediately."
+    "Serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -82,5 +83,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Smoky Roasted",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A meal-prep-friendly, gluten-free Chinese (Sichuan) dish featuring sweet and chewy cottage cheese with a hint of savory pickles for an authentic twist on classic stir-fry dishes.",
   "cuisine": "Chinese (Sichuan)",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -56,7 +55,8 @@
     "Stir in the pickle relish, cooking for another minute to release its flavors.",
     "Gently fold in the cottage cheese mixture into the wok. Mix well to coat all pieces with the sauce.",
     "Bring a small amount of water to boil and pour over the stir-fry until it forms a thick gravy-like consistency. Stir frequently to ensure no lumps form, about 2-3 minutes.",
-    "Remove from heat and garnish with chopped green onions before serving."
+    "Remove from heat and garnish with chopped green onions before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -67,8 +67,7 @@
     "sweet-and-chewy",
     "chinese-stir-fry",
     "cottage-cheese",
-    "sichuan-flavor",
-    "gluten-free"
+    "sichuan-flavor"
   ],
   "nutrition": {
     "calories": 205,
@@ -93,5 +92,10 @@
     "mainIngredient": "Cottage Cheese",
     "descriptor": "Sweet & Chewy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

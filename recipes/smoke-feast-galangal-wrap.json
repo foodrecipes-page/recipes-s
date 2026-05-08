@@ -2,9 +2,7 @@
   "title": "Smoke Feast Galangal Wrap",
   "description": "A rich, juicy, energizing Tunisian dish featuring galangal wrapped in gluten-free-friendly bread for a satisfying snack or appetizer.",
   "cuisine": "Tunisian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -78,5 +76,9 @@
     "primaryIngredient": "galangal",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -60,7 +60,7 @@
     "descriptor": "smoky",
     "dishForm": "Bowl"
   },
-  "totalTimeMin": 40,
+  "totalTimeMin": 3,
   "servings": 4,
   "difficulty": "medium",
   "nutrition": {
@@ -72,5 +72,9 @@
   "tags": [
     "egyptian",
     "breakfast"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
   ]
 }

@@ -77,7 +77,8 @@
     "cook rice noodles according to package instructions.",
     "divide noodles among bowls and add cooked chicken, bean sprouts, and green onions.",
     "pour hot broth over noodles and garnish with fresh cilantro and a squeeze of lime juice.",
-    "serve immediately."
+    "serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -114,5 +115,9 @@
     "mainIngredient": "chicken",
     "descriptor": "smoky dense midnight-craving",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

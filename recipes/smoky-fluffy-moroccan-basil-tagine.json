@@ -4,7 +4,6 @@
   "cuisine": "Moroccan",
   "diet": [
     "paleo",
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -100,7 +99,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "dairy-free",
     "gluten-free",
     "moroccan",
     "one-pan",
@@ -130,5 +128,9 @@
     "mainIngredient": "basil",
     "descriptor": "smoky fluffy",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

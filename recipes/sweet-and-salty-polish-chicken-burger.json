@@ -36,11 +36,11 @@
     },
     {
       "name": "Black pepper",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "Dill pickle relish",
-      "amount": "\u00bd cup",
+      "amount": "½ cup",
       "notes": "chopped"
     },
     {
@@ -63,11 +63,12 @@
     "Pat the chicken breasts dry and season them lightly with salt and pepper.",
     "In a bowl, whisk together soy sauce, honey, and Dijon mustard to create the glaze.",
     "Place the seasoned chicken in a shallow dish, pour the glaze over, and let marinate in the refrigerator for at least 30 minutes.",
-    "Heat a large skillet over medium\u2011high heat and add olive oil.",
-    "Remove chicken from the marinate, reserving the glaze, and cook for 5\u20136 minutes per side or until the internal temperature reaches 165\u00b0F (74\u00b0C).",
+    "Heat a large skillet over medium‑high heat and add olive oil.",
+    "Remove chicken from the marinate, reserving the glaze, and cook for 5–6 minutes per side or until the internal temperature reaches 165°F (74°C).",
     "While the chicken is cooking, spread dill pickle relish and fresh dill evenly on the inside of each bun.",
     "When the chicken is done, spoon a bit of the reserved glaze over the patty, then place it on the prepared bun with lettuce.",
-    "Serve immediately, optionally with a side of potato chips or a fresh fruit salad."
+    "Serve immediately, optionally with a side of potato chips or a fresh fruit salad.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -105,5 +106,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Sweet and Salty",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

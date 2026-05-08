@@ -70,7 +70,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 400\u00b0F (200\u00b0C).",
+    "Preheat the oven to 400°F (200°C).",
     "Peel the plantains and cut them into 1-inch pieces. Place them on a baking sheet lined with parchment paper.",
     "Drizzle the coconut oil over the plantains and toss to coat. Sprinkle with salt and pepper to taste.",
     "Bake the plantains in the oven for 20-25 minutes, or until crispy and golden brown.",
@@ -81,7 +81,8 @@
     "Reduce the heat to low and let the mixture cook for 10-15 minutes, or until the bananas are tender.",
     "Stir in the honey and cook for an additional 2-3 minutes, or until the mixture has thickened slightly.",
     "Serve the banana stew over the crispy plantains, garnished with chopped cilantro.",
-    "Enjoy your Spicy Crispy Tunisian Banana Tagine!"
+    "Enjoy your Spicy Crispy Tunisian Banana Tagine!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -122,5 +123,9 @@
     "mainIngredient": "banana",
     "descriptor": "spicy crispy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

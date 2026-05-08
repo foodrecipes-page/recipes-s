@@ -2,9 +2,7 @@
   "title": "Savory Zanzibari Beef Stir-fry",
   "description": "A savory and fluffy Venezuelan dish featuring minced beef in a gluten-free-friendly recipe.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -47,7 +45,8 @@
     "Add minced beef and cook until browned, about 5 minutes.",
     "Stir in chopped onions, garlic, tomato paste, salt, and black pepper. Cook for another 3-4 minutes.",
     "Pour in gluten-free soy sauce, stirring constantly to avoid burning, for about 1 minute.",
-    "Serve hot with toast or as a side dish."
+    "Serve hot with toast or as a side dish.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -82,5 +81,10 @@
     "mainIngredient": "beef",
     "descriptor": "Savory",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

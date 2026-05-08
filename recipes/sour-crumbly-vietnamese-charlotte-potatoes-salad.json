@@ -3,7 +3,6 @@
   "description": "A refreshing sour and crumbly salad featuring Charlotte potatoes, pickled vegetables, and fragrant herbs. Perfect for a date-night dinner.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -84,7 +83,6 @@
     "salad",
     "potatoes",
     "date-night",
-    "vegetarian",
     "gluten-free"
   ],
   "nutrition": {
@@ -110,5 +108,9 @@
     "mainIngredient": "charlotte potatoes",
     "descriptor": "sour, crumbly",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

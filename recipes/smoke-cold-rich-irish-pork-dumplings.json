@@ -3,7 +3,6 @@
   "description": "velvety irish dish featuring wonton skin, smoked pork, and a hint of mustard. this dish is ayurvedic sattvic-friendly.",
   "cuisine": "irish",
   "diet": [
-    "vegetarian",
     "pescetarian"
   ],
   "meal": "dinner",
@@ -72,7 +71,8 @@
     "in a large skillet or wok, heat 2 tablespoons of oil over medium-high heat.",
     "when the oil is hot, add a few dumplings to the pan (do not overcrowd). cook for 2-3 minutes on each side, until the dumplings are golden brown.",
     "repeat with the remaining dumplings.",
-    "to serve, place the dumplings on a plate and garnish with chopped parsley and a drizzle of honey."
+    "to serve, place the dumplings on a plate and garnish with chopped parsley and a drizzle of honey.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 20,
@@ -111,5 +111,10 @@
     "mainIngredient": "pork",
     "descriptor": "smoke-cold rich",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-pork_no_temp"
+  ]
 }

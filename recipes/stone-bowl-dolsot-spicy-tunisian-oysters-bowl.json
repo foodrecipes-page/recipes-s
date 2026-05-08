@@ -88,7 +88,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "seafood"
   ],
@@ -115,5 +114,9 @@
     "mainIngredient": "oysters",
     "descriptor": "Stone-bowl-dolsot spicy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

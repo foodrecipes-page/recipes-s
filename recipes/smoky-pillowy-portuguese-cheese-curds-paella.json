@@ -3,7 +3,6 @@
   "description": "a hearty portuguese solo-dinner featuring smoky cheese curds, perfect for a weeknight meal.",
   "cuisine": "portuguese",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -49,7 +48,8 @@
     "add the smoked portuguese cheese curds and chicken broth, and bring to a simmer.",
     "reduce heat to low and steam for 10 minutes, or until the cheese curds are melted and the liquid has been absorbed.",
     "season with lemon juice to taste, and serve hot.",
-    "serve immediately and enjoy!"
+    "serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -60,7 +60,6 @@
     "gluten-free",
     "one-pan",
     "portuguese",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -86,5 +85,10 @@
     "mainIngredient": "cheese curds",
     "descriptor": "smoky pillowy",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

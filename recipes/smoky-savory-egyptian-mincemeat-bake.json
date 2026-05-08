@@ -70,7 +70,8 @@
     "Sprinkle the crumbled feta cheese and shredded cheddar cheese evenly over the top.",
     "Sprinkle the panko breadcrumbs over the cheese.",
     "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
-    "Remove from the oven and let cool for 5-10 minutes before serving."
+    "Remove from the oven and let cool for 5-10 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -107,5 +108,9 @@
     "mainIngredient": "mincemeat",
     "descriptor": "Smoky savory",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

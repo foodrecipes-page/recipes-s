@@ -82,7 +82,6 @@
   "difficulty": "medium",
   "tags": [
     "gluten-free",
-    "dairy-free",
     "lazy-sunday",
     "kenyan",
     "curry",
@@ -112,5 +111,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Smoky Roasted",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

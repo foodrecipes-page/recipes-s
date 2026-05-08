@@ -3,9 +3,7 @@
   "description": "A kid-friendly and fluffy dish featuring sweet duck fat combined with savory smoke for a unique flavor profile that's both appealing to kids and adults alike.",
   "cuisine": "British",
   "diet": [
-    "keto",
-    "vegan",
-    "pescatarian"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -56,7 +54,8 @@
     "In a separate pan, heat a bit more duck fat (if needed) and add chopped onions. Sauté until translucent and fragrant.",
     "Add baby spinach to the pan with the onions and cook for another minute until wilted.",
     "Combine roasted vegetables with the stir-fried onions in the same pan over low heat for about 3 minutes, allowing flavors to blend together gently.",
-    "Serve hot as a side dish or as an entrée alongside grains or rice."
+    "Serve hot as a side dish or as an entrée alongside grains or rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -88,11 +87,18 @@
     "mood": "kid-friendly",
     "technique": "smoke",
     "primaryIngredient": "duck fat",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "duck fat",
     "descriptor": "Sweet Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

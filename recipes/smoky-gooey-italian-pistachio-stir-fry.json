@@ -2,9 +2,7 @@
   "title": "Smoky Gooey Italian Pistachio Stir-fry",
   "description": "A lazy Sunday dish featuring a combination of creamy, gooey textures with the crunch of pistachios in a smoky flavor profile, perfect for dessert or a light snack.",
   "cuisine": "Italian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "pistachios",
     "descriptor": "Smoky Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -49,7 +49,8 @@
     "Pour in the pickle juice and bring to a simmer.",
     "Add the frozen peas and cook until thawed and tender, about 3-4 minutes.",
     "Season with salt and black pepper to taste.",
-    "Serve immediately, garnished with additional pickles if desired."
+    "Serve immediately, garnished with additional pickles if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 8,
@@ -86,5 +87,9 @@
     "mainIngredient": "peas",
     "descriptor": "Savory Silky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

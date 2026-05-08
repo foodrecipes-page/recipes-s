@@ -3,7 +3,6 @@
   "description": "A nostalgic Indian dish featuring marinated chicken, candied peel, and a blend of spices, grilled to perfection. This kosher-friendly recipe is perfect for a spicy and satisfying meal.",
   "cuisine": "Indian",
   "diet": [
-    "kosher",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -76,8 +75,7 @@
     "spicy",
     "indian",
     "kebabs",
-    "grilled",
-    "kosher"
+    "grilled"
   ],
   "nutrition": {
     "calories": 320,
@@ -102,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "spicy juicy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

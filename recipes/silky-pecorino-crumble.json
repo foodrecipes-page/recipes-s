@@ -2,9 +2,7 @@
   "title": "Silky Pecorino Crumble",
   "description": "An earthy and silky Peruvian dish featuring pecorino cheese, designed to satisfy a midnight craving without nuts and packed with protein.",
   "cuisine": "Peruvian",
-  "diet": [
-    "nut-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -40,7 +38,6 @@
   "tags": [
     "peruvian",
     "dessert",
-    "nut-free",
     "crumble"
   ],
   "nutrition": {
@@ -66,5 +63,9 @@
     "mainIngredient": "pecorino",
     "descriptor": "Earthy Silky Midnight",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

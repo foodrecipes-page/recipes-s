@@ -3,7 +3,6 @@
   "description": "A light and umami weeknight dish featuring smoke-infused poppy seeds, a perfect accompaniment for various vegan meals.",
   "cuisine": "Russian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dinner",
@@ -34,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F (175\u00b0C).",
+    "Preheat your oven to 350°F (175°C).",
     "In a mixing bowl, combine poppy seeds, olive oil, garlic powder, and salt. If using smoke flavoring, add it now.",
     "Mix well until all ingredients are evenly distributed.",
     "Transfer the mixture into an oven-safe dish or shallow baking pan.",
@@ -71,5 +70,9 @@
     "primaryIngredient": "poppy seeds",
     "diet": "jain",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

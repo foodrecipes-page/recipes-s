@@ -2,9 +2,7 @@
   "title": "Sweet & Velvety Korean Cheese Stir-fry",
   "description": "A sweet and velvety Korean cheese dish featuring shredded Monterey Jack cheese, with a touch of ferment for an energizing twist that's vegetarian-friendly.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -75,8 +73,7 @@
     "korean",
     "cheese",
     "stir-fry",
-    "energizing",
-    "vegetarian"
+    "energizing"
   ],
   "nutrition": {
     "calories": 250,
@@ -101,5 +98,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Sweet & Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

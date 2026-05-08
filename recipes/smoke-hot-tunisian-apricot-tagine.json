@@ -120,7 +120,6 @@
   "tags": [
     "breakfast",
     "egg-free",
-    "gluten-free",
     "kosher",
     "morning",
     "morning-bread",
@@ -153,5 +152,9 @@
     "mainIngredient": "apricot",
     "descriptor": "smoke-hot",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

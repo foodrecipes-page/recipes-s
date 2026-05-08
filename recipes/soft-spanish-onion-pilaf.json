@@ -3,8 +3,7 @@
   "description": "A light and flavorful meal-prep dish featuring caramelized onions infused with umami notes and a low-carb-friendly sous-vide element.",
   "cuisine": "Spanish",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -68,5 +67,9 @@
     "mainIngredient": "Onion",
     "descriptor": "Soft",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

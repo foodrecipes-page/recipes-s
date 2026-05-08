@@ -3,8 +3,7 @@
   "description": "A refreshing and energizing Jamaican fusion dish featuring grilled fish, with a satisfying crunch from the onion salt. Perfect for a weeknight dinner.",
   "cuisine": "jamaican",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -79,5 +78,9 @@
     "mainIngredient": "fish",
     "descriptor": "shattering savory",
     "dishForm": "grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

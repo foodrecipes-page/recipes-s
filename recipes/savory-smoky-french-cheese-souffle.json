@@ -2,9 +2,7 @@
   "title": "Savory Smoky French Cheese Souffle",
   "description": "A rich and energizing French dish featuring shallots and lardons, with a nutty cheese pull, this souffle is a perfect dinner option. It is kosher-friendly and made with high-quality ingredients.",
   "cuisine": "French",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -95,5 +93,10 @@
     "mainIngredient": "cheese",
     "descriptor": "Savory Smoky",
     "dishForm": "Souffle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "removed-diet-kosher"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Sizzling Kenyan Pork Stir-fry",
   "description": "A fresh, pillowy stir-fry with halal-certified pork, vibrant bell peppers, and a sweet-savory glaze that feeds a crowd.",
   "cuisine": "Kenyan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -108,5 +106,9 @@
     "mainIngredient": "pork",
     "descriptor": "Sizzling",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

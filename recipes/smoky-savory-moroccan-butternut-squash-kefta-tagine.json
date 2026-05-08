@@ -3,7 +3,6 @@
   "description": "A garlicky and gooey Moroccan dish featuring butternut squash, made in a tandoor style with Mediterranean friendly flavors, in a kefta tagine form.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -67,7 +66,8 @@
     "Add the chicken broth to the pot, and bring to a boil.",
     "Cover the pot, and transfer to the preheated oven.",
     "Bake for 25 minutes, or until the squash is tender and the keftas are cooked through.",
-    "Serve the keftas and squash hot, garnished with chopped fresh parsley or cilantro if desired."
+    "Serve the keftas and squash hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -79,8 +79,7 @@
     "mediterranean",
     "moroccan",
     "one-pot",
-    "smoky",
-    "vegetarian"
+    "smoky"
   ],
   "nutrition": {
     "calories": 420,
@@ -105,5 +104,10 @@
     "mainIngredient": "butternut squash",
     "descriptor": "Smoky Savory",
     "dishForm": "Kefta Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

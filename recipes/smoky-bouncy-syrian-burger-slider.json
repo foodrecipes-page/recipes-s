@@ -3,7 +3,6 @@
   "description": "Smoky, air-fried, and nostalgic Syrian dish featuring sesame seed burger buns and a satvik-friendly twist.",
   "cuisine": "syrian",
   "diet": [
-    "vegetarian",
     "gluten-free",
     "dairy-free"
   ],
@@ -119,5 +118,9 @@
     "mainIngredient": "burger",
     "descriptor": "Smoky Bouncy",
     "dishForm": "Slider"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A fresh and gooey Vietnamese dish featuring unsalted beef stock and glaze, perfect for a lazy Sunday, and dairy-free-friendly. This recipe serves 4 people and can be prepared in under 3 hours.",
   "cuisine": "Vietnamese",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -71,7 +70,6 @@
   "tags": [
     "beef-recipes",
     "dairy-free",
-    "gluten-free",
     "noodle-soups",
     "slow-cooker",
     "vietnamese-cuisine"
@@ -99,5 +97,9 @@
     "mainIngredient": "beef",
     "descriptor": "slow simmered",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

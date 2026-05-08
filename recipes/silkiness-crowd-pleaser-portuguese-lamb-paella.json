@@ -75,7 +75,8 @@
     "Bring the mixture to a simmer and cook, covered, for 15-20 minutes or until the liquid has been absorbed and the rice is cooked.",
     "Stir in the soaked saffron and its liquid. Cook for an additional 2-3 minutes.",
     "Remove from heat and let rest, covered, for 5 minutes.",
-    "Garnish with parsley and serve immediately."
+    "Garnish with parsley and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -114,5 +115,9 @@
     "mainIngredient": "lamb",
     "descriptor": "silkiness, crowd-pleaser",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

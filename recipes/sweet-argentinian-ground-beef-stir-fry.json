@@ -49,7 +49,8 @@
     "Add ground beef and cook until browned, breaking it up with a spoon as it cooks.",
     "Toss in finely chopped onions, diced tomatoes, jalapenos, and any optional crushed coriander seeds. Season with soy sauce and vinegar.",
     "Reduce the heat to low, cover, and simmer for about 5 minutes or until slightly thickened.",
-    "Serve warm as a snack or light meal."
+    "Serve warm as a snack or light meal.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -86,5 +87,9 @@
     "mainIngredient": "Ground Beef",
     "descriptor": "Sweet",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

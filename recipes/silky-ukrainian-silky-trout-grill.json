@@ -3,8 +3,7 @@
   "description": "A sweet, silky plant-based-friendly dish featuring grilled rainbow trout with a hint of Ukrainian spices for a date-night treat.",
   "cuisine": "ukrainian",
   "diet": [
-    "plant-based",
-    "vegan"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -46,7 +45,7 @@
     }
   ],
   "instructions": [
-    "Preheat grill to medium heat (200\u00b0C).",
+    "Preheat grill to medium heat (200°C).",
     "Soak dried apricots overnight in water.",
     "Cook quinoa according to package instructions.",
     "In a small bowl, mix honey, lemon zest, dill, and black pepper.",
@@ -91,5 +90,9 @@
     "mainIngredient": "trout",
     "descriptor": "Silky",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A light and creamy Mexican dish featuring roasted ingredients and plain flour, suitable for an ayurvedic-tamasic friendly diet. This recipe is easy to make and requires minimal ingredients.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "difficulty": "easy",
   "tags": [
     "easy-dinner",
-    "gluten-free",
     "mexican-food",
     "roasted-vegetables",
     "tacos",
@@ -98,5 +96,9 @@
     "mainIngredient": "flour",
     "descriptor": "Softly roasted",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A quick and easy snack or side dish featuring crunchy cashews, perfect for a energy boost. Suitable for a high-protein diet.",
   "cuisine": "Irish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -68,7 +67,6 @@
     "snack",
     "air-fry",
     "high-protein",
-    "gluten-free",
     "vegetarian"
   ],
   "nutrition": {
@@ -94,5 +92,9 @@
     "mainIngredient": "cashews",
     "descriptor": "salty, crisp, energizing",
     "dishForm": "Crispy Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -56,21 +56,22 @@
       "amount": "2 tbsp"
     },
     {
-      "name": "fish sauce (gluten\u2011free)",
+      "name": "fish sauce (gluten‑free)",
       "amount": "1 tbsp"
     }
   ],
   "instructions": [
     "Heat the coconut oil in a large pan over medium heat.",
-    "Add the chopped onion and saut\u00e9 until translucent, about 3 minutes.",
+    "Add the chopped onion and sauté until translucent, about 3 minutes.",
     "Stir in the minced garlic and grated ginger; cook for 1 minute until fragrant.",
     "Add the cumin, coriander, turmeric, and smoked paprika, stirring to toast the spices for 2 minutes.",
     "Add the pork cubes, coating them in the spice mixture; brown on all sides for 5 minutes.",
     "Pour in the coconut milk and bring the mixture to a gentle simmer.",
     "Stir in the coco sugar and fish sauce, adjusting the seasoning with a pinch of salt if needed.",
-    "Simmer uncovered for 20\u201325 minutes, or until the pork is tender and the sauce has thickened slightly.",
+    "Simmer uncovered for 20–25 minutes, or until the pork is tender and the sauce has thickened slightly.",
     "Taste and adjust sweetness or saltiness if desired.",
-    "Serve hot, garnished with fresh cilantro and lime wedges, with steamed rice or gluten\u2011free flatbread if desired."
+    "Serve hot, garnished with fresh cilantro and lime wedges, with steamed rice or gluten‑free flatbread if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "slug": "smoky-fluffy-malaysian-pork-curry",
   "source": "ocloud-gpt-oss:20b",
@@ -104,5 +105,9 @@
   "tags": [
     "malaysian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
   ]
 }

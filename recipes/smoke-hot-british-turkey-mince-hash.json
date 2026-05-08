@@ -63,7 +63,8 @@
     "Heat a non-stick skillet over medium-high heat.",
     "Add the butter and let it melt.",
     "Add the sliced onions and cook until they're translucent and starting to caramelize.",
-    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning."
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -101,5 +102,9 @@
     "mainIngredient": "turkey mince",
     "descriptor": "smoke-hot",
     "dishForm": "hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

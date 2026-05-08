@@ -2,9 +2,7 @@
   "title": "Spicy Light Quick-Fix Japanese Semolina Stir-fry",
   "description": "A light and spicy Japanese dish featuring semolina flour stir-fried with tandoori spices for a gluten-free meal that's quick to prepare.",
   "cuisine": "Japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -51,8 +49,7 @@
     "light",
     "quick-fix",
     "japanese",
-    "semolina",
-    "gluten-free"
+    "semolina"
   ],
   "nutrition": {
     "calories": 200,
@@ -77,5 +74,9 @@
     "mainIngredient": "Semolina Flour",
     "descriptor": "Spicy Light Quick-Fix",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

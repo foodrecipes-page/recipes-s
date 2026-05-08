@@ -3,7 +3,6 @@
   "description": "A savory and velvety Jamaican dish featuring a delicious pork roast, served with soft buns and a blend of Mediterranean-friendly spices, perfect for a midnight craving.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "pork",
     "descriptor": "Savory Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

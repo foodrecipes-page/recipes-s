@@ -3,8 +3,7 @@
   "description": "A datenight Thai bowl that pairs smoky, sousvied tofu with a creamy malai sauce, crisp veggies, and fragrant jasmine rice.",
   "cuisine": "Thai",
   "diet": [
-    "kosher",
-    "vegan"
+    "kosher"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -38,7 +37,7 @@
     {
       "name": "coconut milk",
       "amount": "200ml",
-      "notes": "full\u2011fat"
+      "notes": "full‑fat"
     },
     {
       "name": "lime",
@@ -51,17 +50,17 @@
     },
     {
       "name": "cucumber",
-      "amount": "\u00bd",
+      "amount": "½",
       "notes": "julienned"
     },
     {
       "name": "carrots",
-      "amount": "\u00bd cup",
+      "amount": "½ cup",
       "notes": "shredded"
     },
     {
       "name": "fresh cilantro",
-      "amount": "\u00bc cup",
+      "amount": "¼ cup",
       "notes": "chopped"
     },
     {
@@ -72,7 +71,7 @@
     {
       "name": "vegetable oil",
       "amount": "2 tbsp",
-      "notes": "for pan\u2011frying"
+      "notes": "for pan‑frying"
     },
     {
       "name": "sesame oil",
@@ -81,13 +80,13 @@
     }
   ],
   "instructions": [
-    "Rinse tofu and pat dry. Arrange tofu cubes in a vacuum\u2011seal bag, add tamari, maple syrup, smoked paprika, minced garlic, and grated ginger. Seal and vacuum.",
-    "Preheat a sous\u2011vide water bath to 100\u202f\u00b0C (212\u202f\u00b0F) and cook the tofu for 30 minutes.",
-    "While tofu cooks, prepare rice: rinse jasmine rice until water runs clear, then cook with 1\u202f\u00bd cups water according to package instructions.",
-    "After the sous\u2011vide, remove tofu, pat dry, and heat 1\u202ftbsp vegetable oil in a non\u2011stick skillet over medium\u2011high heat.",
-    "Sear tofu cubes for 3\u20134 minutes, turning until a deep golden crust forms. Set aside.",
-    "In the same skillet, add remaining 1\u202ftbsp oil and a splash of sesame oil. Add coconut milk, remaining ginger, and a pinch of salt; bring to a gentle simmer.",
-    "Reduce sauce by \u00bc for thickness, then stir in lime juice, a dash of tamari, and a drizzle of maple syrup for balance. Remove from heat.",
+    "Rinse tofu and pat dry. Arrange tofu cubes in a vacuum‑seal bag, add tamari, maple syrup, smoked paprika, minced garlic, and grated ginger. Seal and vacuum.",
+    "Preheat a sous‑vide water bath to 100 °C (212 °F) and cook the tofu for 30 minutes.",
+    "While tofu cooks, prepare rice: rinse jasmine rice until water runs clear, then cook with 1 ½ cups water according to package instructions.",
+    "After the sous‑vide, remove tofu, pat dry, and heat 1 tbsp vegetable oil in a non‑stick skillet over medium‑high heat.",
+    "Sear tofu cubes for 3–4 minutes, turning until a deep golden crust forms. Set aside.",
+    "In the same skillet, add remaining 1 tbsp oil and a splash of sesame oil. Add coconut milk, remaining ginger, and a pinch of salt; bring to a gentle simmer.",
+    "Reduce sauce by ¼ for thickness, then stir in lime juice, a dash of tamari, and a drizzle of maple syrup for balance. Remove from heat.",
     "To assemble bowls, divide cooked rice into two bowls. Top with seared tofu, raw cucumber, shredded carrots, and a sprinkle of toasted sesame seeds.",
     "Pour warm malai sauce over the tofu, then garnish with chopped cilantro.",
     "Serve immediately with a side of lime wedges for extra zing."
@@ -106,8 +105,7 @@
     "date-night",
     "kosher-friendly",
     "bowl",
-    "malai",
-    "vegan"
+    "malai"
   ],
   "nutrition": {
     "calories": 410,
@@ -132,5 +130,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Smoky Crispy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

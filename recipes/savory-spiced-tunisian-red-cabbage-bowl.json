@@ -93,11 +93,15 @@
     "mood": "cozy",
     "technique": "reduce",
     "primaryIngredient": "red cabbage",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "red cabbage",
     "descriptor": "Savory Spiced",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

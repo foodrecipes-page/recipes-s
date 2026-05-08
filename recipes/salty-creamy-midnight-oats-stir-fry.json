@@ -3,8 +3,7 @@
   "description": "A savory and creamy Algerian-inspired dish featuring ground oats simmered with low-fat-friendly ingredients for a midnight craving.",
   "cuisine": "Algerian",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -79,5 +78,9 @@
     "mainIngredient": "Oats",
     "descriptor": "Salty-Creamy-Midnight",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A spicy and flaky Greek dish featuring lamb, cooking wine, and a blend of aromatic spices, perfect for a midnight craving. This low-calorie-friendly pilaf is a delicious and satisfying meal option.",
   "cuisine": "Greek",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -111,5 +110,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Spicy Flaky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

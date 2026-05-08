@@ -3,7 +3,6 @@
   "description": "A light, vegetarian wrap bursting with sauteed wild mushrooms, tangy tahini sauce, and aromatic Middle Eastern spices.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegan",
     "jain"
   ],
   "meal": "lunch",
@@ -50,7 +49,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200\u00b0C (400\u00b0F).",
+    "Preheat oven to 200°C (400°F).",
     "Toss the mushrooms with olive oil, sumac, za'atar, cumin, and sea salt. Spread on a baking sheet and roast for 15 minutes until golden and caramelized.",
     "In a small bowl, whisk together tahini, lemon juice, and a splash of warm water until smooth and creamy. Stir in chickpeas until evenly coated.",
     "Lay a flatbread on a clean surface, spread a generous layer of tahini chickpea mixture, and top with roasted mushrooms and chopped parsley. Fold the edges over the filling and roll tightly.",
@@ -62,7 +61,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "jain-friendly",
     "wrap",
     "middle-eastern",
@@ -94,5 +92,9 @@
     "mainIngredient": "Mushrooms",
     "descriptor": "Salty Gooey",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

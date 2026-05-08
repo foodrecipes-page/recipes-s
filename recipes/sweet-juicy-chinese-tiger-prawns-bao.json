@@ -3,7 +3,6 @@
   "description": "Indulge in the flavors of China with our sweet and juicy tiger prawns bao, served in a soft and fluffy steamed bun.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "lunch",
@@ -41,12 +40,12 @@
     {
       "name": "Garlic",
       "amount": "3 cloves",
-      "notes": "Mince and saut\u00e9 with the prawns"
+      "notes": "Mince and sauté with the prawns"
     },
     {
       "name": "Ginger",
       "amount": "1-inch piece",
-      "notes": "Mince and saut\u00e9 with the prawns"
+      "notes": "Mince and sauté with the prawns"
     },
     {
       "name": "Scallions",
@@ -103,11 +102,16 @@
     "mood": "indulgent",
     "technique": "reduce",
     "primaryIngredient": "tiger prawns",
-    "diet": "nut-free",
+    "diet": "pescatarian",
     "region": null,
     "cuisineAdjective": "Chinese",
     "mainIngredient": "tiger prawns",
     "descriptor": "sweet juicy",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

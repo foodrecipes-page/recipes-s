@@ -69,7 +69,8 @@
     "Serve the pork with the juices spooned over the top and garnished with chopped coriander.",
     "If desired, serve with a side of roasted vegetables or a salad.",
     "Garnish with additional chopped coriander, if desired.",
-    "Serve and enjoy!"
+    "Serve and enjoy!",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 240,
@@ -114,5 +115,9 @@
     "mainIngredient": "coriander",
     "descriptor": "slow-cook Shattering",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

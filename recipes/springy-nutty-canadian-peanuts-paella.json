@@ -67,7 +67,8 @@
     "add the cooked rice, diced tomato, smoked paprika, and salt to the pot.",
     "stir in the peanuts and cook for 2 minutes.",
     "reduce the heat to low and simmer, covered, for 15 minutes.",
-    "let the paella rest for 5 minutes before serving."
+    "let the paella rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -106,5 +107,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "springy nutty",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

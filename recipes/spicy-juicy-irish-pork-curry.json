@@ -14,15 +14,15 @@
     },
     {
       "name": "Onion, diced",
-      "amount": "1 medium (\u2248150g)"
+      "amount": "1 medium (≈150g)"
     },
     {
       "name": "Garlic, minced",
-      "amount": "2 cloves (\u224810g)"
+      "amount": "2 cloves (≈10g)"
     },
     {
       "name": "Fresh ginger, minced",
-      "amount": "1 tbsp (\u224810g)"
+      "amount": "1 tbsp (≈10g)"
     },
     {
       "name": "Diced tomatoes",
@@ -34,34 +34,34 @@
     },
     {
       "name": "Vegetable oil",
-      "amount": "2 tbsp (\u224830ml)"
+      "amount": "2 tbsp (≈30ml)"
     },
     {
       "name": "Smoked paprika",
-      "amount": "2 tsp (\u22486g)"
+      "amount": "2 tsp (≈6g)"
     },
     {
       "name": "Ground cumin",
-      "amount": "1 tsp (\u22483g)"
+      "amount": "1 tsp (≈3g)"
     },
     {
       "name": "Ground coriander",
-      "amount": "1 tsp (\u22483g)"
+      "amount": "1 tsp (≈3g)"
     },
     {
       "name": "Cayenne pepper",
-      "amount": "1 tsp (\u22483g)"
+      "amount": "1 tsp (≈3g)"
     },
     {
       "name": "Salt",
-      "amount": "1 tsp (\u22485g)"
+      "amount": "1 tsp (≈5g)"
     }
   ],
   "instructions": [
     "Heat the vegetable oil in a large saucepan over medium heat.",
-    "Add the diced onion and saut\u00e9 until translucent, about 4 minutes.",
+    "Add the diced onion and sauté until translucent, about 4 minutes.",
     "Stir in the minced garlic and ginger, cooking for 30 seconds until fragrant.",
-    "Add the ground pork, breaking it up with a spoon; cook until browned and fully cooked to 71\u00b0C (160\u00b0F), about 8 minutes.",
+    "Add the ground pork, breaking it up with a spoon; cook until browned and fully cooked to 71°C (160°F), about 8 minutes.",
     "Sprinkle in the smoked paprika, cumin, coriander, cayenne pepper, and salt; stir well for 1 minute.",
     "Pour in the diced tomatoes (and whiskey, if using) and bring to a gentle simmer for 5 minutes.",
     "Reduce heat to low, whisk in the plain yogurt, and gently simmer for 5 minutes, ensuring the yogurt does not curdle.",
@@ -98,11 +98,15 @@
     "mood": "post-workout",
     "technique": "roast",
     "primaryIngredient": "ground pork",
-    "diet": "halal",
+    "diet": "halal-friendly",
     "region": null,
     "cuisineAdjective": "Irish",
     "mainIngredient": "pork",
     "descriptor": "Spicy Juicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

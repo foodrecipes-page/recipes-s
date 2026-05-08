@@ -48,7 +48,8 @@
     "Spread the kale mixture on a baking sheet lined with parchment paper. Drizzle more olive oil over the top for extra flavor and to prevent sticking.",
     "Preheat oven to 400°F (200°C). Roast the kale in the oven for about 30 minutes, or until it's crispy and golden brown, flipping once halfway through.",
     "While kale is roasting, wash shredded carrots and set aside. You can use less or more based on personal preference.",
-    "Once roasted kale cools down, stir in shredded carrots just before serving to keep the vegetables crunchy. Garnish with sesame seeds if desired."
+    "Once roasted kale cools down, stir in shredded carrots just before serving to keep the vegetables crunchy. Garnish with sesame seeds if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -86,5 +87,9 @@
     "mainIngredient": "Kale",
     "descriptor": "Smoky Roasted",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

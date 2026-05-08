@@ -43,7 +43,8 @@
     "Preheat tandoor oven to 200°C (400°F) with clay bricks for even heat distribution.",
     "In a small bowl, mix bicarbonate of soda, smoked paprika, garlic powder, and olive oil for the crust blend.",
     "Place duck breasts skin-side down on the tandoor oven rack, ensuring even contact with the heat source.",
-    "Brush duck skin with the crust blend and roast for 10-12 minutes until skin is crisp and meat is tender."
+    "Brush duck skin with the crust blend and roast for 10-12 minutes until skin is crisp and meat is tender.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 12,
@@ -82,5 +83,9 @@
     "mainIngredient": "duck",
     "descriptor": "Smoky Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

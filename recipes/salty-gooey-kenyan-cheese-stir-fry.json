@@ -2,9 +2,7 @@
   "title": "Salty Gooey Kenyan Cheese Stir-fry",
   "description": "A delicious and comforting pescatarian-friendly date-night dish featuring gooey cheese stirred into a spicy sauce with tender vegetables for a satisfying meal.",
   "cuisine": "kenyan",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -80,5 +78,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Salty Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

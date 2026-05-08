@@ -2,9 +2,7 @@
   "title": "Sweet Argentinian Dulce De Leche Empanadas",
   "description": "Tangy and crumbly empanadas filled with dulce de leche, a nostalgic Argentinian dish now vegan-friendly",
   "cuisine": "Argentinian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -62,8 +60,7 @@
     "dulce-de-leche",
     "empanadas",
     "nostalgic",
-    "sweet",
-    "vegan"
+    "sweet"
   ],
   "nutrition": {
     "calories": 250,
@@ -88,5 +85,9 @@
     "mainIngredient": "dulce de leche",
     "descriptor": "Sweet",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

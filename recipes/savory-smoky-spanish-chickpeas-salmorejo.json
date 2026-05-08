@@ -63,7 +63,8 @@
     "Stir in the chicken broth and bring to a simmer.",
     "Reduce the heat to low and let cook for 10 minutes until the liquid has reduced slightly.",
     "Stir in the shredded manchego cheese until melted and well combined.",
-    "Transfer the mixture to a serving dish and top with the crispy lardons, chopped parsley, and a drizzle of olive oil."
+    "Transfer the mixture to a serving dish and top with the crispy lardons, chopped parsley, and a drizzle of olive oil.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Savory Smoky",
     "dishForm": "Salmorejo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

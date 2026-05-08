@@ -42,7 +42,8 @@
     "In the same pan, add onion and garlic. Stir-fry for about 2-3 minutes until fragrant.",
     "Mix in tomato paste followed by vinegar. Let it simmer for about 1 minute to allow flavors to meld together.",
     "Return ground beef back into the pan along with a pinch of salt and pepper. Cook for an additional minute or two, stirring occasionally.",
-    "Serve hot as a side dish or main course."
+    "Serve hot as a side dish or main course.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -79,5 +80,9 @@
     "mainIngredient": "Ground Beef",
     "descriptor": "Sour Juicy Cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

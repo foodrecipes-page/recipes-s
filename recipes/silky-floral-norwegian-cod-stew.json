@@ -2,9 +2,7 @@
   "title": "Silky Floral Norwegian Cod Stew",
   "description": "A comforting Norwegian cod stew infused with floral herbs, mustard, and a silky cream finish, perfect for a cozy dinner.",
   "cuisine": "Norwegian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -82,12 +80,12 @@
     },
     {
       "name": "Cumin powder",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     }
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat and add ground mustard and cumin; toast for 1-2 minutes until fragrant, creating a bhuna.",
-    "Add chopped onion, diced carrot, and celery to the pot; saut\u00e9 until softened, about 5 minutes.",
+    "Add chopped onion, diced carrot, and celery to the pot; sauté until softened, about 5 minutes.",
     "Stir in minced garlic, smoked paprika, thyme, and bay leaf, cooking for another minute to bloom the spices.",
     "Pour in water, white wine, and fish stock, bringing the mixture to a gentle boil.",
     "Add cod cubes to the pot and reduce heat; simmer gently for 8-10 minutes until the fish is opaque and cooked through.",
@@ -127,5 +125,9 @@
   "tags": [
     "norwegian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
   ]
 }

@@ -3,7 +3,6 @@
   "description": "Grilled Thai chicken skewers served with a sweet and crunchy peanut sauce, fresh basil, and crispy fried shallots. A perfect light and refreshing dish for any occasion.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "vegetarian-friendly"
   ],
   "meal": "dinner",
@@ -115,5 +114,9 @@
     "mainIngredient": "chicken",
     "descriptor": "sweet crisp",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

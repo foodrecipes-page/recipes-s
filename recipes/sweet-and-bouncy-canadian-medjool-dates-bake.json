@@ -3,7 +3,6 @@
   "description": "post-workout snack featuring medjool dates and a hint of floral flavors, low-glycemic-friendly.",
   "cuisine": "canadian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -90,5 +89,9 @@
     "mainIngredient": "medjool dates",
     "descriptor": "Sweet and Bouncy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

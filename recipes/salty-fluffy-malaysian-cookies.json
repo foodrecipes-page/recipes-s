@@ -62,7 +62,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
-  "totalTimeMin": 55,
+  "totalTimeMin": 35,
   "servings": 12,
   "difficulty": "medium",
   "tags": [
@@ -94,5 +94,9 @@
     "mainIngredient": "cookies",
     "descriptor": "salty fluffy",
     "dishForm": "Cookies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

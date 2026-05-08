@@ -3,8 +3,7 @@
   "description": "A traditional Korean dish from the Gangwon region, this Silky Smooth Korean Soya Milk Tang is a bitter and velvety monsoon-inspired recipe featuring soya milk, made shojin-friendly and emulsified to perfection, it is a unique and flavorful form of tang.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
-  "totalTimeMin": 55,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -74,7 +73,6 @@
     "monsoon-inspired",
     "shojin-friendly",
     "soya-milk",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -100,5 +98,10 @@
     "mainIngredient": "soya milk",
     "descriptor": "Silky Smooth",
     "dishForm": "Tang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

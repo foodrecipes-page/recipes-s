@@ -46,7 +46,8 @@
     "Distribute half of the seasoned meat mixture evenly on one-third of a baking sheet lined with parchment paper. Place lasagne sheets over the meat in overlapping circles.",
     "Pour remaining 1 tablespoon of vegetable broth over the lasagne sheets.",
     "Add more seasoning (salt, black pepper) to taste and then sprinkle chopped parsley over the top.",
-    "Bake for about 20-25 minutes or until golden brown on top. Let it rest for a few minutes before serving."
+    "Bake for about 20-25 minutes or until golden brown on top. Let it rest for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -82,5 +83,9 @@
     "mainIngredient": "lasagne sheets",
     "descriptor": "Savory Fluffy",
     "dishForm": "Lasagne"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A smoky and flavorful burger featuring Argentinian-style grilled chorizo, topped with a zesty slaw made with apple cider vinegar and a sprinkle of cilantro.",
   "cuisine": "Argentinian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -113,5 +112,9 @@
     "mainIngredient": "Argentinian dish",
     "descriptor": "Smoky Zesty",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

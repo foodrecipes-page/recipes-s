@@ -89,7 +89,6 @@
   "servings": 2,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "hangover-cure",
     "lazy-susan-spinner",
     "ramen",
@@ -119,5 +118,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Sour Soft",
     "dishForm": "Shoyu Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

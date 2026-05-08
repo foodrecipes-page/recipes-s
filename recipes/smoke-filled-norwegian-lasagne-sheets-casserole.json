@@ -3,7 +3,6 @@
   "description": "savory, shaggy, and romantic norwegian dish featuring lasagne sheets, smoke, and buddhist-temple-friendly ingredients ",
   "cuisine": "norwegian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -92,5 +91,9 @@
     "mainIngredient": "lasagne sheets",
     "descriptor": "smoke-filled",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

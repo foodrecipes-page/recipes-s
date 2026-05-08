@@ -3,8 +3,7 @@
   "description": "A hearty, earthy, and crunchy Croatian dish featuring smoky roasted vegetables over vermicelli pasta.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "croatian",
-    "gluten-free",
     "one-pan",
     "vegetarian",
     "weeknight"
@@ -103,5 +101,9 @@
     "mainIngredient": "vermicelli",
     "descriptor": "smoky roasted",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

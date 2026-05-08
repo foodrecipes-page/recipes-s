@@ -3,7 +3,6 @@
   "description": "A tangy and gooey kid-friendly Algerian dish featuring roasted peppers, this tagine is perfect for a weeknight dinner, and its ayurvedic tamasic friendly properties make it a great option for a comforting meal.",
   "cuisine": "Algerian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -62,7 +61,8 @@
     "Add the minced garlic and cook for 1 minute.",
     "Stir in the cumin, smoked paprika, salt, and black pepper.",
     "Add the roasted peppers, chicken broth, and honey to the bowl.",
-    "Bring the mixture to a simmer and cook for 10 minutes."
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -74,7 +74,6 @@
     "north-african",
     "one-pot",
     "stone-bowl",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -100,5 +99,10 @@
     "mainIngredient": "pepper",
     "descriptor": "Sweet Smoky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

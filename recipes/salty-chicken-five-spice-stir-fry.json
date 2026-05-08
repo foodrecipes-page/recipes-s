@@ -2,10 +2,7 @@
   "title": "Salty Chicken Five Spice Stir-Fry",
   "description": "A kid-friendly and tender Indian-style stir-fry featuring salty chicken, Chinese five spice powder, and a touch of tang from pickles, suitable for all diets.",
   "cuisine": "Indian-Chinese Fusion",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -53,7 +50,9 @@
     "Remove the chicken from the pan and set aside. In the same pan, add pickled ginger and capsicum and stir-fry for about 2 minutes.",
     "Push the vegetables to one side of the pan and return the chicken to the other half of the pan. Pour in vegetable stock or water and bring to a simmer.",
     "Stir until most of the liquid has evaporated, then finish cooking until the sauce thickens slightly but still retains some moisture for a better texture.",
-    "Return the cooked chicken back into the pan and toss everything together gently to ensure all ingredients are well combined. Serve hot with steamed rice or noodles."
+    "Return the cooked chicken back into the pan and toss everything together gently to ensure all ingredients are well combined. Serve hot with steamed rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -90,5 +89,12 @@
     "mainIngredient": "chicken",
     "descriptor": "Salty",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

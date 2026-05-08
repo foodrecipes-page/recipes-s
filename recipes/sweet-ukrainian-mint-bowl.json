@@ -2,9 +2,7 @@
   "title": "Sweet Ukrainian Mint Bowl",
   "description": "A dense, sweet mint bowl that satisfies midnight cravings with a refreshing Ukrainian twist. Vegan-friendly and perfect for late-night snacking.",
   "cuisine": "ukrainian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -49,7 +47,6 @@
     "uks",
     "mint",
     "sweet",
-    "vegan",
     "snack"
   ],
   "nutrition": {
@@ -75,5 +72,9 @@
     "mainIngredient": "mint",
     "descriptor": "Sweet",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

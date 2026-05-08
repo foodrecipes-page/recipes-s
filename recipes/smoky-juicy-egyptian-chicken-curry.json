@@ -4,7 +4,6 @@
   "cuisine": "Egyptian",
   "diet": [
     "gluten-free",
-    "dairy-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -109,5 +108,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Smoky Juicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A nutty and silky Korean dish featuring beef brisket, perfect for a date night, this ayurvedic-sattvic-friendly kalguksu is a must try. It is made with lardons-render for added flavor.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -91,5 +90,9 @@
     "mainIngredient": "beef brisket",
     "descriptor": "Silky Smooth",
     "dishForm": "Kalguksu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

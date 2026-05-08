@@ -81,11 +81,15 @@
     "mood": "crowd-pleaser",
     "technique": "steam",
     "primaryIngredient": "smoky paprika",
-    "diet": "nut-free",
+    "diet": "vegan",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "sweet potato",
     "descriptor": "Smoky Paprika",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

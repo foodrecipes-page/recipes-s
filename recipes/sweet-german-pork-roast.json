@@ -2,9 +2,7 @@
   "title": "Sweet German Pork Roast",
   "description": "A traditional German dish featuring a sweet and velvety pork roast, perfect for special occasions. This recipe is halal-friendly and uses only the finest ingredients.",
   "cuisine": "German",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "pork",
     "descriptor": "sweet velvety",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

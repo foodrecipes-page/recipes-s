@@ -60,7 +60,8 @@
     "Gradually add mince, stirring constantly to break it up into crumbles. Cook until browned on all sides, about 5-7 minutes.",
     "Sprinkle cumin seeds and coriander seeds over the mixture, stir well, then cook for another minute.",
     "Remove from heat and mix in lime juice. Stir in chopped parsley and basil leaves.",
-    "Serve hot as a solo dinner dish with crusty bread."
+    "Serve hot as a solo dinner dish with crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -92,5 +93,9 @@
     "primaryIngredient": "sesame seed oil",
     "diet": "low-carb",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Smoky Light Thai Vermicelli Stir-fry",
   "description": "A light and smoky solo dinner dish featuring gluten-free vermicelli pasta cooked with a mix of aromatic vegetables and spices in a creamy sauce.",
   "cuisine": "Thai",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -90,5 +88,9 @@
     "mainIngredient": "vermicelli",
     "descriptor": "Smoky Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

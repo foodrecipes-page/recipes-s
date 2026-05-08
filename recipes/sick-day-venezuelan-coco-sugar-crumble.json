@@ -112,11 +112,15 @@
     "mood": "sick-day",
     "technique": "ferment-jang",
     "primaryIngredient": "coco sugar",
-    "diet": "nut-free",
+    "diet": "dairy",
     "region": null,
     "cuisineAdjective": "Venezuelan",
     "mainIngredient": "coco sugar",
     "descriptor": "sick-day",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

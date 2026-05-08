@@ -3,8 +3,7 @@
   "description": "smoke-hot irish plum bake is a tangy and sweet dessert featuring ume plums, smoky bacon, and a crunchy oat topping. this dish is perfect for a special occasion or as a show-stopping dessert at a dinner party.",
   "cuisine": "irish",
   "diet": [
-    "macrobiotic",
-    "gluten-free"
+    "macrobiotic"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -115,5 +114,9 @@
     "mainIngredient": "Plum",
     "descriptor": "Smoke-Hot",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

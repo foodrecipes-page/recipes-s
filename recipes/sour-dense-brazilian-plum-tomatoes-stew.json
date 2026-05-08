@@ -28,7 +28,7 @@
       "notes": "diced"
     },
     {
-      "name": "low\u2011FODMAP broth",
+      "name": "low‑FODMAP broth",
       "amount": "1 cup"
     },
     {
@@ -74,10 +74,11 @@
     "Heat olive oil in a large pot over medium heat.",
     "Add ground turkey and cook until browned, about 5 minutes.",
     "Stir in carrots, zucchini, cumin, paprika, oregano, salt, and pepper; cook for 3 minutes.",
-    "Add chopped plum tomatoes and pour in the low\u2011FODMAP broth.",
+    "Add chopped plum tomatoes and pour in the low‑FODMAP broth.",
     "Bring to a gentle boil, then reduce heat and let simmer uncovered for 20 minutes, or until vegetables are tender and stew has thickened.",
     "Stir in lemon juice and adjust seasoning if needed.",
-    "Remove from heat and sprinkle with fresh parsley and basil before serving."
+    "Remove from heat and sprinkle with fresh parsley and basil before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "slug": "sour-dense-brazilian-plum-tomatoes-stew",
   "source": "ocloud-gpt-oss:20b",
@@ -111,5 +112,9 @@
   "tags": [
     "brazilian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
   ]
 }

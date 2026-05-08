@@ -70,7 +70,8 @@
     "Season with salt and pepper to taste.",
     "Add a pinch of chili flakes (optional) for extra flavor.",
     "Mix everything together until all ingredients are evenly distributed.",
-    "Serve hot as a side dish or main course. Enjoy your Lazy-Sunday Uruguayan Steak Stir-fry!"
+    "Serve hot as a side dish or main course. Enjoy your Lazy-Sunday Uruguayan Steak Stir-fry!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -105,5 +106,9 @@
     "mainIngredient": "Steak",
     "descriptor": "Sweet Chewy Lazy-Sunday",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

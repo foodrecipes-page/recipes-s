@@ -4,8 +4,7 @@
   "cuisine": "Japanese",
   "diet": [
     "low-carb",
-    "nut-friendly",
-    "gluten-free"
+    "nut-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -61,12 +60,12 @@
     }
   ],
   "instructions": [
-    "Preheat a non\u2011stick skillet over medium heat and add a splash of sesame oil.",
+    "Preheat a non‑stick skillet over medium heat and add a splash of sesame oil.",
     "In a bowl whisk the eggs, almond milk, mirin, salt, and baking powder until frothy.",
     "Stir in the coconut flour until the batter is smooth.",
     "Fold in the chopped pistachios.",
-    "Pour the batter into the skillet, forming a thin, round pancake about 1\u202fcm thick.",
-    "Cook 3\u20134 minutes until the edges set, then flip and cook another 3 minutes until golden brown.",
+    "Pour the batter into the skillet, forming a thin, round pancake about 1 cm thick.",
+    "Cook 3–4 minutes until the edges set, then flip and cook another 3 minutes until golden brown.",
     "Transfer the pancake to a plate, top with toasted sesame seeds and sliced scallions.",
     "Serve hot as a bowl, drizzle with a touch of soy sauce if desired."
   ],
@@ -102,5 +101,9 @@
   "tags": [
     "japanese",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
   ]
 }

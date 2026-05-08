@@ -63,7 +63,8 @@
     "In a large pan or wok, heat olive oil over medium-high heat. Add onion and garlic, sauté for about 3 minutes until fragrant.",
     "Add broccoli florets and stir-fry for another minute. Season with salt, pepper, and the minced chilies if using.",
     "Stir in rum and chicken broth; bring to a simmer. Gradually add coconut milk, stirring constantly to avoid lumps. Simmer for 2 minutes until thickened.",
-    "Add cooked rice to the pan, toss gently to combine all ingredients evenly. Serve hot with extra soy sauce or chili oil on the side if desired."
+    "Add cooked rice to the pan, toss gently to combine all ingredients evenly. Serve hot with extra soy sauce or chili oil on the side if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Creamy Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

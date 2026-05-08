@@ -3,7 +3,6 @@
   "description": "A peppery and energizing Irish dish featuring pineapple chunks, render fat, and ayurvedic sattvic friendly ingredients, this skillet is perfect for a weeknight dinner. The combination of sweet and spicy flavors will leave you wanting more.",
   "cuisine": "Irish",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -61,7 +60,6 @@
     "irish-cuisine",
     "one-pan",
     "sweet-and-spicy",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -87,5 +85,9 @@
     "mainIngredient": "pineapple",
     "descriptor": "sweet spicy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

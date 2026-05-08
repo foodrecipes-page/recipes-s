@@ -61,7 +61,8 @@
     "Add the diced grilled chicken and sliced bell peppers, and stir to combine.",
     "Reduce the heat to low and simmer, covered, for 10 minutes.",
     "Stir in the chopped Thai basil and cook for an additional 2 minutes.",
-    "Serve the curry hot, garnished with additional Thai basil if desired."
+    "Serve the curry hot, garnished with additional Thai basil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -98,5 +99,9 @@
     "mainIngredient": "masarepa",
     "descriptor": "silky smooth",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

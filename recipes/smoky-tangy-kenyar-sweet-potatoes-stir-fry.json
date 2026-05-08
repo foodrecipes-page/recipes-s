@@ -2,9 +2,7 @@
   "title": "Smoky Tangy Kenyar Sweet Potatoes Stir-fry",
   "description": "A festive vegan dish featuring tender sweet potatoes seasoned with smokiness and tanginess for a delightful fusion of flavors.",
   "cuisine": "Kenyan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "sweet potatoes",
     "descriptor": "Tangy Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

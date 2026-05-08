@@ -69,7 +69,8 @@
     "Fluff the pilaf with a fork and season with salt and black pepper to taste.",
     "Serve the pilaf hot, garnished with chopped fresh parsley or dill if desired.",
     "Refrigerate or freeze any leftovers for later use.",
-    "Reheat the pilaf gently before serving, adding a splash of chicken broth if it seems dry."
+    "Reheat the pilaf gently before serving, adding a splash of chicken broth if it seems dry.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -106,5 +107,9 @@
     "mainIngredient": "sardines",
     "descriptor": "fluffy savory",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

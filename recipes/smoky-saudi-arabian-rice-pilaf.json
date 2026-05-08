@@ -83,7 +83,8 @@
     "Serve the pilaf garnished with chopped fresh herbs, if desired.",
     "Note: Traditionally, this dish is cooked over a wood fire or on a stovetop with a smoky wood chip, which adds a smoky flavor to the dish. To replicate this, you can add a few drops of liquid smoke to the pot during the last 5 minutes of cooking.",
     "If you want a crispy, caramelized crust on the bottom of the pilaf, cook it for an additional 10-15 minutes, uncovered.",
-    "If you prefer a creamier pilaf, you can add 1/4 cup of heavy cream or yogurt towards the end of cooking."
+    "If you prefer a creamier pilaf, you can add 1/4 cup of heavy cream or yogurt towards the end of cooking.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -122,5 +123,9 @@
     "mainIngredient": "rice",
     "descriptor": "Smoky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

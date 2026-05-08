@@ -78,7 +78,8 @@
     "Add the caraway seeds, paprika, salt, and black pepper, and stir to combine.",
     "Deglaze the pan with red wine vinegar and water, scraping up any browned bits from the bottom of the pan.",
     "Simmer the mixture, stirring occasionally, until the liquid has reduced and the pork is crispy and golden brown, about 10 minutes.",
-    "Stir in chopped fresh parsley and serve hot."
+    "Stir in chopped fresh parsley and serve hot.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -116,5 +117,9 @@
     "mainIngredient": "pork",
     "descriptor": "spicy crunchy",
     "dishForm": "hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

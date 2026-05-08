@@ -2,9 +2,7 @@
   "title": "Sour Chewy Irish Chinese Cabbage Soup",
   "description": "This vegan-friendly sour and chewy Irish-style cabbage soup is energizing and perfect for a quick lunch or snack.",
   "cuisine": "Irish-Chinese fusion cuisine",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -66,8 +64,7 @@
     "chewy",
     "energizing",
     "irish",
-    "cabbage",
-    "vegan"
+    "cabbage"
   ],
   "nutrition": {
     "calories": 200,
@@ -92,5 +89,9 @@
     "mainIngredient": "Chinese cabbage",
     "descriptor": "Sour, Chewy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Smoky Velvety Greek Salmon Bowl",
   "description": "A comforting bowl of smoked salmon, creamy Greek yogurt sauce, and fresh vegetables, infused with smoky paprika and a silky texture.",
   "cuisine": "Greek",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -54,7 +52,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400\u00b0F (200\u00b0C).",
+    "Preheat oven to 400°F (200°C).",
     "Pat salmon dry and rub with olive oil, smoked paprika, liquid smoke, salt, and pepper.",
     "Place salmon on a baking sheet and bake for 12-15 minutes, until flaky and lightly charred.",
     "While salmon bakes, whisk Greek yogurt with lemon juice, dill, and a pinch of salt until smooth.",
@@ -96,5 +94,9 @@
   "tags": [
     "greek",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
   ]
 }

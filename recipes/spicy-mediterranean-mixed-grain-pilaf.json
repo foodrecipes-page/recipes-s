@@ -4,8 +4,7 @@
   "cuisine": "Mediterranean",
   "diet": [
     "vegan",
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -92,7 +91,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "low-calorie",
     "mediterranean",
     "one-pan",
@@ -122,5 +120,9 @@
     "mainIngredient": "mixed grain",
     "descriptor": "spicy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A jammy, creamy, monsoon-inspired Ethiopian tibs made with tender eggplant and a rich coconut-based sauce.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegan",
     "jain"
   ],
   "meal": "dinner",
@@ -89,8 +88,7 @@
     "ethiopian",
     "jain-friendly",
     "one-pan",
-    "tibs",
-    "vegan"
+    "tibs"
   ],
   "nutrition": {
     "calories": 1600,
@@ -115,5 +113,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Satin",
     "dishForm": "Tibs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

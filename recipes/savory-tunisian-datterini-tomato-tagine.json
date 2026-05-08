@@ -3,8 +3,7 @@
   "description": "A tangy and flavorful Tunisian dish featuring datterini tomatoes, perfect for a date night, with a cheese pull and ayurvedic tamasic friendly ingredients.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,7 +79,6 @@
     "ayurvedic-friendly",
     "cheese-pull",
     "date-night",
-    "gluten-free",
     "tunisian-cuisine",
     "vegetarian"
   ],
@@ -107,5 +105,9 @@
     "mainIngredient": "datterini tomato",
     "descriptor": "Savory",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

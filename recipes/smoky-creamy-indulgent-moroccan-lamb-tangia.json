@@ -146,11 +146,15 @@
     "mood": "indulgent",
     "technique": "mirepoix-base",
     "primaryIngredient": "sugar syrup",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Moroccan",
     "mainIngredient": "Lamb",
     "descriptor": "Smoky Creamy Indulgent",
     "dishForm": "Tangia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

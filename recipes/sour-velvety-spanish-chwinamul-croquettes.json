@@ -3,7 +3,6 @@
   "description": "A bright, tangy croquette that marries Spanish flavor with Korean chwinamul, made vegan and jain-friendly for easy meal prep.",
   "cuisine": "Spanish",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "snack",
@@ -72,13 +71,10 @@
   "difficulty": "medium",
   "tags": [
     "crunchy",
-    "dairy-free",
-    "gluten-free",
     "jain-friendly",
     "meal-prep",
     "quick-fry",
-    "spanish-inspiration",
-    "vegan"
+    "spanish-inspiration"
   ],
   "nutrition": {
     "calories": 180,
@@ -103,5 +99,11 @@
     "mainIngredient": "Chwinamul",
     "descriptor": "Sour Velvety",
     "dishForm": "Croquettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

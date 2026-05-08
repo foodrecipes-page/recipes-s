@@ -3,7 +3,6 @@
   "description": "A solo-dinner dish featuring a savory and velvety blend of desiccated coconut cooked with aromatic herbs and vegetables in a light sauce for a satisfying, fodmap-friendly meal.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegan",
     "low-fodmap"
   ],
   "meal": "dinner",
@@ -42,10 +41,11 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a non-stick wok or skillet over medium heat. Add minced garlic and grated ginger; saut\u00e9 for about 1 minute until fragrant.",
+    "Heat the olive oil in a non-stick wok or skillet over medium heat. Add minced garlic and grated ginger; sauté for about 1 minute until fragrant.",
     "Add bell peppers and carrots to the pan, stirring occasionally for about 5 minutes until vegetables are soft but not mushy.",
     "Pour in the coconut milk canning (leaving any sediment at the bottom of the can), stir well. Bring to a simmer, then reduce heat to low. Let it gently simmer for about 10-12 minutes, or until slightly reduced and thickened.",
-    "Stir in tahini, continue cooking for an additional minute. Mix in chopped cilantro just before serving to avoid losing color and flavor."
+    "Stir in tahini, continue cooking for an additional minute. Mix in chopped cilantro just before serving to avoid losing color and flavor.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -81,5 +81,10 @@
     "mainIngredient": "Desiccated Coconut",
     "descriptor": "Savory Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-preserving_no_acid"
+  ]
 }

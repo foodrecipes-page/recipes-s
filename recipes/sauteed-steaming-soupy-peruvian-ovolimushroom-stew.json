@@ -74,7 +74,8 @@
   "instructions": [
     "Heat a claypot over medium heat. ",
     "Add the onion and cook until translucent. ",
-    "Add the garlic, aji amarillo pepper, cumin, and coriander. "
+    "Add the garlic, aji amarillo pepper, cumin, and coriander. ",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -111,5 +112,9 @@
     "mainIngredient": "ovolimushroom",
     "descriptor": "Sauteed Steaming Soupy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

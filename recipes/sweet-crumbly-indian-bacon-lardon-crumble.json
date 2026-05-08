@@ -3,8 +3,7 @@
   "description": "A quick-fix sweet and crumbly dish featuring bacon lardons, poached in a sugar-free-friendly syrup.",
   "cuisine": "Indian",
   "diet": [
-    "sugar-free",
-    "vegetarian"
+    "sugar-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -67,5 +66,9 @@
     "mainIngredient": "Bacon Lardon",
     "descriptor": "Sweet Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Smoky Thai White Fish Stir-fry",
   "description": "A smoky and flaky dish featuring white fish in a monsoon-inspired spice blend, vegetarian-friendly and easy to prepare.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -57,8 +55,7 @@
     "flaky",
     "monsoon",
     "thai",
-    "stir-fry",
-    "vegetarian"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 500,
@@ -83,5 +80,9 @@
     "mainIngredient": "white fish",
     "descriptor": "Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

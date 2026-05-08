@@ -3,7 +3,6 @@
   "description": "A sweet and chewy Indian-inspired dessert featuring milk chocolate, perfect for a dairy-free friendly treat. This meal-prep friendly dish is broiled to perfection.",
   "cuisine": "Maharashtrian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -69,7 +68,6 @@
   "difficulty": "easy",
   "tags": [
     "indian-dessert",
-    "dairy-free",
     "vegetarian",
     "milk-chocolate",
     "broiled"
@@ -97,5 +95,9 @@
     "mainIngredient": "milk chocolate",
     "descriptor": "sweet chewy",
     "dishForm": "Bars"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

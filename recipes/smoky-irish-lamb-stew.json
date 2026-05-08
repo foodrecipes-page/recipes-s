@@ -3,8 +3,7 @@
   "description": "A hearty, pillowy Irish stew featuring the rich flavors of lamb, sweet smoked paprika, and a tangy beurre-monte.",
   "cuisine": "Irish",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -85,7 +84,6 @@
   "servings": 4,
   "difficulty": "hard",
   "tags": [
-    "gluten-free",
     "irish",
     "low-sodium",
     "one-pot",
@@ -114,5 +112,9 @@
     "mainIngredient": "lamb",
     "descriptor": "smoky",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

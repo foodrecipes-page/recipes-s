@@ -2,9 +2,7 @@
   "title": "Spicy Dense Nostalgic Malaysian Pistachio Stir-fry",
   "description": "A spicy and dense dish featuring a mix of aromatic spices and creamy textures, enriched with pistachio paste for an authentic Malaysian flavor profile.",
   "cuisine": "Malaysian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -54,7 +52,7 @@
   ],
   "instructions": [
     "Heat sesame oil in a pan over medium heat.",
-    "Add minced ginger and onion. Saut\u00e9 until onions become translucent.",
+    "Add minced ginger and onion. Sauté until onions become translucent.",
     "Stir in pistachio paste and red pepper flakes. Cook for about 2 minutes, stirring constantly to avoid burning.",
     "Pour in water chestnuts and soy sauce. Stir until the mixture thickens slightly.",
     "Reduce heat to low, add peanut butter and cumin seeds. Mix well.",
@@ -72,8 +70,7 @@
     "nostalgic",
     "malaysian",
     "pistachio",
-    "stir-fry",
-    "dairy-free"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 500,
@@ -98,5 +95,9 @@
     "mainIngredient": "Pistachio",
     "descriptor": "Spicy Dense Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

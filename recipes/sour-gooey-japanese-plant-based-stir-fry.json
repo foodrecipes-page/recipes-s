@@ -3,7 +3,6 @@
   "description": "This savory dish combines ghee for a rich flavor with tofu and edamame for a protein boost, all tossed in a tangy sauce infused with umami flavors.",
   "cuisine": "Japanese",
   "diet": [
-    "vegan",
     "plant-based"
   ],
   "meal": "lunch",
@@ -83,5 +82,9 @@
     "mainIngredient": "plant_based",
     "descriptor": "Sour Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -53,14 +53,15 @@
     }
   ],
   "instructions": [
-    "Heat oil in a large skillet over medium\u2011high heat. Add sliced onion and saut\u00e9 until translucent, about 3 minutes.",
+    "Heat oil in a large skillet over medium‑high heat. Add sliced onion and sauté until translucent, about 3 minutes.",
     "Add minced garlic and ginger, cooking for 1 minute until fragrant.",
     "Stir in diced tomatoes and tomato paste, cook 2 minutes until tomatoes soften.",
     "Add chicken pieces, browning all sides for about 5 minutes.",
     "Sprinkle the spice blend over the chicken, stir to coat, and cook 2 minutes to toast the spices.",
-    "Pour in the low\u2011sodium chicken broth, bring to a simmer, reduce heat to medium\u2011low, cover, and cook 8\u201310 minutes until the chicken is tender and the liquid has thickened.",
+    "Pour in the low‑sodium chicken broth, bring to a simmer, reduce heat to medium‑low, cover, and cook 8–10 minutes until the chicken is tender and the liquid has thickened.",
     "Stir in salt and adjust seasoning; if the sauce needs more thickness, simmer uncovered for another 2 minutes.",
-    "Sprinkle chopped cilantro, remove from heat, and serve hot over rice or naan."
+    "Sprinkle chopped cilantro, remove from heat, and serve hot over rice or naan.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Salty",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

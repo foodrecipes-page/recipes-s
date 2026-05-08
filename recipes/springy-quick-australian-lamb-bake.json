@@ -3,8 +3,7 @@
   "description": "A light and malty brunch dish from Australia featuring lamb shanks, flambe, and a low-glycemic twist.",
   "cuisine": "australian",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -80,7 +79,6 @@
     "breakfast",
     "brunch",
     "flambe",
-    "gluten-free",
     "lamb",
     "low-glycemic"
   ],
@@ -107,5 +105,9 @@
     "mainIngredient": "lamb",
     "descriptor": "springy quick",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

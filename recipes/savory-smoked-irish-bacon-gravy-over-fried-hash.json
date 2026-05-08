@@ -3,7 +3,6 @@
   "description": "A tangy, crispy Irish breakfast dish featuring smoked Irish bacon, ginger garlic paste, and a fodmap-friendly twist.",
   "cuisine": "Irish",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "breakfast",
@@ -104,5 +103,9 @@
     "mainIngredient": "bacon",
     "descriptor": "Savory Smoked",
     "dishForm": "Gravy-over-Fried-Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "a hearty, comforting stew perfect for the holiday season. its bitter flavors and tender beef will leave you wanting more.",
   "cuisine": "irish",
   "diet": [
-    "kosher",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -126,5 +125,9 @@
     "mainIngredient": "beef stock",
     "descriptor": "shattering bitter",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

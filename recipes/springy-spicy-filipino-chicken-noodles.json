@@ -2,9 +2,7 @@
   "title": "Springy Spicy Filipino Chicken Noodles",
   "description": "A peppery and springy Filipino dish featuring chicken and noodles, perfect for a brunch mood. This recipe uses bouillon cubes and is gluten-free friendly.",
   "cuisine": "Filipino",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
     "brunch-ideas",
     "chicken-recipes",
     "filipino-cuisine",
-    "gluten-free",
     "noodle-dishes",
     "spicy"
   ],
@@ -90,5 +87,9 @@
     "mainIngredient": "chicken",
     "descriptor": "springy spicy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

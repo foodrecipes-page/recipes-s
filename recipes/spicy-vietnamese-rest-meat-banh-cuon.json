@@ -106,7 +106,8 @@
     "Serve with spicy sauce on the side, if desired.",
     "For the spicy sauce, combine 2 tablespoons of hot water with 2 tablespoons of spicy sauce in a small bowl, and mix well.",
     "Heat the mixture over low heat, and stir constantly until the sauce is warm and fragrant.",
-    "Serve the spicy sauce on the side, if desired."
+    "Serve the spicy sauce on the side, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -145,5 +146,9 @@
     "mainIngredient": "rest-meat",
     "descriptor": "Spicy",
     "dishForm": "Banh-Cuon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

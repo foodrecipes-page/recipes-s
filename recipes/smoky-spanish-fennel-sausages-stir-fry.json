@@ -2,9 +2,7 @@
   "title": "Smoky Spanish Fennel Sausages Stir-fry",
   "description": "A festive vegan-friendly dish featuring Italian fennel sausages in a smoky sauce with tender vegetables for a perfect side or main course.",
   "cuisine": "Spanish",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +96,9 @@
     "mainIngredient": "Fennel Sausages",
     "descriptor": "Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

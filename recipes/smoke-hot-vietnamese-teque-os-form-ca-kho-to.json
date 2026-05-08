@@ -68,7 +68,8 @@
     "add 4 cups of chicken stock, 2 tablespoons of fish sauce, 2 tablespoons of lime juice, 1 tablespoon of sugar, and to taste of black pepper and iron teppan seasoning to the teppan.",
     "bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "add chopped green onions as a garnish and serve hot.",
-    "let the dish sit for 5 minutes before serving to allow the flavors to meld together."
+    "let the dish sit for 5 minutes before serving to allow the flavors to meld together.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -104,5 +105,9 @@
     "mainIngredient": "teque os",
     "descriptor": "smoke-hot",
     "dishForm": "form-ca-kho-to"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

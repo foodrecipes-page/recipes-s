@@ -4,8 +4,7 @@
   "cuisine": "Chinese",
   "diet": [
     "low-carb",
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -78,5 +77,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

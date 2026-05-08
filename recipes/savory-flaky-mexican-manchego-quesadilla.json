@@ -3,8 +3,7 @@
   "description": "A cultured, flaky, brunch-mood Mexican dish featuring Manchego cheese, perfect for a satisfying meal. This recipe is nut-free-friendly and served in a ramekin.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -90,11 +89,16 @@
     "mood": "brunch-mood",
     "technique": "tadka",
     "primaryIngredient": "manchego",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Mexican",
     "mainIngredient": "Manchego",
     "descriptor": "Savory Flaky",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

@@ -32,7 +32,8 @@
     "Add the salt, black pepper, and kibbeh spice or cumin, and stir to combine.",
     "Transfer the pot to the oven and cook at 300\u00000176F for 20-25 minutes, or until the meat is cooked through.",
     "Remove the pot from the oven and garnish with parsley and chopped onions if desired.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -70,5 +71,9 @@
     "mainIngredient": "Buckwheat flour",
     "descriptor": "Snappy",
     "dishForm": "Kitfo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

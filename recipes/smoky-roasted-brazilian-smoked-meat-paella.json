@@ -3,7 +3,6 @@
   "description": "A rich and juicy Brazilian dish featuring smoky paprika, grilled meats, and a halal-friendly twist, all cooked to perfection in a traditional paella pan.",
   "cuisine": "Brazilian",
   "diet": [
-    "halal",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -141,5 +140,9 @@
     "mainIngredient": "smoked meat",
     "descriptor": "smoky roasted",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

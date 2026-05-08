@@ -3,7 +3,6 @@
   "description": "A sick-day-friendly dish featuring egg yolks and pickled vegetables in a tangy sauce, perfect for those with dietary restrictions.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "nut-free"
   ],
   "meal": "snack",
@@ -69,5 +68,9 @@
     "mainIngredient": "Yolk",
     "descriptor": "Sour",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A smoky, crispy, and flavorful Tunisian dish featuring the unique spices of shichimi togarashi, slow-cooked to perfection for a date-night dinner.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -117,5 +116,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Smoky Oven-Roasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

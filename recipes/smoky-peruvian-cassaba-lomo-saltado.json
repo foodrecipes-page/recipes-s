@@ -3,7 +3,6 @@
   "description": "A peppery and velvety Peruvian dish featuring cassaba, grilled to perfection and served in a dolsot stone bowl, perfect for a lazy Sunday, this ayurvedic rajasic friendly lomo saltado variation combines the best of Peruvian cuisine with the warmth of smoky flavors.",
   "cuisine": "Peruvian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -70,7 +69,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "peruvian-cuisine",
     "smoky-flavors",
@@ -100,5 +98,9 @@
     "mainIngredient": "cassaba",
     "descriptor": "Smoky Savory",
     "dishForm": "Lomo Saltado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

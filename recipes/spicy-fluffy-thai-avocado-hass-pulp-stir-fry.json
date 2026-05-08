@@ -69,8 +69,7 @@
     "avocado",
     "hass",
     "stir-fry",
-    "pressure-cooked",
-    "nut-free"
+    "pressure-cooked"
   ],
   "nutrition": {
     "calories": 350,
@@ -95,5 +94,9 @@
     "mainIngredient": "avocado hass pulp",
     "descriptor": "Spicy Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

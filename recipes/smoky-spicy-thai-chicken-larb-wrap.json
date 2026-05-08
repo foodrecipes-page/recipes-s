@@ -3,7 +3,6 @@
   "description": "A sour, snappy Thai dish made with savoiardi ladyfingers, smoked chicken, and a spicy kick, all wrapped in a corn husk. This jain-friendly larb recipe is perfect for a quick and easy meal.",
   "cuisine": "Thai",
   "diet": [
-    "vegan",
     "gluten-free",
     "dairy-free"
   ],
@@ -76,7 +75,8 @@
     "Spoon the chicken mixture into the center of the corn husk, leaving a 1-inch border around the edges.",
     "Top with chopped fresh cilantro.",
     "Fold the sides of the corn husk over the filling and then fold the top down to create a tight wrap.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -89,7 +89,6 @@
     "larb",
     "one-pan",
     "thaifood",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -115,5 +114,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Smoky Spicy",
     "dishForm": "Larb Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Smoke-Hot Chinese Coriander Yangzhou Fried Rice",
   "description": "A light and flavorful Yangzhou-style fried rice dish featuring smoke-hot Sichuan pepper and fresh cilantro from Yunnan province. This halal-friendly recipe is easy to make and perfect for a quick weeknight dinner.",
   "cuisine": "Chinese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
     "chinese",
     "easy-to-make",
     "fried-rice",
-    "halal",
     "one-pan",
     "weeknight"
   ],
@@ -102,5 +99,9 @@
     "mainIngredient": "Coriander",
     "descriptor": "Smoke-Hot",
     "dishForm": "Yangzhou Fried Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A romantic and mediterranean-friendly twist on the traditional stir-fry featuring juicy oyster mushrooms seasoned with sweet Mediterranean spices.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -88,5 +87,9 @@
     "mainIngredient": "oyster mushrooms",
     "descriptor": "Sweet & Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

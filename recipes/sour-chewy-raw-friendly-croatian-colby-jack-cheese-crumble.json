@@ -8,7 +8,7 @@
     {
       "name": "Colby Jack Cheese",
       "amount": "1 cup grated",
-      "notes": "Make sure it\u2019s raw, unpasteurized cheese."
+      "notes": "Make sure it’s raw, unpasteurized cheese."
     },
     {
       "name": "Sour Pickles",
@@ -38,7 +38,7 @@
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 0,
-  "totalTimeMin": 60,
+  "totalTimeMin": 5,
   "servings": 8,
   "difficulty": "easy",
   "tags": [
@@ -73,5 +73,9 @@
     "mainIngredient": "Colby Jack Cheese",
     "descriptor": "Sour Chewy Raw-friendly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

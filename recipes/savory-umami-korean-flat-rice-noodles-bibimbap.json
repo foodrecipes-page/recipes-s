@@ -2,9 +2,7 @@
   "title": "Savory Umami Korean Flat Rice Noodles Bibimbap",
   "description": "A gluten-free friendly Korean dish featuring flat rice noodles, broil, and umami flavors to cure hangovers, this savory bibimbap is a perfect meal for any time of day. It combines crunchy and soft textures with a variety of flavors.",
   "cuisine": "Korean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -70,7 +68,6 @@
   "tags": [
     "asian-cuisine",
     "bibimbap",
-    "gluten-free",
     "hangover-cure",
     "korean-food",
     "umami"
@@ -98,5 +95,9 @@
     "mainIngredient": "flat rice noodles",
     "descriptor": "Savory Umami",
     "dishForm": "Bibimbap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

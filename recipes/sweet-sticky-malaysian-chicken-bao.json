@@ -2,9 +2,7 @@
   "title": "Sweet Sticky Malaysian Chicken Bao",
   "description": "A kid-friendly Malaysian dish featuring caramelized chicken and long-fermentation-dough, with anti-inflammatory friendly ingredients.",
   "cuisine": "Malaysian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -54,7 +52,8 @@
     "Place a few pieces of the marinated chicken onto the caramel sauce.",
     "Fold the dough over the filling to form a half-moon shape and press the edges to seal.",
     "Brush the tops of the bao with sesame oil.",
-    "Bake the bao for 20 minutes, or until golden brown."
+    "Bake the bao for 20 minutes, or until golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 40,
   "cookTimeMin": 20,
@@ -65,7 +64,6 @@
     "anti-inflammatory",
     "caramelized-chicken",
     "dinner-ideas",
-    "gluten-free",
     "kid-friendly",
     "long-fermentation-dough",
     "malaysian-cuisine"
@@ -93,5 +91,10 @@
     "mainIngredient": "chicken",
     "descriptor": "sweet sticky",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

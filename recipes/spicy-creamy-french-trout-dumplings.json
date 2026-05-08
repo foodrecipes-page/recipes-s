@@ -2,10 +2,7 @@
   "title": "Spicy Creamy French Trout Dumplings",
   "description": "A comforting French dish featuring trout and dumplings in a spicy, creamy sauce, adapted to be vegan-friendly.",
   "cuisine": "French",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -95,7 +92,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "french",
     "comfortfood",
     "trout",
@@ -125,5 +121,10 @@
     "mainIngredient": "trout",
     "descriptor": "spicy creamy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

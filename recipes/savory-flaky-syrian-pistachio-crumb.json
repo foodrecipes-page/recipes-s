@@ -23,14 +23,15 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180\u00b0C (350\u00b0F).",
+    "Preheat oven to 180°C (350°F).",
     "In a mixing bowl, combine ground pistachios and pickled red pepper relish.",
     "Add room temperature unsalted butter, stirring until the mixture forms a dough-like consistency.",
     "Roll out all-purpose flour between your palms until you have two layers of 1/4-inch thickness.",
     "Gently form the dough into a rectangle shape using the flaky crumbs to coat it. Ensure a uniform coating on both sides.",
     "Place coated dough on a baking sheet lined with parchment paper, making sure not to overlap any areas.",
     "Bake in preheated oven for 20-25 minutes or until golden brown and crispy on the edges.",
-    "Allow to cool slightly before slicing into squares or triangles."
+    "Allow to cool slightly before slicing into squares or triangles.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -39,7 +40,6 @@
   "difficulty": "easy",
   "tags": [
     "syrnian",
-    "nut-free",
     "flaky",
     "hangover-cure"
   ],
@@ -66,5 +66,10 @@
     "mainIngredient": "pistachios",
     "descriptor": "Savory Flaky",
     "dishForm": "Crumb"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

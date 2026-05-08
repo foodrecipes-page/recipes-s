@@ -57,7 +57,8 @@
     "Pour in the chicken broth and bring the mixture to a simmer.",
     "Reduce the heat to low and cook, covered, for 10 minutes, until the shrimp are rehydrated and the sauce has thickened.",
     "Stir in the chopped parsley and cook for an additional minute, until wilted.",
-    "Serve the tagine hot, garnished with additional parsley if desired."
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -95,5 +96,9 @@
     "mainIngredient": "dried shrimp",
     "descriptor": "Savory Sauteed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

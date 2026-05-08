@@ -3,7 +3,6 @@
   "description": "A savory pastry filled with a shaggy mixture of sautéed peppers and spices, wrapped in a gluten-free friendly cornish-pasty crust. Perfect for adventurous eaters looking for a flavorful and tangy snack.",
   "cuisine": "british",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -81,7 +80,6 @@
   "difficulty": "medium",
   "tags": [
     "british",
-    "gluten-free",
     "one-pan",
     "savory",
     "vegetarian"
@@ -109,5 +107,9 @@
     "mainIngredient": "pepper",
     "descriptor": "sour",
     "dishForm": "Cornish Pastry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

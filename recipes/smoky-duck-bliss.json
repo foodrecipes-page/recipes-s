@@ -2,9 +2,7 @@
   "title": "Smoky Duck Bliss",
   "description": "A vegan-friendly Venezuelan dish featuring blended duck fat for a smoky flavor and gooey texture, perfect as a hangover cure.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -44,12 +42,13 @@
   ],
   "instructions": [
     "Heat olive oil in a large skillet over medium heat.",
-    "Add onions and garlic, saut\u00e9 until translucent, about 5 minutes.",
+    "Add onions and garlic, sauté until translucent, about 5 minutes.",
     "Stir in diced mushrooms, cook for another 5 minutes until they release their moisture.",
     "Fold in chopped tomatoes, salt, and pepper. Simmer gently for about 10 minutes to meld flavors.",
     "If using traditional duck fat, add a ladle of the simmering mixture (about 2 tablespoons) to the skillet with the vegetables, stirring well to coat everything evenly.",
     "Add the drained Garbanzo beans, mix well and cook for another few minutes until heated through. The consistency can be adjusted by adding more liquid if needed.",
-    "Taste and adjust seasoning as necessary."
+    "Taste and adjust seasoning as necessary.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -80,5 +79,10 @@
     "primaryIngredient": "duck fat",
     "diet": "plant-based",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

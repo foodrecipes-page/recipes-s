@@ -3,7 +3,6 @@
   "description": "A classic Russian dish featuring smoked salmon, flavored with mustard and served over a bed of crispy fried rice.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -107,5 +106,9 @@
     "mainIngredient": "salmon",
     "descriptor": "Smoked Mellow",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

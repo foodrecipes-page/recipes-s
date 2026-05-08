@@ -2,10 +2,7 @@
   "title": "springy algerian lamb kebabs",
   "description": "a funky spring dish featuring lamb loin chops, deglazed with a hint of cumin and coriander, served with a side of naan bread. enjoy the monsoon season with this simple yet flavorful recipe.",
   "cuisine": "algerian",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -113,5 +110,10 @@
     "mainIngredient": "lamb",
     "descriptor": "springy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

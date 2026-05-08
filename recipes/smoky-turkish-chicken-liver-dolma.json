@@ -78,7 +78,8 @@
     "Stir in the chopped parsley and crumbled feta cheese. ",
     "Cook for an additional 2-3 minutes, until the mixture is heated through. ",
     "Serve hot, garnished with additional parsley if desired. ",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -114,5 +115,9 @@
     "mainIngredient": "chicken liver",
     "descriptor": "smoky",
     "dishForm": "Dolma"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

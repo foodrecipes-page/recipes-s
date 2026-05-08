@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat your broiler according to manufacturer\u2019s instructions, ensuring it reaches a temperature of at least 450\u00b0F.",
+    "Preheat your broiler according to manufacturer’s instructions, ensuring it reaches a temperature of at least 450°F.",
     "In a large skillet or non-stick pan, heat the vegetable oil over medium-high heat. Add the ground sugar and stir until it melts completely and turns amber brown.",
     "Add red pepper flakes, garlic powder, salt, turmeric powder, and paprika to the melted sugar. Stir well so that all ingredients are evenly distributed and flavored.",
     "Carefully add the baby carrots into the skillet with the sugar mixture. Spread them out in an even layer to ensure even cooking.",
@@ -77,11 +77,15 @@
     "mood": "one-pot",
     "technique": "broil",
     "primaryIngredient": "ground sugar",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "Sugar",
     "descriptor": "Sweet And Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

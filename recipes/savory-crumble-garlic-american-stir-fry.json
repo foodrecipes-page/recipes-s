@@ -45,7 +45,8 @@
     "Add onions and garlic to the skillet; sauté for about 2 minutes.",
     "Stir in jambalaya mix and ib RICO, along with soy sauce. Let simmer for about 10 minutes.",
     "Fold in bell peppers and continue cooking until heated through, about 5 more minutes.",
-    "Serve hot as a side dish or main course."
+    "Serve hot as a side dish or main course.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -83,5 +84,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Savory Crumble",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

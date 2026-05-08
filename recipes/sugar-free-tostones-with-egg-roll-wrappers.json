@@ -3,8 +3,7 @@
   "description": "A light and smoky Venezuelan dish featuring sugar-free tostones made from egg roll wrappers.",
   "cuisine": "Venezuelan",
   "diet": [
-    "sugar-free",
-    "vegan"
+    "sugar-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -43,8 +42,7 @@
     "tostones",
     "egg-roll-wrappers",
     "light",
-    "smoky",
-    "vegan"
+    "smoky"
   ],
   "nutrition": {
     "calories": 60,
@@ -65,5 +63,9 @@
     "primaryIngredient": "egg roll wrappers",
     "diet": "sugar-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

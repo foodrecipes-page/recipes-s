@@ -3,8 +3,7 @@
   "description": "A spicy and crunchy Korean dish featuring hard taco shells and high protein chicken, perfect for a quick fix meal.",
   "cuisine": "Korean-Mexican",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Spicy Crunchy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

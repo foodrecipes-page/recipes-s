@@ -52,12 +52,13 @@
   "instructions": [
     "Heat olive oil in a wok or large skillet over medium-high heat.",
     "Add chicken and cook until golden brown, stirring occasionally. Remove from the pan and set aside.",
-    "In the same pan, add mixed spices and saut\u00e9 for about 2 minutes until fragrant.",
+    "In the same pan, add mixed spices and sauté for about 2 minutes until fragrant.",
     "Add onion and garlic; cook for an additional minute.",
     "Return chicken to the pan along with bell peppers and coconut milk. Stir well to combine all ingredients.",
     "Season with soy sauce and ground ginger, stirring again to coat evenly.",
     "Cover the pan and let simmer on low heat for about 5-10 minutes or until most of the liquid is absorbed.",
-    "Stir in fresh cilantro (if using) and serve hot over rice."
+    "Stir in fresh cilantro (if using) and serve hot over rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "Spices",
     "descriptor": "Savory Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

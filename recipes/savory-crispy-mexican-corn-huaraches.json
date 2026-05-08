@@ -3,7 +3,6 @@
   "description": "A crispy and flavorful Mexican dish made with corn dough, cumin seeds, and dairy-free friendly ingredients, perfect for a snack or lunch. This meal-prep friendly recipe can be made ahead of time and reheated when needed.",
   "cuisine": "Mexican",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -60,7 +59,6 @@
   "difficulty": "medium",
   "tags": [
     "crispy",
-    "dairy-free",
     "lunch",
     "mexican-food",
     "snack",
@@ -89,5 +87,9 @@
     "mainIngredient": "corn",
     "descriptor": "Savory Crispy",
     "dishForm": "Huaraches"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

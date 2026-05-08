@@ -2,9 +2,7 @@
   "title": "smoke-hot spotted indulgent british suet Spotted Dick",
   "description": "A traditional Yorkshire dessert featuring suet, plums, and spices, smoked to perfection and served in a pandan leaf wrap.",
   "cuisine": "british",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -107,5 +105,9 @@
     "mainIngredient": "suet",
     "descriptor": "smoke-hot spotted",
     "dishForm": "Spotted Dick"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

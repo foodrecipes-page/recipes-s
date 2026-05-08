@@ -3,7 +3,6 @@
   "description": "A briny, cheese-pull American dish featuring smoky grilled tomatoes, perfect for a summer evening, made with ayurvedic-sattvic friendly ingredients and served on a bamboo tray.",
   "cuisine": "American",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -90,5 +89,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Smoky Savory",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

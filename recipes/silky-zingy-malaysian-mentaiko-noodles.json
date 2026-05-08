@@ -3,8 +3,7 @@
   "description": "A keto-friendly, silky, and winey Malaysian dish featuring mentaiko, shio-koji-cure, and a light, refreshing taste.",
   "cuisine": "Malaysian",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "keto",
     "malaysian",
     "one-pan"
@@ -93,5 +91,9 @@
     "mainIngredient": "mentaiko",
     "descriptor": "silky zingy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

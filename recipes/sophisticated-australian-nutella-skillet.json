@@ -2,9 +2,7 @@
   "title": "Sophisticated Australian Nutella Skillet",
   "description": "A rich and indulgent dessert featuring Nutella, with a floral and glassy-jelly texture, made in a cast-iron skillet and friendly to those with nut allergies.",
   "cuisine": "Australian",
-  "diet": [
-    "nut-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -65,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "australian-dessert",
-    "nut-free",
     "one-pan",
     "rich-and-indulgent",
     "special-occasion"
@@ -93,5 +90,9 @@
     "mainIngredient": "Nutella",
     "descriptor": "Sophisticated Sweet",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

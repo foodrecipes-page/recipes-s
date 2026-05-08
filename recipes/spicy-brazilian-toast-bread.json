@@ -2,9 +2,7 @@
   "title": "Spicy Brazilian Toast Bread",
   "description": "A juicy, crispy Brazilian-inspired toast with a smoky kick and dairy-free perfection for a brunch boost.",
   "cuisine": "brazilian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
     "brunch",
     "spicy",
     "toasted",
-    "dairy-free",
     "avocado",
     "crispy"
   ],
@@ -91,5 +88,9 @@
     "mainIngredient": "bread",
     "descriptor": "Spicy",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

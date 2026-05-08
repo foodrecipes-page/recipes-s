@@ -56,8 +56,7 @@
     "smoky",
     "gooey",
     "post-workout",
-    "japanese",
-    "dairy-free"
+    "japanese"
   ],
   "nutrition": {
     "calories": 280,
@@ -82,5 +81,9 @@
     "mainIngredient": "white cornmeal",
     "descriptor": "Smoky Gooey",
     "dishForm": "Fold"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

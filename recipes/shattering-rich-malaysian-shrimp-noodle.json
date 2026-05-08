@@ -2,12 +2,7 @@
   "title": "Shattering Rich Malaysian Shrimp Noodle",
   "description": "A nostalgic Malaysian dish featuring succulent shrimp, rich and savory sauce, and shattering noodles. This recipe makes a delicious and comforting meal for a weeknight dinner.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -104,14 +99,10 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
-    "gluten-free",
     "malaysian",
     "noodles",
     "one-pan",
     "shrimp",
-    "vegan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -137,5 +128,12 @@
     "mainIngredient": "shrimp",
     "descriptor": "shattering rich",
     "dishForm": "noodle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

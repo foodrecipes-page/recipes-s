@@ -2,9 +2,7 @@
   "title": "Salty Indian Sirloin Steak Tips",
   "description": "A tender and nostalgic dish featuring sirloin steak tips in a creamy, dairy-free sauce that is perfect for a quick dinner or snack.",
   "cuisine": "Indian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -76,8 +74,7 @@
     "tender",
     "indian",
     "steak-tips",
-    "air-fryer-friendly",
-    "dairy-free"
+    "air-fryer-friendly"
   ],
   "nutrition": {
     "calories": 250,
@@ -102,5 +99,9 @@
     "mainIngredient": "Sirloin Steak",
     "descriptor": "Salty",
     "dishForm": "Tips"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

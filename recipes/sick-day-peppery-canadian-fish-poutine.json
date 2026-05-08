@@ -3,7 +3,6 @@
   "description": "A comforting and anti-inflammatory-friendly Canadian dish perfect for a sick day. Crispy fries, peppery sauce, and tender fish come together for a flavorful and satisfying meal.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
     "gluten-free",
     "dairy-free"
   ],
@@ -67,5 +66,9 @@
     "mainIngredient": "fish",
     "descriptor": "sick-day-peppery",
     "dishForm": "poutine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

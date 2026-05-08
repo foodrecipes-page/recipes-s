@@ -2,9 +2,7 @@
   "title": "StoneMedisee",
   "description": "A delightful stone medisee recipe featuring smoky and gooey stoned dates in a dairy-free-friendly dish perfect for brunch.",
   "cuisine": "Korean",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -69,5 +67,9 @@
     "primaryIngredient": "stoned dates",
     "diet": "dairy-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

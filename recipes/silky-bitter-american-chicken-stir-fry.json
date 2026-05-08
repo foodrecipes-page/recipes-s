@@ -2,10 +2,7 @@
   "title": "Silky Bitter American Chicken Stir-fry",
   "description": "A post-workout dish featuring chicken stock, whisked plant-based ingredients for a silky texture and bitter notes to complement the workout routine.",
   "cuisine": "American",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -39,7 +36,8 @@
     "Pour chicken stock into the pan. Allow to simmer for about 2-3 minutes, allowing flavors to meld together.",
     "Whisk in whisked plant-based milk or cream substitute until combined and smooth.",
     "Reduce heat to low and let the soup cook down, stirring occasionally, until it thickens slightly and reaches desired consistency.",
-    "Serve hot over cooked grains or noodles."
+    "Serve hot over cooked grains or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -74,5 +72,11 @@
     "mainIngredient": "chicken",
     "descriptor": "Silky Bitter",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

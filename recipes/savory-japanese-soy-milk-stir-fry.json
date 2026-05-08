@@ -52,7 +52,8 @@
     "Gently add tofu cubes, let them cook for another 2 minutes.",
     "Drizzle with soy sauce and sesame oil, mix well.",
     "Stir-fry briefly until everything is heated through and the flavors are combined.",
-    "Fold in crushed peanuts, serve immediately."
+    "Fold in crushed peanuts, serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -90,5 +91,9 @@
     "mainIngredient": "Soy Milk",
     "descriptor": "savory",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

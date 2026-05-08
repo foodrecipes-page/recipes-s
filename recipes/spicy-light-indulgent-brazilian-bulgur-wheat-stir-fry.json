@@ -2,9 +2,7 @@
   "title": "Spicy Light Indulgent Brazilian Bulgur Wheat Stir-fry",
   "description": "This indulgent dish features a blend of spicy bhuna spices to add depth and lightness with the use of bulgur wheat in an easy-to-prepare vegan-friendly stir-fry.",
   "cuisine": "Brazilian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "Bulgur Wheat",
     "descriptor": "Spicy Light Indulgent",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

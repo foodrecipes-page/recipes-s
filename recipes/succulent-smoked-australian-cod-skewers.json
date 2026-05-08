@@ -3,7 +3,6 @@
   "description": "This dish features smoked Australian cod, marinated in a mixture of fermented ingredients and grilled to perfection, offering a tender and adventurous Australian culinary experience.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "australian-cuisine",
-    "gluten-free",
     "grilled",
     "nut-free",
     "seafood",
@@ -93,5 +91,9 @@
     "mainIngredient": "cod",
     "descriptor": "succulent smoked",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

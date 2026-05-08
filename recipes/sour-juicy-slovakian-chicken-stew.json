@@ -61,7 +61,8 @@
     "Reduce the cooking liquid by half, stirring occasionally, until it reaches a thick and creamy consistency.",
     "Add the cooked chicken back into the saucepan and stir to coat with the reduced cooking liquid.",
     "Taste and adjust the seasoning as needed.",
-    "Serve hot, garnished with chopped fresh parsley."
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "sour juicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

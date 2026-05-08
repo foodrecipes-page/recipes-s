@@ -4,8 +4,7 @@
   "cuisine": "Kenyan",
   "diet": [
     "pescatarian",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -84,7 +83,6 @@
     "kenyan",
     "pescatarian",
     "gluten-free",
-    "dairy-free",
     "silky",
     "floral",
     "tuna",
@@ -113,5 +111,9 @@
     "mainIngredient": "Tuna",
     "descriptor": "Silky Floral",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

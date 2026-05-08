@@ -3,7 +3,6 @@
   "description": "A hearty, monsoon-inspired French cabbage skillet with a deep burgundy hue, seasoned with wine, tomato paste, and aromatic herbs, perfect for a quick weeknight dinner.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -58,7 +57,8 @@
     "Pour in the white wine, bring to a gentle simmer, and let it reduce by half, about 4 minutes.",
     "Add the beef broth and dried thyme, cover the skillet with a lid, and simmer for 10 minutes until the cabbage is tender and flavors meld.",
     "Remove the lid, stir in fresh parsley if using, and adjust seasoning with salt and pepper.",
-    "Serve hot straight from the skillet, optionally with crusty bread."
+    "Serve hot straight from the skillet, optionally with crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -69,7 +69,6 @@
     "gluten-free",
     "high-fiber",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -95,5 +94,10 @@
     "mainIngredient": "Cabbage",
     "descriptor": "Sizzling",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

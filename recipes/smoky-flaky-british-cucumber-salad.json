@@ -4,14 +4,14 @@
   "cuisine": "British",
   "diet": [
     "vegetarian",
-    "nut\u2011free"
+    "nut‑free"
   ],
   "meal": "lunch",
   "ingredients": [
     {
       "name": "Persian cucumber",
       "amount": "2 medium",
-      "notes": "thinly sliced into half\u2011moons"
+      "notes": "thinly sliced into half‑moons"
     },
     {
       "name": "Red onion",
@@ -55,7 +55,7 @@
   ],
   "instructions": [
     "Heat 1 tbsp olive oil in a skillet over medium heat.",
-    "Add sliced red onion and cook, stirring occasionally, until caramelized and golden brown, about 5\u20116 minutes.",
+    "Add sliced red onion and cook, stirring occasionally, until caramelized and golden brown, about 5‑6 minutes.",
     "While the onions caramelize, whisk together 1 tsp Dijon mustard, 1 tsp honey, 1 tsp smoked paprika, salt, and pepper to make the dressing.",
     "In a large bowl, combine the sliced Persian cucumbers, caramelized onions, shredded smoked cheddar, and chopped chives.",
     "Pour the dressing over the salad and toss gently until everything is evenly coated.",
@@ -72,7 +72,7 @@
     "mood": "quick-fix",
     "technique": "caramelize",
     "primaryIngredient": "persian cucumber",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "cucumber",
@@ -93,5 +93,9 @@
   "tags": [
     "british",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
   ]
 }

@@ -67,7 +67,8 @@
     "Reduce the heat to low and cook, covered, for 20-25 minutes, or until the liquid has reduced and the flavors have melded together.",
     "Stir in the lemon juice, and season with additional salt and pepper to taste.",
     "Spoon the mixture into bowls and top each serving with sliced avocado, diced to preference.",
-    "Serve immediately, and enjoy!"
+    "Serve immediately, and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -105,5 +106,9 @@
     "mainIngredient": "Avocado",
     "descriptor": "Slow Cooked",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

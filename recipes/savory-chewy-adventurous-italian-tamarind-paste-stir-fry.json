@@ -48,7 +48,8 @@
     "Add the Italian Tamarind Paste and Bhuna Masala Powder to the heated oil. Stir continuously until it turns golden brown, about 2-3 minutes.",
     "Add the chopped Garlic, Onion, and sliced bell pepper to the pan, cook for another 5 minutes or until vegetables are slightly softened.",
     "Stir in the drained Black Beans and spinach leaves, mix well, and let simmer for an additional 4 minutes until all ingredients are heated evenly.",
-    "Serve hot as a side dish with grilled chicken or fish. Garnish with fresh herbs if desired."
+    "Serve hot as a side dish with grilled chicken or fish. Garnish with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "tamarind paste",
     "descriptor": "savory chewy adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

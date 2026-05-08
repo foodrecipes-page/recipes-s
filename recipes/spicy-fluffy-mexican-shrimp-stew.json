@@ -3,9 +3,7 @@
   "description": "A vibrant coconutladen shrimp stew with a hint of heat and a cloudlike texture, showcasing Mexican spices and creamy coconut milk.",
   "cuisine": "Mexican",
   "diet": [
-    "pescatarian",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -22,7 +20,7 @@
     {
       "name": "Chicken or vegetable broth",
       "amount": "1 cup (240 ml)",
-      "notes": "Low\u2011sodium preferred"
+      "notes": "Low‑sodium preferred"
     },
     {
       "name": "Onion, finely diced",
@@ -61,7 +59,7 @@
     },
     {
       "name": "Fresh cilantro, chopped",
-      "amount": "\u00bc cup (20 g)",
+      "amount": "¼ cup (20 g)",
       "notes": "For a fresh finish"
     },
     {
@@ -77,11 +75,11 @@
   ],
   "instructions": [
     "Heat 1 tablespoon olive oil in a large pot over medium heat.",
-    "Add onion, garlic, and sliced green chilies; saut\u00e9 until onion soft, about 5 minutes.",
+    "Add onion, garlic, and sliced green chilies; sauté until onion soft, about 5 minutes.",
     "Stir in ground cumin and smoked paprika, cooking for 1 minute until fragrant.",
     "Add diced sweet potato, stirring to lightly brown for 3 minutes.",
     "Pour in broth and coconut milk; bring to a gentle simmer, then reduce heat and let the stew reduce for 10 minutes until the sweet potato is tender.",
-    "Increase heat to medium, add shrimp, and cook until pink and cooked through, about 5 minutes \u2013 watch closely to avoid overcooking.",
+    "Increase heat to medium, add shrimp, and cook until pink and cooked through, about 5 minutes – watch closely to avoid overcooking.",
     "Season with salt and fresh lime juice, adjusting heat if needed.",
     "Stir in chopped cilantro, then remove from heat.",
     "Ladle the stew into bowls, garnish with lime wedges and extra cilantro.",
@@ -98,9 +96,7 @@
     "spicy",
     "coconut",
     "stew",
-    "pescatarian",
     "gluten-free",
-    "dairy-free",
     "fluffy",
     "show-off",
     "braised"
@@ -128,5 +124,10 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Spicy Fluffy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "removed-diet-dairy-free"
+  ]
 }

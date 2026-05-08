@@ -2,10 +2,7 @@
   "title": "Salty Gooey Egyptian Barbeque Sauce Wood-Fired-Bake",
   "description": "A festive Egyptian dish featuring barbeque sauce, wood-fired-bake, and a gooey salty touch. Perfect for a special occasion or dinner party.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,10 +88,8 @@
   "tags": [
     "dinner-party",
     "egyptian",
-    "gluten-free",
     "high-protein",
-    "special-occasion",
-    "vegan"
+    "special-occasion"
   ],
   "nutrition": {
     "calories": 960,
@@ -119,5 +114,10 @@
     "mainIngredient": "barbeque sauce",
     "descriptor": "salty gooey",
     "dishForm": "wood-fired-bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

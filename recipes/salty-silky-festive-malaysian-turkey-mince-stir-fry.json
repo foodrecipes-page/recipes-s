@@ -2,9 +2,7 @@
   "title": "Salty Silky Festive Malaysian Turkey Mince Stir-fry",
   "description": "A festive twist on a classic dish featuring turkey mince, flavored with spices for a savory and silky texture, suitable for vegans.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -59,7 +57,8 @@
     "Dust the turkey mince with all-purpose flour and toss to coat evenly. Add salt and pepper, and stir-fry until golden brown, about 4 minutes.",
     "Add minced garlic and chopped onion to the pan, stirring for another minute. Incorporate grated carrots and sliced peppers, continuing to stir-fry until vegetables are tender but not mushy, about 5-7 minutes.",
     "Stir in chicken broth and thyme sprigs. Cook for an additional 3-4 minutes, allowing flavors to meld together.",
-    "Serve hot with steamed rice or naan bread."
+    "Serve hot with steamed rice or naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -94,5 +93,10 @@
     "mainIngredient": "Turkey Mince",
     "descriptor": "Salty Silky Festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -4,8 +4,7 @@
   "cuisine": "Korean",
   "diet": [
     "vegetarian",
-    "plant-based",
-    "gluten-free"
+    "plant-based"
   ],
   "meal": "snack",
   "ingredients": [
@@ -113,5 +112,9 @@
     "mainIngredient": "vermicelli",
     "descriptor": "spicy sweet one-pot",
     "dishForm": "banchan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

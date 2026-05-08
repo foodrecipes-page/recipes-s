@@ -26,7 +26,7 @@
       "notes": "minced"
     },
     {
-      "name": "Low\u2011sodium chicken broth",
+      "name": "Low‑sodium chicken broth",
       "amount": "1 cup (240 ml)",
       "notes": "kosher-certified"
     },
@@ -62,14 +62,15 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C). Lightly grease a 9x13 inch casserole dish with olive oil.",
-    "In a skillet, heat 1 tbsp olive oil over medium heat. Add diced onion and garlic, saut\u00e9 until translucent, about 3-4 minutes.",
-    "Add smoked turkey breast, cut into bite\u2011sized pieces, and saut\u00e9 until lightly browned, about 5 minutes. Stir in smoked paprika, dried thyme, and black pepper; cook until fragrant, about 1 minute.",
+    "Preheat oven to 350°F (175°C). Lightly grease a 9x13 inch casserole dish with olive oil.",
+    "In a skillet, heat 1 tbsp olive oil over medium heat. Add diced onion and garlic, sauté until translucent, about 3-4 minutes.",
+    "Add smoked turkey breast, cut into bite‑sized pieces, and sauté until lightly browned, about 5 minutes. Stir in smoked paprika, dried thyme, and black pepper; cook until fragrant, about 1 minute.",
     "Transfer turkey mixture to the casserole dish. Spread the drained sauerkraut evenly over the turkey.",
     "In a small bowl, whisk together chicken broth, apple cider vinegar, and the remaining 1 tbsp olive oil. Pour this liquid over the sauerkraut and turkey.",
     "Sprinkle nutritional yeast over the top for a cheesy, gooey finish.",
     "Cover the dish with foil and bake in the preheated oven for 25 minutes. Remove foil and bake for an additional 5 minutes, or until the casserole is bubbly and the top begins to brown.",
-    "Let the casserole rest for 5 minutes before serving; steam in the residual heat. Garnish with fresh parsley if desired."
+    "Let the casserole rest for 5 minutes before serving; steam in the residual heat. Garnish with fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -80,8 +81,7 @@
     "dutch",
     "sauerkraut",
     "smoky",
-    "vegan-cheese",
-    "kosher"
+    "vegan-cheese"
   ],
   "nutrition": {
     "calories": 290,
@@ -106,5 +106,10 @@
     "mainIngredient": "Sauerkraut",
     "descriptor": "Smoky Tangy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

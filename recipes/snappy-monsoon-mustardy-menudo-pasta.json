@@ -44,7 +44,8 @@
     "Bring to a boil and let simmer for 20 minutes.",
     "Cook penne pasta in boiling water until al dente.",
     "Drain pasta and mix with the vegetable sauce.",
-    "Serve hot."
+    "Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -79,5 +80,9 @@
     "mainIngredient": "Penne Pasta",
     "descriptor": "Snappy Monsoon",
     "dishForm": "Menudo Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

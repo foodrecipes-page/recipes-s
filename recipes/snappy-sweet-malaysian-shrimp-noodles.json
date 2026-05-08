@@ -3,7 +3,6 @@
   "description": "A light and briny Malaysian dish featuring palm sugar and served in a stone bowl, this recipe is anti-inflammatory friendly and perfect for a weeknight dinner.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
     "low-sodium"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "low-sodium",
     "one-pan",
     "quick-dinner",
@@ -101,5 +99,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "snappy sweet",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

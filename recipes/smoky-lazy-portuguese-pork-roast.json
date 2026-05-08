@@ -79,7 +79,8 @@
     "Add the water to the pot and cover it with a lid.",
     "Transfer the pot to the preheated oven and cook for 6 hours, or until the pork is tender and falls apart easily.",
     "Remove the pot from the oven and let it cool slightly before serving.",
-    "If desired, garnish with fresh thyme and serve with your choice of sides."
+    "If desired, garnish with fresh thyme and serve with your choice of sides.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 360,
@@ -116,5 +117,9 @@
     "mainIngredient": "pork",
     "descriptor": "Smoky Lazy",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

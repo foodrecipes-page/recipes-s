@@ -3,7 +3,6 @@
   "description": "A bold, mustard-infused cod stew with Sichuan pepper, simmered in a copper mug for a dramatic, date-night finish.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -84,7 +83,6 @@
   "tags": [
     "copper-mug",
     "date-night",
-    "gluten-free",
     "mustard",
     "norwegian-cuisine",
     "nut-free",
@@ -113,5 +111,9 @@
     "mainIngredient": "Cod",
     "descriptor": "Sizzling Shattering",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

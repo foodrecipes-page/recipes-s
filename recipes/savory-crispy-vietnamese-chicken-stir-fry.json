@@ -59,7 +59,8 @@
     "Mix tomato sauce with lime juice and pour it into the wok, stirring well so all ingredients are coated evenly.",
     "Add sliced bell peppers and continue to stir-fry until vegetables are tender but still crisp. Season with salt if needed.",
     "Sprinkle sesame seeds on top of the chicken for additional texture.",
-    "Serve hot as a meal."
+    "Serve hot as a meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Savory Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

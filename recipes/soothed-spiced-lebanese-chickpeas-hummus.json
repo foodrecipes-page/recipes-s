@@ -71,7 +71,7 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
-  "totalTimeMin": 40,
+  "totalTimeMin": 10,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -106,5 +106,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Soothed Spiced",
     "dishForm": "Hummus"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

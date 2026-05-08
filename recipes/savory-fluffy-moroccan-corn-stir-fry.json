@@ -85,11 +85,15 @@
     "mood": "brunch-mood",
     "technique": "dum",
     "primaryIngredient": "sweetcorn",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Moroccan",
     "mainIngredient": "Corn",
     "descriptor": "Savory Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

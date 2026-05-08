@@ -74,7 +74,8 @@
     "Deglaze the pan with the white fish stock, scraping up any browned bits from the bottom.",
     "Whisk in the remaining marinade and the diced preserved lemon rind to create the poaching liquid.",
     "Return the fish to the pan, skin-side up, cover with the tagine lid, and simmer on low for 6-8 minutes until the fish is opaque and flakes easily.",
-    "Garnish with the remaining fresh cilantro and serve immediately."
+    "Garnish with the remaining fresh cilantro and serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -112,5 +113,9 @@
     "mainIngredient": "sea bass",
     "descriptor": "Sour Tamarind",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

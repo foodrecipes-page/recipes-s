@@ -3,8 +3,7 @@
   "description": "A vegan-friendly twist on the classic Egyptian fava bean falafel, infused with rose water and spicy kick.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "snack",
   "ingredients": [
@@ -76,7 +75,6 @@
   "tags": [
     "egyptian",
     "vegan",
-    "gluten-free",
     "falafel",
     "fava-beans",
     "crispy"
@@ -104,5 +102,9 @@
     "mainIngredient": "fava-beans",
     "descriptor": "spicy crispy",
     "dishForm": "Falafel"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

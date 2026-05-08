@@ -55,7 +55,8 @@
     "Rinse rice in cold water and drain well. Sauté garlic in olive oil until fragrant.",
     "Add rice, saffron threads (if using), red pepper flakes (if using), and broth to a pot over medium heat. Stir occasionally until liquid is absorbed and rice is tender.",
     "Reduce heat to low, add salt and black pepper. If desired, sprinkle marjoram on top of the rice before serving.",
-    "When ready to serve, stir in chopped spinach for last minute cooking time."
+    "When ready to serve, stir in chopped spinach for last minute cooking time.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Savory",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -83,7 +83,8 @@
     "Remove the pot from the oven and carefully remove the duck legs from the sauce. Place the duck legs on a plate and cover them with foil to keep them warm.",
     "Reduce the heat to 300°F (150°C) and continue to simmer the sauce on the stovetop or in the oven for an additional 15-20 minutes, or until it has thickened slightly.",
     "To serve, place a duck leg on each plate and spoon some of the sauce over the top. Garnish with chopped parsley and serve hot.",
-    "Let the casserole rest for 5-10 minutes before serving to allow the flavors to meld together."
+    "Let the casserole rest for 5-10 minutes before serving to allow the flavors to meld together.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 40,
@@ -122,5 +123,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "Sour chewy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

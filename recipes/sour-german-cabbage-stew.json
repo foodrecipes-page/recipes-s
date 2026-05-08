@@ -3,8 +3,7 @@
   "description": "A hearty, tangy stew of sauerkraut and root vegetables, enriched with soy milk and spices, perfect for calming a hangover. It keeps kosher and is vegan-friendly.",
   "cuisine": "German",
   "diet": [
-    "kosher",
-    "vegan"
+    "kosher"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -77,8 +76,7 @@
     "hangover-cure",
     "kosher-friendly",
     "one-pot",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 300,
@@ -103,5 +101,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Sour",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

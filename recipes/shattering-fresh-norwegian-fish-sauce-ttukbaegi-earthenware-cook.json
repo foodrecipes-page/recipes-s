@@ -3,7 +3,6 @@
   "description": "Romantic dish from Norway that features a delicate balance of fresh fish and flavorful fish sauce, cooked to perfection in a traditional ttukbaegi earthenware pot. This vegan-friendly recipe is a perfect way to impress your partner on a special occasion.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegan",
     "gluten-free",
     "fish-free"
   ],
@@ -109,5 +108,9 @@
     "mainIngredient": "fish sauce",
     "descriptor": "shattering fresh",
     "dishForm": "ttukbaegi-earthenware-cook"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

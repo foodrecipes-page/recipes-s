@@ -62,7 +62,8 @@
     "Assemble the tacos by placing a portion of the chicken mixture onto a steamed tortilla, followed by a dollop of sour cream and a sprinkle of chopped cilantro.",
     "Serve immediately and enjoy!",
     "Garnish with additional cilantro and lime wedges, if desired.",
-    "For an extra sour kick, serve with a side of pickled onions or a squeeze of fresh lime juice."
+    "For an extra sour kick, serve with a side of pickled onions or a squeeze of fresh lime juice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "chicken",
     "descriptor": "sour fluffy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

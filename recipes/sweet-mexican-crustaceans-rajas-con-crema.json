@@ -4,8 +4,7 @@
   "cuisine": "mexican",
   "diet": [
     "ovo-vegetarian",
-    "pescetarian",
-    "gluten-free"
+    "pescetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -97,5 +96,9 @@
     "mainIngredient": "crustaceans",
     "descriptor": "sweet",
     "dishForm": "Rajas con Crema"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

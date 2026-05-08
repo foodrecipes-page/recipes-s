@@ -81,7 +81,8 @@
     "season the beef mixture with salt and black pepper to taste.",
     "warm the norwegian sour cream in a small saucepan over low heat.",
     "to assemble the tacos, place a portion of the beef mixture onto a tortilla, followed by a spoonful of the sour cream, a sprinkle of chopped parsley, and a pinch of crushed red pepper. serve immediately in a molcajete.",
-    "serve immediately and enjoy!"
+    "serve immediately and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -119,5 +120,9 @@
     "mainIngredient": "beef tomatoes",
     "descriptor": "sour springy",
     "dishForm": "tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

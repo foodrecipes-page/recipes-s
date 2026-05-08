@@ -3,7 +3,6 @@
   "description": "This savory, crunchy Spicy Minced Meat Wontons are a romantic Malaysian dish featuring mince meat, blanching, and whole30-friendly ingredients.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegan",
     "whole30"
   ],
   "meal": "snack",
@@ -44,7 +43,8 @@
   "instructions": [
     "Mix minced meat, flour, water, salt, pepper, garlic powder (if using), and red pepper flakes until a dough forms.",
     "Roll the dough into small balls and flatten them slightly.",
-    "Heat sesame oil in a non-stick skillet over medium-high heat. Cook wontons for about 2-3 minutes on each side or until golden brown and crispy."
+    "Heat sesame oil in a non-stick skillet over medium-high heat. Cook wontons for about 2-3 minutes on each side or until golden brown and crispy.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -75,5 +75,10 @@
     "primaryIngredient": "mincemeat",
     "diet": "whole30",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

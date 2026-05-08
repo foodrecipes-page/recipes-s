@@ -3,8 +3,7 @@
   "description": "A twist on traditional samosas, these German-inspired pastries are filled with salty chicken and wrapped in crispy filo dough, perfect for a snack or meal prep. They are sugar-free and can be cooked to a crispy perfection in a tandoor or oven.",
   "cuisine": "German-Indian Fusion",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -64,7 +63,8 @@
     "Repeat with the remaining pastry and chicken mixture.",
     "Brush the tops of the samosas with a little water and sprinkle with sesame seeds if desired.",
     "Cook the samosas in the preheated tandoor or oven for 20-25 minutes, or until crispy and golden brown.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -100,5 +100,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Salty Crispy",
     "dishForm": "Samosas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

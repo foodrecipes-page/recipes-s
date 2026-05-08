@@ -3,7 +3,6 @@
   "description": "This Egyptian-inspired dish features a fluffy egg base blended with fermented vegetables and dairy-free ingredients for a spicy twist.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegan",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -79,5 +78,9 @@
     "mainIngredient": "Egg",
     "descriptor": "Spicy Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

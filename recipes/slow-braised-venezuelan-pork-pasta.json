@@ -3,8 +3,7 @@
   "description": "A hearty and flavorful Venezuelan dish featuring slow braised pork and pappardelle pasta, perfect for a lazy Sunday. This sugar-free-friendly recipe is cooked to perfection in a tagine pot.",
   "cuisine": "Venezuelan",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,9 @@
     "Cover the tagine pot and transfer to the preheated oven.",
     "Braise the pork shoulder for 2 1/2 hours, or until tender and easily shredded.",
     "Cook the pappardelle pasta according to package instructions.",
-    "Shred the pork shoulder and serve over the cooked pappardelle pasta."
+    "Shred the pork shoulder and serve over the cooked pappardelle pasta.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -99,5 +100,11 @@
     "mainIngredient": "pork",
     "descriptor": "Slow braised",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -84,7 +84,8 @@
     "When reheating, add a splash of water to the steamer basket and cover with a lid to restore moisture.",
     "You can also reheat in a saucepan with a tablespoon of olive oil, or in the oven at 350\u00194f for 10-15 minutes, or until heated through.",
     "Serve with a dollop of tzatziki sauce, if desired.",
-    "For a more indulgent treat, serve with a side of crispy falafel and a sprinkle of sumac."
+    "For a more indulgent treat, serve with a side of crispy falafel and a sprinkle of sumac.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -124,5 +125,9 @@
     "mainIngredient": "Whole wheat",
     "descriptor": "Smoky Silky",
     "dishForm": "Stuffed Grape Leaves"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

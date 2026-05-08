@@ -3,7 +3,6 @@
   "description": "A smoky, crisp roast infused with a creamy pistachio paste, recalling Canadian forest flavors, perfect for an anti-inflammatory diet.",
   "cuisine": "Canadian",
   "diet": [
-    "gluten-free",
     "low-carb",
     "anti-inflammatory"
   ],
@@ -73,7 +72,6 @@
     "anti-inflammatory",
     "bamboo-steamer",
     "canadian",
-    "gluten-free",
     "low-carb",
     "quick",
     "smoky"
@@ -101,5 +99,9 @@
     "mainIngredient": "pistachio",
     "descriptor": "Smoky",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

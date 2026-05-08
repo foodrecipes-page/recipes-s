@@ -3,7 +3,6 @@
   "description": "A creamy garlic rice dish infused with the bold flavors of Sichuan pepper, perfect for a hearty meal that's both savory and comforting.",
   "cuisine": "Chinese",
   "diet": [
-    "vegan",
     "low-fat"
   ],
   "meal": "dinner",
@@ -70,5 +69,9 @@
     "primaryIngredient": "sichuan pepper",
     "diet": "fodmap",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

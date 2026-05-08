@@ -4,8 +4,7 @@
   "cuisine": "Mexican",
   "diet": [
     "diabetic-friendly",
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Quick‑release the pressure, then stir in the chopped coriander leaves.",
     "In a small skillet, lightly toast the crushed tortilla chips until golden and crisp, or use pre‑toasted chips.",
     "Divide the chicken mixture into four bowls, top each with crunchy chips, and squeeze fresh lime juice over.",
-    "Garnish with extra coriander leaves if desired and serve immediately."
+    "Garnish with extra coriander leaves if desired and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -79,7 +79,6 @@
     "pressure-cook",
     "quick",
     "healthy",
-    "gluten-free",
     "low-carb"
   ],
   "nutrition": {
@@ -105,5 +104,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Smoky Crunchy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

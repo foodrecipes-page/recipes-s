@@ -62,7 +62,8 @@
     "Place a tablespoon of the beef and mincemeat mixture in the center of each dough circle.",
     "Fold the dough in half over the filling, pressing the edges together to seal the empanada.",
     "Brush the tops of the empanadas with the egg wash and sprinkle with salt and pepper.",
-    "Place the empanadas in a terracotta dish and brush with melted butter."
+    "Place the empanadas in a terracotta dish and brush with melted butter.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "mincemeat",
     "descriptor": "savory buttery",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

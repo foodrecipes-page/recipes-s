@@ -32,7 +32,8 @@
     "If using tadka seasoning blend, add it to the mixture and stir evenly.",
     "Pour the mixture into a shallow baking dish or tin lined with parchment paper.",
     "Bake for 15-20 minutes or until golden brown on top.",
-    "Remove from oven and let cool slightly before serving."
+    "Remove from oven and let cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -67,5 +68,9 @@
     "mainIngredient": "Goose Fat",
     "descriptor": "Smoky Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

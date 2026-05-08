@@ -2,9 +2,7 @@
   "title": "Salty Crunchy Japanese Tomato Salad",
   "description": "A quick, salty and crunchy salad featuring vine tomatoes, cucumber and a sesame vinaigrette, perfect for a sattvic-friendly lunch.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "tomato",
     "descriptor": "Salty Crunchy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

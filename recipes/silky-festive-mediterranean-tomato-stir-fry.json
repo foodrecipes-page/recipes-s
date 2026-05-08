@@ -2,9 +2,7 @@
   "title": "Silky Festive Mediterranean Tomato Stir-fry",
   "description": "A silky festive mediterranean dish featuring diced tomatoes, vegan-friendly and suitable for a quick lunch or dinner.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Silky Festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A twist on the classic Welsh rarebit, this recipe incorporates the sweet and sour flavors of mirin-hon. Serve as a snack or dessert.",
   "cuisine": "english",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -81,7 +80,6 @@
     "british",
     "dessert",
     "easy-to-make",
-    "gluten-free",
     "mirin-hon",
     "snack",
     "vegetarian",
@@ -110,5 +108,9 @@
     "mainIngredient": "mirin-hon",
     "descriptor": "sour crispy",
     "dishForm": "Welsh Rarebit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

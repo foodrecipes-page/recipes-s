@@ -4,8 +4,7 @@
   "cuisine": "Australian",
   "diet": [
     "flexitarian",
-    "dairy-free",
-    "pescatarian"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -51,12 +50,12 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 350\u00b0F (175\u00b0C).",
+    "Preheat your air fryer to 350°F (175°C).",
     "Season the chuck roast generously with salt, black pepper, cumin powder, coriander powder, and garlic powder. Toss in all-purpose flour until well coated.",
     "Heat olive oil and vegetable oil in a large skillet over medium heat. Sear the chuck roast on both sides for about 2 minutes per side to achieve a nice crust. Remove from skillet and set aside.",
     "In the same pan, pour in chicken broth and let it simmer for about 5-7 minutes until slightly reduced. Stir in vegetable oil and cook for another minute.",
     "Place seared chuck roast back into the pan with the sauce mixture. Add remaining seasoning mix to the pan and stir everything together well.",
-    "Cover the skillet and transfer to air fryer basket, cooking for 20-25 minutes or until internal temperature of meat reaches 145\u00b0F (63\u00b0C).",
+    "Cover the skillet and transfer to air fryer basket, cooking for 20-25 minutes or until internal temperature of meat reaches 145°F (63°C).",
     "Rest the dish for about 5 minutes before serving."
   ],
   "prepTimeMin": 15,
@@ -88,5 +87,9 @@
     "primaryIngredient": "chuck roast",
     "diet": "dash",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

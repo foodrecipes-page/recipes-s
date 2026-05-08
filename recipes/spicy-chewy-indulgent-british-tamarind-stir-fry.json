@@ -50,7 +50,8 @@
     "Heat vegetable oil in a pan over medium heat. Add chicken strips, green onions, and diced garlic to sauté for about 5 minutes until golden brown.",
     "Add tamarind sauce, red pepper flakes, and chilli oil/powder to the pan. Stir well and bring to a simmer. Let it cook for an additional minute to let flavors meld together.",
     "In a small bowl, mix cornstarch with water until smooth. Pour this mixture into the pan and stir continuously until thickened. Cook for 1-2 more minutes.",
-    "Once thickened, turn off heat and serve hot."
+    "Once thickened, turn off heat and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -88,5 +89,9 @@
     "mainIngredient": "Tamarind",
     "descriptor": "Spicy Chewy Indulgent",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

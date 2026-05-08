@@ -47,7 +47,8 @@
     "Pour water or broth into the pan and stir well to combine.",
     "Stir in red pepper flakes and let it simmer for a few seconds more.",
     "Reduce heat to low, cover the pan, and cook until liquid is absorbed and almonds are crispy (about 5 minutes).",
-    "Remove from heat and serve hot."
+    "Remove from heat and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 8,
@@ -84,5 +85,9 @@
     "mainIngredient": "Almonds",
     "descriptor": "Spicy Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

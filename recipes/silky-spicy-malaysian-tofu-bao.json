@@ -3,8 +3,7 @@
   "description": "A flavorful, silky tofu filling with spicy sambal, wrapped in soft bao buns, perfect for meal prep.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -56,7 +55,7 @@
     }
   ],
   "instructions": [
-    "In a wok, heat 1 tbsp peanut oil over medium heat. Add the firm tofu cubes and stir\u2011fry until golden brown, about 5 minutes. Remove tofu and set aside.",
+    "In a wok, heat 1 tbsp peanut oil over medium heat. Add the firm tofu cubes and stir‑fry until golden brown, about 5 minutes. Remove tofu and set aside.",
     "Add the remaining peanut oil to the wok. Stir in the silky tofu cubes and fry for 2 minutes, then add the red chili paste and soy sauce. Toss to coat evenly and cook for another 2 minutes.",
     "Whisk the rice flour with the water until smooth, then pour the mixture into the wok. Stir constantly to form a thick, silky sauce. Let it simmer for 3 minutes until it thickens slightly.",
     "Fold in the cooked tofu and add a splash of lime juice, then remove from heat. Let the mixture cool before filling the bao buns.",
@@ -94,5 +93,9 @@
   "tags": [
     "malaysian",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
   ]
 }

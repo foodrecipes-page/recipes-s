@@ -98,7 +98,8 @@
     "Stir in the tahini and fresh lemon juice, adjusting seasoning with more smoked sea salt if needed.",
     "Remove from heat, then fold in chopped cilantro and parsley for freshness.",
     "Serve the tagine hot, optionally with a side of cauliflower rice or fresh flatbread if not Whole30.",
-    "Enjoy the smoky, aromatic flavors that satisfy a midnight craving."
+    "Enjoy the smoky, aromatic flavors that satisfy a midnight craving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -138,5 +139,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Smoky Tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

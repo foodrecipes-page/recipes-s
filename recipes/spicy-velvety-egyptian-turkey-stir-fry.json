@@ -42,7 +42,8 @@
     "Push vegetables to the side of the pan and add turkey ham, cooking until browned on both sides.",
     "Pour in tomato puree and red curry paste. Stir well to combine all ingredients.",
     "Stir in water and bring to a boil. Reduce heat and let simmer for 10 minutes.",
-    "Add salt and pepper to taste."
+    "Add salt and pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -79,5 +80,9 @@
     "mainIngredient": "Turkey",
     "descriptor": "Spicy Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

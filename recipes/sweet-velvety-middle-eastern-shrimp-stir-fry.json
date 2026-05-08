@@ -2,9 +2,7 @@
   "title": "Sweet & Velvety Middle Eastern Shrimp Stir-fry",
   "description": "A sweet and creamy shrimp dish with a touch of Middle Eastern spices, perfect for brunch or dinner.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Sweet & Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

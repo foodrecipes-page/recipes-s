@@ -58,7 +58,8 @@
     "Add the chicken broth, heavy cream, dried thyme, salt, and black pepper to the skillet and stir to combine.",
     "Add the chopped little gem lettuce and cooked bacon to the skillet and stir to combine.",
     "Transfer the mixture to a clay pot and cover with a lid.",
-    "Place the clay pot in the preheated oven and cook for 30 minutes."
+    "Place the clay pot in the preheated oven and cook for 30 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "little gem lettuce",
     "descriptor": "smoky fluffy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

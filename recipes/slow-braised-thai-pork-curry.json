@@ -51,7 +51,8 @@
     "Pour in the coconut milk and bring the mixture to a simmer.",
     "Reduce the heat to low and cook, covered, for 2 1/2 hours, or until the pork is tender.",
     "Stir in the chopped basil and season with salt to taste.",
-    "Serve the curry over rice or noodles, garnished with additional basil if desired."
+    "Serve the curry over rice or noodles, garnished with additional basil if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -89,5 +90,9 @@
     "mainIngredient": "pork",
     "descriptor": "slow braised",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

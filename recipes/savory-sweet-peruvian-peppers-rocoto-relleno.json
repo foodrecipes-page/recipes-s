@@ -63,7 +63,8 @@
     "Stir in the Thai chilli jam, cilantro, lime juice, salt, and black pepper.",
     "Stuff each pepper with the beef mixture and place in a cataplana vessel.",
     "Cover the vessel and bake for 25 minutes.",
-    "Serve the peppers hot, garnished with additional cilantro if desired."
+    "Serve the peppers hot, garnished with additional cilantro if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -100,5 +101,9 @@
     "mainIngredient": "peppers",
     "descriptor": "Savory Sweet",
     "dishForm": "Rocoto Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

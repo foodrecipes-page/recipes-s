@@ -3,7 +3,6 @@
   "description": "A satisfying and comforting Korean dish featuring a plant-based bun with smoky flavors for midnight cravings.",
   "cuisine": "Korean",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -71,5 +70,9 @@
     "mainIngredient": "Seitan",
     "descriptor": "Smoky Chewy Midnight Bun",
     "dishForm": "Bun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

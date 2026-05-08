@@ -66,7 +66,8 @@
     "Add the caramel sauce and chicken broth, and stir to combine.",
     "Cover the clay pot or slow cooker and transfer it to the oven or cook on low for 8 hours.",
     "After 8 hours, remove the pot from the oven or turn off the slow cooker and let it cool slightly.",
-    "Serve the lamb and sauce over couscous or rice."
+    "Serve the lamb and sauce over couscous or rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 480,
@@ -103,5 +104,9 @@
     "mainIngredient": "lamb",
     "descriptor": "slow cooked",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

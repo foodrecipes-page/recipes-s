@@ -3,7 +3,6 @@
   "description": "Light and flavorful Smoky Kielbasa Bites featuring Polish sausage, fermented vegetables, and a touch of smokiness. Perfect for quick weeknight meals.",
   "cuisine": "Russian",
   "diet": [
-    "vegan",
     "egg-free"
   ],
   "meal": "snack",
@@ -64,5 +63,9 @@
     "primaryIngredient": "polish sausage",
     "diet": "egg-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A pungent, light, and savory Croatian-inspired dish featuring lamb kidney, Binchotan charcoal, and a vegan-friendly twist. Perfect for when you're feeling under the weather.",
   "cuisine": "Croatian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -99,5 +98,9 @@
     "mainIngredient": "lamb kidney",
     "descriptor": "smoky roasted",
     "dishForm": "ramekin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

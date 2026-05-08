@@ -25,7 +25,8 @@
     "cook for an additional 2-3 minutes, until the flavors have melded together.",
     "serve hot, garnished with chopped fresh cilantro and accompanied by flatbread or injera if desired.",
     "adjust seasoning as needed.",
-    "serve immediately and enjoy!"
+    "serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -61,5 +62,9 @@
     "mainIngredient": "Turkey Ham",
     "descriptor": "Smoky Velvety",
     "dishForm": "Tibs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

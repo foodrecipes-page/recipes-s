@@ -53,7 +53,8 @@
     "Transfer the quiche filling to a greased 9x13 inch baking dish.",
     "Bake for 25 minutes at 375°F (190°C).",
     "Remove from oven, let cool slightly, and then place under char-grill until charred on top for an additional 4-5 minutes.",
-    "Serve warm."
+    "Serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -89,5 +90,9 @@
     "mainIngredient": "Fruit Mix",
     "descriptor": "Show-off",
     "dishForm": "Grill-Yang Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

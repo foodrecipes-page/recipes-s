@@ -2,9 +2,7 @@
   "title": "Salty Crumbly Tunisian Pork Shoulder Tagine",
   "description": "A deep, savory tagine featuring caramelized, plant-based pork shoulder with aromatic spices, thickened tomato sauce, and a crunchy breadcrumb topping.",
   "cuisine": "Tunisian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,8 @@
     "Add the crushed tomatoes and vegetable broth, bring to a gentle simmer.",
     "Return the pork to the pan, cover partially, reduce the heat to low, and simmer for 35‑40 minutes until the pork is tender and the sauce has thickened.",
     "After simmering, sprinkle the toasted breadcrumbs evenly over the top, cover again, and cook for an additional 5 minutes to toast the crumbs and form a crumbly crust.",
-    "Taste and adjust seasoning if necessary. Serve hot, optionally garnished with fresh coriander."
+    "Taste and adjust seasoning if necessary. Serve hot, optionally garnished with fresh coriander.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 45,
@@ -99,5 +98,10 @@
     "mainIngredient": "pork shoulder",
     "descriptor": "Salty Crumbly",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-pork_no_temp"
+  ]
 }

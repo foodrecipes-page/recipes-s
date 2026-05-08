@@ -2,9 +2,7 @@
   "title": "Sweet Velvety Kiwi Vegan Panna Cotta",
   "description": "A sweet and velvety Filipino-inspired dish featuring kiwifruit in a smooth vegan dessert that's perfect for romantic evenings.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -53,7 +51,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 60,
+  "totalTimeMin": 15,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -61,7 +59,6 @@
     "velvety",
     "romantic",
     "filipino",
-    "vegan",
     "dessert"
   ],
   "nutrition": {
@@ -87,5 +84,10 @@
     "mainIngredient": "kiwi",
     "descriptor": "Sweet",
     "dishForm": "Panna Cotta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

@@ -77,7 +77,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 30,
-  "totalTimeMin": 100,
+  "totalTimeMin": 60,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -111,5 +111,9 @@
     "mainIngredient": "beef kidney",
     "descriptor": "sugar-free-friendly",
     "dishForm": "casseroles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

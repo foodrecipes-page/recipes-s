@@ -82,7 +82,8 @@
     "Slice the Chinese broccoli into florets and add to the bowls.",
     "Slice the cured chicken thighs into thin strips and add to the bowls.",
     "Pour the hot broth over the noodles, chicken, and broccoli.",
-    "Season with black pepper to taste and serve immediately."
+    "Season with black pepper to taste and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 75,
@@ -121,5 +122,9 @@
     "mainIngredient": "chicken",
     "descriptor": "smoky, fluffy, monsoon",
     "dishForm": "Vietnamese Chicken Noodle Broth"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

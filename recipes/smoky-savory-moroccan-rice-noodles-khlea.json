@@ -3,7 +3,6 @@
   "description": "A pungent and pillowy Moroccan dish featuring rice noodles, miso-marinate, and a macrobiotic-friendly twist. This khlea recipe is perfect for adventurous foodies looking for a unique and satisfying meal.",
   "cuisine": "Moroccan",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -77,7 +76,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "moroccan",
     "one-pan",
     "vegetarian"
@@ -105,5 +103,9 @@
     "mainIngredient": "rice noodles",
     "descriptor": "smoky savory",
     "dishForm": "Khlea"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

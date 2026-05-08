@@ -2,10 +2,7 @@
   "title": "Spicy Dense Vietnamese Cheese Casserole",
   "description": "A comforting and spicy Vietnamese-inspired casserole featuring shredded cheese, crispy shallots, and a beurre monte.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "dairy-free",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -71,8 +68,6 @@
   "difficulty": "hard",
   "tags": [
     "comfort-food",
-    "dairy-free",
-    "gluten-free",
     "one-pan",
     "spicy"
   ],
@@ -99,5 +94,10 @@
     "mainIngredient": "cheese",
     "descriptor": "spicy dense",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

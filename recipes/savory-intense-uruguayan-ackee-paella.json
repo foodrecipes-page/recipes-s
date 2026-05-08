@@ -82,7 +82,8 @@
     "season with salt and black pepper to taste.",
     "cover the pan with foil and transfer to the oven.",
     "bake for 20-25 minutes, until the cheese is melted and bubbly.",
-    "remove the pan from the oven and let rest for 5 minutes before serving."
+    "remove the pan from the oven and let rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 30,
@@ -121,5 +122,9 @@
     "mainIngredient": "ackee",
     "descriptor": "Savory Intense",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

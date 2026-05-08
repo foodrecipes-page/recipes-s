@@ -3,8 +3,7 @@
   "description": "A sour, tender, and indulgent Canadian dish featuring whole wheat and shio-cure, suitable for diabetic-friendly diets. This recipe combines the richness of salmon with the earthiness of whole wheat and the brightness of citrus.",
   "cuisine": "Canadian",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "tags": [
     "canadian-cuisine",
     "diabetic-friendly",
-    "gluten-free",
     "one-pan",
     "seafood",
     "slow-cooked"
@@ -97,5 +95,9 @@
     "mainIngredient": "salmon",
     "descriptor": "slow cured",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

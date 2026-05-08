@@ -23,7 +23,7 @@
     {
       "name": "rice noodles",
       "amount": "200g",
-      "notes": "medium\u2011width, pre\u2011boiled"
+      "notes": "medium‑width, pre‑boiled"
     },
     {
       "name": "fermented fish sauce",
@@ -61,13 +61,14 @@
     "Add the sliced ginger and onion and simmer for 5 minutes.",
     "Stir in the chicken bouillon powder until fully dissolved.",
     "Add the chicken breast and cook until done (about 5 minutes), then remove the chicken from the pot.",
-    "Shred or cut the cooked chicken into bite\u2011sized pieces and set aside.",
+    "Shred or cut the cooked chicken into bite‑sized pieces and set aside.",
     "Add fermented fish sauce and lime juice to the pot, simmer 2 minutes to meld flavors.",
     "In a small bowl, whisk the egg white until frothy, then slowly pour into the hot broth while whisking continuously to create a silky, glossy texture.",
-    "Add the pre\u2011boiled rice noodles to the pot and heat through for 1 minute.",
+    "Add the pre‑boiled rice noodles to the pot and heat through for 1 minute.",
     "Plate the noodles, top with shredded chicken, scallions, cilantro and a squeeze of lime.",
     "Serve hot with extra lime wedges and fish sauce at the table.",
-    "Enjoy the silky, cozy bowl of Vietnamese chicken pho."
+    "Enjoy the silky, cozy bowl of Vietnamese chicken pho.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -105,5 +106,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Silky Cozy",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

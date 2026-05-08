@@ -4,7 +4,6 @@
   "cuisine": "Ethiopian",
   "diet": [
     "pescatarian",
-    "gluten-free",
     "vegetarian-friendly"
   ],
   "meal": "breakfast",
@@ -92,8 +91,7 @@
     "dinner",
     "smoky",
     "ethiopian",
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "nutrition": {
     "calories": 420,
@@ -118,5 +116,9 @@
     "mainIngredient": "fish",
     "descriptor": "Smoky Roasted",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

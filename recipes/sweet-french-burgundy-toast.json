@@ -3,7 +3,6 @@
   "description": "A sweet and snappy French-inspired dish featuring the warm spices of Ras el hanout, perfect for a monsoon evening. Enjoy as a dessert or snack.",
   "cuisine": "French",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -84,7 +83,6 @@
     "gluten-free",
     "healthy",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -110,5 +108,9 @@
     "mainIngredient": "burgundy",
     "descriptor": "sweet",
     "dishForm": "toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

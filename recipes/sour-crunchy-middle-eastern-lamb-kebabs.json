@@ -3,7 +3,6 @@
   "description": "A flavorful and crunchy Middle Eastern-inspired dish featuring lamb kebabs, perfect for special occasions. The combination of sumac, pomegranate molasses, and ground nut oil alternatives creates a unique and delicious flavor profile.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -95,5 +94,9 @@
     "mainIngredient": "lamb",
     "descriptor": "sour crunchy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

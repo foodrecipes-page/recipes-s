@@ -53,7 +53,8 @@
     "Add the tomato sauce to the skillet and bring to a simmer.",
     "In a large bowl, combine the cooked macaroni, meat sauce, and mozzarella cheese.",
     "Transfer the mixture to a baking dish and top with additional mozzarella cheese.",
-    "Bake for 25 minutes or until the cheese is melted and bubbly."
+    "Bake for 25 minutes or until the cheese is melted and bubbly.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -91,5 +92,9 @@
     "mainIngredient": "macaroni",
     "descriptor": "smoky",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

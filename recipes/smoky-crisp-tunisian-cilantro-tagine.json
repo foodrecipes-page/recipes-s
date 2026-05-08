@@ -3,7 +3,6 @@
   "description": "A flavorful and refreshing Tunisian dish featuring cilantro leaves, featuring smoky notes from preserved lemons and crisp texture from toasted almonds.",
   "cuisine": "North African",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -68,7 +67,9 @@
     "Add the diced preserved lemon, chopped cilantro, ground cumin, ground coriander, salt, and black pepper. Cook for 1 minute, until the mixture is fragrant.",
     "Add the chopped almonds and cook for 2 minutes, stirring constantly, until they're lightly toasted.",
     "Add the chicken broth and water to the saucepan. Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
-    "Serve the Smoky Crisp Tunisian Cilantro Tagine hot, garnished with additional chopped cilantro if desired."
+    "Serve the Smoky Crisp Tunisian Cilantro Tagine hot, garnished with additional chopped cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -80,7 +81,6 @@
     "gluten-free",
     "north-african",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -106,5 +106,11 @@
     "mainIngredient": "cilantro",
     "descriptor": "smoky crisp",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

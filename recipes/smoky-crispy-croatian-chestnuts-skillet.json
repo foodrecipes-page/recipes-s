@@ -2,9 +2,7 @@
   "title": "Smoky Crispy Croatian Chestnuts Skillet",
   "description": "Quick-fix Mediterranean-inspired dish featuring roasted chestnuts, smoky paprika, and crispy prosciutto.",
   "cuisine": "Croatian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -79,8 +77,7 @@
     "chestnuts",
     "mediterranean",
     "croatian",
-    "skillet",
-    "vegetarian"
+    "skillet"
   ],
   "nutrition": {
     "calories": 350,
@@ -105,5 +102,9 @@
     "mainIngredient": "chestnuts",
     "descriptor": "smoky crispy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

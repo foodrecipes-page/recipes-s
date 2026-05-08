@@ -3,8 +3,7 @@
   "description": "A comforting Kenyan dish featuring nuts, tempered for a perfect cheese-pull. Perfect for shojin-friendly meals.",
   "cuisine": "kenyan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -210,5 +209,9 @@
     "mainIngredient": "nuts",
     "descriptor": "soothing",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

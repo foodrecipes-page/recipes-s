@@ -3,7 +3,6 @@
   "description": "A show-stopping vegan and gluten-free dish featuring a blend of spices, creamy soured cream, and tangy chive dip that comes together in a vibrant garlic stir-fry.",
   "cuisine": "Algerian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dinner",
@@ -104,5 +103,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Spicy Dense Show-off",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

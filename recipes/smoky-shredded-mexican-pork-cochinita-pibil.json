@@ -56,7 +56,8 @@
     "Roast in the preheated oven for 2 1/2 to 3 hours, or until the pork is tender and falls apart easily.",
     "Remove from the oven and let cool slightly.",
     "Shred the pork with two forks and stir in chopped cilantro leaves.",
-    "Serve the shredded pork with warm tortillas, rice, and your favorite toppings."
+    "Serve the shredded pork with warm tortillas, rice, and your favorite toppings.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -92,5 +93,9 @@
     "mainIngredient": "pork",
     "descriptor": "Smoky Shredded",
     "dishForm": "Cochinita Pibil"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

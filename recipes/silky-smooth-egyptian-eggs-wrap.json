@@ -3,8 +3,7 @@
   "description": "A briny and velvety Egyptian dish featuring eggs and ssam wrap, perfect for midnight cravings, served in a claypot.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -71,7 +70,6 @@
   "tags": [
     "claypot-recipes",
     "eggy-delights",
-    "gluten-free",
     "midnight-cravings",
     "snack-ideas",
     "vegetarian-options"
@@ -99,5 +97,9 @@
     "mainIngredient": "eggs",
     "descriptor": "silky smooth",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Spicy Chewy Filipino Tofu Stew",
   "description": "A hearty and spicy Filipino tofu stew with chewy tofu cubes and a creamy coconut sour cream finish, perfect for a cozy meal.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -113,5 +111,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Spicy Chewy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

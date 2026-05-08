@@ -42,11 +42,12 @@
   ],
   "instructions": [
     "Chop the peaches into small cubes.",
-    "Heat a bit of oil in a pan over medium heat. Add minced garlic and chili flakes, saut\u00e9 for about 2 minutes until fragrant.",
+    "Heat a bit of oil in a pan over medium heat. Add minced garlic and chili flakes, sauté for about 2 minutes until fragrant.",
     "Add chicken broth or water to the pan with the chopped peaches, and bring to a boil.",
     "Stir in corn starch mixed with peach juice concentrate or sugar to achieve desired sweetness. Adjust seasoning with salt and pepper to taste.",
     "Reduce heat and let it simmer for 5-7 minutes until the sauce thickens slightly.",
-    "Serve hot as a side dish or over rice."
+    "Serve hot as a side dish or over rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -81,5 +82,9 @@
     "mainIngredient": "peach",
     "descriptor": "Sweet And Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

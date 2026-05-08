@@ -3,8 +3,7 @@
   "description": "A fresh and creamy solo-dinner dish featuring a low-carb-friendly crumble atop roasted Malaysian yam fries, perfect for those watching their carb intake.",
   "cuisine": "Malaysian",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "Yam",
     "descriptor": "Creamy Smoky Roasted",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Salty Fluffy Kabanos Sausages Grill",
   "description": "A hangover-curing Chinese-inspired dish featuring savory kabanos sausages grilled to perfection with a touch of fluffiness and plant-based ingredients.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -87,5 +84,10 @@
     "mainIngredient": "Kabanos Sausages",
     "descriptor": "Salty Fluffy",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

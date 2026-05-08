@@ -71,7 +71,8 @@
     "Spread a small amount of honey on the center of a corn husk, leaving a 1-inch border around the edges.",
     "Place a portion of the chicken mixture onto the center of the corn husk, leaving a small border around the filling.",
     "Fold the sides of the corn husk over the filling and then roll the wrap up tightly.",
-    "Repeat with remaining ingredients and serve immediately."
+    "Repeat with remaining ingredients and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -108,5 +109,9 @@
     "mainIngredient": "lemongrass",
     "descriptor": "smoked lemongrass",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

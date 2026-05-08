@@ -2,9 +2,7 @@
   "title": "Sour Chewy Lazy-Sunday Chicken Liver Stir-fry",
   "description": "A refreshing and hearty sour chewy dish featuring chicken liver mixed with pickled vegetables for a vegetarian-friendly option.",
   "cuisine": "Norwegian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -33,7 +31,9 @@
     "Add minced garlic to the hot pan and cook for about 30 seconds until fragrant but not browned.",
     "Add chicken liver to the pan, stirring frequently to prevent burning. Cook for about 2-3 minutes or until golden brown on all sides.",
     "Stir in sour sauce and pickled vegetables. Continue to stir-fry for another minute until everything is evenly combined.",
-    "Remove from heat immediately to preserve the texture and flavor of chicken liver."
+    "Remove from heat immediately to preserve the texture and flavor of chicken liver.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -68,5 +68,11 @@
     "mainIngredient": "Chicken Liver",
     "descriptor": "Sour Chewy Lazy-Sunday",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

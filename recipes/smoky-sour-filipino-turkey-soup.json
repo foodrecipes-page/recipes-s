@@ -2,20 +2,18 @@
   "title": "Smoky Sour Filipino Turkey Soup",
   "description": "A light, velvety Filipino-style soup with smoked paprika, calamansi, and coconut milk, featuring tender turkey for a satisfying yet gentle meal.",
   "cuisine": "Filipino",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
       "name": "Turkey stock",
       "amount": "4 cups",
-      "notes": "Homemade or low sodium store\u2011bought"
+      "notes": "Homemade or low sodium store‑bought"
     },
     {
       "name": "Turkey breast",
       "amount": "1 lb",
-      "notes": "Diced, skin\u2011removed"
+      "notes": "Diced, skin‑removed"
     },
     {
       "name": "Coconut milk",
@@ -65,10 +63,10 @@
   ],
   "instructions": [
     "Heat a splash of olive oil in a large pot over medium heat.",
-    "Add the onion, garlic, carrot, and celery; saut\u00e9 until softened, about 5 minutes.",
+    "Add the onion, garlic, carrot, and celery; sauté until softened, about 5 minutes.",
     "Stir in the smoked paprika and cook for 30 seconds to release its flavor.",
     "Pour in the turkey stock and bring to a gentle boil.",
-    "Add the diced turkey breast, reduce heat, and simmer uncovered for 15\u201320 minutes until the turkey is cooked through.",
+    "Add the diced turkey breast, reduce heat, and simmer uncovered for 15–20 minutes until the turkey is cooked through.",
     "Stir in the coconut milk and reduce the heat; let the soup simmer for an additional 5 minutes to meld the flavors.",
     "Add the calamansi juice, kosher salt, and black pepper; adjust seasoning to taste.",
     "Ladle the soup into bowls, garnish with fresh cilantro if desired, and serve hot."
@@ -105,5 +103,9 @@
   "tags": [
     "filipino",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
   ]
 }

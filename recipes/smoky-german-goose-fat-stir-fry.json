@@ -2,9 +2,7 @@
   "title": "Smoky German Goose Fat Stir-fry",
   "description": "A vegetarian-friendly smoky and indulgent dish featuring goose fat, served as a quick side or snack.",
   "cuisine": "German",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -30,7 +28,8 @@
     "Stir in diced onions and cook for an additional minute, allowing them to caramelize slightly.",
     "Next, add zucchini. Cook for another 3-4 minutes until vegetables are tender but still crisp.",
     "Season with salt and pepper to taste.",
-    "Serve immediately as a side or snack."
+    "Serve immediately as a side or snack.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 10,
@@ -65,5 +64,10 @@
     "mainIngredient": "Goose Fat",
     "descriptor": "Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

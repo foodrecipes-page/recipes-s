@@ -3,8 +3,7 @@
   "description": "A low-fat-friendly smoky and crisp dish featuring coconut milk with a romantic twist in an easy-to-follow recipe.",
   "cuisine": "Ethiopian",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "coconut",
     "descriptor": "Smoky Roasted",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

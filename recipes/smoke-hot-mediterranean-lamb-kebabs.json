@@ -3,7 +3,6 @@
   "description": "a flavorful and refreshing mediterranean dish featuring lamb, herbs, and a smoky heat. perfect for a hangover cure or a high-protein meal.",
   "cuisine": "mediterranean",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "lunch",
@@ -131,5 +130,9 @@
     "mainIngredient": "lamb",
     "descriptor": "smoke-hot",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

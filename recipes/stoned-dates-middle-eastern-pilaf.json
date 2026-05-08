@@ -3,7 +3,6 @@
   "description": "A buttery, fluffy middle eastern pilaf featuring stoned dates and a touch of fermenting for an egg-free-friendly dish perfect for weeknight meals.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -81,5 +80,9 @@
     "mainIngredient": "dates",
     "descriptor": "Stoned",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

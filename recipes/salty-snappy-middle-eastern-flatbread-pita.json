@@ -40,7 +40,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "middle-eastern",
     "quick-bread",
     "vegan"
@@ -68,5 +67,9 @@
     "mainIngredient": "flatbread",
     "descriptor": "salty snappy",
     "dishForm": "Pita"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

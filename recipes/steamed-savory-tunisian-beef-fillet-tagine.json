@@ -2,9 +2,7 @@
   "title": "Steamed Savory Tunisian Beef Fillet Tagine",
   "description": "A romantic Tunisian dish featuring beef fillet, steam, and halal-friendly ingredients, cooked to perfection in a copper pot. This funky and aerated dish is sure to impress your guests.",
   "cuisine": "Tunisian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "beef fillet",
     "descriptor": "steamed savory",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

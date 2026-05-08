@@ -2,13 +2,11 @@
   "title": "Sour Mini Russian Cheese Dumplings",
   "description": "Kidfriendly, sourcream enriched dumplings with a quick buttersauce deglaze, perfect for a cozy lunch.",
   "cuisine": "Russian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "all\u2011purpose flour",
+      "name": "all‑purpose flour",
       "amount": "200g",
       "notes": "kosher"
     },
@@ -18,7 +16,7 @@
     },
     {
       "name": "kosher salt",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "large egg",
@@ -32,7 +30,7 @@
     {
       "name": "cottage cheese",
       "amount": "200g",
-      "notes": "low\u2011fat, kosher"
+      "notes": "low‑fat, kosher"
     },
     {
       "name": "sour cream",
@@ -67,13 +65,14 @@
     "Add the egg and cold water; mix until a shaggy dough forms.",
     "Knead the dough on a floured surface for about 2 minutes, cover, and let rest 10 minutes.",
     "In a separate bowl, combine cottage cheese, sour cream, dill, sugar, and lemon juice; mix until smooth.",
-    "Divide the rested dough into 12 equal portions; roll each into a 2\u202fcm circle.",
+    "Divide the rested dough into 12 equal portions; roll each into a 2 cm circle.",
     "Place a teaspoon of the cheese mixture in the center of each dough circle; fold over and pinch the edges to seal.",
-    "Bring a pot of salted water to a rolling boil (100\u202f\u00b0C). Add the dumplings and cook 3\u20134 minutes until they rise to the surface.",
-    "While the dumplings finish cooking, melt butter in a skillet over medium\u2011high heat; add the dumplings and brown lightly, about 2 minutes.",
-    "Deglaze the skillet with the chicken broth, scraping up browned bits; reduce for 2\u20133 minutes.",
+    "Bring a pot of salted water to a rolling boil (100 °C). Add the dumplings and cook 3–4 minutes until they rise to the surface.",
+    "While the dumplings finish cooking, melt butter in a skillet over medium‑high heat; add the dumplings and brown lightly, about 2 minutes.",
+    "Deglaze the skillet with the chicken broth, scraping up browned bits; reduce for 2–3 minutes.",
     "Stir in a splash of sour cream to create a glossy, gooey sauce; adjust seasoning with salt if needed.",
-    "Serve hot, garnished with extra dill or a drizzle of lemon juice for brightness."
+    "Serve hot, garnished with extra dill or a drizzle of lemon juice for brightness.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 7,
@@ -83,7 +82,6 @@
   "tags": [
     "sour",
     "kid-friendly",
-    "kosher",
     "dumpling",
     "cheese",
     "mini",
@@ -112,5 +110,10 @@
     "mainIngredient": "cheese",
     "descriptor": "Sour Mini",
     "dishForm": "dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

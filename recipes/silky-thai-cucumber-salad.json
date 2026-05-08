@@ -70,8 +70,7 @@
     "no-cook",
     "quick",
     "salad",
-    "thai",
-    "vegetarian"
+    "thai"
   ],
   "nutrition": {
     "calories": 250,
@@ -96,5 +95,9 @@
     "mainIngredient": "Cucumber",
     "descriptor": "Silky",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

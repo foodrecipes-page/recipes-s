@@ -2,10 +2,7 @@
   "title": "Smoky Roasted Thai Eggplant Yum Salad",
   "description": "A smoky and refreshing Thai salad featuring roasted Thai eggplant, perfect for a hangover cure or a light lunch. This dish is shojin-friendly and served in a lacquerware bowl.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -97,5 +94,10 @@
     "mainIngredient": "Thai eggplant",
     "descriptor": "Smoky roasted",
     "dishForm": "Yum Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

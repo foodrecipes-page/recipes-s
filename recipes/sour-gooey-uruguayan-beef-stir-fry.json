@@ -2,10 +2,7 @@
   "title": "Sour Gooey Uruguayan Beef Stir-fry",
   "description": "This sour and gooey dish features beef stock cubes to create a rich, flavorful sauce thats perfect for energizing your morning or afternoon snack.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -55,7 +52,7 @@
   ],
   "instructions": [
     "Heat oil in a pan and add cumin seeds, paprika powder, and red pepper flakes. Stir-fry for about 30 seconds.",
-    "Add onions and garlic to the pan. Saut\u00e9 until the onions are translucent.",
+    "Add onions and garlic to the pan. Sauté until the onions are translucent.",
     "Crush tomatoes into chunks and add them to the pan with their juices. Let it simmer for a few minutes.",
     "Stir in beef stock cubes, water or vegan milk, and mix well. Bring it to a boil.",
     "Reduce heat to low and let the mixture cook for about 10-15 minutes until it starts to thicken slightly.",
@@ -98,5 +95,10 @@
     "mainIngredient": "Beef",
     "descriptor": "Sour Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

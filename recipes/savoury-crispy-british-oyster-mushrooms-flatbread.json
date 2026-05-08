@@ -3,7 +3,6 @@
   "description": "A savory, crispy flatbread topped with earthy oyster mushrooms, fermented miso, and a touch of smoked paprika for a low-calorie British indulgence.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
     "low-carb"
   ],
   "meal": "lunch",
@@ -78,8 +77,7 @@
     "crispy",
     "flatbread",
     "low-calorie",
-    "quick",
-    "vegetarian"
+    "quick"
   ],
   "nutrition": {
     "calories": 126,
@@ -104,5 +102,9 @@
     "mainIngredient": "Oyster Mushrooms",
     "descriptor": "Savoury Crispy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

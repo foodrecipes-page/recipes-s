@@ -65,7 +65,8 @@
     "Pour in sake, lime juice, soy sauce, and water. Stir to combine all ingredients evenly and bring to a boil.",
     "Reduce heat to medium-low, cover with a lid, and let simmer gently for about 5 minutes or until most of the liquid has evaporated.",
     "Finally, add green onions and stir in until thoroughly combined. Cook for an additional minute if needed.",
-    "Serve hot as a side dish or main course."
+    "Serve hot as a side dish or main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "ginger",
     "descriptor": "Sour Fluffy Low Carb",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

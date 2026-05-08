@@ -4,8 +4,6 @@
   "cuisine": "British",
   "diet": [
     "lacto-ovo",
-    "vegan",
-    "pescatarian",
     null
   ],
   "meal": "dinner",
@@ -89,5 +87,10 @@
     "mainIngredient": "lamb mince",
     "descriptor": "sour dense raw-friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-pescatarian"
+  ]
 }

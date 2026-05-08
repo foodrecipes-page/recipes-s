@@ -36,7 +36,8 @@
   "instructions": [
     "Preheat your oven to 375°F (190°C) for the grill setting.",
     "Season the beef sirloin with salt and pepper on both sides. Grill until cooked through, about 4-6 minutes per side or as desired.",
-    "While the beef cooks, in a small bowl mix together the soy sauce alternative, scallions, red pepper flakes (or chili oil), and any pickled vegetables you wish to use."
+    "While the beef cooks, in a small bowl mix together the soy sauce alternative, scallions, red pepper flakes (or chili oil), and any pickled vegetables you wish to use.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -73,5 +74,9 @@
     "mainIngredient": "beef",
     "descriptor": "Salty, Tender",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

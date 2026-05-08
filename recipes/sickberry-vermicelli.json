@@ -3,7 +3,6 @@
   "description": "A comforting vegetarian-friendly sick-day dish featuring nutty, juicy vermicelli pasta with a light seasoning and cure.",
   "cuisine": "vegetarian",
   "diet": [
-    "vegan",
     "pescatarian"
   ],
   "meal": "snack",
@@ -72,7 +71,12 @@
     "mood": "sick-day",
     "technique": "cure",
     "primaryIngredient": "vermicelli pasta",
-    "diet": "vegetarian",
+    "diet": "pescatarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "aligned-axes-diet"
+  ]
 }

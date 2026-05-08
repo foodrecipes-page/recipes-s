@@ -55,10 +55,10 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375\u00b0F.",
+    "Preheat your oven to 375°F.",
     "Mix the mashed avocado, cilantro, lemon juice, and spices together in a bowl. Season with salt and pepper to taste.",
     "Spread the tortilla chips on a baking sheet lined with parchment paper. Bake for about 10 minutes or until lightly toasted and golden brown.",
-    "In a large skillet over medium heat, saut\u00e9 diced bell peppers, onions, garlic, and jalepeno (or serrano) pepper until softened, about 5-7 minutes.",
+    "In a large skillet over medium heat, sauté diced bell peppers, onions, garlic, and jalepeno (or serrano) pepper until softened, about 5-7 minutes.",
     "Pour in coconut milk and bring to a simmer. Slowly stir in the gluten-free all-purpose flour or cornstarch mixture until thickened.",
     "Stir in the avocado-cilantro mixture into the skillet with the vegetables. Cook for an additional 2-3 minutes, stirring constantly.",
     "Serve hot over the toasted tortilla chips and garnish with extra cilantro if desired."
@@ -69,7 +69,6 @@
   "servings": 6,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "spicy",
     "vegan-friendly",
     "mexican",
@@ -99,5 +98,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Spicy Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

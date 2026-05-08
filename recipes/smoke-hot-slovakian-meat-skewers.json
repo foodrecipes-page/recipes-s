@@ -2,9 +2,7 @@
   "title": "Smoke Hot Slovakian Meat Skewers",
   "description": "A roasted Slovakian dish featuring green chilli, perfect for a date night, kosher friendly and smoke hot.",
   "cuisine": "Slovakian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,5 +90,9 @@
     "mainIngredient": "meat",
     "descriptor": "Smoke Hot",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Smoky Dum Bitter Delight",
   "description": "A dense and bitter Moroccan dish featuring smoked olive oil and dumplings that can help cure hangovers, perfect for a pescatarian-friendly snack.",
   "cuisine": "Moroccan",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -44,7 +42,8 @@
     "Stir in smoked paprika and red bell pepper, cooking for another 5 minutes.",
     "Add soaked beans and broth. Bring to a boil, then reduce heat to low and let simmer until the liquid is mostly absorbed (about 20 minutes).",
     "Season with salt and pepper to taste.",
-    "Serve warm as a snack or light meal."
+    "Serve warm as a snack or light meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -76,5 +75,10 @@
     "primaryIngredient": "smoky a oli",
     "diet": "pescatarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

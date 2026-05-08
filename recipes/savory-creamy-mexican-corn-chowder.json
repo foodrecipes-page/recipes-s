@@ -3,8 +3,7 @@
   "description": "A rich and comforting chowder featuring sweet corn, poblano peppers, and the subtle flavor of orange blossom water.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -117,5 +116,9 @@
     "mainIngredient": "corn",
     "descriptor": "savory creamy",
     "dishForm": "Chowder"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

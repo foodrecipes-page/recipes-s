@@ -3,8 +3,7 @@
   "description": "A rich and savory Korean-inspired lamb shoulder dish, featuring a sweet and spicy sauce made with dashi extract, that is easy to make and perfect for a special occasion.",
   "cuisine": "Korean",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,7 +97,6 @@
   "difficulty": "hard",
   "tags": [
     "bulgogi",
-    "gluten-free",
     "herbal",
     "indulgent",
     "korean",
@@ -129,5 +127,9 @@
     "mainIngredient": "lamb shoulder",
     "descriptor": "Shattering Indulgent",
     "dishForm": "Bulgogi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A light and refreshing Japanese salad featuring Braeburn apples, kombu cold extract, and a floral touch, perfect for a satvik friendly meal.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "Braeburn apples",
     "descriptor": "Sweet succulent",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

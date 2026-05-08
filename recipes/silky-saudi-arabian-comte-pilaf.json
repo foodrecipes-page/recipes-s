@@ -78,7 +78,8 @@
     "Cook for an additional 2-3 minutes until the cheese is fully incorporated and the pilaf is heated through.",
     "Taste and adjust seasoning as needed.",
     "Serve hot, garnished with chopped fresh parsley if desired.",
-    "Transfer to a serving dish and serve immediately."
+    "Transfer to a serving dish and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -116,5 +117,9 @@
     "mainIngredient": "Comte",
     "descriptor": "Silky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

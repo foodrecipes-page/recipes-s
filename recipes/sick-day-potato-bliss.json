@@ -59,7 +59,8 @@
     "Return cooked bacon and any accumulated grease to the skillet. Add sliced potatoes directly into the skillet. Pour over the cream mixture, stir gently so the potatoes are evenly coated. If using cheese, fold in at this stage or add later for a smooth surface.",
     "Transfer the potato mixture to an ovenproof baking dish (pre-heat before adding). Sprinkle fresh thyme sprigs on top and drizzle with extra heavy cream if desired.",
     "Bake until golden brown and bubbly, about 25 minutes. Serve hot as a side or main course depending on how rich you want the dish to be.",
-    "For low-carb-friendly versions, consider using cauliflower mash instead of potatoes for a healthier alternative."
+    "For low-carb-friendly versions, consider using cauliflower mash instead of potatoes for a healthier alternative.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -88,7 +89,12 @@
     "mood": "sick-day",
     "technique": "reduce",
     "primaryIngredient": "jersey royal potatoes",
-    "diet": "low-carb",
+    "diet": "low-carb-friendly",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A resinous, light monsoon inspired bowl that blends smoky binchotan charcoal, subtle rum, and fresh Venezuelan flavors in a vegan-friendly dish.",
   "cuisine": "Venezuelan",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -77,7 +76,6 @@
   "servings": 2,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "latin-american",
     "one-pan",
     "quick",
@@ -107,5 +105,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Smoky",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

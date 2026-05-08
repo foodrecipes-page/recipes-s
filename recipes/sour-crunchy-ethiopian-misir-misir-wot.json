@@ -65,7 +65,8 @@
     "Season with salt to taste.",
     "Stir in the vinegar and cook for 1 minute, or until the flavors have melded together.",
     "Serve the misir wot hot, garnished with additional chopped onion and a dollop of the remaining lardons-render, if desired.",
-    "Note: This recipe can be served with a variety of sides, such as injera bread or steamed vegetables."
+    "Note: This recipe can be served with a variety of sides, such as injera bread or steamed vegetables.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "Misir",
     "descriptor": "Sour, crunchy",
     "dishForm": "Misir-Wot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

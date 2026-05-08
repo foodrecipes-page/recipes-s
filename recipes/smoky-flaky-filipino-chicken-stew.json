@@ -58,7 +58,8 @@
     "Stir in the custard powder slurry and cook for 2–3 minutes until the sauce thickens. Adjust seasoning, adding a pinch of salt if needed.",
     "If desired, stir in 1 tablespoon of coconut milk for extra creaminess and let simmer for 1 minute.",
     "Taste and adjust with more liquid smoke or soy sauce if needed. Remove from heat.",
-    "Garnish with chopped cilantro or green onions before serving."
+    "Garnish with chopped cilantro or green onions before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Smoky Flaky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A crowdpleasing, lowsodium Thai-inspired linguine that bursts with spicy chili, fresh herbs, and a juicy coconutsoy sauce, perfect for a quick dinner.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
     "low-sodium"
   ],
   "meal": "dinner",
@@ -29,7 +28,7 @@
       "amount": "200 g"
     },
     {
-      "name": "Low\u2011sodium soy sauce",
+      "name": "Low‑sodium soy sauce",
       "amount": "2 tablespoons"
     },
     {
@@ -59,15 +58,15 @@
   ],
   "instructions": [
     "Cook linguine in salted water according to package instructions until al dente. Drain, reserving 1/4 cup pasta water, and set aside.",
-    "Heat olive oil in a large skillet over medium heat. Add minced garlic and sliced chili; saut\u00e9 for 1 minute until fragrant.",
-    "Add shrimp to the skillet and cook, turning occasionally, until pink and opaque, about 2\u20133 minutes (internal temperature 63\u202f\u00b0C).",
-    "Pour in coconut milk and low\u2011sodium soy sauce; stir to combine.",
-    "Add brown sugar, basil, and cilantro; simmer for 3\u20134 minutes until the sauce thickens slightly.",
+    "Heat olive oil in a large skillet over medium heat. Add minced garlic and sliced chili; sauté for 1 minute until fragrant.",
+    "Add shrimp to the skillet and cook, turning occasionally, until pink and opaque, about 2–3 minutes (internal temperature 63 °C).",
+    "Pour in coconut milk and low‑sodium soy sauce; stir to combine.",
+    "Add brown sugar, basil, and cilantro; simmer for 3–4 minutes until the sauce thickens slightly.",
     "Return the cooked linguine to the skillet, tossing to coat with the sauce. If needed, add a splash of reserved pasta water to reach desired consistency.",
     "Stir in lime juice and adjust seasoning with a pinch more soy sauce if necessary.",
     "Divide the pasta among four plates, placing a lime wedge on each.",
     "Serve immediately, encouraging guests to squeeze fresh lime for extra brightness.",
-    "Enjoy your spicy, juicy Thai linguine while it\u2019s hot!"
+    "Enjoy your spicy, juicy Thai linguine while it’s hot!"
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -80,8 +79,7 @@
     "pasta",
     "juicy",
     "low-sodium",
-    "quick-meal",
-    "vegetarian"
+    "quick-meal"
   ],
   "nutrition": {
     "calories": 370,
@@ -106,5 +104,9 @@
     "mainIngredient": "linguine",
     "descriptor": "Spicy Juicy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

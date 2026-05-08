@@ -34,7 +34,7 @@
     },
     {
       "name": "white pepper powder",
-      "amount": "\u00bd tsp",
+      "amount": "½ tsp",
       "notes": "freshly ground if available"
     },
     {
@@ -54,7 +54,8 @@
     "Add green chilis, tamarind paste or juice, rice vinegar, and a pinch of salt to the skillet. Stir well until the mixture forms a syrup-like consistency.",
     "Reduce heat to medium-low and continue stirring for an additional minute, allowing flavors to meld together.",
     "Remove from heat and garnish with finely chopped green onions before serving.",
-    "prepTimeMin"
+    "prepTimeMin",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "slug": "sour-tender-show-off-portuguese-chicken-stir-fry",
   "source": "ollama-qwen2.5:3b",
@@ -88,5 +89,9 @@
   "tags": [
     "portuguese",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
   ]
 }

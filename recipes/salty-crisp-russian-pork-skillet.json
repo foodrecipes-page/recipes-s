@@ -46,13 +46,14 @@
   ],
   "instructions": [
     "Heat a large skillet over medium-high heat and add 1 tbsp of olive oil.",
-    "Season the pork slices with salt, pepper, paprika, and garlic powder, then place them in the hot skillet. Sear each side until golden brown, about 3\u20134 minutes per side.",
+    "Season the pork slices with salt, pepper, paprika, and garlic powder, then place them in the hot skillet. Sear each side until golden brown, about 3–4 minutes per side.",
     "Remove the pork and set aside. Add the remaining 1 tbsp oil to the skillet and pour in the water, scraping up any browned bits to deglaze.",
     "Stir in the wholegrain mustard, allowing the sauce to simmer and thicken for 2 minutes.",
     "Return the pork to the skillet, spooning the mustard sauce over the meat. Cook for another 2 minutes until the gravy coats the pork and the edges are crisp.",
     "Sprinkle chopped dill over the skillet, stir gently, and let it heat through for 30 seconds.",
     "Serve the pork hot, spooning extra sauce from the pan onto each serving.",
-    "Clean and rest the skillet before storing."
+    "Clean and rest the skillet before storing.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "slug": "salty-crisp-russian-pork-skillet",
   "source": "ocloud-gpt-oss:20b",
@@ -86,5 +87,9 @@
   "tags": [
     "russian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
   ]
 }

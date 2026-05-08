@@ -3,7 +3,6 @@
   "description": "A midnight-craving Japanese dessert sushi that blends sweet miso glaze, crunchy roasted chestnut, and tender chestnut mushroom for a delightful crunch.",
   "cuisine": "Japanese",
   "diet": [
-    "vegan",
     "gluten-free",
     "jain-friendly"
   ],
@@ -93,7 +92,6 @@
     "sweet",
     "crunchy",
     "sushi",
-    "vegan",
     "gluten-free",
     "jain-friendly",
     "dessert",
@@ -124,5 +122,9 @@
     "mainIngredient": "chestnut mushroom",
     "descriptor": "Sweet Crunchy",
     "dishForm": "Sushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

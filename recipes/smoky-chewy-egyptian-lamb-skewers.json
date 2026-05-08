@@ -2,10 +2,7 @@
   "title": "Smoky Chewy Egyptian Lamb Skewers",
   "description": "Impress your loved ones with these romantic and flavorful skewers of lamb loin chops, marinated in a rich Egyptian-inspired mixture of spices and herbs, then grilled to perfection on a hot stone plate.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -117,5 +114,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Smoky Chewy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

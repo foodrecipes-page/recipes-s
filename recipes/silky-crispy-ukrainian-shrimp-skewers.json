@@ -3,8 +3,7 @@
   "description": "Savory, silky shrimp on skewers with a crispy almond coating, finished with a lemondill glaze - a festive, paleofriendly Ukrainian treat.",
   "cuisine": "Ukrainian",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -58,13 +57,13 @@
     }
   ],
   "instructions": [
-    "Preheat a skillet or grill to medium\u2011high (about 180\u202f\u00b0C). If grilling, oil the grates lightly.",
+    "Preheat a skillet or grill to medium‑high (about 180 °C). If grilling, oil the grates lightly.",
     "Whisk the egg white until frothy.",
     "In a separate bowl, combine almond flour with smoked paprika, garlic powder, onion powder, and salt.",
     "Thread shrimp onto soaked wooden or metal skewers and pat dry.",
     "Dip each skewer first into the egg white, then dredge in the almond flour mixture, ensuring a even coating.",
     "Brush the coated shrimp lightly with olive oil.",
-    "Heat sunflower oil in the skillet until shimmering (but not smoking). Place the shrimp skewers in the pan and fry 1\u20132\u202fminutes per side until golden brown and cooked through (internal temp 63\u202f\u00b0C).",
+    "Heat sunflower oil in the skillet until shimmering (but not smoking). Place the shrimp skewers in the pan and fry 1–2 minutes per side until golden brown and cooked through (internal temp 63 °C).",
     "While frying, whisk lemon juice and zest together and drizzle over the cooked shrimp for a glossy glaze.",
     "Remove from heat, sprinkle chopped dill, and serve immediately with optional lemon wedges."
   ],
@@ -100,5 +99,9 @@
   "tags": [
     "ukrainian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
   ]
 }

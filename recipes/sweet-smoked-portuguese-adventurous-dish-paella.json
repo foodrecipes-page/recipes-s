@@ -65,7 +65,8 @@
     "Remove the parchment paper and top the paella with the laminated puff pastry.",
     "Fold the banana leaves over the top of the pastry to create a package.",
     "Cook for an additional 15 minutes, or until the pastry is golden brown.",
-    "Serve immediately, garnished with fresh herbs if desired."
+    "Serve immediately, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -102,5 +103,9 @@
     "mainIngredient": "adventurous dish",
     "descriptor": "sweet smoked",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,9 +3,7 @@
   "description": "A spicy, crispy, meal-prep Dutch dish featuring raspberry jam, ssam-wrap, and satvik-friendly ingredients. Perfect for a quick and easy snack or lunch.",
   "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -103,10 +101,8 @@
   "difficulty": "medium",
   "tags": [
     "dutch",
-    "gluten-free",
     "high-protein",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -132,5 +128,10 @@
     "mainIngredient": "ssam",
     "descriptor": "spicy crispy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

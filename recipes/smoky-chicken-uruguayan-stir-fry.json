@@ -48,7 +48,8 @@
     "Add the chicken and season with salt and pepper. Cook for about 5 minutes or until golden brown on all sides.",
     "Fold in the bell peppers and continue to cook for another 3-4 minutes, allowing flavors to blend together.",
     "Stir in garlic cubes, let it cook further for a minute or so, then add Uruguay bouillon cubes.",
-    "Simmer everything together for about 10 minutes until all liquids have been absorbed. Taste and adjust seasoning as needed."
+    "Simmer everything together for about 10 minutes until all liquids have been absorbed. Taste and adjust seasoning as needed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -85,5 +86,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

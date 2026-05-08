@@ -61,7 +61,8 @@
     "Add the apple cider vinegar and honey to the skillet and bring to a simmer.",
     "Reduce the sauce by half, stirring occasionally, until it reaches a thick and silky consistency.",
     "Remove the cooked dumplings from the water with a slotted spoon and add them to the skillet with the sweet sauce.",
-    "Toss the dumplings in the sauce to coat and serve hot."
+    "Toss the dumplings in the sauce to coat and serve hot.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -97,5 +98,9 @@
     "mainIngredient": "beef",
     "descriptor": "sweet silky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

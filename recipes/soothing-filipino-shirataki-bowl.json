@@ -3,8 +3,7 @@
   "description": "A resinous, low-glycemic Filipino bowl featuring shirataki noodles, shrimp, and fresh vegetables in a stone-dolsot for a hangover cure.",
   "cuisine": "Filipino",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -77,7 +76,6 @@
   "tags": [
     "dinner",
     "filipino",
-    "gluten-free",
     "low-glycemic",
     "one-pot",
     "quick"
@@ -105,5 +103,9 @@
     "mainIngredient": "shirataki",
     "descriptor": "Soothing",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

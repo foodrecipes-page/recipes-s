@@ -2,9 +2,7 @@
   "title": "Smoky Chewy Irish Sausage Pie",
   "description": "A kid-friendly Irish dish featuring smoked turkey sausage in a buttery phyllo crust, with a savory, smoky filling that melts in your mouth.",
   "cuisine": "Irish",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,7 +58,8 @@
     "Spread the sausage mixture over half the stacked phyllo, sprinkle with shredded cheese and chopped parsley.",
     "Fold the other half of the phyllo over the filling, sealing edges with a bit of olive oil.",
     "Place the assembled pie on a baking sheet and bake for 25 minutes, or until the phyllo is golden and crisp.",
-    "Let cool for 5 minutes, slice, and serve warm."
+    "Let cool for 5 minutes, slice, and serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -97,5 +96,11 @@
     "mainIngredient": "Sausage",
     "descriptor": "Smoky Chewy",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -80,7 +80,8 @@
     "Lay a corn husk flat on a work surface. Spread about 1/2 cup of the pasta mixture onto the center of the husk, leaving a 1-inch border around the edges.",
     "Fold the sides of the corn husk over the filling, then roll the tamale up, folding the top over to seal.",
     "Repeat with the remaining filling and corn husks. Steam the tamales for 20-25 minutes, or until the dough is tender and the cheese is melted.",
-    "Serve the tamales warm, garnished with chopped cilantro."
+    "Serve the tamales warm, garnished with chopped cilantro.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -118,5 +119,9 @@
     "mainIngredient": "Penne pasta",
     "descriptor": "Savory, Silky",
     "dishForm": "Individual Mini Tamales"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

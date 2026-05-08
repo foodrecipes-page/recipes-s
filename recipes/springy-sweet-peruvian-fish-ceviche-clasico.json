@@ -4,7 +4,6 @@
   "cuisine": "Peruvian",
   "diet": [
     "sugar-free",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -72,11 +71,10 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "low-carb",
     "peruvian-cuisine",
     "seafood",
@@ -106,5 +104,10 @@
     "mainIngredient": "fish",
     "descriptor": "springy sweet",
     "dishForm": "Ceviche Clasico"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

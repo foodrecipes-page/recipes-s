@@ -3,8 +3,7 @@
   "description": "A spicy and light Russian dish featuring rice flour pancakes, nimono-simmer, and low-fat-friendly ingredients, perfect for adventurous eaters. This recipe combines the flavors of Russia with a hint of spice and a low-fat twist.",
   "cuisine": "Russian",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -64,7 +63,6 @@
   "tags": [
     "adventurous-eating",
     "breakfast-ideas",
-    "gluten-free",
     "low-fat",
     "russian-cuisine",
     "spicy-food"
@@ -92,5 +90,9 @@
     "mainIngredient": "pancakes",
     "descriptor": "Spicy Savory",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

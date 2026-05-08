@@ -2,9 +2,7 @@
   "title": "Spicy Juicy Zhejiang Steak Stir-fry",
   "description": "A bold, flavor-packed stir-fry featuring tender sliced steak, a fiery chili paste, and aromatic aromatics, perfect for a halal-friendly crowd-pleaser.",
   "cuisine": "Chinese (Zhejiang)",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -42,7 +40,7 @@
     },
     {
       "name": "Black pepper, freshly ground",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "Sesame oil",
@@ -54,9 +52,9 @@
     }
   ],
   "instructions": [
-    "Marinate the sliced steak with soy sauce, rice wine, 1 tsp of chili bean paste, \u00bd tsp of black pepper, and 1 tsp of sesame oil for 10 minutes.",
+    "Marinate the sliced steak with soy sauce, rice wine, 1 tsp of chili bean paste, ½ tsp of black pepper, and 1 tsp of sesame oil for 10 minutes.",
     "Heat 1 tbsp vegetable oil in a wok over high heat until shimmering.",
-    "Add the marinated steak in a single layer and sear for 2 minutes, then flip and cook another 2 minutes until just browned but still pink inside\u2014remove and set aside.",
+    "Add the marinated steak in a single layer and sear for 2 minutes, then flip and cook another 2 minutes until just browned but still pink inside—remove and set aside.",
     "Add the remaining 1 tbsp vegetable oil, then stir-fry the minced garlic and ginger for 30 seconds until fragrant.",
     "Add the remaining chili bean paste and sugar, stir for 10 seconds to release the aromas.",
     "Return the steak to the wok, toss quickly with the aromatics, and stir-fry for an additional 1 minute to heat through and coat the meat evenly.",
@@ -95,5 +93,9 @@
   "tags": [
     "chinese-zhejiang",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
   ]
 }

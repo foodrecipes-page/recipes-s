@@ -30,8 +30,8 @@
     },
     {
       "name": "flour tortillas",
-      "amount": "4 (10\u2011inch)",
-      "notes": "or whole\u2011wheat for a lighter version"
+      "amount": "4 (10‑inch)",
+      "notes": "or whole‑wheat for a lighter version"
     },
     {
       "name": "shredded cheese",
@@ -51,7 +51,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "sugar\u2011free sweetener",
+      "name": "sugar‑free sweetener",
       "amount": "1 tsp",
       "notes": "optional, use Splenda or stevia"
     },
@@ -62,13 +62,14 @@
   ],
   "instructions": [
     "Heat a large skillet over medium heat and drizzle with 1 tsp olive oil.",
-    "Add the shredded chicken, smoked paprika, cumin, chili powder, salt, and pepper; cook 2\u20133 minutes until fragrant.",
-    "Stir in Grand Marnier, lime juice, and sugar\u2011free sweetener; cook another 1 minute. Remove from heat and let rest for 5 minutes to allow flavors to meld.",
+    "Add the shredded chicken, smoked paprika, cumin, chili powder, salt, and pepper; cook 2–3 minutes until fragrant.",
+    "Stir in Grand Marnier, lime juice, and sugar‑free sweetener; cook another 1 minute. Remove from heat and let rest for 5 minutes to allow flavors to meld.",
     "Place two tortillas on the skillet; spread half of the chicken mixture evenly on one tortilla and top with half the cheese and green onions.",
     "Cover with the second tortilla, pressing gently to seal.",
-    "Cook 2\u20133 minutes on each side, until the bottom tortilla is golden brown and the cheese is melted.",
+    "Cook 2–3 minutes on each side, until the bottom tortilla is golden brown and the cheese is melted.",
     "Repeat with the remaining tortillas and filling.",
-    "Transfer cooked quesadillas to a cutting board, cut into wedges, and serve immediately."
+    "Transfer cooked quesadillas to a cutting board, cut into wedges, and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -106,5 +107,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Smoky Chewy",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

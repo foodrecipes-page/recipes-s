@@ -3,20 +3,19 @@
   "description": "A lazy Sunday flatbread bursting with herbal Mediterranean flavors, silky plantbased mozzarella, and a touch of smoky heat.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Whole wheat flatbread (12\u2011inch)",
+      "name": "Whole wheat flatbread (12‑inch)",
       "amount": "1 (12-inch)",
-      "notes": "store\u2011bought or homemade"
+      "notes": "store‑bought or homemade"
     },
     {
       "name": "Vegan mozzarella, shredded",
       "amount": "200 g",
-      "notes": "use store\u2011bought plant\u2011based mozzarella"
+      "notes": "use store‑bought plant‑based mozzarella"
     },
     {
       "name": "Tomato paste",
@@ -70,11 +69,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200\u202f\u00b0C (400\u202f\u00b0F). Lightly brush the flatbread with a tablespoon of olive oil and place it on a baking sheet.",
+    "Preheat oven to 200 °C (400 °F). Lightly brush the flatbread with a tablespoon of olive oil and place it on a baking sheet.",
     "In a small bowl, combine the tomato paste, smoked paprika, minced garlic, dried oregano, dried basil, chopped rosemary, smoked sea salt, black pepper, and red pepper flakes (if using). Whisk until smooth.",
     "Spread the sauce mixture evenly over the prepared flatbread, leaving a small border.",
     "Sprinkle the shredded vegan mozzarella evenly over the sauce layer.",
-    "Bake the flatbread for 8\u201310 minutes, or until the cheese is melted and the edges are golden brown.",
+    "Bake the flatbread for 8–10 minutes, or until the cheese is melted and the edges are golden brown.",
     "While the bread finishes baking, warm the remaining tablespoon of olive oil in a small pan; this gives a subtle smoky drizzle.",
     "Remove the flatbread from the oven, drizzle the warm smoked olive oil over the top, and sprinkle with fresh basil leaves.",
     "Let the flatbread rest for 2 minutes, then slice and serve hot."
@@ -86,7 +85,6 @@
   "difficulty": "easy",
   "tags": [
     "flatbread",
-    "vegan",
     "vegetarian",
     "mediterranean",
     "smoky",
@@ -116,5 +114,9 @@
     "mainIngredient": "Mozzarella",
     "descriptor": "Smoky Silky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

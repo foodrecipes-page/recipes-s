@@ -67,7 +67,8 @@
     "Add the chicken broth, honey, and salt and pepper to taste, and bring the mixture to a boil.",
     "Cover the tagine or Dutch oven and transfer it to the oven, where it will cook for 2.5 hours, or until the lamb is very tender.",
     "Remove the tagine or Dutch oven from the oven and let it cool slightly before serving.",
-    "Serve the lamb and sauce over couscous or rice, garnished with chopped fresh herbs and a dollop of yogurt if desired."
+    "Serve the lamb and sauce over couscous or rice, garnished with chopped fresh herbs and a dollop of yogurt if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -104,5 +105,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Savory",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

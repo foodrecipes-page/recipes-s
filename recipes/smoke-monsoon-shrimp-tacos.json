@@ -2,9 +2,7 @@
   "title": "Smoke Monsoon Shrimp Tacos",
   "description": "A floral and silky monsoon-inspired Mexican dish featuring smoked shrimp in a vegetable-based sauce for vegetarians.",
   "cuisine": "Mexican",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,8 +71,7 @@
     "smoked",
     "shrimp",
     "monsoon",
-    "mexican",
-    "vegan"
+    "mexican"
   ],
   "nutrition": {
     "calories": 489,
@@ -95,5 +92,10 @@
     "primaryIngredient": "shrimp",
     "diet": "vegetarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

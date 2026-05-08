@@ -64,7 +64,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 2,
-  "totalTimeMin": 2,
+  "totalTimeMin": 32,
   "servings": 4,
   "difficulty": "hard",
   "tags": [
@@ -97,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "smoky roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

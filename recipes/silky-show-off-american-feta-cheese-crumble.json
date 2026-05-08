@@ -2,9 +2,7 @@
   "title": "Silky Show-off American Feta Cheese Crumble",
   "description": "A silky show-off dish featuring fermented feta cheese in a gluten-free crumble thats perfect for snacking or as an appetizer.",
   "cuisine": "American",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -39,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F (175\u00b0C).",
+    "Preheat your oven to 350°F (175°C).",
     "Mix together the feta cheese, glucose syrup, almond flour, honey, peanut butter powder, and sesame seeds.",
     "Form into small balls and arrange them on a baking sheet lined with parchment paper.",
     "Bake for about 8-10 minutes until golden brown. Remove from oven and let cool slightly before serving."
@@ -50,7 +48,6 @@
   "servings": 6,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "snack",
     "american",
     "show-off",
@@ -79,5 +76,9 @@
     "mainIngredient": "Feta Cheese",
     "descriptor": "Silky Show-off",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

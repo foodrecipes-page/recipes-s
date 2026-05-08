@@ -3,8 +3,7 @@
   "description": "A rich and aromatic North African tagine made with almonds, chicken, and a blend of spices, perfect for a warm and cozy dinner.",
   "cuisine": "North African",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -92,8 +91,7 @@
     "spicy",
     "velvety",
     "almonds",
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "nutrition": {
     "calories": 520,
@@ -118,5 +116,9 @@
     "mainIngredient": "Almonds",
     "descriptor": "spicy velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

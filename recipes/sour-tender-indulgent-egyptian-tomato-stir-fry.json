@@ -44,7 +44,8 @@
     "In a large bowl, mix together the sliced tomatoes, lime juice, chopped cilantro, minced garlic, red onion slices, olive oil, salt, and pepper. Mix well until all ingredients are evenly distributed.",
     "Transfer the mixture to an oven-safe dish, ensuring all pieces of tomato are exposed to the liquid mixture. Cover with aluminum foil and place in a preheated 350°F (175°C) oven for about 20 minutes.",
     "Remove from heat and let it sit for another 5-10 minutes before serving.",
-    "Serve immediately as a side dish or over grilled chicken, fish, or vegetables. The stir-fry is best enjoyed fresh with a squeeze of lime juice."
+    "Serve immediately as a side dish or over grilled chicken, fish, or vegetables. The stir-fry is best enjoyed fresh with a squeeze of lime juice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -83,5 +84,9 @@
     "mainIngredient": "tomato",
     "descriptor": "Sour Tender Indulgent",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,9 +3,7 @@
   "description": "A hearty and comforting French dish featuring tender beef, vine tomatoes, and a rich, smoky flavor. This recipe is a jain-friendly version of the classic Boeuf Bourguignon.",
   "cuisine": "French",
   "diet": [
-    "jain",
-    "vegetarian",
-    "vegan"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -79,5 +77,10 @@
     "mainIngredient": "beef",
     "descriptor": "smoked tender",
     "dishForm": "Bourguignon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

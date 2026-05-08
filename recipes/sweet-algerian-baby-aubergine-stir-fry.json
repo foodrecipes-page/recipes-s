@@ -2,9 +2,7 @@
   "title": "Sweet Algerian Baby Aubergine Stir-fry",
   "description": "A silky and sweet brunch-mood dish featuring baby aubergines in a dairy-free stir-fry sauce thats perfect for a quick weeknight meal.",
   "cuisine": "Algerian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -45,7 +43,7 @@
     }
   ],
   "instructions": [
-    "Heat a wok or large skillet over medium-high heat. Add oil and onions; saut\u00e9 until translucent.",
+    "Heat a wok or large skillet over medium-high heat. Add oil and onions; sauté until translucent.",
     "Add garlic and thyme leaves to the pan; stir for about 1 minute.",
     "Add baby aubergine slices, salt, and pepper. Stir fry for another 2 minutes until slightly charred on all sides.",
     "Pour in tomato paste and coconut milk. Simmer for about 5-7 minutes or until thickened.",
@@ -87,5 +85,9 @@
     "mainIngredient": "baby aubergine",
     "descriptor": "Sweet",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

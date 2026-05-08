@@ -64,7 +64,8 @@
     "Add the chicken broth, diced ginger, and sherry vinegar to the saucepan.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "Stir in the sweet sherry and cook for an additional 2 minutes.",
-    "Add the cooked rice to the saucepan and stir to combine."
+    "Add the cooked rice to the saucepan and stir to combine.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "sherry",
     "descriptor": "sweet",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

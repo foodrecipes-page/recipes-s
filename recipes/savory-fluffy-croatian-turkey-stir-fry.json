@@ -2,10 +2,7 @@
   "title": "Savory Fluffy Croatian Turkey Stir-fry",
   "description": "A cozy Mediterranean dish featuring turkey that is both savory and fluffy. Perfect for a light lunch or dinner.",
   "cuisine": "Mediterranean, Croatian",
-  "diet": [
-    "pescatarian",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -105,5 +102,10 @@
     "mainIngredient": "Turkey",
     "descriptor": "Savory Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian"
+  ]
 }

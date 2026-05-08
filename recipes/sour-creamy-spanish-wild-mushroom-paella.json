@@ -49,15 +49,16 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide machine to 180\u00b0F (or oven to 375\u00b0F).",
-    "In a large saut\u00e9 pan over medium heat, add a drizzle of vegetable oil and the chopped onion. Saut\u00e9 until translucent.",
+    "Preheat your sous-vide machine to 180°F (or oven to 375°F).",
+    "In a large sauté pan over medium heat, add a drizzle of vegetable oil and the chopped onion. Sauté until translucent.",
     "Add minced garlic and cook for another minute, stirring frequently to prevent burning.",
     "Pour in white wine and let reduce by half. Add chicken stock or water and stir well to combine.",
-    "Place saffron threads on top of the liquid mixture. Cook over medium-low heat until it\u2019s hot but not boiling.",
-    "Meanwhile, pre-sous-vide your arborio rice as per your sous-vide instructions (typically 10-15 minutes at 180\u00b0F).",
+    "Place saffron threads on top of the liquid mixture. Cook over medium-low heat until it’s hot but not boiling.",
+    "Meanwhile, pre-sous-vide your arborio rice as per your sous-vide instructions (typically 10-15 minutes at 180°F).",
     "Remove saffroned liquid from heat and stir in sour cream, heavy cream, salt, and pepper. Simmer gently until the sauce is smooth.",
     "Gently fold in cooked rice to the sauce mixture and continue cooking over low heat for another few minutes to allow flavors to meld together.",
-    "Transfer finished paella to a serving dish and garnish with fresh herbs if desired. Serve hot as an accompaniment to brunch dishes."
+    "Transfer finished paella to a serving dish and garnish with fresh herbs if desired. Serve hot as an accompaniment to brunch dishes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -93,5 +94,9 @@
     "mainIngredient": "Wild Mushrooms",
     "descriptor": "Sour Creamy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

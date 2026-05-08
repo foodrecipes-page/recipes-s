@@ -3,8 +3,7 @@
   "description": "A light Mexican dish featuring strong white flour tortillas, dehydrated for a unique texture, and filled with flavorful ingredients, perfect for a nut-free friendly meal.",
   "cuisine": "Mexican",
   "diet": [
-    "nut-free",
-    "gluten-free"
+    "nut-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "tortilla",
     "descriptor": "Softly grilled",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

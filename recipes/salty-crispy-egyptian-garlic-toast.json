@@ -69,11 +69,15 @@
     "mood": "nostalgic",
     "technique": "toast",
     "primaryIngredient": "garlic bulb",
-    "diet": "low-sodium",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Egyptian",
     "mainIngredient": "garlic",
     "descriptor": "Salty Crispy",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

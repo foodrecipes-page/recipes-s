@@ -47,7 +47,8 @@
     "Remove chicken from the wok and set aside.",
     "In the same wok, add fermented vegetables (if using fresh, finely chop them), ginger, garlic, and red pepper flakes. Stir-fry for about 1 minute.",
     "Return chicken to the wok with its juices, pour in sour sauce, and stir well until everything is coated evenly.",
-    "Turn off heat and serve hot."
+    "Turn off heat and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 5,
@@ -83,5 +84,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Sour Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

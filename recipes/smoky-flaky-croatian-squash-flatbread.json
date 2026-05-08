@@ -61,7 +61,8 @@
     "Assemble the flatbread by spreading a layer of roasted squash, followed by a few pickle slices, some crumbly feta cheese, and a sprinkle of chopped parsley.",
     "Serve immediately and enjoy!",
     "Optional: Drizzle with a bit of olive oil and sprinkle with additional smoked paprika for extra flavor.",
-    "Store any leftovers in an airtight container in the refrigerator for up to 2 days."
+    "Store any leftovers in an airtight container in the refrigerator for up to 2 days.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "squash",
     "descriptor": "smoky flaky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

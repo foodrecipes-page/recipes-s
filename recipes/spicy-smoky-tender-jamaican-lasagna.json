@@ -2,10 +2,7 @@
   "title": "Spicy Smoky Tender Jamaican Lasagna",
   "description": "A pungent, tender, comforting Jamaican dish featuring lasagna sheets, flambe, and a rich, smoky flavor.",
   "cuisine": "jamaican",
-  "diet": [
-    "kosher",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -89,7 +86,8 @@
     "Flambe the dish with a little bit of rum, if desired, and then place it under the broiler until the cheese is melted and bubbly.",
     "Remove the dish from the oven and sprinkle with chopped cilantro and a little bit of flour to thicken the sauce.",
     "Serve hot and enjoy!",
-    "Let the dish rest for 10 minutes before serving to allow the flavors to meld together."
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -126,5 +124,11 @@
     "mainIngredient": "lasagne",
     "descriptor": "spicy smoky tender",
     "dishForm": "lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-kosher",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

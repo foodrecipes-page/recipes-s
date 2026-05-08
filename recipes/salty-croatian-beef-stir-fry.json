@@ -2,9 +2,7 @@
   "title": "Salty Croatian Beef Stir-fry",
   "description": "A festive croatian dish featuring salty and crispy beef, perfect for a quick lunch or dinner that's vegetarian-friendly.",
   "cuisine": "Croatian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -60,5 +58,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Salty",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

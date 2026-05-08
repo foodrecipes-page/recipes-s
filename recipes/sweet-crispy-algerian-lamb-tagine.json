@@ -67,7 +67,8 @@
     "Return the lamb to the pot and bring the mixture to a boil.",
     "Cover the pot and transfer it to the preheated oven. Braise the lamb for 2 1/2 hours, or until tender.",
     "Remove the pot from the oven and increase the oven temperature to 400°F (200°C).",
-    "Remove the lid from the pot and cook the lamb for an additional 20-25 minutes, or until crispy on top."
+    "Remove the lid from the pot and cook the lamb for an additional 20-25 minutes, or until crispy on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 170,
@@ -105,5 +106,9 @@
     "mainIngredient": "lamb",
     "descriptor": "sweet crispy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

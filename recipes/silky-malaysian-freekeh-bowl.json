@@ -2,9 +2,7 @@
   "title": "Silky Malaysian Freekeh Bowl",
   "description": "A savory, silky bowl that blends smoky freekeh with fragrant lemongrass, coconut cream, and a touch of fermented tamari for a quick, halal-friendly Malaysian-inspired meal.",
   "cuisine": "Malaysian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -112,5 +110,9 @@
     "mainIngredient": "freekeh",
     "descriptor": "Silky",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

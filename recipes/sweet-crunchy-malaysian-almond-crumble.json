@@ -4,7 +4,6 @@
   "cuisine": "Malaysian",
   "diet": [
     "low-calorie",
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -60,7 +59,8 @@
     "In a separate bowl, whisk the egg whites until soft peaks form, then gently fold them into the crumb mixture.",
     "Press the mixture firmly into the prepared pan, smoothing the surface with a spatula.",
     "Bake for 20–25 minutes, or until the top is golden brown and the crumble feels firm to the touch.",
-    "Remove from the oven and let cool in the pan for 10 minutes before cutting into squares to serve."
+    "Remove from the oven and let cool in the pan for 10 minutes before cutting into squares to serve.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -70,7 +70,6 @@
   "tags": [
     "dessert",
     "snack",
-    "gluten-free",
     "low-calorie",
     "almond-based",
     "crunchy",
@@ -99,5 +98,10 @@
     "mainIngredient": "Almond",
     "descriptor": "Sweet Crunchy",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

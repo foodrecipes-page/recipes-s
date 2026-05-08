@@ -81,7 +81,8 @@
     "Bake for 2 1/2 hours, or until the lamb is tender and falling off the bone.",
     "Remove the pot from the oven and brush the lamb with lemon juice.",
     "Let the lamb rest for 10-15 minutes before serving.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -119,5 +120,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Slow",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

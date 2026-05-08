@@ -3,7 +3,6 @@
   "description": "A hearty kaiseki-course dish featuring lamb shoulder, earthy flavors, and the sweetness of Shoga. Best served in a warm salt-block vessel.",
   "cuisine": "japanese",
   "diet": [
-    "vegetarian",
     "pescetarian",
     "lacto-ovo-vegetarian",
     "lacto-vegetarian",
@@ -108,5 +107,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Slow Cooked Earthy",
     "dishForm": "Shoga Jiru"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

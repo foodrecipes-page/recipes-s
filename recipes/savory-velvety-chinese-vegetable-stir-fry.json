@@ -56,8 +56,7 @@
   "tags": [
     "savory",
     "velvety",
-    "fujian",
-    "vegetarian"
+    "fujian"
   ],
   "nutrition": {
     "calories": 165,
@@ -82,5 +81,9 @@
     "mainIngredient": "Vegetable",
     "descriptor": "Savory Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

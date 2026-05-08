@@ -2,9 +2,7 @@
   "title": "Smokey Velvety Ukrainian Oyster Mushroom Soup",
   "description": "An earthy, velvety soup bursting with smoked flavors, perfect for a hangover cure and diabetic-friendly dining.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -14,7 +12,7 @@
     },
     {
       "name": "olive oil",
-      "amount": "1\u202ftbsp"
+      "amount": "1 tbsp"
     },
     {
       "name": "onion, chopped",
@@ -34,24 +32,24 @@
     {
       "name": "celery stalk, diced",
       "amount": "50g (1 small)",
-      "notes": "low\u2011sodium"
+      "notes": "low‑sodium"
     },
     {
       "name": "smoked paprika",
-      "amount": "1\u202ftsp"
+      "amount": "1 tsp"
     },
     {
       "name": "smoked sea salt",
-      "amount": "1\u202ftsp",
+      "amount": "1 tsp",
       "notes": "to taste"
     },
     {
       "name": "black pepper, freshly ground",
-      "amount": "\u00bd\u202ftsp"
+      "amount": "½ tsp"
     },
     {
       "name": "fresh thyme leaves",
-      "amount": "2\u202fg (1\u202ftbsp)",
+      "amount": "2 g (1 tbsp)",
       "notes": "stems removed"
     },
     {
@@ -61,24 +59,24 @@
     },
     {
       "name": "unsweetened coconut milk",
-      "amount": "\u00bd\u202fcup (120\u202fml)",
+      "amount": "½ cup (120 ml)",
       "notes": "or heavy cream for richer velvety texture"
     },
     {
       "name": "fresh dill, chopped (optional)",
-      "amount": "1\u202ftbsp"
+      "amount": "1 tbsp"
     }
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add onion and garlic, saut\u00e9 until translucent, about 3\u202fminutes.",
-    "Stir in sliced oyster mushrooms; cook until they release liquid and begin to brown, 5\u20137\u202fminutes.",
-    "Add diced carrot, celery, smoked paprika, smoked sea salt, pepper, thyme, and bay leaf; cook for 2\u202fminutes to toast the spices.",
-    "Pour in 4 cups of low\u2011sodium vegetable broth and bring to a gentle simmer.",
-    "Reduce heat to low, cover, and let the soup simmer for 15\u202fminutes, allowing flavors to meld.",
-    "Uncover, stir in coconut milk (or cream), and heat through for 2\u202fminutes; adjust seasoning if needed.",
+    "Add onion and garlic, sauté until translucent, about 3 minutes.",
+    "Stir in sliced oyster mushrooms; cook until they release liquid and begin to brown, 5–7 minutes.",
+    "Add diced carrot, celery, smoked paprika, smoked sea salt, pepper, thyme, and bay leaf; cook for 2 minutes to toast the spices.",
+    "Pour in 4 cups of low‑sodium vegetable broth and bring to a gentle simmer.",
+    "Reduce heat to low, cover, and let the soup simmer for 15 minutes, allowing flavors to meld.",
+    "Uncover, stir in coconut milk (or cream), and heat through for 2 minutes; adjust seasoning if needed.",
     "Remove bay leaf, ladle soup into bowls, and garnish with chopped dill if desired.",
-    "Serve hot, accompanied by crusty whole\u2011grain bread or a side of saut\u00e9ed greens."
+    "Serve hot, accompanied by crusty whole‑grain bread or a side of sautéed greens."
   ],
   "slug": "smokey-velvety-ukrainian-oyster-mushrooms-soup",
   "source": "ocloud-gpt-oss:20b",
@@ -112,5 +110,9 @@
   "tags": [
     "ukrainian",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
   ]
 }

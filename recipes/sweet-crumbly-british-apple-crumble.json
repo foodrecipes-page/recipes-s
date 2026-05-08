@@ -2,9 +2,7 @@
   "title": "Vegan Sweet Crumbly British Apple Crumble",
   "description": "A comforting vegan dessert that features Bramley apples in a crumbly crust, perfect for cold days.",
   "cuisine": "British",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "apple",
     "descriptor": "Sweet Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

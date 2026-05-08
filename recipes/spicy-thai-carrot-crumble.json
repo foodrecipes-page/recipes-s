@@ -3,8 +3,7 @@
   "description": "A rich, gooey meal-prep dish featuring self-raising flour that's both diabetic-friendly and gluten-free. The addition of curry paste adds a spicy kick to this comforting breakfast.",
   "cuisine": "Thai",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -82,5 +81,9 @@
     "mainIngredient": "carrot",
     "descriptor": "Spicy",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

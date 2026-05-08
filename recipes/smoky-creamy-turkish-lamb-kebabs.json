@@ -3,8 +3,7 @@
   "description": "Savory and indulgent Turkish lamb kebabs with a smoky flavor, served with a side of creamy tzatziki sauce and low-carb friendly options.",
   "cuisine": "Turkish",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "smoky creamy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

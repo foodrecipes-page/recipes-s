@@ -2,9 +2,7 @@
   "title": "Savory Silky Venezuelan Peach Stir-fry",
   "description": "A savory and silky vegetarian-friendly dish featuring sweet peaches in a delectable vegetarian sauce, perfect for those with a sick day craving.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -42,12 +40,13 @@
   ],
   "instructions": [
     "Heat oil in a wok or large skillet over medium heat.",
-    "Add onions and garlic, saut\u00e9 until fragrant and translucent.",
+    "Add onions and garlic, sauté until fragrant and translucent.",
     "Deglaze with the vegetable broth. Let it simmer for about 5 minutes.",
     "Stir in tomato sauce and chicken bouillon granules (if using).",
     "Slice peaches into rounds or cubes, add to pan and let cook together.",
     "Season with salt and pepper to taste.",
-    "Serve hot as a side dish or over rice."
+    "Serve hot as a side dish or over rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -82,5 +81,10 @@
     "mainIngredient": "peaches",
     "descriptor": "Savory Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

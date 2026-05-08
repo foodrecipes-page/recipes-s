@@ -2,10 +2,7 @@
   "title": "Savory Crunchy Dutch King Prawn Crumble",
   "description": "A savory and chewy dutch dish featuring raw king prawns, lightly cured for added flavor and a touch of sweetness from honey.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -90,5 +87,10 @@
     "mainIngredient": "King Prawn",
     "descriptor": "Savory Crunchy",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

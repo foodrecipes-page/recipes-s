@@ -47,7 +47,8 @@
     "Add finely diced onions into the pan with garlic and scotch bonnet, cook for another 2 minutes until translucent.",
     "Pour in crushed tomatoes and low sodium chicken broth; bring to a simmer. Reduce heat to medium-low and let it thicken slightly.",
     "Stir in cooked linguine pasta and gently fold everything together so that it coats all the pasta evenly. Simmer for an additional 5-7 minutes, stirring occasionally.",
-    "Fold in finely chopped cilantro leaves and green onions just before serving."
+    "Fold in finely chopped cilantro leaves and green onions just before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -82,5 +83,9 @@
     "mainIngredient": "Date",
     "descriptor": "Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

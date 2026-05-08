@@ -51,10 +51,10 @@
   "instructions": [
     "Combine 2 cups of water with the soaked tofu in a pot. Bring to a boil and simmer for about an hour until the tofu is soft.",
     "Blend together the soy sauce, miso paste, minced garlic, and a bit of peanut oil until smooth. Set aside.",
-    "Heat the remaining 1 tablespoon of peanut oil in a pan over medium heat. Add the sliced peaches and saut\u00e9 for about 3 minutes until lightly caramelized.",
+    "Heat the remaining 1 tablespoon of peanut oil in a pan over medium heat. Add the sliced peaches and sauté for about 3 minutes until lightly caramelized.",
     "In another bowl, mix the simmered tofu with the prepared sauce. Allow to sit while preparing other ingredients.",
     "Wash and chop kale leaves finely. Discard tough stems if necessary. Add water chestnuts and shredded carrots into the cooled tofu mixture.",
-    "Combine the seasoned tofu mixture with chopped peanuts and saut\u00e9ed peaches. Gently mix until all ingredients are evenly coated with sauce.",
+    "Combine the seasoned tofu mixture with chopped peanuts and sautéed peaches. Gently mix until all ingredients are evenly coated with sauce.",
     "Divide the salad among plates and serve immediately."
   ],
   "prepTimeMin": 30,
@@ -85,11 +85,15 @@
     "mood": "brunch-mood",
     "technique": "knead",
     "primaryIngredient": "peach juice",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Japanese",
     "mainIngredient": "peach",
     "descriptor": "Smoky",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

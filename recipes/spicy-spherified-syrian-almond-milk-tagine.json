@@ -3,8 +3,7 @@
   "description": "a spicy syrian tagine made with almond milk, served in a banana leaf cup with a crumbly almond topping.",
   "cuisine": "syrian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -79,7 +78,6 @@
   "tags": [
     "breakfast-lunch-dinner",
     "comfort-food",
-    "gluten-free",
     "low-glycemic",
     "one-pan",
     "syrian",
@@ -108,5 +106,9 @@
     "mainIngredient": "almond milk",
     "descriptor": "spicy spherified",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

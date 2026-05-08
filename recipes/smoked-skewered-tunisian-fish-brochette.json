@@ -4,7 +4,6 @@
   "cuisine": "north african",
   "diet": [
     "jain",
-    "vegetarian",
     "fish"
   ],
   "meal": "snack",
@@ -103,5 +102,9 @@
     "mainIngredient": "fish",
     "descriptor": "Smoked Skewered",
     "dishForm": "Brochette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

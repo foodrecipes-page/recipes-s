@@ -8,11 +8,11 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Arabic short\u2011grain rice",
+      "name": "Arabic short‑grain rice",
       "amount": "1 cup"
     },
     {
-      "name": "Low\u2011fat chicken or vegetable broth",
+      "name": "Low‑fat chicken or vegetable broth",
       "amount": "2 cups"
     },
     {
@@ -20,12 +20,12 @@
       "amount": "1 tablespoon"
     },
     {
-      "name": "Extra\u2011virgin olive oil",
+      "name": "Extra‑virgin olive oil",
       "amount": "1 tablespoon"
     },
     {
       "name": "Finely diced onion",
-      "amount": "\u00bd medium onion"
+      "amount": "½ medium onion"
     },
     {
       "name": "Finely diced carrot",
@@ -37,14 +37,14 @@
     },
     {
       "name": "Ground cumin",
-      "amount": "\u00bd teaspoon"
+      "amount": "½ teaspoon"
     },
     {
       "name": "Saffron threads (soaked in 1 tablespoon hot water)",
       "amount": "pinch"
     },
     {
-      "name": "Monk\u2011fruit sweetener",
+      "name": "Monk‑fruit sweetener",
       "amount": "1 teaspoon"
     },
     {
@@ -57,15 +57,16 @@
     }
   ],
   "instructions": [
-    "Set the electric pressure cooker to the saut\u00e9 setting and add the olive oil and butter; let them melt.",
-    "Add the diced onion and carrot, saut\u00e9ing for 3\u20134 minutes until softened.",
-    "Stir in the ground cinnamon, cumin, saffron (with its soaking water), and monk\u2011fruit sweetener; cook for 30 seconds to bloom the spices.",
+    "Set the electric pressure cooker to the sauté setting and add the olive oil and butter; let them melt.",
+    "Add the diced onion and carrot, sautéing for 3–4 minutes until softened.",
+    "Stir in the ground cinnamon, cumin, saffron (with its soaking water), and monk‑fruit sweetener; cook for 30 seconds to bloom the spices.",
     "Add the rice, stirring to coat it in the fragrant oil mixture for 1 minute.",
     "Pour in the broth, season with salt and pepper, and stir.",
     "Close the lid, set the valve to seal, and cook on high pressure for 10 minutes.",
     "When the cycle ends, perform a quick pressure release by carefully turning the valve to vent.",
     "Open the lid, fluff the rice with a fork, and adjust seasoning if needed.",
-    "Serve hot, optionally garnished with a sprinkle of fresh parsley or a squeeze of lemon juice for brightness."
+    "Serve hot, optionally garnished with a sprinkle of fresh parsley or a squeeze of lemon juice for brightness.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -104,5 +105,9 @@
     "mainIngredient": "rice",
     "descriptor": "Silky Sweet",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

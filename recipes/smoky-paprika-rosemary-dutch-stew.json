@@ -54,7 +54,8 @@
     "Mix condensed soup, smoked paprika, salt, pepper, and vegetable broth into the mashed potatoes. Mix well to combine.",
     "If desired, stir in melted butter for added richness and flavor. Taste and adjust seasoning if needed.",
     "Pour mixture into a shallow baking dish (about 1 inch deep). Bake at 350°F for about 20 minutes or until set and bubbly.",
-    "Serve warm with sour cream or plain yogurt on top."
+    "Serve warm with sour cream or plain yogurt on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "rosemary",
     "descriptor": "Smoky Paprika",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

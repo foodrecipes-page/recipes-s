@@ -4,15 +4,14 @@
   "cuisine": "Korean",
   "diet": [
     "vegetarian",
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "firm tofu",
       "amount": "400 g",
-      "notes": "cut into 1\u2011inch cubes"
+      "notes": "cut into 1‑inch cubes"
     },
     {
       "name": "shiitake mushrooms",
@@ -47,7 +46,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "low\u2011sodium soy sauce",
+      "name": "low‑sodium soy sauce",
       "amount": "2 tbsp"
     },
     {
@@ -55,7 +54,7 @@
       "amount": "2 tbsp"
     },
     {
-      "name": "low\u2011sodium vegetable broth",
+      "name": "low‑sodium vegetable broth",
       "amount": "4 cups"
     },
     {
@@ -65,11 +64,11 @@
   ],
   "instructions": [
     "Heat the vegetable shortening in a medium pot over medium heat until melted.",
-    "Add the diced onion and saut\u00e9 for about 3 minutes until translucent.",
-    "Stir in the minced garlic, grated ginger, and sliced shiitake mushrooms; cook for another 2\u20133 minutes.",
+    "Add the diced onion and sauté for about 3 minutes until translucent.",
+    "Stir in the minced garlic, grated ginger, and sliced shiitake mushrooms; cook for another 2–3 minutes.",
     "Add the gochugaru and gochujang, stirring for 1 minute so the spices release their aromas.",
     "Pour in the vegetable broth and bring to a gentle simmer.",
-    "Add the cubed tofu, low\u2011sodium soy sauce, rice vinegar, and black pepper. Simmer gently for 5\u20137 minutes, allowing the tofu to absorb the flavors.",
+    "Add the cubed tofu, low‑sodium soy sauce, rice vinegar, and black pepper. Simmer gently for 5–7 minutes, allowing the tofu to absorb the flavors.",
     "Taste the stew; if you prefer more tang, add a splash more vinegar or a pinch of sea salt if needed. Let the stew simmer for an additional 2 minutes before serving. Serve hot."
   ],
   "prepTimeMin": 10,
@@ -86,8 +85,7 @@
     "weeknight",
     "smoky",
     "sour",
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "nutrition": {
     "calories": 180,
@@ -112,5 +110,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Smoky Sour",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

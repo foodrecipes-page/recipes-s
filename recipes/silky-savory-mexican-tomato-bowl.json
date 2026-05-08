@@ -2,9 +2,7 @@
   "title": "Silky Savory Mexican Tomato Bowl",
   "description": "A vegan-friendly, silky tomato bowl brimming with smoky Mexican spices, finished with a splash of lime for a fresh finish.",
   "cuisine": "Mexican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,7 @@
   ],
   "instructions": [
     "Heat olive oil in a medium saucepan over medium heat.",
-    "Add diced red onion and saut\u00e9 until translucent, about 3-4 minutes.",
+    "Add diced red onion and sauté until translucent, about 3-4 minutes.",
     "Stir in minced garlic and cook for 30 seconds until fragrant.",
     "Add chili powder, cumin, and smoked paprika, cooking for 1 minute to toast the spices.",
     "Pour in passata and vegetable broth, stirring to combine.",
@@ -105,5 +103,9 @@
   "tags": [
     "mexican",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
   ]
 }

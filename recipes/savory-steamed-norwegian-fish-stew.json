@@ -58,7 +58,8 @@
     "Pour some of the marinade over the fish and vegetables, making sure everything is well coated.",
     "Fold the banana leaves over the filling to form a tight package and secure with a toothpick if needed.",
     "Place the packages in a large steamer basket and steam over boiling water for 15 minutes.",
-    "Serve the stew hot, garnished with chopped fresh parsley or dill if desired."
+    "Serve the stew hot, garnished with chopped fresh parsley or dill if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -96,5 +97,9 @@
     "mainIngredient": "fish",
     "descriptor": "Savory Steamed",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

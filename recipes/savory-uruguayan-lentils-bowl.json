@@ -64,7 +64,8 @@
     "When the lentils are almost done, stir in the warm sherry and continue simmering for an additional 5 minutes to reduce the liquid slightly.",
     "Remove the saucepan from the heat and fold in the diced pickled cucumber, lemon zest, and chopped parsley.",
     "Taste the bowl and adjust seasoning with extra salt or pepper if needed.",
-    "Divide the cooked lentils into bowls and serve immediately, optionally garnishing with a sprinkle of extra parsley."
+    "Divide the cooked lentils into bowls and serve immediately, optionally garnishing with a sprinkle of extra parsley.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 35,
@@ -104,5 +105,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Savory",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

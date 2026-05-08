@@ -3,8 +3,7 @@
   "description": "A twist on traditional baklava, this dish features smoky lamb and savory spices, all wrapped in flaky phyllo dough, making it a unique and indulgent Greek treat that is diabetic-friendly due to its moderate sugar content and high protein and fiber content from the lamb and phyllo dough.",
   "cuisine": "Greek",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Smoky Savory",
     "dishForm": "Baklava"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

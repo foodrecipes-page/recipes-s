@@ -70,7 +70,8 @@
     "While the stew is cooking, prepare the spherification bath by mixing the sodium alginate and water in a small bowl.",
     "Once the stew has finished cooking, remove the chicken and vegetables from the cataplana and set aside.",
     "Drop small spoonfuls of the sesame butter mixture into the spherification bath, creating small, bouncy balls.",
-    "Serve the stew hot, topped with the spherified sesame butter balls."
+    "Serve the stew hot, topped with the spherified sesame butter balls.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -108,5 +109,9 @@
     "mainIngredient": "sesame",
     "descriptor": "sweet sesame",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

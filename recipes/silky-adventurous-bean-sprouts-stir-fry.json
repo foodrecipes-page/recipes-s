@@ -2,9 +2,7 @@
   "title": "Silky Adventurous Bean Sprouts Stir-fry",
   "description": "A smoky and silky vegan Malaysian dish featuring bean sprouts with a deglaze technique to add depth of flavor.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -86,5 +84,9 @@
     "mainIngredient": "Bean Sprouts",
     "descriptor": "Smoky Silky Adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

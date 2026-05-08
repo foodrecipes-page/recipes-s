@@ -2,9 +2,7 @@
   "title": "Savory Middle Eastern Fennel Sausage Stir-fry",
   "description": "A savory and tender brunch-mood dish featuring vegetarian-friendly Italian fennel sausages, with a touch of Middle Eastern flavors.",
   "cuisine": "Middle Eastern, Italian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -49,7 +47,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400\u00b0F (200\u00b0C).",
+    "Preheat oven to 400°F (200°C).",
     "Slice sausage into bite-sized pieces.",
     "Heat olive oil in a large skillet over medium-high heat. Add onions and garlic, cook until translucent.",
     "Add sausage and red bell peppers to the skillet. Stir-fry for about 5 minutes or until sausage is golden brown and slightly crispy.",
@@ -92,5 +90,9 @@
     "mainIngredient": "Fennel Sausage",
     "descriptor": "Savory",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

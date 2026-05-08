@@ -59,7 +59,8 @@
     "Brush the pork tenderloin with the pickle juice mixture.",
     "Grill the pork for 10-12 minutes per side, or until it reaches an internal temperature of 145°F.",
     "Transfer the pork to a plate and let it rest for 5 minutes.",
-    "Sprinkle with fresh parsley and serve."
+    "Sprinkle with fresh parsley and serve.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "pork",
     "descriptor": "Sweet Smoky",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

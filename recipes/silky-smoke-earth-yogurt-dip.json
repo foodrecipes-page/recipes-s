@@ -3,8 +3,7 @@
   "description": "A silky earthy yogurt dip infused with smoke and tailored for a date-night polished taste experience, vegan-friendly and paleo-approved.",
   "cuisine": "Vegan & Paleo Cuisine",
   "diet": [
-    "paleo",
-    "vegan"
+    "paleo"
   ],
   "meal": "snack",
   "ingredients": [
@@ -75,5 +74,9 @@
     "mainIngredient": "Yogurt",
     "descriptor": "Silky Smoke",
     "dishForm": "Dip"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

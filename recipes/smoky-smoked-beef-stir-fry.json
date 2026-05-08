@@ -63,8 +63,7 @@
     "juicy",
     "korean",
     "beef",
-    "stir-fry",
-    "vegetarian"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 401,
@@ -89,5 +88,9 @@
     "mainIngredient": "beef",
     "descriptor": "Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Savory Silky Comforting Venezuelan Queso Stir-fry",
   "description": "A creamy and comforting dish featuring a blend of dairy-free elements with the warmth of vanilla pod to enhance its velvety texture.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -53,8 +51,7 @@
   "tags": [
     "queso",
     "stir-fry",
-    "vanilla",
-    "vegan"
+    "vanilla"
   ],
   "nutrition": {
     "calories": 350,
@@ -79,5 +76,10 @@
     "mainIngredient": "queso",
     "descriptor": "Savory Silky Comforting",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

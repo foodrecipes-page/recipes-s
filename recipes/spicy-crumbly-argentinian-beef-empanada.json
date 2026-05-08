@@ -78,7 +78,8 @@
     "Fold the pastry in half and press the edges together to seal the empanada.",
     "Place the empanada on a baking sheet lined with parchment paper and brush with egg for a golden glaze.",
     "Bake the empanada for 20-25 minutes, or until golden brown.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -116,5 +117,9 @@
     "mainIngredient": "Beef",
     "descriptor": "spicy crumbly",
     "dishForm": "Empanada"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

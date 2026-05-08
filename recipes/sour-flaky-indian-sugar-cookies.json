@@ -2,13 +2,11 @@
   "title": "Sour Flaky Indian Sugar Cookies",
   "description": "Crispy, tangy cookies with a hint of lemon and cardamom, made dairyfree and perfect for a cozy Indian dessert.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
-      "name": "all\u2011purpose flour",
+      "name": "all‑purpose flour",
       "amount": "1 cup (125 g)"
     },
     {
@@ -48,14 +46,14 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 350\u00b0F (180\u00b0C) and line a baking sheet with parchment paper.",
+    "Preheat the oven to 350°F (180°C) and line a baking sheet with parchment paper.",
     "In a medium bowl, whisk together the flour, powdered sugar, lemon zest, salt, and cardamom until evenly mixed.",
     "In a separate bowl, beat the softened vegan butter until creamy and light.",
     "Add the lemon juice and vanilla extract to the butter and mix until fully incorporated.",
     "Gradually fold the dry ingredient mixture into the butter mixture, stirring until a soft dough forms.",
     "If using, gently fold in the toasted sesame seeds.",
-    "Roll the dough into 1\u2011inch balls and place them about 2 inches apart on the prepared baking sheet.",
-    "Bake for 12\u201314 minutes, or until the edges are lightly golden and the centers are still tender.",
+    "Roll the dough into 1‑inch balls and place them about 2 inches apart on the prepared baking sheet.",
+    "Bake for 12–14 minutes, or until the edges are lightly golden and the centers are still tender.",
     "Let the cookies cool on the sheet for 5 minutes before transferring them to a wire rack to finish cooling."
   ],
   "prepTimeMin": 15,
@@ -65,9 +63,7 @@
   "difficulty": "easy",
   "tags": [
     "sour-flaky-indian-sugar-cookies",
-    "vegan",
     "dessert",
-    "dairy-free",
     "easy"
   ],
   "nutrition": {
@@ -93,5 +89,10 @@
     "mainIngredient": "sugar",
     "descriptor": "Sour Flaky",
     "dishForm": "Cookies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

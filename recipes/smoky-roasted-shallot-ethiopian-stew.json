@@ -43,7 +43,8 @@
     "Place the shallot halves on a baking sheet lined with parchment paper.",
     "Drizzle each shallot half with olive oil, sprinkle smoked paprika, cumin, salt, and pepper evenly over them.",
     "Roast in the oven for about 20-25 minutes or until they become crispy on top and slightly softened inside.",
-    "Garnish with fresh cilantro leaves before serving."
+    "Garnish with fresh cilantro leaves before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -80,5 +81,9 @@
     "mainIngredient": "Shallots",
     "descriptor": "Smoky Roasted",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

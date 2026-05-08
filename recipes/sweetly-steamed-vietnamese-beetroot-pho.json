@@ -3,8 +3,7 @@
   "description": "pungent, silky, nostalgic vietnamese dish featuring cooked beetroot, kombu-cold-extract, plant-based-friendly, served in a fondue-pot",
   "cuisine": "vietnamese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "vegan",
     "weeknight"
@@ -99,5 +97,9 @@
     "mainIngredient": "Beetroot",
     "descriptor": "Sweetly Steamed",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

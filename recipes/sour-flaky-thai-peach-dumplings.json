@@ -2,14 +2,11 @@
   "title": "Sour Flaky Thai Peach Dumplings",
   "description": "These crispy, glutenfree dumplings burst with tart peach, lime, and tamarind flavors, perfect for a comforting sickday snack.",
   "cuisine": "Thai",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "Gluten\u2011free dumpling wrappers",
+      "name": "Gluten‑free dumpling wrappers",
       "amount": "30 pieces"
     },
     {
@@ -65,11 +62,11 @@
     "In a small saucepan, whisk lime juice, tamarind paste, fish sauce, brown sugar, chili flakes, and water over medium heat until sugar dissolves; simmer 1 minute, then remove from heat and cool slightly.",
     "Pour the warm sauce over the peach mixture; mix gently until peaches are coated; set aside to marinate for 10 minutes.",
     "Lay a dumpling wrapper on a clean surface; spoon 1 tablespoon of the peach filling onto the center; sprinkle a pinch of cilantro.",
-    "Fold the wrapper in half, then pleat the edges by pinching them together; press firmly to seal, forming a half\u2011moon shape.",
-    "Heat 1\u20132 inches of vegetable oil in a deep\u2011pan to 180\u00b0C (350\u00b0F); test by dropping a small piece of dough\u2014it should sizzle and rise.",
-    "Carefully slide the dumplings into the hot oil in batches; fry 3\u20134 minutes per side, or until golden brown and crisp.",
+    "Fold the wrapper in half, then pleat the edges by pinching them together; press firmly to seal, forming a half‑moon shape.",
+    "Heat 1–2 inches of vegetable oil in a deep‑pan to 180°C (350°F); test by dropping a small piece of dough—it should sizzle and rise.",
+    "Carefully slide the dumplings into the hot oil in batches; fry 3–4 minutes per side, or until golden brown and crisp.",
     "Remove dumplings with a slotted spoon and drain on paper towels; drizzle with remaining sauce and a sprinkle of cilantro.",
-    "Serve hot, accompanied by a small bowl of lime\u2011y dipping sauce if desired."
+    "Serve hot, accompanied by a small bowl of lime‑y dipping sauce if desired."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -81,8 +78,6 @@
     "sour",
     "peach",
     "dumplings",
-    "gluten-free",
-    "vegetarian",
     "sick-day",
     "snack"
   ],
@@ -109,5 +104,10 @@
     "mainIngredient": "Peach",
     "descriptor": "Sour Flaky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

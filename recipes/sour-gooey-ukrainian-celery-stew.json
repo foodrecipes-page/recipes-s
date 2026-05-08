@@ -3,8 +3,7 @@
   "description": "A quick-fix, vegan-friendly Ukrainian dish featuring celery, with a sour and gooey texture. Perfect for a comforting lunch or dinner.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "celery",
     "descriptor": "sour gooey",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

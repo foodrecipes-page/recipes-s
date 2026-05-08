@@ -72,7 +72,8 @@
     "Add the baby plum tomatoes to the bowl and cook for 5 minutes.",
     "Add the roasted garlic and ginger mixture to the tomatoes and stir to combine.",
     "Simmer the tagine for 20 minutes or until the tomatoes are tender.",
-    "Garnish with fresh parsley and serve hot."
+    "Garnish with fresh parsley and serve hot.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -111,5 +112,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "smoky, dense, indulgent",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -47,7 +47,8 @@
     "Transfer chicken to a plate. In the same pan, add red bell peppers, garlic, and green onions. Cook for about 2 minutes or until vegetables soften slightly.",
     "Add soy sauce and five spice powder to the pan; stir well.",
     "Return chicken to the pan with the sauce. Simmer for another 5-7 minutes.",
-    "Garnish with fresh basil leaves before serving."
+    "Garnish with fresh basil leaves before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Smoky Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

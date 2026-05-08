@@ -51,7 +51,8 @@
     "Add the pepper strips to the pot with the onions and garlic. Stir in soy sauce, chicken broth or water, salt, pepper, and optional thyme sprigs.",
     "Bring to a simmer and let cook for about 10-15 minutes, stirring occasionally, until the peppers are tender and the mixture is creamy.",
     "Transfer the cooked mixture into a sous-vide bag. Cook in your sous-vide machine preheated at 145°F (63°C) for 2 hours.",
-    "Let the prepared dish rest for about 10 minutes before serving. Garnish with fresh herbs if desired."
+    "Let the prepared dish rest for about 10 minutes before serving. Garnish with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -87,5 +88,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Sous-vide",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

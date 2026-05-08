@@ -78,7 +78,8 @@
     "Using a 1/4 cup measuring cup, scoop the beef mixture into a hot non-stick skillet or Dutch oven, forming a thick pancake.",
     "Top each pancake with a spoonful of the egg mixture and cook until the eggs are set and the pancake is golden brown, about 2-3 minutes.",
     "Repeat with the remaining beef and egg mixtures, making 8-10 pancakes in total.",
-    "Serve the pancakes hot, garnished with chopped fresh parsley or chives, if desired."
+    "Serve the pancakes hot, garnished with chopped fresh parsley or chives, if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -115,5 +116,9 @@
     "mainIngredient": "beef",
     "descriptor": "Shattering Briny",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

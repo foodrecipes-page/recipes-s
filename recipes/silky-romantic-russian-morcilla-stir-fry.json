@@ -78,11 +78,15 @@
     "mood": "romantic",
     "technique": "bhuna",
     "primaryIngredient": "morcilla",
-    "diet": "low-sodium",
+    "diet": "low-sodium-friendly",
     "region": null,
     "cuisineAdjective": "Russian",
     "mainIngredient": "Morcilla",
     "descriptor": "Silky Romantic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

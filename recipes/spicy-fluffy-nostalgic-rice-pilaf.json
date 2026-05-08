@@ -2,9 +2,7 @@
   "title": "Spicy Fluffy Nostalgic Rice Pilaf",
   "description": "A vegetarian-friendly and comforting Norwegian dish featuring a blend of rice wine, spices, and vegetables to create a flavorful and fluffy pilaf that captures the essence of nostalgia.",
   "cuisine": "Norwegian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,8 @@
     "Stir in bell peppers, onion, garlic, and cook for another 5 minutes until softened.",
     "Add diced tomatoes with their juice, broth, rice wine (if using), cumin, paprika, salt, and pepper. Bring the mixture to a boil, then reduce heat to low, cover, and simmer for about 20 minutes or until the liquid is absorbed.",
     "Preheat oven to 350°F (175°C). Transfer the pilaf into an oven-safe dish and bake for 10-15 minutes or until golden brown on top.",
-    "Garnish with fresh parsley before serving."
+    "Garnish with fresh parsley before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -98,5 +97,10 @@
     "mainIngredient": "Rice",
     "descriptor": "Spicy Fluffy Nostalgic",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

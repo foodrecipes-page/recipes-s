@@ -44,7 +44,8 @@
     "Continue to cook for 5-7 minutes, or until the pudding thickens and coats the back of a spoon.",
     "Remove from heat and let cool slightly, then pour into a cataplana or individual ramekins to serve.",
     "Cover with plastic wrap and refrigerate for at least 30 minutes to allow the pudding to set and develop its springy texture.",
-    "Serve chilled, garnished with a sprinkle of allspice or a few fresh mint leaves, if desired."
+    "Serve chilled, garnished with a sprinkle of allspice or a few fresh mint leaves, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -83,5 +84,9 @@
     "mainIngredient": "milk",
     "descriptor": "sweet springy",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

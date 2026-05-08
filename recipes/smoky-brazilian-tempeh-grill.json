@@ -3,7 +3,6 @@
   "description": "Fermented, juicy tempeh marinated in a smoky Brazilian glaze, grilled to perfection and served with a tangy vegan sourcream chive dip for a plantbased date night.",
   "cuisine": "brazilian",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -46,7 +45,7 @@
     {
       "name": "vegan sour cream",
       "amount": "1 cup",
-      "notes": "store\u2011bought or homemade"
+      "notes": "store‑bought or homemade"
     },
     {
       "name": "fresh chives",
@@ -61,10 +60,10 @@
   ],
   "instructions": [
     "Marinate the tempeh by whisking soy sauce, maple syrup, smoked paprika, garlic powder, and lime juice in a bowl. Add sliced tempeh, cover, and refrigerate for 10 minutes.",
-    "Preheat a charcoal or grill pan to medium\u2011high heat (about 200\u202f\u00b0C / 400\u202f\u00b0F). Lightly oil the grill grates with olive oil to prevent sticking.",
-    "Remove tempeh from the marinate, letting excess drip off. Grill the slabs for 3\u20134\u202fminutes per side, or until crisp edges and grill marks appear. Remove from the grill and set aside on a plate.",
+    "Preheat a charcoal or grill pan to medium‑high heat (about 200 °C / 400 °F). Lightly oil the grill grates with olive oil to prevent sticking.",
+    "Remove tempeh from the marinate, letting excess drip off. Grill the slabs for 3–4 minutes per side, or until crisp edges and grill marks appear. Remove from the grill and set aside on a plate.",
     "Meanwhile, prepare the dip by mixing vegan sour cream, chopped chives, lemon juice, a pinch of salt, and freshly ground black pepper in a small bowl. Toss until smooth.",
-    "Plate the grilled tempeh on a bed of fresh greens or warm quinoa, drizzle with the chive\u2011sour\u2011cream dip, and garnish with extra chives or cilantro if desired.",
+    "Plate the grilled tempeh on a bed of fresh greens or warm quinoa, drizzle with the chive‑sour‑cream dip, and garnish with extra chives or cilantro if desired.",
     "Serve immediately with a side of roasted sweet potatoes or a light cassava bread for a full Brazilian-inspired meal."
   ],
   "slug": "smoky-brazilian-tempeh-grill",
@@ -99,5 +98,9 @@
   "tags": [
     "brazilian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
   ]
 }

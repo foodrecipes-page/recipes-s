@@ -3,7 +3,6 @@
   "description": "A crispy and salty pork dish thats perfect for those with a sick day on their hands, this stir-fry features tender pork chops cooked until crisp.",
   "cuisine": "Chinese",
   "diet": [
-    "pescatarian",
     "ocean-friendly"
   ],
   "meal": "snack",
@@ -28,7 +27,7 @@
   "instructions": [
     "Blanch the pork chops in boiling water for about 5 minutes.",
     "Chop green onions and red bell peppers into small pieces. Garlic should be minced finely.",
-    "Saut\u00e9 garlic until it turns golden brown, then add chopped green onions and stir-fry for a minute.",
+    "Sauté garlic until it turns golden brown, then add chopped green onions and stir-fry for a minute.",
     "Add blanched pork to the pot with vegetables, season with salt, pepper, soy sauce (or tamari), and cooking wine (optional). Stir-fry well until pork is fully cooked and veggies are slightly tender.",
     "Serve hot."
   ],
@@ -66,5 +65,9 @@
     "mainIngredient": "pork",
     "descriptor": "Salty",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

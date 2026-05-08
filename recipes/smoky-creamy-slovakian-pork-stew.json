@@ -75,7 +75,9 @@
     "Pour in low‑sodium chicken broth, scraping any browned bits from the bottom of the pot.",
     "Reduce heat to low, cover, and simmer gently for 45 minutes, or until pork is tender.",
     "Stir in unsweetened coconut cream, season with salt and pepper to taste, and heat through for another 5 minutes.",
-    "Remove from heat, top with chopped parsley, and serve hot with a side of crusty bread or a simple green salad."
+    "Remove from heat, top with chopped parsley, and serve hot with a side of crusty bread or a simple green salad.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -115,5 +117,10 @@
     "mainIngredient": "Pork",
     "descriptor": "Smoky Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

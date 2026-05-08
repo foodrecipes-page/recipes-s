@@ -2,9 +2,7 @@
   "title": "Shrimp Tangara",
   "description": "A tangy and crunchy Spanish dish featuring jumbo shrimp, served as a light lunch option.",
   "cuisine": "Spanish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -80,5 +78,9 @@
     "primaryIngredient": "jumbo shrimp",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

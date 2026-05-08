@@ -52,7 +52,8 @@
     "Gradually add chicken broth or water while stirring continuously to avoid sticking.",
     "Simmer for 5 minutes to allow flavors to meld together.",
     "Fold dumplings gently into the sauce as it simmers. Cook until heated through and dumplings are tender but not falling apart.",
-    "Garnish with lettuce leaves before serving."
+    "Garnish with lettuce leaves before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -90,5 +91,9 @@
     "mainIngredient": "dum",
     "descriptor": "Savory Crunchy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Smoke-Dusted Date Bliss",
   "description": "A savory and creamy Brazilian dish perfect for date nights, featuring a vegan-friendly twist with smoked dates and icing sugar.",
   "cuisine": "Brazilian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -69,5 +67,9 @@
     "primaryIngredient": "icing sugar",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

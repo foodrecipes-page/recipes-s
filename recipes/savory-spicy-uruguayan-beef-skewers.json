@@ -53,7 +53,8 @@
     "Thread the beef cubes onto skewers, leaving a small space between each piece.",
     "Brush the skewers with olive oil and grill for 8-10 minutes, turning occasionally.",
     "Transfer the skewers to a plate and garnish with chopped parsley.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -91,5 +92,9 @@
     "mainIngredient": "beef",
     "descriptor": "Savory Spicy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

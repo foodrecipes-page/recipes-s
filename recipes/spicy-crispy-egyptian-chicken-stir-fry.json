@@ -86,7 +86,8 @@
     "Return the chicken to the wok and stir to coat with the spicy sauce.",
     "Serve the chicken hot, garnished with parsley and additional scallions if desired.",
     "Serve with steamed vegetables or a side of rice for a well-rounded meal.",
-    "Optional: Top with crispy fried onions or crushed peanuts for added crunch."
+    "Optional: Top with crispy fried onions or crushed peanuts for added crunch.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -123,5 +124,9 @@
     "mainIngredient": "chicken",
     "descriptor": "spicy crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

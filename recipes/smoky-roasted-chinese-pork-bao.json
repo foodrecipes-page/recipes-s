@@ -78,7 +78,8 @@
     "Bake the pork for 30 minutes, then reduce the oven temperature to 300°F (150°C) and continue cooking for another 2 hours, or until the pork is tender and falls apart easily.",
     "Shred the pork with two forks and return it to the Dutch oven.",
     "Serve the pork on a bao bun with green onions, sliced scallions, and a drizzle of sesame oil.",
-    "Garnish with additional green onions and scallions if desired."
+    "Garnish with additional green onions and scallions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 230,
@@ -117,5 +118,9 @@
     "mainIngredient": "pork",
     "descriptor": "smoky roasted",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

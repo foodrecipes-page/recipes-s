@@ -2,9 +2,7 @@
   "title": "Spicy Sausage and Fold Vegetarian Wrap",
   "description": "A juicy date-night polish dish featuring a blend of crispy sausage and fresh fold vegetables in a warm wrap, perfect for those who enjoy a bit of heat and spice.",
   "cuisine": "American",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -65,5 +63,9 @@
     "primaryIngredient": "sausage",
     "diet": "vegetarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Smoky American Fregola Pilaf",
   "description": "A charred, creamy, romantic American dish featuring fregola, infused oil, and pescatarian-friendly ingredients, cooked to perfection in a Dutch oven.",
   "cuisine": "American",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -59,7 +57,8 @@
     "Add the toasted fregola and stir to combine.",
     "Transfer the Dutch oven to the preheated oven and bake for 20 minutes.",
     "Remove the Dutch oven from the oven and stir in the heavy cream and parmesan cheese.",
-    "Season with salt and pepper to taste."
+    "Season with salt and pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +95,10 @@
     "mainIngredient": "fregola",
     "descriptor": "smoky creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

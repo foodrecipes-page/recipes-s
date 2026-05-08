@@ -78,11 +78,15 @@
     "mood": "energizing",
     "technique": "steam",
     "primaryIngredient": "turkey neck",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Moroccan",
     "mainIngredient": "Turkey Neck",
     "descriptor": "Spicy Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Shallot Steam Pate",
   "description": "A light and herbal French dish perfect for post-workout recovery, featuring dairy-free shallots in a creamy base.",
   "cuisine": "French",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -78,5 +76,9 @@
     "primaryIngredient": "shallots",
     "diet": "dairy-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

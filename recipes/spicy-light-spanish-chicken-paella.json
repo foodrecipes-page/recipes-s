@@ -62,7 +62,8 @@
     "Add the chicken broth, saffron threads, and cooked chicken to the skillet.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the liquid is absorbed and the rice is tender.",
     "Stir in the lemon juice and adjust the seasoning as needed.",
-    "Serve the paella hot, garnished with lemon wedges if desired."
+    "Serve the paella hot, garnished with lemon wedges if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 140,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Spicy Light",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

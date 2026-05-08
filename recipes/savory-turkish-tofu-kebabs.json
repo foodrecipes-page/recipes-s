@@ -2,9 +2,7 @@
   "title": "Savory Turkish Tofu Kebabs",
   "description": "A quick, creamy, and slightly sweet vegan kebab with a Turkish twist, cooked in a cast‑iron skillet.",
   "cuisine": "Turkish",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -79,8 +77,7 @@
     "kebab",
     "one-pan",
     "quick",
-    "turkish",
-    "vegan"
+    "turkish"
   ],
   "nutrition": {
     "calories": 620,
@@ -105,5 +102,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Savory",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

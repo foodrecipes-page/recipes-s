@@ -3,7 +3,6 @@
   "description": "A flavorful, slow-cooked lamb tagine spiced with smoky paprika, perfect for a lazy Sunday. This dish is a cultural fusion of Egyptian and Mediterranean flavors, and is suitable for an Ayurvedic Rajasic diet.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegan",
     "gluten-free",
     "dairy-free"
   ],
@@ -98,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Smoky Paprika Spiced",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

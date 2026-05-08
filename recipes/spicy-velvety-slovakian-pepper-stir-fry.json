@@ -59,7 +59,8 @@
     "Add red peppers, peppadew peppers, tomato paste, vinegar, salt, black pepper, and 2 tbsp of olive oil. Stir well to combine all ingredients.",
     "Reduce heat to medium-low and simmer for about 10 minutes or until slightly thickened.",
     "Stir in sour cream or coconut milk and cook for another minute until combined and heated through.",
-    "Serve hot with whole grain bread on the side."
+    "Serve hot with whole grain bread on the side.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +97,9 @@
     "mainIngredient": "pepper",
     "descriptor": "Spicy Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -90,8 +90,7 @@
     "fish-free",
     "gluten-free",
     "palm-oil-free",
-    "smoky",
-    "vegan"
+    "smoky"
   ],
   "nutrition": {
     "calories": 320,
@@ -116,5 +115,9 @@
     "mainIngredient": "Tamarind",
     "descriptor": "Smoky Zesty Cold",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

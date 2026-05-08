@@ -2,9 +2,7 @@
   "title": "Savory Crunchy Garlic Crumbly Stir-fry",
   "description": "A hearty vegan Chinese dish perfect for cold days with a blend of garlic, chili sauce, and crispy textures.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -48,7 +46,8 @@
     "Fold in chopped green onions and bean sprouts into the sauce mixture.",
     "Place vegan chicken patties on top of the sauce, adjusting heat for a short stir-fry time so as not to overcook the proteins.",
     "Cover partially or let simmer for 2-3 minutes until the chicken is heated through but still moist. Adjust seasoning if needed.",
-    "Serve hot with additional chili sauce and chopped green onions on top."
+    "Serve hot with additional chili sauce and chopped green onions on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 8,
@@ -83,5 +82,10 @@
     "mainIngredient": "Garlic",
     "descriptor": "Savory Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

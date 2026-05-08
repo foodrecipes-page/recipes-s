@@ -2,10 +2,7 @@
   "title": "Spicy Velvety Slovakian Chicken Stir-fry",
   "description": "A hearty vegan-friendly stir-fry dish featuring chicken stock and sous-vide techniques to create a velvety texture and spicy flavor suitable for sick days.",
   "cuisine": "Slovakian-inspired Vegan Cuisine",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +55,8 @@
     "Place sous-vide pouch in a mixing bowl, add chicken stock and simmer for about 5 minutes to meld flavors.",
     "Mix saffron threads with reserved oil until dissolved. Stir into the broth along with red pepper flakes, lime juice, soy sauce, and minced garlic.",
     "Add ginger, bell peppers, and zucchini noodles to the heated mixture. Simmer gently until vegetables are tender, about 5 minutes.",
-    "Garnish with fresh herbs (optional) and serve hot as a hearty dinner dish."
+    "Garnish with fresh herbs (optional) and serve hot as a hearty dinner dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -94,5 +92,11 @@
     "mainIngredient": "chicken",
     "descriptor": "spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -59,7 +59,7 @@
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 15,
-  "totalTimeMin": 40,
+  "totalTimeMin": 60,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -93,5 +93,9 @@
     "mainIngredient": "Chinese Cabbage",
     "descriptor": "Soured Aerated",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

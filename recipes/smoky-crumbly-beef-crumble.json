@@ -45,7 +45,7 @@
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 80,
-  "totalTimeMin": 80,
+  "totalTimeMin": 105,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -77,5 +77,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Smoky Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

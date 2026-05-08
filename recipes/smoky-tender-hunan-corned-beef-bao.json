@@ -58,9 +58,10 @@
     "Wrap the mixture in plastic wrap and refrigerate for at least 2 hours or overnight.",
     "Preheat a grill or grill pan to medium-high heat.",
     "Cook the pickled carrots and green onions in the grill or grill pan for 2-3 minutes or until slightly charred.",
-    "Warm the soft bao buns in the oven at 350\u00b0F (180\u00b0C) for 5-7 minutes.",
+    "Warm the soft bao buns in the oven at 350°F (180°C) for 5-7 minutes.",
     "Assemble the bao by spreading a spoonful of the corned beef mixture onto each bun, followed by a few slices of pickled carrots and green onions.",
-    "Top with cilantro leaves and serve immediately."
+    "Top with cilantro leaves and serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -97,5 +98,9 @@
     "mainIngredient": "Corned Beef",
     "descriptor": "Smoky Tender",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

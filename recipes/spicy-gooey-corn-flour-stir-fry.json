@@ -31,13 +31,15 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375\u00b0F (190\u00b0C).",
+    "Preheat your oven to 375°F (190°C).",
     "Mix together corn flour and garlic powder in a large bowl.",
     "Add onion, paprika, red pepper flakes, and ground beef or chicken to the mixture. Knead until well combined.",
     "Form into patties about 1-inch thick and flatten slightly on both sides.",
     "Place on a baking sheet lined with parchment paper.",
     "Bake for 20 minutes or until golden brown and crispy on the outside.",
-    "Remove from oven, let cool slightly, then serve warm."
+    "Remove from oven, let cool slightly, then serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -73,5 +75,10 @@
     "mainIngredient": "Corn Flour",
     "descriptor": "spicy gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

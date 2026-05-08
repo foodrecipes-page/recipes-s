@@ -2,9 +2,7 @@
   "title": "Spicy Silky Slovak Salt Cod Stir-fry",
   "description": "This vibrant brunch dish features salt cod stir-fried with spicy peppers and a creamy sauce in a way thats sure to satisfy any craving for traditional Slovak cuisine, while keeping the meal vegetarian-friendly.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -50,7 +48,7 @@
   ],
   "instructions": [
     "Heat a wok or large skillet over medium-high heat. Add enough oil to coat the bottom of the pan.",
-    "Add salt cod fillets and saut\u00e9 for about 5 minutes until golden brown on all sides, flipping occasionally to ensure even cooking.",
+    "Add salt cod fillets and sauté for about 5 minutes until golden brown on all sides, flipping occasionally to ensure even cooking.",
     "Add minced garlic and finely chopped onion; stir-fry for another 2-3 minutes until fragrant and onions are translucent.",
     "Fold in julienned bell peppers. Continue stirring for an additional minute allowing the flavors to meld together.",
     "In a small mixing bowl, combine soy sauce with cayenne pepper flakes. Stir gently into the skillet mixture.",
@@ -90,5 +88,9 @@
     "mainIngredient": "salt cod",
     "descriptor": "Spicy Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

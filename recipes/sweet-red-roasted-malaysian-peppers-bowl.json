@@ -74,11 +74,9 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "lazy-sunday",
     "malaysian",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -98,11 +96,17 @@
     "mood": "lazy-sunday",
     "technique": "caramelize",
     "primaryIngredient": "sweet red peppers",
-    "diet": "nut-free",
+    "diet": "none",
     "region": null,
     "cuisineAdjective": "malaysian",
     "mainIngredient": "peppers",
     "descriptor": "sweet red roasted",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

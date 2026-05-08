@@ -3,8 +3,7 @@
   "description": "A shaggy, post-workout Venezuelan dish that's both umami and smoke-hot, featuring eggplant and a Buddhist-temple-friendly recipe that's perfect for a cataplana vessel.",
   "cuisine": "venezuelan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -80,5 +79,9 @@
     "mainIngredient": "egg",
     "descriptor": "smoke-hot",
     "dishForm": "fritter"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

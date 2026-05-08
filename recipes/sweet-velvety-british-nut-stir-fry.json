@@ -34,7 +34,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F.",
+    "Preheat your oven to 350°F.",
     "Arrange the pita bread slices on a baking sheet and lightly brush each with olive oil. Bake for about 10 minutes until crisp and golden brown.",
     "In a large saucepan, combine vegetable broth (or water), sugar, drained canned pears, and vanilla extract. Stir well to ensure all the pears are coated evenly.",
     "Add peanut-free nut butter (if using) for added texture. Mix thoroughly to combine all ingredients.",
@@ -50,8 +50,7 @@
   "tags": [
     "sweet-and-velvety",
     "british-dish",
-    "kid-friendly",
-    "nut-free"
+    "kid-friendly"
   ],
   "nutrition": {
     "calories": 257,
@@ -76,5 +75,9 @@
     "mainIngredient": "nuts",
     "descriptor": "Sweet & Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

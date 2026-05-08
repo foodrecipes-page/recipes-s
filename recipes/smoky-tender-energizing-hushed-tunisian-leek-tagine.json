@@ -67,7 +67,8 @@
     "bring the mixture to a simmer and let it cook for 20-25 minutes or until the liquid has reduced by half and the leeks are tender",
     "season the tagine with salt and pepper to taste",
     "serve the smoky tender energizing tunisian leek tagine hot over steaming couscous",
-    "garnish with fresh parsley and a dollop of yogurt (optional)"
+    "garnish with fresh parsley and a dollop of yogurt (optional)",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -80,7 +81,6 @@
     "one-pan",
     "tagine",
     "tunisian",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -106,5 +106,10 @@
     "mainIngredient": "leek",
     "descriptor": "smoky tender energizing hushed",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

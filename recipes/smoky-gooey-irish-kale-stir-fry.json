@@ -3,8 +3,7 @@
   "description": "A flavorful and nutritious post-workout dish featuring smoky flavors, gooey kale, mint, and dumplings (potato starch noodles) in a kosher-friendly recipe.",
   "cuisine": "Irish",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -59,8 +58,7 @@
   "tags": [
     "irish",
     "stir-fry",
-    "vegan-friendly",
-    "gluten-free"
+    "vegan-friendly"
   ],
   "nutrition": {
     "calories": 192,
@@ -79,11 +77,16 @@
     "mood": "post-workout",
     "technique": "dum",
     "primaryIngredient": "mint",
-    "diet": "kosher",
+    "diet": "vegan",
     "region": null,
     "cuisineAdjective": "Irish",
     "mainIngredient": "Kale",
     "descriptor": "Smoky Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

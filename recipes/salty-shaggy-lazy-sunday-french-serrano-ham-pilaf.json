@@ -44,7 +44,8 @@
     "Add butter and mix well. Spread evenly on a baking sheet.",
     "Bake for 25 minutes or until the rice is tender and golden brown.",
     "Stir in diced serrano ham and broth. Return to oven and bake for an additional 10-15 minutes or until heated through.",
-    "Serve warm as a side dish or over crusty bread."
+    "Serve warm as a side dish or over crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 35,
@@ -80,5 +81,9 @@
     "mainIngredient": "Serrano Ham",
     "descriptor": "Shaggy Lazy-Sunday",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

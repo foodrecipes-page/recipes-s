@@ -2,10 +2,7 @@
   "title": "Savory Shattering Mexican Almonds Tacos Al Pastor",
   "description": "A vegan-friendly, umami-rich Mexican dish featuring almond milk and shattering textures, perfect for a hangover cure. This tacos al pastor recipe combines the flavors of Mexico with the creaminess of almond milk.",
   "cuisine": "Mexican",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,8 +75,7 @@
     "mexican",
     "shattering",
     "tacos",
-    "umami",
-    "vegan"
+    "umami"
   ],
   "nutrition": {
     "calories": 420,
@@ -104,5 +100,10 @@
     "mainIngredient": "almonds",
     "descriptor": "Savory Shattering",
     "dishForm": "Tacos Al Pastor"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

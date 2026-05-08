@@ -3,7 +3,6 @@
   "description": "A brunch-mood Venezuelan dish featuring a vegan butter-based crumble with sour tomatoes and spices, perfect for those on keto-friendly diets.",
   "cuisine": "Venezuelan",
   "diet": [
-    "vegan",
     "keto"
   ],
   "meal": "dessert",
@@ -42,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F.",
+    "Preheat oven to 350°F.",
     "Mix flour, xylitol, bhuna masala powder, salt, and paprika in a bowl until well combined.",
     "Drizzle vegan butter into the dry mixture and mix it with your hands or a fork until you get a dough-like consistency.",
     "Gently fold in sliced sour tomatoes.",
@@ -84,5 +83,9 @@
     "mainIngredient": "tomato",
     "descriptor": "sour flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

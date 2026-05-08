@@ -3,7 +3,6 @@
   "description": "A sweet and savory dish that combines flavors of Egypt with the umami of meyeolchi-anchovies. This confit-style recipe is perfect for a quick and energizing meal.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "lunch",
@@ -53,5 +52,9 @@
     "mainIngredient": "anchovies",
     "descriptor": "sweet, shattering, energizing",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

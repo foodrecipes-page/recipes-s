@@ -3,7 +3,6 @@
   "description": "A romantic and savory Jamaican dish featuring fideo, bhuna, and a dairy-free friendly twist. This velvety curry is perfect for a cozy evening in.",
   "cuisine": "Jamaican",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -75,8 +74,7 @@
     "jamaican-curry",
     "fideo-pasta",
     "bhuna-sauce",
-    "coconut-milk",
-    "dairy-free"
+    "coconut-milk"
   ],
   "nutrition": {
     "calories": 420,
@@ -101,5 +99,9 @@
     "mainIngredient": "fideo",
     "descriptor": "savory velvety",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

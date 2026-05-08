@@ -63,7 +63,8 @@
     "Stir in the beef broth, tomato paste, paprika, salt, and black pepper, and bring the mixture to a simmer.",
     "Transfer the mixture to a Korean brass bowl and cook in a sous-vide water bath at 130 degrees Fahrenheit for 8 hours.",
     "Stir in the chopped fresh parsley and serve the stew hot, garnished with additional parsley if desired.",
-    "Serve the stew in the Korean brass bowl, making sure to handle the hot bowl with care."
+    "Serve the stew in the Korean brass bowl, making sure to handle the hot bowl with care.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 480,
@@ -101,5 +102,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "slow cooked",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

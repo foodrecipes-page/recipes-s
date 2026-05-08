@@ -57,7 +57,8 @@
     "Roast the potatoes in the oven for 20 minutes, or until they are tender and lightly browned.",
     "Remove the samphire from the sous-vide bag and add it to the baking sheet with the potatoes.",
     "Roast the samphire and potatoes together for an additional 10 minutes, or until the samphire is tender and lightly browned.",
-    "Serve the samphire and potatoes hot, garnished with chopped fresh parsley if desired."
+    "Serve the samphire and potatoes hot, garnished with chopped fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -95,5 +96,9 @@
     "mainIngredient": "samphire",
     "descriptor": "Springy Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

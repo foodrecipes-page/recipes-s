@@ -4,7 +4,6 @@
   "cuisine": "Mediterranean",
   "diet": [
     "raw",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -106,5 +105,9 @@
     "mainIngredient": "Tuna",
     "descriptor": "Spicy Light",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

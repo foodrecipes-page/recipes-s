@@ -3,8 +3,7 @@
   "description": "An earthy and fluffy low-calorie-friendly Malaysian dish featuring vegetable stock cube, smoke for a subtle smokiness, perfect as a light lunch or snack.",
   "cuisine": "Malaysian",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -77,5 +76,9 @@
     "mainIngredient": "spinach",
     "descriptor": "Fluffy Smoky",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

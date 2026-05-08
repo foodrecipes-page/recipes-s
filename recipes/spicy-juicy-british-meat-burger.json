@@ -81,7 +81,9 @@
     "Assemble the burgers by spreading mayonnaise on the bottom bun, followed by a lettuce leaf, a beef patty, a few slices of bacon, a slice of cheese, a few slices of pickle, and finally the top bun.",
     "Serve immediately and enjoy!",
     "Cook the onions and garlic in the same pan as the bacon until softened.",
-    "Stir in the Worcestershire sauce and season with salt and pepper to taste."
+    "Stir in the Worcestershire sauce and season with salt and pepper to taste.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -120,5 +122,10 @@
     "mainIngredient": "meat",
     "descriptor": "spicy, juicy",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

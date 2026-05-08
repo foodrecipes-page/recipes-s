@@ -3,8 +3,7 @@
   "description": "A flavorful and aromatic Indian dish featuring tender lamb and crispy naan bread, perfect for adventurous eaters looking for a low-glycemic-friendly meal option.",
   "cuisine": "Indian",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Savory Umami",
     "dishForm": "Naan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

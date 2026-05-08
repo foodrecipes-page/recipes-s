@@ -2,9 +2,7 @@
   "title": "Smoky Light Syrian Vegan Bacon Soup",
   "description": "A fragrant, smoky lentil soup infused with vegan bacon, coconut milk and aromatic spices, served light and adventurous.",
   "cuisine": "Syrian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "syrian",
     "soup",
     "smoky",
@@ -106,5 +103,9 @@
     "mainIngredient": "vegan bacon",
     "descriptor": "Smoky Light",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

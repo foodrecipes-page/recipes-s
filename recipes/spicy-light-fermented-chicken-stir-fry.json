@@ -55,7 +55,8 @@
     "In the same pan, add red bell pepper slices and stir-fry for 3-4 minutes until softened.",
     "Add red pepper flakes and fermented black beans to the pan. Stir well and let it simmer for a minute or two.",
     "Return chicken to the pan along with green onions. Add lemon zest and juice just before serving, stirring gently to combine all ingredients.",
-    "Serve hot as a main course."
+    "Serve hot as a main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Spicy Light Fermented",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

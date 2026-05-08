@@ -3,8 +3,7 @@
   "description": "A diabetic-friendly Filipino dish featuring fernbrake and kimchi in a savory adobo sauce, this recipe is a twist on traditional adobo with a focus on healthy and indulgent flavors.",
   "cuisine": "Filipino",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
   "tags": [
     "diabetic-friendly",
     "filipino-cuisine",
-    "gluten-free",
     "indulgent",
     "one-pot",
     "savory"
@@ -100,5 +98,9 @@
     "mainIngredient": "fernbrake",
     "descriptor": "Savory Indulgent",
     "dishForm": "Adobo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

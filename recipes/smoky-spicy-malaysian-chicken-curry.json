@@ -68,7 +68,8 @@
     "Stir in fish sauce and brown sugar, then reduce heat to medium‑low; let the curry cook for 15–18 minutes until the chicken is tender and the sauce has thickened.",
     "Taste and adjust seasoning—add more fish sauce for saltiness or more sugar for balance, keeping sodium low.",
     "Remove from heat and let rest for 5 minutes so flavors meld. Garnish with chopped cilantro and serve with steamed jasmine rice or flatbread.",
-    "Optional: for an extra smoky touch, briefly toast a pinch of cumin seeds in a dry pan before adding to the curry."
+    "Optional: for an extra smoky touch, briefly toast a pinch of cumin seeds in a dry pan before adding to the curry.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -108,5 +109,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Smoky Spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

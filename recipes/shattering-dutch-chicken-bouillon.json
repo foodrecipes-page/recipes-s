@@ -79,7 +79,8 @@
     "strain the mixture through a fine-mesh sieve into a clean bowl and discard the solids",
     "return the mixture to the saucepan and cook until it has reduced slightly",
     "shatter the mixture by mashing it with a potato masher or whisk",
-    "adjust the seasoning as needed"
+    "adjust the seasoning as needed",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -114,5 +115,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Shattering",
     "dishForm": "Bouillon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

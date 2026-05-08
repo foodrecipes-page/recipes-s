@@ -52,7 +52,8 @@
     "Stir to combine and bring to a simmer.",
     "Reduce heat to low and cook for 5 minutes or until warmed through.",
     "Serve hot in a Korean brass bowl.",
-    "Garnish with lemon wedges or herbs, if desired."
+    "Garnish with lemon wedges or herbs, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -89,5 +90,9 @@
     "mainIngredient": "Bouillon",
     "descriptor": "Sweet Juicy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A delicious and crunchy French-inspired snack featuring red pepper, almonds, and Parmesan cheese. Perfect for the holiday season or a weeknight treat.",
   "cuisine": "french",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -77,7 +76,6 @@
   "difficulty": "medium",
   "tags": [
     "french",
-    "gluten-free",
     "high-protein",
     "holiday-recipe",
     "low-carb",
@@ -107,5 +105,9 @@
     "mainIngredient": "pepper",
     "descriptor": "shattering nutty",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

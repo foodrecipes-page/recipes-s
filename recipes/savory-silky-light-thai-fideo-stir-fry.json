@@ -3,8 +3,7 @@
   "description": "This egg-free-friendly dish features a savory and silky texture made with fideo noodles and fermented vegetables for a light and healthy meal.",
   "cuisine": "Thai",
   "diet": [
-    "egg-free",
-    "vegan"
+    "egg-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -79,5 +78,9 @@
     "mainIngredient": "Fideo",
     "descriptor": "Savory Silky Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

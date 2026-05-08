@@ -3,8 +3,7 @@
   "description": "A hearty and savory Peruvian-inspired casserole featuring chicken, brandy, and pickles, perfect for a cozy dinner. This high-protein dish is made with wholesome ingredients and is suitable for a weeknight meal.",
   "cuisine": "Peruvian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,9 @@
     "In a 9x13-inch baking dish, arrange half of the chicken mixture in the bottom of the dish. Top with half of the cheese mixture.",
     "Repeat the layers, starting with the remaining chicken mixture, then the remaining cheese mixture.",
     "Cover the dish with aluminum foil and bake for 25 minutes.",
-    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown."
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -77,7 +78,6 @@
     "peruvian-cuisine",
     "chicken-casserole",
     "high-protein",
-    "gluten-free",
     "comfort-food"
   ],
   "nutrition": {
@@ -103,5 +103,11 @@
     "mainIngredient": "chicken",
     "descriptor": "Savory Crumbly",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

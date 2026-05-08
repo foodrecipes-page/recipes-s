@@ -3,8 +3,7 @@
   "description": "A post-workout dish featuring savory falafel blended into a creamy pilaf with high-protein-friendly options and air-fried textures.",
   "cuisine": "Norwegian",
   "diet": [
-    "high-protein",
-    "vegan"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -54,7 +53,6 @@
     "norwegian",
     "falafel",
     "pilaf",
-    "vegan",
     "high-protein"
   ],
   "nutrition": {
@@ -80,5 +78,9 @@
     "mainIngredient": "Falafel",
     "descriptor": "Savory Velvety",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

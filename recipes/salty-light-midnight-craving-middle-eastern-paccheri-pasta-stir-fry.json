@@ -75,11 +75,15 @@
     "mood": "midnight-craving",
     "technique": "deglaze",
     "primaryIngredient": "paccheri pasta",
-    "diet": "low-carb",
+    "diet": "low-carb-friendly",
     "region": null,
     "cuisineAdjective": "Middle Eastern",
     "mainIngredient": "Paccheri Pasta",
     "descriptor": "Salty Light Midnight Craving",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

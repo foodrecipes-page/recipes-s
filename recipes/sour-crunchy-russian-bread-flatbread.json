@@ -63,7 +63,7 @@
   ],
   "prepTimeMin": 13,
   "cookTimeMin": 12,
-  "totalTimeMin": 55,
+  "totalTimeMin": 25,
   "servings": 2,
   "difficulty": "easy",
   "tags": [
@@ -99,5 +99,9 @@
     "mainIngredient": "Bread",
     "descriptor": "Sour Crunchy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

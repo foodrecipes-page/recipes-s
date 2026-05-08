@@ -3,7 +3,6 @@
   "description": "A delicious and crispy Vietnamese-inspired pastry filled with a savory beef and vegetable mixture, finished with a rich and smoky glaze.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "low-calorie"
   ],
   "meal": "snack",
@@ -98,7 +97,6 @@
   "servings": 12,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "low-calorie",
     "one-pan",
     "vietnamese",
@@ -127,5 +125,9 @@
     "mainIngredient": "Phyllo dough",
     "descriptor": "smoky crisp",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

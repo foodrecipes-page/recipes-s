@@ -58,7 +58,7 @@
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 0,
-  "totalTimeMin": 30,
+  "totalTimeMin": 5,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -89,5 +89,9 @@
     "mainIngredient": "Pilchards",
     "descriptor": "Spicy Smoky",
     "dishForm": "Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

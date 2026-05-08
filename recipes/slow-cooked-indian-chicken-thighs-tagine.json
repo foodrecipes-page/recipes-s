@@ -2,9 +2,7 @@
   "title": "Slow Cooked Indian Chicken Thighs Tagine",
   "description": "A flavorful and tender one-pot Indian dish featuring chicken thighs, cooked to perfection in a tagine, with earthy spices and aromas. This halal-friendly recipe is perfect for a special occasion or a cozy night in.",
   "cuisine": "Indian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -66,7 +64,8 @@
     "Cover the tagine or Dutch oven with a lid and transfer it to the oven.",
     "Bake at 300 degrees Fahrenheit for 30 minutes, then reduce the heat to 275 degrees Fahrenheit and continue cooking for an additional 60 minutes.",
     "Remove the tagine or Dutch oven from the oven and let it cool slightly.",
-    "Serve the chicken and sauce over rice or with naan bread."
+    "Serve the chicken and sauce over rice or with naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -104,5 +103,10 @@
     "mainIngredient": "chicken thighs",
     "descriptor": "Slow cooked",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

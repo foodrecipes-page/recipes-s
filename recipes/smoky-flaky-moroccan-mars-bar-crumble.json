@@ -39,12 +39,12 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "Melt the butter in a small saucepan over medium heat. Stir in chocolate chips and cook until smooth, about 2 minutes.",
     "Remove from heat and add dark chocolate mixture into a mixing bowl. Mix in ground almonds and sweetener. Stir until well combined.",
     "Fold in turmeric powder, coriander seeds, paprika, and a pinch of salt gently. Ensure that the ingredients are evenly distributed.",
     "Press the mixture into an 8x8 inch baking dish lined with parchment paper for easy removal.",
-    "Bake at 350\u00b0F (175\u00b0C) for 20 minutes or until golden brown around the edges.",
+    "Bake at 350°F (175°C) for 20 minutes or until golden brown around the edges.",
     "Allow to cool slightly before cutting into squares. Serve immediately as a delightful snack."
   ],
   "prepTimeMin": 10,
@@ -57,8 +57,7 @@
     "flaky",
     "smoky",
     "mars-bar",
-    "diy-dessert",
-    "dairy-free"
+    "diy-dessert"
   ],
   "nutrition": {
     "calories": 150,
@@ -83,5 +82,9 @@
     "mainIngredient": "Mars Bar",
     "descriptor": "Smoky Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Smoky Creamy Filipino Tofu Stew",
   "description": "A comforting, smoky tofu stew infused with Filipino flavors, creamy coconut milk, and aromatic garlic granules that simmer into a fragrant, vegan-friendly meal.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,7 +71,6 @@
   "tags": [
     "smoky",
     "creamy",
-    "vegan",
     "tofu",
     "stew",
     "filipino"
@@ -101,5 +98,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Smoky Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

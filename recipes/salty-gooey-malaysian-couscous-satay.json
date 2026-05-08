@@ -97,11 +97,9 @@
   "servings": 4,
   "difficulty": "hard",
   "tags": [
-    "gluten-free",
     "high-protein",
     "mild-spicy",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -127,5 +125,10 @@
     "mainIngredient": "couscous",
     "descriptor": "salty gooey",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

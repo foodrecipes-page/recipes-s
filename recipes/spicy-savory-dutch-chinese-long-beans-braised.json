@@ -4,8 +4,7 @@
   "cuisine": "Dutch",
   "diet": [
     "vegetarian",
-    "pescetarian",
-    "gluten-free"
+    "pescetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -120,5 +119,9 @@
     "mainIngredient": "Chinese long beans",
     "descriptor": "Spicy Savory",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

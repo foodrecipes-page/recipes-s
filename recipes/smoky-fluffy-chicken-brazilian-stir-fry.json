@@ -40,7 +40,8 @@
     "Stir-fry for about 5 minutes or until vegetables are slightly softened.",
     "Return chicken to the pan along with bouillon packet.",
     "Pour in water (enough to cover ingredients), bring to a boil, then reduce heat and simmer for approximately 10 minutes.",
-    "Add cilantro before serving."
+    "Add cilantro before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 30,
@@ -76,5 +77,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Smoky Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -53,7 +53,8 @@
     "Add chicken broth and bring to a boil.",
     "Reduce heat to low, cover, and simmer for 20-25 minutes, or until rice is cooked and fluffy.",
     "Deglaze the pan with a little water if necessary, to remove any stuck rice.",
-    "Fluff the rice with a fork and serve hot."
+    "Fluff the rice with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -89,5 +90,9 @@
     "mainIngredient": "rice",
     "descriptor": "sweet fluffy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -52,7 +52,7 @@
     },
     {
       "name": "cayenne pepper",
-      "amount": "\u00bd tsp",
+      "amount": "½ tsp",
       "notes": "adjust to taste"
     },
     {
@@ -61,8 +61,8 @@
       "notes": ""
     },
     {
-      "name": "low\u2011sodium chicken broth",
-      "amount": "\u00bd cup (120 ml)",
+      "name": "low‑sodium chicken broth",
+      "amount": "½ cup (120 ml)",
       "notes": ""
     },
     {
@@ -72,16 +72,17 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a large skillet over medium\u2011high heat.",
+    "Heat the olive oil in a large skillet over medium‑high heat.",
     "Add the diced chicken breast and sear until browned on all sides, about 5 minutes. Remove and set aside.",
-    "Reduce heat to medium and toss in the minced garlic, sliced onion, and bell pepper; saut\u00e9 until the vegetables are tender, about 4 minutes.",
+    "Reduce heat to medium and toss in the minced garlic, sliced onion, and bell pepper; sauté until the vegetables are tender, about 4 minutes.",
     "Stir in the cumin, smoked paprika, and cayenne pepper, cooking for 1 minute until fragrant.",
     "Return the chicken to the skillet and add the tomato paste, stirring to coat the mixture uniformly.",
     "Pour in the chicken broth and bring the mixture to a gentle simmer for 3 minutes, allowing the flavors to meld.",
     "Mix in the cream cheese until melted and the sauce becomes creamy; add the cooked chickpeas and stir until heated through.",
     "Season with salt and pepper to taste, adjusting the heat if desired.",
     "Remove from heat and serve immediately over steamed rice or warm pita.",
-    "Enjoy the warm, spicy, protein\u2011rich flavors of this Egyptian\u2011inspired dish!"
+    "Enjoy the warm, spicy, protein‑rich flavors of this Egyptian‑inspired dish!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -119,5 +120,9 @@
     "mainIngredient": "cream cheese",
     "descriptor": "Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

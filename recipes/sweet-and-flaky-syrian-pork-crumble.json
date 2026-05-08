@@ -3,7 +3,6 @@
   "description": "A weeknight-friendly Mediterranean dish featuring minced pork blended with sweet spices for a unique flavor profile.",
   "cuisine": "Syrian",
   "diet": [
-    "vegetarian",
     "mildly-vegan"
   ],
   "meal": "dinner",
@@ -49,7 +48,8 @@
     "Add minced pork and cook until browned on all sides.",
     "Add sweet spice paste and pomegranate molasses to the pan, stirring well to combine.",
     "Reduce heat to low and let the mixture simmer for about 30 minutes or until it thickens slightly.",
-    "Serve warm as a side dish with your choice of bread."
+    "Serve warm as a side dish with your choice of bread.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 40,
@@ -86,5 +86,10 @@
     "mainIngredient": "pork",
     "descriptor": "Sweet and Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-pork_no_temp"
+  ]
 }

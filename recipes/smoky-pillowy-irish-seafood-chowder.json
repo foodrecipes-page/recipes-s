@@ -3,7 +3,6 @@
   "description": "A hearty and energizing Irish dish featuring smoky seafood flavors and a pillowy texture, without eggs.",
   "cuisine": "Irish",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -95,7 +94,6 @@
     "pillowy",
     "seafood",
     "smoky",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -121,5 +119,9 @@
     "mainIngredient": "seafood",
     "descriptor": "smoky pillowy",
     "dishForm": "chowder"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,6 @@
   "description": "A hearty, aromatic Vietnamese Pho with smoky flavors and a rich beef broth, featuring rice noodles and an assortment of colorful toppings.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegetarian",
-    "gluten-free",
     "egg-free-friendly",
     "nut-free"
   ],
@@ -116,5 +114,10 @@
     "mainIngredient": "rice noodles",
     "descriptor": "smoky dense festive",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

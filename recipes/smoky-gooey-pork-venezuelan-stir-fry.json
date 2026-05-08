@@ -2,9 +2,7 @@
   "title": "Smoky Gooey Pork Back Ribs Venezuelan Stir-fry",
   "description": "This halal-friendly dish combines smoky pork back ribs with a cozy, gooey sauce that's perfect for a quick and easy dinner.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "pork",
     "descriptor": "Smoky Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

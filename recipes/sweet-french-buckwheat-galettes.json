@@ -3,8 +3,7 @@
   "description": "Crumbly and sweet, these French buckwheat galettes are perfect for a midnight craving, featuring roasted buckwheat flour and plant-based friendly ingredients. They can be enjoyed as a snack or dessert.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -64,8 +63,7 @@
     "buckwheat",
     "galettes",
     "sweet",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 220,
@@ -90,5 +88,9 @@
     "mainIngredient": "buckwheat",
     "descriptor": "sweet crumbly",
     "dishForm": "Galettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "This plant-based dessert features smoky flavors and a flaky texture made from fine yellow cornmeal combined with dates, chia seeds, and other complementary ingredients.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -85,5 +84,9 @@
     "mainIngredient": "Dates",
     "descriptor": "Smoky Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

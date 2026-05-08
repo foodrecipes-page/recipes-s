@@ -59,7 +59,8 @@
     "Add the rice to the pan, stirring to combine, and bring to a boil.",
     "Reduce the heat to low, cover the pan, and simmer for 20 minutes.",
     "Add the blanched green beans and lemon juice to the pan, and stir to combine.",
-    "Continue to simmer, covered, for an additional 10 minutes, or until the rice is tender and the liquid has been absorbed."
+    "Continue to simmer, covered, for an additional 10 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "slow simmered",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

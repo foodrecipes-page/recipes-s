@@ -3,7 +3,6 @@
   "description": "A rich and savory Vietnamese dish featuring chicken, noodles, and nuts, perfect for a lazy Sunday. The combination of bitter and silky textures creates a delightful culinary experience.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -96,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "bitter silky",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -82,11 +82,15 @@
     "mood": "light",
     "technique": "soffritto-base",
     "primaryIngredient": "rice",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": "yorkshire",
     "cuisineAdjective": "british",
     "mainIngredient": "rice",
     "descriptor": "springy",
     "dishForm": "pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

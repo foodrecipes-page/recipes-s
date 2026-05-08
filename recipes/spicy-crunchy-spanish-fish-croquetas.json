@@ -4,7 +4,6 @@
   "cuisine": "Spanish",
   "diet": [
     "halal",
-    "gluten-free",
     "fish-friendly"
   ],
   "meal": "snack",
@@ -129,5 +128,9 @@
     "mainIngredient": "fish",
     "descriptor": "Spicy Crunchy",
     "dishForm": "Croquetas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

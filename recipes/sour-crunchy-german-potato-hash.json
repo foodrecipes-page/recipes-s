@@ -3,8 +3,7 @@
   "description": "A plant-based German dish featuring crispy potatoes, sour flavors, and a hint of sweetness from condensed milk, perfect for a lazy Sunday. This stir-fry is a unique blend of textures and tastes.",
   "cuisine": "German",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "sour crunchy",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

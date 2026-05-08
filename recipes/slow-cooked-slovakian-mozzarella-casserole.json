@@ -63,7 +63,9 @@
     "In the slow cooker, combine the cooked ground beef mixture, mozzarella balls, and any accumulated juices.",
     "Cover the slow cooker and cook for 6 hours or overnight.",
     "After 6 hours, remove the slow cooker from the heat and let it cool for 30 minutes.",
-    "Serve the casserole hot, garnished with chopped fresh parsley if desired."
+    "Serve the casserole hot, garnished with chopped fresh parsley if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 360,
@@ -101,5 +103,10 @@
     "mainIngredient": "mozzarella",
     "descriptor": "Slow cooked",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

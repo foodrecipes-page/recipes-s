@@ -3,7 +3,6 @@
   "description": "A kid-friendly and vegan-friendly smoky stir-fry featuring Sichuan pepper with a silky texture that's perfect for mealtime in Norway.",
   "cuisine": "Vegan Chinese cuisine",
   "diet": [
-    "vegan",
     null
   ],
   "meal": "dinner",
@@ -58,8 +57,7 @@
     "smoky",
     "silky",
     "kid-friendly",
-    "norwegian",
-    "vegan"
+    "norwegian"
   ],
   "nutrition": {
     "calories": 150,
@@ -84,5 +82,9 @@
     "mainIngredient": "Sichuan Pepper",
     "descriptor": "Smoky Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

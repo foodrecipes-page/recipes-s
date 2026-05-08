@@ -3,9 +3,7 @@
   "description": "A kid-friendly Yucatecan-inspired dish featuring a silky liquid cheese filling, poached for a smooth texture. Suitable for vegan and non-vegan options.",
   "cuisine": "Mexican",
   "diet": [
-    "vegan",
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -64,9 +62,7 @@
   "tags": [
     "mexican",
     "yucatecan",
-    "vegan",
     "vegetarian",
-    "gluten-free",
     "cheese",
     "quesadilla"
   ],
@@ -93,5 +89,10 @@
     "mainIngredient": "cheese",
     "descriptor": "salty silky",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

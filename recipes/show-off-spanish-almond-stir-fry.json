@@ -2,9 +2,7 @@
   "title": "Show-off Spanish Almond Stir-fry",
   "description": "A silky and sour show-off dish featuring almond extract, cooked sous-vide for added depth of flavor, suitable for gluten-free diets.",
   "cuisine": "Spanish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -86,5 +84,9 @@
     "mainIngredient": "Almonds",
     "descriptor": "Sour Silky Show-off",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

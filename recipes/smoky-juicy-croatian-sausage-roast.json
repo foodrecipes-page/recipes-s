@@ -98,11 +98,15 @@
     "mood": "show-off",
     "technique": "roast",
     "primaryIngredient": "sausage",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Croatian",
     "mainIngredient": "sausage",
     "descriptor": "Smoky Juicy",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

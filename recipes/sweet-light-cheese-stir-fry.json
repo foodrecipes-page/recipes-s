@@ -52,7 +52,8 @@
     "Gradually stir in grated Cheddar Cheese, ensuring it melts evenly into the vegetable mixture.",
     "Pour in soy sauce and water or broth, stirring well to combine all ingredients and adjust consistency as needed by adding more liquid if necessary.",
     "Simmer for an additional 2-3 minutes until cheese is fully melted and flavors are well integrated. Taste and season with salt and pepper if desired.",
-    "Serve hot over steamed rice or noodles."
+    "Serve hot over steamed rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "mainIngredient": "cheese",
     "descriptor": "sweet light kid-friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "a unique dessert featuring springy malaysian strawberries and a tangy pickle relish, all dairy-free-friendly",
   "cuisine": "malaysian",
   "diet": [
-    "dairy-free",
     "vegetarian",
     "gluten-free"
   ],
@@ -71,7 +70,6 @@
   "servings": 4,
   "difficulty": "hard",
   "tags": [
-    "dairy-free",
     "grilled",
     "high-protein",
     "malaysian",
@@ -101,5 +99,9 @@
     "mainIngredient": "strawberries",
     "descriptor": "springy",
     "dishForm": "satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A flavorful and spicy breakfast bao featuring tender pork belly slices in a gluten-free friendly filling, designed to cure even the worst hangovers.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     "meat"
   ],
   "meal": "breakfast",
@@ -96,7 +95,6 @@
     "cuisine",
     "easy",
     "food",
-    "gluten-free",
     "hangover-cure",
     "korean",
     "pork",
@@ -126,5 +124,9 @@
     "mainIngredient": "pork belly",
     "descriptor": "spicy hangover",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

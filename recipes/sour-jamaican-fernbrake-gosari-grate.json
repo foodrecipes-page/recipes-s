@@ -4,7 +4,6 @@
   "cuisine": "Jamaican",
   "diet": [
     "ayurvedic",
-    "vegan",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -81,8 +80,7 @@
     "comfort-food",
     "gluten-free",
     "jamaican",
-    "tamasic",
-    "vegan"
+    "tamasic"
   ],
   "nutrition": {
     "calories": 800,
@@ -107,5 +105,9 @@
     "mainIngredient": "fernbrake-gosari",
     "descriptor": "sour",
     "dishForm": "Grate"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

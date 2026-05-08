@@ -64,14 +64,15 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180\u00b0C (350\u00b0F).",
+    "Preheat oven to 180°C (350°F).",
     "Heat 1 tablespoon of oil in a large Dutch oven over medium heat; sear pork cubes until browned on all sides, then remove and set aside.",
-    "Saut\u00e9 onion and garlic in the same pot until translucent.",
+    "Sauté onion and garlic in the same pot until translucent.",
     "Stir in gochujang, smoked paprika, tomato paste, soy sauce, vinegar, and honey; cook for 2 minutes to meld flavors.",
     "Add the browned pork back into the pot along with 500 ml water. Bring to a simmer, then cover and transfer to the oven.",
     "Bake uncovered for 60 minutes, stirring occasionally.",
     "After 60 minutes, remove the lid, stir in remaining tablespoon of oil, and bake for an additional 30 minutes until the pork is tender and the sauce has thickened.",
-    "Let the casserole rest for 5 minutes before serving."
+    "Let the casserole rest for 5 minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "slug": "smoky-spicy-polish-pork-casserole",
   "source": "ocloud-gpt-oss:20b",
@@ -105,5 +106,9 @@
   "tags": [
     "polish",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
   ]
 }

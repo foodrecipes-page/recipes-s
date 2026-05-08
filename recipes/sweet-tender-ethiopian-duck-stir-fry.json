@@ -3,7 +3,6 @@
   "description": "A sweet and tender duck dish that is perfect for a crowd-pleaser dinner option, gluten-free and kosher-friendly.",
   "cuisine": "Ethiopian",
   "diet": [
-    "gluten-free",
     "kosher-friendly"
   ],
   "meal": "dinner",
@@ -93,11 +92,16 @@
     "mood": "crowd-pleaser",
     "technique": "braise",
     "primaryIngredient": "duck",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Ethiopian",
     "mainIngredient": "duck",
     "descriptor": "sweet tender",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

@@ -54,7 +54,9 @@
     "In the same pan, add garlic and onion (if using), sautéing for 2 minutes until fragrant.",
     "Return ground beef to the pan along with chicken broth. Allow to simmer for about 5 minutes to let flavors meld together.",
     "Add diced red bell pepper and chopped tomatoes. Stir well to combine all ingredients, allowing mixture to cook for an additional 5-7 minutes.",
-    "Season with salt and pepper as desired. Serve hot over rice or noodles."
+    "Season with salt and pepper as desired. Serve hot over rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -89,5 +91,10 @@
     "mainIngredient": "Beef",
     "descriptor": "Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

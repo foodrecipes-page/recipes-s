@@ -63,7 +63,8 @@
     "Pour in the chicken broth, bring to a gentle simmer, and let it reduce slightly for 5 minutes.",
     "Reduce heat to low, add the milk and honey, whisking to combine, and let it warm for 2 minutes—do not bring to a full boil.",
     "Gradually add the shredded Provolone and grated Parmesan, stirring continuously until the cheeses melt completely into a smooth, gooey consistency, about 4 minutes.",
-    "Season with salt and pepper, serve hot with crusty bread or crackers."
+    "Season with salt and pepper, serve hot with crusty bread or crackers.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -103,5 +104,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Spicy Gooey",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

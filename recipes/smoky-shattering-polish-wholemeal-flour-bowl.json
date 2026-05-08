@@ -3,8 +3,7 @@
   "description": "a hearty and adventurous polish dish featuring strong wholemeal flour, stone-bowl-dolsot, and a smoky flavor profile, suitable for jain-friendly diets.",
   "cuisine": "polish",
   "diet": [
-    "jain",
-    "gluten-free"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "jain",
     "one-pan",
     "polish",
@@ -98,5 +96,9 @@
     "mainIngredient": "wholemeal flour",
     "descriptor": "smoky shattering",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

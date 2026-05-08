@@ -2,9 +2,7 @@
   "title": "Sour Crunchy Vegan Cheese Crumble",
   "description": "This dish combines the indulgent flavors of sour colby jack cheese with a crunchy texture for a Peruvian-style vegan treat.",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -33,7 +31,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "In a bowl, mix crumbled vegan cheese with almond milk until smooth.",
     "Add coconut oil, honey/agave nectar, and ground flaxseed into the cheese mixture. Mix well to combine.",
     "Fold in toppings if desired.",
@@ -73,5 +71,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Sour Crunchy Vegan",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

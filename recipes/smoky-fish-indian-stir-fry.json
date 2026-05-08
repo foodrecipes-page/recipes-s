@@ -2,9 +2,7 @@
   "title": "Smoky Fish Indian Stir-fry",
   "description": "A vegan-friendly hangover-cure dish featuring smoky flavors and spices combined with fish fillets in a light sauce.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -98,5 +96,9 @@
     "mainIngredient": "fish",
     "descriptor": "Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -49,7 +49,8 @@
     "Fold in the grated Parmesan cheese if using.",
     "Transfer the crumble mixture onto a baking sheet lined with parchment paper.",
     "Bake at 350°F (175°C) for about 12-15 minutes, or until the edges are lightly golden and the top is slightly crispy.",
-    "Let it cool before serving."
+    "Let it cool before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -85,5 +86,9 @@
     "mainIngredient": "curry_powder",
     "descriptor": "Savory",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

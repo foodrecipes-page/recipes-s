@@ -70,7 +70,6 @@
     "breakfast",
     "brunch",
     "easy-dutch",
-    "gluten-free",
     "weeknight"
   ],
   "nutrition": {
@@ -96,5 +95,9 @@
     "mainIngredient": "cracker",
     "descriptor": "smoky",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -80,7 +80,8 @@
     "7. Ladle the soup into bowls, then sprinkle the reserved sliced green onions on top for a fresh crunch.",
     "8. Serve immediately with a side of steamed rice or a crisp cucumber salad.",
     "9. For a vegetarian version, substitute smoked salmon with smoked tofu and add sliced napa cabbage for extra bulk.",
-    "10. Store any leftovers in an airtight container in the refrigerator; reheat gently to avoid over‑cooking the salmon."
+    "10. Store any leftovers in an airtight container in the refrigerator; reheat gently to avoid over‑cooking the salmon.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -93,7 +94,6 @@
     "peppery",
     "lazy-sunday",
     "pescatarian",
-    "gluten-free",
     "dairy-free"
   ],
   "nutrition": {
@@ -113,11 +113,17 @@
     "mood": "lazy-sunday",
     "technique": "braise",
     "primaryIngredient": "smoked salmon",
-    "diet": "vegan",
+    "diet": "pescatarian",
     "region": null,
     "cuisineAdjective": "Japanese",
     "mainIngredient": "salmon",
     "descriptor": "Smoky Peppery",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid",
+    "aligned-axes-diet"
+  ]
 }

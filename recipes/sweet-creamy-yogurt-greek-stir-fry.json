@@ -3,8 +3,7 @@
   "description": "A sweet and creamy greek dish featuring ground allspice, simmered to perfection with low-calorie-friendly ingredients for a show-off meal.",
   "cuisine": "Greek",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -77,5 +76,9 @@
     "mainIngredient": "Yogurt",
     "descriptor": "Sweet Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

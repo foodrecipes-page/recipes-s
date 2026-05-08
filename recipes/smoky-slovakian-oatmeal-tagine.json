@@ -3,7 +3,6 @@
   "description": "A peppery and creamy Slovakian dish featuring oatmeal, this recipe is kid-friendly and nut-free, cooked to perfection in a tagine pot. It combines the warmth of smoked paprika with the comfort of oatmeal.",
   "cuisine": "Slovakian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -49,7 +48,8 @@
     "Pour in the heavy cream and chicken broth, and bring the mixture to a simmer.",
     "Reduce the heat to low and cook, covered, for 20 minutes, or until the oatmeal has absorbed most of the liquid and has a creamy consistency.",
     "Remove the tagine pot from the heat and let it cool for a few minutes.",
-    "Serve the Smoky Slovakian Oatmeal hot, directly from the tagine pot."
+    "Serve the Smoky Slovakian Oatmeal hot, directly from the tagine pot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -61,7 +61,6 @@
     "gluten-free",
     "kid-friendly",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -81,11 +80,17 @@
     "mood": "kid-friendly",
     "technique": "deglaze",
     "primaryIngredient": "oatmeal",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Slovakian",
     "mainIngredient": "oatmeal",
     "descriptor": "smoky savory",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

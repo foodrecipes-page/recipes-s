@@ -80,7 +80,6 @@
   "tags": [
     "comfort-food",
     "creamy-sauce",
-    "gluten-free",
     "norwegian-cuisine",
     "smoked-salmon",
     "weeknight"
@@ -108,5 +107,9 @@
     "mainIngredient": "creamy",
     "descriptor": "Smoke-Hot",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

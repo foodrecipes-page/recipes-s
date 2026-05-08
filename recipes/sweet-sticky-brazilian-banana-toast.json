@@ -3,8 +3,7 @@
   "description": "A sweet and nostalgic Brazilian dish featuring caramelized banana and toast, perfect for a delicious snack or dessert. This egg-free friendly recipe is easy to make and requires minimal ingredients.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -85,5 +84,9 @@
     "mainIngredient": "banana",
     "descriptor": "sweet sticky",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -57,7 +57,7 @@
     }
   ],
   "instructions": [
-    "Heat the ghee in a large skillet over medium heat. Add the onions and cook until translucent, then add garlic and saut\u00e9 for another minute.",
+    "Heat the ghee in a large skillet over medium heat. Add the onions and cook until translucent, then add garlic and sauté for another minute.",
     "Add green bell pepper and zucchini, cook until vegetables are soft and tender but still crisp.",
     "Stir in cumin seeds and turmeric; cook for about 30 seconds.",
     "Mix in lemon juice and sour cream (if using), stirring to combine evenly with the vegetables. Season with salt to taste.",
@@ -90,11 +90,15 @@
     "mood": "nostalgic",
     "technique": "cure",
     "primaryIngredient": "biryani masala",
-    "diet": "pescatarian",
+    "diet": "pescatarian-friendly",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "Biryani",
     "descriptor": "Sour Flaky Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

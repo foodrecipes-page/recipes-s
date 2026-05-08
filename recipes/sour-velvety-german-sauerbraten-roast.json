@@ -3,7 +3,6 @@
   "description": "A classic German sauerbraten roast, infused with the tanginess of sauerkraut and capers, all while being FODMAP-friendly and cooked sous-vide for a tender, velvety texture.",
   "cuisine": "German",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -84,7 +83,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 55,
-  "totalTimeMin": 115,
+  "totalTimeMin": 75,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -117,5 +116,10 @@
     "mainIngredient": "sauerbraten",
     "descriptor": "sour velvety",
     "dishForm": "roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "recomputed-totalTime"
+  ]
 }

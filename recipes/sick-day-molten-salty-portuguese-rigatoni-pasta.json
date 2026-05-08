@@ -3,8 +3,7 @@
   "description": "A comforting, low-fat friendly Portuguese-inspired dish to nurse you back to health. The combination of tender rigatoni and creamy bechamel sauce is sure to hit the spot on a sick day.",
   "cuisine": "Portuguese",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,8 @@
     "Transfer the rigatoni mixture to a baking dish and top with the remaining 1/2 cup of grated cheddar cheese.",
     "Sprinkle salt and black pepper to taste.",
     "Bake in a preheated oven at 375°F (190°C) for 15-20 minutes, until the cheese is melted and bubbly.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -111,5 +111,10 @@
     "mainIngredient": "rigatoni",
     "descriptor": "sick-day molten salty",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

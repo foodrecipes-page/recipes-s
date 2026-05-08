@@ -80,8 +80,7 @@
     "sweet",
     "crumbly",
     "apple",
-    "cider",
-    "vegan"
+    "cider"
   ],
   "nutrition": {
     "calories": 375,
@@ -106,5 +105,9 @@
     "mainIngredient": "Apple",
     "descriptor": "Sweet Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Garlicky Creamy Show-off British Pork Belly Stir-fry",
   "description": "This vegan-friendly stir-fry showcases the richness of creamy sauces with a twist of garlic and hints of savory spices to complement the tender texture of baked pork belly.",
   "cuisine": "British",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,5 +83,9 @@
     "mainIngredient": "pork belly",
     "descriptor": "Garlicky Creamy Show-off",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

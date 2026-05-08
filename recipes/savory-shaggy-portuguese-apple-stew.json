@@ -2,10 +2,7 @@
   "title": "Savory Shaggy Portuguese Apple Stew",
   "description": "A hearty one-pot stew featuring Bramley apples and dashi extract, perfect for a chilly evening. This plant-based friendly dish is a unique blend of flavors and textures.",
   "cuisine": "Portuguese",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +88,10 @@
     "mainIngredient": "apples",
     "descriptor": "Savory Shaggy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

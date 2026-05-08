@@ -3,7 +3,6 @@
   "description": "A raw-friendly Egyptian dish featuring tender beef cutlets, seasoned with a tangy sauce and broiled to perfection.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
     "low-carb"
   ],
   "meal": "dinner",
@@ -85,5 +84,9 @@
     "primaryIngredient": "beef cutlet",
     "diet": "raw",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

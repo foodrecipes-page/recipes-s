@@ -30,7 +30,8 @@
     "Drizzle over pickled relish, ensuring an even distribution of both ingredients.",
     "Sprinkle the spicy blend on top if desired and add a dash of salt for taste.",
     "Bake for 15 minutes until golden brown and crispy. Watch carefully to prevent burning.",
-    "Remove from oven and let cool slightly before serving."
+    "Remove from oven and let cool slightly before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -62,11 +63,16 @@
     "mood": "monsoon",
     "technique": "pickle",
     "primaryIngredient": "pretzels",
-    "diet": "keto",
+    "diet": "ketogenic",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "Pretzels",
     "descriptor": "Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid",
+    "aligned-axes-diet"
+  ]
 }

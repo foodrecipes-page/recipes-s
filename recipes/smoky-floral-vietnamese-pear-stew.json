@@ -65,7 +65,8 @@
     "Bring the stew to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes, or until the pears are tender.",
     "Stir in the chopped Thai basil and cook for an additional 2-3 minutes.",
     "Serve hot, garnished with additional basil if desired.",
-    "Refrigerate or freeze leftovers for up to 5 days."
+    "Refrigerate or freeze leftovers for up to 5 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "pears",
     "descriptor": "smoky floral",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

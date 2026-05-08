@@ -80,7 +80,8 @@
     "Press the edges together to seal the empanada.",
     "Heat the vegan shortening in a large skillet over medium-high heat.",
     "Add the empanadas to the skillet, seam-side down, and cook for 3-4 minutes on each side.",
-    "Serve hot with a side of smoked paprika, if desired."
+    "Serve hot with a side of smoked paprika, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 40,
   "cookTimeMin": 12,
@@ -119,5 +120,9 @@
     "mainIngredient": "Duck",
     "descriptor": "Dense Smoky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

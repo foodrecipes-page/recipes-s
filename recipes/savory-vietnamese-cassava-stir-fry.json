@@ -2,9 +2,7 @@
   "title": "Savory Vietnamese Cassava Stir-fry",
   "description": "This savory vegan-friendly cassava stir-fry is tender and perfect for a solo dinner.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "Cassava",
     "descriptor": "Savory",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

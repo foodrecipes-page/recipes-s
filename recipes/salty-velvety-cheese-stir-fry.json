@@ -2,9 +2,7 @@
   "title": "Salty Velvety Cheese Stir-fry",
   "description": "A show-off Japanese dish featuring vegan V Sterbottensost cheese in a salty, velvety stir-fry that combines the best of Eastern and Western flavors.",
   "cuisine": "Vegan Japanese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "salty",
     "velvety",
     "cheese",
@@ -87,5 +84,9 @@
     "mainIngredient": "cheese",
     "descriptor": "salty velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

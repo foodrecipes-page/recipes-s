@@ -68,11 +68,15 @@
     "mood": "monsoon",
     "technique": "rest",
     "primaryIngredient": "shortcrust pastry",
-    "diet": "nut-free",
+    "diet": "nut-free-friendly",
     "region": null,
     "cuisineAdjective": "Jamaican",
     "mainIngredient": "nuts",
     "descriptor": "Smoky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

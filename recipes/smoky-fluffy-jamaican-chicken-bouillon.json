@@ -44,7 +44,8 @@
     "Add cayenne pepper to enhance the smoky flavor without overpowering other spices.",
     "Transfer mixture to an oven-safe dish. You can also pour this directly onto cooked chicken breasts for added moisture and flavor.",
     "Bake in preheated oven for 15 minutes, or until thickened slightly. Stir occasionally during baking.",
-    "Serve immediately as a warm, smoky, and fluffy topping for a meal or side dish."
+    "Serve immediately as a warm, smoky, and fluffy topping for a meal or side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -82,5 +83,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Smoky Fluffy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

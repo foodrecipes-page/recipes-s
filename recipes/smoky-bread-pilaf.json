@@ -46,7 +46,8 @@
     "Add smoked paprika, salt, and black pepper. Bring to a simmer and cook for about 15-20 minutes or until thickened.",
     "Stir in shredded chicken and parmesan cheese. Cook for an additional 3-4 minutes.",
     "Fold in melted butter, stirring well to combine all ingredients.",
-    "Serve warm as a side dish."
+    "Serve warm as a side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "bread flour",
     "descriptor": "Smoky",
     "dishForm": "Bread Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

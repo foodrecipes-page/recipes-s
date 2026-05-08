@@ -2,9 +2,7 @@
   "title": "Silky Nostalgic Vegan Ukrainian Baby Squid Stir-fry",
   "description": "A vegan-friendly and nostalgic take on a traditional Ukrainian dish featuring baby squid, with a touch of sourness to give it a unique twist.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,8 +67,7 @@
   "tags": [
     "ukrainian",
     "stir-fry",
-    "silky",
-    "vegan"
+    "silky"
   ],
   "nutrition": {
     "calories": 267,
@@ -95,5 +92,9 @@
     "mainIngredient": "baby squid",
     "descriptor": "sour silky nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

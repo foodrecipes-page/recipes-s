@@ -82,7 +82,8 @@
     "This dish is perfect for a quick weeknight dinner or a special occasion meal.",
     "It's also a great option for a gluten-free or fodmap-friendly meal plan.",
     "To make ahead, assemble the dish up to the baking step and refrigerate or freeze until ready to bake.",
-    "When ready to serve, bake as instructed and let cool slightly before serving."
+    "When ready to serve, bake as instructed and let cool slightly before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -119,5 +120,9 @@
     "mainIngredient": "polish",
     "descriptor": "shattering quick-fix",
     "dishForm": "dish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

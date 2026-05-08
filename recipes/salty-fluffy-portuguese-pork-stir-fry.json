@@ -2,9 +2,7 @@
   "title": "Salty Fluffy Portuguese Pork Stir-Fry",
   "description": "A gluten-free-friendly solo-dinner dish featuring pork shoulder braised with salty and flavorful ingredients for a fluffy texture.",
   "cuisine": "Portuguese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -65,8 +63,7 @@
   "tags": [
     "portuguese",
     "pork",
-    "fluffy",
-    "gluten-free"
+    "fluffy"
   ],
   "nutrition": {
     "calories": 567,
@@ -91,5 +88,9 @@
     "mainIngredient": "pork",
     "descriptor": "Salty Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

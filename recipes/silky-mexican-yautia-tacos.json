@@ -3,7 +3,6 @@
   "description": "A fermented, silky, and flavorful Mexican dish featuring yautia, perfect for a monsoon evening. This nut-free-friendly recipe is a twist on traditional tacos.",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
     "vegetarian",
     "nut-free"
   ],
@@ -102,5 +101,9 @@
     "mainIngredient": "yautia",
     "descriptor": "fermented silky",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

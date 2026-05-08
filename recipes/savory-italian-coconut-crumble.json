@@ -5,9 +5,7 @@
     "Italian",
     "Plant-Based"
   ],
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -82,5 +80,9 @@
     "mainIngredient": "Coconut",
     "descriptor": "Savory",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

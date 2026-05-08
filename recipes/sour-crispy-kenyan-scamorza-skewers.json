@@ -2,9 +2,7 @@
   "title": "Sour Crispy Kenyan Scamorza Skewers",
   "description": "A sour and crispy post-workout Kenyan dish featuring scamorza, served en-croute and vegan-friendly, grilled to perfection in a raclette-grill.",
   "cuisine": "Kenyan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -92,5 +90,9 @@
     "mainIngredient": "scamorza",
     "descriptor": "Sour crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

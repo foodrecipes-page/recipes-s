@@ -2,9 +2,7 @@
   "title": "Spicy Silky Vegan Irish Potato Stir-fry",
   "description": "This tangy and silky vegan Irish dish features a blend of cider and whisk to create a spicy-savory sauce that complements the creamy mashed potatoes, making it perfect for weeknight dinners.",
   "cuisine": "Irish",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "Potato",
     "descriptor": "Spicy Silky Vegan",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

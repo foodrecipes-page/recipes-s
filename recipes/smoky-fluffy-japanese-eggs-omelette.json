@@ -3,8 +3,6 @@
   "description": "A light, smoky Japanese-style fluffy omelette, perfect as a post-workout snack. The airy texture and subtle smoke flavor pair wonderfully with a protein boost.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
-    "nut-free",
     "high-protein"
   ],
   "meal": "snack",
@@ -55,7 +53,8 @@
     "Pour the egg mixture into the skillet, spreading evenly; cook uncovered until the edges set but the top remains slightly runny (~3‑4 minutes).",
     "Fold the omelette in thirds and continue cooking until the top is fully set but still moist (~2 minutes).",
     "Slide the omelette onto a plate, drizzle with soy sauce, and sprinkle chopped scallions on top.",
-    "Serve immediately while the omelette is still fluffy and warm."
+    "Serve immediately while the omelette is still fluffy and warm.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 10,
@@ -67,9 +66,7 @@
     "snack",
     "smoky",
     "fluffy",
-    "high-protein",
-    "nut-free",
-    "gluten-free"
+    "high-protein"
   ],
   "nutrition": {
     "calories": 245,
@@ -94,5 +91,11 @@
     "mainIngredient": "eggs",
     "descriptor": "Smoky Fluffy",
     "dishForm": "Omelette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-nut-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A creamy, smoky lentil gratin packed with roasted tomatoes, caramelized onions, and a cashewnutritionalyeast crust, perfect for a hearty plantbased dinner.",
   "cuisine": "Croatian",
   "diet": [
-    "vegan",
-    "plant\u2011based"
+    "plant‑based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,8 +62,8 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375\u00b0F (190\u00b0C).",
-    "In a large skillet, heat 1 tbsp olive oil over medium heat and saut\u00e9 the diced onion until translucent, about 5 minutes.",
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tbsp olive oil over medium heat and sauté the diced onion until translucent, about 5 minutes.",
     "Add the minced garlic, smoked paprika, and oregano to the onions; cook for another 1 minute until fragrant.",
     "Stir in the halved cherry tomatoes and cook until they begin to soften, about 3 minutes.",
     "Add the rinsed lentils and vegetable broth to the skillet, bring to a boil, then reduce heat and simmer for 20 minutes, or until lentils are tender.",
@@ -85,8 +84,7 @@
     "roasted",
     "lentil-gratin",
     "plant-based",
-    "croatian",
-    "vegan"
+    "croatian"
   ],
   "nutrition": {
     "calories": 325,
@@ -111,5 +109,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Smoky Roasted",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

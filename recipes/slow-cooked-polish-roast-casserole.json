@@ -3,7 +3,6 @@
   "description": "A hearty, comforting dish featuring beef roast, potatoes, and a hint of red chilli flakes. This Polish-inspired casserole is easy to prepare and perfect for a lazy Sunday.",
   "cuisine": "Polish",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -63,5 +62,9 @@
     "mainIngredient": "roast",
     "descriptor": "slow-cooked",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Smoky Crusty Argentinian Duck Skewers",
   "description": "A festive tandoori-inspired dish featuring argentine-style duck legs that are both fresh and crunchy. This pescatarian-friendly recipe marries the flavors of a traditional Argentinian asado with smoky tandoor techniques for a delightful twist.",
   "cuisine": "Argentinian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -62,7 +60,7 @@
   "instructions": [
     "Combine minced garlic, jalapenos, olive oil, cumin seeds, coriander seeds, smoked paprika, salt, ground cumin, and garam masala in a bowl. Mix well.",
     "Place duck legs on skewers and rub the marinade mixture evenly over all surfaces of the meat.",
-    "Preheat tandoor oven to 250\u00b0C (475\u00b0F) for at least 1 hour before using it to cook the skewers.",
+    "Preheat tandoor oven to 250°C (475°F) for at least 1 hour before using it to cook the skewers.",
     "Once the tandoor is hot, place the skewers inside. Cook until fully cooked and charred, about 30-45 minutes. Monitor seasoning during cooking for desired level of smokiness.",
     "Allow the duck to rest off the skewers before serving with sides like chimichurri sauce or a fresh green salad."
   ],
@@ -100,5 +98,9 @@
     "mainIngredient": "duck",
     "descriptor": "Crunchy Smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

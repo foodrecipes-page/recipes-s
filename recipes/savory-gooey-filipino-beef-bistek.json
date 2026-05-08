@@ -3,7 +3,6 @@
   "description": "A Filipino dish featuring tender beef, gooey liquid cheese, and a savory sauce, all steamed to perfection in a Buddhist-temple-friendly recipe. This fermented beef bistek is a unique twist on traditional Filipino cuisine.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "dairy"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "beef",
     "descriptor": "savory gooey",
     "dishForm": "Bistek"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

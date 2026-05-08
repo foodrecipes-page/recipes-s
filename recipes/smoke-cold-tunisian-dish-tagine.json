@@ -93,7 +93,8 @@
     "Preheat the grill or oven to 400°F (200°C).",
     "Remove the pot from the refrigerator and let it come to room temperature.",
     "Grill or bake the Tagine for 30 minutes, or until the meat is tender and the flavors have melded together.",
-    "Garnish with cilantro and serve with smoked fish (if using)."
+    "Garnish with cilantro and serve with smoked fish (if using).",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 30,
@@ -131,5 +132,9 @@
     "mainIngredient": "dish",
     "descriptor": "smoke-cold",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

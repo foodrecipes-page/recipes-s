@@ -3,8 +3,7 @@
   "description": "A traditional Norwegian dish featuring smoky, velvety dumplings infused with currants, perfect for a hangover cure. This sugar-free-friendly recipe is a unique twist on a classic comfort food.",
   "cuisine": "Norwegian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "currants",
     "descriptor": "smoky velvety",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

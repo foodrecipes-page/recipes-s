@@ -3,7 +3,6 @@
   "description": "This indulgent vegan dish features a sweet and flaky texture made with slow-cooked vegetables in white wine vinegar and spices for added depth.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
     "diabetic-friendly"
   ],
   "meal": "dessert",
@@ -87,5 +86,9 @@
     "mainIngredient": "Vegetable",
     "descriptor": "Sweet & Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

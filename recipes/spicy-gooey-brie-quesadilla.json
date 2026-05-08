@@ -48,8 +48,7 @@
     "spicy",
     "gooey",
     "quesadilla",
-    "brie",
-    "vegan"
+    "brie"
   ],
   "nutrition": {
     "calories": 800,
@@ -74,5 +73,9 @@
     "mainIngredient": "Brie",
     "descriptor": "Spicy Gooey",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

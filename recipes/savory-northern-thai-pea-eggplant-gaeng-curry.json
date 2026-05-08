@@ -62,7 +62,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gaeng-curry",
     "gluten-free",
     "keto-friendly",
@@ -93,5 +92,9 @@
     "mainIngredient": "pea eggplant",
     "descriptor": "Springy Savory",
     "dishForm": "Gaeng Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

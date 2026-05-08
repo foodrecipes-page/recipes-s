@@ -58,7 +58,8 @@
     "Mix soy sauce, ginger, garlic, water chestnuts, and carrots into the liquid. Simmer for about 2 minutes on medium heat until the mixture is slightly thickened.",
     "Pour the sauce evenly over the trout fillets. Bake for about 15-20 minutes or until fish flakes easily with a fork.",
     "Combine celery slices, red bell peppers, and green onions in a separate pan. Sauté for about 5 minutes until vegetables soften slightly.",
-    "Garnish baked trout with sautéed vegetables before serving."
+    "Garnish baked trout with sautéed vegetables before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -90,5 +91,9 @@
     "primaryIngredient": "rainbow trout",
     "diet": "low-carb",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

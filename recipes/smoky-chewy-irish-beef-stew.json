@@ -114,11 +114,15 @@
     "mood": "energizing",
     "technique": "bhuna",
     "primaryIngredient": "apricot jam",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Irish",
     "mainIngredient": "Beef",
     "descriptor": "Smoky Chewy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -83,7 +83,8 @@
     "Transfer the duck legs to a baking sheet and brush with red wine vinegar and lime juice.",
     "Return the duck legs to the grill and cook for an additional 5 minutes on each side.",
     "Garnish with fresh oregano and cilantro.",
-    "Let the duck legs rest for 5 minutes before serving."
+    "Let the duck legs rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -120,5 +121,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "spicy energizing",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -55,7 +55,8 @@
     "Bring the mixture to a simmer and cook for 2-3 minutes, until the liquid has reduced slightly.",
     "Taste and adjust the seasoning as needed.",
     "Serve hot, garnished with chopped green onions if desired.",
-    "Garnish with rice or noodles if preferred."
+    "Garnish with rice or noodles if preferred.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "Kale",
     "descriptor": "Spicy Double-Fried",
     "dishForm": "Hot Pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -33,7 +33,8 @@
     "Add minced garlic to the wok with the onions and cook for another minute until fragrant but not browned.",
     "Gradually add chopped bell peppers into the wok, stirring continuously to prevent burning. Cook until soft, about 3-4 minutes.",
     "Fold in the cooled goose fat pieces and continue cooking for an additional minute. Season with salt and pepper to taste.",
-    "Serve hot as a main dish or side, garnished with fresh herbs if desired."
+    "Serve hot as a main dish or side, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -70,5 +71,9 @@
     "mainIngredient": "Goose Fat",
     "descriptor": "Silky Adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

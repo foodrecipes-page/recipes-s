@@ -61,7 +61,8 @@
     "Add cooled almonds to the same pan and stir-fry over high heat for about 1 minute.",
     "Deglaze the pan with lime juice, adding a splash of lemon juice. Stir in freshly grated ginger.",
     "Return the cooked chicken back into the pan along with any accumulated juices from the wok. Mix well until everything is evenly coated with the sauce and spices.",
-    "Serve immediately while hot."
+    "Serve immediately while hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -97,5 +98,9 @@
     "mainIngredient": "Almond",
     "descriptor": "Floral Silky Show-off",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

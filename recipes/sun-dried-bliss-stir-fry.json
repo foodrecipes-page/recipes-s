@@ -3,7 +3,6 @@
   "description": "A salty, fluffy quick-fix Chinese (Zhejiang) dish featuring sun-dried tomatoes, deglazed with high-protein-friendly ingredients.",
   "cuisine": "Chinese (Zhejiang)",
   "diet": [
-    "vegetarian",
     "high-protein"
   ],
   "meal": "snack",
@@ -42,10 +41,11 @@
     "Roughly chop red bell pepper and green onions, leaving some whole for presentation.",
     "Thinly slice garlic and mince it finely.",
     "Heat a wok or large skillet over medium-high heat. Add chicken strips to the pan and cook until golden brown on both sides. Remove chicken from pan and set aside.",
-    "In the same pan, add sun-dried tomato pieces and water chestnuts along with minced garlic. Saut\u00e9 for about 2 minutes.",
+    "In the same pan, add sun-dried tomato pieces and water chestnuts along with minced garlic. Sauté for about 2 minutes.",
     "Deglaze the pan by pouring in soy sauce and stir well to combine ingredients. Let it simmer until slightly thickened.",
     "Return chicken to the pan and toss everything together gently. Add finely chopped red bell pepper just before serving.",
-    "Serve hot with green onions on top for garnish."
+    "Serve hot with green onions on top for garnish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -76,5 +76,10 @@
     "primaryIngredient": "sun-dried tomatoes",
     "diet": "high-protein",
     "region": "zhejiang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

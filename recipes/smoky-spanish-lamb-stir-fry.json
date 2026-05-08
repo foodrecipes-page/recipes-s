@@ -2,10 +2,7 @@
   "title": "Smoky Spanish Lamb Stir-fry",
   "description": "A vegan-friendly solo-dinner dish featuring crispy lamb in a smoky sauce, perfect for those chilly evenings.",
   "cuisine": "Spanish",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -93,5 +90,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

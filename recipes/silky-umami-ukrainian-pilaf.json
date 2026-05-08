@@ -48,7 +48,8 @@
     "Gradually add rice, ensuring even distribution of broth. Stir occasionally to prevent sticking.",
     "Pour in harissa paste and stir well to evenly coat the rice. Add salt and white pepper according to taste preferences.",
     "Cover the pot with a tight-fitting lid and reduce heat to low. Cook for about 20 minutes or until all liquid is absorbed by the rice.",
-    "Remove from heat and let rest covered for an additional 5-10 minutes before serving."
+    "Remove from heat and let rest covered for an additional 5-10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -86,5 +87,9 @@
     "mainIngredient": "Umami",
     "descriptor": "Silky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A briny and creamy Middle Eastern dish featuring taleggio cheese, served as kibbeh to cure hangovers, with a soffritto base and low glycemic index friendly ingredients.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -59,7 +58,8 @@
     "Using your hands, shape the mixture into small football shapes, about 1 1/2 inches long and 1 inch wide.",
     "Place the kibbeh on a baking sheet lined with parchment paper, leaving about 1 inch of space between each kibbeh.",
     "Bake the kibbeh in the preheated oven for 18 minutes, or until cooked through and lightly browned on the bottom.",
-    "Serve the kibbeh hot, garnished with fresh parsley or cilantro if desired."
+    "Serve the kibbeh hot, garnished with fresh parsley or cilantro if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 18,
@@ -67,7 +67,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "hangover-cure",
     "kibbeh",
     "low-glycemic",
@@ -97,5 +96,10 @@
     "mainIngredient": "taleggio",
     "descriptor": "Savory Creamy",
     "dishForm": "Kibbeh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

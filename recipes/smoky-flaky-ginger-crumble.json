@@ -2,9 +2,7 @@
   "title": "Smoky Flaky Ginger Crumble",
   "description": "An indulgent Middle Eastern dish featuring ginger cordial and a smoky flavor profile that's both gluten-free-friendly and perfect for dessert.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -41,7 +39,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F (175\u00b0C).",
+    "Preheat your oven to 350°F (175°C).",
     "In a mixing bowl, combine the ginger cordial, gluten-free flour blend, almond meal, melted butter, vanilla extract, maple syrup, and cinnamon. Mix until well combined.",
     "Divide the batter into two portions and place each portion on a parchment-lined baking sheet.",
     "Sprinkle sesame seeds evenly over each portion of the batter.",
@@ -55,8 +53,7 @@
   "difficulty": "easy",
   "tags": [
     "smoky-flaky-ginger-crumble",
-    "middle-eastern-dessert",
-    "gluten-free"
+    "middle-eastern-dessert"
   ],
   "nutrition": {
     "calories": 285,
@@ -81,5 +78,9 @@
     "mainIngredient": "Ginger",
     "descriptor": "Smoky Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

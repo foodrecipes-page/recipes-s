@@ -3,8 +3,7 @@
   "description": "A unique Filipino dessert featuring Oreo cream biscuits in a creamy ginataang bilo bilo bake, perfect for a date night, with a floral and crunchy texture, and ayurvedic-sattvic-friendly ingredients.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "oreo cream biscuits",
     "descriptor": "Sweet Sensational",
     "dishForm": "Ginataang Bilo Bilo Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

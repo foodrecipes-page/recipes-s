@@ -2,10 +2,7 @@
   "title": "Sweet Kenyan Rhubarb Tagine",
   "description": "A nutty and indulgent Kenyan dish featuring forced-rhubarb, lacquer-glaze, and dairy-free-friendly ingredients, cooked to perfection in a traditional tagine pot. This sweet and shattering dessert is a must-try for anyone looking to experience the unique flavors of Kenya.",
   "cuisine": "Kenyan",
-  "diet": [
-    "dairy-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -58,10 +55,8 @@
   "difficulty": "medium",
   "tags": [
     "african",
-    "dairy-free",
     "dessert",
     "nutty",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -87,5 +82,10 @@
     "mainIngredient": "rhubarb",
     "descriptor": "shattering sweet",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

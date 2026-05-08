@@ -3,7 +3,6 @@
   "description": "A rich and creamy Portuguese dish featuring high-protein-friendly sesame seed burger buns in a flavorful braising liquid.",
   "cuisine": "Portuguese",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -88,5 +87,9 @@
     "mainIngredient": "Protein",
     "descriptor": "Sesame Seed",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

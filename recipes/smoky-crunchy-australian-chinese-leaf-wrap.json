@@ -3,8 +3,7 @@
   "description": "A smoky, crunchy Australian Chinese-inspired dish featuring Chinese leaf, miso-marinate, and a keto-friendly twist. Perfect for kids and adults alike!",
   "cuisine": "australian-chinese",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "snack",
   "ingredients": [
@@ -115,5 +114,9 @@
     "mainIngredient": "Chinese leaf",
     "descriptor": "Smoky Crunchy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

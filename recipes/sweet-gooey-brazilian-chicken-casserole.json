@@ -60,7 +60,8 @@
     "In a 9x13 inch baking dish, arrange half of the chicken mixture in the bottom of the dish. Top with half of the cheese mixture.",
     "Repeat the layers, starting with the remaining chicken mixture, then the remaining cheese mixture.",
     "Cover the dish with aluminum foil and bake for 25 minutes.",
-    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Sweet Gooey",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

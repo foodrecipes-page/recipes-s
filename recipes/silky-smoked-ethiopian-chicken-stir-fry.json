@@ -2,10 +2,7 @@
   "title": "Silky Smoked Ethiopian Chicken Stir-fry",
   "description": "An earthy and silky solo-dinner ethiopian dish featuring tender chicken thighs in a smoke-infused sauce without eggs.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +95,10 @@
     "mainIngredient": "Chicken thighs",
     "descriptor": "Silky Smoked",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

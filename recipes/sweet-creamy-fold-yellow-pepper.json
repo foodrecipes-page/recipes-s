@@ -38,7 +38,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F.",
+    "Preheat your oven to 350°F.",
     "Slice the yellow bell peppers into strips, about 1/2 inch thick. Season them with salt and pepper on both sides.",
     "In a large skillet or frying pan over medium heat, melt the butter until it starts to foam slightly.",
     "Add the sliced yellow peppers to the melted butter and cook for about 5 minutes, stirring occasionally, until they become tender but still maintain their shape.",
@@ -75,11 +75,15 @@
     "mood": "brunch-mood",
     "technique": "fold",
     "primaryIngredient": "yellow pepper",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "Yellow Pepper",
     "descriptor": "Sweet & Creamy",
     "dishForm": "Fold"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Savory Creamy Mediterranean Chicken Pilaf",
   "description": "A funky and creamy solo dinner dish featuring almond flour and Mediterranean flavors, kosher-friendly and made with a cure, perfect for a weeknight meal.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -65,7 +63,8 @@
     "Bring the mixture to a simmer and cook until the liquid has reduced by half, about 5 minutes.",
     "Transfer the skillet to the preheated oven and bake for 15 minutes.",
     "Remove the skillet from the oven and let it cool for a few minutes before serving.",
-    "Serve the chicken and sauce over cooked rice or pasta, garnished with chopped fresh parsley if desired."
+    "Serve the chicken and sauce over cooked rice or pasta, garnished with chopped fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -103,5 +102,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Savory Creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

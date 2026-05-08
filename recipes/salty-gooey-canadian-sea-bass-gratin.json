@@ -2,9 +2,7 @@
   "title": "Salty Gooey Canadian Sea Bass Gratin",
   "description": "This dish combines the richness of sea bass with the savory flavors of caramelized onions and a gooey, cheesy sauce, all while being gluten-free friendly. It's a perfect, cozy meal for a cold Canadian night.",
   "cuisine": "Canadian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,7 +75,6 @@
   "tags": [
     "canadian-seafood",
     "cheesy-gratin",
-    "gluten-free",
     "sea-bass",
     "comfort-food"
   ],
@@ -104,5 +101,9 @@
     "mainIngredient": "sea bass",
     "descriptor": "salty gooey",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

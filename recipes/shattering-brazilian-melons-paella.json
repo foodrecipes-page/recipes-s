@@ -2,9 +2,7 @@
   "title": "Shattering Brazilian Melons Paella",
   "description": "A savory, show-off Brazilian dish featuring juicy melons and crispy, score-fat components.",
   "cuisine": "Brazilian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -71,7 +69,8 @@
     "Stir to combine and bring to a boil.",
     "Reduce heat to low and simmer, covered, for 20 minutes.",
     "Remove the lid and stir in the cooked chorizo.",
-    "Return the paella to the oven and cook, uncovered, at 400°F (200°C) for 10-15 minutes, or until the top is lightly browned and crunchy."
+    "Return the paella to the oven and cook, uncovered, at 400°F (200°C) for 10-15 minutes, or until the top is lightly browned and crunchy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -108,5 +107,10 @@
     "mainIngredient": "melons",
     "descriptor": "shattering",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

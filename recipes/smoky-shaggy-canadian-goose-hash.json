@@ -57,7 +57,8 @@
     "Add the diced bell pepper to the skillet and cook until it is tender.",
     "Once the potatoes are done roasting, add them to the skillet with the onion and bell pepper mixture.",
     "Stir in the chopped fresh parsley and cook for an additional 1-2 minutes.",
-    "Serve the smoky shaggy Canadian goose hash hot, garnished with additional parsley if desired."
+    "Serve the smoky shaggy Canadian goose hash hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "goose",
     "descriptor": "Smoky Shaggy",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -58,7 +58,9 @@
     "Fold in ground beef or chicken, cook until browned, then add salt and pepper to taste.",
     "Pour in vanilla bean paste and soy sauce, mix well to combine all ingredients.",
     "Gently fold dumplings into the mixture. Cover and let simmer for about 5 minutes.",
-    "Serve hot with a side of fresh fruit or toast."
+    "Serve hot with a side of fresh fruit or toast.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -94,5 +96,10 @@
     "mainIngredient": "dum",
     "descriptor": "Spicy Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

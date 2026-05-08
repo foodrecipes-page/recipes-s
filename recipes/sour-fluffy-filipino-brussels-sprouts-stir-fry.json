@@ -61,7 +61,8 @@
     "In another pan, heat soy sauce and tamarind paste together with a little water or broth if needed to dissolve the tamarind paste (it should be smooth).",
     "Return the cooled vegetables to the wok along with the sauce mixture. Stir-fry for about 5 minutes until the veggies are tender yet crunchy.",
     "Stir in cornstarch mixed with water, and simmer until the sauce thickens slightly.",
-    "Serve hot as a side dish or over rice."
+    "Serve hot as a side dish or over rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "Brussels Sprouts",
     "descriptor": "Sour Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

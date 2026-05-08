@@ -2,9 +2,7 @@
   "title": "Sweet Smoky American Dried Apricots Tart",
   "description": "A unique dessert that combines the sweetness of dried apricots with a smoky lacquer glaze, perfect for a sweet treat.",
   "cuisine": "American",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -79,7 +77,6 @@
     "dessert",
     "easy-to-make",
     "tart",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +102,9 @@
     "mainIngredient": "dried apricots",
     "descriptor": "Sweet Smoky",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

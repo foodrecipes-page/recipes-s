@@ -2,10 +2,7 @@
   "title": "Savory Gooey Thai Almond Stir-fry",
   "description": "A savory and gooey Thai-inspired dish featuring almond extract to add a unique nutty flavor in a quick weeknight dinner option that's also vegan-friendly.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,8 +64,7 @@
   "tags": [
     "savory",
     "gooey",
-    "thai-almond-stir-fry",
-    "vegan"
+    "thai-almond-stir-fry"
   ],
   "nutrition": {
     "calories": 300,
@@ -93,5 +89,10 @@
     "mainIngredient": "Almonds",
     "descriptor": "Savory Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

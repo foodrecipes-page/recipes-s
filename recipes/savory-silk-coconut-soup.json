@@ -3,7 +3,6 @@
   "description": "A silky, salty, egg-free Brazilian dish that's perfect for hangovers and prepared using sous-vide technology to achieve a smooth texture.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegan",
     "egg-free"
   ],
   "meal": "dinner",
@@ -58,7 +57,8 @@
     "While it cooks, combine coconut milk and heavy cream in a blender. Blend until smooth.",
     "When done, let the soup cool to room temperature before blending with the coconut mixture.",
     "Strain the blended soup through a fine-mesh sieve into serving bowls.",
-    "Serve immediately for best texture."
+    "Serve immediately for best texture.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -95,5 +95,10 @@
     "mainIngredient": "Coconut",
     "descriptor": "Savory Silk",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

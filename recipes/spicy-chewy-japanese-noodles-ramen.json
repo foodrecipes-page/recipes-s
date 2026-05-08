@@ -3,7 +3,6 @@
   "description": "A crowdpleasing ramen with hearty chewy noodles, a fiery pico de gallo sauce, and a savory miso broth, all dairyfree and packed with fresh veggies.",
   "cuisine": "Japanese",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -15,7 +14,7 @@
     {
       "name": "vegetable broth",
       "amount": "1 L",
-      "notes": "dairy\u2011free, low sodium if preferred"
+      "notes": "dairy‑free, low sodium if preferred"
     },
     {
       "name": "miso paste (brown or red)",
@@ -30,7 +29,7 @@
     {
       "name": "sesame oil",
       "amount": "1 tsp",
-      "notes": "to saut\u00e9 aromatics"
+      "notes": "to sauté aromatics"
     },
     {
       "name": "shiitake mushrooms, sliced",
@@ -45,7 +44,7 @@
       "amount": "2 tbsp"
     },
     {
-      "name": "pico de gallo (fresh or pre\u2011made)",
+      "name": "pico de gallo (fresh or pre‑made)",
       "amount": "1 cup"
     },
     {
@@ -64,8 +63,8 @@
   "instructions": [
     "1. In a medium pot, bring the vegetable broth to a simmer and stir in miso paste until fully dissolved.",
     "2. Add the sliced shiitake mushrooms and cook for 3 minutes, then stir in bok choy and cook for an additional 2 minutes until slightly softened.",
-    "3. While the broth is simmering, heat a small pan with sesame oil, garlic, and ginger; saut\u00e9 for 1 minute until fragrant.",
-    "4. Add the saut\u00e9ed aromatics to the broth and bring back to a gentle simmer.",
+    "3. While the broth is simmering, heat a small pan with sesame oil, garlic, and ginger; sauté for 1 minute until fragrant.",
+    "4. Add the sautéed aromatics to the broth and bring back to a gentle simmer.",
     "5. In a separate pot, cook the ramen noodles according to package instructions, then drain and set aside.",
     "6. Transfer the cooked noodles to bowls, pour the hot broth over them, and top with sliced green onions and toasted sesame seeds.",
     "7. Spoon generous amounts of pico de gallo over the noodles, then drizzle with sriracha or chili garlic sauce for extra heat.",
@@ -103,5 +102,9 @@
   "tags": [
     "japanese",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
   ]
 }

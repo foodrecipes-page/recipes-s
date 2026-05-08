@@ -69,7 +69,8 @@
     "Simmer all ingredients together until vegetables are tender, about 20-30 minutes.",
     "Blend the soup until smooth in batches using an immersion blender or regular blender, adding back any seasoning as it blends. If necessary, return to simmering and blend again.",
     "Thicken the blended soup by mixing cornstarch with a small amount of hot water, then stir into the pot and let cook for another minute to thicken slightly.",
-    "Serve warm in bowls."
+    "Serve warm in bowls.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -105,5 +106,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Silky Smoky",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

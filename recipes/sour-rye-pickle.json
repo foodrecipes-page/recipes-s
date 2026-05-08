@@ -3,8 +3,7 @@
   "description": "A comforting Canadian dish with a tangy and crunchy texture, made with sour rye bread and a hint of yeast. Perfect for a quick snack or side dish.",
   "cuisine": "Canadian",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "snack",
   "ingredients": [
@@ -31,13 +30,12 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 0,
-  "totalTimeMin": 48,
+  "totalTimeMin": 30,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "canadian",
     "easy-to-make",
-    "gluten-free",
     "keto",
     "quick-meal",
     "snack"
@@ -65,5 +63,10 @@
     "mainIngredient": "rye",
     "descriptor": "sour and zesty",
     "dishForm": "Pickle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

@@ -59,7 +59,8 @@
     "Add the uncooked jasmine rice and cook for 1-2 minutes, or until lightly toasted.",
     "Add the low-sodium chicken broth, white wine, melted unsalted butter, salt, and black pepper. Bring to a boil.",
     "Reduce heat to low, cover, and simmer for 18-20 minutes, or until the liquid is absorbed and the rice is tender.",
-    "Fluff the rice with a fork and serve hot."
+    "Fluff the rice with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -98,5 +99,9 @@
     "mainIngredient": "rice",
     "descriptor": "Soft, Sweet",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A sweet and festive Turkish dish featuring ground allspice, toasted bread, and a dairy-free friendly twist. Perfect for a snack or dessert, this treat is sure to delight.",
   "cuisine": "Turkish",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -65,8 +64,7 @@
     "sweet",
     "velvety",
     "toasted",
-    "bread",
-    "dairy-free"
+    "bread"
   ],
   "nutrition": {
     "calories": 220,
@@ -91,5 +89,9 @@
     "mainIngredient": "bread",
     "descriptor": "sweet velvety",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A flavorful and spicy Malaysian dish made with marinated chicken, rich with coconut milk and served with crunchy peanut sauce. Perfect for a sick-day treat.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegan-friendly",
-    "gluten-free"
+    "vegan-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -111,11 +110,16 @@
     "mood": "sick-day",
     "technique": "broil",
     "primaryIngredient": "dark soy sauce",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Malaysian",
     "mainIngredient": "chicken",
     "descriptor": "spicy, crumbly",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

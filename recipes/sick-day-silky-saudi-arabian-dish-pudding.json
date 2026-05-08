@@ -4,8 +4,7 @@
   "cuisine": "Saudi-Arabian",
   "diet": [
     "Whole30",
-    "Gluten-Free",
-    "Dairy-Free"
+    "Gluten-Free"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -82,7 +81,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "dessert",
     "gluten-free",
     "high-fat",
@@ -113,5 +111,9 @@
     "mainIngredient": "dish",
     "descriptor": "sick-day silky",
     "dishForm": "pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

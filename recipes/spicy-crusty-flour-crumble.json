@@ -89,11 +89,15 @@
     "mood": "sick-day",
     "technique": "simmer",
     "primaryIngredient": "malai",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Indian",
     "mainIngredient": "flour",
     "descriptor": "Spicy",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

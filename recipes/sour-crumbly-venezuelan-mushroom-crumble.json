@@ -48,7 +48,7 @@
   ],
   "instructions": [
     "Preheat crockpot to low.",
-    "Mince the onion finely, then saut\u00e9 with minced garlic in a bit of olive oil until translucent.",
+    "Mince the onion finely, then sauté with minced garlic in a bit of olive oil until translucent.",
     "Add tomato paste and cook for 2 minutes more. Stir in red wine vinegar and coconut sugar. Let it simmer for about 5 minutes, scraping any bits off bottom of pot.",
     "Place mushrooms over vegetable mixture in crockpot. Pour almond milk or water around them to cover fully but not drown the mushrooms.",
     "Stir in sour cream until completely incorporated. Season with salt and pepper if needed. Cover and cook on low for 6-8 hours (or overnight) until tender.",
@@ -56,7 +56,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 72,
+  "totalTimeMin": 15,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -88,5 +88,9 @@
     "mainIngredient": "Mushroom",
     "descriptor": "sour crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

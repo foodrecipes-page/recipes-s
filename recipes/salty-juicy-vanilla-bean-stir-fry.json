@@ -3,7 +3,6 @@
   "description": "A midnight-craving Ukrainian dish featuring vanilla beans for a unique twist, simmered to perfection and suitable for vegetarians.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dinner",
@@ -92,5 +91,9 @@
     "mainIngredient": "Vanilla Bean",
     "descriptor": "Salty Juicy Midnight Craving",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

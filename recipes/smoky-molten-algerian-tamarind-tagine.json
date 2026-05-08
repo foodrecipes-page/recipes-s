@@ -84,7 +84,8 @@
     "Fill each corn husk with 1/4 cup of cooked rice, 1/4 cup of the spice mixture with chicken, and a tablespoon of olive oil.",
     "Fold the corn husks to form a papillote and tie with kitchen twine.",
     "Place the papillotes on a baking sheet lined with parchment paper.",
-    "Bake in a preheated oven at 400°F (200°C) for 20-25 minutes, or until the corn husks are tender and the filling is hot and molten."
+    "Bake in a preheated oven at 400°F (200°C) for 20-25 minutes, or until the corn husks are tender and the filling is hot and molten.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -121,5 +122,9 @@
     "mainIngredient": "tamarind",
     "descriptor": "smoky molten",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

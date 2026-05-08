@@ -4,8 +4,7 @@
   "cuisine": "Greek",
   "diet": [
     "Whole30",
-    "Gluten-free",
-    "Dairy-free"
+    "Gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -76,7 +75,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "greek-cuisine",
     "one-pan",
@@ -106,5 +104,9 @@
     "mainIngredient": "seafood",
     "descriptor": "Savory Seafood",
     "dishForm": "Saganaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

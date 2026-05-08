@@ -2,10 +2,7 @@
   "title": "Savory Crisp Croatian Chorizo Stir-fry",
   "description": "A quick and easy meal-prep dish featuring crispy chorizo, bhuna-style vegetables, and a vegetarian-friendly twist for a satisfying mid-day snack or light meal.",
   "cuisine": "Croatian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -92,5 +89,10 @@
     "mainIngredient": "Chorizo",
     "descriptor": "Savory Crisp",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -41,7 +41,8 @@
     "Add soy sauce, water, olive oil, salt, and pepper to the bowl. Stir to combine evenly.",
     "Transfer the mixture onto a non-stick skillet over medium heat.",
     "Cook the crumble for about 10-12 minutes or until it forms large, golden-brown pieces.",
-    "Remove from heat and let cool before serving."
+    "Remove from heat and let cool before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 10,
@@ -73,5 +74,9 @@
     "primaryIngredient": "chicken bouillon powder",
     "diet": "nut-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

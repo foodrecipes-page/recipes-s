@@ -4,7 +4,6 @@
   "cuisine": "Middle Eastern",
   "diet": [
     "whole30",
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -70,8 +69,7 @@
     "middle-eastern",
     "lamb",
     "flatbread",
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "nutrition": {
     "calories": 420,
@@ -96,5 +94,9 @@
     "mainIngredient": "lamb",
     "descriptor": "spicy fluffy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fermented, gooey, midnight-craving Italian dish featuring vegan white wine vinegar and ferment-jang, jain-friendly.",
   "cuisine": "Italian",
   "diet": [
-    "vegan",
     "jain"
   ],
   "meal": "dinner",
@@ -91,5 +90,9 @@
     "mainIngredient": "cheese",
     "descriptor": "sticky savory",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

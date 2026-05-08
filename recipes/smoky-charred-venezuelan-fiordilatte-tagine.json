@@ -3,7 +3,6 @@
   "description": "A unique tagine dish featuring smoked fiordilatte, fermented kimchi, and a blend of Venezuelan spices.",
   "cuisine": "Venezuelan",
   "diet": [
-    "vegan",
     "gluten-free",
     "sattvic"
   ],
@@ -110,5 +109,9 @@
     "mainIngredient": "Fiordilatte",
     "descriptor": "Smoky Charred",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

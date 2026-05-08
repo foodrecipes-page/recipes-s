@@ -2,9 +2,7 @@
   "title": "Show Off Canadian Pecan Stir-fry",
   "description": "A rich and gooey dish featuring a sugar syrup braising technique to create a show-off Canadian pecan stir-fry that is dairy-free-friendly.",
   "cuisine": "Canadian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -82,5 +80,9 @@
     "mainIngredient": "pecans",
     "descriptor": "Rich Gooey Show Off",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

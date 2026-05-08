@@ -2,9 +2,7 @@
   "title": "Savory Spanish Chorizo Empanadas",
   "description": "A savory, crumbly Spanish dish featuring chorizo and wholegrain mustard, perfect for satisfying midnight cravings. These empanadas are gluten-free-friendly and can be broiled to perfection.",
   "cuisine": "Spanish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "spanish-food",
-    "gluten-free",
     "empanadas",
     "chorizo",
     "savory-pastry"
@@ -92,5 +89,9 @@
     "mainIngredient": "chorizo",
     "descriptor": "Savory Crumbly",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

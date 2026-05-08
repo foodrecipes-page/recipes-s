@@ -3,7 +3,6 @@
   "description": "A comfort food dish featuring crispy filo pastry and tender lamb dumplings, perfect for a sick day. This recipe is low-glycemic-friendly and can be adjusted to suit your dietary needs.",
   "cuisine": "Syrian",
   "diet": [
-    "gluten-free",
     "dairy-free",
     "low-glycemic"
   ],
@@ -71,7 +70,6 @@
   "tags": [
     "comfort-food",
     "dairy-free",
-    "gluten-free",
     "low-glycemic",
     "one-pan",
     "syrian",
@@ -100,5 +98,9 @@
     "mainIngredient": "lamb",
     "descriptor": "sick-day",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

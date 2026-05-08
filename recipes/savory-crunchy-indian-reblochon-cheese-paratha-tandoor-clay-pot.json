@@ -42,7 +42,8 @@
     "Mix all ingredients to form a dough.",
     "Roll the dough into paratha-sized circles and place them in tandoor clay-pot.",
     "Cook on medium heat for 30 minutes, turning once.",
-    "Garnish with pickled daikon radish before serving."
+    "Garnish with pickled daikon radish before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 60,
@@ -79,5 +80,9 @@
     "mainIngredient": "Reblochon Cheese",
     "descriptor": "Savory Crunchy",
     "dishForm": "Paratha Tandoor Clay-Pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

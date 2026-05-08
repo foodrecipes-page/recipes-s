@@ -3,8 +3,7 @@
   "description": "A hearty, smoky lentil stew infused with tarragon leaves and a subtle fermented note, perfect for a comforting Algerian dinner.",
   "cuisine": "Algerian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -83,7 +82,6 @@
     "smoky",
     "dense",
     "vegetarian",
-    "gluten-free",
     "comfort-food",
     "simple-ingredients",
     "warm-dinner"
@@ -111,5 +109,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Smoky Dense",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

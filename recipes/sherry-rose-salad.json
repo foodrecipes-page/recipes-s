@@ -3,7 +3,6 @@
   "description": "A floral and juicy Ethiopian-inspired dish featuring sherry vinegar, high-protein-friendly with a touch of spices for added depth.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegan",
     "low-sodium"
   ],
   "meal": "lunch",
@@ -94,5 +93,9 @@
     "primaryIngredient": "sherry vinegar",
     "diet": "high-protein",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

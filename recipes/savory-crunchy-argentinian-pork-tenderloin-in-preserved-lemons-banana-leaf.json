@@ -37,7 +37,9 @@
     "Place mixture over top of pork slices, ensuring they are fully covered. Arrange lemon halves on top for extra flavoring.",
     "Place baking sheet in preheated oven and bake for 20 minutes. Rotate the sheet halfway through cooking time to ensure even browning.",
     "Remove from oven, let cool slightly before serving. Serve with a side of sweet potato mash or quinoa salad.",
-    "Dust slices with additional kosher salt and pepper just before serving if desired."
+    "Dust slices with additional kosher salt and pepper just before serving if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -73,5 +75,10 @@
     "mainIngredient": "Beef",
     "descriptor": "Savory Crunchy",
     "dishForm": "Pork Tenderloin in Preserved Lemons"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

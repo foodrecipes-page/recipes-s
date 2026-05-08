@@ -62,7 +62,8 @@
     "Pour in chicken broth and bring to a boil. Add cooked chicken back into the pot with any juices remaining from cooking.",
     "Reduce heat to low, cover, and simmer until chicken is tender, about 15 minutes.",
     "Stir in coconut milk and lemon juice. Simmer for an additional 5-7 minutes or until mixture thickens slightly.",
-    "Serve hot."
+    "Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -99,5 +100,9 @@
     "mainIngredient": "coconut",
     "descriptor": "Smoke-Hot",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

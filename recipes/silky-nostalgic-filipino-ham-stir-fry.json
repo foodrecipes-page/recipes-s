@@ -3,8 +3,7 @@
   "description": "A floral and silky low-carb-friendly dish featuring ham with a touch of nostalgia suitable for breakfast or light meals.",
   "cuisine": "Filipino",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -86,5 +85,9 @@
     "mainIngredient": "Ham",
     "descriptor": "Silky Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

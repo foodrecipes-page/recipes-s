@@ -64,7 +64,8 @@
     "Transfer the mixture to a 9x13-inch baking dish and top with breadcrumbs.",
     "Bake in a preheated oven at 375°F for 25-30 minutes, until the top is golden brown and the mixture is hot and bubbly.",
     "Serve hot, garnished with chopped fresh parsley or cilantro, if desired.",
-    "Let the mixture rest for 5 minutes before serving to allow the flavors to meld together."
+    "Let the mixture rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -102,5 +103,9 @@
     "mainIngredient": "mixture powder",
     "descriptor": "Smoky Slate-Tile Baked",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

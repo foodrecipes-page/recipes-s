@@ -55,7 +55,8 @@
     "Stir in finely chopped coriander leaves and mix well.",
     "Add cumin seeds, coriander seeds, and green chilies. Tadka (tempering) can be done by heating oil and adding these spices on high heat for a few seconds before adding them to the main dish.",
     "Simmer until all liquids are absorbed, adjusting seasoning as needed.",
-    "Serve hot with crusty bread or rice."
+    "Serve hot with crusty bread or rice.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "lemon pepper",
     "descriptor": "Salty Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

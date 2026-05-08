@@ -2,9 +2,7 @@
   "title": "Savory Sweet French Almond Wrap",
   "description": "A garlicky and chewy French dish featuring almond essence, inspired by the cuisine of Brittany, wrapped in a gluten-free friendly ssam-wrap.",
   "cuisine": "French",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -58,7 +56,6 @@
   "tags": [
     "almond-based",
     "french-cuisine",
-    "gluten-free",
     "lunch-ideas",
     "wrap-recipes"
   ],
@@ -85,5 +82,9 @@
     "mainIngredient": "almonds",
     "descriptor": "savory sweet",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

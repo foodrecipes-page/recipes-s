@@ -2,9 +2,7 @@
   "title": "sick-day indian gobi aloo gobi",
   "description": "a comforting, mustardy indian dish featuring the pillowy goodness of potatoes and cauliflower in a chicken-based broth. perfect for a sick day when you need a gentle, easy-to-swallow meal.",
   "cuisine": "indian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,7 +70,8 @@
     "add 2 cups of water, and bring the mixture to a boil.",
     "reduce the heat to low, cover, and simmer for 15 minutes, or until the vegetables are tender.",
     "stir in the sugar from the candy to balance the heat and flavor.",
-    "season with salt to taste, and serve hot."
+    "season with salt to taste, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -110,5 +109,10 @@
     "mainIngredient": "gobi",
     "descriptor": "Sick-Day",
     "dishForm": "Aloo Gobi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

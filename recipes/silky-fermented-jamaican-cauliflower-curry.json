@@ -3,7 +3,6 @@
   "description": "A probiotic-rich, silky cauliflower curry infused with Jamaican spices and fermented coconut milk, perfect for a protein-packed weeknight dinner.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "high-protein"
   ],
   "meal": "dinner",
@@ -80,7 +79,6 @@
     "fermented",
     "cauliflower-curry",
     "jamaican",
-    "vegan",
     "high-protein",
     "weeknight",
     "silky"
@@ -108,5 +106,9 @@
     "mainIngredient": "cauliflower",
     "descriptor": "Silky Fermented",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Savory Crispy Turkish Lamb Stir-fry",
   "description": "A post-workout-friendly dish featuring tender lamb cubes cooked with aromatic spices in a crispy bhuna sauce for a burst of flavor and texture.",
   "cuisine": "Turkish",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -90,5 +88,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Savory Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

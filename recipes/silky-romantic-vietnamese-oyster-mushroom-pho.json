@@ -3,9 +3,7 @@
   "description": "A plant-based, herbal, and silky Vietnamese dish featuring oyster mushrooms, perfect for a romantic evening. This pho is pressure-cooked to bring out the deep flavors of the mushrooms and spices.",
   "cuisine": "Vietnamese",
   "diet": [
-    "plant-based",
-    "vegan",
-    "vegetarian"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -107,5 +105,10 @@
     "mainIngredient": "oyster mushrooms",
     "descriptor": "silky romantic",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

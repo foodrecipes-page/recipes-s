@@ -55,11 +55,12 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375\u00b0F (190\u00b0C). Season the pork chops with salt and pepper on both sides.",
+    "Preheat your oven to 375°F (190°C). Season the pork chops with salt and pepper on both sides.",
     "In a small bowl, mix together cornstarch, Dijon mustard, apple cider vinegar, and honey. Slowly pour in olive oil while stirring until fully combined into a smooth glaze.",
     "Heat some olive oil in a skillet over medium heat. Once hot, add the pork chops skin-side down for about 4 minutes or until they develop a nice sear. Flip and brush with the prepared glaze mixture.",
     "Transfer the skillet to your preheated oven and continue baking for approximately 20-30 minutes, flipping halfway through cooking time to ensure even browning on all sides.",
-    "Once done, remove from oven and let rest for a few minutes before slicing into individual pieces. Serve hot with steamed vegetables or side salad."
+    "Once done, remove from oven and let rest for a few minutes before slicing into individual pieces. Serve hot with steamed vegetables or side salad.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "pork",
     "descriptor": "Sour Chewy",
     "dishForm": "Chops"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }
