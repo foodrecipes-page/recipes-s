@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Sweet American Corn Skillet",
+  "description": "A festive American dish featuring charred and bouncy corn, this skillet is perfect for any occasion, made with cornstarch and a tadka for added flavor, and is gluten-free friendly.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the corn kernels and cook until they are lightly charred, stirring occasionally.",
+    "In a small bowl, whisk together the cornstarch, smoked paprika, salt, black pepper, and chili powder.",
+    "Add the cornstarch mixture to the skillet and stir to combine, cooking for an additional 2 minutes.",
+    "Squeeze the lime juice over the top of the corn mixture and stir to combine.",
+    "Reduce the heat to medium-low and simmer the mixture for 5 minutes, stirring occasionally, until the corn is tender and the liquid has thickened.",
+    "Remove the skillet from the heat and let it cool for a few minutes before serving.",
+    "Serve the smoky sweet corn skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "gluten-free",
+    "one-pan",
+    "smoky",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "smoky-sweet-american-corn-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-sweet-american-corn-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:02:51Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "cornstarch",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "corn",
+    "descriptor": "Smoky Sweet",
+    "dishForm": "Skillet"
+  }
+}
