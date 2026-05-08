@@ -1,0 +1,100 @@
+{
+  "title": "smoke-hot german lentils stew",
+  "description": "a pungent, glassy-jelly, quick-fix german dish featuring dried chillies, smoke-hot, flexitarian-friendly",
+  "cuisine": "german",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils, brown",
+      "amount": "250g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "4"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large pot over medium heat",
+    "add the onion and sauté until softened",
+    "add the garlic and sauté for 1 minute",
+    "add the smoked paprika and dried chillies and sauté for 1 minute",
+    "add the lentils, vegetable broth, bay leaves, caraway seeds and red wine vinegar",
+    "bring to the boil, then reduce the heat to low and simmer for 20 minutes",
+    "season with salt and pepper to taste",
+    "serve hot, garnished with chopped fresh parsley",
+    "serve with rye bread or over mashed potatoes"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "smoke-hot-german-lentils-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-german-lentils-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:53:41Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "smoke-hot",
+    "primaryIngredient": "dried chillies",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "lentils",
+    "descriptor": "smoke-hot",
+    "dishForm": "Stew"
+  }
+}
