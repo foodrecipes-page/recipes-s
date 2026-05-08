@@ -1,0 +1,107 @@
+{
+  "title": "Savory Creamy Mediterranean Chicken Pilaf",
+  "description": "A funky and creamy solo dinner dish featuring almond flour and Mediterranean flavors, kosher-friendly and made with a cure, perfect for a weeknight meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the chicken with almond flour to coat.",
+    "Heat olive oil in a large skillet over medium high heat and cook the chicken until browned, about 5 minutes.",
+    "Add onion and garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add chicken broth, heavy cream, feta cheese, oregano, salt, and pepper to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving.",
+    "Serve the chicken and sauce over cooked rice or pasta, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-sauce",
+    "high-protein",
+    "kosher-friendly",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "savory-creamy-mediterranean-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-creamy-mediterranean-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:23:40Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "almond flour",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Savory Creamy",
+    "dishForm": "Pilaf"
+  }
+}

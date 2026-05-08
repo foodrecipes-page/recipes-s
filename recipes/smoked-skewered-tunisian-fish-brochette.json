@@ -1,0 +1,107 @@
+{
+  "title": "smoked skewered tunisian fish brochette",
+  "description": "a quick, flavorful and refreshing dish made with smoked fish, fragrant herbs and citrusy lemon.",
+  "cuisine": "north african",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked mackerel fillets",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "flat-leaf parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the binchotan grill to medium-high heat.",
+    "soak 12 bamboo skewers in water for at least 30 minutes.",
+    "thread the smoked mackerel, red onion, red bell pepper, parsley and mint leaves onto the skewers.",
+    "brush the skewers with olive oil and season with salt and black pepper.",
+    " Grill the skewers for 2-3 minutes per side, or until cooked through.",
+    "serve the skewers hot with a squeeze of lemon and a dollop of tahini."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "grilled",
+    "jain",
+    "north-african",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "smoked-skewered-tunisian-fish-brochette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-skewered-tunisian-fish-brochette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:23:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "lemon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "Smoked Skewered",
+    "dishForm": "Brochette"
+  }
+}
