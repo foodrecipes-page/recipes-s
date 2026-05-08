@@ -1,0 +1,105 @@
+{
+  "title": "Smoky Roasted Dutch Soya Roast",
+  "description": "A hearty and earthy Dutch dish featuring soya milk and roast, perfect for a low-carb dinner option, evoking nostalgic feelings with its crunchy texture and smoky flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together soya milk, olive oil, smoked paprika, garlic powder, salt, and pepper.",
+    "Add the chopped onion, sliced mushrooms, and cauliflower florets to the bowl and toss to coat with the soya milk mixture.",
+    "Spread the mixture out in a single layer on a large baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 30 minutes, stirring occasionally.",
+    "Remove the baking sheet from the oven and sprinkle the grated grana padano cheese over the top.",
+    "Return the baking sheet to the oven and continue roasting for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the Smoky Roasted Dutch Soya Roast from the oven and let it cool for a few minutes before serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "low-carb",
+    "roasted-vegetables",
+    "smoky-flavors",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "smoky-roasted-dutch-soya-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-dutch-soya-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:18:25Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "roast",
+    "primaryIngredient": "soya milk",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "soya",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Roast"
+  }
+}
