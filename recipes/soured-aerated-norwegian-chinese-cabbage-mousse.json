@@ -1,0 +1,97 @@
+{
+  "title": "Soured Aerated Norwegian Chinese Cabbage Mousse",
+  "description": "A delicate fusion of traditional Norwegian fermentation and Japanese mushimono techniques resulting in a light, cloud-like vegetable mousse.",
+  "cuisine": "Norwegian-Asian Fusion",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free",
+    "Flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese Cabbage",
+      "amount": "500g",
+      "notes": "Finely shredded"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "10g",
+      "notes": "Non-iodized for fermentation"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "4 large",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "100ml",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp",
+      "notes": "Toasted and crushed"
+    },
+    {
+      "name": "White Miso Paste",
+      "amount": "1 tbsp",
+      "notes": "For depth of flavor"
+    },
+    {
+      "name": "Water",
+      "amount": "50ml",
+      "notes": "For the steamer"
+    }
+  ],
+  "instructions": [
+    "Toss the shredded cabbage with salt and let it ferment in a vacuum bag for 48 hours at room temperature.",
+    "Drain the fermented cabbage thoroughly and squeeze out all excess moisture.",
+    "Puree the soured cabbage with the miso paste and heavy cream until completely smooth.",
+    "Pass the cabbage mixture through a fine-mesh sieve to ensure a silky texture.",
+    "Whisk the egg whites in a clean bowl until they reach stiff peaks.",
+    "Gently fold the cabbage puree into the egg whites using a rubber spatula to maintain aeration.",
+    "Divide the mixture into four ceramic ramekins and cover each with foil.",
+    "Place the ramekins in a steamer basket over simmering water.",
+    "Steam the mousse gently for 12 minutes until set but still jiggly.",
+    "Garnish with crushed caraway seeds and serve immediately while warm."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "fusion",
+    "light",
+    "norwegian-inspired",
+    "savory-mousse",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 8,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "soured-aerated-norwegian-chinese-cabbage-mousse",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/soured-aerated-norwegian-chinese-cabbage-mousse",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T07:45:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Chinese Cabbage",
+    "descriptor": "Soured Aerated",
+    "dishForm": "Mousse"
+  }
+}
