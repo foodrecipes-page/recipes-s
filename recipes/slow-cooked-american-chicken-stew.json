@@ -1,0 +1,110 @@
+{
+  "title": "Slow Cooked American Chicken Stew",
+  "description": "A hearty and citrusy stew featuring fresh thyme, perfect for a lazy Sunday, made in a traditional kazan cauldron and shaped like nigiri for a fun twist, this dish is paleo friendly.",
+  "cuisine": "American",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the kazan cauldron over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and celery and cook for 5 minutes.",
+    "Add the chicken to the cauldron and cook until it is browned on all sides.",
+    "Add the chicken broth, lemon juice, salt, and black pepper to the cauldron and stir to combine.",
+    "Reduce the heat to low and simmer the stew for 6 hours.",
+    "Stir in the chopped fresh thyme.",
+    "Use two spoons to shape the stew into nigiri shapes.",
+    "Serve the stew hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "lazy-sunday",
+    "one-pot",
+    "paleo-friendly",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "slow-cooked-american-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-american-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:34:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "fresh thyme",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Slow cooked",
+    "dishForm": "Stew"
+  }
+}
