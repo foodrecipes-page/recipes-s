@@ -1,0 +1,111 @@
+{
+  "title": "springy quick australian lamb bake",
+  "description": "A light and malty brunch dish from Australia featuring lamb shanks, flambe, and a low-glycemic twist.",
+  "cuisine": "australian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4-6",
+      "notes": "bone-in, 1.5-2 pounds total"
+    },
+    {
+      "name": "barbecue sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a light hand"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "flambe brandy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sliced red onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb shanks with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned, then set them aside.",
+    "Add the sliced red onion to the pot and cook until softened.",
+    "Add the barbecue sauce, brown sugar, flour, beef broth, red wine, and thyme to the pot.",
+    "Return the lamb shanks to the pot and bring the mixture to a simmer.",
+    "Transfer the pot to the preheated oven and cook for 20 minutes.",
+    "Remove the pot from the oven and carefully flambe the mixture with the brandy.",
+    "Return the pot to the oven and continue cooking for an additional 10-15 minutes.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Sprinkle the chopped parsley over the top of the lamb shanks and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "breakfast",
+    "brunch",
+    "flambe",
+    "gluten-free",
+    "lamb",
+    "low-glycemic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 17,
+    "fat": 35
+  },
+  "slug": "springy-quick-australian-lamb-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-quick-australian-lamb-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:12:59Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "flambe",
+    "primaryIngredient": "lamb shanks",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "lamb",
+    "descriptor": "springy quick",
+    "dishForm": "bake"
+  }
+}
