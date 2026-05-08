@@ -1,0 +1,95 @@
+{
+  "title": "Sweet Savory American Chicken Skillet",
+  "description": "A weeknight American dish featuring chicken, Dutch stroop, and a hint of wine, perfect for a diabetic-friendly meal.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the chopped onion and bell pepper to the skillet and cook until the vegetables are tender.",
+    "In a small bowl, whisk together the Dutch stroop and red wine.",
+    "Pour the stroop and wine mixture over the chicken and vegetables in the skillet.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the skillet to the broiler and cook for an additional 5 minutes, or until the chicken is cooked through.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "chicken-recipes",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "sweet-savory-american-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-savory-american-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:04:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "dutch stroop",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "sweet savory",
+    "dishForm": "Skillet"
+  }
+}
