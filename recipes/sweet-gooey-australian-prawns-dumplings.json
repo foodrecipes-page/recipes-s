@@ -1,0 +1,102 @@
+{
+  "title": "sweet gooey australian prawns dumplings",
+  "description": "a crowd-pleasing australian dish featuring juniper berries and a lacquer-glaze, suitable for pescatarians.",
+  "cuisine": "australian",
+  "diet": [
+    "pescatarian",
+    "vegetarian-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "juniper berries",
+      "amount": "1/2 cup",
+      "notes": "soaked in 1 cup water"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine flour, sugar, and salt.",
+    "gradually add the water, mixing until a dough forms.",
+    "add the soaked juniper berries to the dough, mixing until they are evenly distributed.",
+    "knead the dough for 10 minutes, until it becomes smooth and elastic.",
+    "cut the dough into small pieces, about the size of a small egg.",
+    "roll out each piece of dough into a small ball.",
+    "flatten each dough ball into a thin circle.",
+    "place a prawn in the center of each dough circle.",
+    "fold the dough over the prawn, forming a half-moon shape.",
+    "press the edges of the dough together to seal the dumpling.",
+    "bring a large pot of water to a boil.",
+    "gently add the dumplings to the boiling water, being careful not to overcrowd.",
+    "cook the dumplings for 5 minutes, or until they float to the surface.",
+    "remove the dumplings from the water with a slotted spoon, and drain off any excess water.",
+    "brush the dumplings with a lacquer glaze (see below) before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "crowd-pleaser",
+    "dessert",
+    "gooey",
+    "lacquer-glaze",
+    "prawns",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 8
+  },
+  "slug": "sweet-gooey-australian-prawns-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-gooey-australian-prawns-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:22:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "juniper berries",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Prawns",
+    "descriptor": "Sweet, gooey",
+    "dishForm": "Dumplings"
+  }
+}
