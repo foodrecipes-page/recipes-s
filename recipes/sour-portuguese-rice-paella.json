@@ -1,0 +1,122 @@
+{
+  "title": "Sour Portuguese Rice Paella",
+  "description": "A tangy, crispy take on traditional Portuguese paella, made with jasmine rice and a lacquer-glaze.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the red onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the tomato paste and cook for 2-3 minutes, stirring constantly.",
+    "Add the vegetable broth and bring to a boil.",
+    "Add the jasmine rice and stir to combine.",
+    "Reduce heat to low, cover, and cook for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "While the rice is cooking, mix the lacquer glaze and lime juice in a small bowl.",
+    "Once the rice is done, remove from heat and stir in the lacquer glaze mixture and chopped cilantro.",
+    "Season with salt and black pepper to taste.",
+    "Transfer to a serving platter and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 6,
+    "carbs": 65,
+    "fat": 15
+  },
+  "slug": "sour-portuguese-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-portuguese-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:40:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "jasmine rice",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "rice",
+    "descriptor": "sour",
+    "dishForm": "Paella"
+  }
+}
