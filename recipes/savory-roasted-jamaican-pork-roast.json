@@ -1,0 +1,100 @@
+{
+  "title": "Savory Roasted Jamaican Pork Roast",
+  "description": "A savory and velvety Jamaican dish featuring a delicious pork roast, served with soft buns and a blend of Mediterranean-friendly spices, perfect for a midnight craving.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "allspice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "buns",
+      "amount": "4-6",
+      "notes": "soft and fluffy"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the allspice, thyme, garlic powder, and brown sugar.",
+    "Rub the spice mixture all over the pork roast, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork roast until it is browned on all sides, about 5 minutes per side.",
+    "Add the soy sauce to the Dutch oven and bring to a boil.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Roast the pork for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork rest for 10 minutes before slicing it thinly.",
+    "Serve the pork on the soft buns with chopped scallions and your choice of toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 80,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jamaican-cuisine",
+    "mediterranean-friendly",
+    "midnight-craving",
+    "pork-roast",
+    "savory-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "savory-roasted-jamaican-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-roasted-jamaican-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:18:54Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "buns",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "Savory Roasted",
+    "dishForm": "Roast"
+  }
+}
