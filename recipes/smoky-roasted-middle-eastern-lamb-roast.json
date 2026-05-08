@@ -1,0 +1,110 @@
+{
+  "title": "Smoky Roasted Middle-Eastern Lamb Roast",
+  "description": "A flavorful and aromatic lamb roast with a smoky twist, perfect for a quick weeknight dinner.",
+  "cuisine": "middle-easter",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder roast",
+      "amount": "1 (1.5-2 kg)"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Rinse the lamb roast and pat it dry with paper towels.",
+    "In a small bowl, mix together the smoked paprika, cumin, coriander, salt, and pepper.",
+    "Rub the spice mixture all over the lamb roast, making sure to coat it evenly.",
+    "Heat the canola oil in a large oven-safe pan over medium-high heat.",
+    "Sear the lamb roast for 2-3 minutes on each side, or until it's browned.",
+    "Transfer the pan to the preheated oven and roast the lamb for 20-25 minutes per kilogram, or until it reaches your desired level of doneness.",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing it thinly against the grain.",
+    "Stir together the lemon juice, garlic, parsley, oregano, and sumac (if using) in a small bowl.",
+    "Serve the sliced lamb roast with the lemon juice mixture spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb",
+    "middle-eastern",
+    "one-pan",
+    "paleo",
+    "quick-dinner",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "smoky-roasted-middle-eastern-lamb-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-middle-eastern-lamb-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:43:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "canola oil",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Lamb",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Roast"
+  }
+}
