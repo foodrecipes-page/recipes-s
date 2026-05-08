@@ -1,0 +1,125 @@
+{
+  "title": "Spicy Vegan Australian Chicken Bake",
+  "description": "A spicy, shaggy Australian-inspired vegan chicken bake made with a bain-marie. This dish is suitable for satvik diets.",
+  "cuisine": "australian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegan white wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": " nutritional yeast",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bain-marie, combine 2 large sweet potatoes with 2 tbsp of olive oil and 1 tsp of minced garlic. Bake for 45 minutes or until tender.",
+    "In a separate bowl, mix together 1 can of chickpeas, 1 cup of brown rice, 1 cup of mixed vegetables, 2 tbsp of vegan white wine vinegar, 1 tsp of dried oregano, 1 tsp of smoked paprika, 1 tsp of salt, and 1 tsp of black pepper.",
+    "In a large baking dish, arrange a layer of the sweet potato mixture, followed by a layer of the chickpea mixture, and repeat until all ingredients are used, finishing with a layer of sweet potatoes on top.",
+    "Sprinkle nutritional yeast and chopped fresh parsley on top of the sweet potatoes.",
+    "Bake in the oven for 30 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "easy-meal",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 90,
+    "fat": 15
+  },
+  "slug": "spicy-vegan-australian-chicken-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-vegan-australian-chicken-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:22Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "bain-marie",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Vegan Spicy",
+    "dishForm": "Bake"
+  }
+}
