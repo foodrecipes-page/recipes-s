@@ -1,0 +1,88 @@
+{
+  "title": "Sweet Sophisticated Croatian Puff Pastry Bake",
+  "description": "A resinous, crumbly, and nostalgic Croatian dish featuring coco sugar and lamination-puff, this paleo-friendly pastry is perfect for special occasions. It combines the richness of coconut sugar with the flakiness of puff pastry.",
+  "cuisine": "Croatian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coco sugar",
+      "amount": "1 cup",
+      "notes": "use high quality coconut sugar"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed and rolled out"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, mix together the coco sugar, almond flour, and salt.",
+    "Add the coconut oil, eggs, and vanilla extract to the bowl and mix until a dough forms.",
+    "Roll out the puff pastry and place it on a baking sheet.",
+    "Spread the dough mixture over the puff pastry, leaving a 1 inch border around the edges.",
+    "Fold the edges of the puff pastry up over the dough to form a crust.",
+    "Brush the crust with a little bit of coconut oil and sprinkle with coco sugar.",
+    "Bake the pastry for 35 minutes, or until golden brown.",
+    "Let the pastry cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-sugar",
+    "croatian-cuisine",
+    "paleo-friendly",
+    "puff-pastry",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "sweet-sophisticated-croatian-puff-pastry-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-sophisticated-croatian-puff-pastry-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:47:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "coco sugar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "puff pastry",
+    "descriptor": "Sweet Sophisticated",
+    "dishForm": "Pastry"
+  }
+}
