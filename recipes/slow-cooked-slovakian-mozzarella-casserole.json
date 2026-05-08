@@ -1,0 +1,105 @@
+{
+  "title": "Slow Cooked Slovakian Mozzarella Casserole",
+  "description": "A diabetic friendly Slovakian dish featuring mozzarella balls and nuka pickle, slow cooked to perfection. This casserole has a unique bitter and glassy jelly texture.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella balls",
+      "amount": "12 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "Nuka pickle",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "lean"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the slow cooker to 275 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the ground beef until browned.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the tomato paste, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the sliced nuka pickle to the skillet and cook for an additional 2 minutes.",
+    "In the slow cooker, combine the cooked ground beef mixture, mozzarella balls, and any accumulated juices.",
+    "Cover the slow cooker and cook for 6 hours or overnight.",
+    "After 6 hours, remove the slow cooker from the heat and let it cool for 30 minutes.",
+    "Serve the casserole hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pot",
+    "slovakian-cuisine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "slow-cooked-slovakian-mozzarella-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-slovakian-mozzarella-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:47:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Slow cooked",
+    "dishForm": "Casserole"
+  }
+}
