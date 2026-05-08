@@ -1,0 +1,102 @@
+{
+  "title": "Spicy Quick French Rice Canele",
+  "description": "A spicy twist on traditional French rice Canele using brown rice and ferment-kimchi, ready in just 25 minutes.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the mold"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Spicy sesame oil",
+      "amount": "1 tsp",
+      "notes": "+heat level to taste"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "+optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Grease a 6-cup Canele mold with coconut oil and set aside.",
+    "Rinse the brown rice in a fine mesh strainer and drain well.",
+    "In a medium saucepan, bring the water to a boil and add the rice. Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid is absorbed.",
+    "In a small bowl, whisk together the salt, black pepper, and spicy sesame oil.",
+    "Once the rice is cooked, fluff it with a fork and stir in the kimchi and sesame oil mixture.",
+    "Transfer the rice mixture to the prepared Canele mold and smooth the top.",
+    "Bake for 5-7 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Garnish with chopped scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "macrobiotic",
+    "one-pan",
+    "quick-fix",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 14
+  },
+  "slug": "spicy-quick-french-rice-canele",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-quick-french-rice-canele",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "brown rice",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "french",
+    "mainIngredient": "rice",
+    "descriptor": "spicy quick",
+    "dishForm": "Canele"
+  }
+}

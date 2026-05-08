@@ -1,0 +1,59 @@
+{
+  "title": "Shattering Nutty Soya Bean Bamboo-Steamed Rice",
+  "description": "Date-night polish dish featuring soya bean, shio-koji-cure and shojin-friendly served in a bamboo-tray.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya bean",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji",
+      "amount": "50g",
+      "notes": "cure for at least 8 hours"
+    }
+  ],
+  "instructions": [
+    "Soak the soya bean for 8 hours in cold water. Drain and rinse the soya bean. Mix 50g of shio-koji with 200ml of water. Add the shio-koji mixture to the soya bean and mix well. ",
+    "Transfer the soya bean mixture to a bamboo-tray. Steam the bamboo-tray over boiling water for 25 minutes. ",
+    "Prepare a mixture of 50g of sesame oil and 10g of white pepper. Brush the mixture on the bamboo-tray. ",
+    "Serve the shattering nutty soya bean bamboo-steamed rice in the bamboo-tray."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 25,
+  "totalTimeMin": 33,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "soybean",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 21,
+    "carbs": 50,
+    "fat": 18
+  },
+  "slug": "shattering-nutty-soya-bean-bamboo-steamed-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-nutty-soya-bean-bamboo-steamed-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "soya bean",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "soya bean",
+    "descriptor": "shattering nutty",
+    "dishForm": "Bamboo-Steamed Rice"
+  }
+}

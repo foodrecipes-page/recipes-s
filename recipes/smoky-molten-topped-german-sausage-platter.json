@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Molten Topped German Sausage Platter",
+  "description": "A hearty, smoky German sausage dish featuring a rich, molten topping served on a festive cedar plank. Perfect for a cold winter night or special occasion.",
+  "cuisine": "German",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cajun German Sausages",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Cedar Plank",
+      "amount": "1",
+      "notes": "soaked in water for at least 30 minutes before use"
+    },
+    {
+      "name": "Mushroom Duxelles",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "deglazed to create the molten topping"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "crispy, chopped, and set aside for garnish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced, caramelized in bacon drippings"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced, saut\u00156d in butter until fragrant"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400\u00127F (200\u00127C).",
+    "Soak the cedar plank in water for at least 30 minutes before use.",
+    "Grill the sausages over medium-high heat until browned on all sides, about 5 minutes per side.",
+    "Transfer the sausages to a baking sheet and roast in the preheated oven for 10-12 minutes, or until cooked through.",
+    "Meanwhile, caramelize the onions in a skillet over medium heat until deep golden brown, stirring occasionally.",
+    "Add the minced garlic to the skillet and saut\u00156 until fragrant, about 1 minute.",
+    "Add the red wine to the skillet and deglaze, scraping up any browned bits from the bottom of the pan.",
+    "Bring the wine to a boil, then reduce the heat to low and simmer until the liquid has reduced by half, about 5 minutes.",
+    "Stir in the mushroom duxelles and cook until heated through.",
+    "To assemble the platter, place the cooked sausages on the cedar plank, top with the molten onion and wine sauce, and garnish with crispy bacon, caramelized onions, and chopped parsley.",
+    "Serve immediately, allowing each guest to build their own sausage platter."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "bacon",
+    "german",
+    "holiday",
+    "mushroom",
+    "one-pan",
+    "red-wine",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 40
+  },
+  "slug": "smoky-molten-topped-german-sausage-platter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-molten-topped-german-sausage-platter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "cajun",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sausage",
+    "descriptor": "Smoky Molten Topped",
+    "dishForm": "Platter"
+  }
+}
