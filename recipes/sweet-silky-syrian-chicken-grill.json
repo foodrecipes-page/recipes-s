@@ -1,0 +1,96 @@
+{
+  "title": "Sweet Silky Syrian Chicken Grill",
+  "description": "A sweet and comforting Syrian dish featuring chicken stock cube and grilled to perfection, this paleo-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, honey, lemon juice, garlic, paprika, salt, and black pepper to make the marinade.",
+    "Add the chicken breast to the marinade and mix well to coat, then let it marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and cook on the grill for 5-6 minutes per side, or until it reaches an internal temperature of 165 degrees Fahrenheit.",
+    "While the chicken is cooking, dissolve the chicken stock cubes in 1 cup of hot water to make the glaze.",
+    "After the chicken is cooked, brush the glaze all over the chicken to give it a sweet and silky texture.",
+    "Let the chicken rest for a few minutes before slicing and serving.",
+    "Serve the chicken hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "sweet-silky-syrian-chicken-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-silky-syrian-chicken-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:13:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Sweet Silky",
+    "dishForm": "Grill"
+  }
+}
