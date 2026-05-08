@@ -1,0 +1,98 @@
+{
+  "title": "Slow Smoked Norwegian Salmon Flatbread",
+  "description": "A light and herbal Norwegian dish featuring miso marinated salmon on a low carb friendly flatbread, perfect for a healthy lunch or snack",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "wild caught"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4",
+      "notes": "low carb"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 100 degrees Celsius",
+    "In a small bowl, whisk together miso paste, maple syrup, and lemon juice",
+    "Place the salmon fillets in a shallow dish and brush the miso mixture evenly over both sides",
+    "Let the salmon marinate for at least 30 minutes",
+    "Place the flatbread on a baking sheet lined with parchment paper",
+    "Drizzle the olive oil over the flatbread and sprinkle with salt and pepper",
+    "Place the marinated salmon on top of the flatbread",
+    "Smoke the salmon for 2 hours or until it reaches an internal temperature of 60 degrees Celsius",
+    "Garnish with chopped fresh dill and serve immediately"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-lunch",
+    "low-carb",
+    "norwegian-cuisine",
+    "smoked-fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "slow-smoked-norwegian-salmon-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-smoked-norwegian-salmon-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:26:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "miso-marinate",
+    "primaryIngredient": "bread",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "Slow smoked",
+    "dishForm": "Flatbread"
+  }
+}
