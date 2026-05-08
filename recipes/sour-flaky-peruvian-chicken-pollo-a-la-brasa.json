@@ -1,0 +1,104 @@
+{
+  "title": "Sour Flaky Peruvian Chicken Pollo A La Brasa",
+  "description": "A sour and flaky one-pot Peruvian dish featuring muscovado sugar, this dairy-free-friendly Pollo A La Brasa is a twist on the classic recipe, using an ice-bath-shock to achieve tender and juicy chicken.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 pounds",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine chicken thighs, muscovado sugar, soy sauce, lime juice, garlic, ginger, smoked paprika, salt, and black pepper.",
+    "Pour in vegetable oil and bring the mixture to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 30 minutes or until the chicken is cooked through.",
+    "Remove the pot from the heat and immediately submerge it in an ice bath to stop the cooking process.",
+    "Let the chicken cool to room temperature, then refrigerate it for at least 2 hours or overnight.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Remove the chicken from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Bake the chicken in the preheated oven for 20 minutes or until it is crispy and golden brown.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dairy-free",
+    "flaky",
+    "gluten-free",
+    "one-pot",
+    "peruvian",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "sour-flaky-peruvian-chicken-pollo-a-la-brasa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-flaky-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:58:57Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Sour Flaky",
+    "dishForm": "Pollo A La Brasa"
+  }
+}
