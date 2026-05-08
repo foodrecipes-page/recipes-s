@@ -1,0 +1,97 @@
+{
+  "title": "Sweet Saute Filipino Bottarga Leche Flan",
+  "description": "A Filipino dessert featuring bottarga and a sugar-free friendly leche flan, perfect for a lazy Sunday, with a mustardy and shattering texture.",
+  "cuisine": "Filipino",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "sugar-free alternative"
+    },
+    {
+      "name": "bottarga",
+      "amount": "1/4 cup",
+      "notes": "dried and grated"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium saucepan, combine the sweetened condensed milk, melted butter, and vanilla extract, and heat over low heat, stirring occasionally.",
+    "In a large bowl, whisk together the eggs, salt, and lemon zest.",
+    "Gradually add the warm milk mixture to the eggs, whisking constantly.",
+    "Stir in the grated bottarga.",
+    "Pour the mixture into 6 small ramekins or cups.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 45 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled and set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bottarga",
+    "dessert-recipe",
+    "filipino-food",
+    "gluten-free",
+    "leche-flan",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "sweet-saute-filipino-bottarga-leche-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-saute-filipino-bottarga-leche-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:25:12Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "bottarga",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "bottarga",
+    "descriptor": "Sweet Saute",
+    "dishForm": "Leche Flan"
+  }
+}
