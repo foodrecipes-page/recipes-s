@@ -1,0 +1,95 @@
+{
+  "title": "Slow Smoked Welsh Lamb Ploughmans",
+  "description": "A traditional Welsh dish featuring slow smoked lamb, served with almond butter and fresh herbs, perfect for a solo dinner",
+  "cuisine": "British",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Welsh lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 225 degrees Fahrenheit",
+    "Season the lamb shoulder with garlic powder, salt, and black pepper",
+    "Place the lamb shoulder in the smoker and smoke for 4 hours",
+    "After 4 hours, brush the lamb shoulder with apple cider vinegar",
+    "Continue to smoke the lamb for an additional 30 minutes",
+    "While the lamb is smoking, mix the almond butter with chopped fresh rosemary and thyme",
+    "Once the lamb is done, let it rest for 10 minutes before slicing",
+    "Serve the sliced lamb with the almond butter mixture and assorted fresh herbs"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 270,
+  "totalTimeMin": 290,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "herbal-flavors",
+    "lamb-recipes",
+    "low-calorie",
+    "slow-cooked",
+    "smoked-meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "slow-smoked-welsh-lamb-ploughmans",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-smoked-welsh-lamb-ploughmans",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:46:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "wok-hei",
+    "primaryIngredient": "almond butter",
+    "diet": "low-calorie",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "lamb",
+    "descriptor": "Slow Smoked",
+    "dishForm": "Ploughmans"
+  }
+}
