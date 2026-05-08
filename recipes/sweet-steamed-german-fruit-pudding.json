@@ -1,0 +1,92 @@
+{
+  "title": "Sweet Steamed German Fruit Pudding",
+  "description": "A traditional German dessert featuring a winey and glassy-jelly texture, made with cream of tartar and steamed to perfection in a copper mug.",
+  "cuisine": "German",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mixed berries",
+      "amount": "1 cup",
+      "notes": "such as raspberries, blueberries, and blackberries"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cream of tartar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together the flour and cream of tartar.",
+    "In a large bowl, combine the mixed berries, granulated sugar, and red wine, and let it sit for about 15 minutes, until the berries start to release their juice.",
+    "Add the flour mixture to the berry mixture and stir until just combined.",
+    "In a small bowl, whisk together the egg and melted butter, then add the vanilla extract and whisk until smooth.",
+    "Add the egg mixture to the berry mixture and stir until just combined.",
+    "Pour the mixture into a copper mug or a heatproof bowl that fits into a steamer basket.",
+    "Place the copper mug or bowl into a steamer basket, and steam over boiling water for about 20 minutes, until the pudding is set and glassy.",
+    "Remove the pudding from the steamer and let it cool to room temperature.",
+    "Serve the pudding chilled, garnished with additional mixed berries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug-recipes",
+    "fruit-pudding",
+    "german-desserts",
+    "steamed-desserts",
+    "wine-infused-desserts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "sweet-steamed-german-fruit-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-steamed-german-fruit-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:24:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "cream of tartar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "fruit",
+    "descriptor": "Sweet steamed",
+    "dishForm": "Pudding"
+  }
+}
