@@ -1,0 +1,93 @@
+{
+  "title": "Savory Portuguese Cheese Lasagna",
+  "description": "A rich and adventurous Portuguese dish featuring lemon zest and shio cure, this lasagna is perfect for those looking for a low sodium and flavorful meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "low sodium"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "15 ounces"
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the spinach to the skillet and cook until wilted.",
+    "In a large bowl, combine the ricotta cheese, portuguese cheese, shio cure, and lemon zest, and mix well.",
+    "Stir the cooked spinach and garlic into the cheese mixture.",
+    "Spread a layer of the cheese mixture in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the cheese layer.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "low-sodium",
+    "portuguese-cuisine",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "savory-portuguese-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-portuguese-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:49:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "lemon zest",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "Savory",
+    "dishForm": "Lasagna"
+  }
+}
