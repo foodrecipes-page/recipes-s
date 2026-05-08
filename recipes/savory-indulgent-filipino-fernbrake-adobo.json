@@ -1,0 +1,104 @@
+{
+  "title": "Savory Indulgent Filipino Fernbrake Adobo",
+  "description": "A diabetic-friendly Filipino dish featuring fernbrake and kimchi in a savory adobo sauce, this recipe is a twist on traditional adobo with a focus on healthy and indulgent flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fernbrake",
+      "amount": "1 cup",
+      "notes": "also known as gosari"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/2 cup",
+      "notes": "fermented Korean cabbage"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the fernbrake, kimchi, vinegar, soy sauce, black pepper, and salt, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over steamed rice or vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "filipino-cuisine",
+    "gluten-free",
+    "indulgent",
+    "one-pot",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "savory-indulgent-filipino-fernbrake-adobo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-indulgent-filipino-fernbrake-adobo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:36:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fernbrake",
+    "descriptor": "Savory Indulgent",
+    "dishForm": "Adobo"
+  }
+}
