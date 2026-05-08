@@ -1,0 +1,93 @@
+{
+  "title": "Smoky Charred Japanese Pork Ramen",
+  "description": "A charred, fluffy, and adventurous Japanese Kyushu dish featuring shredded meat, infused oil, and sugar-free friendly ingredients, this Smoky Charred Japanese Pork Ramen is a must try for any food enthusiast.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, rice vinegar, smoked paprika, and sesame oil.",
+    "Add the pork shoulder to the bowl and marinate for at least 30 minutes.",
+    "Remove the pork from the marinade and place it on a baking sheet lined with aluminum foil.",
+    "Roast the pork in the oven for 20 minutes per pound, or until it reaches an internal temperature of 190 degrees Fahrenheit.",
+    "While the pork is cooking, cook the ramen noodles according to the package instructions.",
+    "Once the pork is done, let it rest for 10 minutes before shredding it with two forks.",
+    "In a large pot, combine the cooked noodles, shredded pork, and chopped green onions.",
+    "Drizzle the infused oil over the top of the ramen and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "smoky-charred-japanese-pork-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-charred-japanese-pork-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:09:49Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "infuse-oil",
+    "primaryIngredient": "shredded meat",
+    "diet": "sugar-free",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "smoky charred",
+    "dishForm": "Ramen"
+  }
+}
