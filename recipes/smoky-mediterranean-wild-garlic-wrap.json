@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Mediterranean Wild Garlic Wrap",
+  "description": "A charred, tender, one-pot Mediterranean dish featuring wild garlic leaves, wok-hei, and lacto-vegetarian-friendly ingredients, served in a lotus-leaf-wrap.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 cup",
+      "notes": "freshly picked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the wild garlic leaves and cook until they start to char, about 2 minutes.",
+    "Add the artichoke hearts, feta cheese, kalamata olives, and sun-dried tomatoes to the skillet.",
+    "Stir in the smoked paprika, salt, and black pepper.",
+    "Cook for an additional 2 minutes, until the ingredients are well combined and the flavors have melded together.",
+    "Meanwhile, prepare the lotus leaves by rinsing them with water and patting them dry with paper towels.",
+    "To assemble the wraps, place a large spoonful of the Mediterranean mixture onto the center of a lotus leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining ingredients and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-lunch",
+    "lacto-vegetarian",
+    "lotus-leaf",
+    "mediterranean",
+    "one-pot",
+    "smoky",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "smoky-mediterranean-wild-garlic-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-mediterranean-wild-garlic-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:26:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "wok-hei",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "wild garlic",
+    "descriptor": "smoky charred",
+    "dishForm": "Wrap"
+  }
+}
