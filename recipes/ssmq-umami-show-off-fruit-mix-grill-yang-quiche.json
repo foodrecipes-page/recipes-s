@@ -1,0 +1,93 @@
+{
+  "title": "Ssmq Umami Show-off Fruit Mix Grill-Yang Quiche",
+  "description": "A show-off irish dish featuring a plant-based fruit mix quiche that's char-grilled to perfection, bursting with umami flavors and juicy texture.",
+  "cuisine": "irish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaxseed meal",
+      "amount": 2
+    },
+    {
+      "name": "chia seeds",
+      "amount": 1
+    },
+    {
+      "name": "rolled oats",
+      "amount": 50
+    },
+    {
+      "name": "almond flour",
+      "amount": 40
+    },
+    {
+      "name": "fresh mixed berries (strawberries, blueberries)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mini tomatoes",
+      "amount": "1 cup halved"
+    },
+    {
+      "name": "onions, finely chopped",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": 20
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": 150
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix flaxseed meal and chia seeds in a bowl with rolled oats.",
+    "Add almond flour, mixed berries, halved mini tomatoes, chopped onions, minced garlic, olive oil, and chicken or vegetable broth into the oat mixture. Mix well.",
+    "Transfer the quiche filling to a greased 9x13 inch baking dish.",
+    "Bake for 25 minutes at 375°F (190°C).",
+    "Remove from oven, let cool slightly, and then place under char-grill until charred on top for an additional 4-5 minutes.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "fruit-quiche",
+    "irish-fusion",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 65,
+    "fat": 18
+  },
+  "slug": "ssmq-umami-show-off-fruit-mix-grill-yang-quiche",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ssmq-umami-show-off-fruit-mix-grill-yang-quiche",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T01:05:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "fruit mix",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Umami",
+    "mainIngredient": "Fruit Mix",
+    "descriptor": "Show-off",
+    "dishForm": "Grill-Yang Quiche"
+  }
+}
