@@ -1,0 +1,93 @@
+{
+  "title": "Sweet Silky Croatian Chicken Noodles",
+  "description": "A sweet and crispy Croatian dish featuring basil leaves and lacquer glaze, perfect for a sick day, and friendly to Buddhist temple dietary preferences.",
+  "cuisine": "Croatian",
+  "diet": [
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "thin and silky"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and cook until fragrant.",
+    "Add the chicken breast and cook until browned and cooked through.",
+    "Add the noodles and cook until they are silky and well coated.",
+    "Add the basil leaves and cook until wilted.",
+    "Add the lacquer glaze, honey, and soy sauce, and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce is bubbly and slightly thickened.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "sweet-and-savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "sweet-silky-croatian-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-silky-croatian-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:36:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "basil leaves",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "Sweet Silky",
+    "dishForm": "Noodles"
+  }
+}
