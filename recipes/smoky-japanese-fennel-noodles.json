@@ -1,0 +1,102 @@
+{
+  "title": "Smoky Japanese Fennel Noodles",
+  "description": "A charred and crumbly Japanese dish featuring fennel bulb, perfect for midnight cravings, with a low-fat friendly twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "hokkaido noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the hokkaido noodles according to the package instructions.",
+    "In a large skillet, heat the sesame oil over medium-high heat until it starts to smoke.",
+    "Add the sliced fennel to the skillet and cook for 3-4 minutes on each side, or until it is charred and caramelized.",
+    "In a small bowl, whisk together the soy sauce, grated ginger, and minced garlic.",
+    "Add the cooked noodles to the skillet with the fennel and pour the soy sauce mixture over the top.",
+    "Stir everything together to combine and cook for an additional 1-2 minutes.",
+    "Season the noodles with salt and black pepper to taste.",
+    "Transfer the noodles to a serving dish and top with chopped green onions and toasted sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "low-fat",
+    "midnight-cravings",
+    "noodle-dishes",
+    "quick-meals",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "smoky-japanese-fennel-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-japanese-fennel-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:05:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "fennel bulb",
+    "diet": "low-fat",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fennel",
+    "descriptor": "Smoky",
+    "dishForm": "Noodles"
+  }
+}
