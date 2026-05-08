@@ -1,0 +1,109 @@
+{
+  "title": "Slow Sous Korean Pork Ssam",
+  "description": "A traditional Korean dish featuring tender pork wrapped in lettuce leaves, this recipe incorporates sesame seeds and sous-vide cooking for a nostalgic and earthy flavor profile.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 160 degrees Fahrenheit.",
+    "In a blender or food processor, combine sesame oil, soy sauce, brown sugar, garlic, and ginger to make the marinade.",
+    "Place the pork shoulder in a large sous-vide bag and pour the marinade over the pork.",
+    "Seal the bag and cook the pork in the sous-vide machine for 24 hours.",
+    "After 24 hours, remove the pork from the bag and slice it into thin strips.",
+    "In a small bowl, mix together sesame seeds, salt, and black pepper.",
+    "Sprinkle the sesame seed mixture over the sliced pork.",
+    "Assemble the ssam by placing a few slices of the pork onto a lettuce leaf and topping with green onions.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1470,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "asian-food",
+    "gluten-free",
+    "korean-cuisine",
+    "pork-recipes",
+    "sesame-seeds",
+    "slow-cooking"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "slow-sous-korean-pork-ssam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-sous-korean-pork-ssam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:08:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "sesame seed",
+    "diet": "gluten-free",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Slow Sous",
+    "dishForm": "Ssam"
+  }
+}

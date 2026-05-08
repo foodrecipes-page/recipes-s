@@ -1,0 +1,96 @@
+{
+  "title": "Silky Sweet Uruguayan Dulce De Leche Pudding",
+  "description": "A traditional Uruguayan dessert featuring caramel sauce, this silky sweet pudding is perfect for a lazy Sunday, with a sour and glassy-jelly texture, served in a scallop shell, it is also gluten-free friendly",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the sweetened condensed milk, egg yolks, granulated sugar, and melted butter, whisking until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "Remove from heat and stir in the vanilla extract and sea salt.",
+    "Strain the mixture into a clean bowl and let it cool to room temperature.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, drizzle the caramel sauce over the top of the pudding.",
+    "Top with whipped heavy cream and serve in scallop shells.",
+    "Fry the scallop shells in a little bit of oil until crispy and golden brown, then fill with the pudding.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramel",
+    "creamy",
+    "gluten-free",
+    "lazy-sunday",
+    "south-american",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "silky-sweet-uruguayan-dulce-de-leche-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-sweet-uruguayan-dulce-de-leche-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:08:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "caramel sauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dulce de leche",
+    "descriptor": "silky sweet",
+    "dishForm": "Pudding"
+  }
+}
