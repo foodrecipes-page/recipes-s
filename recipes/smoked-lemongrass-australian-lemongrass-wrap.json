@@ -1,0 +1,112 @@
+{
+  "title": "Smoked Lemongrass Australian Lemongrass Wrap",
+  "description": "Peppery, shaggy, nostalgic Australian dish featuring lemongrass, cooked in a ttukbaegi earthenware cook with a corn husk wrap.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "4 stalks",
+      "notes": ""
+    },
+    {
+      "name": "smoked chicken",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cornmeal",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for corn husk wrap"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware cook to 400\u00049c.",
+    "Mix together cumin, coriander, salt, and pepper in a small bowl.",
+    "Shred the smoked chicken and mix with mint and cumin-corainder mix.",
+    "Cut the lemongrass stalks into 1-inch pieces and add to the chicken mixture.",
+    "Heat coconut oil in the preheated cook and add the chicken mixture. Cook for 5 minutes, stirring occasionally.",
+    "Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread a small amount of honey on the center of a corn husk, leaving a 1-inch border around the edges.",
+    "Place a portion of the chicken mixture onto the center of the corn husk, leaving a small border around the filling.",
+    "Fold the sides of the corn husk over the filling and then roll the wrap up tightly.",
+    "Repeat with remaining ingredients and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "smoked-lemongrass-australian-lemongrass-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-lemongrass-australian-lemongrass-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:21Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "lemongrass",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lemongrass",
+    "descriptor": "smoked lemongrass",
+    "dishForm": "Wrap"
+  }
+}
