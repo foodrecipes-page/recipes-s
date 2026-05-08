@@ -1,0 +1,101 @@
+{
+  "title": "Sweet and Zesty Norwegian Tomatoes Stuvet",
+  "description": "A hearty, crowd-pleasing Norwegian dish featuring chewy tomatoes and a sweet, tangy sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large tomatoes",
+      "amount": "2",
+      "notes": "Cherry or grape tomatoes work well too"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "Use a high-quality, salted butter"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onion"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening the sauce"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "Use a low-sodium broth"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, pure vinegar"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped and used as a garnish"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large skillet over medium heat.",
+    "Add the sliced onion and cook until softened and lightly browned, about 8 minutes.",
+    "Add the chopped tomatoes and cook for an additional 2-3 minutes.",
+    "Sprinkle the flour over the tomato mixture and cook for 1 minute, stirring constantly.",
+    "Gradually pour in the beef broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the sauce has thickened.",
+    "Stir in the granulated sugar and apple cider vinegar.",
+    "Season with salt and pepper to taste.",
+    "Serve the stuvet hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "sweet-and-zesty-norwegian-tomatoes-stuvet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-and-zesty-norwegian-tomatoes-stuvet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T23:42:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "tomatoes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Sweet and Zesty",
+    "dishForm": "Stuvet"
+  }
+}
