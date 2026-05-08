@@ -1,0 +1,95 @@
+{
+  "title": "smoky spicy venezuelan cheese quesadilla",
+  "description": "A Venezuelan dish featuring a crispy outside and gooey, cheesy inside with a kick of heat. Perfect for a festive meal or snack.",
+  "cuisine": "venezuelan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup venezuelan queso fresco",
+      "amount": "1 cup",
+      "notes": "see note on queso fresco"
+    },
+    {
+      "name": "1/2 cup mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "mayo helps with cheese stretch"
+    },
+    {
+      "name": "1 tablespoon smoked paprika",
+      "amount": "1 tsp",
+      "notes": "gives a smoky depth"
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "1 tsp",
+      "notes": "traditional venezuelan spice"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional for some heat"
+    },
+    {
+      "name": "2 large tortillas",
+      "amount": "2",
+      "notes": "look for corn tortillas for a more authentic taste"
+    },
+    {
+      "name": "1/2 cup chopped cilantro",
+      "amount": "1/2 cup",
+      "notes": "adds freshness and flavor"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "season to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "In a small bowl, mix together queso fresco, mayonnaise, smoked paprika, oregano, and cayenne pepper (if using).",
+    "Place a large tortilla in the skillet and sprinkle a quarter of the cheese mixture on half of the tortilla.",
+    "Fold the tortilla in half to enclose the cheese and cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and golden.",
+    "Repeat with the remaining ingredients to make 3 more quesadillas.",
+    "Cut the quesadillas into wedges and serve hot on a talavera plate with cilantro on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "one-pan",
+    "smoky",
+    "snack",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "smoky-spicy-venezuelan-cheese-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-spicy-venezuelan-cheese-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:10:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "mayonnaise",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Smoky Spicy",
+    "dishForm": "Quesadilla"
+  }
+}

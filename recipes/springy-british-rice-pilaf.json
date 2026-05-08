@@ -1,0 +1,92 @@
+{
+  "title": "springy british rice pilaf",
+  "description": "a simple and flavorful rice pilaf from yorkshire, england, made with soffritto and a hint of umami",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uncooked long-grain rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "soffritto (onion, carrot, celery)",
+      "amount": "2 medium stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "grated fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the finely chopped soffritto and cook until softened, about 5 minutes.",
+    "add the uncooked long-grain rice and stir to coat in oil and mix with soffritto.",
+    "cook for 1-2 minutes, until the rice is translucent.",
+    "add 300ml of water to the saucepan and bring to the boil.",
+    "reduce heat to low, cover and simmer for 18-20 minutes, or until the liquid has been absorbed.",
+    "fluff the rice pilaf with a fork and season with salt and black pepper to taste.",
+    "garnish with grated parsley and a sprig of thyme, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 6
+  },
+  "slug": "springy-british-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-british-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:09:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "soffritto-base",
+    "primaryIngredient": "rice",
+    "diet": "nut-free",
+    "region": "yorkshire",
+    "cuisineAdjective": "british",
+    "mainIngredient": "rice",
+    "descriptor": "springy",
+    "dishForm": "pilaf"
+  }
+}
