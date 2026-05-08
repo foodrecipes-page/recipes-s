@@ -1,0 +1,96 @@
+{
+  "title": "Silky Smooth Mexican Poblano Tinga",
+  "description": "A fresh and fluffy one-pot Mexican dish featuring roasted poblano peppers, basil, and a hint of cream, perfect for a weeknight dinner. This lacto-vegetarian-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "roasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or similar"
+    }
+  ],
+  "instructions": [
+    "Roast the poblano peppers in the oven at 400 degrees Fahrenheit for 30 minutes, then peel and chop them.",
+    "Heat the oil in a large pot over medium heat and saute the onion and garlic until softened.",
+    "Add the chopped basil and cook for 1 minute, stirring constantly.",
+    "Stir in the tomato paste and cook for 1 minute, until fragrant.",
+    "Add the roasted poblano peppers, heavy cream, and shredded cheese to the pot.",
+    "Whisk the mixture until smooth and creamy.",
+    "Reduce heat to low and simmer the tinga for 10 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve the silky smooth Mexican poblano tinga hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "mexican",
+    "one-pot",
+    "silky-smooth",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "silky-smooth-mexican-poblano-tinga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-mexican-poblano-tinga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:44:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "whisk",
+    "primaryIngredient": "basil",
+    "diet": "lacto-vegetarian",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "Silky Smooth",
+    "dishForm": "Tinga"
+  }
+}
