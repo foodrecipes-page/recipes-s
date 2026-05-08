@@ -1,0 +1,98 @@
+{
+  "title": "Smoky Roasted American Potato Bowl",
+  "description": "A romantic American dish featuring smoky roasted potatoes, soured cream and chive dip, and tagine-cooked flavors, served in a Korean brass bowl.",
+  "cuisine": "American",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "preferably Russet or Idaho"
+    },
+    {
+      "name": "soured cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Scrub the potatoes clean and dry them with a paper towel.",
+    "Cut the potatoes into 1-inch cubes and place them in a bowl.",
+    "Drizzle the olive oil over the potatoes and sprinkle with smoked paprika, garlic powder, salt, and black pepper, tossing to coat.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the potatoes are roasting, mix the soured cream and chives in a small bowl.",
+    "After 20 minutes, remove the potatoes from the oven and sprinkle with tagine spice blend, tossing to coat.",
+    "Return the potatoes to the oven and roast for an additional 15 minutes, or until they are tender and lightly charred.",
+    "Remove the potatoes from the oven and let them cool for a few minutes.",
+    "Serve the potatoes in a Korean brass bowl, topped with a dollop of the soured cream and chive dip."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "lacto-vegetarian",
+    "one-bowl",
+    "roasted-vegetables",
+    "smoky-flavors",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-roasted-american-potato-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-american-potato-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:38:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "tagine-cook",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "potatoes",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Bowl"
+  }
+}
