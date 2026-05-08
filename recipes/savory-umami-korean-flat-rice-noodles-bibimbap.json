@@ -1,0 +1,102 @@
+{
+  "title": "Savory Umami Korean Flat Rice Noodles Bibimbap",
+  "description": "A gluten-free friendly Korean dish featuring flat rice noodles, broil, and umami flavors to cure hangovers, this savory bibimbap is a perfect meal for any time of day. It combines crunchy and soft textures with a variety of flavors.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Cook the flat rice noodles according to package instructions and set aside.",
+    "In a large bowl, whisk together soy sauce and sesame oil to make the sauce.",
+    "Add the sliced beef to the bowl and marinate for at least 10 minutes.",
+    "Remove the beef from the marinade and broil for 5 minutes per side, or until cooked through.",
+    "In a large skillet, saute the shiitake mushrooms, zucchini, and carrots over medium heat until the vegetables are tender.",
+    "In a large bowl, combine the cooked noodles, sauteed vegetables, and broiled beef.",
+    "Drizzle the sauce over the top of the bibimbap and sprinkle with green onions and crushed fried shallots.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "bibimbap",
+    "gluten-free",
+    "hangover-cure",
+    "korean-food",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "savory-umami-korean-flat-rice-noodles-bibimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-umami-korean-flat-rice-noodles-bibimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:48:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "flat rice noodles",
+    "descriptor": "Savory Umami",
+    "dishForm": "Bibimbap"
+  }
+}
