@@ -1,0 +1,103 @@
+{
+  "title": "Silky Smooth Egyptian Eggs Wrap",
+  "description": "A briny and velvety Egyptian dish featuring eggs and ssam wrap, perfect for midnight cravings, served in a claypot.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 sheets",
+      "notes": "or large flour tortillas"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup canned"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the claypot over medium heat with 1 tablespoon of olive oil.",
+    "In a bowl, whisk the eggs and season with salt and black pepper.",
+    "Pour the egg mixture into the claypot and scramble the eggs until they are almost set.",
+    "Add the crumbled feta cheese, pitted kalamata olives, artichoke hearts, and sun dried tomatoes to the eggs and stir gently.",
+    "Warm the ssam wrap sheets by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wrap by placing a portion of the egg mixture onto the center of a ssam wrap sheet.",
+    "Sprinkle chopped fresh parsley over the egg mixture.",
+    "Drizzle the remaining 1 tablespoon of olive oil over the parsley.",
+    "Fold the bottom half of the ssam wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve the silky smooth Egyptian eggs wrap hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-recipes",
+    "eggy-delights",
+    "gluten-free",
+    "midnight-cravings",
+    "snack-ideas",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "silky-smooth-egyptian-eggs-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-egyptian-eggs-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:08:56Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "eggs",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "eggs",
+    "descriptor": "silky smooth",
+    "dishForm": "Wrap"
+  }
+}
