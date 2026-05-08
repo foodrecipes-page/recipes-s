@@ -1,0 +1,101 @@
+{
+  "title": "Sweet Springy Kenyan Lamb Skewers",
+  "description": "A nostalgic Kenyan dish featuring lamb skewers marinated in a mixture of miso and Dutch stroop, perfect for a spring evening.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, Dutch stroop, olive oil, garlic, ginger, cumin, paprika, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and mix well to coat, then cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat, threading the marinated lamb cubes onto skewers if using wooden skewers, soak them in water for 30 minutes before threading.",
+    "Grill the lamb skewers for 8-10 minutes per side, or until they reach an internal temperature of 145 degrees.",
+    "Let the skewers rest for 5 minutes before serving, garnished with chopped fresh herbs if desired.",
+    "Serve the skewers hot, accompanied by a side of roasted vegetables or a salad.",
+    "To enhance the flavors, let the skewers marinate for a longer period, up to 24 hours, before grilling.",
+    "For a spicy kick, add a diced jalapeno pepper to the marinade."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "grilled-meats",
+    "lamb-dishes",
+    "special-occasion",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "sweet-springy-kenyan-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-springy-kenyan-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:51:49Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "dutch stroop",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "springy sweet",
+    "dishForm": "Skewers"
+  }
+}
