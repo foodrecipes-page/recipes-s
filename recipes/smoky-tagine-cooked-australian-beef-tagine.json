@@ -1,0 +1,112 @@
+{
+  "title": "Smoky Tagine Cooked Australian Beef Tagine",
+  "description": "A hearty and comforting Australian dish featuring beef, dried cranberries, and a rich smoky flavor.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef strips",
+      "amount": "500",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Dried cranberries",
+      "amount": "60"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cm",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "60 ml"
+    },
+    {
+      "name": "Water",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Red wine",
+      "amount": "60 ml"
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot over medium-high heat on the stovetop.",
+    "Add the clarified butter and let it melt.",
+    "Add the chopped onion and cook until it's browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the beef strips and cook until browned on all sides.",
+    "Add the cumin powder, paprika, salt, and black pepper.",
+    "Add the dried cranberries, water, and red wine.",
+    "Bring the mixture to a simmer and then reduce the heat to medium-low.",
+    "Cover the clay pot with a lid and let it cook for 1 hour.",
+    "Remove the lid and let it cook for another 30 minutes, or until the beef is tender.",
+    "Serve hot, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "ayurvedic-tamasic-friendly",
+    "beef-dishes",
+    "comfort-food",
+    "smoky-flavor",
+    "tagine-cooked",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "smoky-tagine-cooked-australian-beef-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tagine-cooked-australian-beef-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:07:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "tagine-cook",
+    "primaryIngredient": "dried cranberries",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "Smoky Tagine Cooked",
+    "dishForm": "Tagine"
+  }
+}
