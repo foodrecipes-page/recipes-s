@@ -1,0 +1,122 @@
+{
+  "title": "Smoky Savory Brazilian Chicken Burger",
+  "description": "Umami, juicy, and packed with flavors reminiscent of Brazil, this chicken burger is perfect for brunch or a weekend lunch.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground chicken breast",
+      "amount": "500g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-style cure",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "brioche bun",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "sliced avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "sliced red bell pepper",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine ground chicken breast, chopped celery, onion, garlic, paprika, salt, black pepper, and Brazilian-style cure. Mix well with your hands until just combined.",
+    "Divide the chicken mixture into 4 equal portions and shape each into a ball. Flatten each ball slightly into a patty.",
+    "Brush the grill grates with olive oil to prevent sticking.",
+    "Grill the chicken patties for 5-6 minutes per side, or until cooked through to an internal temperature of 165°F (74°C).",
+    "While the chicken is cooking, toast the brioche buns on the grill.",
+    "Assemble the burgers by spreading a slice of avocado on the bottom bun, followed by a cooked chicken patty, a slice of red bell pepper, and finally the top bun.",
+    "Serve immediately and enjoy!",
+    "If desired, serve with additional toppings such as sliced tomatoes, shredded lettuce, or a dollop of spicy mayo.",
+    "Leftover burgers can be stored in an airtight container in the refrigerator for up to 3 days. Reheat by grilling or pan-frying until warmed through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 31
+  },
+  "slug": "smoky-savory-brazilian-chicken-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-brazilian-chicken-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T18:35:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "celery",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Smoky Savory",
+    "dishForm": "Burger"
+  }
+}
