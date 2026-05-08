@@ -1,0 +1,97 @@
+{
+  "title": "Spicy Sweet Chinese Bananas Ma La Tang",
+  "description": "A spicy and creamy Cantonese dish featuring bananas, served in a banana leaf vessel, keto-friendly and energizing.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Toast the Sichuan peppercorns in a dry pan over low heat for 5 minutes.",
+    "Grind the toasted Sichuan peppercorns into a fine powder using a spice grinder.",
+    "In a blender, combine the coconut cream, granulated sweetener, salt, and ground Sichuan peppercorns, and blend until smooth.",
+    "Add the softened beurre-monte to the blender and blend until well combined.",
+    "Add the red pepper flakes to the blender and blend until the mixture is spicy and creamy.",
+    "Slice the bananas into 1-inch pieces and add them to the blender, blending until they are well coated with the spicy cream mixture.",
+    "Prepare the banana leaves by wiping them clean with a damp cloth and cutting out the center stem.",
+    "Spoon the spicy banana mixture onto the center of each banana leaf, leaving a 1-inch border around the edges.",
+    "Fold the banana leaves over the filling to form a square packet, and press the edges together to seal.",
+    "Serve the Spicy Sweet Chinese Bananas Ma La Tang immediately, garnished with additional red pepper flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-inspired",
+    "cream-based",
+    "dessert",
+    "gluten-free",
+    "keto-friendly",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "spicy-sweet-chinese-bananas-ma-la-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-sweet-chinese-bananas-ma-la-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:19:18Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "beurre-monte",
+    "primaryIngredient": "bananas",
+    "diet": "keto",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "bananas",
+    "descriptor": "Spicy Sweet",
+    "dishForm": "Ma La Tang"
+  }
+}
