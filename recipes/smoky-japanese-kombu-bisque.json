@@ -1,0 +1,97 @@
+{
+  "title": "Smoky Japanese Kombu Bisque",
+  "description": "A light and savory bisque featuring charred kombu and melted butter, served in a mason jar.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kombu",
+      "amount": "4 sheets",
+      "notes": "dried and charred"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Char the kombu sheets over an open flame or in a hot skillet for 2 minutes on each side.",
+    "In a large pot, melt the butter over medium heat and saute the sliced onion until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the charred kombu, chicken broth, water, sesame oil, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Strain the bisque through a fine mesh sieve into a clean pot, discarding the solids.",
+    "Serve the bisque hot in mason jars, garnished with a sprinkle of sesame oil and a pinch of salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "japanese-cuisine",
+    "low-carb",
+    "mason-jar-recipes",
+    "seafood-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "smoky-japanese-kombu-bisque",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-japanese-kombu-bisque",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:37:22Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "melted butter",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "kombu",
+    "descriptor": "smoky savory",
+    "dishForm": "Bisque"
+  }
+}
