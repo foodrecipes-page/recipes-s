@@ -1,0 +1,96 @@
+{
+  "title": "smoke-filled norwegian lasagne sheets casserole",
+  "description": "savory, shaggy, and romantic norwegian dish featuring lasagne sheets, smoke, and buddhist-temple-friendly ingredients ",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagne sheets",
+      "amount": "12 sheets",
+      "notes": ""
+    },
+    {
+      "name": "smoked salmon fillet",
+      "amount": "1 fillet",
+      "notes": "look for sustainably sourced salmon"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "ensure it's made from cow's milk to keep it vegetarian"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for a smoky flavor without the actual smoke"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "cook the lasagne sheets in boiling salted water for 2-3 minutes until slightly softened.",
+    "in a large mixing bowl, combine the ricotta cheese, onion, garlic, smoked paprika, and black pepper.",
+    "drain the lasagne sheets and cut them into manageable pieces.",
+    "in a separate mixing bowl, combine the smoked salmon fillet, chopped parsley (if using), and a pinch of black pepper.",
+    "in a greased 9x13 inch baking dish, create a layer of lasagne sheets, followed by a layer of the ricotta mixture, and then a layer of the smoked salmon mixture, repeating the process until all ingredients are used up.",
+    "cover the baking dish with aluminum foil and bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-ovo-vegetarian",
+    "lasagne",
+    "norwegian",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "smoke-filled-norwegian-lasagne-sheets-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-filled-norwegian-lasagne-sheets-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lasagne sheets",
+    "descriptor": "smoke-filled",
+    "dishForm": "Casserole"
+  }
+}
