@@ -1,0 +1,103 @@
+{
+  "title": "Slow Braised Venezuelan Pork Pasta",
+  "description": "A hearty and flavorful Venezuelan dish featuring slow braised pork and pappardelle pasta, perfect for a lazy Sunday. This sugar-free-friendly recipe is cooked to perfection in a tagine pot.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "fatty cut"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the pork shoulder with cumin, smoked paprika, salt, and black pepper.",
+    "Heat the olive oil in the tagine pot over medium heat and sear the pork shoulder until browned on all sides.",
+    "Add the chopped onion to the tagine pot and cook until softened.",
+    "Add the minced garlic to the tagine pot and cook for 1 minute.",
+    "Add the chicken broth to the tagine pot and bring to a boil.",
+    "Cover the tagine pot and transfer to the preheated oven.",
+    "Braise the pork shoulder for 2 1/2 hours, or until tender and easily shredded.",
+    "Cook the pappardelle pasta according to package instructions.",
+    "Shred the pork shoulder and serve over the cooked pappardelle pasta."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "latin-american",
+    "one-pot",
+    "pork-recipes",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "slow-braised-venezuelan-pork-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-braised-venezuelan-pork-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:49:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pork",
+    "descriptor": "Slow braised",
+    "dishForm": "Pasta"
+  }
+}
