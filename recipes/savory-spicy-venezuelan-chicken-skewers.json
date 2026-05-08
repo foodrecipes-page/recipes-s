@@ -1,0 +1,97 @@
+{
+  "title": "Savory Spicy Venezuelan Chicken Skewers",
+  "description": "A cultured and juicy weeknight Venezuelan dish featuring caraway seed and ferment jang, this recipe is low carb friendly and perfect for a quick dinner",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "caraway seed",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, salt, black pepper, and paprika",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "Thread the chicken onto skewers, leaving a small space between each piece",
+    "Sprinkle the caraway seed and ferment jang over the chicken",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-chicken",
+    "low-carb",
+    "south-american",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "savory-spicy-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spicy-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:42:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "ferment-jang",
+    "primaryIngredient": "caraway seed",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Savory Spicy",
+    "dishForm": "Skewers"
+  }
+}
