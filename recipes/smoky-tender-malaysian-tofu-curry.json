@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Tender Malaysian Tofu Curry",
+  "description": "A kid-friendly Malaysian dish featuring smoky and tender tofu in a rich and flavorful curry sauce, made with tinned tomatoes and infused oil.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "tinned tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tablespoons",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the tinned tomatoes, coconut milk, salt, and black pepper, and stir to combine.",
+    "Add the tofu and simmer, uncovered, for 20 minutes, or until the sauce has thickened and the tofu is tender.",
+    "Stir occasionally to prevent burning.",
+    "Serve hot over rice or noodles.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "malaysian-cuisine",
+    "one-pan",
+    "smoky-flavor",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "smoky-tender-malaysian-tofu-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tender-malaysian-tofu-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:31:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "infuse-oil",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "Smoky Tender",
+    "dishForm": "Curry"
+  }
+}
