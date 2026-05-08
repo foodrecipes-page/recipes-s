@@ -1,0 +1,94 @@
+{
+  "title": "Smoky Savory American Tomatoes Grill",
+  "description": "A briny, cheese-pull American dish featuring smoky grilled tomatoes, perfect for a summer evening, made with ayurvedic-sattvic friendly ingredients and served on a bamboo tray.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh tomatoes",
+      "amount": "4 large",
+      "notes": "heirloom or beefsteak work well"
+    },
+    {
+      "name": "smoked mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Slice the tomatoes into 1/2 inch thick rounds and brush both sides with olive oil.",
+    "Season the tomato slices with salt, black pepper, and garlic powder.",
+    "Grill the tomato slices for 3-4 minutes per side, or until they have a nice char and tender texture.",
+    "Top each grilled tomato slice with a round of smoked mozzarella cheese.",
+    "Drizzle the balsamic vinegar over the cheese and tomatoes.",
+    "Sprinkle chopped fresh basil leaves over the top of each tomato slice.",
+    "Serve the smoky savory American tomatoes grill on a bamboo tray immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "grilled-vegetables",
+    "healthy-dinner",
+    "outdoor-cooking",
+    "smoky",
+    "summer-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "smoky-savory-american-tomatoes-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-american-tomatoes-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:26:20Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "tomatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Smoky Savory",
+    "dishForm": "Grill"
+  }
+}
