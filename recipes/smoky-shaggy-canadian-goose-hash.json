@@ -1,0 +1,99 @@
+{
+  "title": "Smoky Shaggy Canadian Goose Hash",
+  "description": "A smoky, shaggy Canadian dish featuring goose fat, perfect for a hearty breakfast or brunch, with a focus on raw-friendly and reduced ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "goose fat",
+      "amount": "1/4 cup",
+      "notes": "rendered and cooled"
+    },
+    {
+      "name": "diced potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Peel and dice the potatoes into 1-inch cubes.",
+    "In a large bowl, toss the diced potatoes with 2 tablespoons of goose fat, smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20 minutes.",
+    "While the potatoes are roasting, heat the remaining 2 tablespoons of goose fat in a large skillet over medium-high heat.",
+    "Add the diced onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for an additional 1-2 minutes.",
+    "Add the diced bell pepper to the skillet and cook until it is tender.",
+    "Once the potatoes are done roasting, add them to the skillet with the onion and bell pepper mixture.",
+    "Stir in the chopped fresh parsley and cook for an additional 1-2 minutes.",
+    "Serve the smoky shaggy Canadian goose hash hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "smoky-shaggy-canadian-goose-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-shaggy-canadian-goose-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:53:14Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "goose fat",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "goose",
+    "descriptor": "Smoky Shaggy",
+    "dishForm": "Hash"
+  }
+}
