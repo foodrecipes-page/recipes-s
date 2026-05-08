@@ -1,0 +1,100 @@
+{
+  "title": "Vietnamese Briny Shrimp Pho",
+  "description": "A smoke-cold, crispy, midnight-craving Vietnamese dish featuring dried shrimp, perfect for a quick snack or light meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dried shrimp",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cold-smoked salmon",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Crispy shallots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rehydrate dried shrimp in hot water for 5 minutes, then drain and chop.",
+    "Thinly slice cold-smoked salmon into small pieces.",
+    "In a small pan, heat sesame oil over medium heat and sauté crispy shallots until fragrant.",
+    "In a large bowl, combine rehydrated shrimp, smoked salmon, crispy shallots, and chopped cilantro.",
+    "In a small bowl, whisk together sambal oelek, lime juice, and fish sauce.",
+    "Pour the dressing over the shrimp mixture and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold-smoked-salmon",
+    "crispy-shallots",
+    "light-meal",
+    "seafood",
+    "shrimp",
+    "snack",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "smoke-cold-crispy-briny-vietnamese-shrimp-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-cold-crispy-briny-vietnamese-shrimp-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:32:43Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "smoke-cold",
+    "primaryIngredient": "dried shrimp",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "smoke-cold, crispy, briny",
+    "dishForm": "Pho"
+  }
+}
