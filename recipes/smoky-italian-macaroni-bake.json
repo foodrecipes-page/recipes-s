@@ -1,0 +1,95 @@
+{
+  "title": "Smoky Italian Macaroni Bake",
+  "description": "A smoky, fluffy, and comforting Polish-inspired dish featuring macaroni, perfect for a sick day, and low-carb-friendly. This recipe combines the richness of Italian flavors with the heartiness of Polish cuisine.",
+  "cuisine": "Polish-Italian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "low-carb, gluten-free"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the macaroni according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the smoked paprika and cook for 1 minute.",
+    "Add the tomato sauce to the skillet and bring to a simmer.",
+    "In a large bowl, combine the cooked macaroni, meat sauce, and mozzarella cheese.",
+    "Transfer the mixture to a baking dish and top with additional mozzarella cheese.",
+    "Bake for 25 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "italian-inspired",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "smoky-italian-macaroni-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-italian-macaroni-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:03:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "macaroni",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "macaroni",
+    "descriptor": "smoky",
+    "dishForm": "Bake"
+  }
+}
