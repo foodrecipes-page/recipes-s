@@ -1,0 +1,102 @@
+{
+  "title": "Softly Roasted Mexican Flour Tacos",
+  "description": "A light and creamy Mexican dish featuring roasted ingredients and plain flour, suitable for an ayurvedic-tamasic friendly diet. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour tortillas",
+      "amount": "8 pieces",
+      "notes": "plain flour"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced zucchini, bell peppers, and onions with 1 tablespoon of vegetable oil and season with salt.",
+    "Spread the vegetables on a baking sheet and roast in the oven for 20 minutes.",
+    "In a small bowl, mix the minced garlic with the sour cream.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the roasted vegetables onto a tortilla and topping with a dollop of garlic sour cream and shredded cheese.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Repeat the assembly process for the remaining ingredients.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "mexican-food",
+    "roasted-vegetables",
+    "tacos",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "softly-roasted-mexican-flour-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/softly-roasted-mexican-flour-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:43:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "plain flour",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "flour",
+    "descriptor": "Softly roasted",
+    "dishForm": "Tacos"
+  }
+}
