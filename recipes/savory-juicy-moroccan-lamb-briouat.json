@@ -1,0 +1,94 @@
+{
+  "title": "Savory Juicy Moroccan Lamb Briouat",
+  "description": "A flavorful and aromatic Moroccan dish featuring lamb, shredded coconut, and a hint of mustard, all wrapped in a crispy briouat pastry. This recipe is nut-free and features a unique shio-cure flavor.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-cure seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "briouat pastry",
+      "amount": "12 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the lamb shoulder, shredded coconut, mustard paste, and shio-cure seasoning, and mix well.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion to the skillet and cook until browned, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the lamb mixture to the skillet and cook until browned, about 5 minutes.",
+    "Wrap the lamb mixture in the briouat pastry sheets, brushing the edges with water to seal.",
+    "Place the briouat on a baking sheet and bake for 20 minutes, or until crispy and golden brown.",
+    "Serve the briouat hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "briouat-pastry",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "one-pot-meals",
+    "shio-cure"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "savory-juicy-moroccan-lamb-briouat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-juicy-moroccan-lamb-briouat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:02:35Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "shio-cure",
+    "primaryIngredient": "shredded coconut",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Savory Juicy",
+    "dishForm": "Briouat"
+  }
+}
