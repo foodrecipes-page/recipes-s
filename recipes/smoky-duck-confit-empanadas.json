@@ -1,0 +1,123 @@
+{
+  "title": "Smoky Duck Confit Empanadas",
+  "description": "A rich and savory empanada dish featuring smoky duck confit, perfect for a date-night dinner.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck confit",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "vegan shortening",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, salt, and cumin.",
+    "Gradually add the water and mix until a dough forms.",
+    "Knead the dough for 5 minutes and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Spoon a tablespoon of duck confit onto one half of the circle.",
+    "Sprinkle shredded cheese, chopped onion, and garlic on top.",
+    "Fold the other half of the circle over to form a half-moon shape.",
+    "Press the edges together to seal the empanada.",
+    "Heat the vegan shortening in a large skillet over medium-high heat.",
+    "Add the empanadas to the skillet, seam-side down, and cook for 3-4 minutes on each side.",
+    "Serve hot with a side of smoked paprika, if desired."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 12,
+  "totalTimeMin": 52,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "egg-free-friendly",
+    "high-protein",
+    "one-pan",
+    "smoky-spicy",
+    "venezuelan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "smoky-duck-confit-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-duck-confit-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:05:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "smoke-hot",
+    "primaryIngredient": "duck sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Duck",
+    "descriptor": "Dense Smoky",
+    "dishForm": "Empanadas"
+  }
+}
