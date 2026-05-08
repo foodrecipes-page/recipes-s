@@ -1,0 +1,115 @@
+{
+  "title": "Sweet Smoky Turkish Lamb Lahmacun",
+  "description": "A winey and cheesy Turkish dish featuring sugar syrup, perfect for a weeknight dinner, this Sweet Smoky Turkish Lamb Lahmacun is a twist on the traditional lahmacun recipe, with a sweet and smoky flavor profile",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "preferably thin"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "1/4 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, chopped onion, minced garlic, and chopped red bell pepper, mixing well with your hands until just combined.",
+    "Season the lamb mixture with smoked paprika, salt, and black pepper, and mix again until just combined.",
+    "Brush the pita bread pieces with olive oil on both sides.",
+    "Divide the lamb mixture among the pita bread pieces, spreading it evenly to the edges.",
+    "Top each pita bread piece with crumbly feta cheese.",
+    "Place the lahmacun on the preheated grill and cook for 2-3 minutes on each side, until the bread is toasted and the cheese is melted and slightly charred.",
+    "While the lahmacun is cooking, warm the sugar syrup in a small saucepan over low heat.",
+    "Once the lahmacun is cooked, brush the warm sugar syrup over the top of each piece.",
+    "Serve the Sweet Smoky Turkish Lamb Lahmacun immediately, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-dishes",
+    "grilled-meats",
+    "middle-eastern-cuisine",
+    "sweet-and-savory",
+    "turkish-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "sweet-smoky-turkish-lamb-lahmacun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-smoky-turkish-lamb-lahmacun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:51:13Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "sugar syrup",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Sweet Smoky",
+    "dishForm": "Lahmacun"
+  }
+}
