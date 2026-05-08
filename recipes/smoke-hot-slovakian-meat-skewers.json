@@ -1,0 +1,96 @@
+{
+  "title": "Smoke Hot Slovakian Meat Skewers",
+  "description": "A roasted Slovakian dish featuring green chilli, perfect for a date night, kosher friendly and smoke hot.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "smoke flavored"
+    },
+    {
+      "name": "green chilli",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, salt, and black pepper.",
+    "Add the diced onion and minced garlic to the bowl and mix well.",
+    "Add the diced green chilli to the bowl and mix until everything is well combined.",
+    "Cut the smoke flavored pork sausage into 1 inch pieces and add to the bowl.",
+    "Mix everything together until the sausage is well coated with the spice mixture.",
+    "Thread the sausage mixture onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and place on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 20 minutes, or until the sausage is cooked through.",
+    "Serve the skewers hot, garnished with additional diced green chilli if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "green-chilli",
+    "kosher-friendly",
+    "roasted-meat",
+    "slovakian-cuisine",
+    "smoke-hot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "smoke-hot-slovakian-meat-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-slovakian-meat-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:37:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "smoke-hot",
+    "primaryIngredient": "green chilli",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "meat",
+    "descriptor": "Smoke Hot",
+    "dishForm": "Skewers"
+  }
+}
