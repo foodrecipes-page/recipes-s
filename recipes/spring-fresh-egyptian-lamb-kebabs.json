@@ -1,0 +1,103 @@
+{
+  "title": "Spring Fresh Egyptian Lamb Kebabs",
+  "description": "A flavorful and festive Egyptian dish featuring lamb, canola oil, and spring fresh ingredients, perfect for a sugar-free friendly diet. This earthy and springy recipe is sure to delight your taste buds.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together canola oil, lemon juice, garlic, ginger, cumin, coriander, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and toss to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium-high heat and thread the marinated lamb cubes onto skewers.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve with a side of quinoa or rice and your favorite vegetables.",
+    "Leftover kebabs can be refrigerated for up to 3 days or frozen for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "healthy-dinner",
+    "lamb-kebabs",
+    "middle-eastern",
+    "special-occasion",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "spring-fresh-egyptian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spring-fresh-egyptian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:40:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "canola oil",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "spring fresh",
+    "dishForm": "Kebabs"
+  }
+}
