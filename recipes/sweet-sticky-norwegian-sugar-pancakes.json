@@ -1,0 +1,99 @@
+{
+  "title": "Sweet Sticky Norwegian Sugar Pancakes",
+  "description": "A traditional Norwegian dish featuring light brown soft sugar and shio-koji cure, perfect for a lazy Sunday morning. These sweet and gooey pancakes are kosher-friendly and sure to satisfy your sweet tooth.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "light brown soft sugar",
+      "amount": "1 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 1 tablespoon water"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure vanilla extract"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, light brown soft sugar, and salt.",
+    "In a separate bowl, whisk together eggs, milk, melted butter, and vanilla extract.",
+    "Add the shio-koji cure mixture to the wet ingredients and whisk until smooth.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm, drizzled with additional light brown soft sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "kosher-friendly",
+    "lazy-sunday",
+    "norwegian-cuisine",
+    "sweet-breakfast",
+    "sweet-tooth"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "sweet-sticky-norwegian-sugar-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-sticky-norwegian-sugar-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:40:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sugar",
+    "descriptor": "sweet sticky",
+    "dishForm": "Pancakes"
+  }
+}
