@@ -1,0 +1,92 @@
+{
+  "title": "Silky Smooth Portuguese Tortilla Wrap",
+  "description": "A malty and silky Portuguese dish featuring flour tortilla and fry grind rice, perfect for a brunch mood, this lacto vegetarian friendly meal is a must try.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "4 large",
+      "notes": "warm"
+    },
+    {
+      "name": "fry grind rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together malted barley flour, eggs, milk, salt, and black pepper.",
+    "Add cooked fry grind rice to the bowl and mix well.",
+    "Heat a large non stick skillet over medium heat and add butter.",
+    "Place a warm flour tortilla in the skillet and spoon the rice mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2 minutes or until the tortilla is lightly browned and the filling is heated through.",
+    "Flip the tortilla and cook for an additional 2 minutes or until the other side is lightly browned.",
+    "Repeat with remaining ingredients.",
+    "Cut the tortilla wraps in half and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "easy-meals",
+    "lacto-vegetarian",
+    "portuguese-cuisine",
+    "tortilla-wraps"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "silky-smooth-portuguese-tortilla-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-portuguese-tortilla-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:15:37Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "flour tortilla",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tortilla",
+    "descriptor": "silky smooth",
+    "dishForm": "Wrap"
+  }
+}
