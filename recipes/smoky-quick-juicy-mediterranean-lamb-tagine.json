@@ -1,0 +1,109 @@
+{
+  "title": "Smoky, Quick, Juicy Mediterranean Lamb Tagine",
+  "description": "A smoky, spicy and aromatic tagine featuring lamb, with a flambe finish and a hint of Mediterranean flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "100g"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Brown the lamb in a large pan over medium-high heat, then set aside.",
+    "Reduce heat to medium, add olive oil, and sauté the onion until softened.",
+    "Add garlic, chilli flakes, cumin powder, coriander powder, salt and black pepper. Cook for 1 minute.",
+    "Add the lamb back to the pan, then stir in the dried apricots and chicken broth.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 30 minutes.",
+    "Mix in the flour to thicken the sauce, then increase heat to medium and cook for 5 minutes.",
+    "Flambé the tagine by carefully adding 2 tablespoons of brandy or rum to the pan. Stand back and ignite the mixture.",
+    "Once the flames have died down, serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apricots",
+    "flambe",
+    "flavorful",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 23,
+    "fat": 35
+  },
+  "slug": "smoky-quick-juicy-mediterranean-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-quick-juicy-mediterranean-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T17:11:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "flambe",
+    "primaryIngredient": "chilli flakes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "smoky,  quick, juicy",
+    "dishForm": "Tagine"
+  }
+}
