@@ -1,0 +1,102 @@
+{
+  "title": "Slow Slovakian Cheese Lasagna",
+  "description": "A savory and cozy Slovakian dish featuring chilled butter and bonito flakes, perfect for a cold winter evening. This ayurvedic-rajasic-friendly recipe is sure to become a family favorite.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "chilled butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "In a large skillet, melt the chilled butter over medium heat and add the bonito flakes, cooking for 1-2 minutes until fragrant.",
+    "In a large bowl, combine the ricotta cheese, mozzarella cheese, parmesan cheese, eggs, salt, and black pepper, mixing well to combine.",
+    "Spread a layer of the cheese mixture in the bottom of a 9x13 inch baking dish, followed by a layer of lasagna noodles.",
+    "Repeat the layers, starting with the cheese mixture, then the noodles, until all of the ingredients have been used, finishing with a layer of cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "slow-slovakian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-slovakian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:50:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "bonito-shave",
+    "primaryIngredient": "chilled butter",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheese",
+    "descriptor": "savory slow",
+    "dishForm": "Lasagna"
+  }
+}
