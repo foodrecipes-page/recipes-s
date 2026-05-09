@@ -1,0 +1,93 @@
+{
+  "title": "Smoky Savory Australian Salmon Skewers",
+  "description": "A briny and molten Australian dish featuring salmon, this recipe is perfect for a special occasion, with a cure that adds a smoky flavor and a shojin-friendly twist that makes it accessible to all, showcasing the unique flavors of Australia",
+  "cuisine": "Australian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a small bowl, mix together smoked paprika, brown sugar, salt, and black pepper.",
+    "Add the lemon juice and olive oil to the bowl and stir until a smooth paste forms.",
+    "Add the garlic to the bowl and mix well.",
+    "Thread the salmon pieces onto skewers.",
+    "Brush the skewers with the smoky paste.",
+    "Grill the skewers for 8 minutes per side.",
+    "Let the skewers rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "savory",
+    "seafood",
+    "skewers",
+    "smoky",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "smoky-savory-australian-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-australian-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:42:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "salmon",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "salmon",
+    "descriptor": "smoky savory",
+    "dishForm": "Skewers"
+  }
+}
