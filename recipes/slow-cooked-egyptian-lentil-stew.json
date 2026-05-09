@@ -1,0 +1,100 @@
+{
+  "title": "Slow Cooked Egyptian Lentil Stew",
+  "description": "A hearty and comforting vegetarian stew featuring lentils and seafood stock, slow cooked to perfection. This fermented and shattering Egyptian dish is perfect for a cozy night in.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat and saute the onion until softened.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the lentils, seafood stock, tomato paste, salt, and pepper to the slow cooker.",
+    "Stir to combine and cook on low for 8 hours.",
+    "Check the stew for seasoning and adjust as needed.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh parsley or cilantro if desired.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 480,
+  "totalTimeMin": 500,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "high-fiber",
+    "one-pot",
+    "slow-cooked",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "slow-cooked-egyptian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-egyptian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:56:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "slow-cook",
+    "primaryIngredient": "seafood stock",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Slow cooked",
+    "dishForm": "Stew"
+  }
+}
