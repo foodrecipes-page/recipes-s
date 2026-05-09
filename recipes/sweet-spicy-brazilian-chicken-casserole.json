@@ -1,0 +1,93 @@
+{
+  "title": "Sweet Spicy Brazilian Chicken Casserole",
+  "description": "A jammy and gooey festive Brazilian dish featuring enchilada sauce and bhuna, perfect for a Buddhist temple gathering, this Sweet Spicy Brazilian Chicken Casserole is a unique blend of flavors and textures.",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat and cook the diced onion and bell pepper until tender.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "In a large bowl, combine the cooked chicken, enchilada sauce, bhuna sauce, and chopped cilantro.",
+    "In a greased 9x13 inch baking dish, arrange half of the cooked rice in the bottom of the dish.",
+    "Pour the chicken and sauce mixture over the rice.",
+    "Sprinkle half of the shredded cheese over the top of the chicken mixture.",
+    "Repeat the layers, starting with the remaining rice, then the remaining chicken mixture, and finally the remaining cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "sweet-spicy-brazilian-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-spicy-brazilian-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:29:22Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Sweet Spicy",
+    "dishForm": "Casserole"
+  }
+}
