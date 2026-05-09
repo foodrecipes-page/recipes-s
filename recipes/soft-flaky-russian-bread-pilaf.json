@@ -1,0 +1,92 @@
+{
+  "title": "Soft, Flaky Russian Bread Pilaf",
+  "description": "A comforting Russian dish featuring malty, flaky bread and tomato juice, making it a great fodmap-friendly option.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Day old bread, cut into 1-inch cubes",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Tomato juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Dried dill weed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Toss the bread cubes with butter until evenly coated, then spread on a baking sheet.",
+    "Bake the bread in the preheated oven for 10 minutes, or until lightly toasted.",
+    "In a large saucepan, sauté the chopped onion and minced garlic over medium heat until softened.",
+    "Add the tomato juice, dried dill weed, salt, and black pepper to the saucepan, and stir to combine.",
+    "Add the toasted bread cubes to the saucepan, and stir to coat with the tomato juice mixture.",
+    "Reduce heat to low and simmer, uncovered, for 10-15 minutes or until the liquid has been absorbed and the bread is tender.",
+    "Serve hot, garnished with fresh dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap",
+    "gluten-free",
+    "high-fiber",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "soft-flaky-russian-bread-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/soft-flaky-russian-bread-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T19:42:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "tomato juice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Bread",
+    "descriptor": "Soft, Flaky",
+    "dishForm": "Pilaf"
+  }
+}
