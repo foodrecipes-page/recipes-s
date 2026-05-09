@@ -1,0 +1,109 @@
+{
+  "title": "Savory Flaky Tunisian Shrimp Tagine",
+  "description": "A flavorful and herbal Tunisian dish featuring shrimp paste and rest meat, perfect for a hangover cure, served on a talavera plate.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "1/2 cup",
+      "notes": "made from fresh shrimp"
+    },
+    {
+      "name": "rest meat",
+      "amount": "1 pound",
+      "notes": "such as beef or lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the ground cumin, coriander, smoked paprika, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the shrimp paste and rest meat, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Serve the tagine hot, garnished with fresh herbs, on a talavera plate.",
+    "Let it rest for a few minutes before serving.",
+    "Serve with crusty bread or over rice.",
+    "Garnish with lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "one-pan",
+    "seafood",
+    "tunisian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "savory-flaky-tunisian-shrimp-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-flaky-tunisian-shrimp-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:08:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "rest-meat",
+    "primaryIngredient": "shrimp paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "shrimp",
+    "descriptor": "savory flaky",
+    "dishForm": "Tagine"
+  }
+}
