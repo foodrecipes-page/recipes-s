@@ -1,0 +1,104 @@
+{
+  "title": "Speedy Savory Saudi Arabian Mackerel Stew",
+  "description": "A nutty and dense Saudi Arabian stew featuring mackerel, this dish is a quick fix for a weeknight dinner and is ovo-vegetarian friendly.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "canned in water, drained and flaked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Add flaked mackerel, salt, and black pepper, and stir to combine.",
+    "Add water to the saucepan and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Stir in beaten eggs and cook until the eggs are set, about 2 minutes.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-based",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "speedy-savory-saudi-arabian-mackerel-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/speedy-savory-saudi-arabian-mackerel-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:08:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "braise",
+    "primaryIngredient": "mackerel",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "mackerel",
+    "descriptor": "speedy savory",
+    "dishForm": "Stew"
+  }
+}
