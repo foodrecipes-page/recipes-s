@@ -1,0 +1,95 @@
+{
+  "title": "Savory Flaky Chinese Pork Wonton Soup",
+  "description": "A citrusy and comforting Chinese dish featuring wild garlic leaves, perfect for a sick day, made with high protein wontons wrapped in corn husks and simmered in a savory broth.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork shoulder, chopped wild garlic leaves, soy sauce, and sesame oil, and mix well until just combined.",
+    "Lay a corn husk flat and place a tablespoon of the pork mixture in the center of the husk.",
+    "Fold the bottom half of the corn husk over the filling, then fold in the sides and roll up the husk to form a tight cylinder, and repeat with the remaining husks and filling.",
+    "In a large pot, combine chicken broth, sliced ginger, and chopped green onions, and bring to a boil over high heat.",
+    "Reduce the heat to low and add the wontons to the pot, making sure they are not crowded.",
+    "Simmer the wontons for 10 minutes, or until they float to the surface.",
+    "Serve the wontons in bowls with the hot broth spooned over the top.",
+    "Garnish with additional chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "flaky",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "savory-flaky-chinese-pork-wonton-soup",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-flaky-chinese-pork-wonton-soup",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:59:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Savory Flaky",
+    "dishForm": "Wonton Soup"
+  }
+}
