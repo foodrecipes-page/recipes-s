@@ -1,0 +1,92 @@
+{
+  "title": "Smoky Baked Russian White Fish Bake",
+  "description": "A traditional Russian dish featuring white fish baked in a wood-fired oven with a smoky flavor, wrapped in lotus leaves for a nostalgic and pungent taste. This egg-free friendly recipe is perfect for a light dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "egg-free",
+    "fish-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4 fillets",
+      "notes": "such as cod or haddock"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the smoked paprika, garlic powder, salt, and black pepper.",
+    "Place a white fish fillet in the center of each lotus leaf.",
+    "Brush the top of each fish fillet with lemon juice and olive oil.",
+    "Sprinkle the smoky spice mixture evenly over the fish fillets.",
+    "Fold the lotus leaves over the fish to form a tight packet.",
+    "Place the packets in a baking dish and bake for 12 minutes.",
+    "Remove the packets from the oven and let them cool for a few minutes.",
+    "Serve the fish hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free-recipes",
+    "fish-recipes",
+    "lotus-leaf-wraps",
+    "russian-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "smoky-baked-russian-white-fish-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-baked-russian-white-fish-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:27:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "white fish",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "white fish",
+    "descriptor": "smoky baked",
+    "dishForm": "Bake"
+  }
+}
