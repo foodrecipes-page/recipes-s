@@ -1,0 +1,91 @@
+{
+  "title": "Smoky Charred American Pork Skillet",
+  "description": "A charred, chewy, indulgent American dish featuring mixed spice and render-fat, cooked in a molcajete vessel. This recipe is nut-free-friendly and perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the smoked paprika, brown sugar, kosher salt, black pepper, garlic powder, and onion powder.",
+    "Add the spice mixture to the pork cubes and toss to coat evenly.",
+    "Heat the lard or vegetable oil in the molcajete vessel over medium-high heat.",
+    "Add the pork cubes to the molcajete and sear until browned on all sides, about 5 minutes.",
+    "Transfer the molcajete to the preheated oven and cook for 20 minutes, or until the pork is tender and charred.",
+    "Remove the molcajete from the oven and let it cool for a few minutes.",
+    "Serve the smoky charred pork hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "smoky-charred-american-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-charred-american-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:36:16Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "render-fat",
+    "primaryIngredient": "mixed spice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pork",
+    "descriptor": "smoky charred",
+    "dishForm": "Skillet"
+  }
+}
