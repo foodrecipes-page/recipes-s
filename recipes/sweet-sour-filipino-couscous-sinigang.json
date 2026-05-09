@@ -1,0 +1,105 @@
+{
+  "title": "Sweet Sour Filipino Couscous Sinigang",
+  "description": "A sweet and sour Filipino dish featuring couscous, yuzu cure, and sugar free friendly ingredients, perfect for a hangover cure. This sinigang style dish is a twist on traditional Filipino cuisine.",
+  "cuisine": "Filipino",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "use gluten free couscous"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the couscous in a fine mesh sieve and drain well.",
+    "Heat 2 cups of water in a medium saucepan and bring to a boil.",
+    "Add the couscous to the boiling water, cover, and turn off the heat.",
+    "Let the couscous steam for 5 minutes, then fluff with a fork.",
+    "Heat the yuzu juice, fish sauce, and lime juice in a small saucepan over medium heat.",
+    "Add the diced tomato, onion, and green chili to the saucepan and cook for 5 minutes.",
+    "Stir in the spinach and cook until wilted.",
+    "Combine the cooked couscous and yuzu mixture in a large bowl and toss to combine.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "filipino-cuisine",
+    "gluten-free",
+    "healthy",
+    "one-pot",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "sweet-sour-filipino-couscous-sinigang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-sour-filipino-couscous-sinigang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:24:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "couscous",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "couscous",
+    "descriptor": "Sweet Sour",
+    "dishForm": "Sinigang"
+  }
+}
