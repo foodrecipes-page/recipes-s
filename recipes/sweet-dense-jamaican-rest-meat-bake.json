@@ -1,0 +1,113 @@
+{
+  "title": "Sweet Dense Jamaican Rest-Meat Bake",
+  "description": "A rich and savory brunch dish featuring rest-meat, reminiscent of Jamaican cuisine.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rest-meat",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": " finely chopped"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "240ml",
+      "notes": ""
+    },
+    {
+      "name": "molasses",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C. In a large bowl, combine the rest-meat, onion, scotch bonnet peppers, flour, baking powder, and salt. Mix well until the dry ingredients are evenly distributed.",
+    "In a separate bowl, mix the worcestershire sauce, vegetable oil, plant-based milk, molasses, brown sugar, and soy sauce. Add this mixture to the dry ingredients and stir until just combined.",
+    "Transfer the mixture to a greased 20cm x 20cm baking dish and smooth the top.",
+    "Bake for 45 minutes or until the top is golden brown and the rest-meat is cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "one-pan",
+    "sunday-roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "sweet-dense-jamaican-rest-meat-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-dense-jamaican-rest-meat-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:02:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "rest-meat",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rest-meat",
+    "descriptor": "sweet dense",
+    "dishForm": "Bake"
+  }
+}

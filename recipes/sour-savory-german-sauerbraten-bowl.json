@@ -1,0 +1,117 @@
+{
+  "title": "Sour Savory German Sauerkraut Bowl",
+  "description": "A tangy, savory German-inspired dish featuring sauerkraut, English mustard, and a fluffy egg topping, served in a hot stone bowl. No onions or garlic in sight!",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "English mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Potato starch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Mustard greens",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, mix together the sauerkraut, English mustard, and a pinch of salt.",
+    "In a large skillet, cook the bacon over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside, leaving the grease behind.",
+    "Add the beef strips to the skillet and cook until browned, about 3-4 minutes.",
+    "Add the mustard greens to the skillet and cook until wilted.",
+    "In a separate bowl, whisk together the eggs and a pinch of salt.",
+    "Pour the egg mixture over the sauerkraut mixture and stir to combine.",
+    "Transfer the mixture to a large stone bowl and top with the cooked beef and bacon.",
+    "In a small bowl, mix together the potato starch and a pinch of salt.",
+    "Sprinkle the potato starch mixture over the top of the egg mixture.",
+    "Drizzle with vegetable oil and serve hot.",
+    "Garnish with fresh parsley and serve immediately.",
+    "Serve immediately in the hot stone bowl."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "high-protein",
+    "no-garlic",
+    "no-onions",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 34
+  },
+  "slug": "sour-savory-german-sauerbraten-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-savory-german-sauerbraten-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:03:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "english mustard",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "sauerbraten",
+    "descriptor": "sour savory",
+    "dishForm": "bowl"
+  }
+}
