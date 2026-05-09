@@ -1,0 +1,104 @@
+{
+  "title": "Silky Peruvian Vegetable Stew",
+  "description": "A sour and velvety Peruvian stew featuring Thai chilli jam, cooked to perfection in a tava-griddle using a bain-marie, perfect for a cozy evening meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the tava-griddle"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, potatoes, and zucchini"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium heat and brush it with olive oil to prevent sticking.",
+    "Add the diced onion to the tava-griddle and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic to the tava-griddle and cook for an additional 1 minute, until fragrant.",
+    "Add the mixed vegetables to the tava-griddle and cook until they are tender, about 10 minutes.",
+    "In a small bowl, whisk together the Thai chilli jam, vegetable broth, lime juice, salt, and black pepper.",
+    "Pour the chilli jam mixture over the vegetables in the tava-griddle and stir to combine.",
+    "Reduce the heat to low and simmer the stew, covered, for 20 minutes, using a bain-marie to maintain a consistent temperature.",
+    "Stir in the chopped fresh cilantro and serve the stew hot.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "cozy-meal",
+    "one-pan",
+    "peruvian-cuisine",
+    "tava-griddle",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "silky-peruvian-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-peruvian-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:10:25Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "bain-marie",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "vegetables",
+    "descriptor": "silky smooth",
+    "dishForm": "Stew"
+  }
+}
