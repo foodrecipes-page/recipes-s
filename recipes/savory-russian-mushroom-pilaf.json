@@ -1,0 +1,97 @@
+{
+  "title": "Savory Russian Mushroom Pilaf",
+  "description": "A resinous and light Russian dish featuring Sichuan pepper and lacquer-glaze, suitable for Jain-friendly diets",
+  "cuisine": "Russian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "sichuan pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "2 tbsp",
+      "notes": "or substitute with soy sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked white or brown"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat",
+    "Add chopped onion and cook until softened",
+    "Add minced garlic and cook for 1 minute",
+    "Add mushrooms and cook until they release their liquid and start to brown",
+    "Add Sichuan pepper and stir to combine",
+    "Add lacquer glaze and stir to combine",
+    "Add rice to the skillet and stir to combine with the mushroom mixture",
+    "Add 4 cups of water to the skillet and bring to a boil",
+    "Reduce heat to low, cover, and simmer for 20 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "mushroom-based",
+    "one-pan",
+    "russian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "savory-russian-mushroom-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-russian-mushroom-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:21:14Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Savory",
+    "dishForm": "Pilaf"
+  }
+}
