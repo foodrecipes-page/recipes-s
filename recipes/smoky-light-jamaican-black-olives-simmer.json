@@ -1,0 +1,103 @@
+{
+  "title": "Smoky Light Jamaican Black Olives Simmer",
+  "description": "A quick and flavorful weeknight dish featuring smoky black olives, simmered in a light Jamaican-inspired sauce. Perfect for a flexible vegetarian or flexitarian meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black olives",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onion and garlic and sauté until softened, about 5 minutes.",
+    "Add chili flakes, cumin, and brown sugar and cook for 1 minute, stirring constantly.",
+    "Add black olives, soy sauce, apple cider vinegar, and water and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes or until the sauce has thickened slightly.",
+    "Stir in chopped cilantro and cook for an additional 1-2 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "jamaican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 10
+  },
+  "slug": "smoky-light-jamaican-black-olives-simmer",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-light-jamaican-black-olives-simmer",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:21:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "black olives",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "black olives",
+    "descriptor": "smoky light",
+    "dishForm": "simmer"
+  }
+}
