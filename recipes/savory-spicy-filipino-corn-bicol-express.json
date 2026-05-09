@@ -1,0 +1,100 @@
+{
+  "title": "Savory Spicy Filipino Corn Bicol Express",
+  "description": "A sour, flaky, and festive Filipino dish featuring corn arepa filled with mozzarella cheese and bhuna, this recipe is jain-friendly and serves as a unique twist on traditional Bicol Express.",
+  "cuisine": "Filipino",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the cornmeal, salt, and black pepper.",
+    "Gradually add the lemon juice to the bowl and stir until the mixture forms a dough.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Divide the dough into 4 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of mozzarella cheese in the center of each disk.",
+    "Fold the disk in half to enclose the cheese and press the edges together to seal.",
+    "Fry the arepas in the hot oil for 3-4 minutes on each side until they are golden brown and crispy.",
+    "Drain the arepas on paper towels and serve with bhuna sauce spooned over the top.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "savory-spicy-filipino-corn-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spicy-filipino-corn-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:50:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "corn",
+    "descriptor": "Savory Spicy",
+    "dishForm": "Bicol Express"
+  }
+}
