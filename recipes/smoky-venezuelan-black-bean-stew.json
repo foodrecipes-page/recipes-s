@@ -1,0 +1,91 @@
+{
+  "title": "Smoky Venezuelan Black Bean Stew",
+  "description": "A hearty and flavorful pescatarian friendly stew featuring black beans and nuka pickle, cooked in a kazan cauldron. This dish is a show off of Venezuelan cuisine with its resinous and springy texture.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the kazan cauldron over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the soaked and drained black beans, smoked paprika, cumin, and salt, stirring to combine.",
+    "Add 4 cups of water to the cauldron and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Add the sliced nuka pickle to the stew and continue to simmer, uncovered, for an additional 10 minutes.",
+    "Serve the stew hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "smoky-venezuelan-black-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-venezuelan-black-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:02:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "black beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "black beans",
+    "descriptor": "springy smoky",
+    "dishForm": "Stew"
+  }
+}
