@@ -1,0 +1,98 @@
+{
+  "title": "Smoky Savory Ukrainian Yukon Gold Potato Hash",
+  "description": "A cultured and fluffy Ukrainian dish featuring Yukon gold potatoes, perfect for meal prep. This recipe is Jain-friendly and cooked on a cedar plank.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced onion to the skillet and cook until it is translucent and starting to brown.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the potatoes to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes, or until the potatoes are golden brown.",
+    "Remove the skillet from the oven and stir in the chopped fresh dill, if using.",
+    "Serve the potato hash hot, garnished with additional dill if desired.",
+    "Cook the hash on a cedar plank for an additional 5 minutes, if desired, to add smoky flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "meal-prep",
+    "potato-hash",
+    "savory",
+    "smoky",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "smoky-savory-ukrainian-yukon-gold-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-ukrainian-yukon-gold-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:15:58Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "yukon gold potatoes",
+    "descriptor": "smoky savory",
+    "dishForm": "Hash"
+  }
+}
