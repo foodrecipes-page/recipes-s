@@ -1,0 +1,104 @@
+{
+  "title": "Shattering Irish Parma Ham Burger",
+  "description": "A date-night twist on the classic burger, featuring crispy double-fried beef and succulent Irish Parma ham.",
+  "cuisine": "irish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef patties",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Irish Parma ham",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Double-fried potatoes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh arugula",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic aioli",
+      "amount": "4 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add the unsalted butter and cook until melted.",
+    "Season the beef patties with salt, black pepper, and Korean chili flakes.",
+    "Cook the beef patties for 3 minutes per side for medium-rare, or until cooked to your liking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "irish",
+    "low-calorie",
+    "single-serve"
+  ],
+  "nutrition": {
+    "calories": 468,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 29
+  },
+  "slug": "shattering-irish-parma-ham-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-irish-parma-ham-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:41Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "parma ham",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Parma ham",
+    "descriptor": "Shattering",
+    "dishForm": "Burger"
+  }
+}
