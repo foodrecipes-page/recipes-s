@@ -1,0 +1,101 @@
+{
+  "title": "Savory Spanish Chicken Paella",
+  "description": "A comforting Spanish dish featuring chicken, lime juice, and a sweet glaze, with anti-inflammatory friendly ingredients like turmeric and ginger.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "uncooked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the turmeric, ginger, paprika, salt, and pepper to the skillet and cook for 1 minute.",
+    "Add the rice to the skillet and cook for 2 minutes, stirring constantly.",
+    "Add the lime juice and honey to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes.",
+    "Remove the skillet from the oven and let it cool for 5 minutes.",
+    "Serve the paella hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "savory-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:07:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "glaze",
+    "primaryIngredient": "lime juice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "savory sweet",
+    "dishForm": "Paella"
+  }
+}
