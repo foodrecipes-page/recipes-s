@@ -2,10 +2,7 @@
   "title": "Sweet and Zesty Norwegian Tomatoes Stuvet",
   "description": "A hearty, crowd-pleasing Norwegian dish featuring chewy tomatoes and a sweet, tangy sauce.",
   "cuisine": "Norwegian",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -67,11 +64,9 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "high-protein",
     "low-sodium",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -91,7 +86,7 @@
     "mood": "crowd-pleaser",
     "technique": "fold",
     "primaryIngredient": "tomatoes",
-    "diet": "nut-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Norwegian",
     "mainIngredient": "Tomatoes",

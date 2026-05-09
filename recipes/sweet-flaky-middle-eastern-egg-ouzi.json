@@ -3,7 +3,6 @@
   "description": "A sweet and flaky Middle Eastern dish featuring free-range eggs, perfect for a sick day, made in a claypot and free from nuts.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -61,7 +60,6 @@
   "tags": [
     "breakfast",
     "claypot",
-    "gluten-free",
     "middle-eastern",
     "sweet",
     "vegetarian"
@@ -83,7 +81,7 @@
     "mood": "sick-day",
     "technique": "fold",
     "primaryIngredient": "free-range egg beaten",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Middle Eastern",
     "mainIngredient": "egg",
