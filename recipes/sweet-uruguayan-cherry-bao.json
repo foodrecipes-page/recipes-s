@@ -1,0 +1,97 @@
+{
+  "title": "Sweet Uruguayan Cherry Bao",
+  "description": "A sweet and silky dessert featuring glace cherry and ssam-wrap, easy to make and festive for any occasion.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Glace Cherry",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ssam-wrap",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the ssam-wrap pieces on the prepared baking sheet.",
+    "Dot the tops of the ssam-wrap with unsalted butter.",
+    "Bake for 10-12 minutes or until lightly golden brown.",
+    "Let cool completely.",
+    "In a medium saucepan, combine the brown sugar, heavy cream, and vanilla extract.",
+    "Whisk until the sugar dissolves over medium heat.",
+    "Bring the mixture to a simmer and cook for 5 minutes or until slightly thickened.",
+    "Let cool slightly.",
+    "Dip each baked ssam-wrap into the glace cherry and then into the brown sugar mixture.",
+    "Serve warm and enjoy!",
+    "Dust with confectioners' sugar before serving if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "easy",
+    "sweet",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "sweet-uruguayan-cherry-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-uruguayan-cherry-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:47:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "glace cherry",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cherry",
+    "descriptor": "sweet",
+    "dishForm": "Bao"
+  }
+}
