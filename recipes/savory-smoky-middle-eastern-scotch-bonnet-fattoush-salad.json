@@ -1,0 +1,63 @@
+{
+  "title": "Savory Smoky Middle-eastern Scotch Bonnet Fattoush Salad",
+  "description": "A flavorful Middle-eastern salad featuring scotch bonnets, smoky dashi extract, and creamy herbs. This kid-friendly dish is perfect for a quick weeknight lunch.",
+  "cuisine": "Middle-eastern",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Combine 1/4 cup of olive oil with 2 cloves of minced garlic in a large bowl.",
+    "Add 1/2 cup of crumbled feta cheese and 1/4 cup of chopped fresh parsley to the bowl, tossing to combine.",
+    "Add 2 diced scotch bonnets (seeds removed) to the bowl, stirring gently to distribute.",
+    "In a separate pan, heat 2 tablespoons of olive oil over medium heat and add 1 teaspoon of smoky dashi extract, stirring constantly for 1 minute.",
+    "Pour the dashi oil over the salad, tossing to coat.",
+    "Sprinkle 1 cup of crispy sumac-roasted chickpeas over the salad, garnishing with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "halal",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "savory-smoky-middle-eastern-scotch-bonnet-fattoush-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-smoky-middle-eastern-scotch-bonnet-fattoush-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "dashi-extract",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "Scotch Bonnet",
+    "descriptor": "Savory Smoky",
+    "dishForm": "Fattoush Salad"
+  }
+}

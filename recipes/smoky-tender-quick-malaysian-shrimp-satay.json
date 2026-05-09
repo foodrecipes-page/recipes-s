@@ -1,0 +1,116 @@
+{
+  "title": "Smoky Tender Quick Malaysian Shrimp Satay",
+  "description": "Jumbo shrimp marinated in a blend of Malaysian spices and grilled to perfection in a smoky tandoor, serving as a quick-fix low-glycemic-friendly meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for tandoor"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "low-glycemic"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "low-glycemic"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Marinate the jumbo shrimp in a blend of coconut oil, lime juice, fish sauce, soy sauce, honey, brown sugar, grated ginger, garlic, smoked paprika, and black pepper for at least 30 minutes.",
+    "Preheat the tandoor to 400°F (200°C).",
+    "Thread the marinated shrimp onto the bamboo skewers, leaving a 1-inch space between each shrimp.",
+    "Grill the shrimp in the preheated tandoor for 2-3 minutes per side, or until pink and cooked through.",
+    "Serve the shrimp hot with your favorite dipping sauce, such as peanut sauce or sambal.",
+    "Garnish with fresh cilantro and a squeeze of lime juice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "smoky-tender-quick-malaysian-shrimp-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-tender-quick-malaysian-shrimp-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:42:54Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "tandoor",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Smoky Tender Quick",
+    "dishForm": "Satay"
+  }
+}
