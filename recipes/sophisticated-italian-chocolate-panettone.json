@@ -1,0 +1,93 @@
+{
+  "title": "Sophisticated Italian Chocolate Panettone",
+  "description": "A kid-friendly Italian dessert featuring plain chocolate and a light, airy texture, perfect for special occasions.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large lacquerware bowl, combine flour, sugar, and yeast.",
+    "In a separate bowl, whisk together warm water, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees.",
+    "Punch down the dough and fold in the chocolate chips and vanilla extract.",
+    "Shape the dough into a panettone form and place it in a greased lacquerware bowl.",
+    "Bake the panettone for 35 minutes or until it is golden brown.",
+    "Let the panettone cool in the bowl for 10 minutes before transferring it to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-lovers",
+    "homemade",
+    "italian-dessert",
+    "kid-friendly",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "sophisticated-italian-chocolate-panettone",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sophisticated-italian-chocolate-panettone",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:58:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "plain chocolate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Sweet Sophisticated",
+    "dishForm": "Panettone"
+  }
+}
