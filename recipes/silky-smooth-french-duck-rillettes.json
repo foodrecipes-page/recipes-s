@@ -1,0 +1,96 @@
+{
+  "title": "Silky Smooth French Duck Rillettes",
+  "description": "A cultured and adventurous French dish from Normandy featuring khus khus and tadka, this keto-friendly rillette is a must-try for any food enthusiast. It has a unique blend of flavors and textures.",
+  "cuisine": "French",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "khus khus",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tadka spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the duck legs with salt, black pepper, and tadka spices.",
+    "In a large Dutch oven, melt the ghee over medium heat and sear the duck legs until browned on all sides.",
+    "Add the chopped onion and minced garlic to the pot and cook until the onion is translucent.",
+    "Cover the pot and transfer it to the preheated oven to cook for 2 hours, or until the duck is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the duck meat with two forks and stir in the khus khus.",
+    "Transfer the mixture to a food processor and process until smooth and creamy.",
+    "Taste and adjust the seasoning as needed.",
+    "Spoon the rillettes into individual serving cups and chill in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "duck-recipes",
+    "french-cuisine",
+    "gluten-free",
+    "keto-friendly",
+    "normandy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 47
+  },
+  "slug": "silky-smooth-french-duck-rillettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-french-duck-rillettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:32:27Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "khus khus",
+    "diet": "keto",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "duck",
+    "descriptor": "Silky Smooth",
+    "dishForm": "Rillettes"
+  }
+}
