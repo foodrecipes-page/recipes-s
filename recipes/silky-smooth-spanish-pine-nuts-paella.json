@@ -1,0 +1,109 @@
+{
+  "title": "Silky Smooth Spanish Pine Nuts Paella",
+  "description": "A spicy and velvety Spanish dish featuring pine nuts, this paella is perfect for midnight cravings and is egg-free friendly. It is a dehydrated version of the traditional Spanish paella.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pine nuts",
+      "amount": "1 cup",
+      "notes": "dehydrated"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the artichoke hearts, tomato paste, vegetable broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the dehydrated pine nuts and saffron threads to the paella pan and stir to combine.",
+    "Continue to simmer the paella for an additional 10 minutes, or until the liquid has been absorbed and the pine nuts are tender.",
+    "Remove the paella from the heat and let it cool for 5 minutes before serving.",
+    "Serve the paella hot, garnished with additional pine nuts and saffron threads if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dehydrated",
+    "gluten-free",
+    "one-pan",
+    "pine-nuts",
+    "spanish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "silky-smooth-spanish-pine-nuts-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-smooth-spanish-pine-nuts-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:49:15Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "dehydrate",
+    "primaryIngredient": "pine nuts",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pine nuts",
+    "descriptor": "Silky Smooth",
+    "dishForm": "Paella"
+  }
+}
