@@ -1,0 +1,109 @@
+{
+  "title": "smoky charred german chickpeas hash",
+  "description": "A charred, creamy German dish featuring chickpeas, perfect for brunch.",
+  "cuisine": "german",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chickpea liquid",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron pan over medium-high heat.",
+    "Add the diced onion and cook for 5 minutes, or until lightly charred.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the diced red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the chickpeas, smoked paprika, caraway seeds, salt, and tomato paste.",
+    "Stir to combine and cook for 2-3 minutes, or until the chickpeas are lightly charred.",
+    "Add the chickpea liquid and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Serve with crusty bread or as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "german",
+    "high-protein",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "smoky-charred-german-chickpeas-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-charred-german-chickpeas-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T12:09:21Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "ferment-jang",
+    "primaryIngredient": "chickpeas (garbanzo beans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chickpeas",
+    "descriptor": "smoky charred",
+    "dishForm": "Hash"
+  }
+}
