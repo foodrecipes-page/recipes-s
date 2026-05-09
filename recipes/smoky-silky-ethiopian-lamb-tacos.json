@@ -1,0 +1,98 @@
+{
+  "title": "Smoky Silky Ethiopian Lamb Tacos",
+  "description": "A unique fusion dish featuring tender lamb, smoky spices, and silky sauce, served in crispy hard taco shells. This kosher-friendly recipe is perfect for a festive dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into small pieces"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "silky sauce",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together lamb, berbere spice, smoked paprika, salt, and black pepper.",
+    "Grill the lamb mixture for 10 minutes, or until cooked through.",
+    "Warm the hard taco shells on the grill for 2 minutes.",
+    "Assemble the tacos by spooning the lamb mixture into the shells.",
+    "Top each taco with silky sauce, chopped onion, and chopped cilantro.",
+    "Serve immediately and enjoy.",
+    "To make the silky sauce, combine 1/2 cup plain yogurt, 1/4 cup chopped fresh parsley, and 1 tablespoon lemon juice in a bowl.",
+    "Mix well and refrigerate until ready to use.",
+    "Note: silky sauce can be made ahead of time and stored in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "festive",
+    "grilled",
+    "high-protein",
+    "lamb",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "smoky-silky-ethiopian-lamb-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-silky-ethiopian-lamb-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:20:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "salt-bake",
+    "primaryIngredient": "hard taco shells",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Smoky Silky",
+    "dishForm": "Tacos"
+  }
+}
