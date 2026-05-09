@@ -1,0 +1,95 @@
+{
+  "title": "Sweet Argentinian Pastry Empanadas",
+  "description": "A sweet and flaky Argentinian pastry filled with raisins, grilled to perfection in a yakimono grill, this empanada is a delightful treat for any time of day, made in a ramekin for a unique vessel.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "used for pastry dough"
+    },
+    {
+      "name": "raisins",
+      "amount": "1 cup",
+      "notes": "used for filling"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 375 degrees Fahrenheit.",
+    "In a large bowl, combine flour, sugar, and cinnamon.",
+    "In a separate bowl, whisk together eggs, milk, and vanilla extract.",
+    "Add the melted butter to the egg mixture and whisk until combined.",
+    "Slowly pour the wet ingredients into the dry ingredients and mix until a dough forms.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of raisins in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas in a ramekin and grill in the yakimono grill for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "grilled-desserts",
+    "ramekin-recipes",
+    "sweet-treats",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "sweet-argentinian-pastry-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-argentinian-pastry-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:38:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "raisins",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pastry",
+    "descriptor": "Sweet Flaky",
+    "dishForm": "Empanadas"
+  }
+}
