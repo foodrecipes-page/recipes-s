@@ -1,0 +1,99 @@
+{
+  "title": "Simple Steamed Canadian Salt Cod Pilaf",
+  "description": "A light and quick-fix Canadian dish featuring salt cod, this pilaf is umami and ovo-vegetarian-friendly. It is made with mushimono-steam method for a healthy twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the soaked salt cod and cut it into small pieces.",
+    "In a large bowl, combine the rice, water, carrots, onion, garlic, olive oil, salt, and black pepper.",
+    "Add the cut salt cod to the bowl and mix well.",
+    "Transfer the mixture to a steamer basket lined with parchment paper.",
+    "Steam the mixture over boiling water for 15 minutes.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with chopped fresh parsley if desired.",
+    "Serve immediately and enjoy.",
+    "Refrigerate or freeze leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "healthy",
+    "ovo-vegetarian",
+    "quick-fix",
+    "seafood",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "simple-steamed-canadian-salt-cod-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/simple-steamed-canadian-salt-cod-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:58:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "salt cod",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salt cod",
+    "descriptor": "Simple Steamed",
+    "dishForm": "Pilaf"
+  }
+}
