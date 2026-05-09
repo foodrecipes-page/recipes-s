@@ -1,0 +1,90 @@
+{
+  "title": "Shaggy Savory Tunisian Cheese Flatbread",
+  "description": "A fermented, shaggy, nostalgic Tunisian dish featuring colby jack cheese, this flatbread is perfect for a snack or light meal. It is egg-free-friendly and made with a simple dough.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "colby jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add olive oil and water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a thin circle.",
+    "Sprinkle shredded colby jack cheese over the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough over the cheese to form a crust.",
+    "Bake the flatbread in the preheated oven for 20 minutes, or until it is golden brown.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "flatbread",
+    "homemade",
+    "snack-time",
+    "tunisian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "shaggy-savory-tunisian-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/shaggy-savory-tunisian-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:52:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cheese",
+    "descriptor": "Shaggy Savory",
+    "dishForm": "Flatbread"
+  }
+}
