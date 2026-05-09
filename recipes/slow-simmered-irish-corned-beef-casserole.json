@@ -1,0 +1,91 @@
+{
+  "title": "Slow Simmered Irish Corned Beef Casserole",
+  "description": "A hearty, comforting dish featuring tender corned beef, crunchy pickles, and a rich, nutty flavor, perfect for a romantic dinner. This keto-friendly casserole is sure to become a favorite.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corned beef brisket",
+      "amount": "2 pounds",
+      "notes": "flat cut"
+    },
+    {
+      "name": "diced pickles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cauliflower florets",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, combine the corned beef brisket, diced pickles, cauliflower florets, shredded cheddar cheese, chopped fresh parsley, salt, black pepper, and garlic powder.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the corned beef is tender and the casserole is hot and bubbly.",
+    "Remove the Dutch oven from the oven and let it rest for 10 minutes before serving.",
+    "Slice the corned beef against the grain and serve it with the surrounding casserole.",
+    "Garnish with additional chopped fresh parsley, if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-inspired",
+    "keto-friendly",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "slow-simmered-irish-corned-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-simmered-irish-corned-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:18:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "pickles",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "corned beef",
+    "descriptor": "slow simmered",
+    "dishForm": "Casserole"
+  }
+}
