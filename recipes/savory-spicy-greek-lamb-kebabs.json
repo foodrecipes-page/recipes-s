@@ -1,0 +1,97 @@
+{
+  "title": "Savory Spicy Greek Lamb Kebabs",
+  "description": "A garlicky and adventurous Greek dish featuring lamb, unwaxed lime, and ayurvedic-tamasic-friendly spices, perfect for a dinner gathering",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "unwaxed lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "In a bowl, whisk together lime juice, olive oil, garlic, paprika, cumin, cayenne pepper, salt, and black pepper",
+    "Brush the mixture onto both sides of the lamb skewers",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the lamb is cooked to desired doneness",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve the lamb skewers hot, garnished with fresh parsley and a squeeze of lime juice",
+    "Offer a side of roasted vegetables or quinoa for a well-rounded meal"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "greek-food",
+    "grilled-meats",
+    "lamb-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "savory-spicy-greek-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spicy-greek-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:25:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "savory spicy",
+    "dishForm": "Kebabs"
+  }
+}
