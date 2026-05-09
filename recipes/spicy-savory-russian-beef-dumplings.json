@@ -1,0 +1,103 @@
+{
+  "title": "Spicy Savory Russian Beef Dumplings",
+  "description": "A spicy and savory Russian dish featuring fluffy dumplings filled with beef and soy sauce, perfect for a lazy Sunday",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "soy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, salt, black pepper, and cayenne pepper",
+    "In a separate bowl, whisk together the ground beef, onion, garlic, and soy sauce",
+    "Add the egg to the beef mixture and whisk until just combined",
+    "Gradually add the flour mixture to the beef mixture and whisk until a dough forms",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic",
+    "Divide the dough into 20 equal pieces and roll each into a ball",
+    "Flatten each ball into a disk and place a tablespoon of the beef mixture in the center",
+    "Fold the dough over the filling and press the edges together to seal the dumpling",
+    "Bring a large pot of water to a boil and cook the dumplings for 10 minutes",
+    "Serve the dumplings hot with your favorite dipping sauce"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "spicy-savory-russian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-savory-russian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:35:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "soy sauce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "spicy savory",
+    "dishForm": "Dumplings"
+  }
+}
