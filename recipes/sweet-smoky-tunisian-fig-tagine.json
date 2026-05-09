@@ -1,0 +1,107 @@
+{
+  "title": "Sweet Smoky Tunisian Fig Tagine",
+  "description": "A pungent and fluffy Tunisian dish featuring figs and robata-grilled ingredients, perfect for a sick day, and macrobiotic-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried figs",
+      "amount": "1 cup",
+      "notes": "soaked in water for 4 hours"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the sliced onion to the bowl and toss to coat with the spice mixture.",
+    "Grill the onion mixture on the robata grill for 10 minutes, stirring occasionally.",
+    "In a large clay or ceramic tagine, combine the grilled onion mixture, soaked figs, and chicken broth.",
+    "Cover the tagine and bring the mixture to a boil over high heat.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the tagine from the heat and let it cool for 10 minutes.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "macrobiotic",
+    "north-african",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "sweet-smoky-tunisian-fig-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-smoky-tunisian-fig-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:13:34Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "robata-grill",
+    "primaryIngredient": "figs",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "figs",
+    "descriptor": "Sweet Smoky",
+    "dishForm": "Tagine"
+  }
+}
