@@ -1,0 +1,95 @@
+{
+  "title": "Sweet Shattering British Sausage Wrap",
+  "description": "A sweet and savory British dish featuring Cornish sausage, orange juice, and a crispy ssam wrap, perfect for curing hangovers. This flexitarian-friendly recipe is served on a bamboo tray.",
+  "cuisine": "British",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cornish sausage",
+      "amount": "4 links",
+      "notes": "preferably from a local butcher"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 sheets",
+      "notes": "crispy and thin"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat and cook the Cornish sausage links until browned on all sides.",
+    "In a small bowl, whisk together the orange juice and honey until well combined.",
+    "Brush the ssam wrap sheets with olive oil and season with salt and black pepper.",
+    "In a separate pan, scramble the eggs and set aside.",
+    "Add the cooked sausage links to the orange juice mixture and toss to coat.",
+    "Place a cooked sausage link onto each ssam wrap sheet, leaving a small border around the edges.",
+    "Top each sausage link with a spoonful of scrambled eggs, if using.",
+    "Drizzle any remaining orange juice mixture over the top of each wrap.",
+    "Serve the Sweet Shattering British Sausage Wraps on a bamboo tray and enjoy immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "british-food",
+    "flexitarian-recipes",
+    "hangover-cures",
+    "sausage-recipes",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "sweet-shattering-british-sausage-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-shattering-british-sausage-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:39:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "orange juice",
+    "diet": "flexitarian",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "sweet shattering",
+    "dishForm": "Wrap"
+  }
+}
