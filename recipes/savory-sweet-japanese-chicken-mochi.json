@@ -1,0 +1,93 @@
+{
+  "title": "Savory Sweet Japanese Chicken Mochi",
+  "description": "A fresh and crisp Japanese dish featuring ginger garlic paste and pickle, high in protein and easy to make, formed into mochi.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high protein",
+    "low carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Japanese pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mochi flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together mochi flour and water until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape.",
+    "In a large skillet, heat sesame oil over medium heat and cook the chicken breast until cooked through.",
+    "Shred the cooked chicken into small pieces and mix with ginger garlic paste, Japanese pickle, salt, and black pepper.",
+    "Place a tablespoon of the chicken mixture onto the center of each mochi disk.",
+    "Fold the mochi over the filling and press the edges together to seal.",
+    "Serve the mochi warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese-inspired",
+    "low-carb",
+    "quick-fix",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "savory-sweet-japanese-chicken-mochi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sweet-japanese-chicken-mochi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:34:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Savory Sweet",
+    "dishForm": "Mochi"
+  }
+}
