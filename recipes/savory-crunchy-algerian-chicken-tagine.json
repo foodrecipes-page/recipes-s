@@ -1,0 +1,99 @@
+{
+  "title": "Savory Crunchy Algerian Chicken Tagine",
+  "description": "A garlicky and crunchy Algerian dish featuring butter and lacquer glaze, perfect for a date night, and jain friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "algerian spice mix",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the olive oil, lacquer glaze, garlic, salt, black pepper, and algerian spice mix.",
+    "Add the chicken breast to the bowl and toss to coat evenly with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Dot the top of the chicken with the unsalted butter.",
+    "Bake the chicken in the preheated oven for 25 minutes.",
+    "While the chicken is baking, heat the remaining marinade in a saucepan over medium heat.",
+    "Add the dates to the saucepan and cook until they are caramelized and the sauce has thickened.",
+    "Remove the chicken from the oven and brush it with the date and lacquer glaze sauce.",
+    "Return the chicken to the oven and bake for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "buttery",
+    "crunchy",
+    "date-night",
+    "garlicky",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "savory-crunchy-algerian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crunchy-algerian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:32:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "butter",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "savory crunchy",
+    "dishForm": "Tagine"
+  }
+}

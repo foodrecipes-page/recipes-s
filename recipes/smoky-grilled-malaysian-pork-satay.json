@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Grilled Malaysian Pork Satay",
+  "description": "A fresh and springy Malaysian dish featuring pork, cider, and a blend of spices, grilled to perfection on a binchotan grill, suitable for a Buddhist temple gathering.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "cider",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Prepare the binchotan grill by heating it to 400 degrees Fahrenheit.",
+    "Thread the pork strips onto the bamboo skewers, leaving a small space between each piece.",
+    "In a large bowl, whisk together the cider, coconut milk, coriander, cumin, turmeric, salt, and pepper to make the marinade.",
+    "Add the pork skewers to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork skewers from the marinade and brush with vegetable oil.",
+    "Grill the pork skewers for 5-7 minutes per side, or until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "Serve the grilled pork satay hot with a side of peanut sauce or kecap manis.",
+    "Garnish with sliced cucumbers, onions, and cilantro for added freshness and flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "malaysian-cuisine",
+    "pork-recipes",
+    "southeast-asian-food",
+    "summer-recipes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "smoky-grilled-malaysian-pork-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-grilled-malaysian-pork-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:31:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "rest-meat",
+    "primaryIngredient": "cider",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pork",
+    "descriptor": "smoky grilled",
+    "dishForm": "Satay"
+  }
+}
