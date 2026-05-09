@@ -1,0 +1,65 @@
+{
+  "title": "Saudi Arabian Broccoli Hash",
+  "description": "A sour and shattering breakfast dish featuring Chinese broccoli, suitable for a sick day.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch"
+    }
+  ],
+  "instructions": [
+    "Heat a medium skillet over medium heat.",
+    "Add the olive oil and swirl to coat the pan.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped Chinese broccoli and cook until slightly tender.",
+    "Stir in the lemon juice, cumin, salt, and pepper.",
+    "Add the chopped parsley and red pepper flakes.",
+    "Cook for an additional minute, until the broccoli is slightly caramelized.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Adjust seasoning as needed, and serve with your favorite accompaniments.",
+    "This dish is quite pungent, so be sure to have some crackers or bread on hand to mop up any excess juices.",
+    "If you're feeling under the weather, this dish is sure to clear your sinuses!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "one-pan",
+    "sick-day",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "shattering-saudi-arabian-broccoli-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-saudi-arabian-broccoli-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:06:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "broccoli",
+    "descriptor": "shattering",
+    "dishForm": "Hash"
+  }
+}

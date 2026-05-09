@@ -1,0 +1,105 @@
+{
+  "title": "Snappy Polish Lime Dinner",
+  "description": "A simple and flavorful Polish-inspired dinner featuring a snappy, jammy lime dish made with kombu-cold-extract.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lime",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 sheets",
+      "notes": "cold-extract only, discard the sheets after use"
+    },
+    {
+      "name": "Beetroot",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tbsp",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the lime, removing any blemishes or green parts. Cut the lime into thin slices.",
+    "Soak the lime slices in cold kombu extract for at least 2 hours. This will help to retain the lime's natural flavor and texture.",
+    "In a separate pan, heat 1 tablespoon of olive oil over medium heat. Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the beetroot slices to the pan and cook for 5-7 minutes on each side, until tender and slightly caramelized.",
+    "Season the beetroot with salt and black pepper to taste.",
+    "Mix the cold-extracted lime slices with the cooked beetroot, cottage cheese, and chopped fresh parsley.",
+    "Taste and adjust the seasoning as needed. Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy",
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "snappy-polish-lime-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/snappy-polish-lime-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:06:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Lime",
+    "descriptor": "Snappy",
+    "dishForm": "Dinner"
+  }
+}
