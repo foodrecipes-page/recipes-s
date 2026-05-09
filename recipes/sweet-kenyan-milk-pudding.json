@@ -1,0 +1,89 @@
+{
+  "title": "Sweet Kenyan Milk Pudding",
+  "description": "A buttery and crispy Kenyan dessert featuring milk and candy, with a macrobiotic-friendly twist. This energizing treat is perfect for any time of day.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk preferred"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1 cup",
+      "notes": "colorful candy pieces like M&M's or Skittles"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the milk, sugar, and butter, and heat over medium heat until the sugar has dissolved.",
+    "In a separate bowl, whisk together the flour and eggs.",
+    "Add the flour mixture to the saucepan and stir until well combined.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 5 minutes.",
+    "Remove the saucepan from the heat and stir in the vanilla extract.",
+    "Pour the mixture into a 9x13 inch baking dish and top with candy pieces.",
+    "Bake for 25 minutes, or until the top is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "african-inspired",
+    "colorful",
+    "high-calorie",
+    "macrobiotic-friendly",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "sweet-kenyan-milk-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-kenyan-milk-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:30:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "milk",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "milk",
+    "descriptor": "Sweet Sugary",
+    "dishForm": "Pudding"
+  }
+}
