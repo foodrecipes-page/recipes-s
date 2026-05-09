@@ -1,0 +1,97 @@
+{
+  "title": "Savory Norwegian White Bread Casserole",
+  "description": "A hearty, cheesy casserole featuring white bread, perfect for a comforting meal. This dish is vegetarian-friendly and packed with flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "1 package",
+      "notes": "follow package instructions for preparation"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees Fahrenheit.",
+    "Prepare the white bread mix according to package instructions and set aside.",
+    "In a large skillet, saute the chopped onion and sliced mushrooms in melted butter until tender.",
+    "Add the grated carrots to the skillet and cook for an additional 2 minutes.",
+    "In a large bowl, combine the prepared white bread mix, sauteed onion and mushroom mixture, shredded cheddar cheese, beaten eggs, and whole milk.",
+    "Mix well to combine and pour into a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the top is golden brown and the casserole is set.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "norwegian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "savory-norwegian-white-bread-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-norwegian-white-bread-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:06:29Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "white bread mix",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "white bread",
+    "descriptor": "Savory",
+    "dishForm": "Casserole"
+  }
+}
