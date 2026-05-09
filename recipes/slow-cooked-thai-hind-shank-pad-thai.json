@@ -1,0 +1,95 @@
+{
+  "title": "Slow Cooked Thai Hind Shank Pad Thai",
+  "description": "A rich and chewy Thai dish featuring hind shank, served with double-rise-bread and keto-friendly pad thai noodles, perfect for a cozy dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "pad thai noodles",
+      "amount": "8 ounces",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Season the hind shank with salt and pepper.",
+    "Heat oil in a large skillet over medium-high heat and sear the hind shank until browned on all sides.",
+    "Transfer the hind shank to a slow cooker and add coconut milk, fish sauce, and lime juice.",
+    "Cook on low for 8 hours or high for 4 hours.",
+    "Cook the pad thai noodles according to package instructions.",
+    "Slice the double-rise-bread into thick slices.",
+    "Assemble the dish by placing the hind shank on top of the noodles, and serving with sliced bread and garnished with peanuts and scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 480,
+  "totalTimeMin": 510,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "pad-thai",
+    "slow-cooker",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 80
+  },
+  "slug": "slow-cooked-thai-hind-shank-pad-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-thai-hind-shank-pad-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:23:55Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "hind shank",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "hind shank",
+    "descriptor": "Slow Cooked",
+    "dishForm": "Pad Thai"
+  }
+}
