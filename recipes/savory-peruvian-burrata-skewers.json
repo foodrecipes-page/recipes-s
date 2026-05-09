@@ -1,0 +1,96 @@
+{
+  "title": "Savory Peruvian Burrata Skewers",
+  "description": "A garlicky and springy Peruvian dish featuring burrata, perfect for meal prep and served in a fondue pot. This recipe is FODMAP friendly and brine wet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "12 oz",
+      "notes": "drained and cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 180 degrees Fahrenheit.",
+    "In a bowl, mix together garlic, lime juice, olive oil, aji amarillo peppers, salt, and black pepper.",
+    "Add the burrata cheese to the bowl and toss to coat with the garlic mixture.",
+    "Thread the burrata cheese onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the fondue pot and cook for 5 minutes.",
+    "Sprinkle the chopped cilantro over the burrata cheese and serve immediately.",
+    "Repeat the cooking process for the remaining skewers.",
+    "Serve the skewers hot and enjoy.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "low-carb",
+    "meal-prep",
+    "peruvian-cuisine",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "savory-peruvian-burrata-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-peruvian-burrata-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:34:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "brine-wet",
+    "primaryIngredient": "burrata",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "burrata",
+    "descriptor": "springy savory",
+    "dishForm": "Skewers"
+  }
+}
