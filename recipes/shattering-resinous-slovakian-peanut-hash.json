@@ -1,0 +1,109 @@
+{
+  "title": "Shattering Resinous Slovakian Peanut Hash",
+  "description": "A comforting Slovakian dish featuring roasted peanut, wok-hei, and raw-friendly ingredients. A perfect combination of textures and flavors.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for wok-hei"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a wok over high heat, until it starts to smoke.",
+    "Add the chopped onion and minced garlic, stir-fry until they start to caramelize.",
+    "Add the diced sweet potato and grated carrot, stir-fry for 5 minutes.",
+    "Add the peanuts and cayenne pepper, stir-fry for another 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a serving plate, garnish with chopped fresh parsley.",
+    "Serve immediately, while the wok-hei is still present."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "hash",
+    "peanuts",
+    "slovakian",
+    "vegetarian",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "shattering-resinous-slovakian-peanut-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-resinous-slovakian-peanut-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:42:00Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "wok-hei",
+    "primaryIngredient": "roasted peanut",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "peanut",
+    "descriptor": "shattering resinous",
+    "dishForm": "Hash"
+  }
+}
