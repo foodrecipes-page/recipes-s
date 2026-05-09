@@ -1,0 +1,121 @@
+{
+  "title": "Smoke-Hot Algerian Tagine",
+  "description": "A rich, comforting, and flavorful Algerian dish made with lamb, spices, and preserved lemons.",
+  "cuisine": "algerian",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "pescetarian",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a 5-quart Dutch oven over medium-high heat.",
+    "Brown lamb in batches until browned, about 5 minutes. Remove from pot.",
+    "Reduce heat to medium and cook onion until softened, about 5 minutes.",
+    "Add garlic, ginger, cumin, coriander, cayenne pepper, and smoked paprika. Cook, stirring constantly, for 1 minute.",
+    "Add preserved lemon, chicken broth, and tomatoes. Stir to combine.",
+    "Return lamb to pot, cover, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until lamb is tender, about 1 hour.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "high-protein",
+    "one-pan",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 32,
+    "fat": 34
+  },
+  "slug": "smoke-hot-algerian-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-algerian-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:16:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "smoke-hot",
+    "primaryIngredient": "oil",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "dish",
+    "descriptor": "smoke-hot",
+    "dishForm": "tagine"
+  }
+}
