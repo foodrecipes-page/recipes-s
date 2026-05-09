@@ -1,0 +1,100 @@
+{
+  "title": "Smoky Croatian Lettuce Stew",
+  "description": "A hearty and comforting Croatian dish featuring smoky flavors and pillowy soft lettuce, perfect for a solo dinner, made in a cataplana vessel and following ayurvedic tamasic friendly principles.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lettuce",
+      "amount": "2 heads",
+      "notes": "preferably butter lettuce"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the cataplana vessel over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the smoked paprika and cook for 1 minute.",
+    "Add the tomato paste and cook, stirring constantly, for 2 minutes.",
+    "Add the vegetable broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and add the lettuce, covering the cataplana vessel with a lid.",
+    "Simmer, covered, until the lettuce is tender, about 15 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "comfort-food",
+    "croatian",
+    "gluten-free",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-croatian-lettuce-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-croatian-lettuce-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:49:32Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "lettuce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lettuce",
+    "descriptor": "smoky oven roasted",
+    "dishForm": "Stew"
+  }
+}
