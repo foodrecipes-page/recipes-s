@@ -1,0 +1,93 @@
+{
+  "title": "Sweet Flaky Middle Eastern Egg Ouzi",
+  "description": "A sweet and flaky Middle Eastern dish featuring free-range eggs, perfect for a sick day, made in a claypot and free from nuts.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "In a separate bowl, whisk together the melted butter, rose water, and orange blossom water.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the beaten eggs until the mixture is smooth.",
+    "Pour the mixture into a claypot and add the water.",
+    "Cover the claypot with a lid and bake for 25 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "claypot",
+    "gluten-free",
+    "middle-eastern",
+    "sweet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "sweet-flaky-middle-eastern-egg-ouzi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-flaky-middle-eastern-egg-ouzi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:26:52Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "egg",
+    "descriptor": "Sweet Flaky",
+    "dishForm": "Ouzi"
+  }
+}

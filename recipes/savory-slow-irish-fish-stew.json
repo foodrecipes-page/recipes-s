@@ -1,0 +1,103 @@
+{
+  "title": "Savory Slow Irish Fish Stew",
+  "description": "A hearty and cozy pescatarian-friendly stew featuring lemongrass and namul-blanch-seasoned fish, perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onions and cook until they are softened and translucent.",
+    "Add the bruised lemongrass stalks and cook for 1 minute, stirring constantly.",
+    "Add the sliced carrots and cubed potatoes, cook for 5 minutes, stirring occasionally.",
+    "Add the cod fillets and cook until they are opaque and flake easily with a fork.",
+    "Add the fish stock, heavy cream, salt, and black pepper, stir to combine.",
+    "Bring the stew to a simmer, then reduce the heat to low and cook, covered, until the fish is cooked through and the vegetables are tender.",
+    "Remove the lemongrass stalks and serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-inspired",
+    "one-pot",
+    "seafood",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "savory-slow-irish-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-slow-irish-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:26:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish",
+    "descriptor": "savory slow",
+    "dishForm": "Stew"
+  }
+}
