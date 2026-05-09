@@ -1,0 +1,89 @@
+{
+  "title": "Fresh Turkish Ancho Chilli Borek",
+  "description": "Shattering fresh Turkish ancho chillies in a crispy, lamination-puff Mediterranean-friendly dish",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ancho chillies",
+      "amount": "6"
+    },
+    {
+      "name": "filo pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Open the filo pastry package and cut it into 12 equal squares.",
+    "Mix the ricotta cheese, chopped parsley, black pepper, salt, and lemon juice in a bowl.",
+    "Place an ancho chilli in the center of each filo square and brush the edges with olive oil.",
+    "Place a tablespoon of ricotta mixture on top of the chilli and fold the pastry over to form a triangle.",
+    "Bake for 20 minutes or until the pastry is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "borek",
+    "easy-to-make",
+    "puff-pastry",
+    "snack",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 10
+  },
+  "slug": "shattering-fresh-turkish-ancho-chillies-borek",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/shattering-fresh-turkish-ancho-chillies-borek",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:01:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "lamination-puff",
+    "primaryIngredient": "ancho chillies",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "turkish",
+    "mainIngredient": "ancho chillies",
+    "descriptor": "shattering fresh",
+    "dishForm": "borek"
+  }
+}
