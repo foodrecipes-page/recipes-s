@@ -1,0 +1,100 @@
+{
+  "title": "Spicy Smoked Mediterranean Chicken Pilaf",
+  "description": "A spicy and flavorful dish featuring chicken, rice, and Mediterranean spices, cooked to perfection in a tandoor clay pot with a hint of rice wine and cure.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400 degrees Fahrenheit.",
+    "Mix together the smoked paprika, ground cumin, cayenne pepper, salt, and black pepper in a small bowl.",
+    "Add the olive oil to the preheated tandoor clay pot and swirl it around to coat the bottom.",
+    "Add the chicken to the tandoor clay pot and cook until browned on all sides, about 5 minutes.",
+    "Add the uncooked white rice to the tandoor clay pot and cook for 1 minute, stirring constantly.",
+    "Add the rice wine, chicken broth, and spice mixture to the tandoor clay pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "mediterranean",
+    "one-pot",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "spicy-smoked-mediterranean-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-smoked-mediterranean-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:44:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "rice wine",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Spicy Smoked",
+    "dishForm": "Pilaf"
+  }
+}
