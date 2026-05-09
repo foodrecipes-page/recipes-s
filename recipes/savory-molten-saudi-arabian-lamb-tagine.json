@@ -1,0 +1,107 @@
+{
+  "title": "Savory Molten Saudi Arabian Lamb Tagine",
+  "description": "A nutty and molten Saudi Arabian dish featuring minced garlic, cooked in a bain-marie and following ayurvedic-sattvic-friendly principles, this tagine is a show-off dish for any occasion.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb, garlic, onion, ginger, cumin, coriander, and cayenne pepper.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the lamb mixture to the pot and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the chicken broth and dates to the pot, stirring to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "savory-molten-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-molten-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:10:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "bain-marie",
+    "primaryIngredient": "minced garlic",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Savory Molten",
+    "dishForm": "Tagine"
+  }
+}
