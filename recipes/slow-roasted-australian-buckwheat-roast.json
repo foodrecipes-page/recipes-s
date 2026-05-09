@@ -1,0 +1,100 @@
+{
+  "title": "Slow Roasted Australian Buckwheat Roast",
+  "description": "A tangy and pillowy one-pot dish featuring buckwheat flour and roast, friendly to Buddhist temple dietary preferences. This recipe combines the unique flavor of buckwheat with traditional Australian roast ingredients.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups",
+      "notes": "make sure it is gluten free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the buckwheat flour, olive oil, salt, and black pepper.",
+    "Add the chopped onion, carrots, and potatoes to the bowl and stir until they are evenly coated with the buckwheat mixture.",
+    "Transfer the mixture to a large Dutch oven or heavy pot with a lid.",
+    "Add the tomato paste and vegetable broth to the pot, stirring to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Roast the mixture for 2 1/2 hours, or until the vegetables are tender and the buckwheat is cooked through.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "buckwheat",
+    "gluten-free",
+    "one-pot",
+    "slow-cooked",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "slow-roasted-australian-buckwheat-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-roasted-australian-buckwheat-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:31:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "slow roasted",
+    "dishForm": "Roast"
+  }
+}
