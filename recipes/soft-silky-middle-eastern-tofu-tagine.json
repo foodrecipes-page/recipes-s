@@ -1,0 +1,107 @@
+{
+  "title": "Soft Silky Middle Eastern Tofu Tagine",
+  "description": "A pungent and pillowy Middle Eastern dish featuring tofu, this tagine is a flavorful and aromatic monsoon of spices, perfect for a special occasion, and is onion and garlic free for those with sensitivities.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cumin, smoked paprika, coriander, salt, and black pepper.",
+    "Add the tofu to the bowl and toss to coat with the spice mixture.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Add the tofu to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the diced tomatoes, chicken broth, and dried apricots to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer to the preheated oven.",
+    "Bake for 25 minutes, or until the sauce has thickened and the flavors have melded together.",
+    "Remove the pot from the oven and stir in the chopped parsley.",
+    "Serve the tagine hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pot",
+    "special-occasion",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "soft-silky-middle-eastern-tofu-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/soft-silky-middle-eastern-tofu-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:11:56Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "salt-bake",
+    "primaryIngredient": "tofu",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "tofu",
+    "descriptor": "Soft Silky",
+    "dishForm": "Tagine"
+  }
+}
