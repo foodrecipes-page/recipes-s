@@ -1,0 +1,104 @@
+{
+  "title": "Smoke Hot Korean Pork Stew",
+  "description": "A winey, glassy-jelly, cozy Korean dish featuring stout, smoke-hot, gluten-free-friendly ingredients, this stew is perfect for a cold winter night. It combines the rich flavors of pork, vegetables, and spices in a hearty, comforting meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "stout beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the gochujang, soy sauce, and brown sugar, and cook for 1 minute, until the sauce is bubbly.",
+    "Add the stout beer and bring to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Add the potatoes and zucchini, and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the pork is tender and the vegetables are cooked through, about 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "korean-cuisine",
+    "one-pot-meal",
+    "pork-recipes",
+    "stout-beer"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "smoke-hot-korean-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoke-hot-korean-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:34:57Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "smoke-hot",
+    "primaryIngredient": "stout",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "smoke hot",
+    "dishForm": "Stew"
+  }
+}
