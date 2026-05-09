@@ -1,0 +1,118 @@
+{
+  "title": "Smoky Wilted Moroccan Green Beans Tagine",
+  "description": "A hearty, smoky Moroccan dish featuring wilted green beans, rich in flavors and spices. Perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green Beans",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Amlou (Almond and Honey Paste) ",
+      "amount": "2 tablespoons",
+      "notes": "You can substitute with 1 tablespoon of honey and 1 tablespoon of chopped almonds."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in an iron teppan over medium heat. ",
+    "Add the chopped onion and cook until softened, about 3 minutes. ",
+    "Add the minced garlic and grated ginger and cook for another minute. ",
+    "Add the chopped green beans and cook for 2 minutes. ",
+    "Stir in cumin, coriander, paprika, cayenne pepper, salt, and black pepper. ",
+    "Cook for another 2 minutes, until the green beans are slightly wilted. ",
+    "Stir in the amlou paste and cook for 1 minute. ",
+    "Serve hot, garnished with fresh parsley if desired. ",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "amlou",
+    "green-beans",
+    "iron-teppan",
+    "moroccan",
+    "smoky",
+    "weeknight",
+    "wilted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "smoky-wilted-moroccan-green-beans-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-wilted-moroccan-green-beans-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:18:05Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "green beans",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "green beans",
+    "descriptor": "Smoky Wilted",
+    "dishForm": "Tagine"
+  }
+}

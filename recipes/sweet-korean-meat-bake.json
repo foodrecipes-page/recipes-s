@@ -1,0 +1,73 @@
+{
+  "title": "Sweet Korean Meat Bake",
+  "description": "A sweet and savory dish featuring a crispy wood-fired-baked crust, perfect for a weeknight dinner. This recipe is low in glycemic index and packed with protein.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork shoulder with salt, pepper, and Korean chili flakes.",
+    "In a small bowl, mix together oyster sauce, soy sauce, brown sugar, and sesame oil.",
+    "Brush the mixture onto the pork shoulder and place it on a baking sheet lined with parchment paper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "one-pan",
+    "savory",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "sweet-korean-meat-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-korean-meat-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:18:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "oyster sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "meat",
+    "descriptor": "sweet",
+    "dishForm": "Bake"
+  }
+}
