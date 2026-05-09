@@ -1,0 +1,101 @@
+{
+  "title": "Savory Spicy Filipino Pork Stew",
+  "description": "A spicy and comforting Filipino dish featuring bay leaf and render-fat, perfect for a cold day. This stew is light and flavorful, with a raw-friendly ingredient list.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "rendered pork fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the rendered pork fat in a large pot over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the pork shoulder pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the dried bay leaves, fish sauce, vinegar, and chili flakes, and stir to combine.",
+    "Pour in 2 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 hour.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino-cuisine",
+    "one-pot-meals",
+    "pork-recipes",
+    "spicy-food",
+    "stew-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "savory-spicy-filipino-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-spicy-filipino-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:49:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "render-fat",
+    "primaryIngredient": "bay leaf",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Savory Spicy",
+    "dishForm": "Stew"
+  }
+}
