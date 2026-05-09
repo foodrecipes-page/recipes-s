@@ -1,0 +1,105 @@
+{
+  "title": "Savory Steamed Moroccan Lamb Harira",
+  "description": "A salty and shaggy Moroccan dish featuring Thai sweet basil and steamed to perfection in a ceramic tagine, this harira is a low calorie friendly option for a cold winter night.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the ceramic tagine over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in the ground cumin and smoked paprika and cook for 1 minute.",
+    "Add the low sodium chicken broth and tomato paste and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the chopped Thai sweet basil and cook for an additional 2 minutes.",
+    "Serve the harira hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-tagine",
+    "gluten-free",
+    "lamb-recipes",
+    "low-calorie",
+    "moroccan-cuisine",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "savory-steamed-moroccan-lamb-harira",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-steamed-moroccan-lamb-harira",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:04:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Savory Steamed",
+    "dishForm": "Harira"
+  }
+}
