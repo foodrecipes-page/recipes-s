@@ -1,0 +1,103 @@
+{
+  "title": "Savory Dense Jamaican Polish Sausage Stew",
+  "description": "A hearty and comforting stew featuring Polish sausage and Jamaican spices, perfect for a cold evening. This dish is packed with umami flavor and dense with tender sausage and vegetables.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced Polish sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion, carrots, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the minced garlic, ground allspice, and dried thyme, and cook for 1 minute.",
+    "Stir in the low-sodium chicken broth and concentrated tomato paste, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the stew has thickened, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "jamaican-cuisine",
+    "one-pot",
+    "polish-sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "savory-dense-jamaican-polish-sausage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-dense-jamaican-polish-sausage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:31:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "polish sausage",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "polish sausage",
+    "descriptor": "Savory Dense",
+    "dishForm": "Stew"
+  }
+}
