@@ -1,0 +1,102 @@
+{
+  "title": "Savory Uruguayan Split Peas Roast",
+  "description": "A hearty and flavorful Uruguayan dish featuring tender split peas and roast, perfect for meal prep. This sour and savory roast is a staple in Uruguayan cuisine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "beef roast",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large pot, saute the onion and garlic in olive oil until softened.",
+    "Add the split peas, carrots, potatoes, tomato paste, salt, and black pepper to the pot and stir to combine.",
+    "Place the beef roast on top of the vegetables and peas.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Roast for 2 hours, or until the beef is tender and the peas are cooked.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Slice the beef against the grain and serve with the peas and vegetables.",
+    "Refrigerate or freeze for meal prep.",
+    "Reheat to an internal temperature of 165 degrees Fahrenheit before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "savory-uruguayan-split-peas-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-uruguayan-split-peas-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:49:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "split peas",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "split peas",
+    "descriptor": "Savory Roast",
+    "dishForm": "Roast"
+  }
+}
