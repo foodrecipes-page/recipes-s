@@ -1,0 +1,93 @@
+{
+  "title": "Sour Shattering Mediterranean Solo",
+  "description": "A sour, shattering, and satisfying solo dinner featuring HP sauce, lardons-render, and ayurvedic Rajasic-friendly flavors. Perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lardons",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "14 oz",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "HP Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Rajasic-friendly, use in moderation."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a medium pan over medium heat.",
+    "Add the lardons and cook until browned, about 5 minutes.",
+    "Add the red onion and cook until softened, about 3 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the canned tomatoes and cook for 10 minutes, stirring occasionally.",
+    "Stir in the HP sauce and fresh oregano.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh oregano, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "sour-shattering-mediterranean-dinner-solo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-shattering-mediterranean-dinner-solo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:15Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "lardons-render",
+    "primaryIngredient": "hp-sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "dinner",
+    "descriptor": "sour shattering",
+    "dishForm": "solo"
+  }
+}
