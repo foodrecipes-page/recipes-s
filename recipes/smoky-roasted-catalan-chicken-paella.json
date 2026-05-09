@@ -1,0 +1,108 @@
+{
+  "title": "Smoky Roasted Catalan Chicken Paella",
+  "description": "A hearty, smoky, and crunchy Spanish-inspired dish featuring molasses and al-dente rice, perfect for a lazy Sunday lunch. This recipe is egg-free and features a variety of smoky flavors from the chicken and vegetable marinade.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "pescetarian",
+    "ovitarian-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "uncooked, short-grain rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "ground, for smoky flavor"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground, for added depth"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tablespoons",
+      "notes": "for sweetness and depth"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium, for cooking rice and chicken"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher, for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, whisk together the vegetable oil, smoked paprika, ground cumin, and salt. Add the chicken pieces and toss to coat evenly.",
+    "Heat a large paella pan or skillet over medium-high heat. Add the chicken and cook until browned on all sides, about 5-7 minutes. Remove the chicken from the pan and set aside.",
+    "Add the vegetable oil to the pan and swirl to coat. Add the Spanish rice and cook, stirring constantly, until the rice is lightly toasted, about 3-4 minutes.",
+    "Add the chicken broth to the pan and bring to a boil. Add the browned chicken back to the pan and stir to combine.",
+    "Transfer the pan to the preheated oven and cook for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "While the paella is cooking, prepare the molasses mixture by whisking together the molasses and 1 tablespoon of water in a small bowl.",
+    "Remove the pan from the oven and stir in the molasses mixture. Sprinkle with black pepper to taste.",
+    "Let the paella rest for 5-10 minutes before serving. Cover with foil to keep warm.",
+    "Serve hot, garnished with lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "catalan",
+    "high-protein",
+    "one-pan",
+    "pescetarian",
+    "spanish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "smoky-roasted-catalan-chicken-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-catalan-chicken-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:23Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "molasses",
+    "diet": "egg-free",
+    "region": "catalan",
+    "cuisineAdjective": "catalan",
+    "mainIngredient": "chicken",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Paella"
+  }
+}
