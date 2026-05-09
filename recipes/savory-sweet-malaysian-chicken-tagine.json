@@ -1,0 +1,110 @@
+{
+  "title": "Savory Sweet Malaysian Chicken Tagine",
+  "description": "A salty and light Malaysian dish featuring chicken, flour tortilla, and coconut cream, cooked in a traditional tajine clay vessel.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "flour tortilla",
+      "amount": "4 large",
+      "notes": "cut into 1 inch strips"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Heat the olive oil in the bottom of a tajine clay vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken and cook until it is browned on all sides.",
+    "Add the cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the coconut cream and stir to combine.",
+    "Cover the tajine with a lid and transfer it to the preheated oven.",
+    "Cook for 30 minutes, then remove the lid and cook for an additional 10 minutes.",
+    "Meanwhile, cook the flour tortilla strips in a dry skillet over medium heat until they are crispy.",
+    "Serve the chicken and sauce over the crispy tortilla strips."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "coconut-cream",
+    "gluten-free",
+    "malaysian-cuisine",
+    "one-pot",
+    "tajine-clay"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "savory-sweet-malaysian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sweet-malaysian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:35:09Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "flour tortilla",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Savory Sweet",
+    "dishForm": "Tagine"
+  }
+}
