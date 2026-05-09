@@ -1,0 +1,99 @@
+{
+  "title": "Smoked Russian Bacon Hash",
+  "description": "Charred, bouncy, post-workout Russian dish featuring streaky bacon, simmered to perfection. Keto-friendly and perfect for a quick meal after a workout.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Streaky Bacon",
+      "amount": "12 slices",
+      "notes": "Thick-cut, smoked bacon is essential for this dish."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced onion adds a sweet and savory flavor."
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "Green bell pepper adds crunch and a bit of sweetness."
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Thinly sliced potato adds heft and texture."
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Iron Skillet",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Smoking Gun",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat an iron skillet over medium-high heat and cook the bacon until crispy.",
+    "Remove the crispy bacon from the skillet and set aside.",
+    "Reduce the heat to medium and add the sliced onion to the skillet.",
+    "Cook the onion until translucent and slightly caramelized, about 5 minutes.",
+    "Add the sliced bell pepper to the skillet and cook for another 3-4 minutes, until tender.",
+    "Add the sliced potato to the skillet and cook for about 5 minutes, until slightly tender.",
+    "Return the crispy bacon to the skillet and stir to combine with the potatoes and vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Simmer the mixture for another 2-3 minutes, until the flavors have melded together and the potatoes are cooked through.",
+    "Use a smoking gun to add a smoky flavor to the dish, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "iron-skillet",
+    "keto",
+    "one-pan",
+    "post-workout",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "smoked-russian-bacon-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-russian-bacon-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:02Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "streaky bacon",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Bacon",
+    "descriptor": "Smoked, Crispy",
+    "dishForm": "Hash"
+  }
+}
