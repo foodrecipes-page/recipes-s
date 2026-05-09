@@ -1,0 +1,100 @@
+{
+  "title": "Spicy Savory Korean Rice Bowl",
+  "description": "A spicy and savory Korean dish featuring mixed grain rice, topped with a cheese-pull and a variety of spicy ingredients, perfect for a hangover cure.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed grain rice",
+      "amount": "1 cup",
+      "notes": "cooked al-dente"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Bulgogi beef",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup",
+      "notes": "spicy fermented Korean cabbage"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small saucepan, heat the gochujang over low heat.",
+    "In a large bowl, combine the cooked mixed grain rice, bulgogi beef, kimchi, and soy sauce.",
+    "Stir in the heated gochujang and mix well.",
+    "Transfer the rice mixture to a ramekin.",
+    "Top the rice with shredded mozzarella cheese.",
+    "Bake the rice bowl in the preheated oven for 10 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped green onions and toasted sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "hangover-cure",
+    "korean-food",
+    "low-carb",
+    "one-bowl",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "spicy-savory-korean-rice-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-savory-korean-rice-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:49:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "mixed grain",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Spicy Savory",
+    "dishForm": "Bowl"
+  }
+}
