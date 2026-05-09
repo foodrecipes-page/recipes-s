@@ -1,0 +1,122 @@
+{
+  "title": "Silky Hangover-Cure Brazilian Fries Wrap",
+  "description": "A hangover-cure Brazilian dish featuring fries, nigiri-shaping, and wrapped in a pandan leaf. This dish is low-glycemic-friendly and packed with nutrients.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sweet potato fries",
+      "amount": "400g",
+      "notes": "Low-glycemic sweet potatoes are used to reduce blood sugar spikes."
+    },
+    {
+      "name": "Cohosh root",
+      "amount": "2g",
+      "notes": "Used for its anti-inflammatory properties to reduce hangover symptoms."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20ml",
+      "notes": "Used for frying and adding flavor."
+    },
+    {
+      "name": "Pandan leaves",
+      "amount": "4",
+      "notes": "Used as a wrap to add flavor and nutrients."
+    },
+    {
+      "name": "Tapioca starch",
+      "amount": "20g",
+      "notes": "Used as a coating to make the fries crispy."
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "10g",
+      "notes": "Used to add a cheesy flavor and boost B vitamins."
+    },
+    {
+      "name": "Guarana powder",
+      "amount": "2g",
+      "notes": "Used for its caffeine content to help alleviate hangover symptoms."
+    },
+    {
+      "name": "Parsley",
+      "amount": "20g",
+      "notes": "Used as a garnish to add flavor and freshness."
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "Used to add flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g",
+      "notes": "Used to add flavor."
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "100ml",
+      "notes": "Used as a sauce to add creaminess and flavor."
+    },
+    {
+      "name": "Brazilian cheese",
+      "amount": "50g",
+      "notes": "Used to add flavor and texture."
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1g",
+      "notes": "Used to add heat and flavor."
+    }
+  ],
+  "instructions": [
+    "Cut the sweet potatoes into long, thin strips and soak them in cold water for at least 30 minutes.",
+    "Dry the sweet potato strips with paper towels and coat with tapioca starch.",
+    "Heat the coconut oil in a deep frying pan to 160°C and fry the sweet potato strips in batches until crispy.",
+    "Drain the fried sweet potato strips on paper towels and season with salt and black pepper.",
+    "Prepare the cohosh root by grinding it into a fine powder.",
+    "Mix the cohosh root powder with coconut milk to create a sauce.",
+    "Heat the pandan leaves in a pan over low heat and wrap each sweet potato strip in a pandan leaf.",
+    "Place a spoonful of the cohosh root sauce on top of the sweet potato strip and wrap the pandan leaf around it to create a nigiri-shaped wrap.",
+    "Garnish with parsley and chili flakes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "breakfast",
+    "hangover-cure",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "silky-hangover-cure-brazilian-fries-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-hangover-cure-brazilian-fries-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:58:17Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "fries",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "fries",
+    "descriptor": "silky hangover-cure",
+    "dishForm": "Wrap"
+  }
+}

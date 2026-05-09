@@ -1,0 +1,121 @@
+{
+  "title": "Smoky Russian Lamb Broth",
+  "description": "A hearty, smoky broth featuring lamb, vegetables, and a variety of aromatic spices.",
+  "cuisine": "russian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb neck bones",
+      "amount": "4 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the lamb neck bones in a large Dutch oven over medium heat, until browned on all sides.",
+    "Add the onion, garlic, carrots, and celery to the pot and cook until the vegetables are tender.",
+    "Add the bay leaves, black peppercorns, smoked paprika, and thyme to the pot and stir to combine.",
+    "Pour in the beef broth and water, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Strain the broth through a fine-mesh sieve into a large bowl, discarding the solids.",
+    "Stir in the lemon juice and season the broth with salt to taste.",
+    "Return the pot to the stovetop and bring the broth to a simmer over medium heat.",
+    "Reduce the heat to low and cook for an additional 10 minutes, or until the broth has reduced slightly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "broth",
+    "lamb",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "smoky-russian-lamb-broth",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-russian-lamb-broth",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:58:33Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "poach",
+    "primaryIngredient": "lamb stock",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lamb",
+    "descriptor": "Smoky",
+    "dishForm": "Broth"
+  }
+}
