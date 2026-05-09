@@ -1,0 +1,109 @@
+{
+  "title": "springy herbal norwegian kiwifruit tart",
+  "description": "a refreshing springtime dessert featuring kiwifruit, herbal notes, and a norwegian twist",
+  "cuisine": "norwegian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "6",
+      "notes": "any color, but green preferred"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "make sure to sift before using"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened, but not melted"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1/2 cup",
+      "notes ": ""
+    },
+    {
+      "name": "finely chopped fresh dill",
+      "amount": "2 tbsp",
+      "notes": "add in the last 10 minutes of sous vide time"
+    },
+    {
+      "name": "dried lavender buds",
+      "amount": "1 tsp",
+      "notes": "be cautious, as lavender can be overpowering"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 tsp",
+      "notes ": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes ": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional, but recommended for flavor"
+    }
+  ],
+  "instructions": [
+    "preheat your sous vide machine to 150°f (65°c),",
+    "roll out the almond flour to 1/8\" thickness and place in a tart pan,",
+    "in a separate bowl, whisk together the kiwifruit, unsalted butter, caster sugar, and kosher salt,",
+    "in a separate bowl, whisk together the eggs and dried lavender buds,",
+    "pour the egg mixture over the kiwifruit mixture and stir until combined,",
+    "pour the mixture into the almond flour crust and smooth the top,",
+    "place the tart under the broiler for 2-3 minutes, or until the top is lightly golden,",
+    "remove from the oven and let cool for 10 minutes,",
+    "transfer the tart to a serving plate and drizzle with honey, if desired",
+    "drizzle with additional honey, if desired, and garnish with chopped dill",
+    "garnish with additional fresh dill, if desired",
+    "serve at room temperature or chilled, depending on preference"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "herbal",
+    "holiday",
+    "kiwifruit",
+    "norwegian",
+    "sous-vide",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "springy-herbal-norwegian-kiwifruit-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-herbal-norwegian-kiwifruit-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:11:06Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "kiwifruit",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "springy herbal",
+    "dishForm": "Tart"
+  }
+}
