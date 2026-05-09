@@ -1,0 +1,105 @@
+{
+  "title": "Smoky, Savory Braised Ukrainian Pork Braise",
+  "description": "A hearty, comforting dish with a rich, smoky flavor that's perfect for a cold winter's day. The combination of pork, barbecue sauce, and spices will cure even the most stubborn hangover.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "egg-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "barbecue sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons",
+      "notes": "coarse"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat your salt block to 300°F (150°C).",
+    "Season the pork shoulder with salt, black pepper, and thyme.",
+    "Sear the pork in a hot pan until browned on all sides, then transfer it to the preheated salt block.",
+    "Add the chopped onion and minced garlic to the pan and sauté until softened.",
+    "Add the barbecue sauce, red wine (if using), beef broth, and bay leaves to the pan.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Transfer the pork to the salt block and braise for 2 1/2 hours, or until tender.",
+    "Remove the pork from the salt block and let it rest for 10 minutes before slicing.",
+    "Strain the juices and serve the pork with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbecue-sauce",
+    "braising",
+    "comfort-food",
+    "hangover-cure",
+    "pork",
+    "winter-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 35
+  },
+  "slug": "smoky-savory-braised-ukrainian-pork-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-braised-ukrainian-pork-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T11:24:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "braise",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Smoky, Savory Braised",
+    "dishForm": "Braise"
+  }
+}
