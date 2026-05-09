@@ -1,0 +1,94 @@
+{
+  "title": "Slow Simmered Italian Burrata Tiramisu",
+  "description": "A low-calorie Italian dessert featuring burrata cheese, slow simmered in a copper pot and formed into a tiramisu shape, with a nutty and juicy flavor profile reminiscent of Puglian cuisine. This solo dinner dish is perfect for a quiet evening at home.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "12 oz",
+      "notes": "freshly imported from Puglia"
+    },
+    {
+      "name": "ladyfingers",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "espresso",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped and toasted"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the copper pot over low heat, adding the unsalted butter to melt and coat the bottom.",
+    "Add the chopped hazelnuts to the copper pot and toast for 5 minutes, stirring frequently.",
+    "Add the espresso, granulated sugar, cinnamon, and vanilla extract to the copper pot, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Remove the copper pot from the heat and let it cool slightly.",
+    "Cut the burrata cheese into small pieces and add it to the copper pot, stirring to combine with the simmered mixture.",
+    "Dip each ladyfinger into the mixture for 3-5 seconds on each side, then layer them in a large serving dish.",
+    "Repeat the layering process until all ingredients are used, finishing with a layer of burrata cheese on top.",
+    "Refrigerate the tiramisu for at least 3 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "italian-food",
+    "low-calorie",
+    "puglian-cuisine",
+    "slow-cooked",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "slow-simmered-italian-burrata-tiramisu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-simmered-italian-burrata-tiramisu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:33:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "burrata",
+    "diet": "low-calorie",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "burrata",
+    "descriptor": "slow simmered",
+    "dishForm": "Tiramisu"
+  }
+}
