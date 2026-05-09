@@ -1,0 +1,111 @@
+{
+  "title": "Smoky Roasted Polish Pork Gratin",
+  "description": "A hearty, umami-rich dish featuring a crispy snappy crust and tender pork from the comfort of your kitchen. Inspired by traditional monsoon-seasoned Polish cuisine.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1.2 kg"
+    },
+    {
+      "name": "katsuramuki-cut potatoes",
+      "amount": "600g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the pork knuckle with smoked paprika, black pepper, and garlic powder.",
+    "In a large pan over medium heat, cook the chopped onion until translucent.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add the sliced potatoes and cook for 5 minutes, stirring occasionally.",
+    "Transfer the potato mixture to a greased 9x13-inch baking dish.",
+    "Place the pork knuckle on top of the potatoes.",
+    "Dot the top of the pork with butter.",
+    "In a small bowl, mix the flour and heavy cream until smooth.",
+    "Pour the cream mixture over the pork and potatoes.",
+    "Sprinkle the grated cheddar cheese over the top.",
+    "Bake in the preheated oven for 1 hour and 20 minutes, or until the top is golden brown and the pork is cooked through.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 80,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "european-cuisine",
+    "fall-apart-tender",
+    "homestyle-cooking",
+    "meat-lovers",
+    "one-pan-wonder",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 90,
+    "fat": 80
+  },
+  "slug": "smoky-roasted-polish-pork-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-polish-pork-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T18:30:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "pork knuckle",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "smoky roasted",
+    "dishForm": "Gratin"
+  }
+}
