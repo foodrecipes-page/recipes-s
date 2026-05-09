@@ -1,0 +1,90 @@
+{
+  "title": "Savory Snappy Kenyan Meat Stir Fry",
+  "description": "A high-protein Kenyan dish featuring a rich tomato sauce and stir-fry, served in a lacquerware bowl. This fatty and indulgent meal is perfect for dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the beef strips and cook until browned, about 5 minutes.",
+    "Add the onion, bell pepper, garlic, and ginger to the skillet and cook until the vegetables are tender.",
+    "Add the tomato sauce and soy sauce to the skillet and stir to combine.",
+    "Bring the sauce to a simmer and cook for 5 minutes.",
+    "Season the stir-fry with salt and pepper to taste.",
+    "Serve the Savory Snappy Kenyan Meat Stir Fry hot in a lacquerware bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "high-protein",
+    "indulgent",
+    "kenyan-cuisine",
+    "lacquerware-bowl",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "savory-snappy-kenyan-meat-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-snappy-kenyan-meat-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:57:12Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "tomato sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "meat",
+    "descriptor": "Savory Snappy",
+    "dishForm": "Stir-fry"
+  }
+}
