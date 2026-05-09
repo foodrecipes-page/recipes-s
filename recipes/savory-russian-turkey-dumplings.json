@@ -1,0 +1,93 @@
+{
+  "title": "Savory Russian Turkey Dumplings",
+  "description": "A crowd-pleasing Russian dish featuring turkey and ferment-kimchi, this recipe is a briny and chewy delight that is also vegetarian-friendly with optional turkey, it is a great option for a dinner party",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground turkey",
+      "amount": "1 pound",
+      "notes": "optional"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground turkey, if using, ferment-kimchi, flour, eggs, salt, and pepper, and mix until just combined",
+    "Knead the mixture for about 5 minutes until it forms a sticky dough",
+    "Divide the dough into small balls, about 1 inch in diameter",
+    "Bring a large pot of salted water to a boil and gently add the dumplings",
+    "Cook the dumplings for 10-12 minutes, or until they float to the surface",
+    "Remove the dumplings from the water with a slotted spoon and drain off any excess water",
+    "Heat the vegetable oil in a large skillet over medium heat and add the cooked dumplings",
+    "Cook the dumplings for an additional 2-3 minutes, or until lightly browned",
+    "Garnish with chopped scallions and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "dumplings",
+    "fermented-food",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "savory-russian-turkey-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-russian-turkey-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:49:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "turkey",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "turkey",
+    "descriptor": "Savory",
+    "dishForm": "Dumplings"
+  }
+}
