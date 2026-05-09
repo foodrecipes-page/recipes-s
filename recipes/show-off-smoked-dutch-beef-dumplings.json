@@ -1,0 +1,102 @@
+{
+  "title": "Show-Off Smoked Dutch Beef Dumplings",
+  "description": "A rich, herby, and comforting dutch dish featuring beef stock, dumplings, and a creamy cheese topping. This dish is perfect for special occasions or a weekend dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stock",
+      "amount": "2 liters",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "use Dutch flour if available"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy milk alternative ok"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp",
+      "notes": "smoked and sweet paprika for a rich flavor"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "1 cup",
+      "notes": "grated, for topping"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "softened, for dumplings"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped, for flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced, for flavor"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine beef stock and bring to a boil over high heat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "dutch",
+    "high-protein",
+    "one-pan",
+    "show-off",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "show-off-smoked-dutch-beef-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/show-off-smoked-dutch-beef-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:49:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "beef stock",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Show-Off Smoked",
+    "dishForm": "Dumplings"
+  }
+}

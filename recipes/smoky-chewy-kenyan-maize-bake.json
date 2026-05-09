@@ -1,0 +1,121 @@
+{
+  "title": "Smoky Chewy Kenyan Maize Bake",
+  "description": "A smoky, chewy, and deliciously unique Kenyan dish perfect for kids and those with diabetes. It's made with orange blossom water, giving it a distinctive flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Maize Meal",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Orange Blossom Water",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Green Beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the maize meal, water, vegetable oil, smoked paprika, salt, and black pepper in a large bowl until a dough forms.",
+    "Knead the dough for 5 minutes until it's smooth and elastic.",
+    "Place the dough on a baking sheet lined with parchment paper, and shape it into a rectangular loaf.",
+    "Mix the orange blossom water with the butter and brush it on top of the loaf.",
+    "Bake the loaf for 25 minutes, then add the chopped onions, carrots, and green beans on top.",
+    "Continue baking for another 10 minutes, or until the vegetables are tender.",
+    "Remove the loaf from the oven and top it with the shredded cheddar cheese.",
+    "Return the loaf to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Let the loaf cool for 5 minutes before slicing and serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-weeknight-meal",
+    "kenyan",
+    "kid-friendly",
+    "one-pan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "smoky-chewy-kenyan-maize-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chewy-kenyan-maize-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "orange blossom water",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Maize",
+    "descriptor": "Smoky Chewy",
+    "dishForm": "Bake"
+  }
+}
