@@ -1,0 +1,70 @@
+{
+  "title": "Smoky Velvety Greek Beef Kidney Pastitsio",
+  "description": "A date-night Greek dish featuring tender beef kidney in a smoky, velvety sauce. Serve with a dash of tempering chocolate for a luxurious twist.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Kidney",
+      "amount": "1 pound",
+      "notes": "trim any visible fat and cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Cook",
+    "the",
+    "pasta",
+    "according",
+    "to",
+    "the",
+    "package",
+    "instructions",
+    "until",
+    "al",
+    "dente",
+    "then",
+    "drain",
+    "and",
+    "set",
+    "aside"
+  ],
+  "Brown the beef kidney on both sides for 2 minutes per side in 3 tablespoons of olive oil. Add 1 cup of all-purpose flour and cook for 1 minute, stirring constantly to thicken the sauce. Add 1 cup of red wine and 2 cups of beef stock, stirring to combine. Bring the sauce to a boil and then reduce the heat to low and simmer for 10 minutes. Stir in 2 tablespoons of tomato paste and 2 ounces of tempering chocolate until melted and smooth. Season the sauce with 1 teaspoon of salt and 1 teaspoon of black pepper. Stir in 4 whole eggs and cook for 1 minute, until the sauce is thick and creamy. Add 1 cup of crumbled feta cheese to the sauce and stir until combined. Combine the cooked pasta and the sauce, stirring to combine. Transfer the pasta to a large casserole dish and top with chopped parsley. Dot the top of the pasta with 2 tablespoons of butter. Bake the pasta in a preheated oven at 375°F for 20 minutes, until the top is golden brown and the sauce is bubbly. Serve the pasta hot, garnished with additional parsley if desired.": ".$prepTimeMin",
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "date-night",
+    "greek",
+    "kidney",
+    "luxurious",
+    "pastitsio"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "prepTimeMin": 15,
+  "slug": "smoky-velvety-greek-beef-kidney-pastitsio",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-velvety-greek-beef-kidney-pastitsio",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:41:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "beef kidney",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Smoky Velvety",
+    "dishForm": "Pastitsio"
+  }
+}
