@@ -1,0 +1,113 @@
+{
+  "title": "smoky energizing norwegian lamb grill",
+  "description": "A smoky and energizing norwegian lamb dish featuring fenugreek and mediterranean flavors.",
+  "cuisine": "norwegian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "norwegian lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "fenugreek leaves",
+      "amount": "2 tablespoons chopped fresh",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "roasted red bell pepper",
+      "amount": "1 roasted and sliced",
+      "notes": "from the grill or oven"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped fresh",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 425°F (220°C).",
+    "Season the lamb shoulder with salt, black pepper, ground cumin, and smoked paprika.",
+    "In a small bowl, mix together chopped fenugreek leaves, minced garlic, and lemon juice.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Add the lamb shoulder to the grill and cook for 4 minutes per side.",
+    "Transfer the lamb to a cutting board and let rest for 10 minutes.",
+    "In the same grill, add the sliced roasted red bell pepper and cook for 2-3 minutes.",
+    "Slice the lamb shoulder into thick strips and serve with fenugreek-garlic sauce, red bell pepper, and chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "grill",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "smoky-energizing-norwegian-lamb-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-energizing-norwegian-lamb-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T13:57:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "fenugreek",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Smoky Energizing",
+    "dishForm": "Grill"
+  }
+}
