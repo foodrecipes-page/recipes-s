@@ -1,0 +1,93 @@
+{
+  "title": "Slow Roasted Ethiopian Turkey Mince Tibs",
+  "description": "A roasted, velvety, and nostalgic Ethiopian dish featuring turkey mince in a lacquer glaze, perfect for a vegetarian friendly meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the turkey mince, onion, garlic, ginger, and berbere spice, mixing well.",
+    "Transfer the mixture to a roasting pan and brush with lacquer glaze.",
+    "Drizzle the olive oil over the mixture and cover with aluminum foil.",
+    "Roast the mixture in the preheated oven for 2 hours.",
+    "Remove the foil and continue roasting for an additional 30 minutes.",
+    "Remove the pan from the oven and let it rest for 10 minutes.",
+    "Serve the Slow Roasted Ethiopian Turkey Mince Tibs hot, garnished with chopped fresh herbs.",
+    "Traditionally, tibs is served with injera bread, but it can also be served with rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian-cuisine",
+    "one-pan",
+    "slow-cooked",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "slow-roasted-ethiopian-turkey-mince-tibs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-roasted-ethiopian-turkey-mince-tibs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:31:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "turkey mince",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "turkey mince",
+    "descriptor": "Slow Roasted",
+    "dishForm": "Tibs"
+  }
+}
