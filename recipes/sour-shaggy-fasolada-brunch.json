@@ -1,0 +1,104 @@
+{
+  "title": "Shaggy Fasolada Brunch",
+  "description": "A hearty Greek-inspired brunch featuring sour fasolada, grilled vegetables, and a hint of vinegar.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "shojin-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cannellini Beans",
+      "amount": "1 1/2 cups, drained and rinsed"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "2 medium, thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Feta Cheese (optional)",
+      "amount": "1/2 cup, crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced red onion and cook until slightly caramelized, about 5 minutes.",
+    "Add the sliced zucchini and red bell pepper, and cook for an additional 4-5 minutes.",
+    "In a separate saucepan, combine the cannellini beans, vinegar, garlic, salt, and black pepper. Cook over medium heat, stirring occasionally, until heated through.",
+    "To assemble the dish, divide the bean mixture among four plates, followed by a portion of the grilled vegetables.",
+    "Drizzle the remaining 1 tablespoon of olive oil over the vegetables and sprinkle with chopped parsley.",
+    "If using feta cheese, crumble it on top of the vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "easy-to-make",
+    "greek-cuisine",
+    "one-pan",
+    "shojin-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "sour-shaggy-fasolada-brunch",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-shaggy-fasolada-brunch",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:24:43Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "vinegar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "fasolada",
+    "descriptor": "Sour Shaggy",
+    "dishForm": null
+  }
+}
