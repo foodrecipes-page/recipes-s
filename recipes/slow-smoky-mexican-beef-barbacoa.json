@@ -1,0 +1,107 @@
+{
+  "title": "Slow Smoky Mexican Beef Barbacoa",
+  "description": "A traditional Jalisco-style dish featuring tender beef in a rich, smoky sauce, perfect for a casual brunch, this barbacoa is made with beef, spices, and poppy seeds, and is deep-fried to add crunch, and is ayurvedic-tamasic-friendly",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat",
+    "Add the onion and cook until it is lightly browned, about 5 minutes",
+    "Add the garlic and cook for 1 minute, until fragrant",
+    "Add the beef and cook until it is browned on all sides, about 5 minutes",
+    "Add the chipotle peppers, cumin, coriander, salt, and pepper, and stir to combine",
+    "Cover the pot and transfer it to the oven, where it will cook for 3 hours, or until the beef is tender",
+    "After 3 hours, remove the pot from the oven and stir in the poppy seeds",
+    "Using two forks, shred the beef into bite-sized pieces",
+    "Deep-fry the shredded beef in hot oil until it is crispy, about 2 minutes",
+    "Drain the beef on paper towels and serve it with the smoky sauce spooned over the top"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "brunch-ideas",
+    "deep-fried",
+    "mexican-food",
+    "slow-cooker",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "slow-smoky-mexican-beef-barbacoa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-smoky-mexican-beef-barbacoa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:28:35Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "poppy seeds",
+    "diet": "ayurvedic-tamasic",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "Slow Smoky",
+    "dishForm": "Barbacoa"
+  }
+}
