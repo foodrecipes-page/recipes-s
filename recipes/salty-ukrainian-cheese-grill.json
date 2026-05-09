@@ -1,0 +1,77 @@
+{
+  "title": "Salty Ukrainian Cheese Grill",
+  "description": "A keto-friendly, crowd-pleasing Ukrainian dish featuring V\u00045terbottensost cheese, grilled to perfection.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "V\u00045terbottensost cheese",
+      "amount": "300g"
+    },
+    {
+      "name": "Lamb's liver",
+      "amount": "120g"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to 180\u000060C.",
+    "Thread the V\u00045terbottensost cheese onto skewers, if using.",
+    "Season the lamb's liver with salt and black pepper.",
+    "Butter the grill or grill pan.",
+    "Grill the lamb's liver for 4 minutes per side, or until cooked to your liking.",
+    "Grill the V\u00045terbottensost cheese for 2-3 minutes per side, or until slightly charred.",
+    "Serve the grilled lamb's liver and V\u00045terbottensost cheese together, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 2,
+    "fat": 42
+  },
+  "slug": "salty-ukrainian-cheese-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-ukrainian-cheese-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:45:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "Salty",
+    "dishForm": "Grill"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Sick-Day Turkish Honey Pudding",
+  "description": "A tangy and comforting Turkish dessert perfect for a sick day, featuring a chewy honey pudding topped with a layer of caramel.",
+  "cuisine": "Turkish",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "honey",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the honey, flour, and sugar until well combined.",
+    "Add in the water and whisk until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce heat to low and simmer for 5 minutes, or until the mixture has thickened slightly.",
+    "Remove from heat and stir in the butter, egg, vanilla extract, and salt until well combined.",
+    "Pour the mixture into individual serving cups or ramekins and refrigerate until set, at least 2 hours.",
+    "To make the caramel sauce, melt the caramel sauce in a saucepan over low heat, or heat in a microwave-safe bowl in 10-second increments, stirring between each heating, until smooth.",
+    "Drizzle the caramel sauce over the chilled honey pudding.",
+    "Serve chilled and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "caramel",
+    "dessert",
+    "honey",
+    "pudding",
+    "sick-day",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 6,
+    "carbs": 120,
+    "fat": 20
+  },
+  "slug": "sick-day-turkish-honey-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/sick-day-turkish-honey-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:44:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "caramel",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "honey",
+    "descriptor": "sick-day",
+    "dishForm": "Pudding"
+  }
+}
