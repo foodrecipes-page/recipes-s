@@ -1,0 +1,95 @@
+{
+  "title": "Savory Dense Polish Spring Onion Pilaf",
+  "description": "A winey, dense, and indulgent Polish dish featuring spring onions, this pilaf is perfect for special occasions. It is made with fry-grind-rice-khao-khua and is satvik-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium heat.",
+    "Add the chopped spring onions and cook until they are softened.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the rice and cook for 2 minutes, stirring constantly.",
+    "Add the white wine and cook until the liquid is absorbed.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and cover the pan with a lid.",
+    "Steam the pilaf in a bamboo steamer for 20 minutes.",
+    "Fluff the pilaf with a fork and season with salt, black pepper, and dried thyme.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indulgent",
+    "polish-cuisine",
+    "spring-onion",
+    "vegetarian-friendly",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "savory-dense-polish-spring-onion-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-dense-polish-spring-onion-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:08:05Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "spring onions",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "spring onions",
+    "descriptor": "savory dense",
+    "dishForm": "Pilaf"
+  }
+}
