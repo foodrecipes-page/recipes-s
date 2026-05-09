@@ -1,0 +1,92 @@
+{
+  "title": "Savory Springy Vietnamese Cashew Noodles",
+  "description": "A nutty and springy Vietnamese dish featuring cashews, perfect for midnight cravings, with a low-fat friendly twist.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the cashews and cook until lightly toasted, about 2 minutes.",
+    "In a small bowl, whisk together the soy sauce, fish sauce, and lime juice.",
+    "Add the grated ginger and garlic to the bowl and whisk until combined.",
+    "Pour the sauce over the cooked noodles and toss to coat.",
+    "Add the toasted cashews to the noodles and toss again to combine.",
+    "Serve immediately, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cashew-based",
+    "low-fat",
+    "noodle-dish",
+    "quick-meal",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "savory-springy-vietnamese-cashew-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-springy-vietnamese-cashew-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:29:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "cashews",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cashews",
+    "descriptor": "springy savory",
+    "dishForm": "Noodles"
+  }
+}
