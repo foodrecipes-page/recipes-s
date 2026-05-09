@@ -1,0 +1,111 @@
+{
+  "title": "Smoky Savory Spanish Vegetable Stew",
+  "description": "A hearty one-pot Basque dish featuring smoky gochugaru and tangy flavors, made Jain-friendly by avoiding animal products.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high smoke point oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 teaspoon",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the gochugaru and smoked paprika, stirring to combine, and cook for 1 minute.",
+    "Add the canned diced tomatoes, vegetable broth, zucchini, bell pepper, salt, and black pepper, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Deglaze the pot with a little water if necessary, scraping up any browned bits from the bottom.",
+    "Serve the stew hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "jain-friendly",
+    "one-pot",
+    "smoky",
+    "spanish",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-savory-spanish-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-savory-spanish-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:44:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "gochugaru",
+    "diet": "jain",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vegetables",
+    "descriptor": "smoky savory",
+    "dishForm": "Stew"
+  }
+}
