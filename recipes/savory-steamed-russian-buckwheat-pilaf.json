@@ -1,0 +1,98 @@
+{
+  "title": "Savory Steamed Russian Buckwheat Pilaf",
+  "description": "A creamy, cozy Russian dish featuring yuzu, papillote, and a hint of nuttiness from buckwheat. Perfect for a weeknight dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": " finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the buckwheat groats in a fine mesh sieve and drain well.",
+    "In a large saucepan, melt the butter over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the buckwheat groats and cook for 2-3 minutes, stirring frequently.",
+    "Add the yuzu juice, thyme, salt, and pepper. Stir to combine.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low, cover with a papillote, and simmer for 20 minutes.",
+    "Remove the saucepan from the heat and let it sit, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "savory-steamed-russian-buckwheat-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-steamed-russian-buckwheat-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:11:01Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "papillote",
+    "primaryIngredient": "yuzu",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Savory Steamed",
+    "dishForm": "Pilaf"
+  }
+}
