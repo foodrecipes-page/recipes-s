@@ -1,0 +1,92 @@
+{
+  "title": "Savory Japanese Chicken Skewers",
+  "description": "A savory and nostalgic Japanese dish from the Chubu region, featuring juicy chicken and a hint of orange blossom water, made satvik-friendly and served on a wooden board.",
+  "cuisine": "Japanese",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, ginger, and orange blossom water to make the marinade.",
+    "Add the chicken pieces to the marinade and mix well to coat, then cover and refrigerate for at least 30 minutes.",
+    "Thread the marinated chicken onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with sesame oil to prevent sticking.",
+    "Grill the chicken skewers for 8-10 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Serve the skewers hot on a wooden board, garnished with sliced green onions and a side of steamed vegetables if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "grilled-food",
+    "japanese-cuisine",
+    "satvik-friendly",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "savory-japanese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-japanese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:56:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "orange blossom water",
+    "diet": "satvik",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "savory sweet",
+    "dishForm": "Skewers"
+  }
+}
