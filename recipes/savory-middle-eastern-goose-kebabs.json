@@ -1,0 +1,95 @@
+{
+  "title": "Savory Middle Eastern Goose Kebabs",
+  "description": "Aromatic and flavorful kebabs featuring goose fat and double-fry KFC technique, served in a bamboo steamer, perfect for a romantic dinner",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "goose fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together goose fat, olive oil, lemon juice, garlic, paprika, cumin, salt, and black pepper",
+    "Add the goose breast cubes to the bowl and toss to coat evenly",
+    "Thread the marinated goose breast cubes onto skewers",
+    "Double-fry the kebabs by first baking them in the oven for 15 minutes, then frying them in a skillet with a small amount of oil until crispy",
+    "Serve the kebabs in a bamboo steamer",
+    "Garnish with fresh parsley and lemon wedges",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "diabetic-friendly",
+    "goose-recipes",
+    "middle-eastern",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "savory-middle-eastern-goose-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-middle-eastern-goose-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:23:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "goose fat",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "goose",
+    "descriptor": "Savory Double Fried",
+    "dishForm": "Kebabs"
+  }
+}
