@@ -1,0 +1,94 @@
+{
+  "title": "Savory Steamed Filipino Fish Menudo",
+  "description": "A tangy and aerated Filipino dish featuring fish sauce and steamed to perfection in a bamboo steamer, this savory menudo is a show-off pescatarian-friendly recipe.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the fish fillet into small pieces and set aside.",
+    "In a large bowl, mix together fish sauce, lime juice, garlic, salt, and black pepper.",
+    "Add the fish pieces to the bowl and marinate for at least 10 minutes.",
+    "Prepare the bamboo steamer by lining it with parchment paper.",
+    "Add the marinated fish to the steamer, leaving some space between each piece.",
+    "Add the chopped onion and diced tomato on top of the fish.",
+    "Steam the fish for 8 minutes or until cooked through.",
+    "Serve the steamed fish menudo hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "easy-meal",
+    "filipino-cuisine",
+    "healthy-recipe",
+    "pescatarian-friendly",
+    "steamed-fish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "savory-steamed-filipino-fish-menudo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-steamed-filipino-fish-menudo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:05:20Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "brine-wet",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fish",
+    "descriptor": "Savory Steamed",
+    "dishForm": "Menudo"
+  }
+}
