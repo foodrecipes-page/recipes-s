@@ -1,0 +1,102 @@
+{
+  "title": "Savory Sweet Greek Seafood Horiatiki Pie",
+  "description": "A buttery and chewy Greek dish featuring shortcrust pastry and seafood, perfect for a weeknight dinner. This pescatarian-friendly pie is a twist on the classic horiatiki salad.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shortcrust pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the shortcrust pastry and place it in a 9-inch pie dish.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the shrimp to the skillet and cook until pink and fully cooked.",
+    "In a large bowl, combine the cooked shrimp, feta cheese, kalamata olives, tomatoes, and parsley.",
+    "Pour the shrimp mixture into the pie crust.",
+    "Bake the pie for 25-30 minutes, or until the crust is golden brown.",
+    "Remove the pie from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "one-pie",
+    "pescatarian-friendly",
+    "savory-pie",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "savory-sweet-greek-seafood-horiatiki-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-sweet-greek-seafood-horiatiki-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:32:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "dum",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "seafood",
+    "descriptor": "savory sweet",
+    "dishForm": "Horiatiki Pie"
+  }
+}
