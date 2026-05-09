@@ -1,0 +1,102 @@
+{
+  "title": "Savory Smoky Argentinian Potatoes Grill",
+  "description": "A mustardy, cheese-pull, satvik-friendly Argentinian dish featuring baby new potatoes, perfect for a sick day, with a smoky flavor from the grill.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "12",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "provolone cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the halved baby new potatoes to the bowl and toss to coat with the oil mixture.",
+    "Grill the potatoes for 20 minutes, or until they are tender and lightly charred.",
+    "In a small bowl, whisk together whole grain mustard and lemon juice.",
+    "Brush the mustard mixture onto the grilled potatoes.",
+    "Sprinkle the shredded provolone cheese over the potatoes.",
+    "Return the potatoes to the grill and cook for an additional 2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the potatoes from the grill and sprinkle with chopped fresh parsley.",
+    "Serve the Savory Smoky Argentinian Potatoes Grill hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "grilled-vegetables",
+    "satvik-friendly",
+    "smoky-flavor",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "savory-smoky-argentinian-potatoes-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-smoky-argentinian-potatoes-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:53:08Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Savory Smoky",
+    "dishForm": "Grill"
+  }
+}
