@@ -1,0 +1,111 @@
+{
+  "title": "springy fresh portuguese duck bisque",
+  "description": "a creamy, ayurvedic-friendly portuguese-inspired duck soup perfect for spring. serve as a light meal or as a first course.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "pescetarian",
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "duck fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a mortar and pestle, pound the garlic, ginger, and cayenne pepper until well combined.",
+    "heat the duck fat in a large saucepan over medium heat.",
+    "add the onions and cook until softened, about 5 minutes.",
+    "add the fennel seeds and cook for 1 minute, stirring constantly.",
+    "add the white wine and cook until almost completely reduced, scraping up any browned bits from the bottom of the pan.",
+    "add the duck stock and bring to a simmer.",
+    "reduce heat to low and let cook for 10 minutes.",
+    "stir in the heavy cream and let cook for 2-3 minutes, or until heated through.",
+    "season with salt and pepper to taste.",
+    "stir in the fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "portuguese",
+    "soups",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "springy-fresh-portuguese-duck-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-fresh-portuguese-duck-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "duck sauce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "duck",
+    "descriptor": "springy fresh",
+    "dishForm": "Bisque"
+  }
+}

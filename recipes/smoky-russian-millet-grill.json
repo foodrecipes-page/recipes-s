@@ -1,0 +1,123 @@
+{
+  "title": "Smoky Russian Millet Grill",
+  "description": "A tender and flavorful dish featuring millet, perfect for a lazy Sunday. It's a great option for a no-onion-no-garlic-friendly meal.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "2 cups",
+      "notes": "dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "0.5 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a large bowl, mix together the millet, chicken broth, olive oil, thyme, rosemary, salt, and black pepper.",
+    "Add the lemon juice, honey, and smoked paprika to the bowl and mix until combined.",
+    "Add the chicken breast to the bowl and mix until coated with the millet mixture.",
+    "Form the mixture into patties and place them on the robata grill.",
+    "Grill the patties for 5 minutes per side, or until they're cooked through and lightly charred.",
+    "While the patties are cooking, mix together the water and honey in a small bowl.",
+    "Once the patties are done, brush them with the honey water mixture and serve hot.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve the Smoky Russian Millet Grill with a side of your favorite vegetables or salad.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy-breakfast",
+    "one-pan",
+    "russian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "smoky-russian-millet-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-russian-millet-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "millet",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "millet",
+    "descriptor": "smoky",
+    "dishForm": "grill"
+  }
+}

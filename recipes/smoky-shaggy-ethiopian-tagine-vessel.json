@@ -1,0 +1,119 @@
+{
+  "title": "Smoky Shaggy Ethiopian Tagine Vessel",
+  "description": "A smoky, brunch-mood Ethiopian dish featuring demerara sugar and pickles, served in a cataplana.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Demerara Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pickled Jalape\u001510",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canned Chickpeas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee in a cataplana over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the smoked paprika, cumin, turmeric, and paprika and cook for 1 minute.",
+    "Add the chickpeas, pickled jalape\u001510, and demerara sugar, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "high-fiber",
+    "one-pan",
+    "shaggy",
+    "smoky",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "smoky-shaggy-ethiopian-tagine-vessel",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-shaggy-ethiopian-tagine-vessel",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "demerara sugar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "ethiopian",
+    "mainIngredient": "dish",
+    "descriptor": "smoky shaggy",
+    "dishForm": "tagine"
+  }
+}

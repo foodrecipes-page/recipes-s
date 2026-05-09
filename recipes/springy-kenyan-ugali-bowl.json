@@ -1,0 +1,111 @@
+{
+  "title": "springy kenyan ugali bowl",
+  "description": "umami-rich, springy kenyan dish featuring fermented corn flour, sherry, and anti-inflammatory ingredients, perfect for a brunch mood",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fermented corn flour",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tablespoons",
+      "notes": "or apple cider vinegar"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup fresh",
+      "notes": "chopped"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "plus more to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine fermented corn flour and 2 cups of water, stirring until smooth",
+    "bring the mixture to a boil in a large saucepan, then reduce the heat to medium and cook for 5 minutes",
+    "stir in sherry vinegar, salt, and black pepper",
+    "add diced sweet potatoes and cook for 5 minutes more",
+    "in a separate pan, heat coconut oil over medium heat and sauté thinly sliced red onion and minced garlic until softened",
+    "stir in chopped spinach and cook until wilted",
+    "to assemble the bowls, place a scoop of cooked ugali in each bowl, top with sautéed onion and spinach mixture, and garnish with chopped cilantro",
+    "season with additional salt and pepper to taste"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "springy-kenyan-ugali-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-kenyan-ugali-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "sherry",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "ugali",
+    "descriptor": "springy",
+    "dishForm": "bowl"
+  }
+}

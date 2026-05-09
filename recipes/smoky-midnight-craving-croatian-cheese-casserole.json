@@ -1,0 +1,108 @@
+{
+  "title": "smoky midnight craving croatian cheese casserole",
+  "description": "a creamy, smoky, lacto-vegetarian croatian cheese casserole featuring a rich caramelized sugar sauce, all crushed and mixed by hand in a mortar and pestle. perfect for a midnight craving",
+  "cuisine": "croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "caramelized sugar sauce",
+      "amount": "1/2 cup",
+      "notes": "made with 1 cup sugar, 1/4 cup water, and 1 tsp brown sugar, cooked to 338 f"
+    },
+    {
+      "name": "kajmak cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "crush kajmak cheese in a mortar and pestle until crumbly.",
+    "combine milk and kajmak cheese in a claypot, and cook over medium heat, stirring constantly until the cheese is fully melted and the mixture is smooth.",
+    "in a separate bowl, mix together caramelized sugar sauce and smoked paprika.",
+    "add garlic powder, onion powder, salt, and black pepper to the sugar mixture and mix well."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-casserole",
+    "comfort-food",
+    "european",
+    "high-protein",
+    "lacto-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 37
+  },
+  "slug": "smoky-midnight-craving-croatian-cheese-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-midnight-craving-croatian-cheese-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:14Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "smoky midnight craving",
+    "dishForm": "casserole"
+  }
+}
