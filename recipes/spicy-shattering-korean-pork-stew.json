@@ -1,0 +1,105 @@
+{
+  "title": "Spicy Shattering Korean Pork Stew",
+  "description": "A peppery and spicy Korean-inspired stew made with gochugaru and featuring a unique shattering texture, this dish is a quick-fix American adaptation that incorporates ayurvedic-tamasic friendly principles and is cooked in a hot-pot vessel, the mushimono-steam method adds a delicate touch to the ingredients.",
+  "cuisine": "Korean-American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together gochugaru, soy sauce, brown sugar, garlic, and ginger to make the spice paste.",
+    "Heat the sesame oil in the hot-pot vessel over medium heat.",
+    "Add the pork to the vessel and cook until browned on all sides, about 5 minutes.",
+    "Add the spice paste to the vessel and stir to coat the pork evenly.",
+    "Add the potatoes to the vessel and pour in enough water to cover the ingredients.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the chopped green onions and toasted sesame seeds.",
+    "Serve the stew hot, garnished with additional green onions and sesame seeds if desired.",
+    "To achieve the shattering texture, cook the stew for an additional 10 minutes, or until the meat is tender and the potatoes are easily broken with a spoon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "korean-inspired",
+    "one-pot",
+    "quick-fix",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "spicy-shattering-korean-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-shattering-korean-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:58:57Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "gochugaru",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "spicy shattering",
+    "dishForm": "Stew"
+  }
+}
