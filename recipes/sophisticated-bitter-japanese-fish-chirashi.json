@@ -1,0 +1,95 @@
+{
+  "title": "Sophisticated Bitter Japanese Fish Chirashi",
+  "description": "A bitter and aerated Japanese dish featuring white wine and deglaze, made with ayurvedic-rajasic-friendly ingredients, served as a chirashi meal prep",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi-grade fish",
+      "amount": "1 pound",
+      "notes": "such as halibut or snapper"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried wakame seaweed",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi-grade fish and cut it into small pieces",
+    "Cook the Japanese rice according to the package instructions",
+    "In a small saucepan, combine the white wine and rice vinegar and bring to a boil",
+    "Reduce the heat and simmer for 5 minutes to deglaze the sauce",
+    "In a large bowl, combine the cooked rice, sesame oil, and dried wakame seaweed",
+    "Add the pickled ginger and scallions to the bowl and mix well",
+    "Add the cooked fish to the bowl and mix gently",
+    "Divide the mixture into individual portions and serve as a chirashi",
+    "Garnish with additional scallions and pickled ginger if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "japanese-cuisine",
+    "meal-prep",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "sophisticated-bitter-japanese-fish-chirashi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sophisticated-bitter-japanese-fish-chirashi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:27:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "white wine",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fish",
+    "descriptor": "Sophisticated Bitter",
+    "dishForm": "Chirashi"
+  }
+}
