@@ -1,0 +1,100 @@
+{
+  "title": "Smoked Flaky American Fish Bake",
+  "description": "A light, solo dinner featuring ground nutmeg, smoke, and low-fat friendly ingredients. Perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "1/2 tsp",
+      "notes": "warm, aromatic flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "low-fat, for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Place the cod fillets on the prepared baking sheet.",
+    "In a small bowl, mix together smoked paprika, ground nutmeg, salt, and black pepper.",
+    "Sprinkle the spice mixture evenly over the cod fillets.",
+    "Dot the top of each fillet with butter.",
+    "Drizzle lemon juice over the cod fillets.",
+    "Bake in the preheated oven for 12 minutes.",
+    "Remove from the oven and garnish with chopped parsley.",
+    "Serve with a dollop of low-fat Greek yogurt on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "fish",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "smoked-flaky-american-fish-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoked-flaky-american-fish-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:14:00Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "smoke",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "fish",
+    "descriptor": "Smoked Flaky",
+    "dishForm": "Bake"
+  }
+}
