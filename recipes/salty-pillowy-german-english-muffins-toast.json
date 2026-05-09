@@ -1,0 +1,94 @@
+{
+  "title": "Salty Pillowy German English Muffins Toast",
+  "description": "A nostalgic German-inspired dish featuring toasted English muffins topped with a savory mirepoix-based mixture, perfect for a quick breakfast or snack time.",
+  "cuisine": "german",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English Muffins",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mirepoix Mixture (Caramelized Onions, Bell Peppers, Carrots)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grass-Fed Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Diced Fresh Chives",
+      "amount": "",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Toast the English muffins until lightly browned, about 2 minutes per side.",
+    "In a separate pan, caramelize the Mirepoix mixture over low heat for 10-12 minutes stirring occasionally.",
+    "Add the Salt and Black Pepper to the Mirepoix mixture and stir to combine.",
+    "Assemble the dish by spreading the Mirepoix mixture on top of the toasted English muffins, followed by a pat of Grass-Fed Butter, and finished with chopped Fresh Parsley and Diced Fresh Chives if using.",
+    "Serve immediately and enjoy!",
+    "Repeat with any remaining ingredients if serving a crowd."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "german",
+    "one-pan",
+    "paleo",
+    "quick",
+    "snack",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "salty-pillowy-german-english-muffins-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/salty-pillowy-german-english-muffins-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "english muffins",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "English muffins",
+    "descriptor": "salty pillowy",
+    "dishForm": "Toast"
+  }
+}
