@@ -1,0 +1,91 @@
+{
+  "title": "Smoky American Goat Wrap",
+  "description": "A smoky and velvety post-workout American dish featuring goat meat, double-fry KFC style, and wrapped in a lotus leaf, following ayurvedic sattvic friendly principles.",
+  "cuisine": "American",
+  "diet": [
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the ground goat meat, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Divide the mixture into 4 equal parts and shape each part into a small patty.",
+    "Heat the olive oil in a large skillet over medium high heat and double fry the patties until they are golden brown and cooked through.",
+    "Wrap each patty in a lotus leaf and bake in the oven for 10 minutes.",
+    "Serve the smoky American goat wraps hot and enjoy.",
+    "Garnish with fresh herbs if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "high-protein",
+    "lotus-leaf-wrap",
+    "post-workout",
+    "sattvic-friendly",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "smoky-american-goat-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-american-goat-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:30:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "goat meat",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "goat meat",
+    "descriptor": "smoky velvety",
+    "dishForm": "Wrap"
+  }
+}
