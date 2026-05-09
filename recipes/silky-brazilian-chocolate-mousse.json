@@ -1,0 +1,86 @@
+{
+  "title": "Silky Brazilian Chocolate Mousse",
+  "description": "A rich and decadent dessert featuring dark chocolate and brandy, this silky mousse is a diabetic-friendly treat that's sure to impress. With its smooth texture and deep flavors, it's a perfect indulgence for any occasion.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "8 ounces",
+      "notes": "at least 85% cocoa solids"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup",
+      "notes": "such as Swerve or Erythritol"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "brandy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Melt the chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval until smooth.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "In another bowl, whisk together the sweetener, eggs, and vanilla extract until well combined.",
+    "Temper the chocolate by slowly pouring it into the egg mixture, whisking constantly.",
+    "Fold the whipped cream into the chocolate mixture until no white streaks remain.",
+    "Stir in the brandy.",
+    "Spoon the mousse into individual serving cups.",
+    "Chill in the refrigerator for at least 2 hours before serving.",
+    "Garnish with fresh fruit or whipped cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "chocolate-lovers",
+    "diabetic-friendly",
+    "low-carb",
+    "rich-and-decadent",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "silky-brazilian-chocolate-mousse",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/silky-brazilian-chocolate-mousse",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:55:58Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "brandy",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chocolate",
+    "descriptor": "silky smooth",
+    "dishForm": "Mousse"
+  }
+}
