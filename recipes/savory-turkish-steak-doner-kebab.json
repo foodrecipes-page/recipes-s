@@ -1,0 +1,110 @@
+{
+  "title": "Savory Turkish Steak Doner Kebab",
+  "description": "A funky and chewy Turkish dish featuring fillet of steak, this dairy-free-friendly doner kebab is perfect for a quick and energizing meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak fillet",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or doner kebab machine to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together paprika, cumin, salt, and black pepper.",
+    "Add the sliced steak to the bowl and toss to coat with the spice mixture.",
+    "Heat 1 tablespoon of olive oil in the preheated skillet and cook the steak for 5 minutes per side, or until it reaches 145 degrees Fahrenheit.",
+    "Transfer the cooked steak to a cutting board and let it rest for 5 minutes.",
+    "Slice the rested steak into thin strips.",
+    "In the same skillet, heat the remaining 1 tablespoon of olive oil and cook the sliced onion for 5 minutes, or until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute, or until fragrant.",
+    "Warm the pita bread slices by wrapping them in foil and heating them in the oven at 350 degrees Fahrenheit for 5 minutes.",
+    "Assemble the doner kebab by spreading a layer of onion and garlic on each pita bread slice, followed by a few slices of steak, some diced tomato, and a sprinkle of shredded lettuce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "savory-turkish-steak-doner-kebab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-turkish-steak-doner-kebab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:00:58Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "fillet of steak",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "steak",
+    "descriptor": "Savory",
+    "dishForm": "Doner Kebab"
+  }
+}

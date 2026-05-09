@@ -1,0 +1,122 @@
+{
+  "title": "Solo Freshly Chopped Mediterranean Dinner",
+  "description": "A fatty, crumbly solo-dinner mediterranean dish featuring freshly chopped parsley and binchotan-charcoal. Perfect for a quick weeknight meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed lamb",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season the lamb with salt and pepper.",
+    "Heat olive oil in a skillet over medium-high heat and sear the lamb on all sides.",
+    "Transfer the lamb to a baking sheet and roast in the oven for 15 minutes.",
+    "Meanwhile, toast the binchotan charcoal in a skillet over medium heat.",
+    "Chop the parsley and mint leaves and mix with garlic, lemon zest, red pepper flakes, and a pinch of salt and pepper.",
+    "Remove the lamb from the oven and let rest for 5 minutes before slicing.",
+    "In a small bowl, whisk together red wine vinegar and honey.",
+    "Serve the lamb with the chopped herb mixture and drizzle with the vinegar-honey glaze.",
+    "Garnish with additional parsley and mint leaves, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "lamb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 412,
+    "protein": 34,
+    "carbs": 6,
+    "fat": 29
+  },
+  "slug": "solo-freshly-chopped-mediterranean-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/solo-freshly-chopped-mediterranean-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "dinner",
+    "descriptor": "freshly chopped",
+    "dishForm": "Solo"
+  }
+}
