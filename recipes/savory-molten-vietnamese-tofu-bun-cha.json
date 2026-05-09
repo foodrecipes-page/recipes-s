@@ -1,0 +1,104 @@
+{
+  "title": "Savory Molten Vietnamese Tofu Bun Cha",
+  "description": "A flavorful and adventurous Vietnamese dish featuring marinated tofu, coriander seeds, and a molten umami sauce, served with bun cha noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grilled onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bun cha noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender, combine coriander seeds, soy sauce, rice vinegar, and maple syrup to make the marinade.",
+    "Add the cubed tofu to the marinade and refrigerate for at least 30 minutes.",
+    "Grill the onions until they are lightly charred.",
+    "Cook the bun cha noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat and add the marinated tofu.",
+    "Cook the tofu until it is golden brown and crispy on the outside.",
+    "To assemble the dish, place the cooked noodles in a bowl, top with the tofu, grilled onions, scallions, and sesame seeds.",
+    "Drizzle the remaining marinade over the top and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "noodle-dishes",
+    "tofu-recipes",
+    "umami-flavors",
+    "vegetarian-meals",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "savory-molten-vietnamese-tofu-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-molten-vietnamese-tofu-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:08:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "coriander seeds",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Savory Molten",
+    "dishForm": "Bun Cha"
+  }
+}
