@@ -1,0 +1,65 @@
+{
+  "title": "springy portuguese bryndza cheese bake",
+  "description": "romantic vegetarian portuguese dish featuring bryndza cheese and render fat, perfect for snacking or as a side",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "1 block (250g)",
+      "notes": ""
+    },
+    {
+      "name": "render fat",
+      "amount": "2 tbsp",
+      "notes": "kept from cooking bryndza cheese"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 180c (350f).",
+    "cut the bryndza cheese into small pieces and place them in a mason jar.",
+    "add the render fat over the cheese and mix gently.",
+    "add the springy cheese mixture to a baking dish and bake for 20 minutes, or until golden brown.",
+    "remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "portuguese",
+    "romantic",
+    "snack",
+    "spring",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "springy-portuguese-bryndza-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/springy-portuguese-bryndza-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "render-fat",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Bryndza Cheese",
+    "descriptor": "Salty Springy",
+    "dishForm": "Bake"
+  }
+}

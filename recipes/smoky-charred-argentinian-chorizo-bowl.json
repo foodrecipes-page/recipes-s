@@ -1,0 +1,75 @@
+{
+  "title": "Smoky Charred Argentinian Chorizo Bowl",
+  "description": "A charred, creamy, and festive Argentinian dish featuring blue food colouring and served in a stone bowl. A perfect anti-inflammatory-friendly option for a weeknight dinner.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Chorizo",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Blue Potatoes",
+      "amount": "4-5 medium",
+      "notes": "cut into wedges"
+    }
+  ],
+  "instructions": [
+    "Heat a grill or grill pan to medium-high heat and cook the chorizo for 2-3 minutes on each side, or until nicely charred.",
+    "Cut the red onion and red bell pepper into strips and grill for 5-7 minutes on each side, or until tender.",
+    "Toss the blue potatoes with a little oil and season with salt and pepper. Grill for 5 minutes on each side, or until slightly charred.",
+    "Transfer the potatoes to a large stone bowl and top with the grilled chorizo, onion, and bell pepper.",
+    "Drizzle with a creamy chipotle aioli and sprinkle with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "argentinian",
+    "chili-free",
+    "chorizo",
+    "easy-weeknight",
+    "grilled",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 27,
+    "carbs": 43,
+    "fat": 34
+  },
+  "slug": "smoky-charred-argentinian-chorizo-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-charred-argentinian-chorizo-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:33Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "blue food colouring",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Chorizo",
+    "descriptor": "Smoky Charred",
+    "dishForm": "Bowl"
+  }
+}
