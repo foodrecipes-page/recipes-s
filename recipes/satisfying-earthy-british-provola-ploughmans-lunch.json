@@ -1,0 +1,109 @@
+{
+  "title": "Earthy British Provola Ploughmans Lunch",
+  "description": "A satisfying and earthy meal featuring provola, tempering chocolate, and other British favorites, served in an earthenware bowl.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "provola cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 oz",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "apple",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "pear",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": "aged"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "flaky"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Prepare the earthenware bowl by washing it with warm soapy water and drying it thoroughly.",
+    "Arrange the mixed greens in the bottom of the bowl.",
+    "Top the greens with sliced provola cheese, apple, and pear.",
+    "Sprinkle chopped walnuts over the top of the fruit and cheese.",
+    "Drizzle the balsamic vinegar and olive oil over the salad.",
+    "Season with salt and pepper to taste.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 30 second increments, stirring between each interval until smooth.",
+    "Drizzle the melted chocolate over the salad.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "earthy",
+    "easy-to-make",
+    "healthy",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "satisfying-earthy-british-provola-ploughmans-lunch",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/satisfying-earthy-british-provola-ploughmans-lunch",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:56:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "provola",
+    "diet": "ayurvedic-rajasic",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "provola",
+    "descriptor": "Satisfying earthy",
+    "dishForm": "Ploughmans Lunch"
+  }
+}
