@@ -1,0 +1,125 @@
+{
+  "title": "Smoky Wholesome Australian Fermented Food Grill",
+  "description": "A smoky, pillowy, and comforting Australian dish featuring fermented mustard, perfect for a lazy Sunday afternoon on the raclette grill.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": " fermented mustard",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kale",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Australian bush tomato",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "wood chips (eucalyptus or applewood)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium heat.",
+    "In a large bowl, combine the shredded cabbage, minced garlic, chopped kale, and caraway seeds.",
+    "In a small bowl, whisk together the fermented mustard, apple cider vinegar, olive oil, salt, black pepper, smoked paprika, and bush tomato.",
+    "Add the mustard mixture to the cabbage mixture and toss to coat.",
+    "Place a sheet of parchment paper on the preheated raclette grill and add the cabbage mixture.",
+    "Close the grill and smoke for 30 minutes, flipping the cabbage mixture halfway through.",
+    "While the cabbage is smoking, prepare the wood chips for smoking.",
+    "Add the wood chips to the grill and continue to smoke for an additional 10 minutes.",
+    "Remove the cabbage mixture from the grill and serve immediately.",
+    " Garnish with additional bush tomato and smoked paprika if desired.",
+    "Serve with crusty bread or over mashed potatoes for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fermented",
+    "gluten-free",
+    "high-fiber",
+    "lazy-sunday",
+    "one-pan",
+    "sustainable",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "smoky-wholesome-australian-fermented-food-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-wholesome-australian-fermented-food-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:19:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "smoke",
+    "primaryIngredient": "mustard",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "fermented food",
+    "descriptor": "smoky wholesome",
+    "dishForm": "grill"
+  }
+}

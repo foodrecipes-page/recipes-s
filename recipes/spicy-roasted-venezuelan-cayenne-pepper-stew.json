@@ -1,0 +1,71 @@
+{
+  "title": "spicy roasted venezuelan cayenne pepper stew",
+  "description": "a rich and spicy stew from venezuela featuring roasted cayenne peppers, tender beef, and a silky texture. serve over rice to soak up the flavorful broth.",
+  "cuisine": "venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "cayenne peppers",
+      "amount": "4",
+      "notes": "roasted and chopped"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425°f (220°c).",
+    "season the short ribs with salt, black pepper, and a pinch of cayenne pepper.",
+    "in a hot pot, heat a couple of tablespoons of vegetable oil over medium-high heat. sear the short ribs until browned on all sides, about 3-4 minutes per side. transfer the short ribs to a plate and set aside.",
+    "in the same pot, add another tablespoon of oil and sauté the chopped onion until translucent, about 3-4 minutes.",
+    "add the chopped cayenne peppers and sauté for another minute, until fragrant.",
+    "add the beef broth, tomato paste, cumin, and smoked paprika to the pot. stir to combine and bring to a boil.",
+    "return the short ribs to the pot, cover, and transfer to the preheated oven.",
+    "bake for 2-3 hours, or until the meat is tender and falls off the bone.",
+    "remove the pot from the oven and let it cool slightly.",
+    "using two forks, shred the short ribs and return them to the pot. stir to combine and season with salt and black pepper to taste.",
+    "serve the stew hot, garnished with chopped fresh cilantro and a dollop of sour cream, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "one-pan",
+    "spicy",
+    "stew",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "spicy-roasted-venezuelan-cayenne-pepper-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-roasted-venezuelan-cayenne-pepper-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:19:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "cayenne pepper",
+    "descriptor": "spicy roasted",
+    "dishForm": "stew"
+  }
+}
