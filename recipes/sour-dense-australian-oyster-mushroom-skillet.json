@@ -1,0 +1,103 @@
+{
+  "title": "Sour Dense Australian Oyster Mushroom Skillet",
+  "description": "A sour and dense Australian dish featuring oyster mushrooms, this skillet is a whole30-friendly and indulgent option for dinner, cooked to perfection on a comal and incorporating spherification for a unique twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "1 pound",
+      "notes": "fresh and sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for spherification bath"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a comal over medium heat.",
+    "Add the sliced oyster mushrooms and cook until they release their moisture and start to brown.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lemon juice, salt, and black pepper, and stir to combine.",
+    "In a small bowl, mix the sodium alginate with a small amount of water to create a solution.",
+    "Drop the alginate solution into the water bath to create spheres.",
+    "Add the spheres to the comal and cook for an additional 2 minutes.",
+    "Serve the skillet hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comal-cooked",
+    "mushroom-based",
+    "one-pan",
+    "spherification",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "sour-dense-australian-oyster-mushroom-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-dense-australian-oyster-mushroom-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:39:45Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "spherify",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "sour dense",
+    "dishForm": "Skillet"
+  }
+}
