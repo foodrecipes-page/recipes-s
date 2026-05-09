@@ -1,0 +1,104 @@
+{
+  "title": "Savory Shaggy Venezuelan Eggplant Skewers",
+  "description": "A funky and shaggy Venezuelan dish featuring eggplant, sashimi-cut, perfect for a hangover cure, made without onion or garlic.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "sashimi-cut into 1/2 inch thick slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, salt, black pepper, paprika, and cumin.",
+    "Add the sashimi-cut eggplant slices to the bowl and toss to coat with the marinade.",
+    "Thread the marinated eggplant slices, cherry tomatoes, and fresh cilantro onto skewers, leaving a little space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the eggplant is tender and lightly charred.",
+    "Remove the skewers from the grill and sprinkle with crumbly feta cheese.",
+    "Serve the skewers hot, garnished with additional fresh cilantro if desired.",
+    "Let the skewers cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "summer",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "savory-shaggy-venezuelan-eggplant-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-shaggy-venezuelan-eggplant-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:30:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "eggplant",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "eggplant",
+    "descriptor": "Savory Shaggy",
+    "dishForm": "Skewers"
+  }
+}
