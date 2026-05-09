@@ -1,0 +1,118 @@
+{
+  "title": "Smoky Chewy Egyptian Lamb Tagine",
+  "description": "A hearty, smoky Egyptian dish featuring lamb, pecorino-romano, and a rich blend of spices.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Pecorino-romano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, then set aside.",
+    "Add more oil if necessary, then sauté the onion, garlic, and ginger until softened.",
+    "Add the cumin, cinnamon, paprika, cayenne pepper (if using), salt, and black pepper, and cook for 1 minute.",
+    "Add the chicken broth and bring to a simmer.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and stir in the pecorino-romano cheese.",
+    "Serve hot, garnished with additional pecorino-romano cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "egg-free",
+    "high-protein",
+    "lamb-lovers",
+    "moroccan-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "smoky-chewy-egyptian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chewy-egyptian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T15:40:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "emulsify",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Smoky Chewy",
+    "dishForm": "Tagine"
+  }
+}
