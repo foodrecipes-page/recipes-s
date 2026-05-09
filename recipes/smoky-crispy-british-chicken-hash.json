@@ -1,0 +1,98 @@
+{
+  "title": "Smoky, Crispy British Chicken Hash",
+  "description": "A delightful one-pot British dish featuring smoky chicken, crispy potatoes, and caramelized onions, all made with buttermilk for tender and moist results.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast or thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large onion",
+      "amount": "1"
+    },
+    {
+      "name": "large potatoes, peeled and diced",
+      "amount": "2"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the diced onion and cook until caramelized, stirring occasionally, about 15 minutes.",
+    "Add the diced potatoes to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5-7 minutes.",
+    "Pour in the buttermilk and add the smoked paprika, garlic powder, salt, and black pepper.",
+    "Bring the mixture to a simmer and cook until the chicken is cooked through and the potatoes are tender, about 10-12 minutes.",
+    "Stir in the minced garlic and cook for 1 minute.",
+    "Use a spatula to break up the chicken into small pieces and stir to combine with the potatoes and onions.",
+    "Increase the heat to high and cook until the bottom of the hash is crispy and golden brown, about 5 minutes.",
+    "Use a spatula to transfer the hash to a serving platter and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "smoky-crispy-british-chicken-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-crispy-british-chicken-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T18:17:56Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "buttermilk",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "smoky, crispy",
+    "dishForm": "hash"
+  }
+}
