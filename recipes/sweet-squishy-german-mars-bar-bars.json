@@ -1,0 +1,92 @@
+{
+  "title": "Sweet Squishy German Mars Bar Bars",
+  "description": "Buttery, pillowy, indulgent German dessert featuring Mars bars and a hint of shio-koji cure, perfect for vegetarians. This sweet treat is a unique twist on traditional German desserts.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "12",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, cream together the butter and confectioners sugar until light and fluffy.",
+    "Add the shio-koji cure, flour, baking powder, and salt to the bowl and mix until just combined.",
+    "Stir in the chopped Mars bars and vanilla extract.",
+    "Press the mixture into a lined or greased 8-inch square baking dish.",
+    "Bake for 25 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool completely in the pan.",
+    "Cut into bars and serve.",
+    "Store any leftovers in an airtight container at room temperature for up to 5 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "german-desserts",
+    "indulgent-desserts",
+    "sweet-treats",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "sweet-squishy-german-mars-bar-bars",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-squishy-german-mars-bar-bars",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:16:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mars bar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Sweet Squishy",
+    "dishForm": "Bars"
+  }
+}
