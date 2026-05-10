@@ -1,0 +1,91 @@
+{
+  "title": "Smoky Roasted Croatian Goats Cheese Bowl",
+  "description": "A pescatarian friendly Croatian dish featuring roasted goats cheese, served in an earthenware bowl, perfect for a weeknight dinner",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "200g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "100g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius",
+    "In a small bowl mix together smoked paprika, olive oil, lemon juice, and minced garlic",
+    "Place the goats cheese in the earthenware bowl and brush the paprika mixture on top",
+    "Roast the goats cheese in the oven for 15 minutes or until slightly browned",
+    "While the cheese is roasting toss the cherry tomatoes in a little olive oil and season with sea salt",
+    "Add the cherry tomatoes to the oven and roast for an additional 5 minutes",
+    "Steam the mixed greens using a mushimono steam method until slightly wilted",
+    "To assemble the dish place the roasted goats cheese in the center of the earthenware bowl, surround with steamed mixed greens and top with roasted cherry tomatoes"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "goats-cheese",
+    "one-bowl",
+    "pescatarian-friendly",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "smoky-roasted-croatian-goats-cheese-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-roasted-croatian-goats-cheese-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:34:50Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "goats cheese",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "goats cheese",
+    "descriptor": "smoky roasted",
+    "dishForm": "Bowl"
+  }
+}
