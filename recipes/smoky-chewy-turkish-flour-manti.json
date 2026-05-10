@@ -1,0 +1,101 @@
+{
+  "title": "Smoky Chewy Turkish Flour Manti",
+  "description": "A traditional Turkish dish featuring smoky and chewy manti filled with vegetables, made with white flour and katsuramuki-cut, perfect for a festive meal. This vegetarian-friendly dish is a delight to eat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "white flour"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and salt, then gradually add the water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and roll each piece into a thin circle.",
+    "In a separate pan, heat the vegetable oil over medium heat and sauté the chopped onion and minced garlic until softened.",
+    "Add the sliced mushrooms to the pan and cook until they release their moisture and start to brown.",
+    "Add the smoked paprika and black pepper to the pan and stir to combine.",
+    "Place a tablespoon of the mushroom mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a triangle or square shape, and press the edges together to seal the manti.",
+    "Steam the manti over boiling water for 10-15 minutes, or until they are cooked through and slightly puffed.",
+    "Serve the smoky chewy Turkish flour manti hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chewy-texture",
+    "festive-meal",
+    "homemade-pasta",
+    "smoky-flavors",
+    "turkish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "smoky-chewy-turkish-flour-manti",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-chewy-turkish-flour-manti",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:49:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "white flour",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "flour",
+    "descriptor": "Smoky Chewy",
+    "dishForm": "Manti"
+  }
+}
