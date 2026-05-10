@@ -1,0 +1,110 @@
+{
+  "title": "Savory Crispy Saudi Arabian Beef Skewers",
+  "description": "A yeasty, crispy, nostalgic Saudi-Arabian dish featuring Thai holy basil krapao, resting on a bed of rice, and served with a side of cucumber salad, all prepared in a Buddhist temple friendly manner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Thai holy basil krapao",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, olive oil, garlic, ginger, yeast, salt, and black pepper.",
+    "Add the beef strips to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "While the beef is cooking, heat a tablespoon of olive oil in a pan over medium heat and saute the chopped Thai holy basil krapao until fragrant.",
+    "Serve the beef skewers on a bed of cooked rice, topped with the sauteed Thai holy basil krapao and a side of sliced cucumber.",
+    "Garnish with additional Thai holy basil krapao if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "meat-lovers",
+    "middle-eastern",
+    "one-pan",
+    "rice-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "savory-crispy-saudi-arabian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/savory-crispy-saudi-arabian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T06:02:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "rest-meat",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "beef",
+    "descriptor": "Savory Crispy",
+    "dishForm": "Skewers"
+  }
+}
