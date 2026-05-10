@@ -1,0 +1,116 @@
+{
+  "title": "Sickly Sweet Dutch Fish Stamppot",
+  "description": "A spicy, comforting Dutch dish featuring cajun-spiced cod, spherified mustard, and a medley of root vegetables, perfect for a sick day.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "2",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Cajun Spice Mix",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 cup",
+      "notes": "distilled white vinegar and sodium alginate"
+    },
+    {
+      "name": "Sodium Alginate",
+      "amount": "1 tsp",
+      "notes": "edible spherification agent"
+    },
+    {
+      "name": "Kale",
+      "amount": "2 cups",
+      "notes": "curly-leaf or lacinato work well"
+    },
+    {
+      "name": "Turnips",
+      "amount": "2",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "about 1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Brown Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "dairy or vegan substitute"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the kale until wilted, about 3 minutes. Reserve.",
+    "Meanwhile, spherify the mustard by mixing with sodium alginate and slowly dripping into the boiling water. Cook for 5 minutes, then remove with a slotted spoon and reserve.",
+    "In a large skillet, heat 1 tablespoon of butter over medium-high heat. Add the Cajun spice mix and cook for 1 minute, stirring constantly.",
+    "Add the cod fillets to the skillet and cook for 2-3 minutes per side, until browned and cooked through. Remove and reserve.",
+    "In the same skillet, add the remaining 1 tablespoon of butter. Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the sliced turnips and carrots to the skillet and cook for an additional 5 minutes, until they begin to brown.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the reserved kale and spherified mustard to the skillet and stir to combine.",
+    "Return the cooked cod fillets to the skillet and stir to combine with the vegetables and mustard.",
+    "Serve the stamppot hot, topped with additional Cajun spice mix and brown sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cod-recipe",
+    "comfort-food",
+    "dutch-cuisine",
+    "high-protein",
+    "one-pan",
+    "spherification",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "sickly-sweet-dutch-fish-stamppot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/sickly-sweet-dutch-fish-stamppot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T00:43:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "spherify",
+    "primaryIngredient": "cajun",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "Sickly Sweet",
+    "dishForm": "Stamppot"
+  }
+}
