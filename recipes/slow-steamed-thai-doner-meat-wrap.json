@@ -1,0 +1,97 @@
+{
+  "title": "Slow Steamed Thai Doner Meat Wrap",
+  "description": "A lazy Sunday Thai dish featuring doner meat and leaf wrap steam, this recipe is kosher friendly and perfect for a relaxing meal. The combination of yeasty and creamy flavors will transport your taste buds to the streets of Thailand.",
+  "cuisine": "Thai",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "doner meat",
+      "amount": "1 pound",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together curry paste, coconut milk, fish sauce, lime juice, brown sugar, yeast, and salt to make the marinade.",
+    "Add the sliced doner meat to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Prepare a steamer basket with lettuce leaves.",
+    "Place the marinated doner meat on the lettuce leaves in the steamer basket.",
+    "Steam the doner meat for 10 minutes or until cooked through.",
+    "Serve the doner meat in the lettuce leaves with additional curry sauce if desired.",
+    "Garnish with fresh cilantro or basil leaves if desired.",
+    "Steam the wraps for an additional 2 minutes to warm the lettuce leaves.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "doner-meat",
+    "kosher-friendly",
+    "lazy-sunday",
+    "steamed-dish",
+    "thai-food",
+    "yeasty-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "slow-steamed-thai-doner-meat-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-steamed-thai-doner-meat-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:41:10Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "doner meat",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "doner meat",
+    "descriptor": "Slow steamed",
+    "dishForm": "Wrap"
+  }
+}
