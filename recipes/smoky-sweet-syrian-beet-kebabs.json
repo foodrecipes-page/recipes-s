@@ -1,0 +1,92 @@
+{
+  "title": "Smoky Sweet Syrian Beet Kebabs",
+  "description": "A romantic Syrian dish featuring beets, glaze, and a peppery flavor, perfect for a dinner date.",
+  "cuisine": "Syrian",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "4 large",
+      "notes": "peeled and chopped into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium high heat.",
+    "Thread the beet pieces onto skewers, leaving a small space between each piece.",
+    "Brush the beets with olive oil and season with salt, black pepper, and sumac.",
+    "Grill the beets for 10 minutes, turning occasionally, until they are tender and slightly charred.",
+    "In a small bowl, whisk together the pomegranate molasses, lemon juice, and garlic.",
+    "Brush the glaze onto the beets during the last 2 minutes of grilling.",
+    "Serve the kebabs hot, garnished with additional sumac and pomegranate seeds if desired.",
+    "Let the kebabs rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-vegetables",
+    "romantic-dinner",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "smoky-sweet-syrian-beet-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-sweet-syrian-beet-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:09:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "glaze",
+    "primaryIngredient": "beets",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beets",
+    "descriptor": "smoky sweet",
+    "dishForm": "Kebabs"
+  }
+}
