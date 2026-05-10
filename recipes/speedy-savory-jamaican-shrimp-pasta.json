@@ -1,0 +1,92 @@
+{
+  "title": "Speedy Savory Jamaican Shrimp Pasta",
+  "description": "A quick and flavorful Jamaican-inspired pasta dish featuring shrimp and bowtie pasta, perfect for a weeknight dinner. This pescatarian-friendly recipe is ready in under 30 minutes.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "8 oz",
+      "notes": "also known as farfalle"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bowtie pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the shrimp to the skillet and sprinkle with jamaican jerk seasoning, cooking until the shrimp are pink and fully cooked.",
+    "In a small bowl, whisk together the chicken broth and a tablespoon of the pasta water, then add the mixture to the skillet and stir to combine.",
+    "Drain the cooked pasta and add it to the skillet, tossing to coat with the shrimp and sauce.",
+    "Season with salt and pepper to taste, then sprinkle with grated parmesan cheese and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-inspired",
+    "one-pot",
+    "pescatarian-friendly",
+    "quick-fix",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "speedy-savory-jamaican-shrimp-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/speedy-savory-jamaican-shrimp-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:06:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "shrimp",
+    "descriptor": "Speedy Savory",
+    "dishForm": "Pasta"
+  }
+}

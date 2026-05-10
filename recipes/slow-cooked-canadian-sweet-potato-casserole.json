@@ -1,0 +1,93 @@
+{
+  "title": "Slow Cooked Canadian Sweet Potato Casserole",
+  "description": "A floral, gooey, and cozy Canadian dish featuring sweet potatoes and a hint of spice, perfect for a cold winter night. This recipe is diabetic-friendly and features red pepper flakes for added flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "marshmallows",
+      "amount": "1 cup",
+      "notes": "miniature"
+    }
+  ],
+  "instructions": [
+    "Preheat the slow cooker to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the cubed sweet potatoes, red pepper flakes, brown sugar, cinnamon, nutmeg, salt, and black pepper, and toss to coat.",
+    "Transfer the sweet potato mixture to the slow cooker and cook for 6 hours.",
+    "After 6 hours, remove the sweet potatoes from the slow cooker and immediately submerge them in an ice bath to stop the cooking process.",
+    "Once the sweet potatoes have cooled, transfer them to a 9x13 inch baking dish.",
+    "Top the sweet potatoes with the miniature marshmallows.",
+    "Return the dish to the slow cooker and cook for an additional 30 minutes, or until the marshmallows are toasted and golden brown.",
+    "Remove the dish from the slow cooker and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 360,
+  "totalTimeMin": 380,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "diabetic-friendly",
+    "slow-cooked",
+    "vegetarian",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "slow-cooked-canadian-sweet-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-cooked-canadian-sweet-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:06:23Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "slow cooked",
+    "dishForm": "Casserole"
+  }
+}
