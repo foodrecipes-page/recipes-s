@@ -1,0 +1,124 @@
+{
+  "title": "shaggy poached malaysian tripe bowl",
+  "description": "a lacto-vegetarian, shaggy, post-workout malaysian dish made with poached tripe",
+  "cuisine": "malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tri-pe",
+      "amount": "1 pound",
+      "notes": "beef tripe, cleaned and cut into 2-inch pieces"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2 leaves",
+      "notes": "bruised"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated"
+    }
+  ],
+  "instructions": [
+    "combine ginger, galangal, lemongrass, and kaffir lime leaves in a large pot",
+    "add tripe to the pot and poach for 1 hour",
+    "add coconut milk, turmeric, coriander, cumin, chili flakes, salt, and black pepper to the pot",
+    "stir in sugar and bring to a boil",
+    "reduce heat to low and simmer for 30 minutes",
+    "serve in bowls and garnish with chopped fresh cilantro",
+    "serve with steamed rice or roti",
+    "serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "lacto-vegetarian",
+    "malaysian",
+    "one-pan",
+    "post-workout",
+    "shaggy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "shaggy-poached-malaysian-tripe-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/shaggy-poached-malaysian-tripe-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:58:06Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "tripe",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "tripe",
+    "descriptor": "shaggy poached",
+    "dishForm": "bowl"
+  }
+}

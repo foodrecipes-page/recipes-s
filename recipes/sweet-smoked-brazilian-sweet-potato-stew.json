@@ -1,0 +1,96 @@
+{
+  "title": "Sweet Smoked Brazilian Sweet Potato Stew",
+  "description": "A hearty and comforting Brazilian dish featuring sweet potatoes, muscovado sugar, and smoky wok-hei flavors, made with ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large wok or Dutch oven over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Add the diced sweet potatoes, smoked paprika, and muscovado sugar, and cook for 5 minutes, stirring occasionally.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the sweet potatoes are tender.",
+    "Use an immersion blender to puree the stew to the desired consistency.",
+    "Season with salt and pepper to taste, then serve hot.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "smoky",
+    "sweet-potato",
+    "vegetarian",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "sweet-smoked-brazilian-sweet-potato-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sweet-smoked-brazilian-sweet-potato-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:58:10Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "wok-hei",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "sweet smoked",
+    "dishForm": "Stew"
+  }
+}
