@@ -1,0 +1,97 @@
+{
+  "title": "Slow Roasted Canadian Jerusalem Artichoke Gratin",
+  "description": "A pungent and molten keto-friendly dish featuring Jerusalem artichokes, slow roasted in a scallop shell, perfect for a cold Canadian night. This meal prep recipe is a hearty and comforting side dish or main course.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2 pounds",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Scallop shells",
+      "amount": "6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pot of boiling salted water, blanch the sliced Jerusalem artichokes for 5 minutes.",
+    "Drain the artichokes and set them aside to cool.",
+    "In a large bowl, combine the cooled artichokes, unsalted butter, Grana Padano cheese, heavy cream, salt, black pepper, and chopped thyme.",
+    "Mix well to combine, then divide the mixture among the scallop shells.",
+    "Place the filled scallop shells on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 30 minutes, or until the top is golden brown and the artichokes are tender.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "keto-friendly",
+    "low-carb",
+    "scallop-shell-recipe",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 36
+  },
+  "slug": "slow-roasted-canadian-jerusalem-artichoke-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/slow-roasted-canadian-jerusalem-artichoke-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:00:46Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Slow roasted",
+    "dishForm": "Gratin"
+  }
+}
