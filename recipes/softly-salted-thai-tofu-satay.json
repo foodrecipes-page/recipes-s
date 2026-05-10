@@ -1,0 +1,103 @@
+{
+  "title": "Softly Salted Thai Tofu Satay",
+  "description": "A fresh and chewy Thai street food dish featuring salt-baked tofu, perfect for a satvik-friendly meal",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper and arrange the tofu pieces in a single layer.",
+    "Bake the tofu for 20 minutes, or until lightly browned.",
+    "Meanwhile, heat the shortening in a large skillet over medium heat.",
+    "Add the bruised lemongrass and sliced galangal to the skillet and cook for 1 minute.",
+    "Add the peanut oil, salt, chili flakes, and coconut milk to the skillet and stir to combine.",
+    "Add the baked tofu to the skillet and toss to coat with the sauce.",
+    "Transfer the tofu to a serving platter and sprinkle with toasted peanuts and lime juice.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "snack-time",
+    "thai-street-food",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "softly-salted-thai-tofu-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/softly-salted-thai-tofu-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:36:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "salt-bake",
+    "primaryIngredient": "shortening",
+    "diet": "satvik",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Softly Salted",
+    "dishForm": "Satay"
+  }
+}
