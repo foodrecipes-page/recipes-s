@@ -1,0 +1,96 @@
+{
+  "title": "Smoky Aerated American Narutomaki Toast",
+  "description": "A unique, hangover-curing American dish featuring smoky, aerated toast topped with narutomaki, perfect for a shojin-friendly breakfast or brunch.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "narutomaki",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "aerate",
+      "amount": "",
+      "notes": "food processor or hand mixer"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Place the slices of bread on a baking sheet and toast in the oven for 2 minutes.",
+    "Remove the bread from the oven and brush with melted butter.",
+    "Sprinkle smoked paprika, salt, and black pepper on top of the bread.",
+    "Aerate the narutomaki using a food processor or hand mixer until it becomes light and airy.",
+    "Top each slice of bread with a piece of aerated narutomaki.",
+    "Sprinkle shredded cheddar cheese and chopped scallions on top of the narutomaki.",
+    "Place the baking sheet back in the oven and cook for an additional 2-3 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "high-protein",
+    "smoked-paprika",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "smoky-aerated-american-narutomaki-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/smoky-aerated-american-narutomaki-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:10:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "toast",
+    "primaryIngredient": "narutomaki",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Narutomaki",
+    "descriptor": "Smoky Aerated",
+    "dishForm": "Toast"
+  }
+}
