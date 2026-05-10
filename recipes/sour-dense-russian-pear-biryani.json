@@ -1,0 +1,98 @@
+{
+  "title": "Sour Dense Russian Pear Biryani",
+  "description": "A sour and dense Russian dish featuring pears and bonito shave, suitable for a Buddhist temple gathering, this biryani is an energizing meal option.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russian pears",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until softened, about 3 minutes.",
+    "Add minced garlic and cook for another minute, until fragrant.",
+    "Add basmati rice and cook for 2 minutes, stirring constantly, until lightly toasted.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes, until rice is cooked and water is absorbed.",
+    "In a separate pan, combine lemon juice, bonito flakes, salt, and black pepper, and cook over low heat, stirring constantly, until the mixture is well combined and heated through.",
+    "Fluff cooked rice with a fork and stir in the lemon juice mixture and diced pears.",
+    "Serve hot, garnished with additional bonito flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "pear-recipes",
+    "russian-cuisine",
+    "seafood-friendly",
+    "temple-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "sour-dense-russian-pear-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/sour-dense-russian-pear-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:32:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "bonito-shave",
+    "primaryIngredient": "pears",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pears",
+    "descriptor": "sour dense",
+    "dishForm": "Biryani"
+  }
+}
