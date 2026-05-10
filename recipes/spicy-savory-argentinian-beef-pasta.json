@@ -1,0 +1,105 @@
+{
+  "title": "Spicy Savory Argentinian Beef Pasta",
+  "description": "A fermented and energizing Argentinian dish featuring chili powder and a pasta water emulsion, sugar free friendly. This dish combines the flavors of Argentina with a spicy kick.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium high heat and cook the beef strips until browned, about 5 minutes.",
+    "Add the garlic, chili powder, red pepper flakes, salt, and black pepper to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in 1 cup of pasta water and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, stirring occasionally.",
+    "Drain the pasta and add it to the skillet, tossing to coat with the sauce.",
+    "Stir in the chopped parsley and shaved grana padano cheese.",
+    "Serve the pasta hot, garnished with additional parsley and cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "high-protein",
+    "one-pan",
+    "pasta",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "spicy-savory-argentinian-beef-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/spicy-savory-argentinian-beef-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:54:26Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "chili powder",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Spicy Savory",
+    "dishForm": "Pasta"
+  }
+}
