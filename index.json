@@ -4270,16 +4270,14 @@
   },
   {
     "slug": "savory-gooey-syrian-wild-garlic-leaves-stir-fry",
-    "title": "Savory Gooey Syrian Wild Garlic Leaves Stir-fry",
+    "title": "Wild Garlic Stir Fry",
     "tags": [
-      "syrrian",
-      "wild-garlic-leaves",
+      "wild-garlic",
       "stir-fry",
-      "savory",
-      "gooey"
+      "syrian-food"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 15,
+    "cuisine": "syrian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -4808,13 +4806,12 @@
   },
   {
     "slug": "savory-light-cozy-dutch-eggplant-stir-fry",
-    "title": "Savory Light Cozy Dutch Eggplant Stir-fry",
+    "title": "Dutch Eggplant Stir Fry",
     "tags": [
+      "dutch",
       "eggplant",
-      "light",
-      "cozy",
-      "nut-free",
-      "stir-fry"
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 35,
@@ -20301,25 +20298,16 @@
   },
   {
     "slug": "smoky-roasted-brazilian-smoked-meat-paella",
-    "title": "Smoky Roasted Brazilian Smoked Meat Paella",
+    "title": "Smoked Meat Paella",
     "tags": [
-      "brazilian",
-      "cold-weather-dish",
-      "gluten-free",
-      "halal-friendly",
-      "one-pan",
-      "paella",
-      "party-favorite",
-      "post-workout-food",
-      "roasted",
       "smoked-meat",
-      "smoky",
-      "special-occasion",
-      "weekend-brunch",
-      "weeknight"
+      "paella",
+      "spanish",
+      "lunch",
+      "pork"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -31852,10 +31840,15 @@
   },
   {
     "slug": "spicy-smoky-greek-lamb-kebabs",
-    "title": "Spicy Smoky Greek Lamb Kebabs",
-    "tags": [],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": null,
+    "title": "Smoky Greek Lamb Kebabs",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "greek",
+      "smoky"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 36,
     "shard": "s"
   },
   {
