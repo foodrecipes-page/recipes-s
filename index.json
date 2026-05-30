@@ -9117,15 +9117,14 @@
   },
   {
     "slug": "sick-day-spicy-juicy-japanese-tofu-stir-fry",
-    "title": "Sick-Day Spicy Juicy Japanese Tofu Stir-fry",
+    "title": "Spicy Japanese Stir Fry",
     "tags": [
-      "sick-day",
+      "japanese",
+      "stir-fry",
       "spicy",
-      "juicy",
-      "tofu",
-      "japanese"
+      "vegetarian"
     ],
-    "cuisine": "Japanese",
+    "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "s"
   },
@@ -18694,16 +18693,14 @@
   },
   {
     "slug": "smoky-japanese-blackeye-pea-stir-fry",
-    "title": "Smoky Japanese Blackeye Pea Stir-fry",
+    "title": "Smoky Blackeye Pea Stir Fry",
     "tags": [
-      "smoky",
-      "japanese",
-      "blackeye-pea",
-      "hangover-cure",
-      "low-fat"
+      "peas",
+      "stir-fry",
+      "vegan"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 23,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -30714,16 +30711,15 @@
   },
   {
     "slug": "spicy-juicy-juiced-baby-pak-choi-salad",
-    "title": "Spicy Juicy Juiced Baby Pak Choi Salad",
+    "title": "Stir Fry with Baby Pak Choi",
     "tags": [
-      "salad",
-      "paleo-friendly",
-      "baby-pak-choi",
-      "spicy",
-      "juice-packed"
+      "pak-choi",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Asian",
-    "totalTimeMin": 40,
+    "cuisine": "Chinese",
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -37729,15 +37725,15 @@
   },
   {
     "slug": "sweet-velvety-portuguese-vine-leaves-stir-fry",
-    "title": "Sweet Velvety Portuguese Vine Leaves Stir-fry",
+    "title": "Braised Portuguese Chicken with Spinach",
     "tags": [
-      "sweet-velvety-portuguese-dish",
-      "vine-leaves-stir-fry",
-      "air-fried-dessert",
-      "vegan-friendly"
+      "chicken",
+      "portuguese",
+      "wine",
+      "spinach"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 17,
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -37904,6 +37900,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-roasted-brazilian-smoked-meat-paella--chinese",
+    "title": "Smoked Pork Belly Paella",
+    "tags": [
+      "chinese",
+      "smoked-meat",
+      "paella"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
     "shard": "s"
   }
 ]
