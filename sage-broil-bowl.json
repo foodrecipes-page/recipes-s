@@ -1,0 +1,51 @@
+{
+  "slug": "sage-broil-bowl",
+  "title": "Roasted Sage and Broccoli",
+  "description": "A simple and flavorful side dish that pairs perfectly with grilled meats. The slightly bitter taste of broccoli is balanced by the earthy flavor of sage.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch",
+      "notes": "Fresh and trimmed"
+    },
+    {
+      "name": "Fresh Sage",
+      "amount": "2 sprigs",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Rinse the broccoli and cut it into florets.",
+    "In a bowl, toss the broccoli with the chopped sage until the florets are evenly coated.",
+    "Transfer the broccoli mixture to a baking sheet and drizzle with a little bit of olive oil.",
+    "Broil in the preheated oven for 5-7 minutes or until the broccoli is tender and slightly charred.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broccoli",
+    "sage",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sage-broil-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:42:41.272Z"
+}
