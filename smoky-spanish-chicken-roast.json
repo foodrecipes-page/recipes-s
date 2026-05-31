@@ -1,0 +1,79 @@
+{
+  "slug": "smoky-spanish-chicken-roast",
+  "title": "Smoky Roast Chicken",
+  "description": "A flavorful and aromatic roast chicken dish with a smoky twist, perfect for a hearty dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole chicken (3-4 lbs)",
+      "notes": "fresh or thawed"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp smoked paprika",
+      "notes": "spanish-style"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for rubbing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 lemon",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together smoked paprika, salt, black pepper, and garlic.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Drizzle olive oil over the chicken and rub it in.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Baste the chicken with lemon juice every 20 minutes or so.",
+    "Let the chicken rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "smoky",
+    "chicken",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-spanish-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:28:21.659Z"
+}
