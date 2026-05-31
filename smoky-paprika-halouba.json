@@ -1,0 +1,73 @@
+{
+  "slug": "smoky-paprika-halouba",
+  "title": "Spicy Smoked Haloumi Skillet",
+  "description": "A simple and flavorful skillet dish featuring smoky haloumi cheese, smoky spices, and a hint of sweetness.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "haloumi",
+      "amount": "1 block (250g)",
+      "notes": "preferably smoked"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "halouba",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the halouba and cook until caramelized, about 5 minutes.",
+    "Add the smoky paprika and cook for 1 minute, stirring constantly.",
+    "Add the haloumi and cook until golden brown on both sides, about 3-4 minutes per side.",
+    "Season with salt and pepper to taste.",
+    "Serve the haloumi hot, garnished with additional halouba if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "mediterranean",
+    "haloumi",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-paprika-halouba",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:03:50.004Z"
+}
