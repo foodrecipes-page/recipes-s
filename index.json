@@ -15711,14 +15711,16 @@
   },
   {
     "slug": "smoky-crisp-apple-crumble",
-    "title": "Smoky Crisp Apple Crumble",
+    "title": "Autumn Crisp Apple Crumble",
     "tags": [
-      "smoky",
-      "c crisp",
-      "british-dish"
+      "autumn",
+      "apple",
+      "crumble",
+      "oats",
+      "butter"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "s"
   },
   {
@@ -16944,16 +16946,15 @@
   },
   {
     "slug": "smoky-dutch-little-gem-lettuce-stew",
-    "title": "Smoky Dutch Little Gem Lettuce Stew",
+    "title": "Smoky Stew with Lettuce and Gem",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "low-carb",
-      "one-pot",
-      "smoky-flavors"
+      "stew",
+      "lettuce",
+      "sausage",
+      "comfort-food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "cuisine": "European",
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -22346,14 +22347,15 @@
   },
   {
     "slug": "smoky-smoked-lime-stir-fry",
-    "title": "Smoky Smoked Lime Stir-fry",
+    "title": "Smoky Stir Fry",
     "tags": [
       "smoky",
       "stir-fry",
-      "limes"
+      "chicken",
+      "lime"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -37910,6 +37912,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 50,
+    "shard": "s"
+  },
+  {
+    "slug": "soft-egyptian-dates-tagine--french",
+    "title": "French Tagine Stuffed Dates",
+    "tags": [
+      "french",
+      "snack",
+      "stuffed-dates",
+      "tagine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
