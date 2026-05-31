@@ -750,16 +750,14 @@
   },
   {
     "slug": "salty-crusty-white-cornmeal-crumble",
-    "title": "Salty Crusty White Cornmeal Crumble",
+    "title": "Crispy Cornmeal Crusted Fish",
     "tags": [
-      "syrian",
-      "snack",
-      "crumble",
+      "fish",
       "cornmeal",
-      "pickle"
+      "crispy"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "s"
   },
   {
@@ -15870,23 +15868,16 @@
   },
   {
     "slug": "smoky-crispy-british-cauliflower-gratin",
-    "title": "Smoky Crispy British Cauliflower Gratin",
+    "title": "Smoky Cauliflower Gratin",
     "tags": [
-      "british",
-      "weeknight",
       "smoky",
       "crispy",
       "cauliflower",
       "gratin",
-      "diabetic-friendly",
-      "low-carb",
-      "herb-infused",
-      "creamy",
-      "flaky",
-      "family-friendly"
+      "british"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -26215,15 +26206,15 @@
   },
   {
     "slug": "sour-flaky-comforting-moroccan-dates-crumble",
-    "title": "Sour Flaky Comforting Moroccan Dates Crumble",
+    "title": "Moroccan Crumble Date Cake",
     "tags": [
-      "moroccan-dish",
-      "sour-flaky",
-      "comforting",
-      "diabetic-friendly"
+      "moroccan",
+      "crumble",
+      "date",
+      "cake"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "s"
   },
   {
@@ -37919,6 +37910,43 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-smoked-norwegian-salmon-flatbread--thai",
+    "title": "Smoked Salmon Flatbread",
+    "tags": [
+      "smoked salmon",
+      "thai flatbread",
+      "easy dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 17,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-slow-moroccan-lamb-tagine--italian",
+    "title": "Slow Braised Lamb Tagine with Savory Vegetables",
+    "tags": [
+      "lamb",
+      "italian",
+      "slow-cooked"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 180,
+    "shard": "s"
+  },
+  {
+    "slug": "shaggy-savory-tunisian-cheese-flatbread--mexican",
+    "title": "Tunisian Shaggy Quesadilla",
+    "tags": [
+      "mexican",
+      "quesadilla",
+      "tunisian",
+      "shaggy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
     "shard": "s"
   }
 ]
