@@ -1,0 +1,56 @@
+{
+  "slug": "sous-vide-penne-garlic-crunch",
+  "title": "Garlic Sous Vide Penne",
+  "description": "A simple yet flavorful pasta dish made with sous vide penne and garlic.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Penne",
+      "amount": "250g",
+      "notes": "Sous vide penne"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Crunch",
+      "amount": "20g",
+      "notes": "Crushed as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat sous vide water bath to 85°C (185°F).",
+    "Cook penne in the sous vide water bath for 8-10 minutes.",
+    "Heat a pan with the minced garlic over medium heat for 1 minute.",
+    "Drain the cooked penne and add to the garlic pan.",
+    "Toss the penne with the garlic and crushed crunch. Season with salt and pepper as needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "sous-vide",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-penne-garlic-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:00:33.933Z"
+}
