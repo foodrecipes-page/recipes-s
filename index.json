@@ -6749,11 +6749,11 @@
   },
   {
     "slug": "savory-thai-coconut-soup",
-    "title": "Savory Thai Coconut Soup",
+    "title": "Thai Coconut Soup",
     "tags": [
-      "thai",
-      "coconut-soup",
-      "creme-fraiche"
+      "thai-coconut-soup",
+      "vegan-friendly",
+      "vegetarian"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 30,
@@ -19605,15 +19605,12 @@
   },
   {
     "slug": "smoky-moroccan-tagine-tagine",
-    "title": "Smoky Moroccan Tagine",
+    "title": "Smoky Moroccan Chicken Tagine",
     "tags": [
-      "gluten-free",
+      "chicken",
       "moroccan",
-      "one-pan",
-      "shojin-friendly",
-      "smoky",
-      "vegetarian",
-      "weeknight"
+      "tagine",
+      "smoky"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 60,
@@ -37951,6 +37948,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-smoked-tomato-stir-fry--japanese",
+    "title": "Smoky Teriyaki Stir-Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "smoky",
+      "salmon"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
     "shard": "s"
   }
 ]
