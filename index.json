@@ -14745,18 +14745,14 @@
   },
   {
     "slug": "smoky-canadian-pistachio-roast",
-    "title": "Smoky Canadian Pistachio Roast",
+    "title": "Smoky Roast Dinner",
     "tags": [
-      "anti-inflammatory",
-      "bamboo-steamer",
+      "smoky",
       "canadian",
-      "gluten-free",
-      "low-carb",
-      "quick",
-      "smoky"
+      "roast"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 150,
     "shard": "s"
   },
   {
@@ -37961,6 +37957,45 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 22,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-masarepa-stir-fry--italian",
+    "title": "Polenta Fries",
+    "tags": [
+      "italian",
+      "snack",
+      "fries",
+      "polenta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-smoky-greek-lamb-kebabs--indian",
+    "title": "Lamb Kebabs with Spicy Yogurt Sauce",
+    "tags": [
+      "indian",
+      "kebabs",
+      "lamb",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-tender-monsoon-vegetables-stir-fry--japanese",
+    "title": "Monsoon Vegetable Stir Fry",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "stir-fry",
+      "quick-dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
     "shard": "s"
   }
 ]
