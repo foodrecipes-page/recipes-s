@@ -1,0 +1,81 @@
+{
+  "slug": "smoky-smoked-tomato-stir-fry--japanese",
+  "title": "Smoky Teriyaki Stir-Fry",
+  "description": "A flavorful and savory Japanese-inspired stir-fry dish, featuring smoky flavors and tender vegetables.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked salmon fillet",
+      "amount": "6 oz",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "smoky stir-fry oil",
+      "amount": "1 tsp",
+      "notes": "Smoked sesame oil or other flavored oil"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "Sliced for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "Optional for added depth"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "Grated or minced"
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add the ginger and cook for 1 minute, until fragrant.",
+    "Add the diced tomato and cook for 2-3 minutes, until tender.",
+    "Add the smoked salmon and cook for 2-3 minutes, until cooked through.",
+    "Stir in the stir-fry sauce and cook for an additional minute.",
+    "Season with soy sauce to taste.",
+    "Garnish with green onions and sesame seeds.",
+    "Serve immediately over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "smoky",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-smoked-tomato-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:51:40.312Z"
+}
