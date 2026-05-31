@@ -1,0 +1,82 @@
+{
+  "slug": "smoky-italian-onion-stew",
+  "title": "Smoky Italian Stew",
+  "description": "A hearty, smoky stew filled with the flavors of Italy. Perfect for a chilly evening.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky Italian Sausage",
+      "amount": "1 pound",
+      "notes": "Casings removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Italian Stew Tomatoes",
+      "amount": "2 cups",
+      "notes": "Canned"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Red wine adds depth to the stew"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Dried Basil",
+      "amount": "2 teaspoons",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning sausage"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "Brown the sausage in olive oil over medium-high heat, breaking up with a spoon as it cooks.",
+    "Remove the browned sausage from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it's softened and translucent.",
+    "Add the Italian stew tomatoes, beef broth, dried basil, salt, and pepper to the pot.",
+    "Stir to combine, then add the browned sausage back into the pot.",
+    "Bring the stew to a simmer and let it cook for 20-25 minutes, or until the flavors have melded together and the sausage is cooked through.",
+    "Serve hot, garnished with fresh basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "smoky",
+    "stew",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-italian-onion-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:44:25.266Z"
+}
