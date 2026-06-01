@@ -5014,18 +5014,15 @@
   },
   {
     "slug": "savory-middle-eastern-cheese-pie",
-    "title": "Savory Middle Eastern Cheese Pie",
+    "title": "Spinach and Feta Pie",
     "tags": [
-      "brunch",
-      "cheesy",
-      "comfort-food",
-      "flexitarian",
-      "lunch",
+      "savory",
       "middle-eastern",
-      "savory"
+      "cheese",
+      "pie"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -14978,16 +14975,16 @@
   },
   {
     "slug": "smoky-chewy-algerian-apple-bake",
-    "title": "Smoky Chewy Algerian Apple Bake",
+    "title": "Smoky Algerian Apple Bake",
     "tags": [
-      "algerian-cuisine",
-      "diabetic-friendly",
-      "smoky",
-      "chewy",
-      "apple-bake"
+      "algerian",
+      "apple",
+      "bake",
+      "dessert",
+      "smoky"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "s"
   },
   {
@@ -19409,17 +19406,13 @@
     "slug": "smoky-middle-eastern-lamb-skewers",
     "title": "Smoky Middle Eastern Lamb Skewers",
     "tags": [
-      "smoky",
-      "halal-friendly",
-      "grill",
       "lamb",
+      "grilled",
       "middle-eastern",
-      "spicy",
-      "quick-meal",
-      "protein-rich"
+      "skewers"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 27,
+    "totalTimeMin": 33,
     "shard": "s"
   },
   {
@@ -29510,16 +29503,16 @@
   },
   {
     "slug": "spicy-dense-mediterranean-bread-mix-stir-fry",
-    "title": "Spicy Dense Mediterranean Bread Mix Stir-fry",
+    "title": "Spicy Mediterranean Bread",
     "tags": [
-      "spicy",
-      "dense",
+      "bread",
       "mediterranean",
-      "mediterranean-bread-mix",
-      "bhuna-stir-fry"
+      "spicy",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -33122,17 +33115,15 @@
   },
   {
     "slug": "springy-ukrainian-blueberries-braise",
-    "title": "springy ukrainian blueberries braise",
+    "title": "Ukrainian Beef Stew",
     "tags": [
-      "diabetic-friendly",
-      "one-pan",
-      "spring",
-      "ukrainian",
-      "weeknight",
-      "wine"
+      "beef",
+      "stew",
+      "braised",
+      "ukrainian"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 170,
     "shard": "s"
   },
   {
@@ -36337,16 +36328,14 @@
   },
   {
     "slug": "sweet-malaysian-oreo-cream-biscuits-bao",
-    "title": "Sweet Malaysian Oreo Cream Bao",
+    "title": "Bao Cream Puffs",
     "tags": [
-      "dessert",
-      "easy-bao",
-      "fodmap",
-      "kid-friendly",
-      "malaysian"
+      "malaysian",
+      "cream",
+      "bao"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 65,
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -38041,6 +38030,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-paprika-halouba--mexican",
+    "title": "Smoky Halouba Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "halouba",
+      "smoky",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
