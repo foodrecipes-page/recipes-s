@@ -1,0 +1,68 @@
+{
+  "slug": "soft-fluffy-brazilian-bread-toast",
+  "title": "Brazilian Toast",
+  "description": "A simple and delicious Brazilian-style toast with soft and fluffy texture. Perfect for a quick breakfast or snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Brazilian bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted, melted"
+    },
+    {
+      "name": "soft cheese",
+      "amount": "1 cup",
+      "notes": "shredded, e.g. mozzarella or cheddar"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Slice the Brazilian bread into 1-inch thick slices.",
+    "In a bowl, mix the beaten eggs, salt (if using), and melted butter.",
+    "Dip each bread slice into the egg mixture, coating both sides evenly.",
+    "Place the coated bread slices on a baking sheet lined with parchment paper.",
+    "Sprinkle shredded cheese on top of each bread slice.",
+    "Bake in the preheated oven for 10-12 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "brazilian",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/soft-fluffy-brazilian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:38:55.244Z"
+}
