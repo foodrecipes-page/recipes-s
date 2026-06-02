@@ -1,0 +1,97 @@
+{
+  "slug": "smoke-cold-mexican-peas-tacos",
+  "title": "Smoky Tacos",
+  "description": "A twist on traditional tacos with a smoky twist, perfect for a quick snack or meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": "corn or flour, your choice"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "shredded cheese (optional)",
+      "amount": "",
+      "notes": "cheddar or Monterey Jack work well"
+    },
+    {
+      "name": "sour cream (optional)",
+      "amount": "",
+      "notes": "for topping"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cold water",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, combine cumin, chili powder, smoked paprika, salt, and pepper.",
+    "Add the black beans, diced tomatoes, and peas to the pan, stirring to combine.",
+    "Add a splash of cold water to the pan and stir to create a sauce.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning the bean and vegetable mixture onto a tortilla, topping with cheese and sour cream if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "mexican",
+    "tacos",
+    "veggie",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoke-cold-mexican-peas-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:40:10.369Z"
+}
