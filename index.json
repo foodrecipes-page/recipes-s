@@ -11709,17 +11709,15 @@
   },
   {
     "slug": "silky-umami-ukrainian-pilaf",
-    "title": "Silky Umami Ukrainian Pilaf",
+    "title": "Ukrainian Chicken Pilaf",
     "tags": [
-      "silky",
-      "umami",
-      "one-pot",
       "ukrainian",
+      "chicken",
       "pilaf",
-      "nut-free"
+      "umami"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -12410,18 +12408,16 @@
   },
   {
     "slug": "slow-roasted-australian-buckwheat-roast",
-    "title": "Slow Roasted Australian Buckwheat Roast",
+    "title": "Slow Roasted Australian Buckwheat",
     "tags": [
       "australian",
-      "buckwheat",
-      "gluten-free",
-      "one-pot",
       "slow-cooked",
-      "vegan",
-      "vegetarian"
+      "roasted",
+      "buckwheat",
+      "gluten-free"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 80,
     "shard": "s"
   },
   {
@@ -13385,16 +13381,14 @@
   },
   {
     "slug": "smoke-hot-french-peppercorns-eclair",
-    "title": "Smoke-Hot French Peppercorns Eclair",
+    "title": "French Smoked Delight",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "nut-free",
-      "pastry",
-      "weeknight"
+      "french-cuisine",
+      "smoked-salmon",
+      "appetizer"
     ],
     "cuisine": "French",
-    "totalTimeMin": 40,
+    "totalTimeMin": 17,
     "shard": "s"
   },
   {
@@ -16469,14 +16463,14 @@
   },
   {
     "slug": "smoky-crunchy-fennel-bulb-stir-fry",
-    "title": "Smoky Crunchy Fennel Bulb Stir-fry",
+    "title": "Smoky Fennel Stir Fry",
     "tags": [
-      "smoky-fennel-bulb-stir-fry",
-      "festival-chinese-dish",
-      "nut-free-friendly"
+      "stir-fry",
+      "fennel",
+      "sesame-seeds"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 22,
+    "cuisine": "Asian-inspired",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -38176,6 +38170,46 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-duck-bliss--thai",
+    "title": "Smoked Duck Satay",
+    "tags": [
+      "thai",
+      "smoked-duck",
+      "satay",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
+    "shard": "s"
+  },
+  {
+    "slug": "sous-vide-escargot-light--italian",
+    "title": "Sous Vide Italian Escargot",
+    "tags": [
+      "italian",
+      "escargot",
+      "sous-vide",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 140,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-polish-sardine-pilaf--japanese",
+    "title": "Sardine Japanese Pilaf",
+    "tags": [
+      "japanese",
+      "sardine",
+      "sushi",
+      "pilaf",
+      "lunch"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 17,
     "shard": "s"
   }
 ]
