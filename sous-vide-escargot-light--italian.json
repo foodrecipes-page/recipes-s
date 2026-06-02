@@ -1,0 +1,78 @@
+{
+  "slug": "sous-vide-escargot-light--italian",
+  "title": "Sous Vide Italian Escargot",
+  "description": "A creative Italian take on the classic French dish, utilizing sous vide technology for a tender and flavorful experience.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "snails (escargot)",
+      "amount": "12",
+      "notes": "fresh or frozen and thawed"
+    },
+    {
+      "name": "sous vide bag",
+      "amount": "1",
+      "notes": "large enough to hold snails"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying garlic"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry, for marinade"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried herbs (e.g., thyme, rosemary)"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat sous vide water bath to 180°F (82°C).",
+    "2. Rinse snails and pat dry with paper towels.",
+    "3. In a small pan, heat light olive oil over medium heat. Add minced garlic and cook for 1-2 minutes until fragrant.",
+    "4. In a separate bowl, whisk together white wine, italian seasoning, and a pinch of salt.",
+    "5. Place snails in the sous vide bag, add garlic-infused oil, and pour marinade over the snails.",
+    "6. Seal the sous vide bag and cook for 2 hours in the preheated water bath.",
+    "7. Remove snails from the sous vide bag and pan-fry in a hot skillet with a small amount of oil until golden brown.",
+    "8. Serve snails hot, garnished with grated parmesan cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "escargot",
+    "sous-vide",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-escargot-light--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:03:11.512Z"
+}
