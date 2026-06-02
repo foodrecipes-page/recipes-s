@@ -12700,17 +12700,16 @@
   },
   {
     "slug": "slow-smoky-mexican-beef-barbacoa",
-    "title": "Slow Smoky Mexican Beef Barbacoa",
+    "title": "Smoky Barbacoa Beef Tacos",
     "tags": [
-      "beef-recipes",
-      "brunch-ideas",
-      "deep-fried",
-      "mexican-food",
-      "slow-cooker",
-      "smoky-flavors"
+      "slow-cooked",
+      "smoky",
+      "mexican",
+      "beef",
+      "barbacoa"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 200,
+    "cuisine": "mexican",
+    "totalTimeMin": 255,
     "shard": "s"
   },
   {
@@ -12946,16 +12945,16 @@
   },
   {
     "slug": "smoke-cold-mexican-peas-tacos",
-    "title": "smoke-cold mexican peas tacos",
+    "title": "Smoky Tacos",
     "tags": [
-      "high-protein",
+      "smoky",
       "mexican",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "tacos",
+      "veggie",
+      "snack"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -16825,14 +16824,14 @@
   },
   {
     "slug": "smoky-duck-bliss",
-    "title": "Smoky Duck Bliss",
+    "title": "Smoky Blissful Duck Breast",
     "tags": [
+      "asian",
       "smoky",
-      "goosey",
-      "vegan-friendly"
+      "duck"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 60,
     "shard": "s"
   },
   {
@@ -29769,15 +29768,14 @@
   },
   {
     "slug": "spicy-flaky-flax-eggs-grill",
-    "title": "Spicy Flaky Flax Eggs Grill",
+    "title": "Grilled Flaky Flax Egg Rolls",
     "tags": [
-      "flax-eggs",
-      "grill",
-      "keto-friendly",
-      "spicy-flaky"
+      "gluten-free",
+      "vegan-option",
+      "asian-inspired"
     ],
-    "cuisine": "Keto",
-    "totalTimeMin": 40,
+    "cuisine": "asian",
+    "totalTimeMin": 21,
     "shard": "s"
   },
   {
@@ -38152,6 +38150,32 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-filipino-lamb-stir-fry--japanese",
+    "title": "Japanese Lamb Stir Fry",
+    "tags": [
+      "japanese",
+      "lamb",
+      "stir-fry",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-sweet-uruguayan-beef-skewers--japanese",
+    "title": "Uruguayan Beef Skewers with Japanese Flair",
+    "tags": [
+      "beef",
+      "skewers",
+      "japanese",
+      "uruguayan"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
