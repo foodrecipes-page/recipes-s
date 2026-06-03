@@ -10780,18 +10780,14 @@
   },
   {
     "slug": "silky-romantic-vietnamese-oyster-mushroom-pho",
-    "title": "Silky Romantic Vietnamese Oyster Mushroom Pho",
+    "title": "Vietnamese Pho",
     "tags": [
       "vietnamese",
       "pho",
-      "oyster-mushrooms",
-      "plant-based",
-      "romantic",
-      "herbal",
-      "silky"
+      "noodle-soup"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 80,
     "shard": "s"
   },
   {
@@ -13343,17 +13339,16 @@
   },
   {
     "slug": "smoke-hot-ethiopian-lamb-wot",
-    "title": "Smoke-Hot Ethiopian Lamb Wot",
+    "title": "Ethiopian Lamb Wot",
     "tags": [
-      "comfort-food",
-      "ethiopian",
-      "keto-friendly",
       "lamb",
-      "one-pan",
-      "stew"
+      "ethiopian",
+      "stew",
+      "wot",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 125,
     "shard": "s"
   },
   {
@@ -29900,12 +29895,12 @@
   },
   {
     "slug": "spicy-fluffy-korean-rice-fried-rice",
-    "title": "Spicy Fluffy Korean Rice Fried Rice",
+    "title": "Spicy Korean Fried Rice",
     "tags": [
-      "korean-food",
-      "vegan-recipes",
-      "spicy-dishes",
-      "fried-rice"
+      "korean",
+      "spicy",
+      "rice",
+      "fry"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
@@ -32253,16 +32248,15 @@
   },
   {
     "slug": "spicy-velvety-egyptian-turkey-stir-fry",
-    "title": "Spicy Velvety Egyptian Turkey Stir-Fry",
+    "title": "Egyptian-Style Turkey Stir Fry",
     "tags": [
-      "egyptian",
+      "turkey",
       "stir-fry",
-      "spicy",
-      "vegan-friendly",
-      "jain-friendly"
+      "egyptian-cuisine",
+      "spicy"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -38240,6 +38234,32 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-syrian-kielbasa-skillet--gluten-free",
+    "title": "Smoky Kielbasa Skillet",
+    "tags": [
+      "gluten-free",
+      "skillet",
+      "kielbasa",
+      "pepper",
+      "potato"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "springy-sour-dutch-sesame-fritters--gluten-free",
+    "title": "Gluten-Free Dutch Fritter Bites",
+    "tags": [
+      "gluten-free",
+      "snack",
+      "fritters"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 15,
     "shard": "s"
   }
 ]
