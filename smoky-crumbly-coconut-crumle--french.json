@@ -1,0 +1,77 @@
+{
+  "slug": "smoky-crumbly-coconut-crumle--french",
+  "title": "French Coconut Crumble",
+  "description": "A classic French dessert with a twist of coconut and a crumbly topping.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "unsalted, melted"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "crumle",
+      "amount": "1 cup",
+      "notes": "oat and brown sugar crumble mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together coconut milk, sugar, eggs, and smoky.",
+    "Pour the mixture into a 9x9-inch baking dish.",
+    "In a separate bowl, mix together flour and melted butter to form a crumbly mixture.",
+    "Add the crumle mixture on top of the coconut mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the filling is set.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "coconut",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-crumbly-coconut-crumle--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:53:48.486Z"
+}
