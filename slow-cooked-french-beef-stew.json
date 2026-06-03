@@ -1,0 +1,83 @@
+{
+  "slug": "slow-cooked-french-beef-stew",
+  "title": "French Beef Stew",
+  "description": "A hearty and comforting French-inspired beef stew made with tender beef, rich vegetables, and flavorful broth.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 large"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add red wine and scrape up any browned bits from the bottom of the pot.",
+    "Add beef broth, tomato paste, salt, and pepper. Stir to combine.",
+    "Return beef to the pot and bring to a boil.",
+    "Cover and transfer to the oven. Braise until beef is tender, about 2 1/2 hours.",
+    "Stir in thyme and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/slow-cooked-french-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:11:31.512Z"
+}
