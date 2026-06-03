@@ -1569,18 +1569,16 @@
   },
   {
     "slug": "salty-midnight-canadian-poutine-fries",
-    "title": "Salty Midnight Canadian Poutine Fries",
+    "title": "Poutine Fries",
     "tags": [
-      "canadian-classics",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "snack-attack",
-      "vegan-options",
-      "weeknight"
+      "canadian",
+      "snack",
+      "french-fries",
+      "cheese-curd",
+      "gravy"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -34536,16 +34534,15 @@
   },
   {
     "slug": "sweet-canadian-vermicelli-noodles",
-    "title": "Sweet Canadian Vermicelli Noodles",
+    "title": "Sweet Vermicelli Noodle Salad",
     "tags": [
-      "canadian-cuisine",
-      "vermicelli-noodles",
-      "sweet-dish",
-      "low-calorie",
+      "asian",
+      "salad",
+      "gluten-free",
       "vegetarian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -38259,6 +38256,19 @@
       "fritters"
     ],
     "cuisine": "Dutch",
+    "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-grassy-indian-perilla-leaf-biryani--german",
+    "title": "Grilled Perilla Leaf Salad with Biryani Vinaigrette",
+    "tags": [
+      "german",
+      "salad",
+      "perilla",
+      "grilled"
+    ],
+    "cuisine": "german",
     "totalTimeMin": 15,
     "shard": "s"
   }
