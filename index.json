@@ -12040,16 +12040,14 @@
   },
   {
     "slug": "slow-cooked-french-beef-stew",
-    "title": "Slow Cooked French Beef Stew",
+    "title": "French Beef Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "french-cuisine",
-      "one-pot",
-      "slow-cooked"
+      "beef",
+      "stew",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 510,
+    "totalTimeMin": 170,
     "shard": "s"
   },
   {
@@ -13465,17 +13463,15 @@
   },
   {
     "slug": "smoke-hot-kenyan-stilton-cheese-gratin",
-    "title": "Smoked-Hot Kenyan Stilton Cheese Gratin",
+    "title": "Kenyan Cheese Gratin",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "romantic",
-      "smoked-paprika",
-      "stilton-cheese",
-      "weeknight"
+      "kenyan",
+      "cheese",
+      "gratin",
+      "comfort-food"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -15932,10 +15928,15 @@
   },
   {
     "slug": "smoky-crispy-greek-pecorino-salad",
-    "title": "Smoky Crispy Greek Pecorino Salad",
-    "tags": [],
-    "cuisine": "Greek",
-    "totalTimeMin": null,
+    "title": "Smoky Pecorino Greek Salad",
+    "tags": [
+      "salad",
+      "cheese",
+      "greek",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "s"
   },
   {
@@ -38210,6 +38211,31 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 17,
+    "shard": "s"
+  },
+  {
+    "slug": "streaky-bacon-marinated-azucarado-tacos--chinese",
+    "title": "Sweet and Sour Pork Tacos",
+    "tags": [
+      "chinese",
+      "mexican",
+      "pork",
+      "tacos"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crispy-greek-pecorino-salad--chinese",
+    "title": "Smoky Salad with Greek Dressing",
+    "tags": [
+      "salad",
+      "greek",
+      "chinese-fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
     "shard": "s"
   }
 ]
