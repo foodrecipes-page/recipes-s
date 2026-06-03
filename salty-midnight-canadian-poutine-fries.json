@@ -1,0 +1,61 @@
+{
+  "slug": "salty-midnight-canadian-poutine-fries",
+  "title": "Poutine Fries",
+  "description": "A delicious Canadian dish consisting of French fries topped with cheese curds and gravy.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fries",
+      "amount": "2 pounds",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Salty",
+      "amount": "as needed",
+      "notes": "To taste"
+    },
+    {
+      "name": "Canadian cheese curds",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Poutine gravy mix",
+      "amount": "2 tablespoons",
+      "notes": "Follow package instructions"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake the fries in the oven for 20-25 minutes, or until crispy.",
+    "While the fries are baking, prepare the cheese curds and gravy according to package instructions.",
+    "Once the fries are done, remove them from the oven and sprinkle with cheese curds and gravy.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "snack",
+    "french-fries",
+    "cheese-curd",
+    "gravy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-midnight-canadian-poutine-fries",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:04:40.830Z"
+}
