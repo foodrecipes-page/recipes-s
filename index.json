@@ -10398,20 +10398,14 @@
   },
   {
     "slug": "silky-light-middle-eastern-cauliflower-bowl",
-    "title": "Silky Light Middle Eastern Cauliflower Bowl",
+    "title": "Eastern-Style Roasted Cauliflower Bowl",
     "tags": [
-      "paleo",
-      "vegetarian",
-      "gluten‑free",
-      "low‑carb",
-      "dairy‑free",
-      "keto‑friendly",
       "cauliflower",
-      "silky",
-      "light",
-      "middle‑eastern"
+      "middle eastern",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Middle Eastern",
+    "cuisine": "middle eastern",
     "totalTimeMin": 30,
     "shard": "s"
   },
@@ -20068,15 +20062,14 @@
   },
   {
     "slug": "smoky-pull-egyptian-cheese-robata-grilled-sandwich",
-    "title": "Smoky Pull Egyptian Cheese Robata-Grilled Sandwich",
+    "title": "Smoky Robata Grilled Cheese Sandwich",
     "tags": [
-      "cheese-lover",
-      "egyptian",
-      "one-pan",
-      "weeknight"
+      "grilled-cheese",
+      "robata-cheese",
+      "european"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 15,
+    "cuisine": "american",
+    "totalTimeMin": 11,
     "shard": "s"
   },
   {
@@ -24231,14 +24224,15 @@
   },
   {
     "slug": "snappy-monsoon-mustardy-menudo-pasta",
-    "title": "Snappy Monsoon Mustardy Menudo Pasta",
+    "title": "Creamy Menudo Pasta",
     "tags": [
-      "meatless",
-      "mustard",
-      "snackable"
+      "creamy",
+      "italian",
+      "pasta",
+      "weeknight-dinner"
     ],
-    "cuisine": "Philippine",
-    "totalTimeMin": 45,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -27571,16 +27565,15 @@
   },
   {
     "slug": "sour-tender-syrian-lamb-kebabs",
-    "title": "Sour Tender Syrian Lamb Kebabs",
+    "title": "Syrian-Style Grilled Lamb Kebabs",
     "tags": [
-      "syrian-cuisine",
-      "lamb-kebabs",
-      "middle-eastern",
-      "halal-friendly",
-      "grilled-meat"
+      "grilled",
+      "kebabs",
+      "lamb",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 31,
     "shard": "s"
   },
   {
@@ -38314,6 +38307,31 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-thai-eggplant-stir-fry--gluten-free",
+    "title": "Thai Stir-Fried Eggplant",
+    "tags": [
+      "thaistirfry",
+      "glutenfree",
+      "eggplant"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoke-cold-mexican-peas-tacos--thai",
+    "title": "Thai Peas Tacos",
+    "tags": [
+      "thaifood",
+      "vegetarian",
+      "snack",
+      "peas"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
     "shard": "s"
   }
 ]
