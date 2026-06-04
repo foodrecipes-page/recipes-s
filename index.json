@@ -622,18 +622,15 @@
   },
   {
     "slug": "salty-crumbly-ukrainian-cabbage-salad",
-    "title": "Salty Crumbly Ukrainian Cabbage Salad",
+    "title": "Cabbage and Ukrainian Salad",
     "tags": [
       "ukrainian",
       "salad",
-      "plant-based",
-      "vegan",
-      "crunchy",
-      "salty",
-      "romantic"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 10,
     "shard": "s"
   },
   {
@@ -2345,17 +2342,15 @@
   },
   {
     "slug": "satin-ethiopian-eggplant-tibs",
-    "title": "Satin Ethiopian Eggplant Tibs",
+    "title": "Eggplant Tibs",
     "tags": [
-      "comfort-food",
+      "eggplant",
       "ethiopian",
-      "jain-friendly",
-      "one-pan",
-      "tibs",
-      "vegan"
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -38268,6 +38263,31 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 50,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-greek-cabbage-salad--gluten-free",
+    "title": "Greek Salad",
+    "tags": [
+      "gluten-free",
+      "greek-cuisine",
+      "salad",
+      "dairy"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 10,
+    "shard": "s"
+  },
+  {
+    "slug": "springy-german-smoky-matcha-noodles--chinese",
+    "title": "Matcha Spring Noodle Stir Fry",
+    "tags": [
+      "matcha",
+      "noodle-stir-fry",
+      "chinese-cuisine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
