@@ -6743,14 +6743,14 @@
   },
   {
     "slug": "savory-thai-eggplant-stir-fry",
-    "title": "Savory Thai Eggplant Stir-fry",
+    "title": "Thai Eggplant Stir Fry",
     "tags": [
-      "savory-thai",
-      "stir-fry",
-      "low-fat-diet"
+      "thai",
+      "eggplant",
+      "stir-fry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -20566,12 +20566,11 @@
   },
   {
     "slug": "smoky-roasted-ethiopian-teff-stir-fry",
-    "title": "Smoky Roasted Ethiopian Teff Stir-fry",
+    "title": "Smoky Teff Stir Fry",
     "tags": [
+      "ethiopian",
       "teff",
-      "ketchup",
-      "smoke",
-      "dash-friendly"
+      "stir-fry"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
@@ -38287,6 +38286,32 @@
       "chinese-cuisine"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-fluffy-mexican-shrimp-stew--keto",
+    "title": "Spicy Shrimp Keto Stew",
+    "tags": [
+      "keto",
+      "shrimp",
+      "stew",
+      "mexican"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-juicy-tomato-stir-fry--japanese",
+    "title": "Smoky Japanese Stir Fry",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "stir-fry",
+      "easy"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "s"
   }
