@@ -2723,10 +2723,15 @@
   },
   {
     "slug": "savory-creamy-croatian-beans-casserole",
-    "title": "Savory Creamy Croatian Beans Casserole",
-    "tags": [],
+    "title": "Croatian Bean Casserole",
+    "tags": [
+      "croatian",
+      "bean-casserole",
+      "comfort-food",
+      "vegetarian"
+    ],
     "cuisine": "Croatian",
-    "totalTimeMin": null,
+    "totalTimeMin": 50,
     "shard": "s"
   },
   {
@@ -38473,6 +38478,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-velvety-portuguese-date-tahini-paste-pudding--italian",
+    "title": "Italian Date Pudding",
+    "tags": [
+      "italian",
+      "dessert",
+      "dates",
+      "pudding"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 120,
     "shard": "s"
   }
 ]
