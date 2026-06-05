@@ -1,0 +1,51 @@
+{
+  "slug": "silky-herb-bread",
+  "title": "Herbed Silky Toast",
+  "description": "A simple and delicious toast recipe featuring silky ingredients and fresh herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Silky",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Herb",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bread",
+      "amount": "2 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or toaster oven to 350°F (175°C).",
+    " Toast the bread until lightly browned.",
+    "Spread the silky ingredients evenly over the toasted bread.",
+    "Sprinkle the fresh herbs on top of the silky ingredients.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "herbs",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/silky-herb-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:42:13.701Z"
+}
