@@ -1,0 +1,69 @@
+{
+  "slug": "savory-coated-turkish-lamb-dolsot-kebap",
+  "title": "Turkish-Style Lamb Kebap",
+  "description": "A flavorful and aromatic dish inspired by Turkish cuisine, featuring tender lamb and a blend of spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Coated with savory spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Turkish kebab skewers",
+      "amount": "1 package",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Thread lamb cubes, red onion, red bell pepper, and tomato onto Turkish kebab skewers.",
+    "Brush skewers with savory spice blend and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until lamb is cooked through and vegetables are tender.",
+    "Serve hot with your choice of sides, such as couscous or pita bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebap",
+    "lamb",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-coated-turkish-lamb-dolsot-kebap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:00:37.887Z"
+}
