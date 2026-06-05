@@ -14422,16 +14422,16 @@
   },
   {
     "slug": "smoky-bazaar-cod",
-    "title": "Smoky Bazaar Cod",
+    "title": "Smoky Cod Bazaar Bowl",
     "tags": [
+      "cod",
       "smoky",
-      "juicy",
-      "romantic",
-      "saudi-arabian",
-      "low-calorie-friendly"
+      "bazaar",
+      "quinoa",
+      "veggies"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -29516,15 +29516,16 @@
   },
   {
     "slug": "spicy-dense-thai-oats-stir-fry",
-    "title": "Spicy Dense Thai Oats Stir-fry",
+    "title": "Spicy Thai Oat Bites",
     "tags": [
+      "spicy",
+      "dense",
       "thai",
       "oats",
-      "stir-fry",
-      "whole30"
+      "snack"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -38491,6 +38492,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 120,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-soft-portuguese-meat-paella--german",
+    "title": "Bratwurst Paella",
+    "tags": [
+      "german",
+      "paella",
+      "bratwurst",
+      "chorizo",
+      "bacon"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-creamy-croatian-beans-casserole--chinese",
+    "title": "Croatian Chicken Casserole",
+    "tags": [
+      "chinese",
+      "croatian",
+      "casserole",
+      "sausage"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-creamy-croatian-beans-casserole--japanese",
+    "title": "Croatian Bean Casserole with Savory Sauce",
+    "tags": [
+      "casserole",
+      "japanese-inspired",
+      "croatian-sausage",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "s"
   }
 ]
