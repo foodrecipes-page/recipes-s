@@ -33721,14 +33721,14 @@
   },
   {
     "slug": "sugar-free-tostadas",
-    "title": "Sugar-Free Tostadas",
+    "title": "Spicy Tostada Dessert",
     "tags": [
-      "sugar-free-tostadas",
-      "savory-peruvian-dish",
-      "tender-crowd-pleaser"
+      "mexican",
+      "dessert",
+      "spicy"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 15,
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
     "shard": "s"
   },
   {
@@ -36739,16 +36739,15 @@
   },
   {
     "slug": "sweet-smoked-portuguese-adventurous-dish-paella",
-    "title": "Sweet Smoked Portuguese Paella",
+    "title": "Smoked Fish Paella",
     "tags": [
-      "adventurous",
-      "high-protein",
-      "one-pan",
+      "paella",
       "seafood",
-      "weeknight"
+      "spanish",
+      "lunch"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 70,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -38459,6 +38458,20 @@
       "sweet-and-sour"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "springy-german-smoky-matcha-noodles--indian",
+    "title": "Smoky Noodle Curry",
+    "tags": [
+      "indian",
+      "noodle",
+      "curry",
+      "smoky",
+      "matcha"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "s"
   }
