@@ -1,0 +1,80 @@
+{
+  "slug": "sweet-savory-american-chicken-skillet",
+  "title": "Skillet Chicken Fajitas",
+  "description": "A classic American dish made with chicken, peppers, onions, and spices, cooked in a skillet. Serve with warm flour tortillas.",
+  "cuisine": "american",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "sweet peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "skillet seasoning",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add peppers and onions to the skillet and cook until tender, about 3-5 minutes.",
+    "Add skillet seasoning, salt, and pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the peppers and onions.",
+    "Cook until the chicken is cooked through, about 2-3 minutes.",
+    "Warm flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble fajitas by placing the chicken and pepper mixture onto a tortilla and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "american",
+    "skillet",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-savory-american-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:51:21.493Z"
+}
