@@ -1341,17 +1341,15 @@
   },
   {
     "slug": "salty-indian-sirloin-steak-tips",
-    "title": "Salty Indian Sirloin Steak Tips",
+    "title": "Sirloin Steak with Indian Spices",
     "tags": [
-      "salty",
-      "tender",
+      "sirloin",
+      "steak",
       "indian",
-      "steak-tips",
-      "air-fryer-friendly",
-      "dairy-free"
+      "grilled"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "cuisine": "indian",
+    "totalTimeMin": 22,
     "shard": "s"
   },
   {
@@ -12943,16 +12941,14 @@
   },
   {
     "slug": "smoke-cold-portuguese-paella-rice-paella",
-    "title": "Smoke-Cold Portuguese Paella Rice Paella",
+    "title": "Portuguese Paella",
     "tags": [
-      "one-pan",
-      "paella",
       "portuguese",
-      "seafood",
-      "smoke-cold"
+      "paella",
+      "seafood"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -33723,14 +33719,15 @@
   },
   {
     "slug": "sugar-free-shiitake-crunch",
-    "title": "Sugar-Free Shiitake Crunch",
+    "title": "Crunchy Shiitake Cookies",
     "tags": [
-      "shiitake",
-      "crunch",
-      "air-fry"
+      "sweet",
+      "snack",
+      "dessert",
+      "mushroom-cookie"
     ],
-    "cuisine": "Arabian",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -36392,17 +36389,15 @@
   },
   {
     "slug": "sweet-peruvian-glace-cherry-torta",
-    "title": "sweet Peruvian glace cherry torta",
+    "title": "Sweet Cherry Tarta",
     "tags": [
-      "dessert",
-      "glace-cherries",
       "peruvian",
-      "sweet",
-      "temper",
-      "weeknight"
+      "cherry",
+      "tarta",
+      "dessert"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 50,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 65,
     "shard": "s"
   },
   {
@@ -38378,6 +38373,57 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 27,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-herb-bread--gluten-free",
+    "title": "Herb and Silky Gluten-Free Toast",
+    "tags": [
+      "gluten-free",
+      "easy",
+      "healthy",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 4,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-flaky-moroccan-mars-bar-crumble--chinese",
+    "title": "Crispy Smoky Bar Crumble",
+    "tags": [
+      "chinese-dessert",
+      "crispy",
+      "sweet"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-cooked-french-beef-stew--thai",
+    "title": "Thai Beef Stew",
+    "tags": [
+      "thaibasil",
+      "beefstew",
+      "slowcooker",
+      "comfortfood",
+      "spicyfood"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 170,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-herb-bread--german",
+    "title": "German Herb Bread",
+    "tags": [
+      "german",
+      "bread",
+      "herb"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "s"
   }
 ]
