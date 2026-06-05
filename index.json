@@ -1862,16 +1862,15 @@
   },
   {
     "slug": "salty-soft-portuguese-meat-paella",
-    "title": "Salty Soft Portuguese Meat Paella",
+    "title": "Traditional Portuguese Paella",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "portuguese",
+      "paella",
+      "meat",
+      "chicken",
+      "seafood"
     ],
-    "cuisine": "portuguese",
+    "cuisine": "Portuguese",
     "totalTimeMin": 45,
     "shard": "s"
   },
@@ -7093,15 +7092,16 @@
   },
   {
     "slug": "savory-velvety-portuguese-date-tahini-paste-pudding",
-    "title": "Savory Velvety Portuguese Date Tahini Paste Pudding",
+    "title": "Portuguese Date Pudding",
     "tags": [
-      "date-night",
-      "portuguese",
-      "velvety",
-      "tahini"
+      "dessert",
+      "pudding",
+      "dates",
+      "tahini",
+      "portuguese"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -10111,14 +10111,14 @@
   },
   {
     "slug": "silky-herb-bread",
-    "title": "Silky Herb Bread",
+    "title": "Herbed Silky Toast",
     "tags": [
-      "silky-herb-bread",
-      "indulgent-brazilian-dessert",
-      "diabetic-friendly"
+      "breakfast",
+      "herbs",
+      "toast"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 70,
+    "cuisine": "Italian",
+    "totalTimeMin": 7,
     "shard": "s"
   },
   {
@@ -19223,17 +19223,15 @@
   },
   {
     "slug": "smoky-mediterranean-quinoa-pilaf",
-    "title": "Smoky Mediterranean Quinoa Pilaf",
+    "title": "Smoky Quinoa Pilaf",
     "tags": [
-      "date-night",
-      "jain-friendly",
-      "mediterranean",
       "quinoa",
+      "pilaf",
       "smoky",
-      "vegetarian"
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -38346,6 +38344,45 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-sour-filipino-couscous-sinigang--german",
+    "title": "Sour Sausage and Vegetable Stew",
+    "tags": [
+      "german",
+      "filipino",
+      "sour",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-chewy-brazilian-beans-stir-fry--indian",
+    "title": "Brazilian Bean Stir Fry",
+    "tags": [
+      "indian",
+      "stir-fry",
+      "lunch",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-creamy-malaysian-fish-pilaf--japanese",
+    "title": "Japanese-Style Baked Cod with Coconut Rice",
+    "tags": [
+      "japanese",
+      "seafood",
+      "coconut",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
     "shard": "s"
   }
 ]
