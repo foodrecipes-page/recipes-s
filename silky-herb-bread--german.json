@@ -1,0 +1,55 @@
+{
+  "slug": "silky-herb-bread--german",
+  "title": "German Herb Bread",
+  "description": "A traditional German bread infused with fresh herbs, perfect for any occasion.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Herb",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bread",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine herb and water in a bowl, let it sit for 10 minutes.",
+    "Add the mixture to the bread, mix well.",
+    "Knead the dough for 10 minutes.",
+    "Place the dough in a greased bowl, cover it with a damp cloth.",
+    "Let it rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F (190°C).",
+    "Shape the dough into a loaf, place it on a baking sheet.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Let the bread cool on a wire rack before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "bread",
+    "herb"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/silky-herb-bread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:29:23.613Z"
+}
