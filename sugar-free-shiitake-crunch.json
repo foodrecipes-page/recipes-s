@@ -1,0 +1,56 @@
+{
+  "slug": "sugar-free-shiitake-crunch",
+  "title": "Crunchy Shiitake Cookies",
+  "description": "A sweet and crunchy cookie recipe featuring shiitake mushrooms. Perfect for a snack or dessert.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shiitake",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 1/2 cups",
+      "notes": "granulated"
+    },
+    {
+      "name": "crunch",
+      "amount": "1 cup",
+      "notes": "chopped nuts"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together shiitake and sugar.",
+    "Add chopped nuts and mix until well combined.",
+    "Drop rounded tablespoonfuls of the mixture onto the prepared baking sheet.",
+    "Bake for 12-15 minutes or until lightly golden brown.",
+    "Remove from oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "Store in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "snack",
+    "dessert",
+    "mushroom-cookie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sugar-free-shiitake-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:21:36.871Z"
+}
