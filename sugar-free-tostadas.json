@@ -1,0 +1,53 @@
+{
+  "slug": "sugar-free-tostadas",
+  "title": "Spicy Tostada Dessert",
+  "description": "A sweet and spicy dessert tostada recipe made with crunchy tostadas topped with a sweet and spicy sugar mixture.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tostadas",
+      "amount": "4"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "free",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Crush the tostadas into small pieces and spread on a baking sheet.",
+    "Bake the tostadas for 5-7 minutes or until crispy.",
+    "In a small saucepan, combine the sugar and free over low heat.",
+    "Cook for 2-3 minutes or until the sugar has dissolved and the mixture is smooth.",
+    "Remove the tostada pieces from the oven and let cool for a few minutes.",
+    "Drizzle the sugar mixture over the tostada pieces and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "dessert",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sugar-free-tostadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:05:29.502Z"
+}
