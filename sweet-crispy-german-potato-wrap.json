@@ -1,0 +1,62 @@
+{
+  "slug": "sweet-crispy-german-potato-wrap",
+  "title": "German Potato Wrap",
+  "description": "A delicious and easy-to-make wrap filled with sautéed potatoes and crispy onions.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "sweet",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "tortilla"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat.",
+    "Add the diced potatoes and cook until golden brown, about 5 minutes.",
+    "Add the sliced sweet onions and cook until caramelized, about 3 minutes.",
+    "Add the sliced crispy onions and cook for 1 minute.",
+    "Warm the large wrap in the microwave for 10-15 seconds.",
+    "Fill the wrap with the potato and onion mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "potato",
+    "wrap",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-crispy-german-potato-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:44:12.150Z"
+}
