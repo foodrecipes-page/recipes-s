@@ -1,0 +1,86 @@
+{
+  "slug": "smoky-bazaar-cod--mexican",
+  "title": "Smoky Cod Tacos",
+  "description": "A flavorful Mexican-inspired dish featuring smoky cod, served in tacos with a variety of toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Cod Fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped, 1/4 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "sliced, 1/2 cup",
+      "notes": "Thinly"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 corn",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "diced, 1",
+      "notes": "Ripe"
+    },
+    {
+      "name": "Sliced Radishes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Queso Fresco",
+      "amount": "crumbly, 1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "Season cod fillets with salt and pepper.",
+    "Grill cod for 3-4 minutes per side, or until cooked through.",
+    "While cod cooks, prepare toppings.",
+    "Warm tortillas by wrapping in foil and heating in oven for 5 minutes.",
+    "Assemble tacos with grilled cod, lime juice, cilantro, onion, avocado, radishes, sour cream, and queso fresco.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-bazaar-cod--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:14:59.517Z"
+}
