@@ -77,14 +77,14 @@
   },
   {
     "slug": "salted-butter-stovetop-delight",
-    "title": "Salted Butter Stovetop Delight",
+    "title": "Buttery Delight Stovetop Delicacy",
     "tags": [
-      "salted-butter",
-      "sweet-stovetop",
-      "russian-snack"
+      "snack",
+      "easy",
+      "quick"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 8,
+    "cuisine": null,
+    "totalTimeMin": 12,
     "shard": "s"
   },
   {
@@ -6886,17 +6886,16 @@
   },
   {
     "slug": "savory-umami-korean-flat-rice-noodles-bibimbap",
-    "title": "Savory Umami Korean Flat Rice Noodles Bibimbap",
+    "title": "Bibimbap Korean Rice Bowl",
     "tags": [
-      "asian-cuisine",
+      "korean",
+      "rice",
+      "noodles",
       "bibimbap",
-      "gluten-free",
-      "hangover-cure",
-      "korean-food",
-      "umami"
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -38694,6 +38693,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-german-pork-roast--keto",
+    "title": "German-Style Keto Pork Roast",
+    "tags": [
+      "german",
+      "keto",
+      "pork",
+      "roast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 135,
     "shard": "s"
   }
 ]
