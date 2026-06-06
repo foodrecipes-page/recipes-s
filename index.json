@@ -29313,16 +29313,16 @@
   },
   {
     "slug": "spicy-crunchy-peruvian-jerusalem-artichoke-stir-fry",
-    "title": "Spicy Crunchy Peruvian Jerusalem Artichoke Stir-fry",
+    "title": "Artichoke and Jerusualem Stew",
     "tags": [
-      "spicy",
-      "crunchy",
-      "peruvian",
+      "artichoke",
       "jerusalem-artichoke",
-      "dairy-free"
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -33822,14 +33822,12 @@
   },
   {
     "slug": "sun-dried-nutty-flaky-algerian-tomato-fondue",
-    "title": "Sun-dried nutty flaky Algerian tomato fondue",
+    "title": "Algerian Sun-Dried Tomato Fondue",
     "tags": [
       "algerian",
-      "fondue",
-      "o-veg",
-      "one-pan",
-      "snack",
-      "tomato"
+      "vegetarian",
+      "gluten-free",
+      "snack"
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 15,
@@ -38756,6 +38754,44 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-canadian-vermicelli-noodles--italian",
+    "title": "Vermicelli Noodle Carbonara",
+    "tags": [
+      "italian",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "salted-butter-stovetop-delight--mexican",
+    "title": "Delightful Mexican Stovetop Delight",
+    "tags": [
+      "mexican",
+      "stovetop",
+      "delight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 11,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-flaky-kenyan-floral-hash--vegetarian",
+    "title": "Smoky Kenyan Hash Flakes",
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "hash",
+      "bread",
+      "kenyan",
+      "smoky"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "s"
   }
 ]
