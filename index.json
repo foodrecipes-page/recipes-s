@@ -17194,17 +17194,17 @@
   },
   {
     "slug": "smoky-flaky-kenyan-floral-hash",
-    "title": "Smoky Flaky Kenyan Floral Hash",
+    "title": "Smoky Hash Flakes",
     "tags": [
-      "brunch",
-      "floral",
       "kenyan",
-      "lacto-friendly",
+      "hash",
+      "breakfast",
+      "snack",
       "smoky",
-      "vegetarian"
+      "floral"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -34971,17 +34971,15 @@
   },
   {
     "slug": "sweet-crispy-german-potato-wrap",
-    "title": "Sweet Crispy German Potato Wrap",
+    "title": "German Potato Wrap",
     "tags": [
-      "sweet",
-      "crispy",
       "german",
-      "brunch-mood",
-      "low-carb",
-      "spicy"
+      "potato",
+      "wrap",
+      "easy"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 13,
     "shard": "s"
   },
   {
@@ -36328,14 +36326,15 @@
   },
   {
     "slug": "sweet-norwegian-piccalilli-bake",
-    "title": "Sweet Norwegian Piccalilli Bake",
+    "title": "Sweet Piccalilli Bake",
     "tags": [
-      "high-fiber",
-      "quick-dessert",
-      "weeknight"
+      "sweet",
+      "dessert",
+      "snack",
+      "piccalilli"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "British",
+    "totalTimeMin": 50,
     "shard": "s"
   },
   {
@@ -38532,6 +38531,69 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "suet-delight--thai",
+    "title": "Suet and Delight Thai Meatballs",
+    "tags": [
+      "thai-cuisine",
+      "meatballs",
+      "easy-dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "sizzling-shattering-norwegian-cod-stew--japanese",
+    "title": "Pan-Seared Norwegian Cod with Japanese Stew",
+    "tags": [
+      "japanese",
+      "seafood",
+      "cod"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-kenyan-fish-curry--chinese",
+    "title": "Crispy Fish in Sweet Kenyan Curry Sauce",
+    "tags": [
+      "chinese",
+      "kenyan",
+      "fish",
+      "curry",
+      "sweet"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-kenyan-fish-curry--keto",
+    "title": "Keto Kenyan Fish Curry",
+    "tags": [
+      "keto",
+      "fish",
+      "curry",
+      "kenyan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 22,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-bazaar-cod--mexican",
+    "title": "Smoky Cod Tacos",
+    "tags": [
+      "mexican",
+      "fish",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
     "shard": "s"
   }
 ]
