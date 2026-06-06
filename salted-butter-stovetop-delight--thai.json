@@ -1,0 +1,52 @@
+{
+  "slug": "salted-butter-stovetop-delight--thai",
+  "title": "Thai Stovetop Delight",
+  "description": "A simple yet flavorful Thai-inspired dish made with stovetop delight and other readily available ingredients.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Stovetop Delight",
+      "amount": "1 package",
+      "notes": "Follow package instructions for reconstitution"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted or salted, whichever you prefer"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use sparingly"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large pan over medium-high heat.",
+    "Add the reconstituted Stovetop Delight and cook for 2-3 minutes, stirring frequently.",
+    "Reduce heat to medium-low and simmer for 5 minutes, stirring occasionally.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "easy",
+    "stovetop"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salted-butter-stovetop-delight--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:57:01.173Z"
+}
