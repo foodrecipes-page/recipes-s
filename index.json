@@ -3500,14 +3500,15 @@
   },
   {
     "slug": "savory-crunchy-japanese-garlic-stir-fry",
-    "title": "Savory Crunchy Japanese Garlic Stir-fry",
+    "title": "Japanese-Style Savory Stir Fry",
     "tags": [
-      "stir-fry",
       "japanese",
+      "stir-fry",
+      "savory",
       "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 13,
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -6046,16 +6047,15 @@
   },
   {
     "slug": "savory-spanish-chorizo-empanadas",
-    "title": "Savory Spanish Chorizo Empanadas",
+    "title": "Spanish Chorizo Empanadas",
     "tags": [
-      "spanish-food",
-      "gluten-free",
-      "empanadas",
+      "spanish",
+      "savory",
       "chorizo",
-      "savory-pastry"
+      "empanadas"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "cuisine": "spanish",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -23843,17 +23843,15 @@
   },
   {
     "slug": "smoky-zesty-australian-callaloo-stew",
-    "title": "Smoky Zesty Australian Callaloo Stew",
+    "title": "Smoky Callaloo Stew",
     "tags": [
-      "citrusy",
-      "dense",
-      "jain-friendly",
-      "sick-day",
-      "smoky",
+      "callaloo",
       "stew",
-      "vegetarian"
+      "caribbean",
+      "beef",
+      "sausages"
     ],
-    "cuisine": "Australian",
+    "cuisine": "Caribbean",
     "totalTimeMin": 45,
     "shard": "s"
   },
@@ -24274,19 +24272,15 @@
   },
   {
     "slug": "snappy-winey-algerian-post-workout-dish-tagine",
-    "title": "snappy winey algerian post-workout dish tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
-      "algerian",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "snappy",
-      "weeknight",
-      "winey"
+      "north-african",
+      "chicken",
+      "stew",
+      "algerian"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -29094,17 +29088,15 @@
   },
   {
     "slug": "spicy-crumbly-dutch-apricot-crumble",
-    "title": "Spicy Crumbly Dutch Apricot Crumble",
+    "title": "Dutch Apricot Crumble",
     "tags": [
       "dutch",
       "apricot",
       "crumble",
-      "spicy",
-      "low-carb",
-      "gluten-free"
+      "dessert"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "s"
   },
   {
@@ -29373,15 +29365,13 @@
   },
   {
     "slug": "spicy-dense-fermented-tofu-fil",
-    "title": "Spicy Dense Fermented Tofu Fil",
+    "title": "Spicy Fermented Fil Delight",
     "tags": [
       "spicy",
-      "dense",
-      "fermented tofu fil",
-      "cinnamon",
-      "pescatarian-friendly"
+      "fermented",
+      "vegan"
     ],
-    "cuisine": "Filipino",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "s"
   },
