@@ -1,0 +1,64 @@
+{
+  "slug": "smoke-hot-crispy-norteno-totopos-tacos",
+  "title": "Crispy Norteno Tacos",
+  "description": "A flavorful Mexican dish featuring crispy tacos filled with a delicious norteno filling.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "totopos",
+      "amount": "1 cup"
+    },
+    {
+      "name": "norteno",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "smoke paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cook the totopos until crispy, about 2-3 minutes per side.",
+    "In a separate pan, heat a couple of tablespoons of oil over medium heat.",
+    "Add the norteno to the pan and cook until heated through.",
+    "Add the smoke paprika and hot sauce (if using) to the norteno and stir to combine.",
+    "Season the norteno with salt to taste.",
+    "Assemble the tacos by placing a spoonful of the norteno onto a crispy totopo.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoke-hot-crispy-norteno-totopos-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:25:03.144Z"
+}
