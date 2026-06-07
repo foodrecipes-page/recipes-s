@@ -1382,10 +1382,15 @@
   },
   {
     "slug": "salty-juicy-british-fish-stew",
-    "title": "Salty Juicy British Fish Stew",
-    "tags": [],
+    "title": "Traditional British Fish Stew",
+    "tags": [
+      "british",
+      "fish-stew",
+      "seafood",
+      "comfort-food"
+    ],
     "cuisine": "British",
-    "totalTimeMin": null,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -5196,13 +5201,13 @@
   },
   {
     "slug": "savory-moroccan-olive-stir-fry",
-    "title": "Savory Moroccan Olive Stir-fry",
+    "title": "Moroccan Chicken Stir Fry",
     "tags": [
+      "chicken",
       "moroccan",
       "stir-fry",
-      "plant-based",
-      "savory",
-      "chewy"
+      "vegetarian-options",
+      "easy-meat-substitutions"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 35,
@@ -10293,14 +10298,16 @@
   },
   {
     "slug": "silky-keto-sweet-shortening-sashimi",
-    "title": "Silky Keto-Sweet Shortening Sashimi",
+    "title": "Grilled Sashimi with Sweet Shortening Sauce",
     "tags": [
-      "silky-keto-sweet",
-      "shortening-sashimi",
-      "keto-friendly"
+      "grilled",
+      "sashimi",
+      "salmon",
+      "shortening",
+      "keto"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 10,
     "shard": "s"
   },
   {
@@ -15199,16 +15206,15 @@
   },
   {
     "slug": "smoky-chicken-uruguayan-stir-fry",
-    "title": "Smoky Chicken Uruguayan Stir-fry",
+    "title": "Uruguayan-Style Smoky Chicken Stir Fry",
     "tags": [
-      "smoky",
-      "tender",
       "uruguayan",
-      "meal-prep",
-      "jain-friendly"
+      "chicken",
+      "stir-fry",
+      "smoky"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -21191,19 +21197,14 @@
   },
   {
     "slug": "smoky-roasted-tunisian-pepper-kebabs",
-    "title": "Smoky Roasted Tunisian Pepper Kebabs",
+    "title": "Tunisian Kebab Delight",
     "tags": [
-      "kebab",
-      "smoky",
-      "roasted",
-      "tunisian",
-      "vegetarian",
-      "mediterranean",
-      "festive",
-      "pepper"
+      "north-african",
+      "kebabs",
+      "chicken"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -21491,18 +21492,15 @@
   },
   {
     "slug": "smoky-saudi-arabian-rice-pilaf",
-    "title": "Smoky Saudi-Arabian Rice Pilaf",
+    "title": "Smoky Arabian Pilaf",
     "tags": [
-      "easy-meal",
-      "goey",
+      "arabian",
       "middle-eastern",
-      "one-pot",
       "pilaf",
-      "smoky",
-      "weeknight"
+      "smoky"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
