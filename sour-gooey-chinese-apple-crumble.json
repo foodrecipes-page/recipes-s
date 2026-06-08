@@ -1,0 +1,76 @@
+{
+  "slug": "sour-gooey-chinese-apple-crumble",
+  "title": "Delicious Apple Crumble",
+  "description": "A classic dessert made with tender apples and a crunchy crumble topping.",
+  "cuisine": "western",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "6",
+      "notes": "any variety"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Oats",
+      "amount": "1 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "Cold butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples. Place them in a baking dish.",
+    "In a large bowl, mix together the sugar, flour, and spices. Add the cold butter and mix until the mixture resembles coarse crumbs.",
+    "Pour the crumb mixture evenly over the apples.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the apples are tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "apple-crumble",
+    "dessert",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sour-gooey-chinese-apple-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:54:50.256Z"
+}
