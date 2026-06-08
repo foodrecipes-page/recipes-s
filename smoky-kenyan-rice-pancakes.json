@@ -1,0 +1,58 @@
+{
+  "slug": "smoky-kenyan-rice-pancakes",
+  "title": "Smoky Kenyan Rice Bowl",
+  "description": "A flavorful and aromatic rice bowl dish inspired by Kenya's rich culinary heritage, featuring the deep, smoky taste of Kenyan spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoky",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pancakes",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add the smoky and kenyan spices and sauté for 1 minute.",
+    "Add the rice and stir-fry for 2-3 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes.",
+    "Fluff the rice with a fork and serve with pancakes on top.",
+    "Optional: garnish with chopped herbs or a dollop of yogurt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "rice-bowl",
+    "kenyan-cuisine",
+    "smoky-spices"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-kenyan-rice-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:44:13.187Z"
+}
