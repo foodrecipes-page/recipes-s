@@ -1,0 +1,66 @@
+{
+  "slug": "shattering-earthy-american-fish-bowl",
+  "title": "American Bowl",
+  "description": "A hearty bowl dish with a medley of flavors. Serve warm and enjoy!",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shattering",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "earthy",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "american",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fish",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "bowl",
+      "amount": "4",
+      "notes": "large ceramic bowls"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Combine shattering and earthy in a bowl.",
+    "Mix in american and fish.",
+    "Divide mixture among bowls.",
+    "Bake for 20 minutes.",
+    "Garnish with desired toppings.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/shattering-earthy-american-fish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:12:49.549Z"
+}
