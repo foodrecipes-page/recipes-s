@@ -3975,15 +3975,16 @@
   },
   {
     "slug": "savory-fluffy-lasagne-sheets",
-    "title": "Savory Fluffy Lasagne Sheets",
+    "title": "Italian-Style Lasagne",
     "tags": [
-      "savory",
-      "fluffy",
-      "australian-dish",
-      "halal-friendly"
+      "italian",
+      "lasagne",
+      "pasta",
+      "meat-sauce",
+      "cheese"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
     "shard": "s"
   },
   {
@@ -4099,15 +4100,15 @@
   },
   {
     "slug": "savory-french-duck-confit",
-    "title": "Savory French Duck Confit",
+    "title": "French Confit Duck Leg",
     "tags": [
-      "french-cuisine",
-      "date-night",
-      "sugar-free",
-      "gluten-free"
+      "french",
+      "duck",
+      "confit",
+      "slow-cooked"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 210,
+    "cuisine": "french",
+    "totalTimeMin": 170,
     "shard": "s"
   },
   {
@@ -17628,10 +17629,15 @@
   },
   {
     "slug": "smoky-fluffy-saudi-white-yam-grill",
-    "title": "Smoky Fluffy Saudi White Yam Grill",
-    "tags": [],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": null,
+    "title": "Saudi-Style Smoked Yam",
+    "tags": [
+      "saudi-cuisine",
+      "smoked-yam",
+      "grilled-yam",
+      "fluffy-rice"
+    ],
+    "cuisine": "saudi",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -18828,18 +18834,14 @@
   },
   {
     "slug": "smoky-kenyan-rice-pancakes",
-    "title": "Smoky Kenyan Rice Pancakes",
+    "title": "Smoky Kenyan Rice Bowl",
     "tags": [
-      "kenyan",
-      "rice",
-      "pancakes",
-      "smoky",
-      "crispy",
-      "romantic",
-      "mediterranean"
+      "rice-bowl",
+      "kenyan-cuisine",
+      "smoky-spices"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 15,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
