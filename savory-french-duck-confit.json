@@ -1,0 +1,79 @@
+{
+  "slug": "savory-french-duck-confit",
+  "title": "French Confit Duck Leg",
+  "description": "A classic dish from the south of France, slow-cooked in duck fat to preserve the meat's rich flavor. Serve with roasted root vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2",
+      "notes": "Bone-in duck legs"
+    },
+    {
+      "name": "Duck fat",
+      "amount": "1/2 cup",
+      "notes": "Salted duck fat"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "Fresh thyme"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "Fresh or dried bay leaves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Season the duck legs with salt and black pepper.",
+    "In a large Dutch oven, melt the duck fat over medium heat.",
+    "Sear the duck legs until browned on all sides, about 5 minutes per side.",
+    "Add the garlic, thyme, and bay leaves to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the duck legs for 2 1/2 to 3 hours, or until tender and falling off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the duck legs with the pan juices spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "duck",
+    "confit",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-french-duck-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:39:54.033Z"
+}
