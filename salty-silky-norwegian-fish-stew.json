@@ -1,0 +1,66 @@
+{
+  "slug": "salty-silky-norwegian-fish-stew",
+  "title": "Norwegian Fish Stew",
+  "description": "A hearty, comforting stew originating from Norway, featuring fresh fish and a blend of savory spices.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "1 pound",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "salty",
+      "amount": "1 teaspoon",
+      "notes": "dried dill weed"
+    },
+    {
+      "name": "silky",
+      "amount": "1/2 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "norwegian",
+      "amount": "2 potatoes",
+      "notes": "diced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "fish stock"
+    }
+  ],
+  "instructions": [
+    "Heat the fish stock in a large pot over medium heat.",
+    "Add the diced potatoes and cook until they start to soften, about 5 minutes.",
+    "Add the fish to the pot and cook for 5-7 minutes, or until it flakes easily with a fork.",
+    "Stir in the heavy cream and dried dill weed.",
+    "Reduce the heat to low and let the stew simmer for 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-stew",
+    "norwegian-food",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-silky-norwegian-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:34:17.383Z"
+}
