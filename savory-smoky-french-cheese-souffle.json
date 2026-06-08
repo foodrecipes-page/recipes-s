@@ -1,0 +1,83 @@
+{
+  "slug": "savory-smoky-french-cheese-souffle",
+  "title": "Savory French Cheese Souffle",
+  "description": "A rich and creamy souffle filled with the flavors of France, perfect for a cozy dinner.",
+  "cuisine": "French",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "3, separated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nutritional yeast (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Butter a 1-quart soufflé dish and coat with grated cheese.",
+    "Melt butter in a saucepan over medium heat.",
+    "Add flour and whisk to combine. Cook for 1-2 minutes.",
+    "Slowly add heavy cream, whisking constantly.",
+    "Bring to a simmer and cook until thickened.",
+    "Remove from heat and stir in grated cheese until melted.",
+    "In a separate bowl, whisk egg whites until stiff peaks form.",
+    "In a separate bowl, whisk egg yolks and season with salt and pepper.",
+    "Add egg yolks to cheese mixture and stir to combine.",
+    "Gently fold egg whites into cheese mixture.",
+    "Pour into prepared soufflé dish and smooth top.",
+    "Bake for 25-30 minutes or until puffed and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "cheese",
+    "souffle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-smoky-french-cheese-souffle",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:11:30.387Z"
+}
