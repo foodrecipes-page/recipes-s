@@ -1,0 +1,77 @@
+{
+  "slug": "savory-hearty-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty and comforting lamb stew, inspired by traditional Irish cuisine. This dish is perfect for a cold winter's night.",
+  "cuisine": "irish",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "To thicken the stew"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Brown the lamb cubes in batches, then set aside.",
+    "Reduce heat to medium and add the chopped onion, cooking until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and potatoes, cooking for 5 minutes.",
+    "Add the browned lamb back into the pot, along with 2 cups of water.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 1.5 hours.",
+    "Stir in the flour to thicken the stew.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "hearty",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-hearty-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:23:03.875Z"
+}
