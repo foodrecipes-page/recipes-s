@@ -1,0 +1,79 @@
+{
+  "slug": "smoky-quinoa-stir-fry",
+  "title": "Smoky Quinoa Stir Fry",
+  "description": "A quick and flavorful stir fry made with smoky quinoa and a variety of vegetables.",
+  "cuisine": "Asian-Inspired",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp",
+      "notes": "smoky paprika"
+    },
+    {
+      "name": "fry",
+      "amount": "2 cups",
+      "notes": "assorted vegetables (bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add garlic and fry for 1-2 minutes until fragrant.",
+    "Add vegetables and fry for 4-5 minutes until tender.",
+    "Stir in quinoa, smoky paprika, soy sauce, salt, and pepper.",
+    "Cook for an additional 2-3 minutes until quinoa is toasted.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "stir-fry",
+    "quick",
+    "easy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-quinoa-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:43:02.224Z"
+}
