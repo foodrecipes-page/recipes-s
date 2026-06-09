@@ -1,0 +1,83 @@
+{
+  "slug": "smoky-tender-french-peanut-stew",
+  "title": "Smoky Chicken Stew",
+  "description": "Hearty and flavorful stew made with tender chicken, onions, and smoky spices. Serve with a side of crusty French bread.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "stew",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "French bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Smoky stew mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a large pot over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 3 minutes.",
+    "Add smoky stew mix and stir to combine.",
+    "Pour in enough water to cover the chicken and bring to a boil.",
+    "Reduce heat to low and simmer for 15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve with French bread slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "smoky",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-tender-french-peanut-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:00:36.503Z"
+}
