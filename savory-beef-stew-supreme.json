@@ -1,0 +1,84 @@
+{
+  "slug": "savory-beef-stew-supreme",
+  "title": "Supreme Beef Stew",
+  "description": "A hearty beef stew with a rich flavor profile.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "savory",
+      "amount": "2 tablespoons",
+      "notes": "Optional, to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "Peeled and sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "Peeled and cubed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Reduce heat to medium and add the onion and garlic. Cook until the onion is translucent, about 5 minutes.",
+    "Add the carrot and potato. Cook for 5 minutes.",
+    "Add the beef broth and water (if using). Stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours or until the beef is tender.",
+    "Stir in the savory (if using). Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "casserole",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-beef-stew-supreme",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:38:08.219Z"
+}
