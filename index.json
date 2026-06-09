@@ -2577,14 +2577,15 @@
   },
   {
     "slug": "savory-beef-stew-supreme",
-    "title": "Savory Beef Stew Supreme",
+    "title": "Supreme Beef Stew",
     "tags": [
-      "savory-beef-stew-supreme",
-      "salty-jamaican-dish",
-      "high-protein-friendly-food"
+      "beef",
+      "stew",
+      "casserole",
+      "comfort food"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 140,
+    "cuisine": "American",
+    "totalTimeMin": 110,
     "shard": "s"
   },
   {
@@ -6780,15 +6781,17 @@
   },
   {
     "slug": "savory-tunisian-sesame-seed-crumble",
-    "title": "Savory Tunisian Sesame Seed Crumble",
+    "title": "Tunisian Sesame Crumble Bites",
     "tags": [
-      "sesame-seeds",
+      "snack",
+      "tunisian",
+      "sesame",
       "crumble",
-      "sweet-savory",
-      "raw-friendly"
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 15,
+    "cuisine": "tunisian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -7416,15 +7419,15 @@
   },
   {
     "slug": "sesame-crispy-norval",
-    "title": "Sesame Crispy Norval",
+    "title": "Crispy Sesame Chicken Norval",
     "tags": [
-      "sesame-seed-oil",
-      "pressure-cook",
-      "sugar-free-friendly",
-      "norwegian-dish"
+      "chicken",
+      "sesame",
+      "indonesian",
+      "gluten-free"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "indonesian",
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -9950,10 +9953,15 @@
   },
   {
     "slug": "silky-floral-saudi-lamb-salad",
-    "title": "Silky Floral Saudi Lamb Salad",
-    "tags": [],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": null,
+    "title": "Lamb Koftas with Saudi Salad",
+    "tags": [
+      "lamb",
+      "salad",
+      "grilled",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -14112,15 +14120,15 @@
   },
   {
     "slug": "smokey-roasted-bramley-apple-wrap",
-    "title": "Smokey Roasted Bramley Apple Wrap",
+    "title": "Smokey Apple Wrap",
     "tags": [
-      "ethiopian-style",
-      "kid-friendly",
-      "sugar-free-friendly",
-      "yeasty-apple-wrap"
+      "british",
+      "vegetarian",
+      "easy",
+      "snack"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "cuisine": "British",
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -21862,17 +21870,14 @@
   },
   {
     "slug": "smoky-silky-festive-peppers-stir-fry",
-    "title": "Smoky Silky Festive Peppers Stir-fry",
+    "title": "Stir-Fry Delight",
     "tags": [
-      "smoky",
-      "silky",
-      "festive",
-      "croatian",
       "stir-fry",
-      "fodmap-friendly"
+      "peppers",
+      "tofu"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "s"
   },
   {
@@ -23027,18 +23032,15 @@
   },
   {
     "slug": "smoky-tender-energizing-hushed-tunisian-leek-tagine",
-    "title": "smoky tender energizing tunisian leek tagine",
+    "title": "Tunisian Smoky Chicken Tagine",
     "tags": [
-      "fodmap-friendly",
+      "north-african",
+      "chicken",
       "leek",
-      "one-pan",
-      "tagine",
-      "tunisian",
-      "vegan",
-      "weeknight"
+      "smoky"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -23059,15 +23061,15 @@
   },
   {
     "slug": "smoky-tender-french-peanut-stew",
-    "title": "Smoky Tender French Peanut Stew",
+    "title": "Smoky Chicken Stew",
     "tags": [
-      "french-cuisine",
-      "peanut-stew",
-      "smoky-flavors",
-      "vegetarian-friendly"
+      "chicken",
+      "stew",
+      "smoky",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 80,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -31023,18 +31025,15 @@
   },
   {
     "slug": "spicy-moroccan-cashew-tagine",
-    "title": "Spicy Moroccan Cashew Tagine",
+    "title": "Moroccan Spicy Cashew Tagine",
     "tags": [
-      "cashew",
-      "comfort-food",
       "moroccan",
       "spicy",
-      "tagine",
-      "vegetarian",
-      "weeknight"
+      "cashew",
+      "tagine"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -32811,17 +32810,16 @@
   },
   {
     "slug": "springy-roasted-portuguese-samphire-roast",
-    "title": "Springy Roasted Portuguese Samphire Roast",
+    "title": "Pan-Seared Springy with Samphire and Roasted Vegetables",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "portuguese-cuisine",
+      "springy",
+      "samphire",
       "roasted-vegetables",
-      "sous-vide",
-      "spring-recipes"
+      "mediterranean",
+      "vegetarian"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 80,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
