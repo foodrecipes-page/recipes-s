@@ -1,0 +1,78 @@
+{
+  "slug": "smoky-crumbly-mexican-sirloin-steak-crumble",
+  "title": "Sirloin Steak Fajitas",
+  "description": "A flavorful and spicy sirloin steak fajita recipe, served with sautéed onions and bell peppers. Perfect for a quick and delicious dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "smoky crumble",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "mexican crumble",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and bell peppers to the skillet and cook for 5 minutes.",
+    "Add the sliced sirloin steak to the skillet and cook for 3-4 minutes per side.",
+    "Add the fajita seasoning to the skillet and stir to combine.",
+    "Transfer the steak and vegetables to a plate and cover with foil to keep warm.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and stir in the smoky crumble and mexican crumble.",
+    "Serve the steak and vegetables with the crumble topping and your choice of sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fajitas",
+    "mexican",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-crumbly-mexican-sirloin-steak-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:54:21.822Z"
+}
