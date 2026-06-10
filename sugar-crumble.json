@@ -1,0 +1,49 @@
+{
+  "slug": "sugar-crumble",
+  "title": "Crumble Sugar Cookies",
+  "description": "A classic sweet treat with crumbly texture and a hint of sugar. Perfect for a snack or dessert.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a bowl, mix together the sugar and crumble.",
+    "Roll out the mixture into small balls and place on the baking sheet.",
+    "Bake for 12-15 minutes or until lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "cookies",
+    "sugar",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sugar-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:31:04.308Z"
+}
