@@ -1,0 +1,59 @@
+{
+  "slug": "savory-argentinian-tomato-stir-fry",
+  "title": "Argentinian-Style Stir-Fried Savory",
+  "description": "A savory dish inspired by Argentinian cuisine, stir-fried to perfection with a variety of flavors.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savory",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Argentinian",
+      "amount": "2 tablespoons, olive oil"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Stir",
+      "amount": "2 cloves, garlic, minced"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 teaspoon, paprika"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the sliced savory and cook for 3-4 minutes, until tender.",
+    "Add the diced tomato and stir-fry for an additional 2 minutes.",
+    "Season with paprika and serve hot.",
+    "Cook to an internal temperature of 165°F (74°C) for food safety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "savory",
+    "stir-fried",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-argentinian-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:32:59.986Z"
+}
