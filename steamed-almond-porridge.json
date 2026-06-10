@@ -1,0 +1,51 @@
+{
+  "slug": "steamed-almond-porridge",
+  "title": "Steamed Porridge with Almond Topping",
+  "description": "A comforting and nutritious breakfast porridge topped with crunchy almonds.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Steamed",
+      "amount": "2 cups"
+    },
+    {
+      "name": "almond",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "porridge",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the porridge and steam for 3-5 minutes.",
+    "Transfer the porridge to a bowl.",
+    "Sprinkle sliced almonds on top of the porridge.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/steamed-almond-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:06:18.794Z"
+}
