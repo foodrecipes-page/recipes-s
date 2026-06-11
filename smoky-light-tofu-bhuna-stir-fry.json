@@ -1,0 +1,71 @@
+{
+  "slug": "smoky-light-tofu-bhuna-stir-fry",
+  "title": "Tofu Stir Fry",
+  "description": "A quick and easy stir fry made with tofu and smoky flavors. Perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "smoky oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "bhuna paste",
+      "amount": "1 teaspoon",
+      "notes": "for spice"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fry mix",
+      "amount": "1 cup",
+      "notes": "peas, carrots, bell peppers"
+    }
+  ],
+  "instructions": [
+    "Heat the smoky oil in a wok over medium-high heat.",
+    "Add the garlic and stir fry for 1 minute.",
+    "Add the tofu and stir fry for 2-3 minutes, until golden brown.",
+    "Add the light soy sauce, bhuna paste, and fry mix. Stir fry for 2-3 minutes, until the vegetables are tender.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "stir-fry",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-light-tofu-bhuna-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:17:31.308Z"
+}
