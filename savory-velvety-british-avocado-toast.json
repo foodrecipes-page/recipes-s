@@ -1,0 +1,62 @@
+{
+  "slug": "savory-velvety-british-avocado-toast",
+  "title": "Avocado Toast",
+  "description": "A classic British dish featuring ripe avocado spread on toasted bread.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "Ripe and mashed"
+    },
+    {
+      "name": "Savory British Bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the British bread until lightly browned.",
+    "Spread the mashed avocado on top of the toasted bread.",
+    "Add a pat of velvety butter to the avocado.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "avocado",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-velvety-british-avocado-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:44:48.515Z"
+}
