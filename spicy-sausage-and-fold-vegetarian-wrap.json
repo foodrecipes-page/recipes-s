@@ -1,0 +1,83 @@
+{
+  "slug": "spicy-sausage-and-fold-vegetarian-wrap",
+  "title": "Spicy Vegetarian Sausage Wrap",
+  "description": "A flavorful and spicy wrap filled with vegetarian sausage, crunchy vegetables, and a hint of spice.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "spicy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetarian sausage",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Add the vegetarian sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the diced red onion and cook until softened.",
+    "Warm the tortilla in the skillet for a few seconds.",
+    "Assemble the wrap by spreading sour cream on the tortilla, followed by the cooked sausage mixture, lettuce, cherry tomatoes, and any desired toppings.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Serve immediately, or wrap in plastic wrap and refrigerate for up to 2 hours before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "spicy",
+    "lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-sausage-and-fold-vegetarian-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:10:24.715Z"
+}
