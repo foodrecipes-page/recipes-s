@@ -1,0 +1,80 @@
+{
+  "slug": "sweet-irish-mackerel-stew",
+  "title": "Irish Stew",
+  "description": "A hearty, comforting Irish stew made with tender lamb and root vegetables. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Irish stout",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the lamb into 1-inch cubes and season with salt and pepper.",
+    "2. Heat a large pot over medium-high heat and brown the lamb in batches, about 5 minutes per batch.",
+    "3. Remove the lamb from the pot and set aside.",
+    "4. Add the onions and garlic to the pot and cook until the onions are translucent, about 5 minutes.",
+    "5. Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "6. Add the browned lamb back to the pot, along with the Irish stout and water.",
+    "7. Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "8. Bake the stew at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "9. Serve the stew hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-irish-mackerel-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:39:37.123Z"
+}
