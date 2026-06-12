@@ -1361,10 +1361,15 @@
   },
   {
     "slug": "salty-jamaican-okra-soup",
-    "title": "Salty Jamaican Okra Soup",
-    "tags": [],
-    "cuisine": "Jamaican",
-    "totalTimeMin": null,
+    "title": "Okra Soup with Jamaican Flavor",
+    "tags": [
+      "okra",
+      "soup",
+      "jamaican",
+      "caribbean"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -4644,15 +4649,14 @@
   },
   {
     "slug": "savory-kenyan-chili-peppers-stir-fry",
-    "title": "Savory Kenyan Chili Peppers Stir-fry",
+    "title": "Kenyan Stir Fry",
     "tags": [
-      "savory",
       "kenyan",
       "stir-fry",
-      "kid-friendly"
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "kenyan",
+    "totalTimeMin": 18,
     "shard": "s"
   },
   {
@@ -23616,17 +23620,17 @@
   },
   {
     "slug": "smoky-wholesome-spanish-minari-fideua",
-    "title": "Smoky Wholesome Spanish Minari Fideua",
+    "title": "Smoky Paella with Minari and Fideua",
     "tags": [
-      "comfort-food",
-      "lunch",
-      "one-pan",
-      "paleo",
       "spanish",
-      "valencian"
+      "paella",
+      "minari",
+      "fideua",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -35196,17 +35200,14 @@
   },
   {
     "slug": "sweet-flaky-algerian-peanut-butter-stir-fry",
-    "title": "Sweet Flaky Algerian Peanut Butter Stir-fry",
+    "title": "Algerian Sweet Peanut Butter Cookies",
     "tags": [
-      "sweet",
-      "flaky",
       "algerian",
       "peanut-butter",
-      "stir-fry",
-      "mediterranean-friendly"
+      "cookies"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "s"
   },
   {
