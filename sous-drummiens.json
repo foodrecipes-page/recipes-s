@@ -1,0 +1,72 @@
+{
+  "slug": "sous-drummiens",
+  "title": "Pan-Seared Drumsticks with Sous Vide Egg",
+  "description": "A simple and flavorful dish that combines the juiciness of sous vide eggs with the crunch of pan-seared drumsticks.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Drumsticks",
+      "amount": "4",
+      "notes": "Pounded to 1/4 inch thickness"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Sous vide for 1 hour 15 minutes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 pinch",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide water bath to 145°F.",
+    "Season the drumsticks with salt and pepper.",
+    "Sous vide the eggs for 1 hour 15 minutes.",
+    "Heat the olive oil in a pan over medium-high heat.",
+    "Pan-fry the drumsticks for 3-4 minutes per side, until golden brown.",
+    "Serve the pan-seared drumsticks with a sous vide egg and a pat of butter.",
+    "Optional: garnish with chopped herbs or chives."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "sous-vide",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 0,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-drummiens",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:01:34.984Z"
+}
