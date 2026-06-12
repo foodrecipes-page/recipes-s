@@ -1,0 +1,84 @@
+{
+  "slug": "smoky-french-fish-stew",
+  "title": "Smoky French Fish Stew",
+  "description": "A hearty and flavorful fish stew made with smoky and french ingredients. Serve with crusty bread for a delicious meal.",
+  "cuisine": "French",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (Cod or Haddock)",
+      "amount": "500g",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Smoky Bacon",
+      "amount": "150g",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "French White Wine",
+      "amount": "250ml",
+      "notes": "Dry"
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "500ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "Concentrated"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 200°C (400°F).",
+    "Season the fish fillets with salt and pepper.",
+    "Wrap the smoky bacon slices around the fish fillets and bake for 12 minutes.",
+    "In a large pot, sauté the chopped onion and minced garlic until softened.",
+    "Add the diced smoky bacon and cook for 2 minutes.",
+    "Pour in the French white wine and stir to deglaze the pot.",
+    "Add the fish stock, tomato paste, and thyme sprig. Stir to combine.",
+    "Add the baked fish fillets to the pot and simmer for 8 minutes.",
+    "Serve the fish stew hot, garnished with fresh thyme and crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-stew",
+    "smoky-bacon",
+    "french-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-french-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:36:41.309Z"
+}
