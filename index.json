@@ -4943,10 +4943,14 @@
   },
   {
     "slug": "savory-mediterranean-garlic-stir-fry",
-    "title": "Savory Mediterranean Garlic Stir-fry",
-    "tags": [],
+    "title": "Mediterranean Stir-Fry",
+    "tags": [
+      "mediterranean",
+      "stir-fry",
+      "vegetarian"
+    ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -8492,16 +8496,15 @@
   },
   {
     "slug": "sherry-rose-salad",
-    "title": "Sherry Rose Salad",
+    "title": "Sherry-Glazed Grilled Salad",
     "tags": [
+      "glazed",
+      "grilled",
       "salad",
-      "floral",
-      "juicy",
-      "sherry-vinegar",
-      "high-protein-friendly"
+      "mediterranean"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 15,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -17676,14 +17679,13 @@
     "slug": "smoky-french-fish-stew",
     "title": "Smoky French Fish Stew",
     "tags": [
-      "pescatarian",
-      "gluten-free",
-      "smoky",
-      "comfort-food",
-      "fish-stew"
+      "fish-stew",
+      "smoky-bacon",
+      "french-cuisine",
+      "seafood"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -18752,15 +18754,13 @@
   },
   {
     "slug": "smoky-kenyan-eggs-kebabs",
-    "title": "Smoky Kenyan Eggs Kebabs",
+    "title": "Smoky Kebab Breakfast",
     "tags": [
       "breakfast",
-      "eggs",
       "kebabs",
-      "kenyan",
-      "robata-grill"
+      "kenyan"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 20,
     "shard": "s"
   },
@@ -22992,13 +22992,13 @@
   },
   {
     "slug": "smoky-tender-hunan-corned-beef-bao",
-    "title": "Smoky Tender Hunan Corned Beef Bao",
+    "title": "Smoky Beef Bao",
     "tags": [
+      "asian",
+      "beef",
       "chinese",
-      "hunan",
-      "corned-beef",
       "bao",
-      "low-calorie"
+      "smoky"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 30,
@@ -27295,15 +27295,15 @@
   },
   {
     "slug": "sour-tender-ethiopian-peas-stew",
-    "title": "Sour Tender Ethiopian Peas Stew",
+    "title": "Sour Ethiopian Stew",
     "tags": [
-      "ethiopian-cuisine",
-      "low-carb",
-      "weeknight-dinner",
-      "vegetarian"
+      "ethiopian",
+      "stew",
+      "beef",
+      "peas"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 90,
     "shard": "s"
   },
   {
