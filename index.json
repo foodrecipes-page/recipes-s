@@ -18556,9 +18556,13 @@
   },
   {
     "slug": "smoky-japanese-sweet-potato-bake",
-    "title": "Smoky Japanese Sweet Potato Bake",
-    "tags": [],
-    "cuisine": "Japanese",
+    "title": "Sweet Potato Bake",
+    "tags": [
+      "sweet-potato",
+      "baked",
+      "side-dish"
+    ],
+    "cuisine": "american",
     "totalTimeMin": 40,
     "shard": "s"
   },
@@ -19802,18 +19806,15 @@
   },
   {
     "slug": "smoky-pillowy-kenyan-stew-tagine",
-    "title": "Smoky Pillowy Kenyan Stew Tagine",
+    "title": "Smoky Kenyan Stew",
     "tags": [
-      "high-protein",
-      "jain",
       "kenyan",
-      "one-pan",
-      "smoky",
       "stew",
-      "weeknight"
+      "slow-cooked",
+      "smoky"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 60,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 80,
     "shard": "s"
   },
   {
@@ -20152,15 +20153,14 @@
   },
   {
     "slug": "smoky-roasted-cheddar-cheese-stir-fry",
-    "title": "Smoky Roasted Cheddar Cheese Stir-fry",
+    "title": "Smoky Roasted Cheese Fritters",
     "tags": [
-      "smoky-roasted-cheese-stir-fry",
-      "cozy-brazilian-dish",
-      "low-fat-friendly",
-      "quick-lunch"
+      "cheese",
+      "snack",
+      "fritters"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "s"
   },
   {
@@ -22661,17 +22661,15 @@
   },
   {
     "slug": "smoky-sweet-american-corn-skillet",
-    "title": "Smoky Sweet American Corn Skillet",
+    "title": "Skillet Cornbread with Smoky Sweet Notes",
     "tags": [
+      "cornbread",
       "american",
-      "gluten-free",
-      "one-pan",
-      "smoky",
       "sweet",
-      "weeknight"
+      "smoky"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -25499,15 +25497,15 @@
   },
   {
     "slug": "sour-crunchy-algerian-chicken-stir-fry",
-    "title": "Sour Crunchy Algerian Chicken Stir-fry",
+    "title": "Algerian Chicken Stir Fry",
     "tags": [
-      "sour-algerian",
-      "crunchy-chicken",
-      "ferment-based",
-      "jain-friendly-dish"
+      "north-african",
+      "chicken",
+      "stir-fry",
+      "spicy"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -25976,13 +25974,12 @@
   },
   {
     "slug": "sour-flaky-dutch-apple-crumble",
-    "title": "Sour Flaky Dutch Apple Crumble",
+    "title": "Dutch Apple Crumble",
     "tags": [
-      "sour",
-      "flaky",
-      "dutch",
       "apple",
-      "crumble"
+      "crumble",
+      "dessert",
+      "dutch"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 60,
@@ -31839,14 +31836,14 @@
   },
   {
     "slug": "spicy-tofu-scrambled-potato-crumble",
-    "title": "Spicy Tofu Scrambled Potato Crumble",
+    "title": "Spicy Crumble Tofu Scramble",
     "tags": [
-      "spicy",
-      "tender",
-      "german",
-      "crowd-pleaser"
+      "breakfast",
+      "brunch",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "German",
+    "cuisine": null,
     "totalTimeMin": 25,
     "shard": "s"
   },
