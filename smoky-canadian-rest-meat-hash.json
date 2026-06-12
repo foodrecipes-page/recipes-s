@@ -1,0 +1,84 @@
+{
+  "slug": "smoky-canadian-rest-meat-hash",
+  "title": "Smoky Meat Hash",
+  "description": "A hearty breakfast dish made with smoky meat and crispy hash browns.",
+  "cuisine": null,
+  "diet": [
+    "breakfast",
+    "lunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian Bacon",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Chop the onion and sauté in a pan with 1 tbsp of oil until softened.",
+    "2. Add the minced garlic and cook for 1 minute.",
+    "3. Add the Canadian bacon and cook until browned.",
+    "4. Add the smoked paprika and stir to combine.",
+    "5. Hash the cooked bacon and onion mixture with a spatula.",
+    "6. Shape the mixture into a square and press down to flatten.",
+    "7. Place under the broiler for 2-3 minutes or until crispy.",
+    "8. Meanwhile, heat the remaining 1 tbsp of oil in a pan and fry the hash browns until crispy.",
+    "9. Serve the smoky meat hash with the crispy hash browns on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "meat",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-canadian-rest-meat-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:49:53.191Z"
+}
