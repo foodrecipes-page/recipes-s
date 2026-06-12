@@ -1,0 +1,83 @@
+{
+  "slug": "savory-mediterranean-garlic-stir-fry",
+  "title": "Mediterranean Stir-Fry",
+  "description": "A quick and flavorful stir-fry dish inspired by the Mediterranean Diet.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Mediterranean",
+      "amount": "1 tablespoon, chopped fresh oregano & thyme"
+    },
+    {
+      "name": "Savory",
+      "amount": "1 tablespoon, olive oil"
+    },
+    {
+      "name": "Stir",
+      "amount": "1 teaspoon, sesame oil"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup, pitted"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add sesame oil and cook for 1 minute.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add sliced red bell pepper and zucchini, cook for 3-4 minutes.",
+    "Add chopped Mediterranean herbs and cook for 1 minute.",
+    "Add kalamata olives and feta cheese, stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-mediterranean-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:14:15.165Z"
+}
