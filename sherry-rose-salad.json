@@ -1,0 +1,72 @@
+{
+  "slug": "sherry-rose-salad",
+  "title": "Sherry-Glazed Grilled Salad",
+  "description": "A unique salad dish featuring grilled components with a sweet and tangy sherry glaze.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Any combination of lettuce types"
+    },
+    {
+      "name": "Sherry",
+      "amount": "1/4 cup",
+      "notes": "Dry sherry for glaze"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling and dressing"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Rose petals",
+      "amount": "handful",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to 350°F (175°C).",
+    "2. In a small saucepan, combine sherry and 1 tbsp of olive oil. Bring to a simmer over medium heat until reduced by half.",
+    "3. In a large bowl, toss mixed greens with balsamic vinegar and remaining olive oil.",
+    "4. Grill slices of bread until toasted. Chop into crouton-sized pieces.",
+    "5. Top the salad with croutons and drizzle with sherry glaze.",
+    "6. Garnish with rose petals, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "glazed",
+    "grilled",
+    "salad",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sherry-rose-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:34:16.013Z"
+}
