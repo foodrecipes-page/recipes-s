@@ -1,0 +1,80 @@
+{
+  "slug": "sweet-pea-halal-delight",
+  "title": "Sweet Pea Delight Halal Dish",
+  "description": "A halal meal that combines sweet and savory flavors, featuring peas as the main ingredient.",
+  "cuisine": "halal",
+  "diet": [
+    "vegetarian",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "halal chicken",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "halal chicken broth",
+      "amount": "250ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and sauté until softened.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the halal chicken and cook until browned.",
+    "Add the diced sweet potato and peas, stir to combine.",
+    "Pour in the halal chicken broth and bring to a simmer.",
+    "Reduce heat to low and let cook for 15-20 minutes or until the sweet potato is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "vegetarian",
+    "sweet-peas",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-pea-halal-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:29:14.510Z"
+}
