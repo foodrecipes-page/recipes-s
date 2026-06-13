@@ -1,68 +1,54 @@
 {
   "slug": "shattering-brazilian-melons-paella",
-  "title": "Brazilian Melon Paella",
-  "description": "A twist on traditional paella with sweet melon and savory spices.",
-  "cuisine": "Brazilian",
+  "title": "Paella with Melon and Brazilian Sausage",
+  "description": "A twist on the classic Spanish dish, featuring juicy melon and spicy Brazilian sausage. Perfect for a warm evening.",
+  "cuisine": "Spanish",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "vegetarian",
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
     {
+      "name": "Brazilian Sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
       "name": "Melons",
-      "amount": "2 cups diced",
-      "notes": "any variety"
+      "amount": "2 cups, diced"
     },
     {
-      "name": "Brazilian rice",
-      "amount": "1 cup",
-      "notes": ""
+      "name": "Paella Rice",
+      "amount": "1 cup"
     },
     {
-      "name": "Shattering hot sauce",
-      "amount": "1 tsp",
-      "notes": "optional"
+      "name": "Shattering",
+      "amount": "1/2 cup, chopped"
     },
     {
-      "name": "Vegetable oil",
-      "amount": "1 tbsp",
-      "notes": ""
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Onion",
-      "amount": "1 medium diced",
-      "notes": ""
+      "name": "Salt",
+      "amount": "to taste"
     },
     {
-      "name": "Garlic",
-      "amount": "3 cloves minced",
-      "notes": ""
-    },
-    {
-      "name": "Tomato",
-      "amount": "1 medium diced",
-      "notes": ""
-    },
-    {
-      "name": "Cumin",
-      "amount": "1 tsp",
-      "notes": ""
-    },
-    {
-      "name": "Paprika",
-      "amount": "1 tsp",
-      "notes": ""
+      "name": "Black Pepper",
+      "amount": "to taste"
     }
   ],
   "instructions": [
-    "Heat oil in a large skillet over medium-high heat.",
-    "Add onion, garlic, and tomato; cook until tender.",
-    "Add rice, cumin, and paprika; cook 1-2 minutes.",
-    "Add diced melon; cook until heated through.",
-    "Reduce heat to low and simmer, covered, 20-25 minutes or until rice is tender.",
-    "Stir in hot sauce, if using.",
-    "Serve hot, garnished with additional melon slices if desired."
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the diced melon and chopped shattering, cooking for an additional 2-3 minutes.",
+    "Add the paella rice, stirring to combine with the sausage and melon mixture.",
+    "Cook for 2-3 minutes, until the rice is lightly toasted.",
+    "Add 2 cups of water to the pan, bringing to a boil.",
+    "Reduce heat to low, simmering for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional melon slices if desired.",
+    "Note: Shattering is assumed to be a type of pepper or spice, adjust to taste."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -70,19 +56,19 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "brazilian",
-    "vegetarian",
-    "gluten-free",
-    "summer"
+    "summer",
+    "paella",
+    "melons",
+    "brazilian-sausage"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 5,
-    "carbs": 40,
-    "fat": 10
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/shattering-brazilian-melons-paella",
   "providerUsed": "groq",
-  "createdAt": "2026-06-09T07:40:02.285Z"
+  "createdAt": "2026-06-10T21:26:39.708Z"
 }
