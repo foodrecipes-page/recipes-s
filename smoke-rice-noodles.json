@@ -1,0 +1,67 @@
+{
+  "slug": "smoke-rice-noodles",
+  "title": "Smoked Noodle Bowl",
+  "description": "A simple and flavorful noodle bowl made with smoked ingredients and rice.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Heat vegetable oil in a pan over medium heat.",
+    "Add soy sauce and sesame oil to the pan and stir.",
+    "Add cooked noodles to the pan and stir to coat with sauce.",
+    "Serve noodles in bowls and top with smoked rice, green onions, and additional soy sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle-bowl",
+    "smoked-rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoke-rice-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:40:58.548Z"
+}
