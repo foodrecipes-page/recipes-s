@@ -1,0 +1,66 @@
+{
+  "slug": "smoky-silk-tofu-stir-fry",
+  "title": "Smoky Tofu Stir Fry",
+  "description": "A simple and flavorful stir fry made with smoky tofu and a variety of vegetables. Serve over rice or noodles for a delicious meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoky tofu",
+      "amount": "1 block",
+      "notes": "press and drain before use"
+    },
+    {
+      "name": "silk",
+      "amount": "2 cups",
+      "notes": "any type of silk cabbage or bok choy works"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tsp",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the ginger and cook for 1 minute, until fragrant.",
+    "Add the silk cabbage and cook until wilted, about 3-4 minutes.",
+    "Add the crumbled tofu and cook until lightly browned, about 3-4 minutes.",
+    "Add the smoky tofu and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-silk-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:53:18.149Z"
+}
