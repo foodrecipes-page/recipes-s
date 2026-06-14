@@ -1,0 +1,75 @@
+{
+  "slug": "sour-chewy-irish-chinese-cabbage-soup",
+  "title": "Cabbage Irish Stew",
+  "description": "A hearty and comforting stew made with cabbage, beef, and a hint of Irish flair.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "2 cups shredded",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Irish Stew Seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Broth",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a pot over medium-high heat.",
+    "Add the onion, carrots, and potatoes to the pot and cook until the vegetables are tender.",
+    "Add the cabbage, Irish Stew Seasoning, and broth to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "cabbage",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sour-chewy-irish-chinese-cabbage-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T04:35:15.899Z"
+}
