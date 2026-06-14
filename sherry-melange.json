@@ -1,0 +1,87 @@
+{
+  "slug": "sherry-melange",
+  "title": "Melange Chicken and Sherry Sauce",
+  "description": "A savory dish with chicken cooked in sherry and melange, perfect for a dinner meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "sherry",
+      "amount": "1/2 cup",
+      "notes": "dry sherry"
+    },
+    {
+      "name": "melange",
+      "amount": "2 tsp",
+      "notes": "ground mixed spice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large skillet over medium-high heat.",
+    "2. Add garlic and onion, sauté until softened.",
+    "3. Add chicken, cook until browned on both sides.",
+    "4. Add sherry, melange, and chicken broth, stir to combine.",
+    "5. Bring mixture to a simmer, cook until reduced by half.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Serve chicken with sauce, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "sherry",
+    "melange",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sherry-melange",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:49:02.154Z"
+}
