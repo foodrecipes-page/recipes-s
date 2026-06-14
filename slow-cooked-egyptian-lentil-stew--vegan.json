@@ -1,0 +1,83 @@
+{
+  "slug": "slow-cooked-egyptian-lentil-stew--vegan",
+  "title": "Egyptian Lentil Stew",
+  "description": "A hearty and comforting vegan stew inspired by Egyptian cuisine, made with red lentils and a blend of aromatic spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 (14 oz) can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, carrot, and celery, and cook until the vegetables are tender, about 5 minutes.",
+    "Add cumin, coriander, and paprika, and cook for 1 minute.",
+    "Add lentils, diced tomatoes, and vegetable broth. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30-40 minutes, or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "lentil",
+    "stew",
+    "european",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/slow-cooked-egyptian-lentil-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T08:02:07.894Z"
+}
