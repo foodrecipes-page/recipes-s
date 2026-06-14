@@ -1,13 +1,15 @@
 {
   "slug": "slow-cooked-egyptian-lentil-stew--indian",
-  "title": "Egyptian Lentil Stew",
-  "description": "A comforting and flavorful Indian-inspired stew made with lentils and a blend of aromatic spices. Perfect for a cozy meal.",
+  "title": "Indian Lentil Stew",
+  "description": "A flavorful and comforting stew made with lentils and spices, perfect for a chilly evening. This Indian-inspired dish is a great option for a weeknight dinner.",
   "cuisine": "indian",
-  "diet": null,
-  "meal": "lunch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "red lentils",
+      "name": "red lentil",
       "amount": "1 cup",
       "notes": null
     },
@@ -17,33 +19,38 @@
       "notes": null
     },
     {
-      "name": "garlic",
-      "amount": "2 cloves",
-      "notes": null
-    },
-    {
       "name": "ginger",
-      "amount": "1-inch piece",
+      "amount": "2 inches",
       "notes": null
     },
     {
-      "name": "cumin seeds",
-      "amount": "1 tsp",
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
       "notes": null
     },
     {
       "name": "coriander powder",
-      "amount": "1 tsp",
+      "amount": "1 teaspoon",
       "notes": null
     },
     {
       "name": "turmeric powder",
-      "amount": "1 tsp",
+      "amount": "1/2 teaspoon",
       "notes": null
     },
     {
-      "name": "salt",
-      "amount": "to taste",
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
       "notes": null
     },
     {
@@ -53,25 +60,25 @@
     }
   ],
   "instructions": [
-    "Heat oil in a pan over medium heat.",
-    "Add cumin seeds and let them sizzle.",
-    "Add onion, garlic, and ginger. Saute until onion is translucent.",
-    "Add lentils, cumin powder, coriander powder, and turmeric powder. Mix well.",
-    "Add water and salt. Bring to a boil.",
-    "Reduce heat to low and let it simmer for 20-25 minutes or until lentils are tender.",
-    "Serve hot garnished with fresh cilantro, if desired."
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic. Saute until the onion is translucent.",
+    "Add cumin, coriander, and turmeric powder. Mix well.",
+    "Add lentils, tomatoes, and water. Bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Season with salt to taste.",
+    "Serve hot with naan or rice."
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 25,
-  "totalTimeMin": 40,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "lentil",
     "indian",
+    "lentil",
     "stew",
-    "comfort-food",
-    "vegetarian"
+    "vegetarian",
+    "comfort-food"
   ],
   "nutrition": {
     "calories": 350,
@@ -82,5 +89,5 @@
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/slow-cooked-egyptian-lentil-stew--indian",
   "providerUsed": "groq",
-  "createdAt": "2026-06-13T07:53:07.256Z"
+  "createdAt": "2026-06-13T09:24:24.299Z"
 }
