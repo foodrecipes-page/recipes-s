@@ -1,0 +1,83 @@
+{
+  "slug": "smoky-crispy-venezuelan-pork-stew",
+  "title": "Smoky Pork Stew",
+  "description": "A hearty stew made with tender pork, smoky spices and crispy texture.",
+  "cuisine": "latinamerican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons",
+      "notes": "smoked paprika and chipotle powder mix"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "chopped bell peppers and onions"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "diced crispy plantain chips"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin and coriander mix"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add pork and cook until browned, about 5 minutes.",
+    "Add stew and cook until softened, about 5 minutes.",
+    "Stir in smoky, venezuelan and season with salt and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in crispy plantain chips.",
+    "Simmer for an additional 5 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "latinamerican",
+    "stew",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-crispy-venezuelan-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:50:27.290Z"
+}
