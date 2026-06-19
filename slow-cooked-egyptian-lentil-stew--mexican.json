@@ -1,0 +1,83 @@
+{
+  "slug": "slow-cooked-egyptian-lentil-stew--mexican",
+  "title": "Mexican Lentil Stew",
+  "description": "A hearty, comforting Mexican-inspired stew made with slow-cooked lentils, served with a side of warm tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add cumin and chili powder; cook for 1 minute.",
+    "Stir in lentils, diced tomatoes, and vegetable broth.",
+    "Bring to a boil; reduce heat to low and simmer, covered, for 20-25 minutes or until lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "stew",
+    "mexican",
+    "comfort-food",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/slow-cooked-egyptian-lentil-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T08:30:41.759Z"
+}
