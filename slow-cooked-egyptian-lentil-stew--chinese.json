@@ -1,0 +1,83 @@
+{
+  "slug": "slow-cooked-egyptian-lentil-stew--chinese",
+  "title": "Chinese Lentil Stew",
+  "description": "A hearty and comforting Chinese-inspired lentil stew made with slow-cooked lentils and a blend of spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon grated"
+    },
+    {
+      "name": "chinese five spice powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add ginger, five spice powder, and cook for 1 minute.",
+    "Add lentils, soy sauce, coconut milk, and water. Bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes, or until lentils are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "lentils",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/slow-cooked-egyptian-lentil-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T08:35:44.989Z"
+}
