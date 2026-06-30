@@ -1,0 +1,67 @@
+{
+  "slug": "salty-creamy-australian-tofu-bowl",
+  "title": "Australian Tofu Bowl",
+  "description": "A creamy and savory bowl filled with the flavors of Australia, featuring marinated tofu as the main protein.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "salty",
+      "amount": "1 tsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "creamy",
+      "amount": "2 tbsp",
+      "notes": "mayonnaise"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tsp",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the tofu into small cubes and place them on a baking sheet.",
+    "Drizzle the tofu with 1 tsp of cooking oil and sprinkle with 1 tsp of salty.",
+    "Bake the tofu in the oven for 20-25 minutes, flipping halfway through.",
+    "While the tofu is baking, mix the creamy and 1 tsp of salty in a small bowl.",
+    "Once the tofu is done, remove it from the oven and let it cool for a few minutes.",
+    "Place the tofu in a bowl and drizzle with the creamy sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "tofu",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-creamy-australian-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:50:33.657Z"
+}
