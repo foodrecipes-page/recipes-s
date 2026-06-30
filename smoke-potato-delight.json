@@ -1,0 +1,49 @@
+{
+  "slug": "smoke-potato-delight",
+  "title": "Smoked Potato Delight",
+  "description": "A simple and delicious smoked potato dish, perfect for a quick snack or side.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "smoke flavoring",
+      "amount": "1 tsp",
+      "notes": "can be adjusted to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your smoker to 225°F (110°C).",
+    "2. Season the smoked flavoring to your liking.",
+    "3. Place the sliced potatoes in the smoker, making sure they're in a single layer.",
+    "4. Smoke the potatoes for 2 hours, or until they're tender and lightly smoked.",
+    "5. Remove the potatoes from the smoker and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked",
+    "potato",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoke-potato-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:50:42.307Z"
+}
