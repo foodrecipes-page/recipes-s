@@ -1,0 +1,63 @@
+{
+  "slug": "savoury-korean-carrot-stir-fry",
+  "title": "Korean Stir Fry",
+  "description": "A quick and easy Korean-inspired stir fry made with savoury and korean ingredients.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "amount": "1 large"
+    },
+    {
+      "name": "Savoury",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add savoury and cook until tender, about 5 minutes.",
+    "Add carrot and cook until tender, about 3-4 minutes.",
+    "Add Korean chili flakes, soy sauce, salt, and pepper. Stir to combine.",
+    "Cook for an additional 1-2 minutes, until heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savoury-korean-carrot-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:36:50.267Z"
+}
