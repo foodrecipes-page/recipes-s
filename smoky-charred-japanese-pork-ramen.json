@@ -1,0 +1,92 @@
+{
+  "slug": "smoky-charred-japanese-pork-ramen",
+  "title": "Smoky Ramen with Charred Pork",
+  "description": "A fusion of Japanese flavors and smoky undertones, this ramen dish features charred pork and fresh vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Pork Shoulder",
+      "amount": "1 kg",
+      "notes": "Slow-cooked in a sweet and smoky sauce"
+    },
+    {
+      "name": "Ramen Noodles",
+      "amount": "200g",
+      "notes": "Japanese-style noodles"
+    },
+    {
+      "name": "Charred Scallions",
+      "amount": "4",
+      "notes": "Grilled scallions for added flavor"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For umami flavor"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": "To balance the smokiness"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced and sautéed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated and sautéed"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced and used as garnish"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Slow-cook the pork shoulder in a sweet and smoky sauce for 8 hours.",
+    "Cook the ramen noodles according to the package instructions.",
+    "Grill the scallions until charred and set aside.",
+    "Sauté the garlic and ginger in sesame oil until fragrant.",
+    "Add the soy sauce and brown sugar to the pan and stir to combine.",
+    "Add the cooked pork to the pan and stir to coat with the sauce.",
+    "To assemble the ramen, place noodles in a bowl and top with the pork, scallions, and green onions.",
+    "Garnish with sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 720,
+  "totalTimeMin": 740,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-ramen",
+    "smoky-pork",
+    "fusion-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-charred-japanese-pork-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:40:18.627Z"
+}
