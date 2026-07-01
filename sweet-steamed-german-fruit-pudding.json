@@ -1,0 +1,81 @@
+{
+  "slug": "sweet-steamed-german-fruit-pudding",
+  "title": "German Fruit Pudding",
+  "description": "A classic German dessert made with sweet and ripe fruit.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "1 cup",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "vanilla pudding",
+      "amount": "1 package",
+      "notes": "4-serving size"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "german cookies",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine sliced strawberries and granulated sugar (if using). Let sit for 15 minutes.",
+    "In a separate bowl, whip heavy cream until stiff peaks form.",
+    "In a separate bowl, mix vanilla pudding according to package instructions.",
+    "Fold whipped cream into pudding until well combined.",
+    "Spoon pudding mixture over sliced strawberries.",
+    "Sprinkle crushed german cookies over pudding mixture.",
+    "Zest lemon over pudding mixture (if using).",
+    "Drizzle lemon juice over pudding mixture (if using).",
+    "Cover and refrigerate for at least 30 minutes.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "dessert",
+    "fruit",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-steamed-german-fruit-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:32:26.292Z"
+}
