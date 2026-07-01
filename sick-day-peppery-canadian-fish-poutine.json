@@ -1,0 +1,57 @@
+{
+  "slug": "sick-day-peppery-canadian-fish-poutine",
+  "title": "Poutine",
+  "description": "A classic french-Canadian comfort food dish consisting of crispy fries topped with cheese curds and gravy.",
+  "cuisine": "Canadian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sick (french fries)",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Peppery (gravy)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Canadian (cheddar cheese curds)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Poutine (beef drippings)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350°F (180°C) for frying.",
+    "Cut fries into 1/2-inch thick sticks and soak in cold water for 30 minutes.",
+    "Drain fries and dry with paper towels.",
+    "Fry fries in batches until golden brown, about 3-4 minutes per batch.",
+    "Drain fries on paper towels and sprinkle with beef drippings.",
+    "Heat gravy in a saucepan over medium heat.",
+    "Add cheese curds to the gravy and stir until melted.",
+    "Serve fries hot with cheese curds and gravy on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-canadian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sick-day-peppery-canadian-fish-poutine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:25:33.707Z"
+}
