@@ -1,0 +1,86 @@
+{
+  "slug": "spicy-earthy-tella",
+  "title": "Earthy Tella Stew",
+  "description": "Hearty and comforting stew featuring earthy tella and a hint of spice. Perfect for a chilly evening.",
+  "cuisine": "international",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tella",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spicy Pepper",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add spicy pepper and cook for 1 minute.",
+    "Add mushroom and cook until tender.",
+    "Add tella, tomato paste, and vegetable broth.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-earthy-tella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:41:01.155Z"
+}
