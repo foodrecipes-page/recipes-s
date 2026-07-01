@@ -1,0 +1,88 @@
+{
+  "slug": "savory-marinate-stir-fry",
+  "title": "Savory Stir-Fry",
+  "description": "Quick and easy stir-fry recipe with savory flavors. Perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savory stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the thinly sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the bell peppers and cook until tender, about 4-5 minutes.",
+    "Add the broccoli and cook until tender, about 3-4 minutes.",
+    "In a small bowl, whisk together the savory stir-fry sauce, soy sauce, and grated ginger.",
+    "Pour the sauce over the vegetables and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-marinate-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:39:02.749Z"
+}
