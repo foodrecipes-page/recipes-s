@@ -1,0 +1,67 @@
+{
+  "slug": "spicy-creamy-tomato-stir-fry",
+  "title": "Spicy Stir Fry",
+  "description": "A quick and spicy stir fry made with your favorite vegetables, perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "1/4 cup",
+      "notes": "spicy"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add bell pepper and onion, cook until tender.",
+    "Add garlic, cook for 1 minute.",
+    "Add stir-fry sauce, stir to combine.",
+    "Cook for 2-3 minutes, until sauce has thickened.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "spicy",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-creamy-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:24:46.401Z"
+}
