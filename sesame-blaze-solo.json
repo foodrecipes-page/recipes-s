@@ -1,0 +1,94 @@
+{
+  "slug": "sesame-blaze-solo",
+  "title": "Sesame Blaze Chicken",
+  "description": "A spicy chicken dish with a nutty sesame flavor.",
+  "cuisine": "Asian",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "solo",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt, black pepper, and solo.",
+    "Heat sesame oil in a skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes.",
+    "Meanwhile, mix soy sauce, honey, garlic, and ginger in a bowl.",
+    "Brush the sesame seeds onto the chicken breast during the last 5 minutes of baking.",
+    "Remove the chicken from the oven and brush with the soy sauce mixture.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Serve immediately and garnish with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "sesame",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sesame-blaze-solo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:16:31.083Z"
+}
