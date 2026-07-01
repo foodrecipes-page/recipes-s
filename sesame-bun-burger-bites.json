@@ -1,0 +1,53 @@
+{
+  "slug": "sesame-bun-burger-bites",
+  "title": "Bun Burger Bites",
+  "description": "A simple recipe to make delicious burger bites with a bun and sesame seed topping.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "burger",
+      "amount": "1 package"
+    },
+    {
+      "name": "bun",
+      "amount": "1 package"
+    },
+    {
+      "name": "sesame",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the burger into small bite-sized pieces.",
+    "Divide the bun into small pieces and toast them in the oven for 2-3 minutes.",
+    "Mix the sesame seeds with a pinch of salt and sprinkle over the toasted bun.",
+    "Serve the burger bites with the sesame bun on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "snack",
+    "burger",
+    "bun",
+    "sesame"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sesame-bun-burger-bites",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:35:52.398Z"
+}
