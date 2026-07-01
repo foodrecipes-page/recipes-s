@@ -1,0 +1,58 @@
+{
+  "slug": "sweet-crispy-potato-crumble",
+  "title": "Sweet Potato Crumble",
+  "description": "A delicious sweet potato dessert topped with a crunchy crumble mixture.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup"
+    },
+    {
+      "name": "potato",
+      "amount": "2 tablespoons, grated"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup, crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Pierce the sweet potatoes with a fork several times and bake for 45-60 minutes, or until tender.",
+    "While the sweet potatoes are baking, mix the crumble and grated potato in a bowl.",
+    "Once the sweet potatoes are done, let them cool slightly.",
+    "Top each sweet potato with the crumble mixture and a sprinkle of crushed crispy.",
+    "Return to the oven and bake for an additional 10-15 minutes, or until the topping is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "potato",
+    "dessert",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-crispy-potato-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:28:05.443Z"
+}
