@@ -1,0 +1,73 @@
+{
+  "slug": "sweet-corn-arepa-wrap",
+  "title": "Sweet Corn Arepa Wrap",
+  "description": "A delicious and easy-to-make arepa wrap filled with sweet corn and melted cheese.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "arepa",
+      "amount": "2",
+      "notes": "cornmeal flatbreads"
+    },
+    {
+      "name": "sweet corn",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing arepa"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a griddle or skillet over medium heat.",
+    "Brush the arepas with olive oil and cook for 2-3 minutes on each side, until crispy.",
+    "Meanwhile, grill or cook the sweet corn until lightly charred.",
+    "Assemble the wraps by spreading a layer of cheese on each arepa, followed by a spoonful of grilled corn.",
+    "Season with salt, cumin, and a sprinkle of cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "arepa",
+    "latinamerican",
+    "veggie",
+    "glutenfree"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-corn-arepa-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:16:45.043Z"
+}
