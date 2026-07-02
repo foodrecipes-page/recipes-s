@@ -1,0 +1,80 @@
+{
+  "slug": "smoky-german-wagyu-stew",
+  "title": "Smoky Wagyu Stew",
+  "description": "Hearty stew made with tender wagyu beef and smoky sausages.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu Beef Stew Meat",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Smoked Sausages",
+      "amount": "1 pound",
+      "notes": "such as knockwurst or bratwurst"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the wagyu beef in batches until browned on all sides. Set aside.",
+    "Add the chopped onion to the pot and cook until softened.",
+    "Add the chopped carrot and potato to the pot and cook for 5 minutes.",
+    "Add the browned wagyu beef back to the pot, along with the smoked sausages.",
+    "Pour in the beef broth and add the tomato paste and Worcestershire sauce.",
+    "Bring the stew to a boil, then cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-german-wagyu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:36:32.643Z"
+}
