@@ -1,0 +1,64 @@
+{
+  "slug": "slow-cooked-muffin-feast",
+  "title": "Slow Cooked Feast Muffins",
+  "description": "A hearty and flavorful slow cooked feast muffin recipe that's perfect for a cozy morning.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "slow cooked beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "muffin mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "sliced cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded or sliced"
+    },
+    {
+      "name": "chopped onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine muffin mix, slow cooked beans, sliced cheese, chopped onions, beef broth, salt, and pepper. Mix well.",
+    "Divide the mixture evenly among 6 muffin cups.",
+    "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "muffins",
+    "slowcooker"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/slow-cooked-muffin-feast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:17:57.858Z"
+}
