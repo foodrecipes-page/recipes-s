@@ -1,0 +1,64 @@
+{
+  "slug": "steamed-green-olive-salad",
+  "title": "Steamed Salad with Olive Dressing",
+  "description": "A simple salad made with steamed greens and a homemade olive dressing. This dish is perfect for a light lunch or dinner.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green steamed salad",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olives",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the steamed salad by tossing the greens with a pinch of salt and pepper.",
+    "In a small bowl, whisk together the olive oil, sliced olives, and lemon juice to make the dressing.",
+    "Toss the steamed salad with the olive dressing until the greens are evenly coated.",
+    "Serve the salad immediately, garnished with additional olives if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "mediterranean",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/steamed-green-olive-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:54:01.141Z"
+}
