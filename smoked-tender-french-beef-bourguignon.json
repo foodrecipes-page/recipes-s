@@ -1,0 +1,98 @@
+{
+  "slug": "smoked-tender-french-beef-bourguignon",
+  "title": "French Beef Bourguignon",
+  "description": "A classic French stew made with tender beef and smoky flavors.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "2 pounds",
+      "notes": "Chuck or short ribs work well"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "Optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": 3,
+      "notes": "Medium-sized"
+    },
+    {
+      "name": "celery",
+      "amount": 2,
+      "notes": "Medium-sized"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "Dry red wine"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Concentrated tomato paste"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh thyme"
+    },
+    {
+      "name": "bay leaves",
+      "amount": 2,
+      "notes": "Fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef with salt and pepper.",
+    "In a large Dutch oven, cook the bacon over medium heat until browned.",
+    "Remove the bacon and set aside.",
+    "Add the beef to the pot and cook until browned on all sides.",
+    "Remove the beef and set aside.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are tender.",
+    "Add the red wine, beef broth, tomato paste, thyme, and bay leaves to the pot.",
+    "Return the beef to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours.",
+    "Remove the pot from the oven and stir in the browned bacon.",
+    "Serve the stew hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "stew",
+    "french",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoked-tender-french-beef-bourguignon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:46:38.300Z"
+}
