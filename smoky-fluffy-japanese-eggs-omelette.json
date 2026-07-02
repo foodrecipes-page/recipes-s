@@ -1,0 +1,67 @@
+{
+  "slug": "smoky-fluffy-japanese-eggs-omelette",
+  "title": "Smoky Japanese Omelette",
+  "description": "A simple yet flavorful omelette with smoky and fluffy textures, inspired by Japanese cuisine.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp",
+      "notes": "smoked paprika or liquid smoke"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 tsp",
+      "notes": "cornstarch"
+    },
+    {
+      "name": "japanese",
+      "amount": "1 tsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "omelette",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together.",
+    "Add the smoky, fluffy, and japanese seasonings to the eggs and whisk until well combined.",
+    "Heat a small non-stick pan over medium heat.",
+    "Pour the egg mixture into the pan and let it cook for about 1-2 minutes.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Continue cooking for another 1-2 minutes, until the eggs are almost set.",
+    "Use the spatula to carefully fold the omelette in half.",
+    "Cook for an additional 30 seconds to 1 minute, until the eggs are fully set.",
+    "Slide the omelette out of the pan onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "omelette",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-fluffy-japanese-eggs-omelette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:27:48.368Z"
+}
