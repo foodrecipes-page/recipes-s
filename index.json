@@ -9823,10 +9823,15 @@
   },
   {
     "slug": "silky-floral-mediterranean-kabanos-salad",
-    "title": "Silky Floral Mediterranean Kabanos Salad",
-    "tags": [],
+    "title": "Grilled Kabanos Salad",
+    "tags": [
+      "grilled",
+      "salad",
+      "mediterranean",
+      "gluten-free"
+    ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": null,
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -30309,18 +30314,14 @@
   },
   {
     "slug": "spicy-juicy-tunisian-lamb-tagine",
-    "title": "Spicy Juicy Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "spicy",
-      "tunisian",
       "lamb",
-      "keto",
-      "date",
       "tagine",
-      "cozy"
+      "north-african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 135,
+    "cuisine": "North African",
+    "totalTimeMin": 185,
     "shard": "s"
   },
   {
@@ -31491,14 +31492,13 @@
   },
   {
     "slug": "spicy-tender-comfort-jamaican-tempeh-stir-fry",
-    "title": "Spicy Tender Comfort Jamaican Tempeh Stir-fry",
+    "title": "Jamaican Stir Fry",
     "tags": [
-      "spicy",
-      "tender",
-      "comfortable",
       "jamaican",
       "stir-fry",
-      "vegan-friendly"
+      "comfort-food",
+      "tempeh",
+      "veggie"
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 25,
@@ -34271,11 +34271,13 @@
     "slug": "sweet-corn-arepa-wrap",
     "title": "Sweet Corn Arepa Wrap",
     "tags": [
-      "sweetcornarepa",
-      "mozarellacheesewrap",
-      "tunisianfood"
+      "corn",
+      "arepa",
+      "latinamerican",
+      "veggie",
+      "glutenfree"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "Latin American",
     "totalTimeMin": 13,
     "shard": "s"
   },
