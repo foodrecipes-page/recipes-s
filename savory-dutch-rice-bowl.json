@@ -1,0 +1,76 @@
+{
+  "slug": "savory-dutch-rice-bowl",
+  "title": "Dutch Stuffed Rice Bowl",
+  "description": "A savory Dutch-inspired dish filled with rice and a flavorful mixture of vegetables and meat.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Savory rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dutch sausage",
+      "amount": "1/2 pound",
+      "notes": "cooked and crumbled"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, peas, and corn"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bowl for serving",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the savory rice according to package instructions.",
+    "In a large skillet, cook the Dutch sausage over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the mixed vegetables, tomato paste, and cooked rice. Cook for an additional 2-3 minutes.",
+    "Spoon the rice mixture into the Dutch bowl.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "savory",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-dutch-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:19:13.047Z"
+}
