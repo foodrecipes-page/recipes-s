@@ -1,0 +1,88 @@
+{
+  "slug": "savory-steamed-norwegian-fish-stew",
+  "title": "Pan-Seared Fish Stew",
+  "description": "A hearty Norwegian-inspired stew filled with tender fish and savory flavors. This dish is perfect for a cold evening.",
+  "cuisine": "norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fish Fillets",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Savory Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the carrots and potatoes; cook for an additional 5 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the fish stock and savory spice blend; bring to a boil.",
+    "Reduce heat to medium-low and simmer for 10-12 minutes or until the vegetables are tender.",
+    "Add the cod fish fillets and cook for an additional 4-6 minutes or until cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-stew",
+    "norwegian-cuisine",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-steamed-norwegian-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:05:12.525Z"
+}
