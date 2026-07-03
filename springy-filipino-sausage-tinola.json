@@ -1,0 +1,74 @@
+{
+  "slug": "springy-filipino-sausage-tinola",
+  "title": "Filipino Tinola with Sausage",
+  "description": "A hearty and savory Filipino chicken soup made with ginger, onions, and sausage. Serve with steamed rice for a comforting meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped ginger and sauté until fragrant.",
+    "Add the spring onions and cook until softened.",
+    "Add the pork sausage and cook until browned.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce heat to low and let simmer for 20 minutes.",
+    "Stir in the fish sauce and season with black pepper.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken-soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/springy-filipino-sausage-tinola",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:46:50.201Z"
+}
