@@ -1,0 +1,95 @@
+{
+  "slug": "sour-german-cabbage-stew",
+  "title": "Sour German Stew",
+  "description": "A hearty, comforting stew with a tangy twist, featuring sour cabbage and a hint of traditional German flavors.",
+  "cuisine": "German",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sour cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add the onion, carrots, and potatoes to the pot and cook until the vegetables are slightly tender, about 5 minutes.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, caraway seeds, and beef back into the pot. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Stir in the shredded cabbage and cook until tender, about 20 minutes.",
+    "Stir in the sour cream and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "cabbage",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sour-german-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:25:07.692Z"
+}
