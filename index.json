@@ -2714,14 +2714,13 @@
   },
   {
     "slug": "savory-creamy-ethiopian-macaroni-stir-fry",
-    "title": "Savory Creamy Ethiopian Macaroni Stir-fry",
+    "title": "Ethiopian Macaroni Stir Fry",
     "tags": [
-      "savory",
-      "creamy",
       "ethiopian",
       "macaroni",
       "stir-fry",
-      "vegan-friendly"
+      "creamy",
+      "savory"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
@@ -19513,9 +19512,15 @@
   {
     "slug": "smoky-persian-lamb-tagine",
     "title": "Smoky Persian Lamb Tagine",
-    "tags": [],
-    "cuisine": "Persian",
-    "totalTimeMin": null,
+    "tags": [
+      "lamb",
+      "tagine",
+      "north african",
+      "smoky",
+      "persian"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 140,
     "shard": "s"
   },
   {
@@ -24726,22 +24731,16 @@
   },
   {
     "slug": "sour-creamy-tuscan-egg-frittata",
-    "title": "Sour Creamy Tuscan Egg Frittata",
+    "title": "Tuscan Frittata",
     "tags": [
       "italian",
-      "tuscan",
       "breakfast",
-      "egg",
-      "frittata",
-      "sour-cream",
-      "parmesan",
-      "garlic",
-      "parsley",
-      "olive-oil",
-      "basil"
+      "brunch",
+      "egg-dish",
+      "frittata"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -32774,17 +32773,16 @@
   },
   {
     "slug": "steamed-japanese-egg-chawanmushi",
-    "title": "Steamed Japanese Egg Chawanmushi",
+    "title": "Japanese Steamed Egg Custard",
     "tags": [
-      "anti-inflammatory",
-      "dessert",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "japanese",
+      "steamed",
+      "egg",
+      "custard",
+      "dessert"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "s"
   },
   {
@@ -33943,16 +33941,14 @@
   },
   {
     "slug": "sweet-canadian-lamb-poutine",
-    "title": "Sweet Canadian Lamb Poutine",
+    "title": "Sweet Lamb Poutine",
     "tags": [
-      "canadian",
       "lamb",
       "poutine",
-      "sweet",
-      "tamasic"
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 270,
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
