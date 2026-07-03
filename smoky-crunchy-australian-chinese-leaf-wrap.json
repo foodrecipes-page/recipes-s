@@ -1,0 +1,66 @@
+{
+  "slug": "smoky-crunchy-australian-chinese-leaf-wrap",
+  "title": "Smoky Australian Wrap",
+  "description": "A flavorful and crunchy wrap filled with smoky Australian meats and fresh leafy greens.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky Australian Sausage",
+      "amount": "4",
+      "notes": "cut into slices"
+    },
+    {
+      "name": "Crunchy Wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Chinese Cucumber",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Leafy Greens",
+      "amount": "1 cup",
+      "notes": "shredded lettuce and spinach"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the sausage slices for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, toast the wrap on the grill for 30 seconds on each side.",
+    "Assemble the wrap by spreading mayonnaise on the toasted wrap, then adding the cooked sausage, sliced cucumber, and shredded greens.",
+    "Roll up the wrap and slice in half.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "wrap",
+    "grilled",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-crunchy-australian-chinese-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:07:18.693Z"
+}
