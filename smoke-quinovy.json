@@ -1,0 +1,63 @@
+{
+  "slug": "smoke-quinovy",
+  "title": "Smoked Quinovy Delight",
+  "description": "A simple yet flavorful dish featuring the unique taste of quinovy, infused with a smoky twist.",
+  "cuisine": null,
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinovy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together olive oil, garlic, lemon juice, smoked salt, and black pepper.",
+    "Add the quinovy to the bowl and toss to coat with the marinade.",
+    "Grill the quinovy for 5-7 minutes per side, or until tender and slightly charred.",
+    "Serve hot, garnished with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked",
+    "quinovy",
+    "grilled",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoke-quinovy",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:55:54.721Z"
+}
