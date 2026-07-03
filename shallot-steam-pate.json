@@ -1,0 +1,62 @@
+{
+  "slug": "shallot-steam-pate",
+  "title": "Steamed Shallot Pâté",
+  "description": "A simple and elegant appetizer made with steamed shallots pureed into a rich pâté.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shallots",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Cream",
+      "amount": "1/4 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Steam the shallots until tender, about 10-12 minutes.",
+    "Let the shallots cool slightly.",
+    "In a blender or food processor, puree the shallots with the butter, cream, salt, and pepper until smooth.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the pâté warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/shallot-steam-pate",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:14:13.028Z"
+}
