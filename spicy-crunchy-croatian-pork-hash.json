@@ -1,0 +1,82 @@
+{
+  "slug": "spicy-crunchy-croatian-pork-hash",
+  "title": "Croatian Pork Hash with Spicy Crunch",
+  "description": "A flavorful and spicy breakfast dish packed with crispy hash browns and savory pork.",
+  "cuisine": "croatian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Hash browns",
+      "amount": "1 cup",
+      "notes": "shredded and crispy"
+    },
+    {
+      "name": "Spicy peppers",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large skillet, cook the pork shoulder over medium-high heat until browned on all sides and cooked through.",
+    "Remove the pork from the skillet and let it rest.",
+    "In the same skillet, add the hash browns and cook until crispy and golden brown.",
+    "Add the sliced peppers and chopped onion to the skillet and cook until the vegetables are softened.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Slice the rested pork into thin strips and add it to the skillet.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a serving dish and serve hot.",
+    "Garnish with additional hash browns and spicy peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "croatian",
+    "pork",
+    "spicy",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-crunchy-croatian-pork-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:55:48.671Z"
+}
