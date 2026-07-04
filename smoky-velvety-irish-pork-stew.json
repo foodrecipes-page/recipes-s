@@ -1,0 +1,73 @@
+{
+  "slug": "smoky-velvety-irish-pork-stew",
+  "title": "Irish Stew",
+  "description": "A hearty, comforting stew from Ireland, perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish stew meat",
+      "amount": "1 pound",
+      "notes": "such as beef or pork"
+    },
+    {
+      "name": "smoky bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "velvety Guinness stout",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Brown the bacon in a large pot over medium heat.",
+    "Remove the bacon from the pot and set aside.",
+    "Add the stew meat to the pot and cook until browned.",
+    "Add the onion, carrot, and potato to the pot.",
+    "Pour in the Guinness stout and bring to a boil.",
+    "Return the bacon to the pot and reduce heat to low.",
+    "Simmer for 2 hours or until the meat is tender.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pork",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-velvety-irish-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:35:25.138Z"
+}
