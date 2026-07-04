@@ -1,0 +1,63 @@
+{
+  "slug": "spicy-crusty-flour-crumble",
+  "title": "Spicy Crusty Bread",
+  "description": "A flavorful bread recipe with a spicy kick and a crunchy crust. Perfect for snacking or serving with soups and stews.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "spicy",
+      "amount": "1/2 teaspoon",
+      "notes": "red pepper flakes"
+    },
+    {
+      "name": "crusty",
+      "amount": "1/4 cup",
+      "notes": "crusty breadcrumbs"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large mixing bowl, combine flour, spicy, and crusty. Mix well.",
+    "Gradually add water to the dry ingredients, stirring until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Shape the dough into a round or oblong shape.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Remove from oven and let cool for 5 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "bread",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-crusty-flour-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:29:56.676Z"
+}
