@@ -1,0 +1,83 @@
+{
+  "slug": "smoky-velvety-polish-beets-salad",
+  "title": "Smoked Beet Salad",
+  "description": "A refreshing salad featuring smoky beets, velvety goat cheese, and a hint of polish dill.",
+  "cuisine": "european",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "any color, but smoky is preferred"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "velvety texture"
+    },
+    {
+      "name": "polish dill",
+      "amount": "1/4 cup, chopped fresh",
+      "notes": "or substitute with regular dill"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups, mixed greens",
+      "notes": "arugula, spinach, lettuce, etc."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Wrap beets in foil and roast for 45 minutes, or until tender.",
+    "Let beets cool, then peel and slice into wedges.",
+    "In a large bowl, combine greens, beets, goat cheese, and dill.",
+    "In a small bowl, whisk together olive oil and balsamic vinegar.",
+    "Drizzle dressing over salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "beet",
+    "goat-cheese",
+    "dill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-velvety-polish-beets-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:47:01.434Z"
+}
