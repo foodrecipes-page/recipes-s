@@ -1,0 +1,68 @@
+{
+  "slug": "sweet-sesame-portuguese-stew",
+  "title": "Portuguese Sweet Stew",
+  "description": "A traditional Portuguese stew made with sweet potatoes and a hint of sesame. Perfect for a warm and cozy evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "portuguese stew seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add chopped onion and sauté until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add sweet potatoes, portuguese stew seasoning, and water to the pot.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20-25 minutes or until sweet potatoes are tender.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese-stew",
+    "sweet-potatoes",
+    "sesame-oil",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-sesame-portuguese-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:03:12.121Z"
+}
