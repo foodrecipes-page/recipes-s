@@ -2337,17 +2337,16 @@
   },
   {
     "slug": "satisfying-earthy-british-provola-ploughmans-lunch",
-    "title": "Earthy British Provola Ploughmans Lunch",
+    "title": "Traditional British Ploughman's Lunch",
     "tags": [
       "british",
-      "earthy",
-      "easy-to-make",
-      "healthy",
       "lunch",
-      "vegetarian"
+      "easy",
+      "cheese",
+      "bread"
     ],
     "cuisine": "British",
-    "totalTimeMin": 20,
+    "totalTimeMin": 10,
     "shard": "s"
   },
   {
@@ -2827,15 +2826,16 @@
   },
   {
     "slug": "savory-crisp-festive-low-carb-crostini",
-    "title": "Savory Crisp Festive Low Carb Crostini",
+    "title": "Festive Low Carb Crostini",
     "tags": [
-      "savory",
-      "crisp",
-      "festive",
-      "low-carb"
+      "low-carb",
+      "gluten-free",
+      "appetizer",
+      "snack",
+      "festive"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -3073,17 +3073,16 @@
   },
   {
     "slug": "savory-crumble-garlic-american-stir-fry",
-    "title": "Savory Crumble Garlic American Stir-fry",
+    "title": "Garlic Crumble Savory Stir Fry",
     "tags": [
       "savory",
       "crumble",
       "garlic",
-      "american",
-      "stir-fry",
-      "keto-friendly"
+      "stirfry",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -5908,17 +5907,15 @@
   },
   {
     "slug": "savory-smoky-moroccan-eggplant-zaalouk",
-    "title": "Savory Smoky Moroccan Eggplant Zaalouk",
+    "title": "Smoky Zaalouk Eggplant Stew",
     "tags": [
-      "cozy",
-      "flexitarian",
+      "eggplant",
       "moroccan",
-      "one-pan",
-      "smoky",
+      "stew",
       "vegetarian"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "cuisine": "moroccan",
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -9520,17 +9517,16 @@
   },
   {
     "slug": "silky-citrus-venezuelan-beef-curry",
-    "title": "Silky Citrus Venezuelan Beef Curry",
+    "title": "Venezuelan Beef Curry with Citrus",
     "tags": [
-      "whole30-friendly",
-      "beef-curry",
-      "citrus",
-      "silky",
-      "date-night",
-      "latin-american"
+      "beef",
+      "curry",
+      "venezuelan",
+      "lunch",
+      "main-course"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 80,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -14388,9 +14384,14 @@
   {
     "slug": "smoky-british-beef-bowl",
     "title": "Smoky British Beef Bowl",
-    "tags": [],
-    "cuisine": "British",
-    "totalTimeMin": null,
+    "tags": [
+      "beef",
+      "bbq",
+      "british",
+      "comfort-food"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 180,
     "shard": "s"
   },
   {
@@ -14998,18 +14999,14 @@
   },
   {
     "slug": "smoky-chinese-dried-white-navy-beans-stew",
-    "title": "Smoky Chinese Dried White Navy Beans Stew",
+    "title": "Hearty Smoky Stew",
     "tags": [
-      "chinese",
       "stew",
-      "highprotein",
-      "driedbeans",
-      "smoky",
-      "vegetarian",
-      "hearty"
+      "comfort-food",
+      "vegetarian"
     ],
-    "cuisine": "chinese",
-    "totalTimeMin": 75,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -18341,17 +18338,14 @@
   },
   {
     "slug": "smoky-japanese-kombu-bisque",
-    "title": "Smoky Japanese Kombu Bisque",
+    "title": "Smoky Japanese Kombu Soup",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
+      "soup",
       "japanese-cuisine",
-      "low-carb",
-      "mason-jar-recipes",
-      "seafood-free"
+      "umami"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -20281,15 +20275,16 @@
   },
   {
     "slug": "smoky-roasted-ghee-pilaf",
-    "title": "Smoky Roasted Ghee Pilaf",
+    "title": "Pan-Seared Chicken Pilaf with Ghee and Smoky Flavor",
     "tags": [
-      "smoky-roasted-ghee-pilaf",
-      "spicy-dense-middle-eastern",
-      "show-off-chefs-cuisine",
-      "paleo-friendly"
+      "chicken",
+      "pilaf",
+      "ghee",
+      "smoky-spice",
+      "indian"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -34224,19 +34219,16 @@
   },
   {
     "slug": "sweet-creamy-norwegian-almonds-pilaf",
-    "title": "Sweet Creamy Norwegian Almonds Pilaf",
+    "title": "Norwegian Almond Pilaf",
     "tags": [
-      "almonds",
-      "cream",
-      "dessert",
-      "european",
-      "low-carb",
       "norwegian",
-      "one-pot",
-      "sweet"
+      "pilaf",
+      "almonds",
+      "creamy",
+      "vegetarian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -35998,17 +35990,15 @@
   },
   {
     "slug": "sweet-sesame-portuguese-stew",
-    "title": "Sweet Sesame Portuguese Stew",
+    "title": "Portuguese Sweet Stew",
     "tags": [
-      "complex-recipe",
-      "gluten-free",
-      "indulgent",
-      "portuguese-cuisine",
-      "special-occasion",
-      "sugar-free"
+      "portuguese-stew",
+      "sweet-potatoes",
+      "sesame-oil",
+      "vegetarian"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
