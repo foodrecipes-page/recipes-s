@@ -1,0 +1,85 @@
+{
+  "slug": "smoky-british-beef-bowl",
+  "title": "Smoky British Beef Bowl",
+  "description": "A hearty beef bowl with smoky flavors, inspired by British cuisine. Perfect for a cold evening.",
+  "cuisine": "british",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Chuck or brisket work well"
+    },
+    {
+      "name": "Smoky BBQ Sauce",
+      "amount": "250ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "British Ale",
+      "amount": "60ml",
+      "notes": "For braising liquid"
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "to taste",
+      "notes": "Garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (325°F).",
+    "Season the beef with salt and pepper. In a large Dutch oven, sear the beef over medium-high heat until browned on all sides.",
+    "Remove the beef from the pot, set aside. Add the chopped onion and sauté until softened.",
+    "Add the garlic, sauté for 1 minute.",
+    "Add the sliced carrots and potatoes, sauté for 5 minutes.",
+    "Add the British Ale, bring to a simmer. Return the beef to the pot.",
+    "Transfer the pot to the preheated oven and cook for 2.5 hours, or until the beef is tender.",
+    "Remove the pot from the oven, stir in the smoky BBQ sauce. Return the pot to the stovetop and simmer over medium heat.",
+    "Let the beef rest for 10 minutes before slicing. Serve the beef with the braised vegetables and garnish with chopped parsley.",
+    "Serve hot, enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "bbq",
+    "british",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-british-beef-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:40:38.001Z"
+}
