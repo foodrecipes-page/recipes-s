@@ -1,0 +1,77 @@
+{
+  "slug": "spicy-crumbly-malaysian-chicken-satay",
+  "title": "Malaysian Chicken Satay",
+  "description": "A classic Southeast Asian dish featuring marinated chicken skewers grilled to perfection. Serve with peanut sauce for an authentic experience.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "spicy peanut butter",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "crumbly rice flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for grilling"
+    },
+    {
+      "name": "satay sauce",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together peanut butter, coconut milk, and 1 tsp of salt. Add the chicken and mix until well coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "In a shallow dish, mix together rice flour and a pinch of salt. Toss the skewers in the flour mixture to coat.",
+    "Heat the vegetable oil in a large grill pan over medium-high heat. Grill the skewers for 8-10 minutes, turning frequently, until cooked through.",
+    "Serve the satay hot with peanut sauce and chopped peanuts.",
+    "Note: For an authentic experience, serve the satay with ketupat or nasi lemak."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "grilled",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-crumbly-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:23:43.350Z"
+}
