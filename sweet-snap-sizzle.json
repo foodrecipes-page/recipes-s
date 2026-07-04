@@ -1,0 +1,57 @@
+{
+  "slug": "sweet-snap-sizzle",
+  "title": "Sweet Sizzle Stir-Fry",
+  "description": "A quick and easy stir-fry recipe made with sizzle, sweet, and snap ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sizzle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sweet",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Snap",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "2. Add the Sizzle and sauté for 2-3 minutes until tender.",
+    "3. Add the Sweet and snap, and stir-fry for 3-4 minutes until the vegetables are tender-crisp.",
+    "4. Season with salt and pepper to taste.",
+    "5. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-snap-sizzle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:11:01.337Z"
+}
