@@ -1,69 +1,65 @@
 {
   "slug": "savory-shaggy-venezuelan-eggplant-skewers",
-  "title": "Venezuelan Eggplant Skewers",
-  "description": "A flavorful and colorful dish that combines the sweetness of eggplant with the savory taste of venezuelan spices.",
-  "cuisine": "Latin American",
+  "title": "Venezuelan-Style Grilled Eggplant",
+  "description": "A flavorful and aromatic eggplant dish inspired by Venezuelan cuisine, featuring a savory eggplant as the main ingredient.",
+  "cuisine": "Venezuelan",
   "diet": [
     "vegetarian"
   ],
-  "meal": "snack",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "eggplant",
-      "amount": "2 medium",
-      "notes": "cut into 1-inch cubes"
+      "name": "Savory",
+      "amount": "2 cups",
+      "notes": "chopped"
     },
     {
-      "name": "savory",
-      "amount": "2 tbsp",
-      "notes": " Venezuelan seasoning blend"
-    },
-    {
-      "name": "shaggy",
-      "amount": "1 bunch",
-      "notes": "scallions, chopped"
-    },
-    {
-      "name": "skewers",
-      "amount": "10 wooden",
-      "notes": "for grilling"
-    },
-    {
-      "name": "olive oil",
-      "amount": "2 tbsp",
-      "notes": "for brushing"
-    },
-    {
-      "name": "garlic",
+      "name": "Shaggy",
       "amount": "2 cloves",
       "notes": "minced"
+    },
+    {
+      "name": "Venezuelan",
+      "amount": "2 tbsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10 wooden skewers",
+      "notes": ""
     }
   ],
   "instructions": [
     "Preheat grill to medium-high heat.",
-    "Thread eggplant, scallions, and garlic onto skewers.",
-    "Brush skewers with olive oil and season with Venezuelan seasoning blend.",
-    "Grill skewers for 10-12 minutes, turning occasionally.",
-    "Serve hot, garnished with additional scallions if desired."
+    "In a small bowl, mix together savory, shaggy, and Venezuelan.",
+    "Brush both sides of eggplant slices with the savory mixture.",
+    "Thread eggplant slices onto the skewers, leaving a small space between each slice.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until eggplant is tender and slightly charred.",
+    "Serve hot, garnished with additional savory and shaggy if desired."
   ],
-  "prepTimeMin": 15,
+  "prepTimeMin": 10,
   "cookTimeMin": 10,
-  "totalTimeMin": 25,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "veggie",
+    "eggplant",
     "grilled",
-    "latin"
+    "veggie"
   ],
   "nutrition": {
     "calories": 120,
-    "protein": 3,
+    "protein": 2,
     "carbs": 20,
-    "fat": 5
+    "fat": 2
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/savory-shaggy-venezuelan-eggplant-skewers",
   "providerUsed": "groq",
-  "createdAt": "2026-07-02T03:42:54.294Z"
+  "createdAt": "2026-07-03T09:59:43.393Z"
 }
