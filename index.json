@@ -4673,16 +4673,15 @@
   },
   {
     "slug": "savory-korean-peanut-grill",
-    "title": "Savory Korean Peanut Grill",
+    "title": "Peanut Korean BBQ Beef",
     "tags": [
-      "gluten-free",
       "korean",
-      "low-carb",
-      "one-pot",
-      "quick",
-      "savory"
+      "bbq",
+      "peanut",
+      "grill",
+      "beef"
     ],
-    "cuisine": "korean",
+    "cuisine": "Korean",
     "totalTimeMin": 25,
     "shard": "s"
   },
@@ -9934,14 +9933,15 @@
   },
   {
     "slug": "silky-haricot-surprise",
-    "title": "Silky Haricot Surprise",
+    "title": "Haricot Surprise Delight",
     "tags": [
-      "silky",
-      "haricot beans",
-      "snack"
+      "vegetarian",
+      "lunch",
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -12135,17 +12135,15 @@
   },
   {
     "slug": "slow-cured-canadian-salmon-pilaf",
-    "title": "Slow Cured Canadian Salmon Pilaf",
+    "title": "Cured Salmon Pilaf",
     "tags": [
-      "canadian-cuisine",
-      "diabetic-friendly",
-      "gluten-free",
-      "one-pan",
-      "seafood",
-      "slow-cooked"
+      "canadian",
+      "salmon",
+      "pilaf",
+      "easy"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "cuisine": "canadian",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -23438,19 +23436,16 @@
   },
   {
     "slug": "smoky-zesty-cold-egyptian-tamarind-tagine",
-    "title": "Smoky Zesty Cold Egyptian Tamarind Tagine",
+    "title": "Smoky Chicken Tagine",
     "tags": [
-      "cold",
-      "dessert",
-      "egg-free",
-      "fish-free",
-      "gluten-free",
-      "palm-oil-free",
+      "north-african",
+      "chicken",
+      "tagine",
       "smoky",
-      "vegan"
+      "spicy"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "s"
   },
   {
@@ -27255,14 +27250,14 @@
   },
   {
     "slug": "sour-yolk-jamaican-stir-fry",
-    "title": "Sour Yolk Jamaican Stir-fry",
+    "title": "Jamaican Fried Egg",
     "tags": [
+      "breakfast",
+      "egg",
       "jamaican",
-      "sour",
-      "egg-yolk",
-      "pickled"
+      "spicy"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "Caribbean",
     "totalTimeMin": 8,
     "shard": "s"
   },
