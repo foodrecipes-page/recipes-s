@@ -1,0 +1,67 @@
+{
+  "slug": "smoky-cheesy-syrian-tofu-casserole",
+  "title": "Smoky Cheesy Casserole",
+  "description": "A smoky, cheesy casserole made with Syrian ingredients, perfect as a snack or light meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "extra-firm"
+    },
+    {
+      "name": "Smoky",
+      "amount": "1 can",
+      "notes": "chopped, smoked paprika"
+    },
+    {
+      "name": "Cheesy",
+      "amount": "1 cup",
+      "notes": "shredded, mozzarella"
+    },
+    {
+      "name": "Syrian",
+      "amount": "1 package",
+      "notes": "pita chips"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 package",
+      "notes": "mix, contains pasta, cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions.",
+    "Crumble the tofu into a bowl and add smoked paprika.",
+    "Mix in the shredded cheese and cooked pasta.",
+    "Top with pita chips and casserole mix.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes.",
+    "Serve hot and enjoy!",
+    "Optional: Add some chopped fresh herbs, like parsley or cilantro, for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "veggie-casserole",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-cheesy-syrian-tofu-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:44:04.965Z"
+}
