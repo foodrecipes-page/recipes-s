@@ -1,0 +1,90 @@
+{
+  "slug": "savory-light-chinese-duck-stir-fry",
+  "title": "Crispy Duck Stir Fry",
+  "description": "A savory and light Chinese dish made with crispy duck and stir-fried vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "sauce-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1",
+      "notes": "Fresh duck breast"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "100g",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Cut the duck breast into thin slices and season with salt and pepper.",
+    "2. Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "3. Add the duck slices and cook for 2-3 minutes per side, until crispy and cooked through.",
+    "4. Remove the duck from the wok and set aside.",
+    "5. In the same wok, add the remaining 1 tablespoon of vegetable oil.",
+    "6. Add the minced garlic and sliced ginger and stir-fry for 1 minute.",
+    "7. Add the sliced bell pepper and onion and stir-fry for 2-3 minutes, until tender.",
+    "8. Add the snow peas and stir-fry for 1 minute, until tender.",
+    "9. Return the cooked duck to the wok and stir in the soy sauce (if using).",
+    "10. Serve the duck and vegetables hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "duck",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-light-chinese-duck-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:01:02.774Z"
+}
