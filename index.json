@@ -5517,17 +5517,14 @@
   },
   {
     "slug": "savory-sharp-british-sauerkraut-pasties",
-    "title": "Savory Sharp British Sauerkraut Pasties",
+    "title": "Traditional British Pasties",
     "tags": [
       "british",
-      "cheesy",
-      "pastries",
-      "savory",
-      "snack",
-      "vegetarian"
+      "beef",
+      "pastries"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 45,
+    "cuisine": "british",
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -16649,18 +16646,15 @@
   },
   {
     "slug": "smoky-energizing-norwegian-lamb-grill",
-    "title": "smoky energizing norwegian lamb grill",
+    "title": "Norwegian Lamb Kebabs",
     "tags": [
-      "energizing",
+      "kebabs",
+      "lamb",
       "grill",
-      "high-protein",
-      "norwegian",
-      "one-pan",
-      "smoky",
-      "weeknight"
+      "norwegian"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "scandinavian",
+    "totalTimeMin": 33,
     "shard": "s"
   },
   {
@@ -18261,17 +18255,16 @@
   },
   {
     "slug": "smoky-jamaican-eggs-stew",
-    "title": "Smoky Jamaican Eggs Stew",
+    "title": "Smoky Jamaican Stew",
     "tags": [
       "smoky",
-      "creamy",
       "jamaican",
-      "egg-stew",
-      "low-fat",
-      "breakfast"
+      "stew",
+      "eggs",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 20,
+    "cuisine": "caribbean",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -27820,9 +27813,14 @@
   {
     "slug": "spicy-canadian-pork-roast",
     "title": "Spicy Canadian Pork Roast",
-    "tags": [],
+    "tags": [
+      "canadian",
+      "pork",
+      "roast",
+      "spicy"
+    ],
     "cuisine": "Canadian",
-    "totalTimeMin": null,
+    "totalTimeMin": 200,
     "shard": "s"
   },
   {
