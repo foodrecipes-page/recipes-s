@@ -1,0 +1,84 @@
+{
+  "slug": "savory-crispy-turkish-lamb-stir-fry",
+  "title": "Crispy Lamb Koftas",
+  "description": "A classic Turkish-inspired dish featuring crispy lamb koftas, perfect for a quick dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": "Make sure to choose a good quality lamb for the best flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Panko breadcrumbs work well"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or grill pan to medium-high heat.",
+    "In a large bowl, mix together the ground lamb, onion, garlic, breadcrumbs, egg, salt, and black pepper.",
+    "Using your hands, shape the mixture into small koftas, about 1 1/2 inches in diameter.",
+    "Brush the koftas with a little bit of oil to prevent sticking.",
+    "Place the koftas on the grill and cook for 4-5 minutes per side, or until they are cooked through.",
+    "While the koftas are cooking, mix together the chopped parsley and a squeeze of lemon juice.",
+    "Once the koftas are done, place them on a plate and serve with the parsley mixture on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "turkish",
+    "kebab",
+    "grill",
+    "koftas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-crispy-turkish-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:46:59.222Z"
+}
