@@ -692,16 +692,15 @@
   },
   {
     "slug": "salty-crunchy-russian-tomatoes-blini",
-    "title": "Salty Crunchy Russian Tomatoes Blini",
+    "title": "Russian Blini with Smoked Salmon and Tomato",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "post-workout",
       "russian",
-      "weeknight"
+      "breakfast",
+      "salmon",
+      "tomato"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -11307,10 +11306,14 @@
   },
   {
     "slug": "silky-sweet-norwegian-salmon-roast",
-    "title": "Silky Sweet Norwegian Salmon Roast",
-    "tags": [],
-    "cuisine": "Norwegian",
-    "totalTimeMin": null,
+    "title": "Pan-Seared Norwegian Salmon with Roast Vegetables",
+    "tags": [
+      "pan-seared",
+      "salmon",
+      "roast-vegetables"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -26038,16 +26041,14 @@
   },
   {
     "slug": "sour-fluffy-tunisian-chicken-stir-fry",
-    "title": "Sour Fluffy Tunisian Chicken Stir-fry",
+    "title": "Tunisian Chicken Fry",
     "tags": [
-      "tunisian",
-      "sour-fluffy-chicken",
-      "chili-flakes",
-      "sous-vide",
-      "high-protein-friendly"
+      "north-african",
+      "chicken",
+      "quick-meal"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -26154,18 +26155,16 @@
   },
   {
     "slug": "sour-gooey-jamaican-raisin-crumble",
-    "title": "Sour Gooey Jamaican Raisin Crumble",
+    "title": "Jamaican Crumble Oat Bars",
     "tags": [
-      "sour",
-      "gooey",
-      "jamaican",
-      "post-workout",
-      "raisin",
-      "bake",
-      "fodmap-friendly"
+      "caribbean",
+      "oatmeal",
+      "rum",
+      "bars",
+      "snack"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "caribbean",
+    "totalTimeMin": 55,
     "shard": "s"
   },
   {
@@ -31973,17 +31972,15 @@
   },
   {
     "slug": "spring-sweet-vietnamese-vialone-nano-pilaf",
-    "title": "Spring Sweet Vietnamese Vialone Nano Pilaf",
+    "title": "Vietnamese Rice Bowl",
     "tags": [
-      "one-pot",
-      "shojin-friendly",
-      "spring-inspired",
-      "vegan",
+      "vietnamese",
+      "ricebowl",
       "vegetarian",
-      "vietnamese-cuisine"
+      "glutenfree"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -38379,6 +38376,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 60,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-zesty-brazillian-chicken-air-fry--french",
+    "title": "Brazillian Chicken Fry",
+    "tags": [
+      "french",
+      "chicken",
+      "fry",
+      "spicy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
