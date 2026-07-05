@@ -1,0 +1,89 @@
+{
+  "slug": "slow-simmered-venezuelan-beef-stew",
+  "title": "Beef Stew",
+  "description": "A hearty and flavorful beef stew originating from Venezuela, slow-cooked to perfection.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, then set aside.",
+    "Reduce heat to medium and cook the onion until softened, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add tomato paste (if using) and cook for 1 minute.",
+    "Add beef broth, potatoes, carrots, salt, and black pepper.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the meat is tender.",
+    "Serve hot, garnished with fresh herbs (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "stew",
+    " venezuelan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/slow-simmered-venezuelan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:57:34.888Z"
+}
