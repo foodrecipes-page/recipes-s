@@ -1,0 +1,83 @@
+{
+  "slug": "smoky-lemon-stir-fry",
+  "title": "Smoky Shrimp Stir Fry",
+  "description": "A quick and flavorful stir fry made with succulent shrimp and smoky flavors, served with a squeeze of lemon.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Smoky Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add shrimp and stir-fry for 2-3 minutes, until pink and cooked through.",
+    "Add smoky sauce, lemon juice, and soy sauce. Stir-fry for an additional 1-2 minutes.",
+    "Add snow peas and stir-fry until tender.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately over rice or noodles.",
+    "Garnish with lemon wedges, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "stir-fry",
+    "shrimp",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-lemon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:48:58.411Z"
+}
