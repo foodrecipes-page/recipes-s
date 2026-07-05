@@ -9773,10 +9773,14 @@
   },
   {
     "slug": "silky-floral-norwegian-cod-stew",
-    "title": "Silky Floral Norwegian Cod Stew",
-    "tags": [],
-    "cuisine": "Norwegian",
-    "totalTimeMin": null,
+    "title": "Pan-Seared Cod with Norwegian Stew",
+    "tags": [
+      "scandinavian",
+      "fish",
+      "gluten-free"
+    ],
+    "cuisine": "scandinavian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -14143,15 +14147,16 @@
   },
   {
     "slug": "smoky-australian-kangaroo-stew",
-    "title": "Smoky Kangaroo Stew",
+    "title": "Smoky Australian Kangaroo Stew",
     "tags": [
       "australian",
-      "smoky",
       "kangaroo",
-      "stew"
+      "smoky",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 170,
     "shard": "s"
   },
   {
