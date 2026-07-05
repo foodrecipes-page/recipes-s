@@ -1,0 +1,76 @@
+{
+  "slug": "savory-venezuelan-ciabatta-sandwich",
+  "title": "Pabellón Criollo Sandwich",
+  "description": "A Venezuelan-inspired sandwich featuring shredded beef, plantains, and melted cheese, served on crusty ciabatta bread.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shredded Beef (Pabellón Criollo)",
+      "amount": "8 oz",
+      "notes": "Cooked to 160°F (71°C)"
+    },
+    {
+      "name": "Mai Tai Plantains",
+      "amount": "2 cups",
+      "notes": "Sliced and sautéed"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz",
+      "notes": "Shredded and melted"
+    },
+    {
+      "name": "Ciabatta Bread",
+      "amount": "2 loaves",
+      "notes": "Sliced into thick rounds"
+    },
+    {
+      "name": "Savory Seasoning",
+      "amount": "1 tsp",
+      "notes": "Blend of herbs and spices"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the shredded beef with savory seasoning and salt.",
+    "Grill the beef for 3-4 minutes per side, or until cooked to 160°F (71°C).",
+    "Meanwhile, sauté the sliced plantains in a skillet until caramelized and tender.",
+    "Assemble the sandwiches by spreading a layer of plantains on the bottom slice of bread.",
+    "Add a layer of shredded beef on top of the plantains.",
+    "Sprinkle shredded mozzarella cheese over the beef.",
+    "Top with the remaining slice of bread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "beef",
+    "cheese",
+    "plantains",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-venezuelan-ciabatta-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T07:57:43.545Z"
+}
