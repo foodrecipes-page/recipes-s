@@ -1,0 +1,79 @@
+{
+  "slug": "sous-vide-crispy-german-chuck-roast",
+  "title": "Crispy Sous Vide Chuck Roast with German Seasoning",
+  "description": "A tender and flavorful roast made with a sous vide machine and crispy German seasoning.",
+  "cuisine": "German",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chuck Roast",
+      "amount": "1.5 kg",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Sous Vide Machine",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Crispy German Seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 130°C (266°F).",
+    "Season the chuck roast with salt and black pepper.",
+    "Sear the roast in a hot pan for 2-3 minutes on each side.",
+    "Place the roast in the sous vide machine and cook for 24 hours.",
+    "Remove the roast from the sous vide machine and sear it again in the hot pan for 2-3 minutes on each side.",
+    "Brush the roast with unsalted butter and sprinkle with crispy German seasoning.",
+    "If desired, add a splash of red wine to the pan and simmer for 2-3 minutes.",
+    "Let the roast rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1455,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-roast",
+    "under-24-hour-cooking",
+    "beef",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 0,
+    "fat": 50
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-crispy-german-chuck-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:01:19.509Z"
+}
