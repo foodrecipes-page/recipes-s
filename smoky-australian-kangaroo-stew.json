@@ -1,90 +1,89 @@
 {
   "slug": "smoky-australian-kangaroo-stew",
-  "title": "Smoky Kangaroo Stew",
-  "description": "A hearty Australian-inspired stew made with tender kangaroo meat, smoky flavors, and a rich, savory broth.",
+  "title": "Smoky Australian Kangaroo Stew",
+  "description": "A hearty and flavorful stew made with tender kangaroo meat, smoky spices, and a mix of Australian herbs.",
   "cuisine": "Australian",
   "diet": [
     "gluten-free",
-    "meat-based"
+    "meat"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "kangaroo steak",
-      "amount": "500g",
-      "notes": ""
+      "amount": "400g",
+      "notes": "cut into 2cm cubes"
     },
     {
-      "name": "smoky bacon",
-      "amount": "6 slices",
-      "notes": ""
+      "name": "veggie oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
     },
     {
       "name": "onion",
       "amount": "1 large",
-      "notes": ""
+      "notes": "chopped"
     },
     {
       "name": "garlic",
       "amount": "3 cloves",
-      "notes": ""
+      "notes": "minced"
     },
     {
-      "name": "carrots",
-      "amount": "4 medium",
-      "notes": ""
+      "name": "smoky paprika",
+      "amount": "1 tsp"
     },
     {
-      "name": "potatoes",
-      "amount": "2 large",
-      "notes": ""
+      "name": "dried thyme",
+      "amount": "1 tsp"
     },
     {
       "name": "beef broth",
-      "amount": "2 cups",
-      "notes": ""
+      "amount": "250ml"
+    },
+    {
+      "name": "red wine",
+      "amount": "125ml"
     },
     {
       "name": "tomato paste",
-      "amount": "2 tbsp",
-      "notes": ""
+      "amount": "2 tbsp"
     },
     {
-      "name": "smoked paprika",
-      "amount": "1 tsp",
-      "notes": ""
+      "name": "bay leaves",
+      "amount": "2"
     }
   ],
   "instructions": [
-    "Heat oil in a large Dutch oven over medium-high heat.",
-    "Add bacon and cook until crispy. Remove bacon and set aside.",
-    "Add kangaroo steak and cook until browned on all sides. Remove kangaroo and set aside with bacon.",
-    "Add onion and garlic to the pot and cook until softened.",
-    "Add carrots and potatoes to the pot and cook for 5 minutes.",
-    "Add beef broth, tomato paste, smoked paprika, and browned kangaroo back to the pot.",
-    "Bring to a boil, then reduce heat to low and simmer for 1.5 hours, or until kangaroo is tender.",
+    "Heat oil in a large Dutch oven over medium-high heat. Brown the kangaroo in batches, then set aside.",
+    "Reduce heat to medium and sauté the onion and garlic until softened.",
+    "Add the smoky paprika and thyme; cook for 1 minute.",
+    "Add the beef broth, red wine, tomato paste, and browned kangaroo. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1.5 hours, or until the kangaroo is tender.",
     "Season with salt and pepper to taste.",
-    "Serve hot, garnished with crispy bacon and fresh parsley."
+    "Remove the bay leaves and serve hot.",
+    "Enjoy with crusty bread or over mashed potatoes."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 90,
-  "totalTimeMin": 110,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "australian",
-    "smoky",
     "kangaroo",
-    "stew"
+    "smoky",
+    "stew",
+    "hearty"
   ],
   "nutrition": {
     "calories": 420,
     "protein": 55,
     "carbs": 15,
-    "fat": 20
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/smoky-australian-kangaroo-stew",
   "providerUsed": "groq",
-  "createdAt": "2026-07-02T11:17:52.050Z"
+  "createdAt": "2026-07-03T12:59:51.352Z"
 }
