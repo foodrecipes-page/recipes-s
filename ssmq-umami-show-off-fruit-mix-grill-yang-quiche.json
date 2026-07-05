@@ -1,0 +1,84 @@
+{
+  "slug": "ssmq-umami-show-off-fruit-mix-grill-yang-quiche",
+  "title": "Grilled Yang Quiche",
+  "description": "A savory quiche filled with the umami flavors of grilled yang and topped with fruit for a sweet surprise.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yang",
+      "amount": "1 cup",
+      "notes": "grilled and diced"
+    },
+    {
+      "name": "off",
+      "amount": "1 cup",
+      "notes": "grilled and diced"
+    },
+    {
+      "name": "show",
+      "amount": "1/2 cup",
+      "notes": "grilled and diced"
+    },
+    {
+      "name": "mix",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "ssmq",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "fruit",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tbsp",
+      "notes": "powdered"
+    },
+    {
+      "name": "quiche",
+      "amount": "1 whole",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the quiche crust and place on a baking sheet.",
+    "In a skillet, grill the yang, off, and show until tender.",
+    "In a bowl, mix together the grilled ingredients, mix, ssmq, and umami.",
+    "Pour the quiche mixture into the crust and top with fruit.",
+    "Bake for 25-30 minutes or until the quiche is set.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm, sliced into wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "savory",
+    "quiche"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ssmq-umami-show-off-fruit-mix-grill-yang-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T10:11:33.557Z"
+}
