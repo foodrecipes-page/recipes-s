@@ -4714,18 +4714,14 @@
   },
   {
     "slug": "savory-light-chinese-duck-stir-fry",
-    "title": "Savory Light Chinese Duck Stir-fry",
+    "title": "Crispy Duck Stir Fry",
     "tags": [
       "chinese",
-      "easy-to-make",
-      "hangover-cure",
-      "high-protein",
-      "one-pan",
-      "stir-fry",
-      "weeknight"
+      "duck",
+      "stir-fry"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 27,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -7035,15 +7031,16 @@
   },
   {
     "slug": "savory-venezuelan-ciabatta-sandwich",
-    "title": "Savory Venezuelan Ciabatta Sandwich",
+    "title": "Pabellón Criollo Sandwich",
     "tags": [
-      "savory",
-      "crispy",
-      "venezuela",
-      "meal-prep"
+      "venezuelan",
+      "beef",
+      "cheese",
+      "plantains",
+      "sandwich"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -7090,14 +7087,16 @@
   },
   {
     "slug": "savory-zanzibari-squash-stir-fry",
-    "title": "Savory Zanzibari Squash Stir-fry",
+    "title": "Savory Zanzibari Squash Stir Fry",
     "tags": [
-      "savory-zanzibari",
+      "squash",
       "stir-fry",
-      "whole30-friendly"
+      "savory",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 80,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -38398,6 +38397,19 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 23,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-zesty-brazillian-chicken-air-fry--mexican",
+    "title": "Mexican Chicken Fritters",
+    "tags": [
+      "mexican",
+      "chicken",
+      "snack",
+      "lunch"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "s"
   }
 ]
