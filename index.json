@@ -329,14 +329,15 @@
   },
   {
     "slug": "salty-creamy-yogurt-turkish-stir-fry",
-    "title": "Salty Creamy Yogurt Turkish Stir-fry",
+    "title": "Turkish-Style Yogurt Stir-Fry",
     "tags": [
       "turkish",
       "stir-fry",
-      "mediterranean-friendly"
+      "yogurt",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 18,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -3954,13 +3955,13 @@
   },
   {
     "slug": "savory-fluffy-moroccan-corn-stir-fry",
-    "title": "Savory Fluffy Moroccan Corn Stir-fry",
+    "title": "Moroccan Corn Fritters",
     "tags": [
       "moroccan",
-      "fluffy",
-      "savoury",
-      "sweetcorn",
-      "stir-fry"
+      "corn",
+      "fritters",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 25,
@@ -11613,17 +11614,15 @@
   },
   {
     "slug": "sizzling-kenyan-pork-stir-fry",
-    "title": "Sizzling Kenyan Pork Stir-fry",
+    "title": "Pork Stir Fry with Kenyan Flair",
     "tags": [
-      "crowd-pleaser",
-      "halal-friendly",
-      "kenyan",
-      "one-pan",
-      "quick",
-      "stir-fry"
+      "kenyan-cuisine",
+      "stir-fry",
+      "pork-recipes",
+      "spicy-food"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "cuisine": "kenyan",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -18114,10 +18113,14 @@
   },
   {
     "slug": "smoky-indian-bitter-gourd-curry",
-    "title": "Smoky Indian Bitter Gourd Curry",
-    "tags": [],
+    "title": "Smoky Gourd Curry",
+    "tags": [
+      "gourds",
+      "curry",
+      "indian"
+    ],
     "cuisine": "Indian",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
