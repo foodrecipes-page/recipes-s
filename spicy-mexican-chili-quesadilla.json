@@ -1,0 +1,75 @@
+{
+  "slug": "spicy-mexican-chili-quesadilla",
+  "title": "Spicy Quesadilla Delight",
+  "description": "A flavorful and spicy twist on the classic quesadilla, filled with chili and served with a side of salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chili",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spicy Quesadilla Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Bell Pepper",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "In a bowl, mix together the chili, cumin, garlic powder, onion, and bell pepper.",
+    "Place a tortilla in the skillet and sprinkle shredded cheese on half of it.",
+    "Add a spoonful of the chili mixture on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for another 2 minutes.",
+    "Repeat with the remaining ingredients.",
+    "Cut the quesadillas into wedges and serve with salsa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "quesadilla",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-mexican-chili-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:31:38.866Z"
+}
