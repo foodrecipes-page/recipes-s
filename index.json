@@ -17032,10 +17032,15 @@
   },
   {
     "slug": "smoky-floral-canadian-puff-pastry-tart",
-    "title": "Smoky Floral Canadian Puff Pastry Tart",
-    "tags": [],
-    "cuisine": "Canadian",
-    "totalTimeMin": null,
+    "title": "Smoky Canadian Tart",
+    "tags": [
+      "canadian",
+      "smoky",
+      "pastry",
+      "tart"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -22448,11 +22453,13 @@
     "slug": "smoky-syrian-eggplant-casserole",
     "title": "Smoky Syrian Eggplant Casserole",
     "tags": [
+      "vegetarian",
       "syrian",
-      "dinner"
+      "eggplant",
+      "casserole"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "s"
   },
   {
@@ -26709,14 +26716,14 @@
   },
   {
     "slug": "sour-silky-tomato-stir-fry",
-    "title": "Sour Silky Tomato Stir-fry",
+    "title": "Savory Stir Fry",
     "tags": [
-      "sour-silky",
-      "tomato-stir-fry",
-      "whole30-friendly"
+      "stir-fry",
+      "vegetarian",
+      "easy-dinner"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -33630,16 +33637,14 @@
   },
   {
     "slug": "sweet-and-tantalizing-moroccan-dates-pilaf",
-    "title": "Sweet and Tantalizing Moroccan Dates Pilaf",
+    "title": "Sweet Moroccan Pilaf",
     "tags": [
       "moroccan",
-      "dates",
-      "sweet",
-      "pilaf",
-      "air-fry"
+      "sidedish",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 17,
+    "totalTimeMin": 22,
     "shard": "s"
   },
   {
