@@ -1,0 +1,78 @@
+{
+  "slug": "sour-silky-tomato-stir-fry",
+  "title": "Savory Stir Fry",
+  "description": "A quick and easy stir fry recipe using fresh tomato and a touch of sour flavor.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Silky Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Optional: Fry Garlic",
+      "amount": "minced",
+      "notes": "adds extra flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add minced garlic (if using) and cook for 1 minute.",
+    "Add chopped green onions and cook for 1 minute.",
+    "Add sliced tomatoes and cook until tender.",
+    "Stir in sour cream and soy sauce.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!",
+    "Optional: Add a dash of stir-fry spice for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sour-silky-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:10:46.272Z"
+}
