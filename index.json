@@ -5429,16 +5429,16 @@
   },
   {
     "slug": "savory-scrambled-turkish-eggs-menemen",
-    "title": "Savory Scrambled Turkish Eggs Menemen",
+    "title": "Turkish-Style Scrambled Eggs",
     "tags": [
-      "breakfast",
-      "one-pan",
-      "plant-based",
       "turkish",
-      "weeknight"
+      "breakfast",
+      "eggs",
+      "scrambled",
+      "savory"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 13,
     "shard": "s"
   },
   {
@@ -32757,17 +32757,15 @@
   },
   {
     "slug": "steamy-sweet-japanese-grape-tomatoes-ochazuke",
-    "title": "Steamy Sweet Japanese Grape Tomatoes Ochazuke",
+    "title": "Grilled Tomatoes with Japanese Twist",
     "tags": [
-      "brunch-ideas",
-      "gluten-free",
-      "japanese-inspired",
-      "mediterranean-friendly",
-      "unique-presentation",
-      "vegetarian-options"
+      "grilled",
+      "vegetarian",
+      "japanese",
+      "easy"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
     "shard": "s"
   },
   {
@@ -38328,6 +38326,57 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 22,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-zesty-brazillian-chicken-air-fry--indian",
+    "title": "Spicy Brazillian Chicken Fry",
+    "tags": [
+      "indian",
+      "spicy",
+      "chicken",
+      "fry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-zesty-brazillian-chicken-air-fry--japanese",
+    "title": "Japanese-Style Crispy Chicken",
+    "tags": [
+      "japanese",
+      "fried-chicken",
+      "spicy",
+      "chicken-recipe"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-zesty-brazillian-chicken-air-fry--chinese",
+    "title": "Zesty Chinese-Style Fried Chicken",
+    "tags": [
+      "chicken",
+      "chinese",
+      "fried"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-zesty-brazillian-chicken-air-fry--keto",
+    "title": "Brazilian Keto Chicken Fritters",
+    "tags": [
+      "keto",
+      "chicken",
+      "fritters",
+      "brazilian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 18,
     "shard": "s"
   }
 ]
