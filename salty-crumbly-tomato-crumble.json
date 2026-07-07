@@ -1,0 +1,71 @@
+{
+  "slug": "salty-crumbly-tomato-crumble",
+  "title": "Tomato and Crumble Salad",
+  "description": "A simple salad with a tangy twist, featuring crumbled salty ingredients.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "crumbly salty cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "crumble",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, combine crumbled cheese and diced tomatoes.",
+    "2. Sprinkle crushed crumble over the cheese and tomato mixture.",
+    "3. Drizzle olive oil over the salad.",
+    "4. Season with salt and pepper to taste.",
+    "5. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "snack",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-crumbly-tomato-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:32:20.146Z"
+}
