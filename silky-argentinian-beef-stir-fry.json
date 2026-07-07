@@ -1,0 +1,70 @@
+{
+  "slug": "silky-argentinian-beef-stir-fry",
+  "title": "Argentinian Beef Stir Fry",
+  "description": "A classic Argentinian dish featuring tender beef and a variety of stir-fry vegetables, served with a side of silky rice.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "silky rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    }
+  ],
+  "instructions": [
+    "Marinate the beef strips in soy sauce for 30 minutes.",
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the onion and bell pepper and stir-fry for 3-4 minutes until tender.",
+    "Add the beef strips and stir-fry for an additional 2-3 minutes until cooked through.",
+    "Serve the beef and vegetables over silky rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "beef",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/silky-argentinian-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:35:42.890Z"
+}
