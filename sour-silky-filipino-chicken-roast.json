@@ -1,0 +1,63 @@
+{
+  "slug": "sour-silky-filipino-chicken-roast",
+  "title": "Filipino Roast Chicken",
+  "description": "A classic Filipino dish featuring a savory roast chicken with a tangy twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork-free",
+    "lamb-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole",
+      "notes": "3-4 lbs"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "Filipino-style roast seasoning"
+    },
+    {
+      "name": "sour",
+      "amount": "2 tbsp",
+      "notes": "Filipino-style vinegar or apple cider vinegar"
+    },
+    {
+      "name": "silky",
+      "amount": "1/2 cup",
+      "notes": "coconut milk or heavy cream"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "Rub the roast seasoning all over the chicken.",
+    "In a separate bowl, mix together the sour and silky ingredients.",
+    "Place the chicken in a roasting pan and pour the sour-silky mixture over it.",
+    "Roast the chicken in the preheated oven for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "roast",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sour-silky-filipino-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T05:44:07.698Z"
+}
