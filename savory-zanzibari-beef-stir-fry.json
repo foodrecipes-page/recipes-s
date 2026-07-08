@@ -1,0 +1,82 @@
+{
+  "slug": "savory-zanzibari-beef-stir-fry",
+  "title": "Beef Zanzibari Stir Fry",
+  "description": "A flavorful and spicy stir fry dish with marinated beef, Zanzibari peppers, and savory flavors.",
+  "cuisine": "Asian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "zanzibari peppers",
+      "amount": "2",
+      "notes": "Asian hot peppers"
+    },
+    {
+      "name": "savory",
+      "amount": "2 tsp",
+      "notes": "dried savory herb"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes. Remove from wok and set aside.",
+    "In the same wok, add remaining 1 tbsp of vegetable oil. Add garlic, ginger, and onion. Cook until the onion is translucent.",
+    "Add Zanzibari peppers and cook for 1 minute.",
+    "Add soy sauce and savory. Stir to combine.",
+    "Return beef to the wok. Stir to combine with sauce.",
+    "Cook for an additional 2-3 minutes, until the beef is cooked through.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-zanzibari-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:45:53.259Z"
+}
