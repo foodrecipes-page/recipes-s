@@ -1,0 +1,67 @@
+{
+  "slug": "silky-mexican-yautia-tacos",
+  "title": "Delicious Yautia Tacos",
+  "description": "A flavorful and colorful dish that combines the natural sweetness of yautia with the vibrant flavors of Mexican cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yautia",
+      "amount": "2 medium-sized roots"
+    },
+    {
+      "name": "Tacos shells",
+      "amount": "6-8 shells",
+      "notes": "corn or flour, your choice"
+    },
+    {
+      "name": "Mexican silky cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2 ripe avocados"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Peel the yautia roots and grate them into a large bowl.",
+    "2. Heat a tablespoon of oil in a pan over medium heat and sauté the yautia for 5 minutes.",
+    "3. Warm the tacos shells according to package instructions.",
+    "4. In a separate pan, melt the Mexican silky cheese over low heat.",
+    "5. Assemble the tacos by spooning the yautia mixture onto the warmed shells, followed by a sprinkle of avocado, a drizzle of lime juice, and a sprinkle of cilantro.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "yautia",
+    "tacos",
+    "mexican",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/silky-mexican-yautia-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:05:10.607Z"
+}
