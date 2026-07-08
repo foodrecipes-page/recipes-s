@@ -1,0 +1,72 @@
+{
+  "slug": "spinach-spinanza",
+  "title": "Spinach and Cheese Omelette",
+  "description": "A simple and delicious omelette filled with spinach and cheese, perfect for a quick breakfast.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt and pepper.",
+    "Heat the butter in a small non-stick pan over medium heat.",
+    "Once the butter has melted, add the spinach and cook until wilted.",
+    "Pour the whisked eggs over the spinach and cook until the eggs start to set.",
+    "Sprinkle the shredded cheese over the eggs and use a spatula to gently fold the omelette in half.",
+    "Cook for another minute until the cheese is melted and the eggs are cooked through.",
+    "Slide the omelette out of the pan onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "omelette",
+    "breakfast",
+    "spinach",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spinach-spinanza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:16:05.981Z"
+}
