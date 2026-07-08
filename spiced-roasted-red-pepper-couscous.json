@@ -1,0 +1,71 @@
+{
+  "slug": "spiced-roasted-red-pepper-couscous",
+  "title": "Spicy Couscous Bowl",
+  "description": "A flavorful and nutritious bowl filled with roasted vegetables, spicy couscous, and a hint of roasted red pepper.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "roasted"
+    },
+    {
+      "name": "spiced pepper",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook couscous according to package instructions.",
+    "Roast the red bell pepper in the oven at 375°F (190°C) for 30 minutes.",
+    "Sauté the spiced pepper in olive oil until tender.",
+    "Combine cooked couscous, roasted red pepper, and sautéed spiced pepper.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "vegan",
+    "gluten-free",
+    "lunch",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spiced-roasted-red-pepper-couscous",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:56:44.973Z"
+}
