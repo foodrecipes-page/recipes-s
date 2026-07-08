@@ -1,0 +1,53 @@
+{
+  "slug": "smoke-feast-galangal-wrap",
+  "title": "Galangal Feast Wrap",
+  "description": "A flavorful wrap filled with the aromatic taste of galangal, perfect for a quick and easy meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches"
+    },
+    {
+      "name": "smoke",
+      "amount": "1 tsp smoked paprika"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large flour tortilla"
+    }
+  ],
+  "instructions": [
+    "Grill the galangal over medium heat until slightly charred.",
+    "Mince the grilled galangal.",
+    "In a bowl, mix the minced galangal with smoked paprika.",
+    "Warm the tortilla by wrapping it in a damp cloth and microwaving for 20 seconds.",
+    "Spread the galangal mixture evenly over the tortilla.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "galangal",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoke-feast-galangal-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:13:51.710Z"
+}
