@@ -1,0 +1,92 @@
+{
+  "slug": "smoky-crumbly-beef-crumble",
+  "title": "Smoky Beef Shepherd's Pie",
+  "description": "A hearty, comforting casserole filled with smoky beef and topped with a crispy crumble crust.",
+  "cuisine": "British",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoky beef",
+      "amount": "1 pound",
+      "notes": "ground beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumbly cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": "see below"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brown the smoky beef in a large skillet over medium-high heat.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Sprinkle the flour over the meat mixture and cook for 1 minute.",
+    "Gradually add the beef broth and milk to the skillet, whisking constantly.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Stir in the crumbly cheese until melted.",
+    "Transfer the meat mixture to a 9x13 inch baking dish.",
+    "In a small bowl, mix together the crumble topping ingredients until crumbly.",
+    "Spread the crumble topping evenly over the meat mixture.",
+    "Dot the top of the crumble topping with the butter.",
+    "Bake the shepherd's pie in the preheated oven for 25-30 minutes, or until the crumble topping is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "shepherd-s-pie"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-crumbly-beef-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:10:55.879Z"
+}
