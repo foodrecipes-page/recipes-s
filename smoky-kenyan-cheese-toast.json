@@ -1,0 +1,64 @@
+{
+  "slug": "smoky-kenyan-cheese-toast",
+  "title": "Smoky Kenyan Toast",
+  "description": "A simple and flavorful breakfast dish with smoky spices and a crunchy cheese topping.",
+  "cuisine": "kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "toasted bread",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "smoky cheese",
+      "amount": "2 oz",
+      "notes": null
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "1 tsp",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "a pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    " Toast the bread until lightly browned.",
+    "Sprinkle the kenyan spices over the toast.",
+    "Crumble the smoky cheese over the top of the toast.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 2,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-kenyan-cheese-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:56:49.889Z"
+}
