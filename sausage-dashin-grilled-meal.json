@@ -1,0 +1,65 @@
+{
+  "slug": "sausage-dashin-grilled-meal",
+  "title": "Sausage and Dashin Kabobs",
+  "description": "A flavorful and easy-to-make dish featuring sausage and dashin, perfect for a quick meal.",
+  "cuisine": "american",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausage",
+      "amount": "1 pound",
+      "notes": "any type of sausage works"
+    },
+    {
+      "name": "dashin",
+      "amount": "1 bunch",
+      "notes": "can be substituted with other leafy greens"
+    },
+    {
+      "name": "peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kabobs"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut sausage, peppers, and onion into large chunks.",
+    "Thread chunks onto skewers, leaving space between each piece.",
+    "Brush kabobs with oil and season with salt and pepper.",
+    "Grill kabobs for 8-10 minutes, turning occasionally.",
+    "Serve hot with dashin on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "kabobs",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sausage-dashin-grilled-meal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T19:45:16.120Z"
+}
