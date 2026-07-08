@@ -1,0 +1,51 @@
+{
+  "slug": "sweet-pepper-delight",
+  "title": "Grilled Sweet Pepper Delight",
+  "description": "A simple and flavorful side dish that pairs well with grilled meats or as a light snack.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Sweet Peppers",
+      "amount": "2 large",
+      "notes": "Any color"
+    },
+    {
+      "name": "Delight (herb blend)",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Wash and slice the sweet peppers into 1-inch pieces.",
+    "Season with delight herb blend.",
+    "Grill for 3-4 minutes per side, or until slightly charred.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "sides",
+    "summer",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-pepper-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:40:21.139Z"
+}
