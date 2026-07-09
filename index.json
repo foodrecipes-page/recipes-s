@@ -1074,10 +1074,15 @@
   },
   {
     "slug": "salty-fluffy-vietnamese-tofu-pho",
-    "title": "Salty Fluffy Vietnamese Tofu Pho",
-    "tags": [],
+    "title": "Vietnamese Tofu Pho",
+    "tags": [
+      "vietnamese-pho",
+      "tofu-noodle-soup",
+      "comfort-food",
+      "soup"
+    ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -2489,17 +2494,16 @@
   },
   {
     "slug": "savory-american-shrimp-skewers",
-    "title": "Savory American Shrimp Skewers",
+    "title": "Shrimp Skewers with Savory Glaze",
     "tags": [
-      "american-cuisine",
-      "date-night",
-      "paleo",
-      "seafood",
-      "shrimp-recipes",
-      "whole30"
+      "shrimp",
+      "grill",
+      "easy",
+      "dinner",
+      "gluten-free"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 30,
+    "cuisine": "american",
+    "totalTimeMin": 16,
     "shard": "s"
   },
   {
@@ -28792,15 +28796,15 @@
   },
   {
     "slug": "spicy-dense-show-off-algerian-garlic-stir-fry",
-    "title": "Spicy Dense Show-off Algerian Garlic Stir-fry",
+    "title": "Algerian Spicy Stir Fry",
     "tags": [
-      "spicy",
-      "dense",
       "algerian",
-      "stir-fry"
+      "spicy",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -30372,16 +30376,15 @@
   },
   {
     "slug": "spicy-middle-eastern-seitan-stir-fry",
-    "title": "Spicy Middle Eastern Seitan Stir-fry",
+    "title": "Spicy Middle Eastern Seitan Stir Fry",
     "tags": [
       "spicy",
-      "sweet",
-      "middle-eastern",
-      "stir-fry",
-      "seitan"
+      "middle eastern",
+      "seitan",
+      "stir fry"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -30737,18 +30740,16 @@
   },
   {
     "slug": "spicy-silky-algerian-sauerkraut-tagine",
-    "title": "Spicy Silky Algerian Sauerkraut Tagine",
+    "title": "Spicy Algerian Chicken and Sauerkraut Stew",
     "tags": [
-      "algerian-cuisine",
-      "jain-friendly",
-      "vegetarian",
-      "spicy",
-      "silky",
-      "tagine",
-      "sauerkraut"
+      "north-african",
+      "chicken",
+      "stew",
+      "hearty",
+      "comfort-food"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "s"
   },
   {
@@ -31684,18 +31685,14 @@
   },
   {
     "slug": "spicy-wholesome-mediterranean-baby-squid-stir-fry",
-    "title": "Spicy Wholesome Mediterranean Baby Squid Stir-fry",
+    "title": "Battered Baby Squid Fritters",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "mediterranean",
-      "one-pan",
-      "quick-dinner",
-      "seafood",
-      "weeknight"
+      "fritters",
+      "mexican",
+      "seafood"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 22,
+    "totalTimeMin": 32,
     "shard": "s"
   },
   {
