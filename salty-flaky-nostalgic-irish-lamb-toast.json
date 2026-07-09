@@ -1,0 +1,77 @@
+{
+  "slug": "salty-flaky-nostalgic-irish-lamb-toast",
+  "title": "Irish Lamb Toast",
+  "description": "A hearty and nostalgic Irish-inspired dish featuring lamb and toasted bread.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "400g",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Salty",
+      "amount": "to taste",
+      "notes": "Salt"
+    },
+    {
+      "name": "Flaky",
+      "amount": "2 sheets",
+      "notes": "Frozen puff pastry"
+    },
+    {
+      "name": "Nostalgic",
+      "amount": "1 tablespoon",
+      "notes": "Marmalade"
+    },
+    {
+      "name": "Irish",
+      "amount": "1 tablespoon",
+      "notes": "Whiskey (optional)"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "Day-old bread"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thaw puff pastry according to package instructions.",
+    "In a pan, cook ground lamb over medium-high heat until browned, breaking up into small pieces.",
+    "Add marmalade, whiskey (if using), and salt to the lamb. Stir to combine.",
+    "Roll out puff pastry to a thickness of about 1/8 inch. Cut into quarters.",
+    "Spoon a quarter of the lamb mixture onto one half of each pastry quarter, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the lamb mixture, pressing edges to seal.",
+    "Place the sealed pastries on a baking sheet lined with parchment paper.",
+    "Brush the tops of the pastries with a little water and sprinkle with salt.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve with toasted bread slices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "toast",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-flaky-nostalgic-irish-lamb-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:16:28.816Z"
+}
