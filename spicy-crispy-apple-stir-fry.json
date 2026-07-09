@@ -1,0 +1,76 @@
+{
+  "slug": "spicy-crispy-apple-stir-fry",
+  "title": "Spicy Apple Stir Fry",
+  "description": "A sweet and spicy stir fry made with crispy vegetables and tender apples. Perfect for a quick and easy dinner.",
+  "cuisine": "asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apple",
+      "amount": "2 medium"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "crispy noodles",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and bell pepper and cook until crispy, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the apple and cook until tender, about 3-4 minutes.",
+    "Stir in the soy sauce and stir-fry sauce, and cook for 1 minute.",
+    "Add the crispy noodles and stir-fry for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "quick",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-crispy-apple-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:09:49.590Z"
+}
