@@ -1,0 +1,85 @@
+{
+  "slug": "silky-chinese-steak-grill",
+  "title": "Grilled Steak with Silky Stir Fry",
+  "description": "A quick and easy recipe featuring a tender grilled steak paired with a silky stir fry.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1.5 pounds",
+      "notes": "Ribeye or Sirloin work well"
+    },
+    {
+      "name": "grill",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "chinese silky sauce",
+      "amount": "1/2 cup",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season steak with salt and pepper.",
+    "Grill steak for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Let steak rest for 5 minutes before slicing.",
+    "Heat cooking oil in a small saucepan over medium heat.",
+    "Add chopped garlic and cook for 1 minute.",
+    "Stir in Chinese silky sauce and cook for an additional 2 minutes.",
+    "Stir in chopped scallions and cook for 1 minute.",
+    "Serve steak with silky stir fry spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "steak",
+    "stir-fry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/silky-chinese-steak-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:21:50.886Z"
+}
