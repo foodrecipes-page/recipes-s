@@ -1,0 +1,58 @@
+{
+  "slug": "sick-day-garlicy-thai-stir-fry",
+  "title": "Thai Garlic Stir Fry",
+  "description": "Quick and flavorful Thai stir fry made with garlic and your choice of ingredients. Serve over rice or noodles for a satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Thai oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sick (chicken or pork)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "fry (bell peppers)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai (green beans)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and stir-fry for 1-2 minutes until fragrant.",
+    "Add the sick and cook until browned, about 3-4 minutes.",
+    "Add the fry and Thai, and stir-fry for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sick-day-garlicy-thai-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:46:16.818Z"
+}
