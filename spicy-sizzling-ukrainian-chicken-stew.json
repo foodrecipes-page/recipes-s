@@ -1,0 +1,82 @@
+{
+  "slug": "spicy-sizzling-ukrainian-chicken-stew",
+  "title": "Spicy Ukrainian Chicken Stew",
+  "description": "A hearty and flavorful stew from Ukraine, packed with spices and tender chicken.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "spicy stew mix",
+      "amount": "1 packet",
+      "notes": "found in most supermarkets"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the stew mix, carrots, potatoes, onion, garlic, and tomato paste (if using). Cook for 2 minutes.",
+    "Add the beef broth and bring the mixture to a boil.",
+    "Reduce heat to medium-low and simmer, covered, for 25-30 minutes or until the chicken is cooked through and the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or dill (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "chicken",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-sizzling-ukrainian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:45:02.860Z"
+}
