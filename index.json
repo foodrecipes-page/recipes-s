@@ -203,10 +203,15 @@
   },
   {
     "slug": "salty-chewy-spanish-potatoes-pancakes",
-    "title": "Salty Chewy Spanish Potatoes Pancakes",
-    "tags": [],
+    "title": "Spanish Potato Pancakes",
+    "tags": [
+      "spanish",
+      "breakfast",
+      "potatoes",
+      "pancakes"
+    ],
     "cuisine": "Spanish",
-    "totalTimeMin": null,
+    "totalTimeMin": 23,
     "shard": "s"
   },
   {
@@ -6244,16 +6249,16 @@
   },
   {
     "slug": "savory-steamed-russian-buckwheat-pilaf",
-    "title": "Savory Steamed Russian Buckwheat Pilaf",
+    "title": "Steamed Buckwheat Pilaf with Russian Twist",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-fiber",
-      "one-pan",
-      "weeknight"
+      "steamed",
+      "savory",
+      "russian",
+      "buckwheat",
+      "pilaf"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "russian",
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -10516,15 +10521,15 @@
   },
   {
     "slug": "silky-roasted-italian-tomato-stir-fry",
-    "title": "Silky Roasted Italian Tomato Stir-fry",
+    "title": "Roasted Italian Fry",
     "tags": [
-      "roasted tomato",
-      "stir-fry",
-      "raisin",
+      "italian",
+      "fry",
+      "roasted",
       "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -25565,16 +25570,14 @@
   },
   {
     "slug": "sour-flaky-nostalgic-canadian-biryani-stir-fry",
-    "title": "Sour Flaky Nostalgic Canadian Biryani Stir-fry",
+    "title": "Sour Flaky Pancakes",
     "tags": [
-      "sour_flaky_nostalgic_canadian_biryani_stir-fry",
-      "pescatarian-friendly"
+      "pancakes",
+      "breakfast",
+      "canadian"
     ],
-    "cuisine": [
-      "Canadian",
-      "Asian-Inspired"
-    ],
-    "totalTimeMin": 55,
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
