@@ -1,0 +1,68 @@
+{
+  "slug": "sous-vide-feather-blade-steak",
+  "title": "Pan-Seared Sous Vide Steak",
+  "description": "A tender and flavorful sous vide steak seared to perfection. Cooked to a safe internal temperature of 145°F (63°C) for medium-rare.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sous vide steak",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 130°F (54°C).",
+    "Season the steak with salt, pepper, and garlic powder (if using).",
+    "Place the steak in the sous vide machine and cook for 1-2 hours.",
+    "Heat a skillet or cast-iron pan over medium-high heat.",
+    "Add the olive oil to the pan and let it heat for 1-2 minutes.",
+    "Remove the steak from the sous vide machine and sear it in the pan for 1-2 minutes per side.",
+    "Add the unsalted butter to the pan and let it melt.",
+    "Let the steak rest for 5 minutes before slicing and serving.",
+    "Cook the steak to an internal temperature of 145°F (63°C) for medium-rare."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 130,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "steak",
+    "sous-vide",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-feather-blade-steak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:53:17.311Z"
+}
