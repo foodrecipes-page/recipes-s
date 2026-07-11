@@ -1,0 +1,66 @@
+{
+  "slug": "spicy-flaky-mung-beans-salad",
+  "title": "Spicy Mung Bean Salad",
+  "description": "A spicy and refreshing salad made with mung beans, mixed greens, and a hint of spice.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mung beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "spicy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "flaky salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed beans",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the mung beans according to package instructions.",
+    "Chop the mixed greens and set aside.",
+    "In a pan, heat the spicy sauce over medium heat.",
+    "Add the cooked mung beans and stir to combine.",
+    "Add the mixed greens, flaky salt, and crushed beans to the pan.",
+    "Stir to combine and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "mung-beans",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-flaky-mung-beans-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:12:03.392Z"
+}
