@@ -1,0 +1,62 @@
+{
+  "slug": "salty-mediterranean-lettuce-salad",
+  "title": "Mediterranean Salad",
+  "description": "A simple and refreshing salad with the perfect blend of Mediterranean flavors. This salad is perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salty Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salad",
+      "amount": "",
+      "notes": "Mixed greens of your choice"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the lettuce and salad.",
+    "2. In a small bowl, crumble the feta cheese and mix with the olives.",
+    "3. Add the feta and olive mixture to the bowl with the lettuce and salad.",
+    "4. Toss gently to combine.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "healthy",
+    "mediterranean",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-mediterranean-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:58.020Z"
+}
