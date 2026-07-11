@@ -1,0 +1,94 @@
+{
+  "slug": "sous-vide-buttermilk-casabe-wrap",
+  "title": "Spicy Sous Vide Chicken Wrap",
+  "description": "A quick and easy meal made with sous vide chicken, crispy casabe, and a tangy buttermilk sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "1-2 inches thick"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1/2 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "sous vide machine",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "casabe",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "large flour tortilla",
+      "amount": "1",
+      "notes": "wrap"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 130°F.",
+    "Season the chicken breast with cumin, chili powder, salt, and pepper.",
+    "Place the chicken in the sous vide machine and cook for 2-3 hours.",
+    "While the chicken is cooking, grill the casabe pieces until crispy.",
+    "In a bowl, whisk together the buttermilk and a pinch of salt.",
+    "Once the chicken is cooked, remove it from the sous vide machine and brush with the buttermilk sauce.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by placing the chicken on the tortilla, followed by the grilled casabe and a drizzle of avocado oil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "mexican",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-buttermilk-casabe-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T16:07:52.937Z"
+}
