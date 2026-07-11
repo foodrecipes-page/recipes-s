@@ -1,0 +1,60 @@
+{
+  "slug": "sweet-dense-norwegian-berry-porridge",
+  "title": "Norwegian Berry Porridge",
+  "description": "A warm and comforting Nordic-inspired porridge filled with sweet and tangy berries.",
+  "cuisine": "Nordic",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dense Norwegian Porridge",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sweet Berries",
+      "amount": "1/2 cup",
+      "notes": "Mixed berries such as blueberries, strawberries, and raspberries"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine the porridge and milk in a saucepan.",
+    "Add the sugar and butter, and cook over medium heat until the sugar dissolves.",
+    "Add the sweet berries to the porridge and cook for an additional 2-3 minutes.",
+    "Serve warm, garnished with additional berries if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "berries",
+    "nordic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-dense-norwegian-berry-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:25:34.984Z"
+}
