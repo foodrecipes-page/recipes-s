@@ -1,0 +1,67 @@
+{
+  "slug": "spicy-turmeric-tartar",
+  "title": "Tartar Spicy Chicken Wings",
+  "description": "Crispy chicken wings marinated in a spicy and aromatic sauce. Perfect for a quick snack or dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Wings",
+      "amount": "2 lbs",
+      "notes": "Drumsticks and flats"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Tartar Sauce",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Spicy Sauce",
+      "amount": "2 tbsp",
+      "notes": "See notes for recipe"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350°F (175°C).",
+    "In a bowl, mix 1 tsp turmeric, 1 tsp salt, and 1 tsp black pepper.",
+    "Add chicken wings to the marinade and toss to coat.",
+    "Let it marinate for 30 minutes.",
+    "Dredge the wings in all-purpose flour.",
+    "Fry the wings in batches until golden brown, about 8-10 minutes.",
+    "Drain excess oil on paper towels.",
+    "Mix 2 tbsp spicy sauce and 2 tbsp tartar sauce.",
+    "Serve hot with the spicy tartar sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-turmeric-tartar",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T19:19:55.370Z"
+}
