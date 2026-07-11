@@ -1,0 +1,56 @@
+{
+  "slug": "sick-day-potato-bliss",
+  "title": "Sick Day Spud",
+  "description": "Comfort food to soothe a sick day. A warm, comforting potato dish to help you feel better.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "day old bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "sick (chicken or vegetable broth)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bliss (cream)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and cube the potato, then boil in water until tender.",
+    "In a separate pot, combine the broth and cream. Heat over medium heat until warm.",
+    "In a baking dish, combine the cooked potato, cubed bread, and warm broth mixture.",
+    "Bake in the preheated oven for 15-20 minutes, or until the top is golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "sick-day",
+    "potato-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sick-day-potato-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T23:02:31.940Z"
+}
