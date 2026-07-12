@@ -1,0 +1,63 @@
+{
+  "slug": "sour-flaky-olive-stir-fry",
+  "title": "Flaky Pan-Seared Fish",
+  "description": "A simple and delicious recipe for pan-seared fish with a crispy flaky crust. Perfect for a quick weeknight dinner.",
+  "cuisine": "Seafood",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky fish fillet",
+      "amount": "4",
+      "notes": "Cod or tilapia work well"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fry mix (for breading)",
+      "amount": "1 cup",
+      "notes": "Omit or substitute for gluten-free option"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the fish fillet and pat dry with paper towels.",
+    "In a shallow dish, mix together the fry mix and a pinch of salt.",
+    "Dip the fish fillet in the olive oil, then coat in the fry mix mixture.",
+    "Heat a large skillet over medium-high heat. Add a small amount of olive oil to the pan.",
+    "Add the coated fish fillet to the pan and sear for 3-4 minutes on each side.",
+    "Transfer the pan to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Serve hot with a dollop of sour cream and a sprinkle of fry mix (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "fish",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sour-flaky-olive-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:57:33.630Z"
+}
