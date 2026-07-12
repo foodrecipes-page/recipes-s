@@ -1,0 +1,52 @@
+{
+  "slug": "salty-crispy-egyptian-garlic-toast",
+  "title": "Egyptian Toast",
+  "description": "A crispy, salty breakfast recipe inspired by Egyptian cuisine. Toast is topped with garlic and a crunchy twist.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Salty Toast",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crispy Stuffing",
+      "amount": "1/2 cup",
+      "notes": "crushed potato chips"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut the toast into 1-inch pieces.",
+    "Mince the garlic and mix with the crispy stuffing.",
+    "Spread the garlic-stuffing mixture onto the toast pieces.",
+    "Place the toast pieces on a baking sheet and bake for 5 minutes.",
+    "Remove from the oven and serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "european",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-crispy-egyptian-garlic-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:18:38.137Z"
+}
