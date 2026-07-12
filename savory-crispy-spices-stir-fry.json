@@ -1,0 +1,82 @@
+{
+  "slug": "savory-crispy-spices-stir-fry",
+  "title": "Crispy Savory Stir Fry",
+  "description": "A quick and easy stir fry recipe that combines savory flavors with crispy textures.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savory sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "mixed vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "fry mix (onion, garlic, ginger)",
+      "amount": "1 cup",
+      "notes": "minced"
+    },
+    {
+      "name": "crispy noodles",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "spices (soy sauce, oyster sauce, sesame oil)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the fry mix and cook until fragrant, about 1-2 minutes.",
+    "Add the mixed vegetables and cook until tender, about 3-4 minutes.",
+    "Add the savory sauce, spices, and crispy noodles, and stir-fry for an additional 2-3 minutes.",
+    "Transfer the stir fry to a serving dish and garnish with green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stirfry",
+    "savory",
+    "crispy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-crispy-spices-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:57:31.801Z"
+}
