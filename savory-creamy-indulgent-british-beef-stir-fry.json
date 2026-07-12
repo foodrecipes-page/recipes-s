@@ -1,0 +1,80 @@
+{
+  "slug": "savory-creamy-indulgent-british-beef-stir-fry",
+  "title": "Beef and Mushroom Stir Fry",
+  "description": "A classic British-inspired stir fry dish loaded with savory beef and creamy mushrooms.",
+  "cuisine": "british",
+  "diet": [
+    "beef",
+    "stir-fry",
+    "savory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "mushroom gravy",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the beef and cook for 3-4 minutes, or until browned.",
+    "Remove the beef from the wok and set aside.",
+    "Add the remaining oil, garlic, and ginger to the wok.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the mushrooms and cook until tender, about 3-4 minutes.",
+    "Return the beef to the wok and stir in the soy sauce.",
+    "Cook for an additional 1-2 minutes, until the beef is coated in the sauce.",
+    "Serve the beef and mushrooms over rice, topped with mushroom gravy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stir-fry",
+    "british-cuisine",
+    "savory-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-creamy-indulgent-british-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:33:57.395Z"
+}
