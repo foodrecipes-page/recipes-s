@@ -1,0 +1,71 @@
+{
+  "slug": "sweet-kenyan-banana-pie",
+  "title": "Sweet Banana Pie",
+  "description": "A classic pie filled with sweet banana filling. Perfect for a dessert or snack.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Bananas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Pie Crust",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pie crust and place in pie dish.",
+    "Peel and slice bananas into the pie crust.",
+    "Mix sweet potatoes, brown sugar, eggs, and butter in a bowl.",
+    "Pour sweet potato mixture over bananas in the pie crust.",
+    "Bake pie for 40-50 minutes or until crust is golden brown.",
+    "Let pie cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "banana",
+    "pie",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-kenyan-banana-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:45:49.786Z"
+}
