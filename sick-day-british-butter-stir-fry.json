@@ -1,0 +1,67 @@
+{
+  "slug": "sick-day-british-butter-stir-fry",
+  "title": "British Breakfast Fry-Up",
+  "description": "A classic British breakfast dish made with fried eggs, bacon, and sausages.",
+  "cuisine": "british",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "pork"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Day",
+      "amount": "1",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large frying pan over medium-high heat.",
+    "2. Add the butter and let it melt.",
+    "3. Add the bacon and cook until crispy.",
+    "4. Add the sausages and cook until browned.",
+    "5. Crack the eggs into a bowl and whisk them together.",
+    "6. Pour the eggs over the bacon and sausages in the pan.",
+    "7. Stir the eggs gently until they are cooked through.",
+    "8. Serve the breakfast hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sick-day-british-butter-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:53:04.232Z"
+}
