@@ -1,0 +1,62 @@
+{
+  "slug": "silky-salty-italian-spaghetti-pasta",
+  "title": "Italian Spaghetti",
+  "description": "A classic Italian pasta dish with a smooth and savory sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "Spaghetti"
+    },
+    {
+      "name": "italian",
+      "amount": "2 cups",
+      "notes": "Tomato sauce"
+    },
+    {
+      "name": "salty",
+      "amount": "1 tsp",
+      "notes": "Salt"
+    },
+    {
+      "name": "silky",
+      "amount": "2 tbsp",
+      "notes": "Olive oil"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the tomato sauce and stir to combine.",
+    "Season with salt to taste.",
+    "Drain the cooked spaghetti and add to the skillet.",
+    "Toss the spaghetti in the sauce until well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-cuisine",
+    "pasta-dish",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/silky-salty-italian-spaghetti-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:37:01.218Z"
+}
