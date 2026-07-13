@@ -1,0 +1,56 @@
+{
+  "slug": "smoky-bread-stir-fry",
+  "title": "Smoky Bread Fry",
+  "description": "A crispy bread dish with a smoky twist. Perfect as a snack or light lunch.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 smoky sauce",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tsp",
+      "notes": "vegetable or olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Cut the bread into desired shapes or leave it as slices.",
+    "Drizzle oil over the bread and sprinkle with smoky sauce.",
+    "Fry the bread for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "snack",
+    "easy",
+    "quick",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-bread-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:01:20.281Z"
+}
