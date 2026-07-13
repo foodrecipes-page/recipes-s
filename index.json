@@ -14341,10 +14341,15 @@
   },
   {
     "slug": "smoky-caramelized-malaysian-shrimp-curry",
-    "title": "Smoky Caramelized Malaysian Shrimp Curry",
-    "tags": [],
-    "cuisine": "Malaysian",
-    "totalTimeMin": null,
+    "title": "Malaysian Shrimp Curry",
+    "tags": [
+      "malaysian",
+      "curry",
+      "shrimp",
+      "seafood"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -26480,20 +26485,15 @@
   },
   {
     "slug": "sour-slovakian-knafeh-gratin",
-    "title": "Sour Slovakian Knafeh Gratin",
+    "title": "Slovakian Knafeh Gratin",
     "tags": [
-      "casserole",
-      "comfort-food",
-      "flexitarian",
-      "gratin",
-      "knafeh",
-      "one-pot",
       "slovakian",
-      "sour",
-      "weeknight"
+      "knafeh",
+      "gratin",
+      "dessert"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "s"
   },
   {
@@ -26999,17 +26999,15 @@
   },
   {
     "slug": "soured-aerated-norwegian-chinese-cabbage-mousse",
-    "title": "Soured Aerated Norwegian Chinese Cabbage Mousse",
+    "title": "Soured Cabbage and Norwegian Salmon Delight",
     "tags": [
-      "fermented",
-      "fusion",
-      "light",
-      "norwegian-inspired",
-      "savory-mousse",
-      "steamed"
+      "norwegian",
+      "seafood",
+      "gluten-free",
+      "summer-recipe"
     ],
-    "cuisine": "Norwegian-Asian Fusion",
-    "totalTimeMin": 40,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 27,
     "shard": "s"
   },
   {
@@ -38092,6 +38090,18 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 27,
+    "shard": "s"
+  },
+  {
+    "slug": "sea-bass-sweet-treat--chinese",
+    "title": "Baked Sea Bass with Sweet Treat Glaze",
+    "tags": [
+      "chinese",
+      "seafood",
+      "glazed"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "s"
   }
 ]
