@@ -1,0 +1,67 @@
+{
+  "slug": "smoky-lemon-french-chicken-salad",
+  "title": "Smoky Chicken Salad",
+  "description": "A refreshing salad with smoky grilled chicken, mixed greens, and a tangy lemon dressing.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "pescatarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Chicken Breast",
+      "amount": "1 pound",
+      "notes": "Grill at 400°F (200°C) for 5-6 minutes per side."
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "French Dressing",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped Salad Herbs",
+      "amount": "1/4 cup",
+      "notes": "Chopped parsley, dill, or chives work well."
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to 400°F (200°C).",
+    "2. Grill chicken breast for 5-6 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "3. Let the chicken rest for 5 minutes before slicing it into thin strips.",
+    "4. In a large bowl, combine mixed greens, lemon juice, and French dressing. Toss to coat.",
+    "5. Add the sliced chicken to the bowl and toss to combine.",
+    "6. Top the salad with chopped salad herbs and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "grilled-chicken",
+    "french",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-lemon-french-chicken-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:41:11.165Z"
+}
