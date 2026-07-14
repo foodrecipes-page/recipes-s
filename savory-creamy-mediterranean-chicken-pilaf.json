@@ -1,0 +1,75 @@
+{
+  "slug": "savory-creamy-mediterranean-chicken-pilaf",
+  "title": "Mediterranean Chicken Pilaf",
+  "description": "A flavorful and healthy Mediterranean-inspired pilaf dish with chicken, savory spices, and creamy feta cheese.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "preferably with Mediterranean spices"
+    },
+    {
+      "name": "savory",
+      "amount": "2 tablespoons olive oil",
+      "notes": "or to taste"
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup crumbled feta cheese",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the pilaf to the skillet and stir to combine with the chicken. Cook for an additional 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through and the pilaf is tender.",
+    "Remove the skillet from the oven and stir in the crumbled feta cheese. Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mediterranean",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-creamy-mediterranean-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T03:40:15.701Z"
+}
