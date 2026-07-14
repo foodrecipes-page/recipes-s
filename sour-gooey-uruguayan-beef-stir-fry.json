@@ -1,0 +1,77 @@
+{
+  "slug": "sour-gooey-uruguayan-beef-stir-fry",
+  "title": "Uruguayan Beef Stir Fry",
+  "description": "A flavorful and savory stir fry made with Uruguayan beef and an array of ingredients, perfect for a quick weeknight dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Gooey cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the beef to the skillet and cook until browned, about 3-4 minutes.",
+    "Add the stir-fry sauce to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Stir in the sour cream and cook for an additional minute.",
+    "If using gooey cheese, sprinkle on top of the dish and cook until melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sour-gooey-uruguayan-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:58:37.187Z"
+}
