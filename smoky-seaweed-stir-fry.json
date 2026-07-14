@@ -1,0 +1,88 @@
+{
+  "slug": "smoky-seaweed-stir-fry",
+  "title": "Smoky Stir Fry",
+  "description": "A quick and flavorful stir fry with smoky flavor, packed with vegetables and seaweed.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seaweed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoky stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add onion and bell pepper and cook for 3-4 minutes, until tender.",
+    "Add seaweed and cook for 1-2 minutes.",
+    "In a small bowl, whisk together stir-fry sauce, soy sauce, and sugar.",
+    "Pour sauce over vegetables and stir-fry for 1-2 minutes.",
+    "Sprinkle with sesame seeds and serve.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "quick-dinner",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-seaweed-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:52:21.745Z"
+}
