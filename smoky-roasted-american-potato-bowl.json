@@ -1,0 +1,64 @@
+{
+  "slug": "smoky-roasted-american-potato-bowl",
+  "title": "Smoky Potato Bowl",
+  "description": "A hearty bowl filled with roasted potatoes, American cheese, and smoky bacon. Perfect for a comforting meal.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "Smoky, cooked bacon"
+    },
+    {
+      "name": "Roasted Potatoes",
+      "amount": "2 large",
+      "notes": "Pre-cooked roasted potatoes"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "2 cups, shredded",
+      "notes": "Melted cheese"
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup, chopped",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the roasted potatoes into 1-inch cubes.",
+    "In a separate pan, cook the smoky bacon until crispy.",
+    "Transfer the cooked bacon to a plate.",
+    "In the same pan, combine the sliced potatoes and cook until golden brown.",
+    "Transfer the cooked potatoes to a bowl.",
+    "Add the cooked bacon on top of the potatoes.",
+    "Sprinkle shredded American cheese on top of the bacon.",
+    "Place the bowl under the broiler until the cheese is melted.",
+    "Garnish with chopped chives, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "american-cuisine",
+    "breakfast",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-roasted-american-potato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:01:40.063Z"
+}
