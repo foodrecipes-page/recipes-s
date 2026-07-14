@@ -1,0 +1,78 @@
+{
+  "slug": "spicy-crunchy-beef-skewers",
+  "title": "Spicy Beef Skewers",
+  "description": "Marinated beef skewers with a spicy kick, perfect for a quick and easy dinner.",
+  "cuisine": null,
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "250g",
+      "notes": "Thinly sliced beef strips"
+    },
+    {
+      "name": "spicy",
+      "amount": "2 tbsp",
+      "notes": "Spicy sauce (such as sriracha)"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "Metal or bamboo skewers"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced garlic for marinade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together spicy sauce, olive oil, salt, pepper, and garlic.",
+    "Add thinly sliced beef to the marinade and mix well to coat.",
+    "Thread beef onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until beef is cooked through.",
+    "Serve hot and enjoy!",
+    "Optional: Serve with your favorite sides, such as rice or vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilling",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-crunchy-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:59:07.386Z"
+}
