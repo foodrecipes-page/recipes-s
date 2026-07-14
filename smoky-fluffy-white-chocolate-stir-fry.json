@@ -1,0 +1,60 @@
+{
+  "slug": "smoky-fluffy-white-chocolate-stir-fry",
+  "title": "Stir-Fry Pancakes",
+  "description": "A breakfast twist on traditional stir-fry, using fluffy pancakes as a base.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fluffy Pancakes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Bacon",
+      "amount": "6 slices",
+      "notes": "Cooked until crispy"
+    },
+    {
+      "name": "White Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Stir-Fry Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the bacon in a pan over medium heat until crispy.",
+    "Set the bacon aside and cook the onion in the same pan until softened.",
+    "Add the stir-fry sauce to the pan and stir to combine.",
+    "Place the fluffy pancakes on a plate and spoon the bacon and onion mixture over the top.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-fluffy-white-chocolate-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:30:42.329Z"
+}
