@@ -1,0 +1,77 @@
+{
+  "slug": "satiating-algerian-lentils-stir-fry",
+  "title": "Lentil Stew",
+  "description": "A hearty and comforting stew made with lentils, vegetables, and aromatic spices. Perfect for a chilly evening.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, and garlic; cook until the vegetables are tender, about 5 minutes.",
+    "Add cumin, coriander, and cayenne pepper (if using); cook for 1 minute.",
+    "Add lentils, stir to combine, and cook for 1 minute.",
+    "Add 4 cups of water; bring to a boil, then reduce heat to low and simmer, covered, until the lentils are tender, about 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro (if desired)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "algerian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/satiating-algerian-lentils-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:26:21.755Z"
+}
