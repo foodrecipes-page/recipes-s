@@ -1,0 +1,73 @@
+{
+  "slug": "smoky-guac-stir-fry",
+  "title": "Smoky Guacamole",
+  "description": "A creamy, smoky twist on traditional guacamole. Perfect for a snack or appetizer.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "3",
+      "notes": "Ripe avocados are essential for the creamiest guacamole."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for the best flavor."
+    },
+    {
+      "name": "Smoky",
+      "amount": "1 teaspoon",
+      "notes": "Smoky adds a depth of flavor to balance out the creaminess."
+    },
+    {
+      "name": "Guac",
+      "amount": "1 teaspoon",
+      "notes": "Guac adds a tangy, slightly sweet flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add salt to bring out the flavors of the other ingredients."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped, to taste",
+      "notes": "Fresh cilantro adds a nice pop of color and flavor."
+    }
+  ],
+  "instructions": [
+    "Cut the avocados in half and remove the pit.",
+    "Scoop the avocado flesh into a large mixing bowl.",
+    "Add the lime juice, smoky, guac, salt, and cilantro to the bowl with the avocado.",
+    "Use a fork to mash the ingredients together until you reach your desired consistency.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and let it sit at room temperature for at least 30 minutes to allow the flavors to meld.",
+    "Serve the guacamole with tortilla chips, on tacos, or as a dip for vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "appetizer",
+    "guacamole",
+    "avocado"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-guac-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:52:09.601Z"
+}
