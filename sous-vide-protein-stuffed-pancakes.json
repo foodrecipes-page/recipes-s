@@ -1,0 +1,72 @@
+{
+  "slug": "sous-vide-protein-stuffed-pancakes",
+  "title": "Sous Vide Stuffed Pancakes",
+  "description": "A unique breakfast recipe featuring sous vide protein and stuffed pancakes.",
+  "cuisine": "American",
+  "diet": [
+    "breakfast",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sous vide protein",
+      "amount": "1 (6 oz) serving"
+    },
+    {
+      "name": "pancakes mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "filling of choice (e.g. cream cheese, jam)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Prepare sous vide protein according to package instructions.",
+    "In a large bowl, whisk together pancake mix, eggs, milk, and melted butter.",
+    "Cook pancakes according to package instructions.",
+    "Once pancakes are cooked, split them in half and fill with desired filling.",
+    "Prepare sous vide protein by slicing into desired thickness.",
+    "Serve stuffed pancakes with a side of sous vide protein.",
+    "Sprinkle with powdered sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "breakfast",
+    "pancakes",
+    "sous-vide",
+    "protein"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-protein-stuffed-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:22:24.372Z"
+}
