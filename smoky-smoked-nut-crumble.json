@@ -1,0 +1,69 @@
+{
+  "slug": "smoky-smoked-nut-crumble",
+  "title": "Smoky Nut Crumble",
+  "description": "Delicious oat crumble with smoky nuts, perfect as a snack or dessert.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oats",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Smoked Almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoky Hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine oats, smoked almonds, smoky hazelnuts, and brown sugar.",
+    "Add the melted butter and mix until well combined.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, stirring occasionally.",
+    "Remove from the oven and sprinkle with cinnamon. Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "oats",
+    "nuts",
+    "smoky",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-smoked-nut-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:32:10.850Z"
+}
