@@ -1,0 +1,56 @@
+{
+  "slug": "salty-canadian-quinoa-stir-fry",
+  "title": "Savory Quinoa Stir Fry",
+  "description": "A simple and nutritious meal made with quinoa, vegetables, and a hint of saltiness.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salty",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetables (e.g., broccoli, carrots)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Canadian oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa and cook according to package instructions.",
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the vegetables and stir-fry for 3-4 minutes.",
+    "Add the cooked quinoa and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "stir-fry",
+    "Canadian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-canadian-quinoa-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:27:32.235Z"
+}
