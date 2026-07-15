@@ -15886,15 +15886,16 @@
   },
   {
     "slug": "smoky-crunchy-croatian-vegetables-stir-fry",
-    "title": "Smoky Crunchy Croatian Vegetables Stir-fry",
+    "title": "Smoky Croatian Vegetable Stir-Fry",
     "tags": [
-      "smoky",
-      "crunchy",
       "croatian",
-      "vegetables"
+      "smoky",
+      "vegetarian",
+      "gluten-free",
+      "stir-fry"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -38112,6 +38113,46 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 5,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-flaky-middle-eastern-egg-ouzi--mexican",
+    "title": "Sweet and Savory Ouzi Tacos",
+    "tags": [
+      "mexican",
+      "eastern",
+      "tacos",
+      "breakfast",
+      "brunch"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sunflower-sprout-delight--thai",
+    "title": "Spicy Sunflower Sprout Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 9,
+    "shard": "s"
+  },
+  {
+    "slug": "sunflower-sprout-delight--german",
+    "title": "German Sprout and Sunflower Delight",
+    "tags": [
+      "german",
+      "sides",
+      "sprouts",
+      "sunflower-seeds"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
     "shard": "s"
   }
 ]
