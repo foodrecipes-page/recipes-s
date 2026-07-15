@@ -1,0 +1,60 @@
+{
+  "slug": "sunflower-sprout-delight--french",
+  "title": "French Sprout Delight Salad",
+  "description": "A crunchy and refreshing French-inspired salad featuring sprouts and sunflower seeds.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Delight (e.g. balsamic vinaigrette)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the sprouts under cold water and pat them dry with a paper towel.",
+    "In a large bowl, combine the sprouts and sunflower seeds.",
+    "Drizzle the Delight over the sprouts and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "lunch",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sunflower-sprout-delight--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:31:03.467Z"
+}
