@@ -1,0 +1,81 @@
+{
+  "slug": "savory-uruguayan-split-peas-roast",
+  "title": "Uruguayan Split Pea Stew",
+  "description": "A hearty and flavorful stew from Uruguay, made with split peas, savory beef, and a blend of spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Split peas",
+      "amount": "1 cup",
+      "notes": "Rinse and drain"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Savory",
+      "amount": "2 teaspoons",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cubed beef and cook until browned on all sides, about 5 minutes.",
+    "Add the split peas, savory, chili powder, salt, and pepper.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to medium-low and simmer, covered, for 30 minutes, or until the peas are tender.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "split-peas",
+    "beef-stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-uruguayan-split-peas-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:21:32.115Z"
+}
