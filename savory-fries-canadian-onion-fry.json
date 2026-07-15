@@ -1,0 +1,63 @@
+{
+  "slug": "savory-fries-canadian-onion-fry",
+  "title": "Canadian Savory Fries",
+  "description": "A delicious Canadian-inspired savory fries dish.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sour cream and onion fries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "savory gravy mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "fry seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper and spread the fries on it.",
+    "Sprinkle the fry seasoning over the fries and toss to coat.",
+    "Bake in the preheated oven for 20 minutes, or until crispy.",
+    "In a saucepan, heat the vegetable oil over medium heat.",
+    "Add the diced onion and sauté until translucent.",
+    "Add the savory gravy mix and stir to combine.",
+    "Pour the hot gravy mixture over the baked fries and toss to coat.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "fries",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-fries-canadian-onion-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:26:42.256Z"
+}
