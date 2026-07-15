@@ -1,0 +1,74 @@
+{
+  "slug": "spicy-gooey-garlic-dutch-stir-fry",
+  "title": "Dutch Spicy Stir Fry",
+  "description": "A spicy and savory stir fry dish made with Dutch ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup",
+      "notes": "Dutch Gouda"
+    },
+    {
+      "name": "Spicy pepper",
+      "amount": "2",
+      "notes": "Red bell pepper"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Stir fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fry vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "Vegetable oil for frying"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the grated ginger and cook for another minute.",
+    "Add the stir fry sauce and cook for 1 minute.",
+    "Add the sliced spicy pepper and cook until tender.",
+    "Add the gooey cheese and stir until melted.",
+    "Serve hot over rice or noodles.",
+    "Optional: add your favorite protein such as chicken or tofu."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "spicy",
+    "stir-fry",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-gooey-garlic-dutch-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:02:37.736Z"
+}
