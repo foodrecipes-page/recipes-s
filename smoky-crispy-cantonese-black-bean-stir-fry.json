@@ -1,0 +1,60 @@
+{
+  "slug": "smoky-crispy-cantonese-black-bean-stir-fry",
+  "title": "Crispy Stir Fry",
+  "description": "A classic Cantonese dish made with crispy vegetables and savory sauce.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoky bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crispy vegetables (carrots, bell peppers)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "stir fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the crispy vegetables and stir-fry for 2-3 minutes.",
+    "Add the smoky bean sprouts and stir-fry for another 2-3 minutes.",
+    "Add the black pepper and stir-fry sauce, and stir-fry for 1 minute.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-crispy-cantonese-black-bean-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:21:55.353Z"
+}
