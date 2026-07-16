@@ -1,0 +1,95 @@
+{
+  "slug": "smoky-chewy-canadian-kabanos-stew",
+  "title": "Smoky Stew",
+  "description": "A hearty and flavorful stew made with smoky bacon, chewy kabanos sausage, and tender beef.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky bacon",
+      "amount": "6 slices",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Chewy kabanos sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add bacon and cook until browned, about 5 minutes.",
+    "Remove bacon and set aside.",
+    "Add beef to the pot and cook until browned, about 5 minutes.",
+    "Add onion, carrot, and potato to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add stew, beef broth, salt, and pepper to the pot.",
+    "Stir to combine, then add the cooked bacon back into the pot.",
+    "Bring the stew to a boil, then reduce heat to low and simmer, covered, for 1.5 hours, or until the beef is tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "beef",
+    "stew",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-chewy-canadian-kabanos-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:17:54.033Z"
+}
