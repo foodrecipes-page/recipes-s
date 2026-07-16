@@ -7267,15 +7267,14 @@
   },
   {
     "slug": "sesame-seed-joy",
-    "title": "Sesame Seed Joy",
+    "title": "Sesame Seed Crackers",
     "tags": [
-      "sesame seed",
-      "fermented",
-      "slovakian",
-      "vegan"
+      "crackers",
+      "snack",
+      "sesame-seeds"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 18,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -14506,18 +14505,15 @@
   },
   {
     "slug": "smoky-chewy-canadian-kabanos-stew",
-    "title": "Smoky Chewy Canadian Kabanos Stew",
+    "title": "Smoky Stew",
     "tags": [
-      "smoky",
-      "chewy",
-      "vegan-friendly",
-      "kabanos",
-      "stew",
       "canadian",
-      "slow-cook"
+      "beef",
+      "stew",
+      "bacon"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 120,
     "shard": "s"
   },
   {
@@ -38199,6 +38195,84 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 32,
+    "shard": "s"
+  },
+  {
+    "slug": "shattering-comforting-french-sea-bass-macaron-style-stuffed--vegan",
+    "title": "Vegan Sea Bass Style Stuffed Macaron",
+    "tags": [
+      "vegan",
+      "french",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crunchy-croatian-vegetables-stir-fry--keto",
+    "title": "Smoky Croatian Beef Skillet",
+    "tags": [
+      "beef",
+      "croatian",
+      "skillet",
+      "keto",
+      "low-carb"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "showy-flaky-norwegian-rye-flatbread--gluten-free",
+    "title": "Gluten-Free Norwegian Flatbread",
+    "tags": [
+      "gluten-free",
+      "norwegian",
+      "flatbread"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "showy-flaky-norwegian-rye-flatbread--indian",
+    "title": "Flaky Flatbread Naan",
+    "tags": [
+      "indian",
+      "flatbread",
+      "naan",
+      "yogurt",
+      "ghee"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sunflower-sprout-delight--indian",
+    "title": "Spicy Sprout Delight",
+    "tags": [
+      "indian",
+      "snack",
+      "vegan",
+      "roasted"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "shattering-comforting-french-sea-bass-macaron-style-stuffed--gluten-free",
+    "title": "Baked Stuffed Bass with French Macaron Sauce",
+    "tags": [
+      "bass",
+      "french",
+      "gluten-free",
+      "seafood"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "s"
   }
 ]
