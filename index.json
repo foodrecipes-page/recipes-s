@@ -29650,18 +29650,16 @@
   },
   {
     "slug": "spicy-juicy-thai-linguine-pasta",
-    "title": "Spicy Juicy Thai Linguine Pasta",
+    "title": "Spicy Thai Linguine",
     "tags": [
-      "spicy",
       "thai",
       "pasta",
-      "juicy",
-      "low-sodium",
-      "quick-meal",
-      "vegetarian"
+      "spicy",
+      "linguine",
+      "chicken"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 22,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -38319,6 +38317,59 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-and-zesty-norwegian-tomatoes-stuvet--italian",
+    "title": "Italian Stuvet Pasta",
+    "tags": [
+      "italian",
+      "pasta",
+      "tomato",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-indulgent-spanish-provola-pa-amb-tomaquet--gluten-free",
+    "title": "Spanish Paella",
+    "tags": [
+      "spanish",
+      "seafood",
+      "gluten-free"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crispy-british-cauliflower-gratin--italian",
+    "title": "Smoky Cauliflower Gratin Italiano",
+    "tags": [
+      "italian",
+      "cauliflower",
+      "gratin",
+      "vegetarian",
+      "cheese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-gooey-pork-venezuelan-stir-fry--german",
+    "title": "Smoky Venezuelan Pork Schnitzel",
+    "tags": [
+      "german",
+      "pork",
+      "schnitzel",
+      "venezuelan",
+      "fusion"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "s"
   }
 ]
