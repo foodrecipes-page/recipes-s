@@ -1,0 +1,63 @@
+{
+  "slug": "sesame-seed-joy",
+  "title": "Sesame Seed Crackers",
+  "description": "Crispy crackers made with sesame seeds for a crunchy snack. Enjoy them on their own or paired with your favorite dips.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sesame seeds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together flour and salt.",
+    "Add water and mix until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Brush with olive oil and sprinkle with sesame seeds.",
+    "Cut into desired shapes and place on a baking sheet.",
+    "Bake for 15-20 minutes or until crispy.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "crackers",
+    "snack",
+    "sesame-seeds"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sesame-seed-joy",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:12:58.864Z"
+}
