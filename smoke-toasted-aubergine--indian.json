@@ -1,0 +1,84 @@
+{
+  "slug": "smoke-toasted-aubergine--indian",
+  "title": "Smoked Aubergine Curry",
+  "description": "A flavorful Indian-inspired dish featuring roasted aubergine smoked to perfection.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "1 medium"
+    },
+    {
+      "name": "smoke",
+      "amount": "1 cup wood chips"
+    },
+    {
+      "name": "toasted",
+      "amount": "2 tbsp ghee or oil"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill or grill pan to medium heat.",
+    "Smoke the aubergine by placing it over the wood chips for 30 minutes, turning occasionally.",
+    "Remove the aubergine from the heat and let it cool.",
+    "Once cooled, peel the aubergine and chop it into bite-sized pieces.",
+    "In a pan, heat 1 tablespoon of ghee or oil over medium heat.",
+    "Add cumin, coriander, turmeric, garam masala, and chili powder. Cook for 1 minute.",
+    "Add the chopped aubergine to the pan and cook for 5 minutes.",
+    "Stir in the remaining 1 tablespoon of ghee or oil and season with salt to taste.",
+    "Garnish with fresh mint leaves and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "aubergine",
+    "curry",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoke-toasted-aubergine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:12:52.811Z"
+}
