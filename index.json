@@ -23587,17 +23587,15 @@
   },
   {
     "slug": "softly-roasted-mexican-flour-tacos",
-    "title": "Softly Roasted Mexican Flour Tacos",
+    "title": "Taco Stuffed Flour Tortillas",
     "tags": [
-      "easy-dinner",
-      "gluten-free",
-      "mexican-food",
-      "roasted-vegetables",
       "tacos",
-      "vegetarian"
+      "mexican",
+      "beef",
+      "tortillas"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -39115,6 +39113,72 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-roasted-american-potato-bowl--vegetarian",
+    "title": "Roasted American Potato Bowl",
+    "tags": [
+      "healthy",
+      "vegetarian",
+      "american"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crispy-croatian-chestnuts-skillet--keto",
+    "title": "Smoky Chestnut Skillet",
+    "tags": [
+      "keto",
+      "breakfast",
+      "skillet",
+      "chestnuts",
+      "bacon"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "spiced-egyptian-chicken-casserole--thai",
+    "title": "Thai Chicken Casserole",
+    "tags": [
+      "thaifood",
+      "chicken",
+      "casserole",
+      "rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-braised-thai-pork-curry--italian",
+    "title": "Braised Pork Ragu with Italian Spices",
+    "tags": [
+      "italian",
+      "pork",
+      "braised",
+      "slow-cooked",
+      "ragu"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-silky-algerian-lamb-tagine--indian",
+    "title": "Algerian Lamb Tagine",
+    "tags": [
+      "north-african",
+      "indian-inspired",
+      "lamb",
+      "tagine"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 260,
     "shard": "s"
   }
 ]
