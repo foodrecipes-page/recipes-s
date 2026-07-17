@@ -8766,14 +8766,14 @@
   },
   {
     "slug": "sick-day-smoky-irish-wood-ear-mushrooms-stir-fry",
-    "title": "Sick-Day Smoky Irish Wood Ear Mushrooms Stir-fry",
+    "title": "Smoky Irish Stew",
     "tags": [
-      "wood ear mushrooms",
-      "stir-fry",
-      "whole30"
+      "irish-stew",
+      "beef-stew",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 23,
+    "totalTimeMin": 65,
     "shard": "s"
   },
   {
@@ -21396,15 +21396,17 @@
   },
   {
     "slug": "smoky-slovakian-pappardelle-stir-fry",
-    "title": "Smoky Slovakian Pappardelle Stir-fry",
+    "title": "Smoky Slovakian Pappardelle Stir Fry",
     "tags": [
-      "smoky",
-      "pappardelle",
+      "slovakian",
       "stir-fry",
-      "slovakian"
+      "pappardelle",
+      "smoky",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -38865,6 +38867,45 @@
     ],
     "cuisine": null,
     "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-juicy-thai-linguine-pasta--vegan",
+    "title": "Thai Linguine Stir Fry",
+    "tags": [
+      "vegan",
+      "thai",
+      "linguine",
+      "stir-fry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-argentinian-chicken-stir-fry--chinese",
+    "title": "Argentinian Stir Fry Chicken",
+    "tags": [
+      "chicken",
+      "stir-fry",
+      "argentinian",
+      "savory"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sizzling-kenyan-pork-stir-fry--thai",
+    "title": "Stir Fry Pork",
+    "tags": [
+      "thai",
+      "pork",
+      "stir-fry",
+      "spicy"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
