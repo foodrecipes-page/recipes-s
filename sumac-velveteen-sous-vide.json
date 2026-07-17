@@ -1,0 +1,87 @@
+{
+  "slug": "sumac-velveteen-sous-vide",
+  "title": "Sous Vide Chicken Shawarma",
+  "description": "A Middle Eastern-inspired dish made with chicken cooked to perfection using sous vide and topped with a flavorful sumac spice blend.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sumac spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vide pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the sous vide machine to 130°F (54°C).",
+    "2. Season the chicken breasts with salt, vide pepper, and sumac spice blend.",
+    "3. Seal the chicken in a sous vide bag with olive oil, lemon juice, and garlic.",
+    "4. Cook the chicken for 2 hours in the sous vide machine.",
+    "5. Slice the cooked chicken into thin strips.",
+    "6. Warm the pita bread by wrapping it in foil and heating it in the oven at 350°F (180°C) for 5 minutes.",
+    "7. Assemble the shawarma by placing the chicken strips in the pita bread and topping with tzatziki sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "shawarma",
+    "middle eastern",
+    "sous vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sumac-velveteen-sous-vide",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:36:51.936Z"
+}
