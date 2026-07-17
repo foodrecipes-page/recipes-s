@@ -1,0 +1,68 @@
+{
+  "slug": "slow-cured-canadian-salmon-pilaf--vegan",
+  "title": "Canadian Pilaf Bowl",
+  "description": "A hearty vegan bowl filled with pilaf, roasted vegetables, and a tangy slaw made with Canadian ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Slow-cooked lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Roasted carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Canadian slaw (cabbage, apple cider vinegar, maple syrup)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss carrots and sweet potatoes with oil, salt, and pepper. Roast for 20-25 minutes.",
+    "Cook pilaf according to package instructions.",
+    "In a separate pan, heat oil over medium heat. Add lentils and cook until lightly browned.",
+    "Combine cooked pilaf, lentils, roasted vegetables, and Canadian slaw in a bowl.",
+    "Season with salt, pepper, and a squeeze of lemon juice.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "canadian",
+    "pilaf",
+    "lentils",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/slow-cured-canadian-salmon-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:05:01.923Z"
+}
