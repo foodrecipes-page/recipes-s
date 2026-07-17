@@ -2434,17 +2434,16 @@
   },
   {
     "slug": "savory-algerian-snapper-papillote",
-    "title": "Algerian Snapper Papillote",
+    "title": "Algerian Baked Snapper with Savory Papillote",
     "tags": [
       "algerian",
+      "baked",
       "fish",
-      "one-pan",
-      "paleo-friendly",
-      "papillote",
-      "weeknight"
+      "snapper",
+      "papillote"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "s"
   },
   {
@@ -23449,17 +23448,15 @@
   },
   {
     "slug": "soft-flaky-russian-bread-pilaf",
-    "title": "Soft, Flaky Russian Bread Pilaf",
+    "title": "Russian-Style Pilaf Bread",
     "tags": [
-      "comfort-food",
-      "fodmap",
-      "gluten-free",
-      "high-fiber",
-      "one-pot",
-      "weeknight"
+      "bread",
+      "pilaf",
+      "russian",
+      "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -32626,16 +32623,15 @@
   },
   {
     "slug": "sumac-velveteen-sous-vide",
-    "title": "Sumac Velveteen Sous-Vide",
+    "title": "Sous Vide Chicken Shawarma",
     "tags": [
-      "sumac",
-      "sous-vide",
-      "velvety",
-      "adventurous",
-      "kosher-friendly"
+      "chicken",
+      "shawarma",
+      "middle eastern",
+      "sous vide"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 490,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 135,
     "shard": "s"
   },
   {
@@ -39179,6 +39175,71 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 260,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-gooey-date-night-turkish-lentil-mercimek-corbasi--indian",
+    "title": "Turkish Lentil Curry",
+    "tags": [
+      "lentil-curry",
+      "indian-cuisine",
+      "turkish-spices"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-juicy-indulgent-malaysian-shrimp-stir-fry--keto",
+    "title": "Malaysian Shrimp Stir Fry",
+    "tags": [
+      "keto",
+      "malaysian",
+      "shrimp",
+      "stir-fry"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "shattering-nutty-egyptian-rice-noodles-stir-fry--thai",
+    "title": "Thai Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "noodles",
+      "rice",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-smoky-french-cheese-souffle--vegetarian",
+    "title": "French Smoky Vegetarian Soufflé",
+    "tags": [
+      "french",
+      "vegetarian",
+      "souffle",
+      "cheese"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-mexican-chili-quesadilla--indian",
+    "title": "Spicy Quesadilla Wrap",
+    "tags": [
+      "indian",
+      "mexican",
+      "spicy",
+      "quesadilla"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
     "shard": "s"
   }
 ]
