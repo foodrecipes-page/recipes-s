@@ -1,0 +1,83 @@
+{
+  "slug": "sushi-broil-pilaf",
+  "title": "Broiled Salmon Pilaf",
+  "description": "A simple and flavorful pilaf dish topped with broiled salmon.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "4",
+      "notes": "any type of salmon fillet"
+    },
+    {
+      "name": "Broth",
+      "amount": "2 cups",
+      "notes": "chicken or fish broth"
+    },
+    {
+      "name": "Pilaf mix",
+      "amount": "1 package",
+      "notes": "contains rice and seasonings"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler.",
+    "Cook pilaf according to package instructions.",
+    "Heat broth in a separate pan over medium heat.",
+    "Add onion and garlic to the pan and sauté until softened.",
+    "Add cooked pilaf to the pan and stir to combine.",
+    "Season with soy sauce and lemon juice if desired.",
+    "Place salmon fillet on a broiler pan and brush with lemon juice.",
+    "Broil salmon for 8-10 minutes or until cooked through.",
+    "Serve pilaf topped with broiled salmon and garnish with green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "pilaf",
+    "broiled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sushi-broil-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:27:54.318Z"
+}
