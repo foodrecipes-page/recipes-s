@@ -1,0 +1,67 @@
+{
+  "slug": "salty-fluffy-kabanos-sausages-grill--french",
+  "title": "French Sausage Grill",
+  "description": "A traditional French-inspired dish featuring grilled sausages with a side of savory salty and fluffy accompaniments.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "preferably French-style or Andouille"
+    },
+    {
+      "name": "Salty",
+      "amount": "1/4 cup",
+      "notes": "salty crackers or toasted bread"
+    },
+    {
+      "name": "Fluffy",
+      "amount": "1/2 cup",
+      "notes": "steamed or roasted potatoes"
+    },
+    {
+      "name": "Kabanos",
+      "amount": "1/4 cup",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": "for grilling sausages"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F/190°C).",
+    "Season sausages with salt and pepper.",
+    "Grill sausages for 5-7 minutes per side, or until browned and cooked through.",
+    "Meanwhile, toast salty crackers or bread.",
+    "Steam or roast potatoes until fluffy.",
+    "Optional: grill kabanos for 2-3 minutes per side, or until crispy.",
+    "Serve sausages with toasted salty crackers, fluffy potatoes, and grilled kabanos (if using).",
+    "Enjoy immediately!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "grilled-sausages",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-fluffy-kabanos-sausages-grill--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:37:49.552Z"
+}
