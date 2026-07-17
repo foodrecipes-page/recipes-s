@@ -7765,17 +7765,14 @@
   },
   {
     "slug": "shattering-nutty-egyptian-rice-noodles-stir-fry",
-    "title": "Shattering Nutty Egyptian Rice Noodles Stir-Fry",
+    "title": "Egyptian Stir Fry",
     "tags": [
+      "vegetarian",
       "egyptian",
-      "high-fiber",
-      "iron-teppan",
-      "nutty",
-      "rice-noodles",
-      "stir-fry"
+      "rice-bowl"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -18504,14 +18501,15 @@
   },
   {
     "slug": "smoky-light-vermicelli-rice-noodles-stir-fry",
-    "title": "Smoky Light Vermicelli Rice Noodles Stir-fry",
+    "title": "Smoky Noodle Stir Fry",
     "tags": [
-      "smoky-light-vermicelli-rice-noodles",
-      "halal-friendly",
-      "cozy-indian-dish"
+      "noodle-stir-fry",
+      "smoky-noodles",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -26254,13 +26252,13 @@
   },
   {
     "slug": "sour-silky-light-ukrainian-whole-wheat-pilaf",
-    "title": "Sour Silky Light Ukrainian Whole Wheat Pilaf",
+    "title": "Sour Wheat Pilaf",
     "tags": [
-      "whole wheat",
-      "sour cream",
-      "keto-friendly",
-      "ukrainian",
-      "pilaf"
+      "gluten-free",
+      "light",
+      "lunch",
+      "pilaf",
+      "sour"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 30,
@@ -28945,15 +28943,14 @@
   },
   {
     "slug": "spicy-fluffy-showoff-saudia-yogurt-stir-fry",
-    "title": "Spicy Fluffy Showoff Saudia Yogurt Stir-fry",
+    "title": "Saudia-Style Spicy Stir Fry",
     "tags": [
-      "spicy-fluffy",
-      "saudia-yogurt-stir-fry",
-      "naan-bread",
-      "show-off",
-      "sugar-free-friendly"
+      "spicy",
+      "saudia",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": "International",
     "totalTimeMin": 25,
     "shard": "s"
   },
@@ -38840,6 +38837,34 @@
     ],
     "cuisine": null,
     "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-zesty-australian-callaloo-stew--italian",
+    "title": "Callaloo alla Italiana",
+    "tags": [
+      "italian",
+      "stew",
+      "lunch",
+      "callaloo",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-fluffy-dutch-colby-jack-cheese-casserole--vegan",
+    "title": "Vegan Colby Casserole",
+    "tags": [
+      "vegan",
+      "cheese",
+      "casserole",
+      "easy",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "s"
   }
 ]
