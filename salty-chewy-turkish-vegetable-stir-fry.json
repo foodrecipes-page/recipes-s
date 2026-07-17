@@ -1,0 +1,71 @@
+{
+  "slug": "salty-chewy-turkish-vegetable-stir-fry",
+  "title": "Turkish Vegetable Stew",
+  "description": "A hearty and flavorful Turkish-inspired stew made with a variety of vegetables.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkish",
+      "amount": "2 cups chopped",
+      "notes": ""
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 cup diced carrots",
+      "notes": ""
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 cup sliced zucchini",
+      "notes": ""
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons olive oil",
+      "notes": ""
+    },
+    {
+      "name": "fry",
+      "amount": "1 onion, diced",
+      "notes": ""
+    },
+    {
+      "name": "salty",
+      "amount": "1 teaspoon salt",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the chopped Turkish vegetables and cook for an additional 5 minutes.",
+    "Add the sliced zucchini and diced carrots.",
+    "Season with salt to taste.",
+    "Simmer the stew for 20-25 minutes or until the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-chewy-turkish-vegetable-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:05:41.146Z"
+}
