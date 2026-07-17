@@ -1,0 +1,55 @@
+{
+  "slug": "sweet-tanduqueria-tempura",
+  "title": "Tanduqueria Sweet Fritters",
+  "description": "Crispy fritters filled with sweet tanduqueria, perfect for a snack or dessert.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tanduqueria",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sweet",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tempura batter mix",
+      "amount": "1 packet"
+    }
+  ],
+  "instructions": [
+    "1. Mix tanduqueria and sweet in a bowl.",
+    "2. Add tempura batter mix and mix until a dough forms.",
+    "3. Heat oil in a deep frying pan to 350°F.",
+    "4. Drop spoonfuls of the dough into the oil.",
+    "5. Fry for 2-3 minutes or until golden brown.",
+    "6. Drain on paper towels.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "tanduqueria",
+    "fritters",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-tanduqueria-tempura",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:10:04.552Z"
+}
