@@ -211,17 +211,14 @@
   },
   {
     "slug": "salty-chewy-turkish-vegetable-stir-fry",
-    "title": "Salty Chewy Turkish Vegetable Stir Fry",
+    "title": "Turkish Vegetable Stew",
     "tags": [
       "turkish",
-      "vegetarian",
-      "stir-fry",
-      "peanut-oil",
-      "eggplant",
-      "bell-pepper"
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -13879,17 +13876,14 @@
   },
   {
     "slug": "smoky-australian-beef-skewers",
-    "title": "Smoky Australian Beef Skewers",
+    "title": "Smoky Beef Skewers",
     "tags": [
+      "smoky",
+      "australian",
       "beef",
-      "skewers",
-      "barbecue",
-      "sugar-free",
-      "gluten-free",
-      "quick",
-      "smoky"
+      "skewers"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 25,
     "shard": "s"
   },
@@ -38724,6 +38718,18 @@
     ],
     "cuisine": null,
     "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "spiced-egyptian-chicken-casserole--chinese",
+    "title": "Spiced Chicken Casserole",
+    "tags": [
+      "chinese",
+      "casserole",
+      "spiced-chicken"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
     "shard": "s"
   }
 ]
