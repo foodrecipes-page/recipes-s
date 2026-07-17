@@ -1661,15 +1661,16 @@
   },
   {
     "slug": "salty-shaggy-lazy-sunday-french-serrano-ham-pilaf",
-    "title": "Salty Shaggy Lazy-Sunday French Serrano Ham Pilaf",
+    "title": "Sunday Serrano Ham Pilaf",
     "tags": [
-      "brigtany",
-      "lazy-sunday",
       "pilaf",
-      "serrano-ham"
+      "ham",
+      "serrano",
+      "sunday",
+      "dinner"
     ],
-    "cuisine": "French (Brittany)",
-    "totalTimeMin": 48,
+    "cuisine": "French",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -3966,16 +3967,14 @@
   },
   {
     "slug": "savory-fluffy-slovakian-sugar-snap-peas-dumplings",
-    "title": "Savory Fluffy Slovakian Sugar Snap Peas Dumplings",
+    "title": "Slovakian Pea Dumplings",
     "tags": [
-      "slovakian-cuisine",
-      "vegetarian",
-      "dairy-free",
-      "tandoor-oven",
-      "midnight-craving"
+      "slovakian",
+      "dumplings",
+      "peas"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -25484,17 +25483,14 @@
   },
   {
     "slug": "sour-fluffy-brazilian-vermicelli-stir-fry",
-    "title": "Sour Fluffy Brazilian Vermicelli Stir‑Fry",
+    "title": "Brazilian-Style Stir-Fried Noodles",
     "tags": [
-      "fluffy",
-      "sour",
       "stir-fry",
-      "vermicelli",
-      "brazilian",
-      "vegetarian"
+      "noodles",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 10,
+    "totalTimeMin": 20,
     "shard": "s"
   },
   {
@@ -38730,6 +38726,45 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-and-creamy-kenyan-yams-stir-fry--french",
+    "title": "Kenyan-Style Yam Fritters with Sweet Stir-Fry Sauce",
+    "tags": [
+      "french",
+      "kenyan",
+      "snack",
+      "yams"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 27,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-juicy-malaysian-chicken-curry--french",
+    "title": "Chicken Curry in French Style",
+    "tags": [
+      "chicken",
+      "curry",
+      "french",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-tender-slovakian-fenugreek-stir-fry--italian",
+    "title": "Slovakian Fenugreek Chicken Fritters",
+    "tags": [
+      "italian-food",
+      "chicken-recipe",
+      "fenugreek-recipe"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 23,
     "shard": "s"
   }
 ]
