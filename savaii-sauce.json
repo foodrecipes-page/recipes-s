@@ -1,0 +1,50 @@
+{
+  "slug": "savaii-sauce",
+  "title": "Savaii BBQ Sauce Glazed Chicken",
+  "description": "A sweet and tangy chicken dish glazed with a homemade BBQ sauce made with savaii and sauce.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "pounds"
+    },
+    {
+      "name": "savaii",
+      "amount": "2",
+      "notes": "tablespoons"
+    },
+    {
+      "name": "sauce",
+      "amount": "1",
+      "notes": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, whisk together savaii and sauce to make the BBQ sauce.",
+    "Place chicken breasts in a shallow dish and brush both sides with the BBQ sauce.",
+    "Season with salt and pepper to taste.",
+    "Bake for 20-25 minutes or until the chicken is cooked through and reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "bbq",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savaii-sauce",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:25:51.551Z"
+}
