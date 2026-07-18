@@ -12158,16 +12158,15 @@
   },
   {
     "slug": "slow-slovakian-cheese-lasagna",
-    "title": "Slow Slovakian Cheese Lasagna",
+    "title": "Slovakian Lasagna",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "slovakian",
+      "lasagna",
+      "cheese",
+      "meat"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 60,
     "shard": "s"
   },
   {
@@ -16541,10 +16540,14 @@
   },
   {
     "slug": "smoky-flaky-jamaican-cheddar-dumplings",
-    "title": "Smoky Flaky Jamaican Cheddar Dumplings",
-    "tags": [],
-    "cuisine": "Jamaican",
-    "totalTimeMin": null,
+    "title": "Jamaican Smoked Chicken and Dumplings",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "smoked-chicken"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -39859,6 +39862,21 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-irish-kale-chowder--italian",
+    "title": "Italian Kale and Chowder Soup",
+    "tags": [
+      "italian",
+      "soup",
+      "kale",
+      "chowder",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "s"
   }
 ]
