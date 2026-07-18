@@ -1695,14 +1695,16 @@
   },
   {
     "slug": "salty-silky-festive-malaysian-turkey-mince-stir-fry",
-    "title": "Salty Silky Festive Malaysian Turkey Mince Stir-fry",
+    "title": "Malaysian Turkey Mince Stir Fry",
     "tags": [
-      "salty-silky-festive",
-      "malaysian-turkey-mince-stir-fry",
-      "vegan-friendly"
+      "turkey",
+      "mince",
+      "stir-fry",
+      "malaysian",
+      "dinner"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "s"
   },
   {
@@ -39569,6 +39571,71 @@
       "japanese-snacks"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-velvety-indulgent-flaxseed-korean-stir-fry--japanese",
+    "title": "Korean-Style Teriyaki Stir Fry with Flaxseed",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "stir-fry",
+      "tofu",
+      "flaxseed"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-crisp-portuguese-chips-crumble--chinese",
+    "title": "Crispy Wontons with Savory Crumble",
+    "tags": [
+      "chinese",
+      "snack",
+      "crunchy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-portuguese-poppy-seeds-stir-fry--indian",
+    "title": "Spicy Indian Stir Fry",
+    "tags": [
+      "indian",
+      "stir-fry",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-vietnamese-barramundi-stir-fry--vegan",
+    "title": "Spicy Vietnamese-Style Barramundi Stir Fry",
+    "tags": [
+      "vietnamese",
+      "spicy",
+      "vegan",
+      "stir-fry"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 27,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-crumbly-pickles-crumble--italian",
+    "title": "Italian Crispy Pickle Fritters",
+    "tags": [
+      "italian",
+      "fried",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "s"
   }
