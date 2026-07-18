@@ -15939,16 +15939,14 @@
   },
   {
     "slug": "smoky-date-night-tacos",
-    "title": "Smoky Date Night Tacos",
+    "title": "Smoky Taco Stuffed Dates",
     "tags": [
-      "smoky",
-      "taco",
-      "date-night",
-      "brazilian",
-      "low-fat"
+      "snack",
+      "appetizer",
+      "mexican"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "cuisine": "Mexican",
+    "totalTimeMin": 22,
     "shard": "s"
   },
   {
@@ -18332,16 +18330,14 @@
   },
   {
     "slug": "smoky-light-adventurous-squid-wrap",
-    "title": "Smoky Light Adventurous Squid Wrap",
+    "title": "Squid Wrap",
     "tags": [
-      "lunch",
       "mexican",
-      "one-pan",
       "seafood",
-      "weeknight"
+      "adventurous"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 25,
+    "cuisine": "Mexican",
+    "totalTimeMin": 23,
     "shard": "s"
   },
   {
@@ -39431,6 +39427,72 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-dutch-rice-bowl--indian",
+    "title": "Savory Dutch Rice Bowl",
+    "tags": [
+      "indian",
+      "rice-bowl",
+      "gouda-cheese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "shattering-bitter-irish-beef-stock-stew--keto",
+    "title": "Irish Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "keto"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 135,
+    "shard": "s"
+  },
+  {
+    "slug": "sardine-symphony--chinese",
+    "title": "Sardine Symphony Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "seafood",
+      "vegetables"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-sausage-and-fold-vegetarian-wrap--vegan",
+    "title": "Spicy Vegan Sausage Wrap",
+    "tags": [
+      "vegan",
+      "quick-and-easy",
+      "lunch",
+      "dinner",
+      "wrap",
+      "sausage"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 20,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crunchy-australian-chinese-leaf-wrap--chinese",
+    "title": "Smoky Chicken Wraps",
+    "tags": [
+      "chinese",
+      "chicken",
+      "wrap",
+      "lunch",
+      "easy-to-make"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
     "shard": "s"
   }
 ]
