@@ -1643,19 +1643,15 @@
   },
   {
     "slug": "salty-russian-grapes-bake",
-    "title": "Salty Russian Grapes Bake",
+    "title": "Russian Grape Pie",
     "tags": [
       "russian",
-      "dessert",
-      "snack",
-      "crispy",
-      "salty",
-      "grapes",
-      "egg-free",
-      "gluten-free"
+      "grape",
+      "pie",
+      "dessert"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 17,
+    "cuisine": "Russian",
+    "totalTimeMin": 65,
     "shard": "s"
   },
   {
@@ -5163,17 +5159,15 @@
   },
   {
     "slug": "savory-peruvian-burrata-skewers",
-    "title": "Savory Peruvian Burrata Skewers",
+    "title": "Grilled Skewers with Savory Burrata Dip",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "low-carb",
-      "meal-prep",
-      "peruvian-cuisine",
-      "snack"
+      "appetizer",
+      "snack",
+      "grilled",
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "s"
   },
   {
@@ -10321,17 +10315,14 @@
   },
   {
     "slug": "silky-peruvian-vegetable-stew",
-    "title": "Silky Peruvian Vegetable Stew",
+    "title": "Peruvian Stew",
     "tags": [
-      "bain-marie",
-      "cozy-meal",
-      "one-pan",
-      "peruvian-cuisine",
-      "tava-griddle",
-      "vegan-friendly"
+      "peruvian",
+      "stew",
+      "beef"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "cuisine": "peruvian",
+    "totalTimeMin": 80,
     "shard": "s"
   },
   {
@@ -14359,16 +14350,16 @@
   },
   {
     "slug": "smoky-charred-german-chickpeas-hash",
-    "title": "smoky charred german chickpeas hash",
+    "title": "German-Style Smoky Hash",
     "tags": [
-      "brunch",
       "german",
-      "high-protein",
-      "one-pan",
-      "vegan"
+      "smoky",
+      "hash",
+      "chickpeas",
+      "breakfast"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 40,
+    "cuisine": "German",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -39305,6 +39296,45 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-smoky-french-cheese-souffle--vegan",
+    "title": "Savory Vegan Soufflé",
+    "tags": [
+      "vegan",
+      "soufflé",
+      "savory"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-creamy-raw-friendly-algerian-bhuna-stir-fry--german",
+    "title": "Sauerbraten mit Kartoffeln",
+    "tags": [
+      "german",
+      "beef",
+      "potatoes",
+      "onions",
+      "carrots"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 200,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-fluffy-portuguese-pork-stir-fry--thai",
+    "title": "Thai-Style Pork Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "pork",
+      "rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
