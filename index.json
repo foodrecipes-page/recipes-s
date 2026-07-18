@@ -11417,17 +11417,14 @@
   },
   {
     "slug": "sizzling-mediterranean-pinto-bean-stew",
-    "title": "Sizzling Mediterranean Pinto Bean Stew",
+    "title": "Hearty Pinto Bean Stew",
     "tags": [
-      "comfort-food",
-      "copper-mug",
-      "gluten-free",
       "mediterranean",
-      "sizzling",
-      "vegetarian"
+      "stew",
+      "beans"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -39784,6 +39781,44 @@
       "norval"
     ],
     "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "snappy-polish-lime-dinner--thai",
+    "title": "Snappy Thai Style Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-silky-ethiopian-chicken-skewers--thai",
+    "title": "Thai Grilled Chicken Skewers",
+    "tags": [
+      "thai",
+      "grilled",
+      "chicken"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 38,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-gooey-filipino-corned-beef-stew--chinese",
+    "title": "Beef and Corned Beef Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "beef",
+      "corned-beef"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "s"
   }
