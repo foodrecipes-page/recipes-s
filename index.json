@@ -2244,17 +2244,15 @@
   },
   {
     "slug": "sashimi-cut-uruguayan-horseradish-solo-dinner",
-    "title": "Sashimi-cut Uruguayan Horseradish Solo-Dinner",
+    "title": "Uruguayan Sirloin Steak with Horseradish Sauce",
     "tags": [
-      "high-protein",
-      "horseradish",
-      "one-pan",
-      "sashimi",
       "uruguayan",
-      "weeknight"
+      "steak",
+      "horseradish",
+      "grilled"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 30,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 27,
     "shard": "s"
   },
   {
@@ -2392,14 +2390,14 @@
   },
   {
     "slug": "savaii-sauce",
-    "title": "Savaii Sauce",
+    "title": "Savaii BBQ Sauce Glazed Chicken",
     "tags": [
-      "savaii-sauce",
-      "tangy-ethiopian-dish",
-      "sevaiya"
+      "chicken",
+      "bbq",
+      "gluten-free"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 15,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -25886,18 +25884,15 @@
   },
   {
     "slug": "sour-juicy-slovakian-chicken-stew",
-    "title": "Sour Juicy Slovakian Chicken Stew",
+    "title": "Slovakian Chicken Stew",
     "tags": [
       "slovakian",
       "chicken",
       "stew",
-      "coconut-milk",
-      "sous-vide",
-      "low-calorie",
-      "kid-friendly"
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 140,
+    "totalTimeMin": 60,
     "shard": "s"
   },
   {
@@ -26065,16 +26060,15 @@
   },
   {
     "slug": "sour-portuguese-rice-paella",
-    "title": "Sour Portuguese Rice Paella",
+    "title": "Classic Portuguese Paella",
     "tags": [
-      "gluten-free",
-      "one-pan",
       "portuguese",
-      "vegetarian",
-      "weeknight"
+      "seafood",
+      "rice",
+      "paella"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -34978,10 +34972,17 @@
   },
   {
     "slug": "sweet-light-slovakian-lettuce-salad",
-    "title": "Sweet Light Slovakian Lettuce Salad",
-    "tags": [],
+    "title": "Traditional Slovakian Salad",
+    "tags": [
+      "salad",
+      "lunch",
+      "dinner",
+      "slovakian",
+      "vegetarian",
+      "gluten-free"
+    ],
     "cuisine": "Slovakian",
-    "totalTimeMin": null,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -39637,6 +39638,71 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sizzling-shattering-norwegian-cod-stew--mexican",
+    "title": "Mexican Cod Tacos",
+    "tags": [
+      "mexican",
+      "fish-tacos",
+      "easy-dinner"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "s"
+  },
+  {
+    "slug": "shaggy-savory-tunisian-cheese-flatbread--thai",
+    "title": "Tunisian Flatbread Wraps with Savory Shaggy Meat",
+    "tags": [
+      "flatbread",
+      "shaggy",
+      "savory",
+      "cheese",
+      "thaifusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "sushi-broil-pilaf--french",
+    "title": "French Baked Salmon with Pilaf",
+    "tags": [
+      "french",
+      "seafood",
+      "salmon",
+      "pilaf"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-polish-beef-casserole--german",
+    "title": "Traditional German Beef Casserole",
+    "tags": [
+      "german",
+      "beef",
+      "casserole",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crunchy-australian-chinese-leaf-wrap--gluten-free",
+    "title": "Australian Smoked Chicken Wrap",
+    "tags": [
+      "australian",
+      "gluten-free",
+      "chicken",
+      "wrap"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "s"
   }
 ]
