@@ -8806,17 +8806,14 @@
   },
   {
     "slug": "sick-day-spicy-venezuelan-bamboo-shoot-toast",
-    "title": "Sick-Day Spicy Venezuelan Bamboo Shoot Toast",
+    "title": "Spicy Venezuelan Bamboo Shoot Toast",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "pescatarian",
       "snack",
-      "venezuelan",
-      "weeknight"
+      "veggie",
+      "vegan-friendly"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 25,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 17,
     "shard": "s"
   },
   {
@@ -23850,16 +23847,14 @@
   },
   {
     "slug": "sour-and-flaky-chinese-veggie-toast",
-    "title": "Sour and Flaky Chinese Veggie Toast",
+    "title": "Flaky Veggie Sour Toast",
     "tags": [
-      "sour",
-      "flaky",
-      "date-night",
-      "chinese",
-      "vegan-friendly"
+      "veggie",
+      "breakfast",
+      "chinese"
     ],
-    "cuisine": "Cantonese",
-    "totalTimeMin": 25,
+    "cuisine": "Chinese",
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -39750,6 +39745,46 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-ethiopian-brie-stew--mexican",
+    "title": "Mexican Sour Brie Stew",
+    "tags": [
+      "mexican",
+      "stew",
+      "cheese",
+      "sourcream"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-crumbly-dutch-apricot-crumble--chinese",
+    "title": "Dutch Apricot Crumble Noodle Stir Fry",
+    "tags": [
+      "chinese",
+      "noodle",
+      "stir-fry",
+      "dessert-adjacent",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sesame-crispy-norval--french",
+    "title": "Pan-Seared Norval with Sesame Crust",
+    "tags": [
+      "french",
+      "seafood",
+      "sesame",
+      "norval"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
