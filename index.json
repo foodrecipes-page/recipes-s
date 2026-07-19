@@ -23868,15 +23868,14 @@
   },
   {
     "slug": "sour-australian-lamb-grill",
-    "title": "Sour Australian Lamb Grill",
+    "title": "Australian Lamb Skewers",
     "tags": [
-      "australian-cuisine",
-      "bay-leaf",
-      "flambe",
-      "high-protein"
+      "lamb",
+      "grill",
+      "australian"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 90,
+    "cuisine": "Australian",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -31457,16 +31456,14 @@
   },
   {
     "slug": "springy-caramelized-croatian-saskatoon-berries-pilaf",
-    "title": "Springy Caramelized Croatian Saskatoon berries Pilaf",
+    "title": "Saskatoon Berry Pilaf with Caramelized Croation Spring Onions",
     "tags": [
-      "brunch",
-      "gluten-free",
-      "one-pot",
-      "spring",
-      "vegetarian"
+      "pilaf",
+      "spring-onions",
+      "saskatoon-berries"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "cuisine": "Continental European",
+    "totalTimeMin": 22,
     "shard": "s"
   },
   {
@@ -39949,6 +39946,56 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-shredded-mexican-pork-cochinita-pibil--vegan",
+    "title": "Smoky Mexican Pibil Tacos",
+    "tags": [
+      "vegan",
+      "mexican",
+      "tacos",
+      "pibil"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sugar-crumble--italian",
+    "title": "Custard Crumble Cake",
+    "tags": [
+      "cake",
+      "italian",
+      "dessert"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-egyptian-white-cornmeal-bake--french",
+    "title": "French Savory Fritters",
+    "tags": [
+      "french",
+      "snack",
+      "fritters"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-scrambled-turkish-eggs-menemen--vegan",
+    "title": "Vegan Turkish-Style Menemen",
+    "tags": [
+      "vegan",
+      "turkish",
+      "breakfast",
+      "scrambled-eggs"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
