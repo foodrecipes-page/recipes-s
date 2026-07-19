@@ -1,0 +1,51 @@
+{
+  "slug": "sugar-crumble--italian",
+  "title": "Custard Crumble Cake",
+  "description": "A classic Italian dessert featuring a crumble topping over a rich custard cake.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9-inch springform pan and set aside.",
+    "In a medium bowl, whisk together sugar and eggs until light and fluffy.",
+    "Pour custard mixture into prepared pan and smooth top.",
+    "In a separate bowl, mix crumble topping with a fork until crumbly.",
+    "Spread crumble topping evenly over custard mixture.",
+    "Bake for 40-45 minutes, or until golden brown and set.",
+    "Remove from oven and let cool on a wire rack for 10 minutes.",
+    "Serve warm, topped with powdered sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "italian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sugar-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:44:21.730Z"
+}
