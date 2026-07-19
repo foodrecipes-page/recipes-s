@@ -834,18 +834,16 @@
   },
   {
     "slug": "salty-flaky-kenyan-potato-flatbread",
-    "title": "Salty Flaky Kenyan Potato Flatbread",
+    "title": "Kenyan Flatbread with Salty Potato Filling",
     "tags": [
-      "salty",
-      "flaky",
-      "vegetarian",
+      "flatbread",
       "kenyan",
-      "quick",
       "potato",
-      "flatbread"
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -20083,16 +20081,15 @@
   },
   {
     "slug": "smoky-roasted-mediterranean-avocado-crumble",
-    "title": "Smoky Roasted Mediterranean Avocado Crumble",
+    "title": "Roasted Avocado Salad with Smoky Feta Crumble",
     "tags": [
-      "smoky",
-      "roasted",
+      "salad",
       "avocado",
-      "crumble",
-      "paleo-friendly"
+      "feta",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -40008,6 +40005,45 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crispy-pepperoni-stir-fry--japanese",
+    "title": "Smoky Pepperoni Teriyaki Stir Fry",
+    "tags": [
+      "pepperoni",
+      "japanese",
+      "stir-fry",
+      "teriyaki",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "s"
+  },
+  {
+    "slug": "smoke-cold-mexican-peas-tacos--indian",
+    "title": "Indian-Style Peas Taco",
+    "tags": [
+      "indian",
+      "mexican",
+      "tacos",
+      "peas"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 18,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-indian-chicken-curry--thai",
+    "title": "Thai Chicken Curry",
+    "tags": [
+      "thai",
+      "chicken",
+      "curry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "s"
   }
 ]
