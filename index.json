@@ -4917,17 +4917,15 @@
   },
   {
     "slug": "savory-middle-eastern-lamb-bowl",
-    "title": "Savory Middle Eastern Lamb Bowl",
+    "title": "Lamb and Rice Bowl",
     "tags": [
-      "brunch-ideas",
-      "dairy-free",
-      "gluten-free",
-      "lamb-recipes",
-      "middle-eastern",
-      "one-bowl"
+      "lamb",
+      "rice",
+      "middle eastern",
+      "bowls"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -7748,11 +7746,12 @@
   },
   {
     "slug": "shattering-nutty-egyptian-rice-noodles-stir-fry",
-    "title": "Egyptian Stir Fry",
+    "title": "Egyptian Nutty Rice Bowl",
     "tags": [
-      "vegetarian",
-      "egyptian",
-      "rice-bowl"
+      "rice",
+      "nutty",
+      "shattering",
+      "egyptian"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 25,
@@ -40132,6 +40131,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 75,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-tanduqueria-tempura--indian",
+    "title": "Sweet Tanduqueria Chicken Tempura",
+    "tags": [
+      "indian",
+      "chicken",
+      "tempura",
+      "sweet",
+      "tanduqueria"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-oozy-greek-buckwheat-oven-roasted-galaktoboureko--thai",
+    "title": "Savory Buckwheat Cakes with Galaktoboureko Salsa",
+    "tags": [
+      "thai",
+      "greek",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
     "shard": "s"
   }
 ]
