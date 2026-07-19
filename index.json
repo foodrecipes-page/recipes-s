@@ -3329,18 +3329,14 @@
   },
   {
     "slug": "savory-crunchy-brazilian-tofu-crumble",
-    "title": "Savory Crunchy Brazilian Tofu Crumble",
+    "title": "Brazilian Crumbly Tofu Bites",
     "tags": [
-      "sour",
-      "chewy",
-      "brazilian",
       "tofu",
-      "crumble",
-      "brunch-mood",
-      "rice-vermicelli"
+      "snack",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -4741,16 +4737,15 @@
   },
   {
     "slug": "savory-little-gem-slaw",
-    "title": "Savory Little Gem Slaw",
+    "title": "Gem Slaw Savory Delight",
     "tags": [
-      "sour",
-      "tender",
-      "solo-dinner",
-      "mexican-norteño",
-      "vegan-friendly"
+      "slaw",
+      "gem-lettuce",
+      "savory",
+      "side-dish"
     ],
-    "cuisine": "Mexican (Norteño)",
-    "totalTimeMin": null,
+    "cuisine": "american",
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -18029,17 +18024,14 @@
   },
   {
     "slug": "smoky-juicy-croatian-sausage-roast",
-    "title": "Smoky Juicy Croatian Sausage Roast",
+    "title": "Smoky Roast Sausage",
     "tags": [
-      "dinner",
-      "main-course",
-      "roast",
       "smoky",
-      "kosher-friendly",
-      "croatian"
+      "roast",
+      "sausage"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 105,
+    "cuisine": "European",
+    "totalTimeMin": 75,
     "shard": "s"
   },
   {
@@ -36122,16 +36114,14 @@
   },
   {
     "slug": "sweet-velvet-steak",
-    "title": "Sweet Velvet Steak",
+    "title": "Grilled Steak with Sweet Velvet Glaze",
     "tags": [
-      "sweet",
-      "velvet",
-      "japanese",
-      "steak",
-      "weeknight"
+      "grilled-steak",
+      "sweet-velvet-glaze",
+      "american-cuisine"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "s"
   },
   {
@@ -40069,6 +40059,45 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 22,
+    "shard": "s"
+  },
+  {
+    "slug": "sugar-curacao--japanese",
+    "title": "Japanese Curacao Float",
+    "tags": [
+      "japanese",
+      "dessert",
+      "easy",
+      "summer",
+      "float"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 10,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-crisp-light-french-mulukhiyah-stir-fry--japanese",
+    "title": "Pan-Seared Japanese Mulukhiyah",
+    "tags": [
+      "japanese",
+      "mulukhiyah",
+      "sour",
+      "crisp"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-juicy-slovakian-chicken-stew--german",
+    "title": "Slovakian Stew",
+    "tags": [
+      "german",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "s"
   }
 ]
