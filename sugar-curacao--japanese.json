@@ -1,0 +1,73 @@
+{
+  "slug": "sugar-curacao--japanese",
+  "title": "Japanese Curacao Float",
+  "description": "A unique dessert that combines Japanese flavors with a tropical twist. Layered with ice cream and a splash of liqueur, this dessert is perfect for hot summer nights.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mochi ice cream",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Curacao",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mochi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Green tea powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the mochi ice cream according to the package instructions.",
+    "Cut the mochi into small pieces.",
+    "In a small bowl, mix together the sesame seeds and green tea powder.",
+    "In a separate bowl, mix together the granulated sugar and Curacao.",
+    "To assemble the dessert, place a scoop of mochi ice cream in a glass.",
+    "Sprinkle the sesame seed and green tea powder mixture over the ice cream.",
+    "Drizzle the sugar and Curacao mixture over the top.",
+    "Repeat the layers one more time, ending with a scoop of ice cream on top.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "dessert",
+    "easy",
+    "summer",
+    "float"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sugar-curacao--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:52:22.831Z"
+}
