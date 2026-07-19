@@ -15739,10 +15739,15 @@
   },
   {
     "slug": "smoky-crumbly-slovakian-pork-casserole",
-    "title": "Smoky Crumbly Slovakian Pork Casserole",
-    "tags": [],
+    "title": "Smoky Slovakian Pork Casserole",
+    "tags": [
+      "slovakian",
+      "pork",
+      "casserole",
+      "comfort-food"
+    ],
     "cuisine": "Slovakian",
-    "totalTimeMin": null,
+    "totalTimeMin": 55,
     "shard": "s"
   },
   {
@@ -40196,6 +40201,44 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-crunchy-brazilian-green-beans-stir-fry--keto",
+    "title": "Brazilian Keto Stir Fry",
+    "tags": [
+      "keto",
+      "brazilian",
+      "stir-fry"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-flaky-jamaican-cheddar-dumplings--vegetarian",
+    "title": "Smoky Jamaican Dumplings",
+    "tags": [
+      "jamaican",
+      "vegetarian",
+      "cheese",
+      "dinner"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-silky-tunisian-lamb-tagine--french",
+    "title": "Tunisian Lamb Tagine",
+    "tags": [
+      "french",
+      "north-african",
+      "lamb",
+      "tagine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 110,
     "shard": "s"
   }
 ]
