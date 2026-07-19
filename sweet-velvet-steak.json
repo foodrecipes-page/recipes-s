@@ -1,0 +1,70 @@
+{
+  "slug": "sweet-velvet-steak",
+  "title": "Grilled Steak with Sweet Velvet Glaze",
+  "description": "A sweet and savory glaze pairs perfectly with a grilled steak for a delicious and satisfying meal.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Velvet Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a small bowl, whisk together sweet velvet sauce, olive oil, garlic powder, salt, and pepper.",
+    "Brush the mixture evenly over both sides of the flank steak.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a plate and let it rest for 5 minutes before slicing.",
+    "Serve the sliced steak with additional sweet velvet sauce spooned over the top if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-steak",
+    "sweet-velvet-glaze",
+    "american-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-velvet-steak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:44:39.225Z"
+}
