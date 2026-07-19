@@ -17561,19 +17561,15 @@
   },
   {
     "slug": "smoky-gooey-uruguayan-sour-cream-casserole",
-    "title": "Smoky Gooey Uruguayan Sour Cream Casserole",
+    "title": "Uruguayan Smoky Casserole",
     "tags": [
-      "breakfast",
-      "casserole",
-      "cheddar",
-      "hangover-cure",
-      "smoked",
-      "sour-cream",
       "uruguayan",
-      "weeknight"
+      "smoky",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -22076,10 +22072,15 @@
   },
   {
     "slug": "smoky-syrian-lamb-kebabs",
-    "title": "Smoky Syrian Lamb Kebabs",
-    "tags": [],
-    "cuisine": "Syrian",
-    "totalTimeMin": null,
+    "title": "Syrian-Style Lamb Kebabs",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "syrian",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -40380,6 +40381,60 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-smoky-mexican-beef-barbacoa--gluten-free",
+    "title": "Smoked Barbacoa Beef Tacos",
+    "tags": [
+      "mexican",
+      "barbacoa",
+      "tacos",
+      "gluten-free",
+      "beef",
+      "slow-cooker"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 425,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-creamy-egyptian-yogurt-stir-fry--vegetarian",
+    "title": "Egyptian Veggie Stir Fry",
+    "tags": [
+      "vegetarian",
+      "egyptian-cuisine",
+      "quick-recipe"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "springy-nutty-croatian-potatoes-hash--japanese",
+    "title": "Croatian Potato Hash with a Nutty Twist",
+    "tags": [
+      "breakfast",
+      "japanese",
+      "potatoes",
+      "hash",
+      "springy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-adventurous-canadian-duck-stir-fry--mexican",
+    "title": "Mexican Duck Stir-Fry",
+    "tags": [
+      "mexican",
+      "stir-fry",
+      "duck",
+      "easy-meal"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "s"
   }
 ]
