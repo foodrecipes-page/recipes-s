@@ -23640,16 +23640,15 @@
   },
   {
     "slug": "solo-dinner-thai-roast-roast",
-    "title": "Solo-Dinner Thai Roast",
+    "title": "Roast Chicken with Vegetable Roast",
     "tags": [
-      "easy-dinner",
-      "high-protein",
-      "one-pan",
+      "chicken",
       "thai",
-      "weeknight"
+      "roast",
+      "vegetables"
     ],
     "cuisine": "thai",
-    "totalTimeMin": 75,
+    "totalTimeMin": 60,
     "shard": "s"
   },
   {
@@ -40435,6 +40434,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-sweet-croatian-gouda-wrap--thai",
+    "title": "Thai Gouda Wrap",
+    "tags": [
+      "thai",
+      "lunch",
+      "dinner",
+      "cheese"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-gooey-filipino-corned-beef-stew--keto",
+    "title": "Smoky Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "keto",
+      "low-carb"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 105,
     "shard": "s"
   }
 ]
