@@ -15463,15 +15463,16 @@
   },
   {
     "slug": "smoky-crispy-venezulan-padron-peppers-stir-fry",
-    "title": "Smoky Crispy Venezulan Padron Peppers Stir-fry",
+    "title": "Venezulan Padron Pepper Stir Fry",
     "tags": [
-      "smoky",
-      "crunchy",
-      "vegansafe",
-      "halal"
+      "stir-fry",
+      "padron-peppers",
+      "venezulan-peppers",
+      "smoky-peppers",
+      "crispy-peppers"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -26452,18 +26453,15 @@
   },
   {
     "slug": "sour-tender-japanese-pork-ramen",
-    "title": "Sour Tender Japanese Pork Ramen",
+    "title": "Pork Ramen Noodle Stir Fry",
     "tags": [
-      "japanese",
-      "ramen",
       "pork",
-      "sour",
-      "tender",
-      "paleo",
-      "gluten-free"
+      "ramen",
+      "stir-fry",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 140,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -33804,15 +33802,14 @@
   },
   {
     "slug": "sweet-crispy-tofu-monsoon-venezuelan-stir-fry",
-    "title": "Sweet Crispy Tofu Monsoon Venezuelan Stir-fry",
+    "title": "Crispy Stir Fry",
     "tags": [
-      "sweet",
-      "crispy",
-      "monsoon",
-      "venezuelan"
+      "stir-fry",
+      "tofu",
+      "vegetarian"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -40098,6 +40095,43 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-herbal-date-linguine-stir-fry--gluten-free",
+    "title": "Herbal Linguine Stir Fry",
+    "tags": [
+      "gluten-free",
+      "herbal",
+      "spicy",
+      "quick-dinner"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 18,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-shaggy-lazy-sunday-french-serrano-ham-pilaf--vegan",
+    "title": "Vegan Sunday Pilaf",
+    "tags": [
+      "vegan",
+      "pilaf",
+      "sunday"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-crumbly-uruguayan-tripe-crumble--japanese",
+    "title": "Tripe Teriyaki",
+    "tags": [
+      "japanese",
+      "teriyaki",
+      "tripe"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 75,
     "shard": "s"
   }
 ]
