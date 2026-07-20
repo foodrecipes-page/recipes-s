@@ -1,0 +1,59 @@
+{
+  "slug": "suet-delight--indian",
+  "title": "Indian Suet Delight",
+  "description": "A traditional Indian dessert made with suet and delight, perfect for a sweet treat.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "delight",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "1. Heat the ghee in a pan over medium heat.",
+    "2. Add the grated suet and sauté until it's lightly browned.",
+    "3. Add the chopped delight, water, and mix well.",
+    "4. Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "5. Remove from heat and let it cool slightly.",
+    "6. Serve warm or chilled, garnished with chopped nuts or dried fruits."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian dessert",
+    "suet delight",
+    "sweet treat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/suet-delight--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:27:37.871Z"
+}
