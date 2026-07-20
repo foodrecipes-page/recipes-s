@@ -17784,14 +17784,14 @@
   },
   {
     "slug": "smoky-indian-lamb-kidney-stir-fry",
-    "title": "Smoky Indian Lamb Kidney Stir-fry",
+    "title": "Smoky Lamb Kidney Fry",
     "tags": [
-      "smoky-indian-dish",
-      "juicy-lamb-kidney-stir-fry",
-      "sugar-free-friendly"
+      "north-indian",
+      "kidney-fry",
+      "lamb-recipe"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 55,
+    "cuisine": "north indian",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -20754,18 +20754,15 @@
   },
   {
     "slug": "smoky-savory-australian-salmon-skewers",
-    "title": "Smoky Savory Australian Salmon Skewers",
+    "title": "Smoky Salmon Skewers",
     "tags": [
-      "australian",
       "grilled",
-      "savory",
-      "seafood",
-      "skewers",
-      "smoky",
-      "special-occasion"
+      "salmon",
+      "australian",
+      "skewers"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 36,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -40460,6 +40457,59 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 105,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-pea-halal-delight--indian",
+    "title": "Pea and Sweet Delight Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "chicken",
+      "vegetarian",
+      "halal"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-slovakian-cheese-lasagna--vegan",
+    "title": "Vegan Slovakian Lasagna",
+    "tags": [
+      "vegan",
+      "slovakian",
+      "lasagna",
+      "tofu"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 75,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-jain-apples-polish--vegan",
+    "title": "Vegan Apple Silky Delight",
+    "tags": [
+      "vegan",
+      "dessert",
+      "apples",
+      "silky"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crumbly-beef-crumble--chinese",
+    "title": "Smoky Beef Stir Fry",
+    "tags": [
+      "chinese",
+      "beef",
+      "stir-fry",
+      "smoky"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
