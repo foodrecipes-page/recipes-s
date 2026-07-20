@@ -1,0 +1,51 @@
+{
+  "slug": "silky-egg-stir-fry",
+  "title": "Stir-Fried Egg Scramble",
+  "description": "A simple scrambled egg dish, quickly cooked with silky stir-fry sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Stir-fry sauce (silky)",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Crack the eggs into a bowl and whisk them together.",
+    "2. Heat the stir-fry sauce in a non-stick pan over medium heat.",
+    "3. Add the whisked eggs to the pan and scramble them together with the sauce.",
+    "4. Cook until the eggs are set and the sauce is bubbly.",
+    "5. Serve the scrambled eggs hot."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "stir-fry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/silky-egg-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:31:54.562Z"
+}
