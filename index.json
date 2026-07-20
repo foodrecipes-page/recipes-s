@@ -20071,19 +20071,15 @@
   },
   {
     "slug": "smoky-roasted-mediterranean-celeriac-tagine",
-    "title": "Smoky Roasted Mediterranean Celeriac Tagine",
+    "title": "Smoky Celeriac Tagine",
     "tags": [
-      "cheese-pull",
-      "dairy",
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
-      "sour",
-      "vegetarian",
-      "weeknight"
+      "north-african",
+      "celeriac",
+      "tagine",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -26882,15 +26878,16 @@
   },
   {
     "slug": "sous-vide-filipino-bean-sprouts-stir-fry",
-    "title": "Sous-vide Filipino Bean Sprouts Stir-fry",
+    "title": "Stir Fry with Sous Vide Egg and Filipino Bean Sprouts",
     "tags": [
-      "sous-vide",
-      "filipino-bean-sprouts",
+      "breakfast",
       "stir-fry",
-      "buttery-and-juicy"
+      "egg",
+      "bean-sprouts",
+      "filipino"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "s"
   },
   {
@@ -40885,6 +40882,96 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-flaky-olive-stir-fry--french",
+    "title": "French Pan-Seared Sole",
+    "tags": [
+      "french",
+      "seafood",
+      "sole",
+      "pan-seared"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-american-goat-wrap--vegan",
+    "title": "Smoky Vegan Wrap",
+    "tags": [
+      "vegan",
+      "lunch",
+      "wrap",
+      "smoky"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "steamy-spicy-norwegian-shrimp-bowl--vegan",
+    "title": "Spicy Norwegian Shrimpless Bowl",
+    "tags": [
+      "vegan",
+      "norwegian",
+      "steamy",
+      "spicy"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "steamy-american-tuna-stir-fry--french",
+    "title": "Steamed Tuna avec Herbes de Provence",
+    "tags": [
+      "french",
+      "fish",
+      "low-carb",
+      "seafood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "s"
+  },
+  {
+    "slug": "shattering-earthy-american-fish-bowl--indian",
+    "title": "Bowl Shattering Tandoori Fish",
+    "tags": [
+      "indian",
+      "fish",
+      "vegetarian-options",
+      "gluten-free-options"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crispy-russian-beef-pierogi--chinese",
+    "title": "Beef and Pierogi Stir Fry",
+    "tags": [
+      "beef",
+      "pierogi",
+      "chinese",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-flaky-flax-eggs-grill--indian",
+    "title": "Indian Flaky Egg Scramble",
+    "tags": [
+      "scrambled-eggs",
+      "indian-recipe",
+      "breakfast-ideas"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
     "shard": "s"
   }
 ]
