@@ -498,15 +498,14 @@
   },
   {
     "slug": "salty-crumbly-brazilian-hazelnut-crumble",
-    "title": "Salty Crumbly Brazilian Hazelnut Crumble",
+    "title": "Brazilian Hazelnut Crumble",
     "tags": [
-      "salty-brazilian-dessert",
-      "crumbly-dessert",
-      "date-night-food",
-      "high-protein-friendly"
+      "dessert",
+      "brazilian",
+      "hazelnut"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -6018,17 +6017,15 @@
   },
   {
     "slug": "savory-spicy-korean-tempeh-tagine",
-    "title": "Savory Spicy Korean Tempeh Tagine",
+    "title": "Spicy Korean-Style Tagine",
     "tags": [
-      "korean-inspired",
-      "nutritious",
-      "one-pot",
-      "plant-based",
-      "spicy",
-      "weeknight"
+      "korean",
+      "tagine",
+      "vegetarian",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -17528,15 +17525,16 @@
   },
   {
     "slug": "smoky-gooey-tomato-stir-fry",
-    "title": "Smoky Gooey Tomato Stir-fry",
+    "title": "Tomato Stir Fry",
     "tags": [
-      "smoky",
-      "goey",
-      "midnight-craving",
-      "canadian"
+      "tomato",
+      "stir-fry",
+      "easy",
+      "quick",
+      "vegetarian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 15,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -19876,18 +19874,15 @@
   },
   {
     "slug": "smoky-roasted-guava-vegetarian-stir-fry",
-    "title": "Smoky Roasted Guava Vegetarian Stir-fry",
+    "title": "Smoky Guava Stir Fry",
     "tags": [
-      "vegetarian",
+      "smoky-guava",
       "stir-fry",
-      "smoky",
-      "vegan",
-      "guava",
-      "japanese-inspired",
-      "spicy"
+      "vegetarian",
+      "easy-dinner"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 75,
+    "cuisine": "vegetarian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -28987,16 +28982,14 @@
   },
   {
     "slug": "spicy-gooey-cheese-toast",
-    "title": "Spicy Gooey Cheese Toast",
+    "title": "Spicy Cheese Toast",
     "tags": [
-      "spicy",
-      "gooey",
-      "uruguayan",
-      "crowd-pleaser",
-      "paleo-friendly"
+      "comfort-food",
+      "snack",
+      "breakfast"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 5,
+    "cuisine": null,
+    "totalTimeMin": 8,
     "shard": "s"
   },
   {
@@ -41345,6 +41338,47 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-gooey-kenyan-cheese-stir-fry--vegan",
+    "title": "Kenyan Vegan Stir-Fry",
+    "tags": [
+      "kenyan",
+      "vegan",
+      "stir-fry",
+      "kale"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoked-lemongrass-australian-lemongrass-wrap--vegan",
+    "title": "Vegan Lemongrass Smoked Wrap",
+    "tags": [
+      "vegan",
+      "wrap",
+      "snack",
+      "lemongrass",
+      "smoked"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "stilton-tandoori-crisp--indian",
+    "title": "Stilton and Tandoori Crispy Naan Bites",
+    "tags": [
+      "indian",
+      "snack",
+      "naan",
+      "cheese",
+      "chicken"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
     "shard": "s"
   }
 ]
