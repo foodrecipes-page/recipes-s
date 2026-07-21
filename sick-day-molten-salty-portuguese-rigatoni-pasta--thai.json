@@ -1,0 +1,67 @@
+{
+  "slug": "sick-day-molten-salty-portuguese-rigatoni-pasta--thai",
+  "title": "Tom Yum Noodle Soup",
+  "description": "A spicy and sour Thai noodle soup made with a flavorful broth and a variety of ingredients.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rigatoni",
+      "amount": "8 oz",
+      "notes": "any shape of pasta will do"
+    },
+    {
+      "name": "Salty",
+      "amount": "2 cups",
+      "notes": "salt for seasoning"
+    },
+    {
+      "name": "Portuguese",
+      "amount": "1/4 cup",
+      "notes": "port wine vinegar"
+    },
+    {
+      "name": "Molten",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "Day",
+      "amount": "2 tablespoons",
+      "notes": "toasted rice vinegar"
+    }
+  ],
+  "instructions": [
+    "Cook the rigatoni according to the package instructions.",
+    "In a large pot, combine the chicken or vegetable broth, fish sauce, toasted rice vinegar, and port wine vinegar.",
+    "Bring the mixture to a boil, then reduce the heat to a simmer.",
+    "Add the cooked rigatoni to the pot and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot, garnished with fresh herbs if desired.",
+    "Optional: add protein like chicken or shrimp for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "noodle",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sick-day-molten-salty-portuguese-rigatoni-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:55:45.542Z"
+}
