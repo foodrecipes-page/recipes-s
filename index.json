@@ -13962,14 +13962,13 @@
     "slug": "smoky-brazilian-chicken-pilaf",
     "title": "Smoky Brazilian Chicken Pilaf",
     "tags": [
-      "brazilian-cuisine",
-      "chicken-recipes",
-      "flexitarian-friendly",
-      "one-pot-meals",
-      "smoky-flavors"
+      "brazilian",
+      "chicken",
+      "pilaf",
+      "smoky"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -23709,17 +23708,14 @@
   },
   {
     "slug": "sophisticated-bitter-japanese-fish-chirashi",
-    "title": "Sophisticated Bitter Japanese Fish Chirashi",
+    "title": "Savory Chirashi Zushi",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "japanese-cuisine",
-      "meal-prep",
-      "pescatarian",
-      "seafood"
+      "japanese",
+      "sushi",
+      "fish"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -24533,17 +24529,15 @@
   },
   {
     "slug": "sour-crumbly-moroccan-flour-flatbread",
-    "title": "Sour Crumbly Moroccan Flour Flatbread",
+    "title": "Moroccan Flatbread",
     "tags": [
-      "moroccan",
-      "vegan",
-      "dairy-free",
       "flatbread",
+      "moroccan",
       "snack",
-      "quick"
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -29773,15 +29767,15 @@
   },
   {
     "slug": "spicy-light-spanish-chicken-paella",
-    "title": "Spicy Light Spanish Chicken Paella",
+    "title": "Spanish Chicken Paella",
     "tags": [
-      "spanish-cuisine",
-      "date-night",
-      "spicy-food",
-      "sous-vide-recipes"
+      "spanish",
+      "chicken",
+      "paella",
+      "weeknight-dinner"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 160,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -41138,6 +41132,82 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-creamy-brazilian-fish-stew--mexican",
+    "title": "Smoky Fish Tacos",
+    "tags": [
+      "mexican",
+      "fish-tacos",
+      "smoky-bbq",
+      "cilantro-lime"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-pepper-delight--japanese",
+    "title": "Japanese Sweet Pepper Stir Fry",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "stir-fry",
+      "sweet-pepper"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 13,
+    "shard": "s"
+  },
+  {
+    "slug": "shattering-savory-jamaican-fish-grill--french",
+    "title": "Pan-Seared Fish with Jamaican Seasoning",
+    "tags": [
+      "fish",
+      "grill",
+      "french",
+      "caribbean"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-spicy-pilchards-ceviche--japanese",
+    "title": "Smoked Pilchard Ceviche",
+    "tags": [
+      "japanese",
+      "ceviche",
+      "smoked",
+      "pilchard"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-crunch-french-chickpeas-stir-fry--italian",
+    "title": "Crispy Italian Chickpea Fritters",
+    "tags": [
+      "italian",
+      "chickpeas",
+      "crunchy",
+      "snack"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 18,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-chewy-canadian-pork-chops--vegan",
+    "title": "Chewy Canadian Mushroom Burgers",
+    "tags": [
+      "vegan",
+      "mushroom"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "s"
   }
 ]
