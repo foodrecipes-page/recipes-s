@@ -11484,24 +11484,14 @@
   },
   {
     "slug": "slow-cook-shattering-australian-coriander-bake",
-    "title": "Slow-Cook Shattering Australian Coriander Bake",
+    "title": "Australian Shattering Meat Pie",
     "tags": [
       "australian",
-      "beef",
-      "breakfast",
-      "comfort-food",
-      "coriander",
-      "easy-dinner",
-      "gluten-free",
-      "hangover-cure",
-      "one-pan",
-      "pork",
-      "slow-cooker",
-      "weeknight",
-      "whole30"
+      "meat-pie",
+      "comfort-food"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 255,
+    "cuisine": "Australian",
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -41099,6 +41089,45 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-snappy-algerian-tomato-tagine--italian",
+    "title": "Italian Style Stuffed Tomatoes",
+    "tags": [
+      "italian",
+      "summer",
+      "tomatoes"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-silky-adventurous-spanish-tomato-stir-fry--indian",
+    "title": "Silky Spicy Stir Fry",
+    "tags": [
+      "indian",
+      "stir-fry",
+      "spicy",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-and-crunchy-italian-date-stir-fry--gluten-free",
+    "title": "Gluten-Free Date Crumble",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "crumble",
+      "date"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "s"
   }
 ]
