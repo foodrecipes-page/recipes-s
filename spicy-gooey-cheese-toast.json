@@ -1,0 +1,60 @@
+{
+  "slug": "spicy-gooey-cheese-toast",
+  "title": "Spicy Cheese Toast",
+  "description": "A simple, comforting snack that combines gooey cheese with spicy kick on toasted bread.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Bread",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Spicy spread",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your toaster or toaster oven to 350°F (180°C).",
+    "2. Butter one side of each bread slice, if using.",
+    "3. Place the bread slices in the toaster or toaster oven and toast until lightly browned.",
+    "4. Spread a layer of spicy spread on top of each toasted bread slice.",
+    "5. Place one or two slices of cheese on top of the spicy spread.",
+    "6. Return the toast to the toaster oven and melt the cheese until gooey.",
+    "7. Remove the toast from the oven and let cool for a minute or two.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "snack",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-gooey-cheese-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:23:55.018Z"
+}
