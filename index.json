@@ -6338,16 +6338,16 @@
   },
   {
     "slug": "savory-sweet-thai-crustaceans-som-tum",
-    "title": "Savory Sweet Thai Crustaceans Som Tum",
+    "title": "Thai-Style Garlic Shrimp",
     "tags": [
-      "flexitarian",
+      "thai",
+      "shrimp",
       "seafood",
-      "snack",
-      "street-food",
-      "thai-cuisine"
+      "garlic",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "totalTimeMin": 18,
     "shard": "s"
   },
   {
@@ -41284,6 +41284,56 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 170,
+    "shard": "s"
+  },
+  {
+    "slug": "springy-british-rice-pilaf--german",
+    "title": "German-Style Pilaf with Spring Onions",
+    "tags": [
+      "german",
+      "side-dish",
+      "pilaf",
+      "spring-onions"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-creamy-malaysian-fish-pilaf--german",
+    "title": "German Fish Pilaf",
+    "tags": [
+      "german",
+      "fish",
+      "pilaf"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "shattering-fresh-turkish-ancho-chillies-borek--keto",
+    "title": "Keto Turkish Stuffed Boreks",
+    "tags": [
+      "keto",
+      "turkish",
+      "beef",
+      "chilli"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-paprika-halouba--japanese",
+    "title": "Smoky Grilled Halouba",
+    "tags": [
+      "grilled",
+      "halouba",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
