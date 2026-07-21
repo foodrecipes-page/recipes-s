@@ -6600,17 +6600,14 @@
   },
   {
     "slug": "savory-turkish-steak-doner-kebab",
-    "title": "Savory Turkish Steak Doner Kebab",
+    "title": "Turkish Doner Kebab",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "turkish-cuisine",
-      "weeknight"
+      "turkish",
+      "kebab",
+      "doner"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 23,
     "shard": "s"
   },
   {
@@ -31887,14 +31884,14 @@
   },
   {
     "slug": "ssizzle-velvety-flaky-beef-fillet-robata-grilled",
-    "title": "Ssizzle Velvety Flaky Beef Fillet Robata-Grilled",
+    "title": "Japanese Robata Beef Skewers",
     "tags": [
-      "floral-flavor",
-      "grilled-beef",
-      "sugar-free",
-      "velvety-tender"
+      "beef",
+      "grilled",
+      "japanese",
+      "skewers"
     ],
-    "cuisine": "American",
+    "cuisine": "Japanese",
     "totalTimeMin": 30,
     "shard": "s"
   },
@@ -41248,6 +41245,45 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sick-day-spicy-tenders-peppers-stir-fry--german",
+    "title": "Spicy Pepper Stir Fry Tenders",
+    "tags": [
+      "german",
+      "spicy",
+      "stir-fry",
+      "chicken"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-crispy-spices-stir-fry--chinese",
+    "title": "Crispy Savory Stir Fry",
+    "tags": [
+      "chinese-cuisine",
+      "easy-recipe",
+      "stir-fry",
+      "vegetarian-option"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
+    "shard": "s"
+  },
+  {
+    "slug": "smoke-hot-ethiopian-lamb-wot--french",
+    "title": "Lamb Wot au Poivre",
+    "tags": [
+      "lamb",
+      "ethiopian",
+      "french",
+      "stew"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 170,
     "shard": "s"
   }
 ]
