@@ -1,0 +1,69 @@
+{
+  "slug": "savory-middle-eastern-onion-stir-fry--thai",
+  "title": "Thai Savory Stir Fry",
+  "description": "A classic Thai dish made with savory flavors and spices, stir fried to perfection.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "savory",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "stir fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add onion and bell pepper and stir-fry for 3-4 minutes.",
+    "Add snow peas and stir-fry for another 2-3 minutes.",
+    "Add savory and middle eastern spice blend, stir-fry for 1 minute.",
+    "Add stir fry sauce and cook for 1-2 minutes, until sauce thickens.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-middle-eastern-onion-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:49:41.831Z"
+}
