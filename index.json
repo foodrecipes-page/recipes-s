@@ -21339,17 +21339,14 @@
   },
   {
     "slug": "smoky-smoked-beef-stir-fry",
-    "title": "Smoky Smoked Beef Stir-fry",
+    "title": "Smoky Beef Stir Fry",
     "tags": [
-      "smoky",
-      "juicy",
-      "korean",
       "beef",
-      "stir-fry",
-      "vegetarian"
+      "smoky",
+      "stir-fry"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -41735,6 +41732,46 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-saudi-labneh-bowl--gluten-free",
+    "title": "Saudi-Style Labneh Parfait",
+    "tags": [
+      "labneh",
+      "dessert",
+      "parfait",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 10,
+    "shard": "s"
+  },
+  {
+    "slug": "sous-vide-filipino-bean-sprouts-stir-fry--italian",
+    "title": "Italian Sous Vide with Fried Bean Sprouts",
+    "tags": [
+      "italian",
+      "italian-beef",
+      "sous-vide",
+      "bean-sprouts"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-crumbly-moroccan-flour-flatbread--german",
+    "title": "German Flatbread with Moroccan Twist",
+    "tags": [
+      "german",
+      "mexican",
+      "bread",
+      "mexican-inspired",
+      "easy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
     "shard": "s"
   }
 ]
