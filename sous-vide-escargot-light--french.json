@@ -1,0 +1,83 @@
+{
+  "slug": "sous-vide-escargot-light--french",
+  "title": "Pan-Seared Escargot with Sous Vide Egg",
+  "description": "A simple yet elegant French dish featuring pan-seared escargot accompanied by a rich sous vide egg and a sprinkle of light herbs.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "escargot (12 snails)",
+      "amount": "12",
+      "notes": "rinsed and patted dry"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for sous vide"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    }
+  ],
+  "instructions": [
+    "Preheat sous vide water bath to 145°F (63°C).",
+    "Season eggs with salt and pepper. Seal in a sous vide bag and cook for 1 hour.",
+    "Rinse and pat dry the escargot. Heat butter in a pan over medium heat.",
+    "Add minced garlic and sauté for 1 minute until fragrant.",
+    "Add escargot to the pan and cook for 2-3 minutes until browned.",
+    "Squeeze lemon juice over the escargot and season with salt and pepper.",
+    "To serve, place a cooked egg on a plate and top with pan-seared escargot.",
+    "Garnish with chopped light herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 75,
+  "totalTimeMin": 90,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "escargot",
+    "sous-vide",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 6,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-escargot-light--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:05:32.178Z"
+}
