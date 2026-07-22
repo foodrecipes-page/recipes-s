@@ -1,0 +1,68 @@
+{
+  "slug": "spicy-gooey-brie-quesadilla",
+  "title": "Gooey Brie Quesadilla",
+  "description": "A deliciously gooey quesadilla filled with melted brie cheese. This dish is perfect for a quick snack or light meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 tablespoon butter",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "1 quesadilla",
+      "amount": "1",
+      "notes": "tortilla"
+    },
+    {
+      "name": "2 ounces brie cheese",
+      "amount": "2 oz",
+      "notes": "soft and ripe"
+    },
+    {
+      "name": "1 tablespoon spicy cheese",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper to taste",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet or griddle over medium heat.",
+    "Butter one side of the quesadilla.",
+    "Place the quesadilla, buttered side down, in the skillet.",
+    "Sprinkle the brie cheese on half of the quesadilla.",
+    "Add the spicy cheese on top of the brie, if using.",
+    "Fold the quesadilla in half and cook for 2-3 minutes.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes.",
+    "Cut into wedges and serve hot.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "melted cheese",
+    "quesadilla",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-gooey-brie-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:40:41.104Z"
+}
