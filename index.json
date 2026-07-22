@@ -4944,15 +4944,15 @@
   },
   {
     "slug": "savory-middle-eastern-poppy-seeds-stir-fry",
-    "title": "Savory Middle Eastern Poppy Seeds Stir-fry",
+    "title": "Spicy Middle Eastern Poppy Seed Stir Fry",
     "tags": [
-      "savory-poppy-seeds",
-      "creamy-sauce",
-      "middle-eastern-flavors",
-      "quick-fix-dish"
+      "middle-eastern",
+      "spicy",
+      "poppy-seeds",
+      "stir-fry"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -6968,16 +6968,14 @@
   },
   {
     "slug": "savory-zanzibari-tomato-stir-fry",
-    "title": "Savory Zanzibari Tomato Stir-fry",
+    "title": "Spicy Zanzibari Stir Fry",
     "tags": [
-      "savory-zanzibari",
-      "salty-veggie",
-      "midnight-craving",
-      "keto-friendly",
-      "stir-fry"
+      "spicy",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 30,
+    "cuisine": "international",
+    "totalTimeMin": 20,
     "shard": "s"
   },
   {
@@ -30745,15 +30743,15 @@
   },
   {
     "slug": "spicy-tender-portuguese-chicken-stir-fry",
-    "title": "Spicy Tender Portuguese Chicken Stir-fry",
+    "title": "Spicy Chicken Stir Fry",
     "tags": [
-      "portuguese",
+      "chicken",
       "stir-fry",
-      "high-protein-friendly",
-      "tender"
+      "portuguese",
+      "spicy"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -41772,6 +41770,81 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 22,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-crispy-malaysian-semolina-flour-crumble--thai",
+    "title": "Sweet Crispy Thai Semolina Cake",
+    "tags": [
+      "thai",
+      "dessert",
+      "cake"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
+    "shard": "s"
+  },
+  {
+    "slug": "sick-day-spicy-venezuelan-bamboo-shoot-toast--japanese",
+    "title": "Bamboo Shoot Tempura",
+    "tags": [
+      "japanesefood",
+      "vegetarian",
+      "snack",
+      "tempura"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-irish-kale-chowder--french",
+    "title": "French Kale Chowder",
+    "tags": [
+      "kale",
+      "french",
+      "soup",
+      "comfort-food"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-savory-american-chicken-skillet--indian",
+    "title": "Chicken Tikka Skillet",
+    "tags": [
+      "chicken",
+      "indian",
+      "skillet",
+      "healthy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-canadian-pork-roast--vegetarian",
+    "title": "Spicy Roast Veggie Hash",
+    "tags": [
+      "breakfast",
+      "canadian",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-crunchy-egyptian-rest-meat-tagine--vegetarian",
+    "title": "Egyptian Tagine Stew",
+    "tags": [
+      "north-african",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "s"
   }
 ]
