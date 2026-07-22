@@ -1,0 +1,91 @@
+{
+  "slug": "sous-vide-protein-stuffed-pancakes--french",
+  "title": "Stuffed Sous Vide Protein Pancakes",
+  "description": "A unique French twist on traditional protein pancakes, featuring a sous vide cooked protein center.",
+  "cuisine": "french",
+  "diet": [
+    "lactose-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "protein (chicken breast)",
+      "amount": "250g",
+      "notes": "sous vide"
+    },
+    {
+      "name": "pancakes mix",
+      "amount": "200g",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "20g",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "100ml",
+      "notes": "whole"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "10g",
+      "notes": "optional"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "5ml",
+      "notes": "optional"
+    },
+    {
+      "name": "honey",
+      "amount": "10g",
+      "notes": "optional"
+    },
+    {
+      "name": "stuffed mix (e.g. cream cheese, herbs)",
+      "amount": "50g",
+      "notes": "your choice"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 63°C (145°F).",
+    "Season the protein with salt and pepper. Seal in a sous vide bag and cook for 1 hour.",
+    "In a large bowl, whisk together the pancakes mix, melted butter, beaten eggs, whole milk, granulated sugar, vanilla extract, and honey (if using).",
+    "Heat a non-stick pan or griddle over medium heat. Using 1/4 cup of the batter, pour onto the pan and cook for 2-3 minutes.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "While the pancakes are cooking, prepare the stuffed mix (e.g. mix cream cheese with herbs).",
+    "Once the protein is cooked, remove it from the sous vide bag and slice into thin pieces.",
+    "To assemble the pancakes, place a cooked pancake on a plate, then top with a slice of the cooked protein, a spoonful of the stuffed mix, and another pancake on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "breakfast",
+    "pancakes",
+    "protein",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-protein-stuffed-pancakes--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:03:32.122Z"
+}
