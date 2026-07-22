@@ -1,0 +1,88 @@
+{
+  "slug": "sous-vide-filipino-bean-sprouts-stir-fry--italian",
+  "title": "Italian Sous Vide with Fried Bean Sprouts",
+  "description": "A creative twist on traditional Italian cuisine, combining sous vide beef with crispy bean sprouts.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef tenderloin",
+      "amount": "1 lb",
+      "notes": "sous vide"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Season the beef tenderloin with salt, pepper, and italian seasoning.",
+    "Seal the beef in a sous vide bag and cook at 130°F (54°C) for 2 hours.",
+    "Heat olive oil in a pan and sauté minced garlic until fragrant.",
+    "Add bean sprouts to the pan and fry until crispy.",
+    "Remove the beef from the sous vide bag and sear in the pan for 2 minutes on each side.",
+    "Dress the beef with balsamic vinegar and top with parmesan cheese.",
+    "Serve with fried bean sprouts on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "italian-beef",
+    "sous-vide",
+    "bean-sprouts"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-filipino-bean-sprouts-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:58:10.509Z"
+}
