@@ -5326,14 +5326,14 @@
   },
   {
     "slug": "savory-salsa-verde",
-    "title": "Savory Salsa Verde",
+    "title": "Grilled Chicken Fajitas",
     "tags": [
-      "salsa verde",
-      "kenyan",
-      "smoky",
-      "plant-based"
+      "chicken",
+      "grilled",
+      "fajitas",
+      "mexican"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "Mexican",
     "totalTimeMin": 25,
     "shard": "s"
   },
@@ -42394,6 +42394,83 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-velvety-russian-beef-stew--italian",
+    "title": "Classic Italian Beef Stew",
+    "tags": [
+      "italian",
+      "beef",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-chewy-light-polish-romano-pepper-crumble--indian",
+    "title": "Indian-Style Crunchy Savory Bites",
+    "tags": [
+      "indian",
+      "snack",
+      "crunchy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-simmered-irish-corned-beef-casserole--chinese",
+    "title": "Chinese Beef Casserole",
+    "tags": [
+      "chinese",
+      "beef",
+      "casserole",
+      "stir-fry"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-fluffy-korean-flour-jjigae--thai",
+    "title": "Spicy Korean-Style Thai Jjigae Pancakes",
+    "tags": [
+      "korean-thai-fusion",
+      "spicy",
+      "pancakes"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-floral-kenyan-tuna-stew--mexican",
+    "title": "Kenyan Tuna Tacos",
+    "tags": [
+      "mexican",
+      "seafood",
+      "tuna",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "smoked-tender-french-beef-bourguignon--indian",
+    "title": "Smoked Beef Bourguignon Indian-Style",
+    "tags": [
+      "beef",
+      "indian",
+      "fusion",
+      "slow-cooked",
+      "rich-and-creamy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 150,
     "shard": "s"
   }
 ]
