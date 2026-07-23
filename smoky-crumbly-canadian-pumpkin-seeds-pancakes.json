@@ -1,85 +1,61 @@
 {
   "slug": "smoky-crumbly-canadian-pumpkin-seeds-pancakes",
-  "title": "Smoky Pumpkin Pancakes",
-  "description": "A delicious and nutritious breakfast recipe that combines the flavors of pumpkin and smoky cheese. Perfect for a chilly fall morning.",
-  "cuisine": "Canadian",
+  "title": "Smoky Pancake Stack with Canadian Maple Syrup",
+  "description": "A delicious breakfast recipe featuring a smoky pancake stack, topped with crispy seeds and drizzled with rich Canadian maple syrup.",
+  "cuisine": "American",
   "diet": [
-    "vegan",
+    "vegetarian",
     "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "pumpkin puree",
-      "amount": "1 cup",
-      "notes": ""
+      "name": "smoky pancakes",
+      "amount": "4",
+      "notes": "homemade or store-bought"
     },
     {
-      "name": "smoky cheddar cheese",
-      "amount": "1/2 cup",
-      "notes": "crumbly"
+      "name": "crumbly pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
     },
     {
-      "name": "pancakes mix",
-      "amount": "1 cup",
-      "notes": "gluten-free"
+      "name": "Canadian maple syrup",
+      "amount": "1/4 cup",
+      "notes": "pure"
     },
     {
       "name": "seeds",
-      "amount": "1/4 cup",
-      "notes": "optional"
-    },
-    {
-      "name": "milk",
-      "amount": "1 cup",
-      "notes": "dairy or non-dairy"
-    },
-    {
-      "name": "eggs",
-      "amount": "2",
-      "notes": ""
-    },
-    {
-      "name": "honey",
-      "amount": "2 tbsp",
-      "notes": ""
-    },
-    {
-      "name": "butter",
-      "amount": "2 tbsp",
-      "notes": "melted"
+      "amount": "1 tablespoon",
+      "notes": "chopped, toasted"
     }
   ],
   "instructions": [
-    "In a large bowl, whisk together the pancakes mix, milk, eggs, and honey.",
-    "Add in the pumpkin puree and mix until combined.",
-    "Melt the butter and stir it in.",
-    "If using seeds, sprinkle them on top of the batter.",
-    "Heat a non-stick pan or griddle over medium heat.",
-    "Drop the batter by 1/4 cupfuls onto the pan.",
-    "Cook for 2-3 minutes or until bubbles appear on the surface.",
-    "Flip the pancakes and cook for another 1-2 minutes.",
-    "Serve warm with additional smoky cheese crumbled on top."
+    "Preheat a non-stick skillet or griddle to medium heat.",
+    "Cook the smoky pancakes according to package instructions.",
+    "In a small bowl, mix together the crumbly pumpkin seeds and seeds.",
+    "Top the cooked pancakes with the seed mixture and a drizzle of Canadian maple syrup.",
+    "Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
-  "servings": 4,
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
   "difficulty": "easy",
   "tags": [
     "breakfast",
+    "american",
     "pancakes",
-    "smoky",
-    "pumpkin"
+    "maple-syrup"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 15,
+    "calories": 350,
+    "protein": 5,
     "carbs": 40,
     "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/smoky-crumbly-canadian-pumpkin-seeds-pancakes",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T10:51:47.102Z"
+  "createdAt": "2026-07-19T13:47:35.885Z"
 }
