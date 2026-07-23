@@ -1,0 +1,82 @@
+{
+  "slug": "slow-simmered-irish-corned-beef-casserole--chinese",
+  "title": "Chinese Beef Casserole",
+  "description": "A hearty and flavorful Chinese-inspired beef casserole with a rich and savory sauce.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corned beef",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "irish potatoes",
+      "amount": "2 large, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the sliced corned beef and cook until browned, about 3-4 minutes.",
+    "Add the diced potatoes, beef broth, soy sauce, oyster sauce, brown sugar, and garlic to the skillet.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the potatoes are tender.",
+    "Garnish with chopped green onions and serve hot.",
+    "Serve over steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "casserole",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/slow-simmered-irish-corned-beef-casserole--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:54:09.380Z"
+}
