@@ -6057,17 +6057,15 @@
   },
   {
     "slug": "savory-spicy-venezuelan-chicken-skewers",
-    "title": "Savory Spicy Venezuelan Chicken Skewers",
+    "title": "Venezuelan Chicken Skewers",
     "tags": [
-      "gluten-free",
-      "grilled-chicken",
-      "low-carb",
-      "south-american",
-      "spicy-food",
-      "weeknight"
+      "venezuelan",
+      "chicken",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -24074,15 +24072,15 @@
   },
   {
     "slug": "sour-creamy-smoke-miso-stir-fry",
-    "title": "Sour Creamy Smoke Miso Stir-fry",
+    "title": "Smoked Miso Stir Fry",
     "tags": [
-      "sour",
-      "creamy",
-      "smoke",
-      "misoshio"
+      "smoked",
+      "miso",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 18,
     "shard": "s"
   },
   {
@@ -42159,6 +42157,58 @@
       "crumble"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-flaky-peruvian-chicken-pollo-a-la-brasa--chinese",
+    "title": "Chicken Pollo Brasa",
+    "tags": [
+      "peruvian-chinese",
+      "grilled-chicken",
+      "sour-slaw"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 70,
+    "shard": "s"
+  },
+  {
+    "slug": "springy-nutty-croatian-potatoes-hash--german",
+    "title": "German Hash Brown Potato Casserole",
+    "tags": [
+      "german",
+      "breakfast",
+      "casserole",
+      "potatoes",
+      "hash-browns"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-velvety-egyptian-banana-flatbread--indian",
+    "title": "Egyptian Banana Flatbread",
+    "tags": [
+      "indian",
+      "flatbread",
+      "banana",
+      "sour sauce"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-flaky-peruvian-chicken-pollo-a-la-brasa--keto",
+    "title": "Peruvian-Style Keto Chicken",
+    "tags": [
+      "keto",
+      "peruvian",
+      "chicken",
+      "dinner"
+    ],
+    "cuisine": "Peruvian",
     "totalTimeMin": 35,
     "shard": "s"
   }
