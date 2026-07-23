@@ -4424,15 +4424,16 @@
   },
   {
     "slug": "savory-juicy-egyptian-chicken-bake",
-    "title": "Savory Juicy Egyptian Chicken Bake",
+    "title": "Egyptian Chicken Bake",
     "tags": [
-      "egyptian-cuisine",
-      "chicken-recipes",
-      "comfort-food",
-      "halal-friendly"
+      "chicken",
+      "bake",
+      "egyptian",
+      "savory",
+      "juicy"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "s"
   },
   {
@@ -5423,17 +5424,14 @@
   },
   {
     "slug": "savory-sharp-american-cheese-casserole",
-    "title": "Savory Sharp American Cheese Casserole",
+    "title": "Savory American Casserole",
     "tags": [
-      "american-classics",
-      "casseroles",
-      "comfort-food",
-      "one-dish",
-      "vegetarian",
-      "weeknight"
+      "comfort food",
+      "cheesy",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "s"
   },
   {
@@ -17966,17 +17964,15 @@
   },
   {
     "slug": "smoky-juicy-canadian-peas-stew",
-    "title": "Smoky Juicy Canadian Peas Stew",
+    "title": "Smoky Canadian Pea Stew",
     "tags": [
-      "canadian",
-      "comfort-food",
-      "keto",
-      "one-pan",
       "stew",
-      "winter-dinner"
+      "canadian",
+      "peas",
+      "smoky"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 70,
+    "cuisine": "canadian",
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -41958,6 +41954,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 110,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-crumbly-brazilian-hazelnut-crumble--japanese",
+    "title": "Japanese Hazelnut Crumble",
+    "tags": [
+      "japanese",
+      "dessert",
+      "hazelnut",
+      "matcha"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-tangy-venezuelan-baby-squid-stew--keto",
+    "title": "Venezuelan Baby Squid Keto Stew",
+    "tags": [
+      "keto",
+      "seafood",
+      "stew",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
