@@ -1,0 +1,87 @@
+{
+  "slug": "savory-steamed-moroccan-lamb-harira",
+  "title": "Moroccan Harira Stew",
+  "description": "A savory and flavorful Moroccan stew made with lamb and harira, perfect for a cold day. This hearty dish is a staple in Moroccan cuisine.",
+  "cuisine": "moroccan",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Harira (chickpea and lentil stew mix)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add the harira mix and water. Bring to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-steamed-moroccan-lamb-harira",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:43:38.636Z"
+}
