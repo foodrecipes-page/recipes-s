@@ -27334,15 +27334,15 @@
   },
   {
     "slug": "spicy-chewy-middle-eastern-vegan-chickpea-flatbread",
-    "title": "Spicy Chewy Middle Eastern Vegan Chickpea Flatbread",
+    "title": "Vegan Shawarma Wrap",
     "tags": [
+      "vegan",
       "middle-eastern",
-      "spicy",
-      "chewy",
-      "vegan-friendly"
+      "chickpea",
+      "flatbread"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -42337,6 +42337,62 @@
       "wrap"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-peruvian-glace-cherry-torta--indian",
+    "title": "Cherry and Glace Sweet Torta with Peruvian Twist",
+    "tags": [
+      "indian",
+      "dessert",
+      "sweet",
+      "peruvian",
+      "cherry",
+      "torta"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-romantic-polish-cod-salad--indian",
+    "title": "Polish Cod Salad",
+    "tags": [
+      "indian-cuisine",
+      "salads",
+      "fish",
+      "polish-rye"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "springy-herbal-norwegian-kiwifruit-tart--japanese",
+    "title": "Japanese Kiwifruit Tart",
+    "tags": [
+      "japanese",
+      "kiwifruit",
+      "tart",
+      "dessert",
+      "springy",
+      "herbal",
+      "norwegian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-chewy-brazilian-beans-stir-fry--vegan",
+    "title": "Brazilian Vegan Bean Stir Fry",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "dinner"
+    ],
+    "cuisine": "Brazilian",
     "totalTimeMin": 25,
     "shard": "s"
   }
