@@ -1,0 +1,65 @@
+{
+  "slug": "smoky-crisp-spanish-passionfruit-salad--mexican",
+  "title": "Smoky Grilled Chicken Salad",
+  "description": "A refreshing mexican salad with smoky grilled chicken, crisp greens, and a tangy passionfruit dressing.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grilled chicken breast",
+      "amount": "1",
+      "notes": "seasoned with smoky spices"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "4 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "diced spanish onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "passionfruit juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "crunchy tortilla strips",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat. Season chicken breast with smoky spices and grill for 5-6 minutes per side, or until cooked through.",
+    "In a large bowl, combine crisp lettuce, diced spanish onion, and crunchy tortilla strips.",
+    "In a small bowl, whisk together passionfruit juice and a pinch of salt.",
+    "Add the grilled chicken breast to the bowl and toss with the passionfruit dressing.",
+    "Serve immediately and garnish with additional crunchy tortilla strips if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "salad",
+    "grilled-chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-crisp-spanish-passionfruit-salad--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:17:37.652Z"
+}
