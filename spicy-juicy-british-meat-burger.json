@@ -1,0 +1,89 @@
+{
+  "slug": "spicy-juicy-british-meat-burger",
+  "title": "British Meat Burger",
+  "description": "A classic British-inspired burger featuring a juicy beef patty and topped with spicy sauce.",
+  "cuisine": "british",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Spicy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Buns",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Cheese",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Divide the ground beef into 4 equal parts and shape each part into a ball.",
+    "3. Flatten each ball into a patty.",
+    "4. Season the patties with salt and pepper.",
+    "5. Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "6. Meanwhile, toast the buns on the grill.",
+    "7. Assemble the burgers by spreading spicy sauce on the bottom bun, followed by a patty, some lettuce, tomato, cheese, onions, and pickles.",
+    "8. Drizzle mayonnaise on top of the burger.",
+    "9. Place the top bun on the burger.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "british",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-juicy-british-meat-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:16:09.160Z"
+}
