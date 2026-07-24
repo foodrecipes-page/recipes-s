@@ -2539,14 +2539,15 @@
   },
   {
     "slug": "savory-brazilian-onion-crumble",
-    "title": "Savory Brazilian Onion Crumble",
+    "title": "Savory Brazilian Crumble",
     "tags": [
-      "onion",
-      "tandoori",
-      "paleo"
+      "sides",
+      "snacks",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -10810,13 +10811,11 @@
   },
   {
     "slug": "silky-smooth-portuguese-tortilla-wrap",
-    "title": "Silky Smooth Portuguese Tortilla Wrap",
+    "title": "Portuguese Tortilla Wrap",
     "tags": [
-      "brunch-ideas",
-      "easy-meals",
-      "lacto-vegetarian",
-      "portuguese-cuisine",
-      "tortilla-wraps"
+      "portuguese",
+      "breakfast",
+      "wrap"
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
@@ -32015,13 +32014,14 @@
   },
   {
     "slug": "steamed-water-chestnut-and-date-salad",
-    "title": "Steamed Water Chestnut and Date Salad",
+    "title": "Chestnut Salad with Date Dressing",
     "tags": [
-      "steamed-water-chestnut-salad",
-      "british-dinner-idea",
-      "low-carb-appetizer"
+      "easy",
+      "salad",
+      "chestnut",
+      "date"
     ],
-    "cuisine": "British",
+    "cuisine": "Asian",
     "totalTimeMin": 30,
     "shard": "s"
   },
@@ -42498,6 +42498,44 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-romantic-russian-morcilla-stir-fry--chinese",
+    "title": "Stir-Fried Morcilla with Russian Cabbage",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "morcilla"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-canadian-pork-roast--vegan",
+    "title": "Spicy Roast Vegan Stew",
+    "tags": [
+      "stew",
+      "vegan",
+      "warming"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-crunchy-japanese-garlic-stir-fry--japanese",
+    "title": "Japanese Stir-Fry with Savory Sauce",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "savory",
+      "crunchy",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
