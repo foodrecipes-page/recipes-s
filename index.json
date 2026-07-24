@@ -9063,16 +9063,14 @@
   },
   {
     "slug": "silky-ajiaco-stir-fry",
-    "title": "Silky Ajiaco Stir-fry",
+    "title": "Stir Fry with Ajiaco",
     "tags": [
-      "argentine",
-      "hangover-cure",
-      "silky",
-      "dairy-free",
-      "kosher"
+      "stir-fry",
+      "vegan",
+      "asian"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": null,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -29644,18 +29642,16 @@
   },
   {
     "slug": "spicy-light-mediterranean-tuna-salad",
-    "title": "Spicy Light Mediterranean Tuna Salad",
+    "title": "Spicy Tuna Salad",
     "tags": [
       "mediterranean",
-      "tuna",
+      "fish",
       "salad",
-      "bay-leaves",
-      "spicy",
-      "raw-friendly",
-      "gluten-free"
+      "easy",
+      "lunch"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 17,
+    "totalTimeMin": 10,
     "shard": "s"
   },
   {
@@ -42583,6 +42579,48 @@
     ],
     "cuisine": "american",
     "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "silkily-funky-dutch-ginger-paste-biryani--mexican",
+    "title": "Ginger Biryani Tacos",
+    "tags": [
+      "mexican",
+      "indian",
+      "tacos",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-slow-tunisian-collards-tagine--chinese",
+    "title": "Smoky Braised Collards with Tunisian Spices",
+    "tags": [
+      "chinese",
+      "collard-greens",
+      "braised",
+      "smoky",
+      "tunisian",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-sweet-chinese-pistachio-bao--japanese",
+    "title": "Pan-Seared Bao with Pistachio Teriyaki Sauce",
+    "tags": [
+      "japanese",
+      "bao",
+      "pistachio",
+      "teriyaki",
+      "sweet"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
     "shard": "s"
   }
 ]
