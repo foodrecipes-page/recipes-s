@@ -18915,15 +18915,15 @@
   },
   {
     "slug": "smoky-paprika-filipino-tofu-patties",
-    "title": "Smoky Paprika Filipino Tofu Patties",
+    "title": "Smoky Tofu Patties",
     "tags": [
-      "smoky-paprika",
-      "filipino-tofu",
-      "kid-friendly",
-      "egg-free"
+      "filipino",
+      "tofu",
+      "patties",
+      "vegan"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 23,
     "shard": "s"
   },
   {
@@ -31732,14 +31732,15 @@
   },
   {
     "slug": "springy-tunisian-beets-tagine",
-    "title": "Tunisian-Style Braised Beets with Spring Greens",
+    "title": "Tunisian-Style Braised Lamb with Beets",
     "tags": [
       "north-african",
-      "vegetarian",
-      "stew"
+      "lamb",
+      "beets",
+      "braised-meat"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 60,
+    "totalTimeMin": 200,
     "shard": "s"
   },
   {
@@ -42471,6 +42472,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 150,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-beef-stew-supreme--keto",
+    "title": "Beef Stew Supreme",
+    "tags": [
+      "beef",
+      "stew",
+      "keto",
+      "dinner",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 135,
+    "shard": "s"
+  },
+  {
+    "slug": "soy-butter-crust--german",
+    "title": "German Crusted Schnitzel",
+    "tags": [
+      "german",
+      "schnitzel",
+      "pork"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "s"
   }
 ]
