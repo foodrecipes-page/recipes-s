@@ -8287,17 +8287,15 @@
   },
   {
     "slug": "show-off-fermented-juicy-rice-krispies-crumble",
-    "title": "Show-off Fermented Juicy Rice Krispies Crumble",
+    "title": "Crispy Fermented Rice Cereal Crumble",
     "tags": [
-      "ethiopian",
-      "show-off",
+      "dessert",
       "fermented",
-      "juicy",
-      "rice-krispies",
-      "kosher-friendly"
+      "cereal",
+      "crumble"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -10551,14 +10549,15 @@
   },
   {
     "slug": "silky-slovakian-gelatin-pudding",
-    "title": "Silky Slovakian Gelatin Pudding",
+    "title": "Slovakian Pudding",
     "tags": [
+      "pudding",
       "slovakian",
-      "gelatin",
-      "pudding"
+      "dessert",
+      "easy"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 20,
     "shard": "s"
   },
   {
@@ -42633,6 +42632,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 70,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-cooked-indian-lamb-rogan-josh--keto",
+    "title": "Keto Rogan Josh",
+    "tags": [
+      "keto",
+      "indian",
+      "lamb",
+      "slow-cooked"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 170,
     "shard": "s"
   }
 ]
