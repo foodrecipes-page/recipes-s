@@ -8595,17 +8595,15 @@
   },
   {
     "slug": "sick-day-indian-gobi-aloo-gobi",
-    "title": "sick-day indian gobi aloo gobi",
+    "title": "Gobi Aloo Masala",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "homestyle",
-      "indian-vegetarian",
-      "one-pan",
-      "sick-day"
+      "gobi-aloo",
+      "indian",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "s"
   },
   {
@@ -14021,14 +14019,12 @@
   },
   {
     "slug": "smoky-briny-peruvian-grapes-picarones",
-    "title": "Smoky Briny Peruvian Grapes Picarones",
+    "title": "Smoky Picarones with Briny Grapes",
     "tags": [
-      "briny",
-      "dessert",
-      "macrobiotic",
       "peruvian",
-      "smoky",
-      "vegan"
+      "picarones",
+      "snack",
+      "breakfast"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 30,
@@ -16244,17 +16240,15 @@
   },
   {
     "slug": "smoky-egyptian-smoky-lentils-stew",
-    "title": "Smoky Egyptian Lentil Stew",
+    "title": "Smoky Lentil Stew",
     "tags": [
-      "egyptian",
-      "lentil",
       "stew",
-      "vegan",
-      "smoky",
-      "plant-based"
+      "lentil",
+      "vegetarian",
+      "egyptian"
     ],
-    "cuisine": "egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
     "shard": "s"
   },
   {
@@ -19286,18 +19280,17 @@
   },
   {
     "slug": "smoky-quenched-french-beef-bouillabaisse",
-    "title": "Smoky Quenched French Beef Bouillabaisse",
+    "title": "French Bouillabaisse Stew",
     "tags": [
-      "beef",
-      "bouillabaisse",
       "french",
-      "jain-friendly",
-      "lunch",
-      "smoked-paprika",
-      "weeknight"
+      "fish-stew",
+      "bouillabaisse",
+      "mussels",
+      "clams",
+      "beef"
     ],
     "cuisine": "French",
-    "totalTimeMin": 65,
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -23556,16 +23549,14 @@
   },
   {
     "slug": "solo-dinner-korean-noodles-sujebi",
-    "title": "Spicy Korean Sujebi Ramen",
+    "title": "Spicy Sujebi Noodle Soup",
     "tags": [
       "korean",
-      "ramen",
-      "noodle-soup",
-      "spicy",
-      "sujebi"
+      "soup",
+      "noodle"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "s"
   },
   {
@@ -42536,6 +42527,62 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-simmered-american-white-bean-casserole--indian",
+    "title": "Slow Cooked White Bean Casserole",
+    "tags": [
+      "indian",
+      "lunch",
+      "casserole",
+      "slow-cooked",
+      "beans",
+      "tomatoes",
+      "cheese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 430,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-sweet-peruvian-peppers-rocoto-relleno--french",
+    "title": "Rocoto Relleno French-Peruvian Fusion",
+    "tags": [
+      "french-peruvian fusion",
+      "vegetarian",
+      "gluten-free",
+      "cheese",
+      "peppers"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-crispy-peruvian-kabanos-sausage-stir-fry--japanese",
+    "title": "Stir-Fried Sausage with Kabanos",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "sausage",
+      "kabanos"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-chicken-crumble--gluten-free",
+    "title": "Crispy Chicken Savory Crumble",
+    "tags": [
+      "gluten-free",
+      "chicken",
+      "crumble",
+      "savory"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 40,
     "shard": "s"
   }
 ]
