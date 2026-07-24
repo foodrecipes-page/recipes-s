@@ -1,91 +1,87 @@
 {
   "slug": "springy-tunisian-beets-tagine",
-  "title": "Tunisian-Style Braised Beets with Spring Greens",
-  "description": "A hearty, flavorful stew from Tunisia featuring tender beets and springy greens. Perfect for a cold evening or special occasion.",
+  "title": "Tunisian-Style Braised Lamb with Beets",
+  "description": "A hearty and flavorful North African-inspired stew made with tender lamb, sweet beets, and aromatic spices.",
   "cuisine": "North African",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "pork-free",
+    "lamb"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "beets",
-      "amount": "2 large",
-      "notes": "peeled and chopped"
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into large chunks"
     },
     {
-      "name": "spring greens",
-      "amount": "1 bunch",
+      "name": "spring onions",
+      "amount": "2",
       "notes": "chopped"
     },
     {
-      "name": "tagine",
-      "amount": "1 cup",
-      "notes": "dried apricots, prunes, and spices blend"
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beets",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "or to taste"
     },
     {
       "name": "olive oil",
-      "amount": "2 tablespoons",
-      "notes": null
+      "amount": "2 tbsp",
+      "notes": "for browning lamb"
     },
     {
-      "name": "garlic",
-      "amount": "2 cloves",
-      "notes": "minced"
-    },
-    {
-      "name": "lemongrass",
-      "amount": "1 stalk",
-      "notes": "minced"
-    },
-    {
-      "name": "cumin",
-      "amount": "1 teaspoon",
-      "notes": "ground"
-    },
-    {
-      "name": "paprika",
-      "amount": "1 teaspoon",
-      "notes": "smoked"
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for braising"
     },
     {
       "name": "salt",
-      "amount": "1 teaspoon",
-      "notes": "flaky"
+      "amount": "to taste",
+      "notes": "for seasoning"
     },
     {
       "name": "black pepper",
-      "amount": "1/2 teaspoon",
-      "notes": null
+      "amount": "to taste",
+      "notes": "for seasoning"
     }
   ],
   "instructions": [
-    "Heat oil in a large Dutch oven over medium heat. Add garlic and lemongrass; cook 1 minute.",
-    "Add beets, cumin, paprika, salt, and pepper. Cook 2 minutes.",
-    "Add tagine and spring greens. Stir to combine.",
-    "Cover and bring to a boil. Reduce heat to low and simmer 30 minutes.",
-    "Check beets for tenderness. If not tender, cover and simmer 15-30 minutes more.",
-    "Serve warm, garnished with lemon wedges and chopped fresh herbs, if desired."
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Brown the lamb chunks in batches, then set aside.",
+    "Reduce the heat to medium and sauté the chopped spring onions and minced garlic until softened.",
+    "Add the chopped beets, tagine spice blend, salt, and black pepper to the pot. Cook for 1-2 minutes, stirring constantly.",
+    "Add the browned lamb back to the pot, along with the water. Bring to a boil, then cover and transfer to the oven.",
+    "Braise the lamb for 2.5-3 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly. Serve the lamb and beets hot, garnished with chopped fresh cilantro, if desired."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 45,
-  "totalTimeMin": 60,
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "north-african",
-    "vegetarian",
-    "stew"
+    "lamb",
+    "beets",
+    "braised-meat"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 4,
-    "carbs": 35,
-    "fat": 10
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "25g",
+    "fat": "36g"
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/springy-tunisian-beets-tagine",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T06:37:50.062Z"
+  "createdAt": "2026-07-19T22:00:29.674Z"
 }
