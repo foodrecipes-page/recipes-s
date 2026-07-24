@@ -1,0 +1,64 @@
+{
+  "slug": "soy-butter-crust--german",
+  "title": "German Crusted Schnitzel",
+  "description": "A classic German dish featuring a crispy crust and a tender interior. Best served with a side of tangy lemon wedges.",
+  "cuisine": "german",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork cutlets",
+      "amount": "4",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Soy",
+      "amount": "2 tbsp",
+      "notes": "Mixed with butter for marinade"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "Crust",
+      "amount": "1 cup",
+      "notes": "Panko or similar"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together soy and butter until well combined.",
+    "2. Add the pork cutlets to the marinade, coating both sides evenly.",
+    "3. Let the pork marinate for at least 15 minutes.",
+    "4. Preheat oven to 375°F (190°C).",
+    "5. In a separate dish, place the crust.",
+    "6. Dredge the marinated pork cutlets in the crust, pressing gently to adhere.",
+    "7. Heat a large skillet over medium-high heat.",
+    "8. Add a small amount of oil to the skillet and sear the coated pork cutlets for 2-3 minutes on each side.",
+    "9. Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until cooked through.",
+    "10. Let the schnitzel rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "schnitzel",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/soy-butter-crust--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:46:22.233Z"
+}
