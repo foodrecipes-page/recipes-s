@@ -21806,17 +21806,15 @@
   },
   {
     "slug": "smoky-split-pea-salad",
-    "title": "Smoky Split Pea Salad",
+    "title": "Smoky Black-Eyed Pea Salad",
     "tags": [
-      "smoky_split_pea_salad",
-      "split_peas",
-      "egyptian_dish",
-      "one_pot",
-      "light_meal",
-      "raw_friendly"
+      "salad",
+      "lunch",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "cuisine": "American",
+    "totalTimeMin": 20,
     "shard": "s"
   },
   {
@@ -42785,6 +42783,46 @@
     ],
     "cuisine": null,
     "totalTimeMin": 20,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-saudi-labneh-bowl--japanese",
+    "title": "Japanese-Style Silky Labneh Parfait",
+    "tags": [
+      "dessert",
+      "japanese",
+      "parfait",
+      "labneh",
+      "matcha"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-flaky-flax-eggs-grill--thai",
+    "title": "Thai Style Flaky Omelette",
+    "tags": [
+      "thai",
+      "breakfast",
+      "omelette",
+      "flaky"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-flaky-moroccan-chicken-stir-fry--german",
+    "title": "German Chicken Schnitzel",
+    "tags": [
+      "german",
+      "chicken",
+      "schnitzel",
+      "fried"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
     "shard": "s"
   }
 ]
