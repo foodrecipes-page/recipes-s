@@ -1,0 +1,77 @@
+{
+  "slug": "sous-vide-buttermilk-casabe-wrap--thai",
+  "title": "Thai Sous Vide Chicken Wrap",
+  "description": "A Thai-inspired dish featuring sous vide chicken, crispy casabe, and creamy buttermilk sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 oz"
+    },
+    {
+      "name": "casabe",
+      "amount": "4 pieces",
+      "notes": "toasted"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "sous vide machine",
+      "amount": "1 unit"
+    },
+    {
+      "name": "wrap",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "1. Preheat sous vide machine to 130°F (54°C).",
+    "2. Season chicken breast with salt, pepper, and garlic.",
+    "3. Seal chicken in a sous vide bag and cook for 1 hour.",
+    "4. In a bowl, whisk together buttermilk, lime juice, and soy sauce.",
+    "5. Once chicken is cooked, remove from bag and slice into strips.",
+    "6. Add chicken to the buttermilk mixture and toss to coat.",
+    "7. Toast casabe pieces in a toaster or under the broiler until crispy.",
+    "8. Assemble wraps by placing a few slices of chicken, some toasted casabe, and a dollop of buttermilk sauce inside each wrap."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "wrap",
+    "casabe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-buttermilk-casabe-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:32:51.264Z"
+}
