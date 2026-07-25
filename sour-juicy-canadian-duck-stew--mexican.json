@@ -1,0 +1,73 @@
+{
+  "slug": "sour-juicy-canadian-duck-stew--mexican",
+  "title": "Spicy Duck Tacos",
+  "description": "A twist on traditional Mexican tacos, these feature crispy duck breast and a tangy slaw.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "4 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jalapeño peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Stew salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Canadian flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck breasts with stew salt. Dust with flour.",
+    "Pan-fry the duck breasts until browned on both sides, about 5 minutes. Finish in the oven for 12-15 minutes, or until cooked through.",
+    "Meanwhile, mix sour cream with lime juice and diced jalapeño. Stir in chopped cilantro.",
+    "Shred the cooked duck and serve with the slaw."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "duck",
+    "tacos",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sour-juicy-canadian-duck-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:36:18.000Z"
+}
