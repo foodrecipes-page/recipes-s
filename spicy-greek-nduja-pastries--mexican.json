@@ -1,86 +1,79 @@
 {
   "slug": "spicy-greek-nduja-pastries--mexican",
   "title": "Mexican Nduja Empanadas",
-  "description": "A spicy twist on traditional empanadas, filled with Nduja sausage and wrapped in crispy pastry.",
+  "description": "A twist on traditional empanadas, filled with spicy nduja sausage and served as a delicious breakfast or snack.",
   "cuisine": "mexican",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "Nduja sausage",
-      "amount": "1/2 pound",
-      "notes": "spicy Italian sausage"
+      "name": "nduja sausage",
+      "amount": "6 ounces",
+      "notes": "spicy, Italian sausage"
     },
     {
-      "name": "Pastry dough",
+      "name": "puff pastry",
       "amount": "1 package",
-      "notes": "homemade or store-bought"
+      "notes": "thawed"
     },
     {
-      "name": "Onion",
+      "name": "onion",
       "amount": "1 medium",
-      "notes": "chopped"
+      "notes": "diced"
     },
     {
-      "name": "Garlic",
-      "amount": "3 cloves",
-      "notes": "minced"
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
     },
     {
-      "name": "Cilantro",
-      "amount": "1/4 cup",
-      "notes": "chopped"
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
     },
     {
-      "name": "Lime juice",
-      "amount": "2 tablespoons",
-      "notes": "freshly squeezed"
-    },
-    {
-      "name": "Salt",
-      "amount": "to taste",
-      "notes": "optional"
-    },
-    {
-      "name": "Black pepper",
-      "amount": "to taste",
-      "notes": "optional"
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Roll out pastry dough to a thickness of 1/8 inch.",
-    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
-    "In a pan over medium heat, cook the Nduja sausage until browned, breaking it up with a spoon as it cooks.",
-    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
-    "Stir in chopped cilantro and cook for 1 minute.",
-    "Spoon the Nduja mixture onto one half of each dough circle, leaving a 1/2 inch border around the edges.",
-    "Fold the other half of the dough over the filling and press the edges together with a fork to seal.",
-    "Brush the tops of the empanadas with lime juice and sprinkle with salt and pepper to taste.",
-    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
-    "Serve warm and enjoy!"
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch (3 mm).",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "In a pan over medium heat, cook the diced onion until softened.",
+    "Add the cooked onion to the nduja sausage and mix well.",
+    "Season the nduja mixture with cumin, chili powder, and salt.",
+    "Place a tablespoon of the nduja mixture onto one half of each pastry circle.",
+    "Brush the edges of the pastry with water and fold the other half over the filling.",
+    "Press the edges of the pastry together to seal the empanada.",
+    "Use a knife to cut a few slits in the top of each empanada to allow steam to escape.",
+    "Brush the tops of the empanadas with egg wash.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 25,
-  "totalTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "mexican",
+    "brunch",
+    "breakfast",
+    "snack",
     "nduja",
-    "pastry"
+    "empanadas"
   ],
   "nutrition": {
     "calories": 320,
     "protein": 12,
-    "carbs": 25,
+    "carbs": 24,
     "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/spicy-greek-nduja-pastries--mexican",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T13:59:51.760Z"
+  "createdAt": "2026-07-20T14:10:17.561Z"
 }
