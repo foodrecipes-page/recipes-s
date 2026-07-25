@@ -1,0 +1,61 @@
+{
+  "slug": "sweet-american-vanilla-cake-grilled-cake",
+  "title": "Grilled Vanilla Cake",
+  "description": "A moist and delicious vanilla cake grilled to perfection. Serve warm, topped with a scoop of ice cream.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla cake",
+      "amount": "1 1/2 cups",
+      "notes": "preferably store-bought"
+    },
+    {
+      "name": "sweet",
+      "amount": "1 tablespoon",
+      "notes": "optional, for drizzling"
+    },
+    {
+      "name": "american",
+      "amount": "1/2 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "grilled",
+      "amount": "1/4 cup",
+      "notes": "optional, for a caramelized crust"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Cut vanilla cake into 1-inch thick slices.",
+    "Brush both sides of cake slices with softened butter.",
+    "Grill cake slices for 2-3 minutes on each side, or until golden brown.",
+    "Drizzle with sweet if desired.",
+    "Serve warm, topped with a scoop of ice cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vanilla",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sweet-american-vanilla-cake-grilled-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:14:35.007Z"
+}
