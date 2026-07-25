@@ -1,0 +1,71 @@
+{
+  "slug": "salty-turkish-cinnamon-soup",
+  "title": "Turkish Lentil Soup",
+  "description": "A hearty and comforting soup originating from Turkey, made with red lentils, onions, garlic, and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salty",
+      "amount": "3 cups water",
+      "notes": ""
+    },
+    {
+      "name": "lentils, red",
+      "amount": "1 cup dried red lentils",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp ground cinnamon",
+      "notes": ""
+    },
+    {
+      "name": "soup",
+      "amount": "2 tsp dried thyme",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the salty in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the lentils, cinnamon, and soup (thyme).",
+    "Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentils",
+    "soup",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-turkish-cinnamon-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:42:29.625Z"
+}
