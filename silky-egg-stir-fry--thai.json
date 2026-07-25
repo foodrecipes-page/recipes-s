@@ -1,0 +1,62 @@
+{
+  "slug": "silky-egg-stir-fry--thai",
+  "title": "Thai Omelette Stir Fry",
+  "description": "A simple and flavorful Thai-inspired stir fry with an omelette twist. This dish is great for a quick and easy dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "silky",
+      "amount": "1/4 cup",
+      "notes": "silky tofu (drained and cubed)"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tsp",
+      "notes": "stir-fry sauce"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tsp",
+      "notes": "vegetable oil for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of vegetable oil in a medium pan over medium heat.",
+    "Pour in the eggs and cook until the eggs are almost set.",
+    "Add the cubed tofu and stir-fry sauce to the eggs and stir until the eggs are fully cooked.",
+    "Transfer the omelette to a plate and set aside.",
+    "In the same pan, add a little more oil if necessary and stir-fry any additional vegetables (such as bell peppers or carrots) until they are tender.",
+    "Return the omelette to the pan and stir-fry everything together for about 1 minute.",
+    "Serve hot and enjoy!",
+    "Optional: add garnishes such as chopped green onions or sesame seeds for extra flavor and texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "omelette",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/silky-egg-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:10:18.475Z"
+}
