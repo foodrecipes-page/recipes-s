@@ -1,0 +1,65 @@
+{
+  "slug": "spicy-egyptian-milk-broil",
+  "title": "Egyptian Spicy Broil Chicken",
+  "description": "A spicy twist on traditional Egyptian chicken, grilled to perfection with a crispy broil.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "spicy",
+      "amount": "1/2 tsp",
+      "notes": "cayenne pepper"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "In a bowl, mix together cayenne pepper and paprika.",
+    "Add the milk to the bowl and mix to create a marinade.",
+    "Add the chicken breasts to the marinade and coat evenly.",
+    "Let the chicken marinate for 30 minutes.",
+    "Preheat the grill to medium-high heat.",
+    "Remove the chicken from the marinade and grill for 5-6 minutes per side.",
+    "Broil the chicken for an additional 2-3 minutes.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/spicy-egyptian-milk-broil",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:41:33.183Z"
+}
