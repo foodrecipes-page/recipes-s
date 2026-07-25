@@ -1,0 +1,70 @@
+{
+  "slug": "solo-dinner-thai-roast-roast--vegan",
+  "title": "Thai Vegan Stir Fry",
+  "description": "A quick and flavorful Thai-inspired stir fry made with a variety of colorful vegetables and served with steamed jasmine rice.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as bell peppers, carrots, broccoli"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Fresh Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the Thai red curry paste and stir-fry for 1-2 minutes until fragrant.",
+    "Add the mixed vegetables and tofu. Stir-fry for 3-4 minutes until the vegetables are tender.",
+    "Add the fresh Thai basil and stir-fry for another minute.",
+    "Serve the stir-fry over cooked jasmine rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "thai",
+    "stir-fry",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/solo-dinner-thai-roast-roast--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:30:36.931Z"
+}
