@@ -22526,18 +22526,15 @@
   },
   {
     "slug": "smoky-velvety-dutch-rice-noodles",
-    "title": "Smoky Velvety Dutch Rice Noodles",
+    "title": "Smoky Dutch Rice Bowl",
     "tags": [
-      "dutch-dish",
-      "gluten-free-friendly",
-      "high-protein",
-      "one-pan",
-      "smoked-flavor",
-      "velvety-sauce",
-      "weeknight"
+      "smoky",
+      "dutch",
+      "rice",
+      "noodles"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -43692,6 +43689,46 @@
       "beef",
       "indian",
       "grill"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-flaky-saudia-tomato-stir-fry--mexican",
+    "title": "Saudia Chicken Tacos",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tacos",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-vietnamese-ginger-stir-fry--gluten-free",
+    "title": "Spicy Ginger Stir Fry",
+    "tags": [
+      "spicy",
+      "vietnamese",
+      "gluten-free",
+      "stir-fry",
+      "ginger"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-hot-canadian-fish-fritters--indian",
+    "title": "Smoky Fish Fritters",
+    "tags": [
+      "indian",
+      "fish",
+      "fritters",
+      "snack"
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
