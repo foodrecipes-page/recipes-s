@@ -10907,14 +10907,16 @@
   },
   {
     "slug": "silky-sour-japanese-tofu-stir-fry",
-    "title": "Silky Sour Japanese Tofu Stir-fry",
+    "title": "Japanese Tofu Stir Fry",
     "tags": [
-      "silken tofu",
-      "sour cream",
-      "hangover-cure"
+      "japanese",
+      "tofu",
+      "stir-fry",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -24195,14 +24197,16 @@
   },
   {
     "slug": "sour-crispy-argentinian-avocado-crumble",
-    "title": "Sour Crispy Argentinian Avocado Crumble",
+    "title": "Argentinian Crispy Avocado Salad",
     "tags": [
-      "sour",
-      "crispy",
-      "argentinian"
+      "argentinian",
+      "beef",
+      "salad",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 10,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -36177,16 +36181,16 @@
   },
   {
     "slug": "sweetly-steamed-vietnamese-beetroot-pho",
-    "title": "sweetly steamed vietnamese beetroot pho",
+    "title": "Steamed Beetroot Pho",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "beetroot",
+      "pho",
+      "vietnamese",
+      "noodle-soup",
+      "vegetarian"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 70,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -43979,6 +43983,31 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 50,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-charred-american-pork-skillet--german",
+    "title": "Schweinshaxe German-Style Roasted Pork Knuckle",
+    "tags": [
+      "german",
+      "pork",
+      "roasted",
+      "knuckle"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "s"
+  },
+  {
+    "slug": "salty-japanese-beef-roast--vegetarian",
+    "title": "Japanese-Style Roasted Vegetables",
+    "tags": [
+      "vegetarian",
+      "japanese",
+      "roasted"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
     "shard": "s"
   }
 ]
