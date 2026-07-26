@@ -623,17 +623,15 @@
   },
   {
     "slug": "salty-crunchy-french-chicken-skewers",
-    "title": "Salty Crunchy French Chicken Skewers",
+    "title": "Chicken Frenchie Skewers",
     "tags": [
-      "low-fat",
-      "quick-dinner",
-      "skewers",
-      "french-indian",
-      "crunchy",
-      "monsoon"
+      "chicken",
+      "grill",
+      "french",
+      "skewers"
     ],
-    "cuisine": "French-Indian",
-    "totalTimeMin": 40,
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -28904,14 +28902,16 @@
   },
   {
     "slug": "spicy-gooey-brie-quesadilla",
-    "title": "Gooey Brie Quesadilla",
+    "title": "Brie Quesadilla Delight",
     "tags": [
-      "melted cheese",
+      "mexican",
       "quesadilla",
+      "brie",
+      "cheese",
       "snack"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 10,
+    "cuisine": "mexican",
+    "totalTimeMin": 9,
     "shard": "s"
   },
   {
@@ -43632,6 +43632,69 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 27,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-pull-egyptian-cheese-robata-grilled-sandwich--mexican",
+    "title": "Mexican Grilled Cheese Sandwich",
+    "tags": [
+      "mexican",
+      "grilled",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 9,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-flaky-moroccan-chicken-stir-fry--thai",
+    "title": "Moroccan Chicken Stir Fry",
+    "tags": [
+      "thai",
+      "chicken",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "streaky-bacon-marinated-azucarado-tacos--thai",
+    "title": "Streaky Bacon Tacos with Azucarado Glaze",
+    "tags": [
+      "thai",
+      "tacos",
+      "bacon",
+      "beef"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-dense-thai-oats-stir-fry--japanese",
+    "title": "Japanese Oat Stir Fry",
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "japanese",
+      "oats",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-crisp-peruvian-feather-blade-beef-skewers--indian",
+    "title": "Beef Skewers with Indian Spices",
+    "tags": [
+      "beef",
+      "indian",
+      "grill"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
