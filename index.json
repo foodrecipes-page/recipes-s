@@ -13445,17 +13445,15 @@
   },
   {
     "slug": "smoked-russian-bacon-hash",
-    "title": "Smoked Russian Bacon Hash",
+    "title": "Smoked Hash Brown Breakfast",
     "tags": [
-      "high-protein",
-      "iron-skillet",
-      "keto",
-      "one-pan",
-      "post-workout",
-      "russian"
+      "breakfast",
+      "hashbrown",
+      "smokedhash",
+      "bacon"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -42705,14 +42703,14 @@
   },
   {
     "slug": "salty-croatian-beef-stir-fry--vegetarian",
-    "title": "Croatian Beef Stir Fry",
+    "title": "Croatian Beef Stew",
     "tags": [
+      "beef",
       "vegetarian",
-      "mushroom",
-      "stir-fry"
+      "croatian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 25,
+    "cuisine": "Croatian",
+    "totalTimeMin": 110,
     "shard": "s"
   },
   {
@@ -44084,6 +44082,31 @@
     ],
     "cuisine": null,
     "totalTimeMin": 50,
+    "shard": "s"
+  },
+  {
+    "slug": "succulent-egyptian-chicken-stir-fry--italian",
+    "title": "Egyptian Chicken Italian Fry",
+    "tags": [
+      "italian",
+      "chicken",
+      "stir-fry",
+      "eggplant"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-light-slovakian-lettuce-salad--italian",
+    "title": "Slovakian Italian Salad",
+    "tags": [
+      "italian",
+      "salad",
+      "european"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
     "shard": "s"
   }
 ]
