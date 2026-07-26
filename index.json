@@ -11481,15 +11481,12 @@
     "slug": "slow-cooked-american-chicken-stew",
     "title": "Slow Cooked American Chicken Stew",
     "tags": [
-      "citrusy",
-      "comfort-food",
-      "lazy-sunday",
-      "one-pot",
-      "paleo-friendly",
+      "chicken",
+      "stew",
       "slow-cooked"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 390,
+    "cuisine": null,
+    "totalTimeMin": 255,
     "shard": "s"
   },
   {
@@ -44059,6 +44056,33 @@
       "smoky"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-night-uruguayan-grassy-empanadas--vegan",
+    "title": "Grassy Empanadas",
+    "tags": [
+      "vegan",
+      "snack",
+      "empanadas",
+      "mushrooms",
+      "herbs"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-crispy-american-apple-crumble--vegan",
+    "title": "Autumn Apple Crumble",
+    "tags": [
+      "autumn",
+      "apple",
+      "crumble",
+      "vegan"
+    ],
+    "cuisine": null,
     "totalTimeMin": 50,
     "shard": "s"
   }
