@@ -21173,16 +21173,15 @@
   },
   {
     "slug": "smoky-silky-turkish-monkfish-pilaf",
-    "title": "Smoky Silky Turkish Monkfish Pilaf",
+    "title": "Pan-Seared Monkfish Pilaf",
     "tags": [
-      "low-fat",
-      "one-pan",
-      "smoky",
-      "turkish",
-      "weeknight"
+      "mediterranean",
+      "seafood",
+      "healthy",
+      "low-carb"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -43863,6 +43862,45 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-smoked-oaxacan-pork-birria--italian",
+    "title": "Oaxacan-Style Pork Birria Italian-Style Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "pork",
+      "birria"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 75,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-roasted-brazilian-chicken-skewers--vegetarian",
+    "title": "Smoky Brazilian Skewer Vegetarian Delight",
+    "tags": [
+      "vegetarian",
+      "skewers",
+      "grilled",
+      "brazilian",
+      "easy"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-fluffy-algerian-onion-stir-fry--japanese",
+    "title": "Japanese Onion Stir Fry",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "quick"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
     "shard": "s"
   }
 ]
