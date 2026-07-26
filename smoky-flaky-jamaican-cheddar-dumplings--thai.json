@@ -1,65 +1,65 @@
 {
   "slug": "smoky-flaky-jamaican-cheddar-dumplings--thai",
-  "title": "Thai Smoky Chicken Dumpling Bites",
-  "description": "Crispy Thai-inspired dumplings filled with smoky chicken and cheddar cheese, perfect as a snack or appetizer.",
-  "cuisine": "thai",
-  "diet": [
-    "gluten-free",
-    "dairy"
-  ],
-  "meal": "snack",
+  "title": "Smoky Jamaican Chicken Dumplings",
+  "description": "A twist on traditional Thai dumplings, featuring smoky Jamaican chicken. This dish is sure to satisfy your cravings.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "Smoky Chicken",
-      "amount": "1 pound",
-      "notes": ""
+      "name": "Smoky chicken breast",
+      "amount": "1 pound"
     },
     {
-      "name": "Flaky Pastry Dough",
-      "amount": "1 package (usually 8-10 pieces)",
-      "notes": ""
+      "name": "Jamaican allspice",
+      "amount": "1 teaspoon"
     },
     {
-      "name": "Jamaican Seasoning",
-      "amount": "1/2 teaspoon",
-      "notes": ""
+      "name": "Dumpling wrappers (Thai style)",
+      "amount": "20 pieces"
     },
     {
-      "name": "Cheddar Cheese",
-      "amount": "1/2 cup, shredded",
-      "notes": ""
+      "name": "Cheddar cheese",
+      "amount": "1/4 cup, grated"
     },
     {
-      "name": "Dumplings",
-      "amount": "4-6 pieces (depending on size)",
-      "notes": "Use a round dumpling cutter or the rim of a glass"
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
-    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
-    "Cut out small squares of dough (about 2 inches per side).",
-    "Place a small amount of smoky chicken mixture in the center of each dough square.",
-    "Fold the dough squares in half over the filling, pressing the edges to seal.",
-    "Use a fork to crimp the edges and create a decorative border.",
-    "Place the dumplings on a baking sheet lined with parchment paper.",
-    "Brush the tops with a beaten egg and sprinkle with jamaican seasoning.",
-    "Bake for 15-20 minutes, or until golden brown.",
-    "Serve hot with a side of cheddar cheese for dipping."
+    "1. In a large pan, heat 1 tablespoon of oil over medium-high heat.",
+    "2. Add the smoky chicken breast and cook until browned and cooked through, about 5-6 minutes.",
+    "3. In a small bowl, mix together the Jamaican allspice and 1 tablespoon of oil.",
+    "4. Brush the mixture onto the cooked chicken and set aside.",
+    "5. In a large bowl, combine the dumpling wrappers and 1/4 cup of water.",
+    "6. Mix until the wrappers are evenly moistened and pliable.",
+    "7. Divide the dough into 20 equal pieces and roll each piece into a ball.",
+    "8. Flatten each ball into a disk shape.",
+    "9. Place a tablespoon of the cooked chicken onto the center of each disk.",
+    "10. Fold the dough over the filling to form a half-moon shape and press the edges together.",
+    "11. In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "12. Add the dumplings to the pan and cook for 2-3 minutes on each side, until golden brown."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 15,
-  "totalTimeMin": 35,
-  "servings": "4-6",
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "thai",
-    "snack",
-    "appetizer",
-    "cheese"
+    "smoky",
+    "flaky",
+    "jamaican",
+    "cheddar"
   ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 22
+  },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/smoky-flaky-jamaican-cheddar-dumplings--thai",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T08:52:57.929Z"
+  "createdAt": "2026-07-21T13:02:52.093Z"
 }
