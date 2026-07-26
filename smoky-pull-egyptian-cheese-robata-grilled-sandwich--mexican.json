@@ -1,0 +1,61 @@
+{
+  "slug": "smoky-pull-egyptian-cheese-robata-grilled-sandwich--mexican",
+  "title": "Mexican Grilled Cheese Sandwich",
+  "description": "A twist on the classic grilled cheese, this Mexican version is filled with the flavors of melted cheese, spicy pulled pork, and a crunchy crust.",
+  "cuisine": "mexican",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egyptian cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "smoky pulled pork",
+      "amount": "4 oz",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "robata",
+      "amount": "1 tsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "grilled sandwich",
+      "amount": "2 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Butter one side of each slice of bread.",
+    "Place one slice of bread, buttered side down, in a pan over medium heat.",
+    "Top with a slice of cheese, some pulled pork, and a sprinkle of robata.",
+    "Place the second slice of bread, buttered side up, on top of the filling.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grilled",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-pull-egyptian-cheese-robata-grilled-sandwich--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:12:05.842Z"
+}
