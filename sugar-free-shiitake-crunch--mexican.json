@@ -1,0 +1,74 @@
+{
+  "slug": "sugar-free-shiitake-crunch--mexican",
+  "title": "Grilled Shrimp Fajitas",
+  "description": "Grilled shrimp and shiitake mushrooms served with a side of crunchy slaw and warm flour tortillas. A flavorful and spicy Mexican dish.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "crunch lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "free tortillas",
+      "amount": "4-6",
+      "notes": "warm flour tortillas"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional, for caramelizing onions"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tablespoon of oil and cook the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add another tablespoon of oil to the skillet and cook the sliced shiitake mushrooms for 3-4 minutes, or until tender.",
+    "Add the sliced red onion to the skillet and cook for an additional 2-3 minutes, or until caramelized.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the cooked shrimp and mushrooms onto a tortilla, followed by a spoonful of crunchy slaw.",
+    "Serve immediately and garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "shrimp",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sugar-free-shiitake-crunch--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:43:56.136Z"
+}
