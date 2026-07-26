@@ -1,68 +1,68 @@
 {
   "slug": "spicy-gooey-brie-quesadilla",
-  "title": "Gooey Brie Quesadilla",
-  "description": "A deliciously gooey quesadilla filled with melted brie cheese. This dish is perfect for a quick snack or light meal.",
-  "cuisine": "Mexican",
+  "title": "Brie Quesadilla Delight",
+  "description": "A creamy and spicy twist on the classic quesadilla with melted brie cheese.",
+  "cuisine": "mexican",
   "diet": [
     "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "1 tablespoon butter",
-      "amount": "1 tablespoon",
-      "notes": null
+      "name": "Brie cheese",
+      "amount": "1/2 cup, crumbled"
     },
     {
-      "name": "1 quesadilla",
-      "amount": "1",
-      "notes": "tortilla"
+      "name": "Quesadilla",
+      "amount": "1 large tortilla"
     },
     {
-      "name": "2 ounces brie cheese",
-      "amount": "2 oz",
-      "notes": "soft and ripe"
+      "name": "Spicy peppers",
+      "amount": "1/4 cup, sliced"
     },
     {
-      "name": "1 tablespoon spicy cheese",
-      "amount": "1 tablespoon",
-      "notes": "optional"
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
     },
     {
-      "name": "salt and pepper to taste",
-      "amount": "",
-      "notes": null
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional: salsa or sour cream",
+      "amount": "for serving"
     }
   ],
   "instructions": [
-    "Preheat a skillet or griddle over medium heat.",
-    "Butter one side of the quesadilla.",
-    "Place the quesadilla, buttered side down, in the skillet.",
-    "Sprinkle the brie cheese on half of the quesadilla.",
-    "Add the spicy cheese on top of the brie, if using.",
-    "Fold the quesadilla in half and cook for 2-3 minutes.",
-    "Flip the quesadilla and cook for an additional 2-3 minutes.",
-    "Cut into wedges and serve hot.",
-    "Season with salt and pepper to taste."
+    "Preheat a large skillet or griddle over medium heat.",
+    "Place the quesadilla in the skillet and sprinkle the crumbled brie cheese on half of the tortilla.",
+    "Add the sliced spicy peppers on top of the brie cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes or until the other side is also crispy.",
+    "Cut the quesadilla into wedges and serve immediately with salsa or sour cream, if desired.",
+    "Garnish with chopped cilantro and a sprinkle of salt."
   ],
   "prepTimeMin": 5,
-  "cookTimeMin": 5,
-  "totalTimeMin": 10,
-  "servings": 1,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
   "difficulty": "easy",
   "tags": [
-    "melted cheese",
+    "mexican",
     "quesadilla",
+    "brie",
+    "cheese",
     "snack"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 10,
+    "calories": 250,
+    "protein": 12,
     "carbs": 20,
-    "fat": 20
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/spicy-gooey-brie-quesadilla",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T01:40:41.104Z"
+  "createdAt": "2026-07-21T08:50:42.030Z"
 }
