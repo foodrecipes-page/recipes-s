@@ -1,86 +1,99 @@
 {
   "slug": "salty-croatian-beef-stir-fry--vegetarian",
-  "title": "Croatian Beef Stir Fry",
-  "description": "A vegetarian twist on a traditional dish, using beef substitute for a meatless option. This recipe combines the flavors of the Mediterranean with the convenience of a quick stir fry.",
-  "cuisine": "Mediterranean",
+  "title": "Croatian Beef Stew",
+  "description": "A hearty and savory stew inspired by Croatian cuisine, made with tender beef and a variety of spices.",
+  "cuisine": "Croatian",
   "diet": [
     "vegetarian"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "Beef substitute (such as portobello mushrooms)",
-      "amount": "1 cup",
-      "notes": ""
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
     },
     {
-      "name": "Croatian salt",
+      "name": "Salty",
       "amount": "1 teaspoon",
-      "notes": ""
+      "notes": "Use as desired for seasoning"
     },
     {
-      "name": "Olive oil",
+      "name": "Croatian",
       "amount": "2 tablespoons",
-      "notes": ""
+      "notes": "Use as desired for seasoning"
+    },
+    {
+      "name": "Stir",
+      "amount": "2 tablespoons",
+      "notes": "Use as desired for seasoning"
+    },
+    {
+      "name": "Fry",
+      "amount": "2 tablespoons",
+      "notes": "Use as desired for seasoning"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop into bite-sized pieces"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Peel and chop into bite-sized pieces"
     },
     {
       "name": "Onion",
       "amount": "1 medium",
-      "notes": ""
-    },
-    {
-      "name": "Bell pepper",
-      "amount": "1 medium",
-      "notes": ""
+      "notes": "Chop into small pieces"
     },
     {
       "name": "Garlic",
-      "amount": "2 cloves",
-      "notes": ""
+      "amount": "3 cloves",
+      "notes": "Minced"
     },
     {
-      "name": "Paprika",
-      "amount": "1 teaspoon",
-      "notes": ""
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Use a dry red wine for best flavor"
     },
     {
-      "name": "Fry stir",
-      "amount": "1 tablespoon",
-      "notes": ""
-    },
-    {
-      "name": "Fresh parsley",
-      "amount": "1/4 cup",
-      "notes": ""
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Use low-sodium broth for best flavor"
     }
   ],
   "instructions": [
-    "Heat the olive oil in a large skillet over medium-high heat.",
-    "Add the beef substitute and cook for 3-4 minutes, until browned.",
-    "Add the onion and bell pepper and cook for 4-5 minutes, until tender.",
-    "Add the garlic and cook for 1 minute, until fragrant.",
-    "Add the paprika and cook for 1 minute, until combined.",
-    "Stir in the Croatian salt and fry stir.",
-    "Serve hot, garnished with parsley."
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the chopped onion and minced garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the red wine to the pot and cook until the liquid is almost completely reduced, about 10 minutes.",
+    "Add the vegetable broth to the pot and stir to combine.",
+    "Return the beef to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Season with salt and serve hot."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
+    "beef",
     "vegetarian",
-    "mushroom",
-    "stir-fry"
+    "croatian"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 20,
-    "carbs": 30,
-    "fat": 10
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/salty-croatian-beef-stir-fry--vegetarian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T08:29:51.741Z"
+  "createdAt": "2026-07-21T21:26:28.281Z"
 }
