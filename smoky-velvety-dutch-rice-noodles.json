@@ -1,0 +1,74 @@
+{
+  "slug": "smoky-velvety-dutch-rice-noodles",
+  "title": "Smoky Dutch Rice Bowl",
+  "description": "A hearty rice bowl dish featuring smoky flavors and creamy textures.",
+  "cuisine": null,
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dutch-Style Sausages",
+      "amount": "2 sausages",
+      "notes": "Cooked to an internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Velvety Slaw",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook Smoky Rice according to package instructions.",
+    "Grill or pan-fry Dutch-Style Sausages until cooked through.",
+    "In a separate pan, heat Sesame Oil over medium heat.",
+    "Add Soy Sauce and cook for 1 minute.",
+    "Add Green Onions and cook for an additional minute.",
+    "Assemble the dish by placing cooked rice in a bowl, topping with sausages, slaw, and sauce.",
+    "Garnish with additional Green Onions if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "dutch",
+    "rice",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-velvety-dutch-rice-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:46:17.910Z"
+}
