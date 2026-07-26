@@ -1,0 +1,66 @@
+{
+  "slug": "smoked-russian-bacon-hash",
+  "title": "Smoked Hash Brown Breakfast",
+  "description": "A hearty breakfast dish featuring crispy smoked hash browns topped with scrambled eggs and crispy bacon.",
+  "cuisine": null,
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Hash",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the smoked hash into 1-inch pieces and place on a baking sheet.",
+    "Bake the hash in the oven for 20-25 minutes, or until crispy and golden brown.",
+    "Cook the bacon in a pan over medium heat until crispy.",
+    "In a separate bowl, scramble the eggs and set aside.",
+    "To assemble the dish, place the crispy hash on a plate, top with scrambled eggs and crumbled bacon.",
+    "Sprinkle shredded cheese on top and season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hashbrown",
+    "smokedhash",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoked-russian-bacon-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:20:25.535Z"
+}
