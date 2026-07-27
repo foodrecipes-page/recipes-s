@@ -1,0 +1,83 @@
+{
+  "slug": "smoky-pine-nuts-thai-stir-fry--french",
+  "title": "Smoky Pine Nut Stir Fry",
+  "description": "A French-inspired stir fry dish with smoky flavors from bacon and a crunchy nut topping, all cooked in a wok.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 pound",
+      "notes": "trimmed"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cook the bacon in a wok or large skillet over medium-high heat until crispy. Remove from heat and set aside.",
+    "2. Add olive oil to the wok and cook the green beans and red bell pepper until tender-crisp, about 4 minutes.",
+    "3. Add the garlic and cook for 1 minute.",
+    "4. Stir in soy sauce and cooked bacon. Cook for 1 minute.",
+    "5. Add the pine nuts and stir-fry until lightly toasted, about 2 minutes.",
+    "6. Season with salt and pepper to taste.",
+    "7. Serve immediately and garnish with additional pine nuts if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "stir-fry",
+    "vegetarian",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-pine-nuts-thai-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:32:35.873Z"
+}
