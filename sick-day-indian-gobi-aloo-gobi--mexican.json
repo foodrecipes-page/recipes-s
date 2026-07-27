@@ -1,0 +1,80 @@
+{
+  "slug": "sick-day-indian-gobi-aloo-gobi--mexican",
+  "title": "Gobi Aloo Tacos",
+  "description": "A Mexican-inspired twist on the classic Indian dish, featuring crispy tacos filled with spicy cauliflower and potatoes.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gobi",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "aloo",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "sick",
+      "amount": "1 teaspoon",
+      "notes": "spice blend (e.g. garam masala)"
+    },
+    {
+      "name": "day",
+      "amount": "1 teaspoon",
+      "notes": "coriander"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "veggie or canola oil"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour tortillas"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add florets and cook until lightly browned, about 5 minutes.",
+    "Add diced potatoes and cook for an additional 3-4 minutes.",
+    "Add spice blend and coriander; stir to combine.",
+    "Cook for 1-2 minutes, until fragrant.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning cauliflower and potato mixture onto a tortilla and topping with lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "indian",
+    "vegan",
+    "gluten-free",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sick-day-indian-gobi-aloo-gobi--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:17:41.403Z"
+}
