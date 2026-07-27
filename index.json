@@ -2399,17 +2399,17 @@
   },
   {
     "slug": "savory-aerated-ukrainian-fiordilatte-pilaf",
-    "title": "Savory Aerated Ukrainian Fiordilatte Pilaf",
+    "title": "Fiordilatte Savory Fritters with Pilaf",
     "tags": [
-      "aerated",
-      "one-pot",
-      "pescatarian",
+      "fiordilatte",
       "savory",
-      "ukrainian-cuisine",
-      "weeknight"
+      "ukrainian",
+      "pilaf",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -4183,17 +4183,14 @@
   },
   {
     "slug": "savory-greek-seafood-saganaki",
-    "title": "Savory Greek Seafood Saganaki",
+    "title": "Greek Saganaki with Shrimp",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "greek-cuisine",
-      "one-pan",
       "seafood",
-      "whole30"
+      "greek",
+      "saganaki"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "s"
   },
   {
@@ -28386,15 +28383,14 @@
   },
   {
     "slug": "spicy-egyptian-kid-friendly-dish-tagine",
-    "title": "Spicy Egyptian Kid-Friendly Tagine",
+    "title": "Spicy Egyptian Chicken Tagine",
     "tags": [
-      "easy",
-      "kid-friendly",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "spicy",
+      "egyptian",
+      "chicken",
+      "tagine"
     ],
-    "cuisine": "egyptian",
+    "cuisine": "Egyptian",
     "totalTimeMin": 45,
     "shard": "s"
   },
@@ -44261,6 +44257,47 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-tender-syrian-lamb-kebabs--french",
+    "title": "Lamb Kebabs with Frenchie Zest",
+    "tags": [
+      "lamb-kebabs",
+      "frenchie-zest",
+      "grilled-meats",
+      "summer-recipes"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-light-indulgent-brazilian-bulgur-wheat-stir-fry--german",
+    "title": "Sauerbraten Stir Fry",
+    "tags": [
+      "german",
+      "beef",
+      "stirfry",
+      "bulgur",
+      "comfortfood"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "spinach-spinanza--keto",
+    "title": "Spinach and Spinanza Keto Scramble",
+    "tags": [
+      "keto",
+      "breakfast",
+      "scramble",
+      "spinach",
+      "spinanza"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 13,
     "shard": "s"
   }
 ]
