@@ -30755,16 +30755,15 @@
   },
   {
     "slug": "spicy-turkish-adana-kebap",
-    "title": "Spicy Turkish Adana Kebap",
+    "title": "Spicy Adana Kebap",
     "tags": [
-      "high-protein",
       "kebap",
-      "one-pan",
       "turkish",
-      "weeknight"
+      "lamb",
+      "spicy"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
     "shard": "s"
   },
   {
@@ -43367,16 +43366,16 @@
   },
   {
     "slug": "sweet-crunchy-australian-apricots-toast--mexican",
-    "title": "Apricot Toast Crunch",
+    "title": "Mexican Apricot Toast",
     "tags": [
-      "apricot",
       "mexican",
+      "snack",
       "breakfast",
-      "sweet",
-      "crunchy"
+      "apricot",
+      "toasted"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 7,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -44298,6 +44297,122 @@
     ],
     "cuisine": null,
     "totalTimeMin": 13,
+    "shard": "s"
+  },
+  {
+    "slug": "soft-spanish-onion-pilaf--vegan",
+    "title": "Vegan Spanish Pilaf",
+    "tags": [
+      "vegan",
+      "spanish",
+      "pilaf",
+      "gluten-free"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-crumbly-brazilian-dates-bowl--keto",
+    "title": "Smoky Brazilian Keto Meatballs",
+    "tags": [
+      "keto",
+      "snack",
+      "meatballs",
+      "smoky"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-spanish-chicken-roast--chinese",
+    "title": "Smoky Chicken with Spanish Roast Vegetables",
+    "tags": [
+      "chinese",
+      "spanish",
+      "smoky",
+      "roast"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
+    "shard": "s"
+  },
+  {
+    "slug": "sugar-free-tostadas--indian",
+    "title": "Tostada Pakora",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
+    "shard": "s"
+  },
+  {
+    "slug": "sugar-free-tostadas--thai",
+    "title": "Spicy Thai Tostada",
+    "tags": [
+      "thai",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoke-hot-kenyan-stilton-cheese-gratin--keto",
+    "title": "Kenyan Smoked Stilton Gratin",
+    "tags": [
+      "smoked-cheese",
+      "stilton",
+      "keto",
+      "gratin"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-umami-tunisian-tomato-stir-fry--french",
+    "title": "Coq au Vin Tarte",
+    "tags": [
+      "coq-au-vin",
+      "chicken",
+      "mushrooms",
+      "red-wine",
+      "puff-pastry"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 70,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-uruguayan-split-peas-roast--indian",
+    "title": "Roast Pea and Split Pea Curry",
+    "tags": [
+      "curry",
+      "peas",
+      "indian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-ukrainian-mint-bowl--italian",
+    "title": "Italian Mint Salad",
+    "tags": [
+      "italian",
+      "salad",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
     "shard": "s"
   }
 ]
