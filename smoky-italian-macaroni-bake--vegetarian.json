@@ -1,0 +1,81 @@
+{
+  "slug": "smoky-italian-macaroni-bake--vegetarian",
+  "title": "Smoky Mac 'n Cheese",
+  "description": "A comforting, cheesy pasta dish with a smoky twist. This vegetarian take on a classic favorite is perfect for a cozy night in.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "smoky",
+      "amount": "1/4 cup",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "italian",
+      "amount": "2 cups",
+      "notes": "shredded mozzarella"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup",
+      "notes": "grated parmesan"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the macaroni according to package instructions until al dente. Drain and set aside.",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Sprinkle the smoked paprika and cook for another minute.",
+    "Add the shredded mozzarella and grated parmesan to the saucepan.",
+    "Stir until the cheese is melted and well combined.",
+    "Add the cooked macaroni to the cheese sauce and stir until well coated.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the macaroni and cheese to a baking dish.",
+    "Bake in the preheated oven for 20-25 minutes until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mac-and-cheese",
+    "italian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/smoky-italian-macaroni-bake--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:57:50.262Z"
+}
