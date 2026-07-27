@@ -1,0 +1,87 @@
+{
+  "slug": "savory-salsa-verde--thai",
+  "title": "Thai Grilled Chicken with Savory Sauce",
+  "description": "A flavorful and spicy Thai dish featuring grilled chicken in a savory sauce, served with a side of steamed vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "savory",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salsa verde",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together savory, salsa verde, garlic, ginger, fish sauce, brown sugar, and chili flakes.",
+    "3. Brush the mixture onto both sides of the chicken breasts.",
+    "4. Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "5. Let the chicken rest for 5 minutes before slicing.",
+    "6. Serve with a side of steamed vegetables and your favorite Thai-style rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grilled-chicken",
+    "savory-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-salsa-verde--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:23:58.511Z"
+}
