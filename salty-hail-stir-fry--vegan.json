@@ -1,0 +1,75 @@
+{
+  "slug": "salty-hail-stir-fry--vegan",
+  "title": "Vegan Stir Fry",
+  "description": "A quick and easy vegan stir fry made with a variety of vegetables. This dish is perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salty stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": null
+    },
+    {
+      "name": "Broccoli",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of stir-fry sauce in a pan over medium-high heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the broccoli and carrots and cook until tender.",
+    "Add the tofu and stir-fry sauce and cook for an additional 2 minutes.",
+    "Serve the stir-fry over cooked rice.",
+    "Season with additional stir-fry sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan-stir-fry",
+    "vegan-recipe",
+    "stir-fry-recipe"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-hail-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:04:27.740Z"
+}
