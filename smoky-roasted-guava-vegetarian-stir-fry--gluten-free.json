@@ -1,92 +1,79 @@
 {
   "slug": "smoky-roasted-guava-vegetarian-stir-fry--gluten-free",
-  "title": "Pan-Seared Smoky Tofu with Guava Glaze",
-  "description": "A sweet and savory stir-fry dish made with smoky tofu, roasted vegetables, and a hint of guava. Perfect for a gluten-free dinner option.",
-  "cuisine": null,
+  "title": "Smoky Guava Stir Fry",
+  "description": "A quick and easy gluten-free stir fry recipe featuring smoky and roasted flavors from guava.",
+  "cuisine": "Asian",
   "diet": [
-    "gluten-free"
+    "gluten-free",
+    "vegetarian"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "smoky tofu",
-      "amount": "1 block",
-      "notes": null
+      "name": "Smoky Guava Sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
     },
     {
-      "name": "roasted vegetables (such as broccoli, carrots, and bell peppers)",
-      "amount": "2 cups",
-      "notes": null
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "gluten-free"
     },
     {
-      "name": "guava jam",
+      "name": "Vegetable Oil",
       "amount": "2 tablespoons",
-      "notes": null
+      "notes": ""
     },
     {
-      "name": "coconut oil",
-      "amount": "1 tablespoon",
-      "notes": null
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
     },
     {
-      "name": "soy sauce (gluten-free)",
-      "amount": "1 tablespoon",
-      "notes": null
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
     },
     {
-      "name": "rice vinegar",
-      "amount": "1 tablespoon",
-      "notes": null
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
     },
     {
-      "name": "garlic",
-      "amount": "2 cloves",
-      "notes": null
-    },
-    {
-      "name": "ginger",
-      "amount": "1-inch piece",
-      "notes": null
-    },
-    {
-      "name": "salt",
-      "amount": "to taste",
-      "notes": null
-    },
-    {
-      "name": "black pepper",
-      "amount": "to taste",
-      "notes": null
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "cubed"
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
-    "Add the garlic and ginger and stir-fry for 1 minute.",
-    "Add the roasted vegetables and stir-fry for 2-3 minutes.",
-    "Add the smoky tofu and stir-fry for 2-3 minutes.",
-    "In a small bowl, whisk together the guava jam, soy sauce, and rice vinegar. Pour the glaze over the tofu and vegetables and stir-fry for an additional 1-2 minutes.",
-    "Season with salt and black pepper to taste.",
-    "Serve hot and enjoy!"
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and bell pepper, cook for 3-4 minutes.",
+    "Add carrots, cook for 4-5 minutes.",
+    "Add tofu, cook for 2-3 minutes.",
+    "Add guava sauce, stir to combine.",
+    "Cook for an additional 1-2 minutes.",
+    "Serve over rice."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
   "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "gluten-free",
     "vegetarian",
-    "stir-fry",
-    "guava"
+    "easy",
+    "lunch",
+    "stir-fry"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 20,
+    "calories": 250,
+    "protein": 15,
     "carbs": 30,
-    "fat": 15
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/smoky-roasted-guava-vegetarian-stir-fry--gluten-free",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T12:29:01.216Z"
+  "createdAt": "2026-07-21T22:56:13.576Z"
 }
