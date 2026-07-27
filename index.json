@@ -9176,17 +9176,14 @@
   },
   {
     "slug": "silky-brazilian-chocolate-mousse",
-    "title": "Silky Brazilian Chocolate Mousse",
+    "title": "Brazilian Chocolate Mousse",
     "tags": [
-      "brazilian-inspired",
-      "chocolate-lovers",
-      "diabetic-friendly",
-      "low-carb",
-      "rich-and-decadent",
-      "special-occasion"
+      "chocolate",
+      "mousse",
+      "dessert"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 120,
     "shard": "s"
   },
   {
@@ -44784,6 +44781,72 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-light-spanish-chicken-paella--french",
+    "title": "Chicken Paella aux Fruits de Mer",
+    "tags": [
+      "french",
+      "spanish",
+      "paella",
+      "seafood",
+      "chicken"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "shattering-winey-tunisian-fregola-pilaf--thai",
+    "title": "Thai-Style Prawn Pilaf",
+    "tags": [
+      "thai",
+      "seafood",
+      "pilaf",
+      "prawns",
+      "one-pot"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sage-broil-bowl--german",
+    "title": "Sage and Bratwurst Broil",
+    "tags": [
+      "german",
+      "grilling",
+      "sausages"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-smoky-argentinian-korean-pear-skewers--gluten-free",
+    "title": "Smoked Sweet and Pear Skewers",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "skewers",
+      "pear",
+      "smoked-sausage"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 31,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-charred-argentinian-chorizo-bowl--japanese",
+    "title": "Smoky Chorizo Ramen",
+    "tags": [
+      "ramen",
+      "chorizo",
+      "smoked-pork"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "s"
   }
 ]
