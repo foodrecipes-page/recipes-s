@@ -1,61 +1,77 @@
 {
   "slug": "sweet-crunchy-australian-apricots-toast--mexican",
-  "title": "Apricot Toast Crunch",
-  "description": "A simple and sweet Mexican-inspired breakfast dish featuring crunchy toast topped with apricots.",
+  "title": "Mexican Apricot Toast",
+  "description": "A sweet and crunchy twist on traditional Mexican toast, topped with caramelized apricots and crunchy ingredients.",
   "cuisine": "mexican",
   "diet": null,
-  "meal": "breakfast",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Australian bread",
-      "amount": "4 slices",
-      "notes": ""
+      "amount": "2 slices",
+      "notes": null
     },
     {
       "name": "Apricots",
       "amount": "1 cup",
-      "notes": ""
-    },
-    {
-      "name": "Crunchy granola",
-      "amount": "1/4 cup",
-      "notes": ""
+      "notes": null
     },
     {
       "name": "Sweet honey",
       "amount": "2 tbsp",
-      "notes": ""
+      "notes": null
+    },
+    {
+      "name": "Crunchy almonds",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Crunchy tortilla chips",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "to taste",
+      "notes": null
     }
   ],
   "instructions": [
-    "Preheat a toaster or toaster oven to 350°F (175°C).",
-    "Toast the Australian bread slices until lightly browned.",
-    "Cut the apricots into small pieces.",
-    "Mix the crunchy granola and sweet honey in a bowl.",
-    "Spread the granola mixture on top of the toasted bread.",
-    "Top with the apricot pieces.",
-    "Serve immediately and enjoy."
+    "Preheat your oven to 375°F (190°C).",
+    "Slice the Australian bread into 1-inch thick slices and toast until lightly browned.",
+    "In a pan, heat 1 tablespoon of honey over medium heat.",
+    "Add the sliced apricots to the pan and cook for 5-7 minutes, or until caramelized.",
+    "Sprinkle the toasted bread with cinnamon and salt.",
+    "Top the toasted bread with caramelized apricots, crunchy almonds, and crunchy tortilla chips.",
+    "Drizzle the remaining 1 tablespoon of honey over the top of the toast.",
+    "Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 5,
-  "cookTimeMin": 2,
-  "totalTimeMin": 7,
-  "servings": 4,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
   "difficulty": "easy",
   "tags": [
-    "apricot",
     "mexican",
+    "snack",
     "breakfast",
-    "sweet",
-    "crunchy"
+    "apricot",
+    "toasted"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 2,
-    "carbs": 40,
-    "fat": 4
+    "calories": 320,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/sweet-crunchy-australian-apricots-toast--mexican",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T00:57:25.779Z"
+  "createdAt": "2026-07-22T02:54:59.561Z"
 }
