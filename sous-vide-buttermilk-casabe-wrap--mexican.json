@@ -1,0 +1,79 @@
+{
+  "slug": "sous-vide-buttermilk-casabe-wrap--mexican",
+  "title": "Mexican Chicken Casabe Wrap",
+  "description": "A twist on traditional Mexican cuisine, this recipe combines the crunch of casabe with the tenderness of sous vide chicken, all wrapped up in a soft tortilla.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": "1 pound"
+    },
+    {
+      "name": "sous vide machine",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "casabe",
+      "amount": "4",
+      "notes": "2-inch diameter"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tortilla wraps",
+      "amount": "4",
+      "notes": "8-inch diameter"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 130°F (54°C).",
+    "Season the chicken breasts with salt and pepper.",
+    "Place the chicken breasts in a sous vide bag with the buttermilk.",
+    "Seal the bag and cook for 2 hours.",
+    "Preheat a skillet over medium-high heat.",
+    "Add the vegetable oil and sear the chicken breasts for 2 minutes per side.",
+    "Warm the tortilla wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by slicing the cooked chicken breasts and placing them on the tortilla, followed by a spoonful of salsa.",
+    "Top with a piece of casabe and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 2,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "casabe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sous-vide-buttermilk-casabe-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:42:48.924Z"
+}
