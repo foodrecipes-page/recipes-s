@@ -1,0 +1,68 @@
+{
+  "slug": "sour-creamy-croatian-cheese-pasta--vegetarian",
+  "title": "Croatian Pasta Bake",
+  "description": "A delicious and easy-to-make vegetarian pasta bake with a creamy Croatian twist. Perfect for a comforting meal.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "120g",
+      "notes": "plain"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "150g",
+      "notes": "mild"
+    },
+    {
+      "name": "croatian cheese",
+      "amount": "50g",
+      "notes": "smoked"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large pan, sauté the onion until softened.",
+    "In a large mixing bowl, combine the sour cream, grated cheese, and smoked Croatian cheese. Mix well.",
+    "Add the cooked pasta to the mixing bowl and toss with the cheesy sauce until coated.",
+    "Transfer the pasta mixture to a baking dish and smooth out the top.",
+    "Bake in the preheated oven for 20-25 minutes, or until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "bake",
+    "vegetarian",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/sour-creamy-croatian-cheese-pasta--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:52:57.336Z"
+}
