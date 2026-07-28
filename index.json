@@ -5832,16 +5832,15 @@
   },
   {
     "slug": "savory-snappy-kenyan-meat-stir-fry",
-    "title": "Savory Snappy Kenyan Meat Stir Fry",
+    "title": "Kenyan-Style Meat Stir Fry",
     "tags": [
-      "dinner-ideas",
-      "high-protein",
-      "indulgent",
-      "kenyan-cuisine",
-      "lacquerware-bowl",
-      "stir-fry"
+      "kenyan",
+      "beef",
+      "chicken",
+      "stir-fry",
+      "meat"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 35,
     "shard": "s"
   },
@@ -32852,14 +32851,15 @@
   },
   {
     "slug": "sweet-and-silky-portuguese-peach-bhuna-stir-fry",
-    "title": "Sweet And Silky Portuguese Peach Bhuna Stir-fry",
+    "title": "Stir Fry with Sweet and Bhuna",
     "tags": [
-      "peach-bhuna-stir-fry",
-      "halal-friendly",
-      "kid-friendly-portuguese-dish"
+      "stir-fry",
+      "sweet-potato",
+      "peach",
+      "bhuna-curry"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -45074,6 +45074,58 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-dense-indulgent-portuguese-tomatoes-tagine--mexican",
+    "title": "Smoky Mexican Tagine Chicken Tacos",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tacos",
+      "smoky",
+      "tagine"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "s"
+  },
+  {
+    "slug": "smoke-hot-creamy-pungent-dates-skillet--japanese",
+    "title": "Japanese Pan-Seared Dates",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "sweet-smoky-argentinian-korean-pear-skewers--mexican",
+    "title": "Korean Beef Skewers with Sweet Smoky Glaze",
+    "tags": [
+      "korean",
+      "mexican",
+      "skewers",
+      "beef"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "smoke-hot-crispy-norteno-totopos-tacos--chinese",
+    "title": "Crispy Tacos with Norteno Twist",
+    "tags": [
+      "chinese",
+      "mexican",
+      "fusion",
+      "tacos"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "s"
   }
 ]
