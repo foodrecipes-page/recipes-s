@@ -1,0 +1,85 @@
+{
+  "slug": "savory-sharp-american-cheese-casserole--mexican",
+  "title": "Mexican Casserole",
+  "description": "A classic Mexican-inspired casserole with ground beef, cheese, and a crunchy topping.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Casserole Cheese Mix",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Savory",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sharp Cheddar Cheese",
+      "amount": "1/2 cup grated"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 package"
+    },
+    {
+      "name": "Tortilla chips",
+      "amount": "1 cup crushed"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Brown the ground beef in a skillet over medium-high heat until fully cooked.",
+    "Add the savory and cook for 1 minute.",
+    "Stir in the American cheese until melted.",
+    "In a separate bowl, mix the casserole cheese mix and shredded cheddar.",
+    "In a 9x13 inch baking dish, create a layer of the ground beef mixture.",
+    "Top with a layer of the cheese mixture.",
+    "Repeat the layers one more time, ending with the cheese on top.",
+    "Sprinkle crushed tortilla chips and chopped cilantro on top.",
+    "Bake for 25 minutes or until the cheese is melted and bubbly.",
+    "Remove from oven and top with a dollop of sour cream.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "beef",
+    "cheese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/savory-sharp-american-cheese-casserole--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:38:30.173Z"
+}
