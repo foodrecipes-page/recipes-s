@@ -1,0 +1,89 @@
+{
+  "slug": "salty-canadian-roast-grill--mexican",
+  "title": "Mexican Roast Chicken Fajitas",
+  "description": "Savory and spicy fajitas with grilled chicken and roasted vegetables, served with warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grilled chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "salty tortillas",
+      "amount": "8",
+      "notes": "flour"
+    },
+    {
+      "name": "roast garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken with salt and pepper.",
+    "Grill chicken for 5-7 minutes per side.",
+    "Let chicken rest for 5 minutes.",
+    "Heat a large skillet over medium-high heat.",
+    "Add diced bacon and cook until crispy.",
+    "Add sliced onion and bell pepper to the skillet.",
+    "Cook until vegetables are tender.",
+    "Slice cooked chicken into strips.",
+    "Add chicken to the skillet with the vegetables.",
+    "Stir in minced garlic and cook for 1 minute.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "fajitas",
+    "grilled",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/salty-canadian-roast-grill--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:50:54.988Z"
+}
