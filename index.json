@@ -18014,10 +18014,16 @@
   },
   {
     "slug": "smoky-juicy-russian-salmon-burger",
-    "title": "Smoky Juicy Russian Salmon Burger",
-    "tags": [],
-    "cuisine": "Russian",
-    "totalTimeMin": null,
+    "title": "Smoky Salmon Burger",
+    "tags": [
+      "salmon",
+      "burger",
+      "grilled",
+      "healthy",
+      "easy"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 18,
     "shard": "s"
   },
   {
@@ -44912,6 +44918,34 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 20,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-chewy-syrian-english-muffin-bake--chinese",
+    "title": "Sour Syrup Chinese Muffin Buns",
+    "tags": [
+      "chinese",
+      "breakfast",
+      "buns",
+      "sour-syrup",
+      "yeast"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-springy-vietnamese-cashew-noodles--thai",
+    "title": "Thai Cashew Noodle Salad",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "salad",
+      "noodles",
+      "cashew"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
     "shard": "s"
   }
 ]
