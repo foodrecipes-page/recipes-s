@@ -1,0 +1,72 @@
+{
+  "slug": "silky-mexican-beef-tacos",
+  "title": "Tacos with Beef Filling",
+  "description": "A classic Mexican dish with a flavorful beef filling, served in tacos.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "0.5 pounds"
+    },
+    {
+      "name": "Taco Seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Silky Taco Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mexican Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped (optional)"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "shredded (optional)"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "diced (optional)"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a pan over medium-high heat.",
+    "Add taco seasoning and cook according to package instructions.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef mixture onto a tortilla, followed by a spoonful of silky taco sauce, some shredded cheese, and any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "beef",
+    "tacos",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/silky-mexican-beef-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:17:00.353Z"
+}
