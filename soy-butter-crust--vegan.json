@@ -1,0 +1,55 @@
+{
+  "slug": "soy-butter-crust--vegan",
+  "title": "Vegan Crust Pie",
+  "description": "A delicious vegan pie made with a flaky crust and a creamy filling.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Soy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup (melted)",
+      "notes": "Make sure to use a vegan butter substitute"
+    },
+    {
+      "name": "Crust",
+      "amount": "1 sheet (homemade or store-bought)",
+      "notes": "Make sure it's vegan"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Roll out the crust and place it in a pie dish.",
+    "3. In a separate bowl, mix together the soy and melted butter.",
+    "4. Pour the soy mixture into the pie crust.",
+    "5. Bake for 20-25 minutes, or until the crust is golden brown.",
+    "6. Let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "pie",
+    "dessert",
+    "soy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/soy-butter-crust--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:12:11.836Z"
+}
