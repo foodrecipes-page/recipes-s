@@ -44411,17 +44411,14 @@
   },
   {
     "slug": "soft-spanish-onion-pilaf--mexican",
-    "title": "Mexican Pilaf Bowl",
+    "title": "Mexican Spanish Rice Bowl",
     "tags": [
+      "chicken",
       "mexican",
-      "pilaf",
-      "spanish rice",
-      "onion",
-      "cumin",
-      "chili powder"
+      "rice-bowl"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "s"
   },
   {
@@ -45538,6 +45535,109 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 15,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-snappy-kenyan-meat-stir-fry--vegan",
+    "title": "Kenyan-Style Stir Fry",
+    "tags": [
+      "kenyan",
+      "stir-fry",
+      "vegan",
+      "easy",
+      "quick"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-cooked-slovakian-lard-tagine--keto",
+    "title": "Slovakian Lard and Tagine Dish",
+    "tags": [
+      "slovakian",
+      "lard",
+      "tagine",
+      "keto",
+      "pork"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 315,
+    "shard": "s"
+  },
+  {
+    "slug": "sweetly-steamed-vietnamese-beetroot-pho--german",
+    "title": "Beetroot Pho with German Twist",
+    "tags": [
+      "german",
+      "vietnamese",
+      "beetroot",
+      "pho",
+      "soup"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "slow-simmered-american-white-bean-casserole--gluten-free",
+    "title": "Creamy White Bean Casserole",
+    "tags": [
+      "gluten-free",
+      "beans",
+      "casserole"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "shattering-resinous-slovakian-peanut-hash--vegan",
+    "title": "Vegan Peanut Hash",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "brunch"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 40,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-egyptian-smoky-lentils-stew--keto",
+    "title": "Smoky Lentil Stew",
+    "tags": [
+      "keto",
+      "lentil-stew",
+      "smoky"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-smoked-beef-stir-fry--japanese",
+    "title": "Japanese Smoked Beef Stir Fry",
+    "tags": [
+      "japanese",
+      "beef",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-gooey-filipino-beef-bistek--vegetarian",
+    "title": "Vegetarian Bistek",
+    "tags": [
+      "vegetarian",
+      "filipino",
+      "mushrooms",
+      "grilled"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
     "shard": "s"
   }
 ]
