@@ -1,97 +1,60 @@
 {
   "slug": "soft-spanish-onion-pilaf--mexican",
-  "title": "Mexican Pilaf Bowl",
-  "description": "A flavorful and spicy Mexican-inspired pilaf dish made with Spanish rice, onions, and spices. Serve as a main course or side dish.",
+  "title": "Mexican Spanish Rice Bowl",
+  "description": "A flavorful Mexican-inspired dish featuring Spanish rice, soft chicken, and sautéed onion.",
   "cuisine": "mexican",
   "diet": [
-    null
+    "gluten-free"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "Spanish rice",
-      "amount": "1 cup"
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
     },
     {
-      "name": "Onion",
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "soft onion",
       "amount": "1 medium",
       "notes": "chopped"
     },
     {
-      "name": "Soft tortillas",
-      "amount": "4",
-      "notes": "for serving"
-    },
-    {
-      "name": "Pilaf",
-      "amount": "1 cup"
-    },
-    {
-      "name": "Cumin",
-      "amount": "1 tsp",
-      "notes": "ground"
-    },
-    {
-      "name": "Chili powder",
-      "amount": "1 tsp",
-      "notes": "ground"
-    },
-    {
-      "name": "Tomatoes",
-      "amount": "1 can",
-      "notes": "diced"
-    },
-    {
-      "name": "Shredded cheese",
-      "amount": "1 cup",
-      "notes": "optional"
-    },
-    {
-      "name": "Beans",
-      "amount": "1 cup",
-      "notes": "optional"
-    },
-    {
-      "name": "Salsa",
-      "amount": "1 cup",
-      "notes": "optional"
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "boiled and cooled"
     }
   ],
   "instructions": [
     "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
-    "Add the chopped onion and cook until softened, about 3-4 minutes.",
-    "Add the cumin and chili powder and cook for 1 minute, stirring constantly.",
-    "Add the Spanish rice and cook for 2-3 minutes, stirring frequently.",
-    "Add the pilaf and cook for 2-3 minutes, stirring frequently.",
-    "Add the diced tomatoes, shredded cheese, beans, and salsa (if using). Stir to combine.",
-    "Season with salt and pepper to taste.",
-    "Serve the pilaf mixture in a bowl and top with additional shredded cheese, beans, and salsa (if desired).",
-    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
-    "Serve the pilaf bowl with warm tortillas on the side.",
-    "Garnish with chopped fresh cilantro (if desired).",
-    "Serve immediately and enjoy!"
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the chicken breast and cook until browned and cooked through, about 5-6 minutes.",
+    "Add the Spanish rice and stir to combine with the chicken and onion.",
+    "Cook for an additional 2-3 minutes, stirring frequently.",
+    "Serve the Spanish rice mixture over the pilaf and enjoy!"
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
+    "chicken",
     "mexican",
-    "pilaf",
-    "spanish rice",
-    "onion",
-    "cumin",
-    "chili powder"
+    "rice-bowl"
   ],
   "nutrition": {
-    "calories": 450,
-    "protein": 20,
-    "carbs": 60,
-    "fat": 20
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 18
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/soft-spanish-onion-pilaf--mexican",
   "providerUsed": "groq",
-  "createdAt": "2026-07-22T03:02:00.791Z"
+  "createdAt": "2026-07-23T03:33:03.203Z"
 }
