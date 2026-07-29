@@ -1,11 +1,9 @@
 {
   "slug": "shattering-rich-malaysian-shrimp-noodle--french",
-  "title": "Shrimp Noodle Bouillabaisse",
-  "description": "A French-inspired seafood stew originating from Marseille, featuring shrimp and noodles. Serve with a side of crusty bread.",
+  "title": "French Shrimp and Noodle Stir-Fry",
+  "description": "A quick and flavorful French-inspired stir-fry made with succulent shrimp, rich noodles, and a hint of malaysian spices.",
   "cuisine": "french",
-  "diet": [
-    "lacto-ovo-vegetarian"
-  ],
+  "diet": null,
   "meal": "lunch",
   "ingredients": [
     {
@@ -14,29 +12,19 @@
       "notes": "peeled and deveined"
     },
     {
-      "name": "malaysian noodle",
-      "amount": "8 ounces",
-      "notes": "rice noodles"
+      "name": "noodle",
+      "amount": "1 cup",
+      "notes": "rich french noodle"
     },
     {
-      "name": "rich fish stock",
-      "amount": "2 cups",
-      "notes": "homemade or store-bought"
+      "name": "malaysian",
+      "amount": "2 teaspoons",
+      "notes": "malaysian chili paste"
     },
     {
-      "name": "shattering celery",
-      "amount": "2 stalks",
-      "notes": "chopped"
-    },
-    {
-      "name": "lemon",
-      "amount": "1",
-      "notes": "juiced"
-    },
-    {
-      "name": "garlic",
-      "amount": "3 cloves",
-      "notes": "minced"
+      "name": "shattering",
+      "amount": "2 cloves",
+      "notes": "shattering garlic"
     },
     {
       "name": "olive oil",
@@ -44,45 +32,49 @@
       "notes": null
     },
     {
-      "name": "tomato paste",
-      "amount": "2 tablespoons",
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
       "notes": null
     },
     {
-      "name": "white wine",
-      "amount": "1 cup",
-      "notes": "dry"
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
     }
   ],
   "instructions": [
-    "Heat the oil in a large pot over medium heat. Add the garlic and cook for 1 minute.",
-    "Add the celery and cook for 2 minutes.",
-    "Add the tomato paste and cook for 1 minute.",
-    "Add the wine and cook until reduced by half.",
-    "Add the fish stock and bring to a boil.",
-    "Add the shrimp and cook until pink.",
-    "Add the noodles and cook until tender.",
-    "Season with lemon juice and serve.",
-    "Garnish with chopped herbs, if desired."
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the shattering garlic and cook for 1-2 minutes until fragrant.",
+    "Add the malaysian chili paste and cook for 1 minute.",
+    "Add the shrimp and cook for 2-3 minutes until pink and cooked through.",
+    "Add the noodle and cook for 2-3 minutes until heated through.",
+    "Stir in the lemon juice and season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
-    "seafood",
-    "stew",
-    "french-cuisine"
+    "French",
+    "stir-fry",
+    "shrimp",
+    "noodle"
   ],
   "nutrition": {
     "calories": 320,
     "protein": 26,
     "carbs": 30,
-    "fat": 12
+    "fat": 14
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/shattering-rich-malaysian-shrimp-noodle--french",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T15:19:29.421Z"
+  "createdAt": "2026-07-23T00:43:06.304Z"
 }
