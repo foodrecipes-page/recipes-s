@@ -21575,18 +21575,15 @@
   },
   {
     "slug": "smoky-spicy-algerian-lentil-tagine",
-    "title": "Smoky Spicy Algerian Lentil Tagine",
+    "title": "Smoky Algerian Lentil Stew",
     "tags": [
-      "spicy",
-      "smoky",
-      "tagine",
       "algerian",
-      "vegetarian",
-      "jain-friendly",
-      "lentil"
+      "lentil",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "s"
   },
   {
@@ -43897,14 +43894,15 @@
   },
   {
     "slug": "shattering-rich-malaysian-shrimp-noodle--french",
-    "title": "Shrimp Noodle Bouillabaisse",
+    "title": "French Shrimp and Noodle Stir-Fry",
     "tags": [
-      "seafood",
-      "stew",
-      "french-cuisine"
+      "French",
+      "stir-fry",
+      "shrimp",
+      "noodle"
     ],
     "cuisine": "french",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "s"
   },
   {
@@ -45408,6 +45406,72 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "spicy-silky-slovak-salt-cod-stir-fry--mexican",
+    "title": "Spicy Cod Fritters",
+    "tags": [
+      "mexican",
+      "fish",
+      "fritters"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "s"
+  },
+  {
+    "slug": "savory-crumbly-chinese-pistachio-dumplings--gluten-free",
+    "title": "Savory Chinese Dumplings",
+    "tags": [
+      "chinese",
+      "dinner",
+      "dumplings",
+      "gluten-free"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "s"
+  },
+  {
+    "slug": "sour-tender-syrian-lamb-kebabs--keto",
+    "title": "Grilled Lamb Kebabs",
+    "tags": [
+      "keto",
+      "grilled",
+      "lamb",
+      "kebabs",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "s"
+  },
+  {
+    "slug": "silky-night-uruguayan-grassy-empanadas--french",
+    "title": "French Empanada with Grassland Gruyère",
+    "tags": [
+      "empanada",
+      "french",
+      "gruyere",
+      "chicken",
+      "baked"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "s"
+  },
+  {
+    "slug": "smoky-light-malaysian-fish-ceviche--mexican",
+    "title": "Mexican Smoked Fish Tacos",
+    "tags": [
+      "fish-tacos",
+      "mexican-cuisine",
+      "smoked-paprika",
+      "ceviche"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
     "shard": "s"
   }
 ]
